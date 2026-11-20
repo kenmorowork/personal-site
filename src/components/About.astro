@@ -1,0 +1,75 @@
+---
+import type { Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+
+const coverage = isJa
+  ? [
+      { area: 'インダストリアル', detail: '工作機械、工場自動化、重電・変圧器、建設機械、データセンター向け電力設備など' },
+      { area: '素材', detail: '電線・光ファイバー、電子材料、半導体関連素材など' },
+      { area: 'エネルギー', detail: '電力インフラ、送配電、AIデータセンターの電力需要など' },
+    ]
+  : [
+      { area: 'Industrials', detail: 'Machine tools, factory automation, heavy electrical equipment and transformers, construction machinery, and power equipment for data centres.' },
+      { area: 'Materials', detail: 'Electric wires and optical fibre, electronic materials, and semiconductor-related materials.' },
+      { area: 'Energy', detail: 'Power infrastructure, transmission and distribution, and the power demand of AI data centres.' },
+    ];
+---
+
+<h1 class="font-display text-3xl font-semibold tracking-tight">About / CV</h1>
+
+<section class="mt-8">
+  <h2 class="font-display text-xl font-semibold">{isJa ? 'プロフィール' : 'Profile'}</h2>
+  <p class="mt-3 max-w-prose leading-relaxed">
+    {
+      isJa
+        ? 'Ken Morozumi。東京を拠点とするセルサイド株式アナリストで、インダストリアル・素材・エネルギー（IME）をカバーしています。企業への取材と決算・統計の数字をもとに、業界の変化を追っています。'
+        : 'Ken Morozumi is a sell-side equity analyst based in Tokyo, covering industrials, materials and energy (IME). His work follows industry change through company interviews and the numbers in earnings and statistics.'
+    }
+  </p>
+</section>
+
+<section class="mt-10">
+  <h2 class="font-display text-xl font-semibold">{isJa ? 'カバー領域' : 'Coverage areas'}</h2>
+  <dl class="mt-4 space-y-4">
+    {
+      coverage.map((c) => (
+        <div>
+          <dt class="font-medium">{c.area}</dt>
+          <dd class="mt-1 max-w-prose text-neutral-600 dark:text-neutral-400">{c.detail}</dd>
+        </div>
+      ))
+    }
+  </dl>
+</section>
+
+<section class="mt-10">
+  <h2 class="font-display text-xl font-semibold">{isJa ? '発信活動' : 'Publishing'}</h2>
+  <ul class="mt-3 list-disc space-y-2 pl-5 leading-relaxed">
+    <li>
+      {
+        isJa
+          ? '短報：市場・業界ニュースを数字と出典つきで要約し、XとThreadsに1日3回（朝・昼・夜）配信しています。'
+          : 'Short reports: market and industry news summarised with numbers and sources, posted to X and Threads three times a day (morning, noon, night).'
+      }
+    </li>
+    <li>
+      {
+        isJa
+          ? '長文レポート：週3回（月曜＝週間レーダー、水曜＝深掘り、土曜＝週間レビュー）をSubstackとnoteで無料公開しています。'
+          : 'Long-form reports: three times a week (Monday weekly radar, Wednesday deep-dive, Saturday week-in-review), published free on Substack and note.'
+      }
+    </li>
+    <li>
+      {
+        isJa
+          ? '有料メルマガは将来の計画として準備中です（未開始）。'
+          : 'A paid newsletter is planned for the future and is in preparation (not yet launched).'
+      }
+    </li>
+  </ul>
+</section>

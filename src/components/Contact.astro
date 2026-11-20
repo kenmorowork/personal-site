@@ -1,0 +1,63 @@
+---
+import { CHANNELS, EMAIL_PLACEHOLDER, type Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+
+// Only the social channels make sense as contact routes today;
+// X and Threads come first because DMs live there.
+const contactChannels = CHANNELS.filter((c) =>
+  ['X', 'Threads', 'Instagram', 'Substack', 'note'].includes(c.name),
+);
+---
+
+<h1 class="font-display text-3xl font-semibold tracking-tight">Contact</h1>
+
+<section class="mt-8">
+  <h2 class="font-display text-xl font-semibold">{isJa ? 'メール' : 'Email'}</h2>
+  <p class="mt-3 max-w-prose leading-relaxed">
+    {
+      isJa
+        ? '独自ドメインのメールアドレスは準備中です。公開までは、下記のSNSのDMからご連絡ください。'
+        : 'A custom-domain email address is being set up. Until it is live, please reach me through direct messages on the channels below.'
+    }
+  </p>
+  <p class="mt-3 text-neutral-500 dark:text-neutral-400">
+    {/* Placeholder — replace with the real address once the domain mail is live. */}
+    {EMAIL_PLACEHOLDER}
+    <span class="ml-2 rounded-full bg-neutral-100 px-2 py-0.5 text-xs dark:bg-neutral-900">
+      {isJa ? '設定予定' : 'coming soon'}
+    </span>
+  </p>
+</section>
+
+<section class="mt-10">
+  <h2 class="font-display text-xl font-semibold">{isJa ? 'SNS' : 'Social'}</h2>
+  <ul class="mt-4 divide-y divide-neutral-200 dark:divide-neutral-800">
+    {
+      contactChannels.map((c) => (
+        <li class="flex flex-wrap items-baseline gap-x-4 py-3">
+          <a
+            href={c.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="font-medium underline-offset-4 hover:underline"
+          >
+            {c.name}
+          </a>
+          <span class="text-sm text-neutral-500 dark:text-neutral-400">{c.handle}</span>
+        </li>
+      ))
+    }
+  </ul>
+  <p class="mt-4 text-sm text-neutral-500 dark:text-neutral-400">
+    {
+      isJa
+        ? 'DMはXとThreadsが最も早く確認できます。'
+        : 'Direct messages are checked fastest on X and Threads.'
+    }
+  </p>
+</section>

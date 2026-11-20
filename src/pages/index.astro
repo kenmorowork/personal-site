@@ -1,0 +1,46 @@
+---
+// Root: send visitors to their language tree, with manual links as fallback.
+import '../styles/global.css';
+import { NAME, TAGLINE } from '../data/site';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{NAME} — {TAGLINE}</title>
+    <meta
+      name="description"
+      content="Ken Morozumi — JP Equity Analyst (Industrials, Materials, others) | Tokyo |"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script is:inline>
+      (function () {
+        var ja =
+          (navigator.language || '').toLowerCase().indexOf('ja') === 0;
+        window.location.replace(ja ? '/ja/' : '/en/');
+      })();
+    </script>
+  </head>
+  <body
+    class="flex min-h-screen items-center justify-center bg-white px-6 text-neutral-900 dark:bg-neutral-950 dark:text-neutral-100"
+  >
+    <main class="text-center">
+      <h1 class="font-display text-3xl font-semibold tracking-tight">{NAME}</h1>
+      <p class="mt-3 text-neutral-600 dark:text-neutral-400">{TAGLINE}</p>
+      <p class="mt-8 flex items-center justify-center gap-4">
+        <a
+          href="/ja/"
+          class="rounded-full border border-neutral-300 px-5 py-2 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
+          >日本語</a
+        >
+        <a
+          href="/en/"
+          class="rounded-full border border-neutral-300 px-5 py-2 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
+          >English</a
+        >
+      </p>
+    </main>
+  </body>
+</html>

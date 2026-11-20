@@ -1,0 +1,71 @@
+---
+import { NAME, TAGLINE, CHANNELS, type Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+---
+
+<section>
+  <h1 class="font-display text-4xl font-semibold tracking-tight sm:text-5xl">
+    {NAME}
+  </h1>
+  <p class="mt-3 text-base text-neutral-600 dark:text-neutral-400">{TAGLINE}</p>
+  <p class="mt-8 max-w-prose leading-relaxed">
+    {
+      isJa
+        ? '東京を拠点とするセルサイド株式アナリストです。インダストリアル・素材・エネルギー（IME）をカバーし、市場と業界の短報を1日3回、長文レポートを週3回（月・水・土）配信しています。数字と一次情報から業界を読むことを仕事にしています。'
+        : 'I am a sell-side equity analyst based in Tokyo, covering industrials, materials and energy (IME). I publish short market and industry reports three times a day, and long-form reports three times a week (Mon / Wed / Sat) — reading industries through numbers and primary sources.'
+    }
+  </p>
+</section>
+
+<section class="mt-14">
+  <h2 class="font-display text-xl font-semibold">
+    {isJa ? '発信チャネル' : 'Where I publish'}
+  </h2>
+  <ul class="mt-5 divide-y divide-neutral-200 dark:divide-neutral-800">
+    {
+      CHANNELS.map((c) => (
+        <li class="flex flex-wrap items-baseline gap-x-4 gap-y-1 py-3">
+          <a
+            href={c.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="font-medium underline-offset-4 hover:underline"
+          >
+            {c.name}
+          </a>
+          <span class="text-sm text-neutral-500 dark:text-neutral-400">{c.handle}</span>
+          <span class="w-full text-sm text-neutral-600 dark:text-neutral-400 sm:w-auto sm:flex-1 sm:text-right">
+            {c.blurb[lang]}
+          </span>
+        </li>
+      ))
+    }
+  </ul>
+</section>
+
+<section
+  class="mt-14 rounded-lg border border-neutral-200 p-6 dark:border-neutral-800"
+>
+  <h2 class="font-display text-xl font-semibold">
+    {isJa ? '有料メルマガ' : 'Newsletter'}
+  </h2>
+  <p class="mt-3 leading-relaxed text-neutral-600 dark:text-neutral-400">
+    {
+      isJa
+        ? '有料メルマガは準備中です。開始までは、長文レポートをSubstackとnoteで無料公開しています。'
+        : 'A paid newsletter is in preparation. Until it launches, all long-form reports are published free on Substack and note.'
+    }
+  </p>
+  <p class="mt-4">
+    <span
+      class="inline-block rounded-full bg-neutral-100 px-3 py-1 text-xs font-medium tracking-wide text-neutral-600 dark:bg-neutral-900 dark:text-neutral-400"
+    >
+      {isJa ? '近日公開' : 'Coming soon'}
+    </span>
+  </p>
+</section>

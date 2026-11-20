@@ -1,0 +1,122 @@
+---
+import '../styles/global.css';
+import { NAME, TAGLINE, type Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  /** URL of the same page in the other language. */
+  altHref: string;
+}
+
+const { lang, title, description, altHref } = Astro.props;
+const isJa = lang === 'ja';
+const base = isJa ? '/ja' : '/en';
+
+const nav = isJa
+  ? [
+      { href: '/ja/', label: 'ホーム' },
+      { href: '/ja/about/', label: 'About' },
+      { href: '/ja/works/', label: 'Works' },
+      { href: '/ja/contact/', label: 'Contact' },
+    ]
+  : [
+      { href: '/en/', label: 'Home' },
+      { href: '/en/about/', label: 'About' },
+      { href: '/en/works/', label: 'Works' },
+      { href: '/en/contact/', label: 'Contact' },
+    ];
+
+const year = new Date().getFullYear();
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script is:inline>
+      // Apply the saved (or system) colour scheme before first paint.
+      (function () {
+        try {
+          var t = localStorage.getItem('theme');
+          if (
+            t === 'dark' ||
+            (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)
+          ) {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body
+    class="min-h-screen bg-white text-neutral-900 antialiased dark:bg-neutral-950 dark:text-neutral-100"
+  >
+    <header
+      class="border-b border-neutral-200 dark:border-neutral-800"
+    >
+      <div
+        class="mx-auto flex max-w-3xl flex-wrap items-center gap-x-6 gap-y-2 px-6 py-4"
+      >
+        <a href={`${base}/`} class="font-display text-lg font-semibold tracking-tight">
+          {NAME}
+        </a>
+        <nav class="flex items-center gap-4 text-sm text-neutral-600 dark:text-neutral-400">
+          {
+            nav.map((item) => (
+              <a class="hover:text-neutral-900 dark:hover:text-neutral-100" href={item.href}>
+                {item.label}
+              </a>
+            ))
+          }
+        </nav>
+        <div class="ml-auto flex items-center gap-3 text-sm">
+          <a
+            href={altHref}
+            class="rounded-full border border-neutral-300 px-3 py-1 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
+            aria-label={isJa ? 'Switch to English' : '日本語に切り替え'}
+          >
+            {isJa ? 'EN' : '日本語'}
+          </a>
+          <button
+            id="theme-toggle"
+            type="button"
+            class="rounded-full border border-neutral-300 px-3 py-1 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
+            aria-label={isJa ? 'ダークモード切り替え' : 'Toggle dark mode'}
+          >
+            {isJa ? 'ダーク' : 'Dark'}
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="mx-auto max-w-3xl px-6 py-12">
+      <slot />
+    </main>
+
+    <footer class="border-t border-neutral-200 dark:border-neutral-800">
+      <div
+        class="mx-auto flex max-w-3xl flex-col gap-2 px-6 py-8 text-sm text-neutral-500 dark:text-neutral-400"
+      >
+        <p>{TAGLINE}</p>
+        <p>© {year} {NAME}</p>
+      </div>
+    </footer>
+
+    <script is:inline>
+      document
+        .getElementById('theme-toggle')
+        ?.addEventListener('click', function () {
+          var dark = document.documentElement.classList.toggle('dark');
+          try {
+            localStorage.setItem('theme', dark ? 'dark' : 'light');
+          } catch (e) {}
+        });
+    </script>
+  </body>
+</html>

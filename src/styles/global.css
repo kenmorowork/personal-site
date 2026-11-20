@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Class-based dark mode (toggled by the button in the header). */
+@custom-variant dark (&:where(.dark, .dark *));
+
+body {
+  font-family:
+    ui-sans-serif, system-ui, -apple-system, "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+}
+
+.font-display {
+  font-family:
+    ui-serif, Georgia, "Times New Roman", "Hiragino Mincho ProN",
+    "Yu Mincho", serif;
+}

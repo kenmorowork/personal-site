@@ -1,0 +1,69 @@
+---
+import { CHANNELS, type Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+---
+
+<h1 class="font-display text-3xl font-semibold tracking-tight">Works / Content</h1>
+
+<p class="mt-6 max-w-prose leading-relaxed">
+  {
+    isJa
+      ? '発信は2つのリズムで回しています。短報は1日3回（朝・昼・夜）にXとThreadsへ、長文レポートは週3回（月・水・土）にSubstackとnoteへ。いずれも数字と出典を明示し、結論から書く形式で統一しています。'
+      : 'Publishing runs on two rhythms: short reports three times a day (morning, noon, night) on X and Threads, and long-form reports three times a week (Mon / Wed / Sat) on Substack and note — all written conclusion-first, with numbers and sources shown.'
+  }
+</p>
+
+<div class="mt-10 grid gap-4 sm:grid-cols-2">
+  {
+    CHANNELS.map((c) => (
+      <a
+        href={c.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group rounded-lg border border-neutral-200 p-5 transition hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600"
+      >
+        <div class="flex items-baseline justify-between gap-2">
+          <span class="font-display text-lg font-semibold">{c.name}</span>
+          <span class="text-sm text-neutral-500 dark:text-neutral-400">{c.handle}</span>
+        </div>
+        <p class="mt-2 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+          {c.blurb[lang]}
+        </p>
+        <p class="mt-3 text-sm font-medium text-neutral-900 group-hover:underline dark:text-neutral-100">
+          {isJa ? '開く →' : 'Open →'}
+        </p>
+      </a>
+    ))
+  }
+</div>
+
+<section class="mt-12">
+  <h2 class="font-display text-xl font-semibold">{isJa ? '配信スケジュール' : 'Schedule'}</h2>
+  <ul class="mt-4 divide-y divide-neutral-200 dark:divide-neutral-800">
+    <li class="flex flex-wrap gap-x-4 py-3">
+      <span class="w-40 font-medium">{isJa ? '短報' : 'Short reports'}</span>
+      <span class="text-neutral-600 dark:text-neutral-400">
+        {isJa ? '毎日 3回（朝・昼・夜）— X / Threads' : 'Daily, 3 times (morning / noon / night) — X / Threads'}
+      </span>
+    </li>
+    <li class="flex flex-wrap gap-x-4 py-3">
+      <span class="w-40 font-medium">{isJa ? '長文レポート' : 'Long-form reports'}</span>
+      <span class="text-neutral-600 dark:text-neutral-400">
+        {isJa
+          ? '週3回（月＝週間レーダー、水＝深掘り、土＝週間レビュー）— Substack / note'
+          : '3 times a week (Mon = weekly radar, Wed = deep-dive, Sat = week-in-review) — Substack / note'}
+      </span>
+    </li>
+    <li class="flex flex-wrap gap-x-4 py-3">
+      <span class="w-40 font-medium">{isJa ? '有料メルマガ' : 'Paid newsletter'}</span>
+      <span class="text-neutral-600 dark:text-neutral-400">
+        {isJa ? '準備中（近日公開）' : 'In preparation (coming soon)'}
+      </span>
+    </li>
+  </ul>
+</section>
