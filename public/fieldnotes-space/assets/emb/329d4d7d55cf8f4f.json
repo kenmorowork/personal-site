@@ -1,0 +1,144 @@
+{
+  "slug": "perovskite",
+  "title": "ペロブスカイト太陽電池",
+  "sub": "PEROVSKITE · 実証から商業量産へ",
+  "thesis": "市場規模の前に、量産歩留まり、長期信頼性、施工、顧客の支払意思を確認する。積水化学の能力・売上目標は会社計画として扱い、実績や市場予測と混ぜない。",
+  "metrics": [
+    {
+      "label": "第1ライン",
+      "value": "100 MW",
+      "period": "2027年度稼働予定",
+      "kind": "会社計画",
+      "source": "sekisui"
+    },
+    {
+      "label": "売上計画",
+      "value": "250億円〜",
+      "period": "2028年度",
+      "kind": "会社計画",
+      "source": "sekisui"
+    },
+    {
+      "label": "能力目標",
+      "value": "1 GW級",
+      "period": "2030年度",
+      "kind": "会社目標",
+      "source": "sekisui"
+    }
+  ],
+  "flow": [
+    "基材・透明電極",
+    "発電層の形成",
+    "電極形成",
+    "封止・バリア",
+    "モジュール検査",
+    "施工・屋外検証"
+  ],
+  "sections": [
+    [
+      "製品の位置づけ",
+      "本稿の中心は積水化学のフィルム型。シリコンとのタンデム型とは用途・構造・量産工程が異なる。薄膜で軽量な製品は耐荷重制約のある屋根や壁への展開を狙うが、設置できる面積がそのまま採算市場になるわけではない。"
+    ],
+    [
+      "仕様と計画を分離",
+      "2026年1月資料はフィルム型の重量約1kg/㎡、厚み約1mmを示す。研究セルの変換効率を量産モジュールの性能として用いない。屋外劣化、封止、電気安全、施工条件の確認を伴う。<a class=\"cite\" href=\"#source-sekisui\">[sekisui]</a>"
+    ],
+    [
+      "能力と売上の時間差",
+      "100MWの第1ラインは2027年度稼働予定、250億円以上の売上は2028年度計画。2030年度は1GW級・売上1,500〜2,000億円目標。立上げ期間があるため能力と当期販売量を等置しない。<a class=\"cite\" href=\"#source-sekisui\">[sekisui]</a>"
+    ],
+    [
+      "資金投入を読む",
+      "第1ライン投資900億円、第2ライン100MW・430億円以上、第3ライン600〜800MW・1,800億円以上は会社資料上の計画・構想。後続ラインまでの投資と売上目標を結び、補助金・減価償却・稼働率を別途確認する。<a class=\"cite\" href=\"#source-sekisui\">[sekisui]</a>"
+    ],
+    [
+      "利益モデルの条件",
+      "売上計画÷能力は実現ASPではない。売上には販売面積、実効W/㎡、製品構成、施工範囲が影響する。2025年Q&Aの1GW段階営業利益率10%程度は概算見解で、確定ガイダンスとは扱わない。本稿は独自売上予想・目標株価を置かない。<a class=\"cite\" href=\"#source-sekisuiqa\">[sekisuiqa]</a>"
+    ],
+    [
+      "商業化ゲートと反証",
+      "量産設備の完成、良品出荷、施工認定、継続発注、長期保証費の順に証拠を確認する。反証は大面積化での歩留まり低下、封止劣化、工期・費用増、支援制度への過度な依存。ヨウ素など原料市場への影響は、実測使用原単位が未確認のため数量換算しない。"
+    ]
+  ],
+  "rows": [
+    [
+      "第1ライン能力",
+      "2027年度稼働予定",
+      "100",
+      "MW",
+      "会社計画",
+      "sekisui"
+    ],
+    [
+      "売上",
+      "2028年度",
+      "250以上",
+      "億円",
+      "会社計画",
+      "sekisui"
+    ],
+    [
+      "能力",
+      "2030年度",
+      "1級",
+      "GW",
+      "会社目標",
+      "sekisui"
+    ],
+    [
+      "売上",
+      "2030年度",
+      "1,500〜2,000",
+      "億円",
+      "会社目標",
+      "sekisui"
+    ],
+    [
+      "第1ライン投資",
+      "2026/1資料時点",
+      "900",
+      "億円",
+      "会社計画",
+      "sekisui"
+    ]
+  ],
+  "sources": [
+    "sekisui",
+    "sekisuiqa"
+  ],
+  "chart": null,
+  "source_audit": {
+    "sekisui": {
+      "title": "積水化学 株主向け経営説明会",
+      "url": "https://www.sekisui.co.jp/ir/pdf/event/20260131hs.pdf",
+      "published_or_asof": "2026-01-31",
+      "classification": "会社計画・製品仕様",
+      "caveat": "PDF p17仕様、p21能力・売上計画。2027年度稼働と2028年度売上を分離。"
+    },
+    "sekisuiqa": {
+      "title": "積水化学 ペロブスカイト事業説明会Q&A",
+      "url": "https://www.sekisui.co.jp/ir/event/other/1425673_40089.html",
+      "published_or_asof": "2025-01-07",
+      "classification": "会社見解",
+      "caveat": "1GW段階営業利益率10%程度は当時概算見解。保証されたガイダンスでない。"
+    }
+  },
+  "verified_on": "2026-10-15",
+  "status": "research_report",
+  "independent_forecast": null,
+  "expanded_component_analysis_html": "<section class=\"panel\"><h2>2026年の到達点：事業開始と量産拡大を分ける</h2><p>積水化学は2026年3月27日にフィルム型ペロブスカイト太陽電池SOLAFILの事業開始を発表した。2026年度は既存設備による限定的な生産と供給に向けた協議が示されており、商用出荷完了を示す表現ではない。2027年度の100MWライン稼働計画も別の段階である。<a href=\"https://www.sekisui.co.jp/news/2026/1450530_42699.html\" target=\"_blank\" rel=\"noopener\">公式発表：事業開始のお知らせ</a>。事業開始という表現だけから100MWの生産・販売が実現したとは判断しない。</p><p>この市場では研究セル、モジュール、施工された発電設備を分けて扱う。小面積セルの変換効率が上がっても、封止、配線、製造歩留まり、現場施工、耐久性を通じた商用品の採算が自動的に成立するわけではない。本稿では研究発表の効率値を量産モジュールの実績へ置き換えない。</p></section><section class=\"panel\"><h2>投資と販売の時間軸</h2><div class=\"table-wrap\"><table><thead><tr><th>時点</th><th>会社が示した内容</th><th>分類・留意点</th></tr></thead><tbody><tr><td>2026年3月</td><td>SOLAFIL事業開始</td><td>会社実績。供給能力・販売量とは別</td></tr><tr><td>2027年度</td><td>100MWラインの稼働</td><td>会社計画。稼働初日からの満量販売ではない</td></tr><tr><td>2028年度</td><td>売上250億円以上の目標</td><td>2026年1月資料の会社計画</td></tr><tr><td>2030年度</td><td>1GW、売上1500–2000億円</td><td>同資料の会社目標。第三者需要予測ではない</td></tr></tbody></table></div><p><a href=\"https://www.sekisui.co.jp/ir/pdf/event/20260131hs.pdf\" target=\"_blank\" rel=\"noopener\">2026年1月説明資料：物理21頁</a>。計画値は新しい開示で変わり得る。売上目標を能力で割った数字は、同じ期間の実際の販売量と製品構成が分からない限り、実現販売単価とは呼べない。</p></section><section class=\"panel\"><h2>市場を切り分ける：軽量性を価値に変える条件</h2><p>軽量で柔軟なフィルムの価値は、従来パネルが施工しにくい場所で発電を可能にすることにある。ただし軽量性という仕様だけでは経済価値は決まらない。屋根の構造、固定方法、防水、防火、風荷重、保守動線、保証、既存設備との相性を含めて、導入前後の総工事費と発電収入を比較する必要がある。</p><div class=\"table-wrap\"><table><thead><tr><th>用途の検討軸</th><th>比較すべき費用・性能</th><th>必要な証拠</th></tr></thead><tbody><tr><td>耐荷重に制約のある屋根</td><td>補強工事の有無、固定費用</td><td>構造・施工の確認資料</td></tr><tr><td>曲面や特殊形状</td><td>設置面積、配線、施工時間</td><td>現場条件と設計図</td></tr><tr><td>壁面等</td><td>日射条件と発電時間帯</td><td>現場の発電実測</td></tr><tr><td>従来パネル設置可能場所</td><td>発電量、寿命、総工事費</td><td>同じ地点・期間の比較</td></tr></tbody></table></div></section><section class=\"panel\"><h2>量産の単位経済性：面積、W、kWhをつなぐ</h2><p>フィルムの生産面積、モジュールの定格W、実際の発電kWhは別の尺度である。製造原価を面積当たりで管理していても、顧客の投資評価では発電量と寿命が重要になる。定格出力は試験条件付きの値であり、設置場所での年間発電量を直接示さない。</p><p>工場側では材料、塗布・乾燥、封止、検査、廃棄、設備維持と減価償却を考える。歩留まりが変われば販売可能面積当たりの原価が変わる。非開示の塗工速度・稼働率・歩留まりを仮に置いた「量産原価」を事実のように提示しない。本稿は公開値が不足しているため独自の円/W推定を行わない。</p></section><section class=\"panel\"><h2>耐久性と保証を収益モデルに入れる</h2><p>初期効率だけでなく、実環境での出力維持と停止・交換の条件が収益に影響する。促進試験の時間を、そのまま屋外の使用年数へ換算しない。保証を比較する場合、出力保証と製品保証、施工保証を分け、測定条件、免責、交換時の施工費用の負担を確認する。</p><p>製品寿命の前提が長くなるほど、将来発電収入を大きく評価できる一方、根拠が弱い長寿命前提は評価を過大にする。本稿では商用案件の契約と長期発電実績を未取得のため、シリコンに対するLCOEの優劣を断定しない。</p></section><section class=\"panel\"><h2>監視項目：計画から実績へ移る証拠</h2><div class=\"table-wrap\"><table><thead><tr><th>段階</th><th>確認するもの</th><th>判断への含意</th></tr></thead><tbody><tr><td>販売開始</td><td>有償販売・顧客・検収</td><td>実証と商用を区別</td></tr><tr><td>設備立上げ</td><td>据付・試運転・認定・生産</td><td>能力目標の達成度</td></tr><tr><td>安定供給</td><td>継続出荷・品質・歩留まり</td><td>立上げ損失の縮小</td></tr><tr><td>現場稼働</td><td>実測発電量・停止・交換</td><td>顧客の経済性</td></tr><tr><td>収益化</td><td>事業別売上・利益・投資</td><td>連結利益との混同防止</td></tr></tbody></table></div><p>積水化学の既存事業の利益をペロブスカイト事業の利益として使わない。設備投資への補助・採択額と実際の受取現金も区別する。今後の分析では設備計画の更新だけでなく、実際の出荷と発電実績が出ているかを優先する。</p></section>",
+  "expanded_records": [
+    {
+      "metric": "planned first-line nameplate capacity",
+      "period": "FY2027 planned operation",
+      "value": 100,
+      "unit": "MW/year",
+      "classification": "company_plan",
+      "scope": "Sekisui film perovskite first line",
+      "source_url": "https://www.sekisui.co.jp/ir/pdf/event/20260131hs.pdf",
+      "locator": "PDF physical p21",
+      "transformation": "none"
+    }
+  ],
+  "coverage_status": "Expanded analytical draft; March 2026 business launch verified; capacity and sales are dated company plans, no invented operating history. Visual QA pending."
+}

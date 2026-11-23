@@ -1,0 +1,395 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>中型ガスタービン 業界レポート</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400&family=Noto+Sans+JP:wght@400;500;700&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --paper:#ffffff; --ink:#000000; --text:#1a1a1a; --muted:#595959; --rule:#bfbfbf; --band:#f2f2f2;
+  --title:#1a7fc1; --navy:#0b1f8f; --blue:#2f6fd0; --g1:#d9d9d9; --g2:#8c8c8c; --gold:#c4a35a; --goldbg:#f6eedb; --red:#d7261e;
+  --f:"Arimo","Noto Sans JP",Arial,"Hiragino Sans","Yu Gothic",sans-serif;
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--text);font-family:var(--f);font-size:14px;line-height:1.65;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1180px;margin:0 auto;padding-block:0 80px}
+.pnav{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--paper);display:flex;flex-wrap:wrap;gap:0;border-bottom:2px solid var(--navy);margin:0 0 6px;padding-top:10px}
+.pnav a{font-size:12.5px;font-weight:700;color:var(--navy);text-decoration:none;padding:6px 12px;border:1px solid var(--navy);border-bottom:0;margin-right:4px;background:var(--paper)}
+.pnav a.cur{background:var(--navy);color:#fff}
+.pnav a:hover{background:var(--band)} .pnav a.cur:hover{background:var(--navy)}
+.pnav a:focus-visible{outline:2px solid var(--title);outline-offset:1px}
+.pnav .ext{margin-left:auto;font-weight:400;border-color:var(--g2);color:var(--muted)}
+.topbar{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--muted);padding:4px 0 6px;border-bottom:1px solid var(--rule)}
+.topbar b{color:var(--navy)} .draft{color:var(--red);font-weight:700}
+h1{font-size:clamp(22px,3.4vw,30px);line-height:1.3;margin:16px 0 8px;color:var(--navy);font-weight:700;text-wrap:balance}
+.lead{font-size:14.5px;max-width:86ch;margin:0 0 14px}
+.lead b{color:var(--navy)}
+.kh{font-size:12px;font-weight:700;color:var(--navy);margin:10px 0 0}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);margin-bottom:6px}
+.kpi{padding:10px 14px;border-left:1px solid var(--rule)} .kpi:first-child{border-left:0;padding-left:0}
+.kpi .k{font-size:11.5px;color:var(--muted)}
+.kpi .v{font-size:24px;font-weight:700;color:var(--navy);font-variant-numeric:tabular-nums;line-height:1.3}
+.kpi .v small{font-size:12px;color:var(--muted);font-weight:400;margin-left:3px}
+.kpi .d{font-size:11px;color:var(--muted);line-height:1.4}
+.kpis.jp .kpi .v{color:#7a5b16}
+h2{font-size:19px;margin:40px 0 4px;color:var(--navy)}
+h2 .n{color:var(--title);margin-right:10px}
+.row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+.fig{position:relative;border-top:1px solid var(--title);border-bottom:1px solid var(--title);padding:0 0 4px;min-width:0;margin-top:12px}
+.fig::before{content:"";position:absolute;left:0;top:0;height:30px;border-left:1px solid var(--title)}
+.fig::after{content:"";position:absolute;right:0;bottom:0;height:10px;border-right:1px solid var(--title)}
+.ft{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px 14px;padding:5px 0 8px 8px}
+.ft h3{margin:0;font-size:15px;line-height:1.35;color:var(--title);font-weight:400;text-wrap:balance}
+.src{font-size:10.5px;font-style:italic;border-top:1px solid var(--ink);margin:10px 0 0;padding:3px 0 0 8px}
+.cv{position:relative;height:290px;margin:4px}
+.cv.tall{height:420px}.cv.sh{height:240px}
+.tbl{overflow-x:auto;padding:0 2px}
+table{border-collapse:collapse;width:100%;font-size:12.5px;font-variant-numeric:tabular-nums}
+thead th{font-weight:700;border-top:1.5px solid var(--ink);border-bottom:1px solid var(--ink);padding:5px 8px;text-align:right;white-space:nowrap;vertical-align:bottom}
+td{padding:4px 8px;border-bottom:1px solid var(--g1);text-align:right;white-space:nowrap;vertical-align:top}
+th:first-child,td:first-child,td.l,th.l{text-align:left}
+td.w{white-space:normal;min-width:220px;text-align:left}
+tbody tr:last-child td{border-bottom:1.5px solid var(--ink)}
+tr.tot td{font-weight:700;background:var(--band)}
+tr.jp td{background:var(--goldbg)}
+tr.lh td{background:var(--navy);color:#fff;font-weight:700;padding:5px 8px;border-bottom:0}
+tr.lh td small{font-weight:400;opacity:.8;margin-left:8px}
+tr.gh td{background:var(--band);font-weight:700;color:var(--navy)}
+.ladder{overflow-x:auto;padding:0 6px}
+.lgrid{min-width:840px}
+.lhead,.lrow{display:grid;grid-template-columns:minmax(0,1.3fr) 200px minmax(0,1fr);gap:0 18px;align-items:center}
+.lhead{font-size:12px;font-weight:700;padding:4px 0 6px;border-bottom:1px solid var(--ink)}
+.grp{font-size:11.5px;color:var(--navy);font-weight:700;letter-spacing:.04em;padding:14px 0 4px;border-bottom:1px dashed var(--g2)}
+.lrow{padding:9px 0;border-bottom:1px solid var(--g1);cursor:pointer}
+.lrow:hover{background:#fafafa}.lrow:focus-visible{outline:2px solid var(--title);outline-offset:-2px}
+.lrow.open{background:#f7f9fd}
+.desc{font-size:12.5px;line-height:1.55}
+.desc .why{display:block;color:var(--muted);font-size:11.5px;margin-top:3px}
+.co{display:flex;flex-wrap:wrap;gap:4px;font-size:12px}
+.chip{border:1px solid var(--g1);padding:0 6px;white-space:nowrap;background:var(--paper)}
+.chip.jp{background:var(--goldbg);border-color:var(--gold)}
+.chip.dim{opacity:.28}
+.box{background:var(--navy);color:#fff;padding:7px 10px;font-weight:700;font-size:13px;line-height:1.3}
+.box small{display:block;font-weight:400;font-size:11px;opacity:.8}
+.box .caret{float:right;font-size:10px;opacity:.7;margin-top:2px}
+.detail{grid-column:1/-1;padding:6px 0 14px}
+.seg{display:inline-flex;border:1px solid var(--g2);flex:none}
+.seg button{font:inherit;font-size:11.5px;padding:2px 10px;background:var(--paper);color:var(--text);border:0;cursor:pointer}
+.seg button+button{border-left:1px solid var(--g2)}
+.seg button[aria-pressed="true"]{background:var(--navy);color:#fff}
+.seg button:focus-visible{outline:2px solid var(--title);outline-offset:-2px}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:11.5px;margin:8px 8px 0}
+.legend i{display:inline-block;width:12px;height:10px;margin-right:5px;vertical-align:-1px;border:1px solid var(--g2)}
+.ask{font-size:12.5px;color:var(--muted);border-left:3px solid var(--gold);padding:6px 10px;margin:14px 0;background:var(--band)}
+.ask b{color:var(--text)}
+.dot{text-align:center;color:var(--navy);font-size:15px}
+.mx th.v{writing-mode:vertical-rl;text-align:left;height:150px;font-weight:400;font-size:12px}
+.calc{font-size:12.5px;padding:0 8px}
+.calc input{font:inherit;font-size:12.5px;width:60px;padding:1px 4px;border:1px solid var(--g2);text-align:right}
+footer{margin-top:56px;padding-top:8px;border-top:2px solid var(--navy);font-size:11px;color:var(--muted)}
+@media (max-width:900px){.row{grid-template-columns:minmax(0,1fr)}.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.kpi:nth-child(3){border-left:0;padding-left:0}.pnav .ext{margin-left:0}}
+
+</style>
+
+<style>
+.chk{columns:2;column-gap:28px;padding:0 8px 0 24px;font-size:13px;margin:0}
+.chk li{break-inside:avoid;margin-bottom:6px}
+@media (max-width:900px){.chk{columns:1}}
+</style>
+<body data-page="gtm">
+<div class="wrap">
+<nav class="pnav" aria-label="ページ"><a data-k="dcr" href="#">DC レポート</a><a data-k="dcv" href="#">DC バリューチェーン</a><a data-k="hvr" href="#">HVAC レポート</a><a data-k="hvv" href="#">HVAC バリューチェーン</a><a data-k="fbr" href="#">光ファイバ レポート</a><a data-k="fbv" href="#">光ファイバ バリューチェーン</a><a data-k="gtl" href="#">大型ガスタービン</a><a data-k="gtm" href="#">中型ガスタービン</a><a class="ext" href="https://claude.ai/artifact/D4BDmgLK5GQK1vDa4L7TRu" target="_blank" rel="noopener">光モジュール →</a></nav>
+
+<div class="topbar"><span><b>Industry Report</b>　中型ガスタービン（約10–100MW、航空転用型・産業用）</span><span class="draft">DRAFT</span><span>2026年10月15日</span></div>
+<h1>中型ガスタービン：DCの自家発電で航空転用型の受注が急増、GEは四半期61台。納期は1.5–3年で大型の半分以下だが、ガスエンジンと中古ジェットエンジンが同じ需要を取りに来ている</h1>
+<p class="lead">1台10–100MWのガスタービンは、もともと石油・ガス田の動力、工場のコージェネ、ピーク電源の市場だった。2025年からAIデータセンターが<b>系統につながる前に自前で発電する</b>用途で買い始め、GE Vernovaの航空転用型の受注は2025年10–12月の18台から<b>2026年4–6月に61台</b>、Baker Hughesのガス設備の受注は5倍超になった。大型より<b>納期が短く（18–36か月）、小さく分けて置ける</b>のが理由（ただしGEの新品は2028年末まで売り切れとの報道もあり、新品の枠は詰まり始めている）。一方で効率は大型GTCCより低く、燃料費は1MWhあたり約1.4倍。同じ需要を、ガスエンジン（Wärtsilä・Caterpillar・INNIO）と、ジェットエンジンを転用する新規参入（ProEnergy・FTAI・Boom）が取りに来ている。</p>
+<div class="kh">市場全体</div>
+<div class="kpis">
+  <div class="kpi"><div class="k">GE Vernova 航空転用型の受注</div><div class="v">61<small>台</small></div><div class="d">2026年4–6月。2025年10–12月は18台</div></div>
+  <div class="kpi"><div class="k">Baker Hughes ガス設備の受注</div><div class="v">49<small>億ドル</small></div><div class="d">2026年4–6月、前年の5倍超。NovaLT16を76台・1.3GW受注</div></div>
+  <div class="kpi"><div class="k">Caterpillar 発電向け売上</div><div class="v">31<small>億ドル</small></div><div class="d">2026年4–6月、+29%。大型エンジンとSolarのタービン、主にDC向け</div></div>
+  <div class="kpi"><div class="k">Siemens Energy 中型の生産能力</div><div class="v">80→100<small>台/年</small></div><div class="d">2025年から約30台増やし、2028年に約100台</div></div>
+</div>
+<div class="kh">日本企業</div>
+<div class="kpis jp">
+  <div class="kpi"><div class="k">川崎重工 GT受注 27/3期見通し</div><div class="v">約1.5<small>倍</small></div><div class="d">24/3期比。事業計画でGT売上約4倍、利益約2.3倍</div></div>
+  <div class="kpi"><div class="k">川崎重工 ガスエンジンの生産能力</div><div class="v">約10<small>倍</small></div><div class="d">海外DC案件向け、設備投資約170億円</div></div>
+  <div class="kpi"><div class="k">中小型GTの納期（複数台）</div><div class="v">1–2<small>年</small></div><div class="d">大型は3–5年（川崎重工、2026年10月6日）</div></div>
+  <div class="kpi"><div class="k">三菱重工 FT8 MOBILEPAC</div><div class="v">30<small>MW/台</small></div><div class="d">トレーラー搭載の航空転用型（Mitsubishi Power Aero）</div></div>
+</div>
+
+<h2><span class="n">01</span>中型ガスタービンの範囲と種類</h2>
+<div class="calc"><p><b>このページの範囲：</b>1台およそ10–100MW。三菱重工は100MW以上を「大型」と数えており、それより下を扱う。10MW未満の小型（非常用・小規模コージェネ）は含めない。100–200MWのE級・6F級は大型と中型の境目で、各社の開示では大型に入ることが多い。</p></div>
+<div class="fig">
+  <div class="ft"><h3>図1：中型は「航空転用型」「産業用」「ジェットエンジンの転用・再生品」の3つ</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>種類</th><th class="l">中身</th><th class="l">強み</th><th class="l">弱み</th><th class="l">主な機種（出力）</th></tr></thead>
+    <tbody>
+      <tr class="tot"><td>航空転用型（エアロデリバティブ）</td><td class="w">旅客機のエンジンの中心部分を地上の発電用にしたもの</td><td class="w">軽くて小さい。冷えた状態から約10分で全出力。トレーラーで運べる機種もある</td><td class="w">単純サイクルの効率38–42%。保守は航空エンジン並みに頻繁</td><td class="w">GE LM2500XPRESS（約34–35MW）、LM6000（43–52MW）、TM2500（移動式）、三菱重工 FT8 MOBILEPAC（30MW）、Siemens SGT-A35</td></tr>
+      <tr><td>産業用（ヘビーデューティ中型）</td><td class="w">最初から地上用に設計した頑丈な機械</td><td class="w">長く連続運転でき、保守間隔が長い。排熱を蒸気・温水に使いやすい</td><td class="w">重く、据え付けに時間がかかる</td><td class="w">Siemens SGT-800（60–75MW級）、SGT-400、Solar Titan 130（16.5MW）、Titan 250、Titan 350（35MW）、Baker Hughes NovaLT16、川崎重工 L30A（30MW級）、三菱重工 H-25</td></tr>
+      <tr><td>転用・再生品（新規参入）</td><td class="w">中古の旅客機エンジンを発電用に改造</td><td class="w">新品の生産枠を待たずに出せる</td><td class="w">実績が少ない。中古エンジンの在庫と部品に依存</td><td class="w">ProEnergy PE6000（50MW、CF6-80C2ベース）、FTAI Power（25MW、CFM56ベース）、Boom Supersonic Superpower（42MW）</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: Grid Capacity Intelligence（出力・効率・起動時間）、Cleanview（Solar Titan 130・350、PE6000）、FTAI（2025年12月30日）、Turbomachinery International（FT8）。川崎重工・三菱重工H-25の出力区分とSGT-A35・SGT-400の分類は作成者の整理</div>
+</div>
+
+<h2><span class="n">02</span>需要：DCの自家発電が受注を押し上げた</h2>
+<div class="row">
+  <div class="fig">
+    <div class="ft"><h3>図2：GE Vernovaの航空転用型の受注は2四半期で約3.4倍</h3></div>
+    <div class="cv"><canvas id="cGeU"></canvas></div>
+    <div class="src">Source: GE Vernova 決算発表（2025年4Q、2026年2Q、8-K）。四半期の受注台数。2026年1Qの台数は今回未取得</div>
+  </div>
+  <div class="fig">
+    <div class="ft"><h3>図3：Caterpillarの発電向け売上は+29%、部門の利益率は24.6%</h3></div>
+    <div class="cv"><canvas id="cCat"></canvas></div>
+    <div class="src">Source: Caterpillar 2026年2Q決算（8-K）。Power &amp; Energy部門の用途別売上。発電向けの伸びは大型ガスエンジンとSolar Turbinesのタービン・保守で、主にDC向けと説明。部門利益率は22.1%→24.6%</div>
+  </div>
+</div>
+<div class="fig">
+  <div class="ft"><h3>図4：DCの自家発電の事例。中型タービンとガスエンジンを組み合わせる例が多い</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>案件</th><th class="l">機器</th><th class="l">規模</th><th class="l">メーカー</th><th class="l">時期・状況</th></tr></thead>
+    <tbody>
+      <tr><td>xAI Colossus 1（米テネシー州）</td><td class="w">Solar SMT-130 12台＋蓄電池、系統300MW</td><td class="l">自家発 約198MW</td><td class="w">Caterpillar（Solar）、Tesla</td><td class="w">2024年9月に稼働</td></tr>
+      <tr class="tot"><td>xAI Colossus 2（米ミシシッピ州）</td><td class="w">仮設：Titan 130・GE TM2500など約59台。本設許可：Titan 130 17台、Titan 350 16台、PE6000 8台</td><td class="l">仮設 約1.3GW、本設 約1.2GW</td><td class="w">Caterpillar（Solar）、GE Vernova、ProEnergy。別にDoosanのH級5台・1.9GWを発注</td><td class="w">本設は2026年3月許可、訴訟あり</td></tr>
+      <tr><td>Crusoe（Stargate、米テキサス州アビリーン）</td><td class="w">LM2500XPRESS 29台</td><td class="l">約1GW</td><td class="w">GE Vernova</td><td class="w">2024年12月に10台、2025年6月に19台を発注</td></tr>
+      <tr><td>Fermi America（米テキサス州アマリロ）</td><td class="w">SGT-800 6台（最初の1GWの約3分の1）</td><td class="l">約0.33GW</td><td class="w">Siemens Energy</td><td class="w">2026年に到着、構想は最大11GW</td></tr>
+      <tr><td>Meta Socrates（米オハイオ州）</td><td class="w">Titan 250、SGT-400、Caterpillarのガスエンジン</td><td class="l">—</td><td class="w">Caterpillar、Siemens Energy</td><td class="w">—</td></tr>
+      <tr><td>Dynamis Power Solutions</td><td class="w">NovaLT16 76台</td><td class="l">約1.3GW</td><td class="w">Baker Hughes</td><td class="w">2026年4–6月受注。DCと石油・ガス向け</td></tr>
+      <tr><td>Kodiak Gas Services</td><td class="w">NovaLT16、Frame 5、BRUSH発電機</td><td class="l">1GW（最大1.8GW）</td><td class="w">Baker Hughes</td><td class="w">2026年4–6月受注</td></tr>
+      <tr><td>Crusoe（Boom Supersonic）</td><td class="w">Superpower 29台</td><td class="l">約1.2GW（算出）</td><td class="w">Boom Supersonic</td><td class="w">受注残12.5億ドル（2025年12月発表）</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: Cleanview（xAI、2026年5月時点）、Data Center Dynamics（Crusoe・GE、2025年7月23日）、Barchart（Fermi America）、Grid Capacity Intelligence（Meta、Boom）、Turbomachinery International（Baker Hughes、2026年7月28日）、FTAI関連記事（Boom）。Boomの約1.2GWは29台×42MWで作成者が算出。一部の記事はCrusoeの29台をGEとBoomの両方に帰属させており、要確認</div>
+</div>
+
+<h2><span class="n">03</span>競争：航空転用型はGEがほぼ独占、産業用はSolarとSiemens</h2>
+<div class="row">
+  <div class="fig">
+    <div class="ft"><h3>図5：航空転用型の5年累計の台数シェアはGE/Baker Hughesが64%</h3></div>
+    <div class="cv sh"><canvas id="cAeroSh"></canvas></div>
+    <div class="src">Source: Dora Partners（Turbomachinery International、2025年。2024年時点の5年累計、台数ベース）。その他は差し引きで算出（Siemens Energy、Rolls-Royceなど）。MWベースでは2024年にGE/Baker Hughesが世界の73%。GE VernovaとBaker Hughesを合わせて航空転用型の約85%という記述もある</div>
+  </div>
+  <div class="fig">
+    <div class="ft"><h3>図6：機種別ではLM2500+が5年累計の44%、LM6000が16%</h3></div>
+    <div class="tbl"><table>
+      <thead><tr><th>機種</th><th>5年シェア</th><th>稼働台数</th><th class="l">注記</th></tr></thead>
+      <tbody>
+        <tr><td>GE LM2500+</td><td>44%</td><td>1,458台</td><td class="l">艦船用も含む系列</td></tr>
+        <tr><td>GE LM6000</td><td>16.4%</td><td>1,235台</td><td class="l">2024年の受注45台</td></tr>
+        <tr class="jp"><td>三菱重工 FT8</td><td>—</td><td>—</td><td class="l">2024年の受注16台</td></tr>
+        <tr><td>UEC（ロシア）</td><td>9.3%</td><td>—</td><td class="l">メーカーシェア</td></tr>
+        <tr class="jp"><td>三菱重工/PWPS</td><td>5.4%</td><td>—</td><td class="l">メーカーシェア（2023年3.6%）</td></tr>
+      </tbody>
+    </table></div>
+    <div class="calc"><p>GEの航空転用型は、Baker Hughesも同じ系列のエンジンを石油・ガス向けにパッケージして売る。日本ではIHIがLM6000を発電設備にまとめて納入した実績がある（台湾）。</p></div>
+    <div class="src">Source: Dora Partners（Turbomachinery International、2025年）、GE Aerospace（IHIのLM6000、台湾）</div>
+  </div>
+</div>
+<div class="fig">
+  <div class="ft"><h3>図7：主要メーカーの直近の動き</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>企業</th><th class="l">中型の製品</th><th class="l">直近の数字・動き</th></tr></thead>
+    <tbody>
+      <tr><td>GE Vernova（GEV）</td><td class="w">LM2500XPRESS、LM6000、TM2500</td><td class="w">航空転用型の受注 61台（2026年4–6月）。新品は2028年末まで売り切れとの報道</td></tr>
+      <tr><td>Baker Hughes（BKR）</td><td class="w">NovaLT16、Frame 5、GE系の航空転用型</td><td class="w">IET部門の受注71億ドル（2倍超）、受注残371億ドル、EBITDA利益率20.6%（前年17.8%）。ガス設備の受注49億ドル（5倍超）</td></tr>
+      <tr><td>Caterpillar（CAT）／Solar Turbines</td><td class="w">Titan 130・250・350（産業用で世界最大）</td><td class="w">Power &amp; Energy部門 82億ドル（+17%）、利益率24.6%。xAIに多数納入</td></tr>
+      <tr><td>Siemens Energy（ENR GR）</td><td class="w">SGT-800、SGT-400、SGT-A35</td><td class="w">中型の能力を年約80台→約100台（2028年）。EatonとDC向けの組立式発電所で提携（2025年11月）</td></tr>
+      <tr class="jp"><td>三菱重工（7011）</td><td class="w">FT8 MOBILEPAC、H-25</td><td class="w">中小型の数字は決算資料に開示なし</td></tr>
+      <tr class="jp"><td>川崎重工（7012）</td><td class="w">L30Aなど中小型GT、ガスエンジン</td><td class="w">GT受注は27/3期に24/3期比約1.5倍の見通し。バックアップ電源で年200億円、分散型の常用電源で年300億円の売上目標（27/3期、機器と保守の合計）</td></tr>
+      <tr><td>ProEnergy（非上場）</td><td class="w">PE6000（CF6-80C2の再生）</td><td class="w">DC向けに1GW超を販売。2027年に納入可能</td></tr>
+      <tr><td>FTAI Aviation（FTAI）</td><td class="w">CFM56ベースの25MW機</td><td class="w">2026年から年100台超を生産予定（顧客名は未公表）。CFM56の在庫1,000台超</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: GE Vernova・Baker Hughes・Caterpillarの2026年2Q決算、energynewsbeat（Siemens、2026年8月10日）、Quartr（川崎重工 会社説明、2026年10月6日）、Grid Capacity Intelligence、Fintool（FTAI、2025年12月30日）</div>
+</div>
+
+<h2><span class="n">04</span>ガスエンジンとの比較：同じDC需要の取り合い</h2>
+<div class="fig">
+  <div class="ft"><h3>図8：ガスエンジンは効率と起動、航空転用型は設置面積、GTCCは燃料費で勝つ</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>項目</th><th class="l">ガスエンジン</th><th class="l">航空転用型GT</th><th class="l">大型GTCC</th></tr></thead>
+    <tbody>
+      <tr><td>1台の出力</td><td class="w">2–20MW（Cat G3520 約2.5MW、Jenbacher J920 約9MW、Wärtsilä 50SG 約18–19MW）</td><td class="w">25–50MW（LM2500 25–34MW、LM6000 43–52MW）</td><td class="w">数百MW。プラントで1GW級</td></tr>
+      <tr><td>効率</td><td class="w">最大46%（単純サイクル）</td><td class="w">38–42%</td><td class="w">55–65%</td></tr>
+      <tr><td>起動</td><td class="w">J920で約2分</td><td class="w">LM6000で約10分</td><td class="w">30分〜数時間</td></tr>
+      <tr><td>設置費</td><td class="w">1,200–1,800ドル/kW</td><td class="w">1,000–1,200ドル/kW</td><td class="w">以前800–1,100ドル、最近は2,000ドル超</td></tr>
+      <tr class="tot"><td>納期</td><td class="w">大規模で12–18か月（ただしWärtsiläは新規受注の納期が2029年以降に延びている）</td><td class="w">新品は3–5年の例も。再生品は2027年</td><td class="w">建設まで含め4–6年</td></tr>
+      <tr><td>設置面積</td><td class="w">大きい。500MWで2.5MW機が200台超</td><td class="w">小さい。数台で数百MW</td><td class="w">大きい。蒸気タービン・冷却塔・水が要る</td></tr>
+      <tr><td>主なメーカー</td><td class="w">Caterpillar、INNIO（Jenbacher）、Wärtsilä、Rolls-Royce（MTU）、Cummins</td><td class="w">GE Vernova、Siemens Energy、Solar、三菱重工、ProEnergy、Boom</td><td class="w">GE Vernova、Siemens Energy、三菱重工</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: Grid Capacity Intelligence（2026年）、Wärtsilä 2026年上期決算Q&amp;A（2026年7月21日）。数値は案件と時期で幅が大きい</div>
+</div>
+<div class="row">
+  <div class="fig">
+    <div class="ft"><h3>図9：燃料費は航空転用型が1MWhあたり約1.4倍</h3></div>
+    <div class="cv sh"><canvas id="cFuel"></canvas></div>
+    <div class="src">Source: Grid Capacity Intelligence（ガス価格4ドル/MMBtuの前提。航空転用型は熱消費率8–9MMBtu/MWh、GTCCは効率60%）。倍率は中央値34÷23.5で作成者が算出。500MWを設備利用率85%で動かすと、効率42%→60%で年5,000万–1億ドルの燃料費の差</div>
+  </div>
+  <div class="fig">
+    <div class="ft"><h3>図10：設置費（ドル/kW）。中型・エンジンは1,000–1,800ドル、大型GTCCは最近2,000ドル超</h3></div>
+    <div class="cv sh"><canvas id="cCost"></canvas></div>
+    <div class="src">Source: Grid Capacity Intelligence。Boom Supersonicの約1,030ドル/kWは受注残12.5億ドル÷（29台×42MW）で作成者が算出（タービン本体のみか工事を含むかは不明）</div>
+  </div>
+</div>
+<div class="fig">
+  <div class="ft"><h3>図11：ガスエンジン側も増産と大型受注。Wärtsiläは能力を65%増やす</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>企業</th><th class="l">DC向けの受注</th><th class="l">増産</th></tr></thead>
+    <tbody>
+      <tr><td>Wärtsilä（WRT1V FH）</td><td class="w">2026年4–6月に2件・1.2GW。Energyの受注は過去最高を70%超上回る</td><td class="w">Vaasa工場の技術能力を2025年比+65%、2029年1–3月に生産量を2025年の約2.2倍へ</td></tr>
+      <tr><td>Caterpillar（CAT）</td><td class="w">Monarch Compute Campusに2GW、Hunt Energyと最大1GW</td><td class="w">—</td></tr>
+      <tr><td>INNIO（Jenbacher、非上場）</td><td class="w">VoltaGridと2.3GW（25MWのパワーパック92基）</td><td class="w">—</td></tr>
+      <tr class="jp"><td>川崎重工（7012）</td><td class="w">海外DC案件</td><td class="w">ガスエンジンの生産能力を約10倍、投資約170億円。ガスエンジンの売上は計画で約6倍</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: Wärtsilä 2026年上期決算Q&amp;A、Grid Capacity Intelligence、Quartr（川崎重工、2026年10月6日）</div>
+</div>
+
+<h2><span class="n">05</span>収益構造と供給</h2>
+<div class="fig">
+  <div class="ft"><h3>図12：中型は「台数が多く、保守の回数も多い」ビジネス</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>項目</th><th class="l">大型との違い</th><th class="l">収益への意味</th></tr></thead>
+    <tbody>
+      <tr><td>1件の規模</td><td class="w">1台25–50MW。1GWのDCで20–40台</td><td class="w">台数が多く、売上が四半期ごとに平準化しやすい</td></tr>
+      <tr><td>保守</td><td class="w">航空転用型はエンジンごと交換・工場整備する方式が多い</td><td class="w">整備（MRO）の売上が台数に比例。航空転用型のMRO市場は年約36億ドル（Dora Partners）</td></tr>
+      <tr><td>仮設・レンタル</td><td class="w">TM2500・FT8 MOBILEPACなどトレーラー型</td><td class="w">系統接続までの「つなぎ」として貸し出し、後で移設できる</td></tr>
+      <tr><td>用途の重なり</td><td class="w">石油・ガス（圧縮機の動力）、LNG、艦船、工場のコージェネ</td><td class="w">DC需要が落ちても他の用途がある。逆にDC向けが枠を取ると既存顧客の納期が延びる</td></tr>
+      <tr class="tot"><td>供給の制約</td><td class="w">航空エンジンと部品・翼の鋳造を取り合う</td><td class="w">Howmetは航空とガスタービンの両方で増産投資（2026年に5億ドル超）。新しい能力は約2年後から</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: Dora Partners（Turbomachinery International、2025年）、Howmet 2Q26決算説明（MarketBeat、2026年8月8日）。区分と意味の整理は作成者</div>
+</div>
+<div class="row">
+  <div class="fig">
+    <div class="ft"><h3>図13：Siemens Energyの中型の生産能力は2025年から2倍へ</h3></div>
+    <div class="cv sh"><canvas id="cSieM"></canvas></div>
+    <div class="src">Source: energynewsbeat（2026年8月10日、Siemens Energyの説明会）。2025年は「2025年以降に約30台追加して現在約80台」から作成者が逆算</div>
+  </div>
+  <div class="fig">
+    <div class="ft"><h3>図14：Baker Hughes IET部門。受注が売上の2.2倍</h3></div>
+    <div class="cv sh"><canvas id="cBh"></canvas></div>
+    <div class="src">Source: Baker Hughes 2026年2Q（Turbomachinery International、2026年7月28日）。ガス設備の受注は前年の5倍超、受注残（RPO）はガス設備150億ドル、ガスサービス167億ドル。IET部門の2026–28年の受注見通しは450億ドル超</div>
+  </div>
+</div>
+
+<h2><span class="n">06</span>日本企業への波及</h2>
+<div class="fig">
+  <div class="ft"><h3>図15：中型ガスタービン・自家発電に関わる日本企業</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>企業</th><th class="l">役割</th><th class="l">効き方</th></tr></thead>
+    <tbody>
+      <tr class="jp"><td>川崎重工（7012）</td><td class="w">中小型GTとガスエンジンのメーカー。DCのバックアップ電源・常用電源</td><td class="w">GT受注1.5倍、ガスエンジン能力10倍。売上規模はまだ小さく、増産の立ち上がりが論点</td></tr>
+      <tr class="jp"><td>三菱重工（7011）</td><td class="w">FT8 MOBILEPAC（米国の子会社Mitsubishi Power Aero）、H-25</td><td class="w">開示がなく規模は不明。大型の受注残の陰に隠れる</td></tr>
+      <tr class="jp"><td>IHI（7013）</td><td class="w">GEの航空転用型（LM6000など）を発電設備にまとめる。航空エンジン部品</td><td class="w">航空転用型の需要と、元の航空エンジンの部品需要の両方</td></tr>
+      <tr class="jp"><td>大同特殊鋼（5471）・プロテリアルなど</td><td class="w">耐熱合金（作成者の整理）</td><td class="w">航空・中型・大型の全部で使う</td></tr>
+      <tr class="jp"><td>非常用発電機のメーカー</td><td class="w">ディーゼル・ガスの非常用発電機（ヤンマーがDC向け工場を福岡に新設）</td><td class="w">中型GTとは別の市場だが、DC1棟あたりの発電設備の総額を増やす</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: Quartr（川崎重工、2026年10月6日）、GE Aerospace（IHIのLM6000）、ヤンマー（福岡の新工場）。大同特殊鋼などの役割は作成者の整理で、取引関係は確認していない</div>
+</div>
+
+<h2><span class="n">07</span>論点</h2>
+<div class="fig">
+  <div class="ft"><h3>図16：強気と弱気、それぞれの根拠と確かめ方</h3></div>
+  <div class="tbl"><table>
+    <thead><tr><th>論点</th><th class="l">強気の読み</th><th class="l">弱気の読み</th><th class="l">何で確かめるか</th></tr></thead>
+    <tbody>
+      <tr><td>DCの自家発電は続くか</td><td class="w">系統の接続待ちは最大7年。自家発は「つなぎ」ではなく常用になる</td><td class="w">系統がつながれば仮設は撤去される。燃料費が高い航空転用型はピーク用に戻る</td><td class="w">自家発の案件で系統接続後も残る比率、稼働率</td></tr>
+      <tr><td>ガスエンジンとの取り合い</td><td class="w">設置面積が小さく、数百MWを数台で出せる</td><td class="w">エンジンは効率が高く、標高・気温で出力が落ちない。Wärtsiläは能力を65%増やす</td><td class="w">DC案件ごとの機器の内訳</td></tr>
+      <tr><td>新規参入</td><td class="w">中古エンジンの在庫には限りがあり、保守網もない</td><td class="w">FTAIが年100台超（2.5GW）、Boomが受注残12.5億ドル。新品の価格を抑える</td><td class="w">新規参入の実際の納入台数と稼働実績</td></tr>
+      <tr><td>価格</td><td class="w">新品の枠は2028年まで埋まり、値上げが続く</td><td class="w">大型より生産を増やしやすく、需給が先に緩む</td><td class="w">各社の受注単価、納期の短縮</td></tr>
+      <tr><td>規制</td><td class="w">連邦・州が電源の確保を優先</td><td class="w">xAIのように大気汚染の許可と訴訟で止まる</td><td class="w">州の排出許可の審査期間</td></tr>
+    </tbody>
+  </table></div>
+  <div class="src">Source: FTAI関連記事（系統の接続待ち）、Wärtsilä、Cleanview（xAIの許可と訴訟）。強気・弱気の整理は作成者</div>
+</div>
+
+<h2><span class="n">08</span>初回レポートに加えるべきもの</h2>
+<div class="fig">
+  <div class="ft"><h3>図17：イニシエーションで答えるべき問いと、そのためのデータ</h3></div>
+  <ol class="chk">
+    <li><b>市場の大きさ：</b>10–100MWの受注台数・MWの年次推移と社別シェア（Dora Partners、McCoy）。用途別（DC、石油・ガス、工場、艦船）</li>
+    <li><b>DCの電源の内訳：</b>自家発のDC案件ごとの機器（GT、エンジン、燃料電池、蓄電池）とMW</li>
+    <li><b>仮設から本設へ：</b>系統接続後に自家発が残る比率と、撤去された機器の行き先</li>
+    <li><b>単価と納期：</b>LM2500XPRESS・LM6000・SGT-800・Titanの受注単価（ドル/kW）と納期の推移</li>
+    <li><b>保守：</b>航空転用型のエンジン交換・整備の単価と頻度。1台あたりの生涯の保守収入</li>
+    <li><b>新規参入の現実性：</b>FTAI・ProEnergy・Boomの実際の出荷台数、稼働率、保証条件</li>
+    <li><b>供給の制約：</b>航空エンジン（LEAP・GEnx）の増産との部品の取り合い</li>
+    <li><b>日本企業の規模：</b>川崎重工・三菱重工の中小型GTの売上・利益（未開示部分の推計）</li>
+    <li><b>規制：</b>米国の州ごとの排出許可の審査期間とNOx規制</li>
+    <li><b>大型との関係：</b>中型で始めたDCが後から大型GTCCに切り替える例（xAIのDoosan H級）</li>
+    <li><b>バリュエーション：</b>Caterpillar・Baker Hughes・Wärtsilä・川崎重工のPER・EV/EBITDA</li>
+    <li><b>エキスパートコールの論点：</b>DC開発会社の電源担当、レンタル発電の会社、元GE/Solarの営業、州の環境許可の担当</li>
+  </ol>
+  <div class="src">Source: 作成者</div>
+</div>
+<footer>ドラフト。数値は各出典の時点と定義に従う。算出と記した数値は作成者の計算。中型の範囲（約10–100MW）は作成者の定義で、各社の開示の区分とは一致しない。</footer>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+/* nav + chart value labels (shared) */
+const NAV={dcr:'https://claude.ai/artifact/UV7pvZivEh7tXKeJNiagBa',dcv:'https://claude.ai/artifact/3ed8JcJuWGHFpzRWPdEnnm',hvr:'https://claude.ai/artifact/HeJD1YTaL1k4pwrudsV2h2',hvv:'https://claude.ai/artifact/2KHYwZSNNcXMyjfqPaBSmN',fbr:'https://claude.ai/artifact/F1ffvSMm3QjoA12LpCC39j',fbv:'https://claude.ai/artifact/FnB2mN8c9R3uWVt36BWyX1',gtl:'https://claude.ai/artifact/LpwyrREwnshppbqQM8F6ak',gtm:'https://claude.ai/artifact/CgaEtV8oZYZbXWdHjRBszN'};
+document.querySelectorAll('.pnav a[data-k]').forEach(a=>{a.href=NAV[a.dataset.k];a.target='_blank';a.rel='noopener';if(a.dataset.k===document.body.dataset.page)a.classList.add('cur')});
+const VL={id:'vl',afterDatasetsDraw(ch,args,o){
+ if(!o||o.off)return;const ctx=ch.ctx,horiz=ch.options.indexAxis==='y';const sx=ch.scales.x,sy=ch.scales.y;
+ const stacked=!!((sx&&sx.options.stacked)||(sy&&sy.options.stacked));const f=o.fmt||(v=>(Math.round(v*10)/10).toLocaleString()+(o.suffix||''));
+ ctx.save();ctx.font='11px '+getComputedStyle(document.documentElement).getPropertyValue('--f');ctx.textBaseline='middle';
+ const tot={};
+ ch.data.datasets.forEach((ds,i)=>{const m=ch.getDatasetMeta(i);if(m.hidden||ds.noLabel)return;
+  m.data.forEach((el,j)=>{const v=ds.data[j];if(v==null)return;
+   if(Array.isArray(v)){const t=v[0]+'–'+v[1]+(o.suffix||'');ctx.fillStyle='#000';ctx.textAlign='left';ctx.fillText(t,horiz?el.x+4:el.x,horiz?el.y:el.y-8);return}
+   if(m.type==='line'||ds.type==='line'){ctx.fillStyle=ds.borderColor||'#000';ctx.textAlign='center';ctx.fillText(f(v),el.x,el.y-10);return}
+   if(stacked){tot[j]=(tot[j]||0)+v;const size=horiz?Math.abs(el.x-el.base):Math.abs(el.base-el.y);if(size<16)return;
+    const bg=Array.isArray(ds.backgroundColor)?ds.backgroundColor[j]:ds.backgroundColor;const dark=/0b1f8f|2f6fd0|8c8c8c|d7261e|595959/i.test(bg||'');
+    ctx.fillStyle=dark?'#fff':'#000';ctx.textAlign='center';ctx.fillText(f(v),horiz?(el.x+el.base)/2:el.x,horiz?el.y:(el.y+el.base)/2);return}
+   ctx.fillStyle='#000';if(horiz){ctx.textAlign=v<0?'right':'left';ctx.fillText(f(v),el.x+(v<0?-4:4),el.y)}else{ctx.textAlign='center';ctx.fillText(f(v),el.x,v<0?el.y+10:el.y-8)}
+  })});
+ if(stacked&&o.total){ctx.fillStyle='#000';ctx.font='bold 11px '+getComputedStyle(document.documentElement).getPropertyValue('--f');
+  const m=ch.getDatasetMeta(ch.data.datasets.length-1);Object.keys(tot).forEach(j=>{let top=null;ch.data.datasets.forEach((ds,i)=>{const e=ch.getDatasetMeta(i).data[j];if(e&&ds.data[j]!=null){top=horiz?Math.max(top??-1e9,e.x):Math.min(top??1e9,e.y)}});
+   if(top==null)return;const e=m.data[j];ctx.textAlign=horiz?'left':'center';ctx.fillText(f(tot[j]),horiz?top+4:e.x,horiz?e.y:top-9)})}
+ ctx.restore()}};
+function chartBase(){const d=Chart.defaults;d.font.family=getComputedStyle(document.documentElement).getPropertyValue('--f');d.font.size=11;d.color='#000';d.maintainAspectRatio=false;d.animation=false;
+ d.plugins.legend.position='bottom';d.plugins.legend.align='start';Object.assign(d.plugins.legend.labels,{boxWidth:10,boxHeight:10,color:'#000'});
+ d.layout.padding={top:18,right:30};Chart.register(VL)}
+const AX=o=>Object.assign({grid:{display:false},border:{display:true,color:'#000'},ticks:{color:'#000'}},o);
+function startCharts(fn){const go=()=>{if(!window.Chart)return;chartBase();fn()};if(document.fonts&&document.fonts.ready){document.fonts.ready.then(go)}else{go()}}
+function ladder(el,L,CO,state,extraDetail){
+ const chip=k=>{const c=CO[k];let cls='chip'+(c[2]?' jp':'');if(state.hl==='jp'&&!c[2])cls+=' dim';return '<span class="'+cls+'" title="'+c[1]+'">'+c[0]+'</span>'};
+ const det=l=>'<div class="detail"><div class="tbl"><table><thead><tr><th>企業</th><th class="l">コード</th><th class="l">このレイヤーでの製品・役割</th></tr></thead><tbody>'+l.co.map(k=>'<tr class="'+(CO[k][2]?'jp':'')+'"><td>'+CO[k][0]+'</td><td class="l">'+CO[k][1]+'</td><td class="l">'+((l.note&&l.note[k])||'—')+'</td></tr>').join('')+'</tbody></table></div>'+(extraDetail?extraDetail(l):'')+'</div>';
+ const render=()=>{let h='<div class="lhead"><div>このレイヤーがしていること</div><div>レイヤー</div><div>主な企業</div></div>';
+  L.forEach(l=>{if(l.grp){h+='<div class="grp">'+l.grp+'</div>';return}const o=state.open===l.id;
+   h+='<div class="lrow'+(o?' open':'')+'" tabindex="0" role="button" aria-expanded="'+o+'" data-id="'+l.id+'"><div class="desc">'+l.d+'<span class="why">'+l.why+'</span></div><div class="box">'+l.ja+'<span class="caret">'+(o?'▲':'▼')+'</span><small>'+l.en+'</small></div><div class="co">'+l.co.map(chip).join('')+'</div>'+(o?det(l):'')+'</div>'});
+  el.innerHTML=h;el.querySelectorAll('.lrow[data-id]').forEach(r=>{const go=()=>{state.open=state.open===r.dataset.id?null:r.dataset.id;render()};r.addEventListener('click',e=>{if(e.target.closest('.detail'))return;go()});r.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go()}})})};
+ render();return render}
+function companyList(el,L,CO,filter){let h='<thead><tr><th>企業</th><th class="l">コード</th><th class="l">このレイヤーでの製品・役割</th></tr></thead><tbody>';
+ L.forEach(l=>{if(l.grp){h+='<tr class="gh"><td colspan="3">'+l.grp+'</td></tr>';return}const ks=l.co.filter(k=>filter==='all'||(filter==='jp'&&CO[k][2]));if(!ks.length)return;
+  h+='<tr class="lh"><td colspan="3">'+l.ja+'<small>'+l.en+'</small></td></tr>';ks.forEach(k=>{h+='<tr class="'+(CO[k][2]?'jp':'')+'"><td>'+CO[k][0]+'</td><td class="l">'+CO[k][1]+'</td><td class="l">'+((l.note&&l.note[k])||'—')+'</td></tr>'})});
+ el.innerHTML=h+'</tbody>'}
+function matrix(el,L,CO,min){const LY=L.filter(l=>l.co);const of={};LY.forEach(l=>l.co.forEach(k=>{(of[k]=of[k]||[]).push(l.id)}));
+ const ks=Object.keys(of).filter(k=>of[k].length>=min).sort((a,b)=>of[b].length-of[a].length);
+ let h='<thead><tr><th>企業</th>'+LY.map(l=>'<th class="v">'+l.ja+'</th>').join('')+'<th>数</th></tr></thead><tbody>';
+ ks.forEach(k=>{h+='<tr class="'+(CO[k][2]?'jp':'')+'"><td>'+CO[k][0]+'</td>'+LY.map(l=>'<td class="dot">'+(of[k].includes(l.id)?'●':'')+'</td>').join('')+'<td>'+of[k].length+'</td></tr>'});el.innerHTML=h+'</tbody>'}
+function segBtns(ids,cb){ids.forEach(([id,val])=>document.getElementById(id).addEventListener('click',()=>{ids.forEach(([i])=>document.getElementById(i).setAttribute('aria-pressed',i===id?'true':'false'));cb(val)}))}
+
+</script>
+
+<script>
+(function(){
+startCharts(()=>{
+ new Chart(document.getElementById('cGeU'),{type:'bar',data:{labels:['2025年10–12月','2026年4–6月'],datasets:[{label:'航空転用型',data:[18,61],backgroundColor:'#0b1f8f'},{label:'大型（ヘビーデューティ）',data:[41,52],backgroundColor:'#8c8c8c'}]},options:{plugins:{vl:{fmt:v=>v+'台'}},scales:{x:AX(),y:AX({beginAtZero:true,max:75,title:{display:true,text:'台',color:'#000'}})}}});
+ new Chart(document.getElementById('cCat'),{type:'bar',data:{labels:['2025年4–6月','2026年4–6月'],datasets:[{label:'発電',data:[24.1,31.0],backgroundColor:'#0b1f8f'},{label:'石油・ガス',data:[18.7,20.4],backgroundColor:'#2f6fd0'},{label:'産業',data:[15.2,16.5],backgroundColor:'#8c8c8c'}]},options:{plugins:{vl:{}},scales:{x:AX(),y:AX({beginAtZero:true,max:38,title:{display:true,text:'億ドル',color:'#000'}})}}});
+ new Chart(document.getElementById('cAeroSh'),{type:'bar',data:{labels:['GE / Baker Hughes','UEC','三菱重工 / PWPS','その他'],datasets:[{label:'5年累計の台数シェア',data:[63.7,9.3,5.4,21.6],backgroundColor:['#0b1f8f','#8c8c8c','#c4a35a','#d9d9d9'],barPercentage:.6}]},options:{indexAxis:'y',plugins:{legend:{display:false},vl:{suffix:'%'}},scales:{x:AX({beginAtZero:true,max:80,ticks:{color:'#000',callback:v=>v+'%'}}),y:AX()}}});
+ new Chart(document.getElementById('cFuel'),{type:'bar',data:{labels:['航空転用型（単純サイクル）','大型GTCC（効率60%）'],datasets:[{label:'燃料費（ドル/MWh）',data:[[32,36],[22,25]],backgroundColor:['#2f6fd0','#0b1f8f'],barPercentage:.5}]},options:{indexAxis:'y',plugins:{legend:{display:false},vl:{suffix:'ドル'}},scales:{x:AX({beginAtZero:true,max:45,title:{display:true,text:'ドル/MWh',color:'#000'}}),y:AX()}}});
+ new Chart(document.getElementById('cCost'),{type:'bar',data:{labels:['F級フレーム（機器）','航空転用型','Boom（算出）','ガスエンジン','GTCC（以前）','GTCC（最近）'],datasets:[{label:'ドル/kW',data:[700,[1000,1200],1030,[1200,1800],[800,1100],2000],backgroundColor:['#d9d9d9','#2f6fd0','#8c8c8c','#c4a35a','#d9d9d9','#0b1f8f'],barPercentage:.6}]},options:{indexAxis:'y',plugins:{legend:{display:false},vl:{fmt:v=>v===2000?'2,000超':v.toLocaleString()}},scales:{x:AX({beginAtZero:true,max:2600,title:{display:true,text:'ドル/kW',color:'#000'}}),y:AX()}}});
+ new Chart(document.getElementById('cSieM'),{type:'bar',data:{labels:['2025（算出）','2026年8月時点','2028（計画）'],datasets:[{label:'中型ガスタービンの生産能力（台/年）',data:[50,80,100],backgroundColor:['#d9d9d9','#2f6fd0','#0b1f8f'],barPercentage:.5}]},options:{plugins:{legend:{display:false},vl:{fmt:v=>v+'台'}},scales:{x:AX(),y:AX({beginAtZero:true,max:120,title:{display:true,text:'台/年',color:'#000'}})}}});
+ new Chart(document.getElementById('cBh'),{type:'bar',data:{labels:['IET 受注','うちガス設備','うちガスサービス','IET 受注残'],datasets:[{label:'億ドル（2026年4–6月）',data:[71,49.1,13.1,371],backgroundColor:['#0b1f8f','#2f6fd0','#8c8c8c','#d9d9d9'],barPercentage:.6}]},options:{indexAxis:'y',plugins:{legend:{display:false},vl:{fmt:v=>v.toLocaleString()+'億ドル'}},scales:{x:AX({beginAtZero:true,max:450}),y:AX()}}});
+});
+})();
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a582d33fac958bdc',t:'MTc5NDI5MDMwMw=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a582d33fac958bdc',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body></html>

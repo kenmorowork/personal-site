@@ -1,0 +1,528 @@
+
+<div class="fn-view" id="view-psm" data-view="psm" hidden><nav class="fn-backbar" aria-label="FIELDNOTES 目次へ"><a class="fn-backlink" href="#/">← FIELDNOTES 目次へ戻る</a></nav>
+<style>
+/* power-semiconductor-materials page inline style (git blob ad873f9180a53d1ffb3131bfe1064cdef887cbcd) scoped to the view root; body:has(.psm) page-background rule dropped (shell owns the backdrop) */
+#view-psm .psm{color-scheme:light;
+  --paper:#ffffff; --ink:#000000; --text:#1a1a1a; --muted:#595959; --rule:#bfbfbf; --band:#f2f2f2;
+  --title:#1a7fc1; --navy:#0b1f8f; --blue:#2f6fd0; --g1:#d9d9d9; --g2:#8c8c8c; --gold:#c4a35a; --goldbg:#f6eedb; --red:#d7261e;
+  --si:#8c8c8c; --sic:#0b1f8f; --gan:#2f6fd0; --gao:#c4a35a;
+  --f:"Arimo","Noto Sans JP",Arial,"Hiragino Sans","Yu Gothic",sans-serif;
+  background:var(--paper);color:var(--text);font-family:var(--f);font-size:14px;line-height:1.65;
+  max-width:1180px;margin:0 auto;padding-block:0 80px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));box-sizing:border-box}
+#view-psm .psm *{box-sizing:border-box}
+#view-psm .psm .pnav{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--paper);display:flex;flex-wrap:wrap;border-bottom:2px solid var(--navy);margin:0 0 6px;padding-top:10px}
+#view-psm .psm .pnav a{font-size:12.5px;font-weight:700;color:var(--navy);text-decoration:none;padding:6px 12px;border:1px solid var(--navy);border-bottom:0;margin-right:4px;background:var(--paper)}
+#view-psm .psm .pnav a[aria-current="page"]{background:var(--navy);color:#fff}
+#view-psm .psm .pnav a:hover{background:var(--band)}
+#view-psm .psm .pnav a[aria-current="page"]:hover{background:var(--navy)}
+#view-psm .psm .pnav a:focus-visible{outline:2px solid var(--title);outline-offset:1px}
+#view-psm .psm .pnav .ext{font-weight:400;border-color:var(--g2);color:var(--muted)}
+#view-psm .psm .pnav .ext:first-of-type{margin-left:auto}
+#view-psm .psm .topbar{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--muted);padding:4px 0 6px;border-bottom:1px solid var(--rule)}
+#view-psm .psm .topbar b{color:var(--navy)}
+#view-psm .psm .draft{color:var(--red);font-weight:700}
+#view-psm .psm h1{font-size:clamp(22px,3.4vw,30px);line-height:1.3;margin:16px 0 8px;color:var(--navy);font-weight:700;text-wrap:balance}
+#view-psm .psm .lead{font-size:14.5px;max-width:86ch;margin:0 0 14px}
+#view-psm .psm .lead b{color:var(--navy)}
+#view-psm .psm .kh{font-size:12px;font-weight:700;color:var(--navy);margin:10px 0 0}
+#view-psm .psm .kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);margin-bottom:6px}
+#view-psm .psm .kpi{padding:10px 14px;border-left:1px solid var(--rule);min-width:0}
+#view-psm .psm .kpi:first-child{border-left:0;padding-left:0}
+#view-psm .psm .kpi .k{font-size:11.5px;color:var(--muted)}
+#view-psm .psm .kpi .v{font-size:24px;font-weight:700;color:var(--navy);font-variant-numeric:tabular-nums;line-height:1.3}
+#view-psm .psm .kpi .v small{font-size:12px;color:var(--muted);font-weight:400;margin-left:3px}
+#view-psm .psm .kpi .d{font-size:11px;color:var(--muted);line-height:1.4}
+#view-psm .psm .kpis.jp .kpi .v{color:#7a5b16}
+#view-psm .psm h2{font-size:19px;margin:40px 0 4px;color:var(--navy);text-wrap:balance}
+#view-psm .psm h2 .n{color:var(--title);margin-right:10px}
+#view-psm .psm .row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+#view-psm .psm .fig{position:relative;border-top:1px solid var(--title);border-bottom:1px solid var(--title);padding:0 0 4px;min-width:0;margin-top:12px}
+#view-psm .psm .fig::before{content:"";position:absolute;left:0;top:0;height:30px;border-left:1px solid var(--title)}
+#view-psm .psm .fig::after{content:"";position:absolute;right:0;bottom:0;height:10px;border-right:1px solid var(--title)}
+#view-psm .psm .ft{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px 14px;padding:5px 0 8px 8px}
+#view-psm .psm .ft h3{margin:0;font-size:15px;line-height:1.35;color:var(--title);font-weight:400;text-wrap:balance}
+#view-psm .psm .src{font-size:10.5px;font-style:italic;border-top:1px solid var(--ink);margin:10px 0 0;padding:3px 0 0 8px}
+#view-psm .psm .chart{padding:4px 6px 0}
+#view-psm .psm .chart svg{width:100%;height:auto;display:block;overflow:visible}
+#view-psm .psm .chart text{font-family:var(--f);fill:var(--text)}
+#view-psm .psm .lg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:11.5px;margin:4px 8px 0}
+#view-psm .psm .lg i{display:inline-block;width:11px;height:10px;margin-right:5px;vertical-align:-1px}
+#view-psm .psm .tbl{overflow-x:auto;padding:0 2px}
+#view-psm .psm table{border-collapse:collapse;width:100%;font-size:12.5px;font-variant-numeric:tabular-nums}
+#view-psm .psm thead th{font-weight:700;border-top:1.5px solid var(--ink);border-bottom:1px solid var(--ink);padding:5px 8px;text-align:left;vertical-align:bottom;white-space:nowrap}
+#view-psm .psm td{padding:5px 8px;border-bottom:1px solid var(--g1);text-align:left;vertical-align:top}
+#view-psm .psm td.n,#view-psm .psm th.n{text-align:right;white-space:nowrap}
+#view-psm .psm td.w{min-width:200px}
+#view-psm .psm tbody tr:last-child td{border-bottom:1.5px solid var(--ink)}
+#view-psm .psm tr.tot td{font-weight:700;background:var(--band)}
+#view-psm .psm tr.jp td{background:var(--goldbg)}
+#view-psm .psm tr.gh td{background:var(--band);font-weight:700;color:var(--navy)}
+#view-psm .psm .calc{font-size:12.5px;padding:0 8px}
+#view-psm .psm .calc p{margin:6px 0}
+#view-psm .psm .ask{font-size:12.5px;color:var(--muted);border-left:3px solid var(--gold);padding:6px 10px;margin:14px 0;background:var(--band)}
+#view-psm .psm .ask b{color:var(--text)}
+#view-psm .psm .seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--g2);flex:none}
+#view-psm .psm .seg button{font:inherit;font-size:11.5px;padding:3px 10px;background:var(--paper);color:var(--text);border:0;cursor:pointer}
+#view-psm .psm .seg button+button{border-left:1px solid var(--g2)}
+#view-psm .psm .seg button[aria-pressed="true"]{background:var(--navy);color:#fff}
+#view-psm .psm .seg button:focus-visible{outline:2px solid var(--title);outline-offset:-2px}
+#view-psm .psm .jpc{background:var(--goldbg);padding:0 3px}
+#view-psm .psm .ddot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:0}
+#view-psm .psm .tag{display:inline-block;font-size:10.5px;padding:0 5px;border:1px solid var(--g2);margin-left:4px;white-space:nowrap;color:var(--muted)}
+#view-psm .psm footer{margin-top:56px;padding-top:8px;border-top:2px solid var(--navy);font-size:11px;color:var(--muted)}
+#view-psm .psm a{color:var(--navy)}
+@media (max-width:900px){
+#view-psm .psm .row{grid-template-columns:minmax(0,1fr)}
+#view-psm .psm .kpis{grid-template-columns:repeat(2,minmax(0,1fr))}
+#view-psm .psm .kpi:nth-child(3){border-left:0;padding-left:0}
+#view-psm .psm .pnav .ext:first-of-type{margin-left:0}}
+#view-psm .psm tr.lh td{background:var(--navy);color:#fff;font-weight:700;padding:5px 8px;border-bottom:0}
+#view-psm .psm tr.lh td small{font-weight:400;opacity:.8;margin-left:8px}
+#view-psm .mx td{font-size:12px;line-height:1.55;min-width:190px}
+#view-psm .mx td.rh{min-width:150px;font-weight:700;color:var(--navy)}
+#view-psm .mx td.rh small{display:block;font-weight:400;color:var(--muted);font-size:11px}
+#view-psm .mx th.dv{min-width:190px}
+#view-psm .mx td.chg{background:#eef2fb}
+#view-psm .mx.only td.cell:not(.chg){color:#9a9a9a}
+#view-psm .mx tr.gr td{background:var(--band);font-weight:700;color:var(--navy);font-size:11.5px;letter-spacing:.04em}
+#view-psm .mx [hidden]{display:none}
+#view-psm .chk{columns:2;column-gap:28px;padding:0 8px 0 24px;font-size:13px;margin:0}
+#view-psm .chk li{break-inside:avoid;margin-bottom:6px}
+#view-psm .srcl{font-size:11px;padding-left:20px}
+#view-psm .srcl li{margin:3px 0}
+@media (max-width:900px){
+#view-psm .chk{columns:1}}
+
+/* neutralise Space-global bare .src important rule (earlier batches) back to this page metrics */
+#view-psm .psm .src{font-size:10.5px!important;line-height:inherit!important}
+</style>
+<main class="psm standard-report">
+
+<header class="standard-banner report-banner"><p class="standard-eyebrow">FIELDNOTES / INDUSTRY STATISTICS</p><h1>パワー半導体材料</h1><p class="standard-description">Si・SiC・GaNの基板、接合、封止、絶縁・放熱材料。</p></header><nav aria-label="このトピックのページ" class="standard-companions"><span class="standard-page-state published" aria-current="page" title="ページ・本文を確認。内容・出典の全件再監査は今回の範囲外。"><strong>統計レポート</strong><small>現在のページ</small></span><a class="standard-page-state published" href="#" data-goto="psmv" title="ページ・本文を確認。内容・出典の全件再監査は今回の範囲外。"><strong>バリューチェーン</strong><small>掲載</small></a><strong>3Dモデル</strong><small>共用・代表見本</small><p class="standard-model-scope">チップ・モジュール・SiC工程の模式3D。操作は未監査</p></nav><div class="layout report-layout standard-layout"><nav aria-label="ページ内目次" class="report-toc standard-toc"><span class="toc-label">CONTENTS</span><a href="#psm-report-overview">概況・主要指標</a><a href="#psm-report-section-1"><span class="standard-toc-number">01</span><span>01材料の分け方：工程×デバイス</span></a><a href="#psm-report-section-2"><span class="standard-toc-number">02</span><span>02デバイス市場：材料の需要はここから決まる</span></a><a href="#psm-report-section-3"><span class="standard-toc-number">03</span><span>03材料市場：2029年に1兆円、パッケージ材料はモジュール原価の約3割</span></a><a href="#psm-report-section-4"><span class="standard-toc-number">04</span><span>04SiC基板：数量は伸びたが、値下がりと過剰能力</span></a><a href="#psm-report-section-5"><span class="standard-toc-number">05</span><span>05GaN・Ga₂O₃・ダイヤモンド：口径を上げる段階</span></a><a href="#psm-report-section-6"><span class="standard-toc-number">06</span><span>06モジュール材料：窒化ケイ素基板と焼結銀の増産</span></a><a href="#psm-report-section-7"><span class="standard-toc-number">07</span><span>07企業：基板会社の採算が崩れ、デバイス会社は減損</span></a><a href="#psm-report-section-8"><span class="standard-toc-number">08</span><span>08論点</span></a><a href="#psm-report-section-9"><span class="standard-toc-number">09</span><span>09初回レポートに加えるべきもの</span></a><a href="#psm-report-section-10"><span class="standard-toc-number">10</span><span>10出典</span></a></nav><div class="body report-body standard-body"><section class="standard-section standard-intro" id="psm-report-overview"><div class="topbar"><span><b>Statistics</b>　パワー半導体材料</span><span class="draft">DRAFT</span><span>公開資料確認 2026年10月16日</span></div>
+<p class="standard-original-title">パワー半導体材料：材料市場は2025年の約6,000億円から2035年に1.8兆円へ。SiCで基板・接合材・絶縁基板が入れ替わり、SiC基板は値下がりと中国の増産で採算が崩れた</p>
+<p class="lead">パワー半導体の世界市場は2025年に3.76兆円、2035年に7.35兆円の見通し（富士経済）。うち材料（ウエハ・接合材・封止材など）は2025年に5,967億円で、2035年に<b>約3倍の1.8兆円</b>。伸びの中心はSiC・GaNで、SiでIGBTを作るときと比べて<b>基板、エピ、ダイ接合、絶縁基板、封止の5か所で材料が変わる</b>。ただしSiC基板は6インチが1枚約400ドルまで下がり、中国勢が能力の約4割を持つ。上流の稼働率は約50%で、Wolfspeedは2025年に経営破綻した。<b>量は伸びても、どの材料で値段が保てるか</b>が論点。</p>
+<div class="kh">市場全体</div>
+<div class="kpis">
+ <div class="kpi"><div class="k">パワー半導体の世界市場 2025</div><div class="v">3.76<small>兆円</small></div><div class="d">2035年7.35兆円（+95.7%）、うち次世代2.51兆円（富士経済）</div></div>
+ <div class="kpi"><div class="k">構成部材（材料）の市場 2025</div><div class="v">5,967<small>億円</small></div><div class="d">2029年に1兆円、2035年1.81兆円（3.0倍）（富士経済）</div></div>
+ <div class="kpi"><div class="k">SiCウエハ市場 2025見込み</div><div class="v">1,943<small>億円</small></div><div class="d">うち8インチ551億円（28%、算出）。2035年5,724億円</div></div>
+ <div class="kpi"><div class="k">SiC 6インチ基板の価格 2025</div><div class="v">約400<small>ドル/枚</small></div><div class="d">原価割れに近い水準（TrendForce）。2026年7月に底入れの報道</div></div>
+</div>
+<div class="kh">日本企業</div>
+<div class="kpis jp">
+ <div class="kpi"><div class="k">ローム SiC関連の減損 26/3期</div><div class="v">1,936<small>億円</small></div><div class="d">最終赤字1,584億円。SiCデバイス・モジュール売上は+41%</div></div>
+ <div class="kpi"><div class="k">日本ガイシ AMB基板の能力</div><div class="v">10→25<small>万枚/月</small></div><div class="d">2026年度、投資50億円。2030年に売上200億円目標</div></div>
+ <div class="kpi"><div class="k">日本特殊陶業 東芝マテリアル取得</div><div class="v">約1,500<small>億円</small></div><div class="d">窒化ケイ素基板など。2025年5月に株式譲渡</div></div>
+ <div class="kpi"><div class="k">デンソー・三菱電機のCoherent SiC出資</div><div class="v">各5<small>億ドル</small></div><div class="d">各12.5%、基板・エピの長期供給契約付き</div></div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-1"><span class="n">01</span>材料の分け方：工程×デバイス</h2>
+<div class="calc"><p><b>読み方：</b>縦が工程（原料から放熱まで11段階）、横がデバイス（Si・SiC・GaN・Ga₂O₃／ダイヤモンド）。<span style="background:#eef2fb;padding:0 4px">青地</span>は、Siと比べて材料が変わるマス。SiCは11工程すべてで材料が変わり、GaNは原料・基板・エピ・前工程と、パッケージ寄りの配線に変化が集まる。</p></div>
+<div class="fig">
+ <div class="ft"><h3>図1：SiCは原料から放熱材まで全11工程で材料が変わる。GaNはSiラインを使えるため変化はウエハと配線に集中</h3>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+   <div class="seg" role="group" aria-label="デバイス"><button id="psm-d-all" aria-pressed="true">全デバイス</button><button id="psm-d-si" aria-pressed="false">Si</button><button id="psm-d-sic" aria-pressed="false">SiC</button><button id="psm-d-gan" aria-pressed="false">GaN</button><button id="psm-d-gao" aria-pressed="false">Ga₂O₃等</button></div>
+   <div class="seg" role="group" aria-label="強調"><button id="psm-o-all" aria-pressed="true">すべて表示</button><button id="psm-o-chg" aria-pressed="false">変わる材料だけ</button></div>
+  </div></div>
+ <div class="tbl"><table class="mx" id="psm-mx"><thead><tr><th>工程</th><th class="dv"><span class="ddot" style="background:#8c8c8c"></span>Si <small style="font-weight:400;color:#595959">IGBT・MOSFET</small></th><th class="dv"><span class="ddot" style="background:#0b1f8f"></span>SiC <small style="font-weight:400;color:#595959">MOSFET・SBD</small></th><th class="dv"><span class="ddot" style="background:#2f6fd0"></span>GaN <small style="font-weight:400;color:#595959">HEMT</small></th><th class="dv"><span class="ddot" style="background:#c4a35a"></span>Ga₂O₃・ダイヤモンド <small style="font-weight:400;color:#595959">次世代</small></th></tr></thead><tbody><tr class="gr"><td colspan="5">ウエハまで</td></tr><tr><td class="rh">原料・結晶成長用部材<small>結晶をつくる原料と、炉の中で使う部材</small></td><td class="cell">半導体級の多結晶シリコン、石英るつぼ。Wacker・Hemlock・トクヤマ（多結晶）</td><td class="cell chg">高純度SiC粉末、黒鉛るつぼ・断熱材。約2,200℃で昇華させて結晶を育てる。東洋炭素・イビデン・SGL・Mersen（黒鉛）</td><td class="cell chg">金属ガリウム、アンモニア、有機金属（TMGa）。ガリウムは中国が2023年8月から輸出を許可制に</td><td class="cell chg">Ga₂O₃粉末、イリジウムるつぼ（EFG法）。NCTはるつぼの要らないDG法を2029年に導入予定</td></tr><tr><td class="rh">基板（ウエハ）<small>素子をつくる土台の円板</small></td><td class="cell">FZ／MCZウエハ（8・12インチ）。信越化学・SUMCO・Siltronic・GlobalWafers</td><td class="cell chg">6インチが主力、8インチへ移行中。Wolfspeed・TanKeBlue・SICC・Coherent（上位4社で82%）、ローム（SiCrystal）、レゾナック、住友金属鉱山（貼り合わせ基板）</td><td class="cell chg">主流はSiウエハの上にGaNを成長（GaN on Si、6→8→12インチ）。縦型用のGaN基板は三菱ケミカル・住友化学。信越化学はQST基板</td><td class="cell chg">Ga₂O₃：NCTが6インチのサンプル出荷（2026年3月）、量産は2029年目標。ダイヤモンド：Orbrayなど2インチ</td></tr><tr><td class="rh">エピ（結晶膜）<small>基板の上に、電圧を受け持つ層を結晶のまま重ねる</small></td><td class="cell">MOSFETはエピ、IGBTは基板そのものを使う。基板メーカー各社</td><td class="cell chg">CVDで約10µmのドリフト層。レゾナック・Wolfspeed・瀚天天成・天域。装置はAIXTRON・ASM・ニューフレア・東京エレクトロン</td><td class="cell chg">MOCVDでAlGaN/GaN。IQE・エア・ウォーター、デバイスメーカー内製。装置はAIXTRON・Veeco</td><td class="cell chg">NCT（HVPE、エピのサンプルは2027年）、FLOSFIA（ミストCVD）</td></tr><tr class="gr"><td colspan="5">素子・チップ</td></tr><tr><td class="rh">前工程（素子形成）<small>ゲート・電極・保護膜をつくる</small></td><td class="cell">汎用の前工程材料（レジスト・ガス・スパッタ材）。トレンチゲート、フィールドストップ</td><td class="cell chg">Alの高温イオン注入、1,700℃前後の活性化アニール、ゲート酸化膜（界面の質が課題）、Ni・Ti電極。装置は住友重機械イオンテクノロジー・Axcelis</td><td class="cell chg">p-GaNゲート、SiN保護膜、金を使わない電極。Si工場の8インチラインを転用できる</td><td class="cell chg">ショットキー電極（SBD）が先行。FETは2030年前後</td></tr><tr><td class="rh">チップ加工（研削・切断）<small>ウエハを薄くし、チップに切り分ける</small></td><td class="cell">100µm前後まで薄化、ブレードダイシング。ディスコ</td><td class="cell chg">硬く割れやすいため、レーザー切断（ディスコKABRA）、研削・CMP（フジミインコーポレーテッドなどのスラリー）、ダイヤモンド工具</td><td class="cell">Si基板側を研削・ダイシング。Siとほぼ同じ</td><td class="cell">—（量産前）</td></tr><tr class="gr"><td colspan="5">モジュール</td></tr><tr><td class="rh">ダイ接合<small>チップを基板に固定し、熱と電気を通す</small></td><td class="cell">鉛フリーはんだ（Sn系）。千住金属工業</td><td class="cell chg">焼結銀（200℃超でも溶けない）、焼結銅。Heraeus・京セラ・三ツ星ベルト・田中貴金属・MacDermid Alpha・Henkel</td><td class="cell">ディスクリート中心。はんだ・銀ペースト</td><td class="cell">—（研究段階）</td></tr><tr><td class="rh">配線（ワイヤ・クリップ）<small>チップ上面の電極と端子をつなぐ</small></td><td class="cell">太いAlワイヤ。Heraeus・田中電子工業</td><td class="cell chg">Cuワイヤ・Cuクリップ・リボン。ワイヤをなくした両面冷却も</td><td class="cell chg">寄生インダクタンスを避けるため、ワイヤの少ないチップスケール・面実装</td><td class="cell">—</td></tr><tr><td class="rh">絶縁基板（セラミック）<small>電気を絶縁しつつ、熱を下へ逃がす</small></td><td class="cell">DBC（銅＋アルミナ）、DBA（アルミ）。Rogers・Heraeus・KCC・三菱マテリアル・DOWA・Ferrotec</td><td class="cell chg">窒化ケイ素AMB（割れにくい）。日本特殊陶業（旧東芝マテリアル）・プロテリアル・デンカ・日本ガイシ・京セラ。原料粉はUBE（窒化ケイ素）、トクヤマ（窒化アルミ）</td><td class="cell">小型品はプリント基板・リードフレーム。大電力品はAMB</td><td class="cell">—</td></tr><tr><td class="rh">ベースプレート・冷却<small>モジュールの底板と冷却器</small></td><td class="cell">銅ベースプレート、鉄道・産業向けはAlSiC</td><td class="cell chg">ピンフィン付きの直接水冷、両面冷却。銅・アルミ</td><td class="cell">—（基板実装）</td><td class="cell">—</td></tr><tr><td class="rh">封止・ケース<small>チップと配線を湿気・異物・放電から守る</small></td><td class="cell">シリコーンゲル＋樹脂ケース（PPS）。信越化学・ダウ・Wacker</td><td class="cell chg">接合温度175–200℃に耐えるエポキシ封止（トランスファーモールド）。住友ベークライト・レゾナック</td><td class="cell">QFNなどのモールドパッケージ</td><td class="cell">—</td></tr><tr><td class="rh">放熱材（TIM）<small>モジュールと冷却器のすき間を埋める</small></td><td class="cell">サーマルグリース。信越化学・ダウ・Henkel</td><td class="cell chg">相変化材料・あらかじめ塗布した放熱材。直接水冷ではTIMそのものを省く</td><td class="cell">放熱シート・グリース</td><td class="cell">—</td></tr></tbody></table></div>
+ <div class="src">Source: 各社の製品情報・決算資料、富士経済、Yole、TrendForce、Future Marketsをもとに作成者が整理。企業名は製品分野による分類で、取引関係やシェアを示すものではない（シェアの記載は出典付きのもののみ）</div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-2"><span class="n">02</span>デバイス市場：材料の需要はここから決まる</h2>
+<div class="row">
+ <div class="fig"><div class="ft"><h3>図2：パワー半導体は2035年に7.35兆円、次世代の比率は14%から34%へ</h3></div>
+  <div class="chart" id="psm-cMkt"><svg viewBox="0 0 640 280" role="img" aria-label=""><line x1="44" x2="628" y1="250" y2="250" stroke="#000"></line><text x="38" y="254" text-anchor="end" font-size="11">0</text><text x="38" y="208.4" text-anchor="end" font-size="11">2</text><text x="38" y="162.8" text-anchor="end" font-size="11">4</text><text x="38" y="117.20000000000002" text-anchor="end" font-size="11">6</text><text x="38" y="71.6" text-anchor="end" font-size="11">8</text><text x="38" y="26" text-anchor="end" font-size="11">10</text><line x1="44" x2="44" y1="22" y2="250" stroke="#000"></line><rect x="99.48" y="176.584" width="181.04" height="73.416" fill="#8c8c8c"></rect><text x="190" y="217.292" font-size="10.5" text-anchor="middle" fill="#fff">3.22</text><rect x="391.48" y="139.648" width="181.04" height="110.352" fill="#8c8c8c"></rect><text x="482" y="198.824" font-size="10.5" text-anchor="middle" fill="#fff">4.84</text><rect x="99.48" y="164.272" width="181.04" height="12.311999999999998" fill="#0b1f8f"></rect><rect x="391.48" y="82.42000000000002" width="181.04" height="57.22799999999998" fill="#0b1f8f"></rect><text x="482" y="115.034" font-size="10.5" text-anchor="middle" fill="#fff">2.51</text><text x="190" y="158.272" font-size="11" font-weight="700" text-anchor="middle">3.76</text><text x="482" y="76.42000000000002" font-size="11" font-weight="700" text-anchor="middle">7.35</text><text x="190" y="266" font-size="11.5" text-anchor="middle">2025</text><text x="482" y="266" font-size="11.5" text-anchor="middle">2035（予測）</text></svg><div class="lg"><span><i style="background:#8c8c8c"></i>Si</span><span><i style="background:#0b1f8f"></i>次世代（SiC・GaN・Ga₂O₃）</span></div></div>
+  <div class="src">Source: 富士経済（2026年4月28日発表「2026年版 次世代パワーデバイス関連市場の現状と将来展望」、EE Times Japan 2026年5月1日経由）。比率は作成者の算出</div></div>
+ <div class="fig"><div class="ft"><h3>図3：次世代の中心はSiCモジュール。2035年に1.87兆円（2025年の5.3倍）</h3></div>
+  <div class="chart" id="psm-cNext"><svg viewBox="0 0 640 162" role="img" aria-label=""><line x1="150" x2="150" y1="18" y2="142" stroke="#000"></line><rect x="150" y="27.7" width="66.93272727272728" height="9.3" fill="#d9d9d9"></rect><text x="220.93272727272728" y="36.35" font-size="11">3,506億円</text><rect x="150" y="57.7" width="24.37909090909091" height="9.3" fill="#d9d9d9"></rect><text x="178.3790909090909" y="66.35" font-size="11">1,277億円</text><rect x="150" y="87.7" width="11.168181818181818" height="9.3" fill="#d9d9d9"></rect><text x="165.1681818181818" y="96.35000000000001" font-size="11">585億円</text><rect x="150" y="117.7" width="1" height="9.3" fill="#d9d9d9"></rect><text x="155" y="126.35000000000001" font-size="11">0億円</text><rect x="150" y="37" width="357.93545454545455" height="9.3" fill="#0b1f8f"></rect><text x="511.93545454545455" y="45.65" font-size="11">18,749億円</text><rect x="150" y="67" width="57.46363636363636" height="9.3" fill="#0b1f8f"></rect><text x="211.46363636363637" y="75.65" font-size="11">3,010億円</text><rect x="150" y="97" width="60.4990909090909" height="9.3" fill="#0b1f8f"></rect><text x="214.4990909090909" y="105.65" font-size="11">3,169億円</text><rect x="150" y="127" width="2.8445454545454547" height="9.3" fill="#0b1f8f"></rect><text x="156.84454545454545" y="135.65" font-size="11">149億円</text><text x="144" y="41" text-anchor="end" font-size="11.5">SiCモジュール</text><text x="144" y="71" text-anchor="end" font-size="11.5">その他の次世代（算出）</text><text x="144" y="101" text-anchor="end" font-size="11.5">GaN</text><text x="144" y="131" text-anchor="end" font-size="11.5">Ga₂O₃</text></svg><div class="lg"><span><i style="background:#d9d9d9"></i>2025</span><span><i style="background:#0b1f8f"></i>2035（予測）</span></div></div>
+  <div class="src">Source: 同左。「その他の次世代」は次世代合計からSiCモジュール・GaN・Ga₂O₃を引いた残り（SiCディスクリートなど、作成者の算出）。Ga₂O₃の2025年はほぼゼロ</div></div>
+</div>
+<div class="row">
+ <div class="fig"><div class="ft"><h3>図4：2030年の見通しはIGBT 134億ドル、SiC約100億ドル、GaN約30億ドル（Yole）</h3></div>
+  <div class="chart" id="psm-cYole"><svg viewBox="0 0 640 132" role="img" aria-label=""><line x1="80" x2="80" y1="18" y2="112" stroke="#000"></line><rect x="80" y="27.7" width="410.375" height="18.6" fill="#8c8c8c"></rect><text x="494.375" y="41" font-size="11">134億ドル</text><rect x="80" y="57.7" width="306.25" height="18.6" fill="#0b1f8f"></rect><text x="390.25" y="71" font-size="11">100億ドル</text><rect x="80" y="87.7" width="91.875" height="18.6" fill="#2f6fd0"></rect><text x="175.875" y="101" font-size="11">30億ドル</text><text x="74" y="41" text-anchor="end" font-size="11.5">IGBT</text><text x="74" y="71" text-anchor="end" font-size="11.5">SiC</text><text x="74" y="101" text-anchor="end" font-size="11.5">GaN</text></svg></div>
+  <div class="src">Source: Yole Group（IGBT 2025：2024–30年の年率7.5%、2025年11月）、Power SiC 2025（2025年12月、Semiconductor Today経由）、Power GaN 2025（2024年3.55億ドル、年率42%、2025年10月）。Yoleと富士経済は定義と為替が違うため、図2・3と直接は足せない</div></div>
+ <div class="fig"><div class="ft"><h3>図5：SiCで材料が変わる理由は「小さいチップに、高い温度と速いスイッチング」</h3></div>
+  <div class="tbl"><table>
+   <thead><tr><th>条件</th><th>Si IGBT</th><th>SiC MOSFET</th><th>材料への影響</th></tr></thead>
+   <tbody>
+    <tr><td>同じ電流でのチップ面積</td><td>基準</td><td>3分の1〜4分の1</td><td class="w">熱が狭い面積に集中し、接合材と基板の放熱性が効く</td></tr>
+    <tr><td>接合部の温度</td><td>150–175℃</td><td>175℃以上</td><td class="w">はんだ→焼結銀、ゲル→高耐熱の樹脂封止</td></tr>
+    <tr><td>寄生インダクタンス</td><td>—</td><td>10nH以下が目安</td><td class="w">ワイヤ→Cuクリップ・ワイヤレス、低インダクタンスの配置</td></tr>
+    <tr><td>温度サイクル</td><td>—</td><td>大きい</td><td class="w">アルミナDBC→割れにくい窒化ケイ素AMB</td></tr>
+    <tr><td>ウエハの値段</td><td>基準</td><td>30–50倍</td><td class="w">基板・エピがデバイス原価の大きな部分を占める</td></tr>
+   </tbody></table></div>
+  <div class="src">Source: Power Electronics News（2022年1月、チップ面積・ウエハ価格の比）、Future Markets「Critical Materials for Power Module Packaging」（接合温度・インダクタンス・封止材の条件）。Si IGBTの接合温度は作成者の整理</div></div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-3"><span class="n">03</span>材料市場：2029年に1兆円、パッケージ材料はモジュール原価の約3割</h2>
+<div class="row">
+ <div class="fig"><div class="ft"><h3>図6：材料（構成部材）は2035年に1.81兆円で、製造装置（1.36兆円）より大きくなる</h3></div>
+  <div class="chart" id="psm-cMat"><svg viewBox="0 0 640 280" role="img" aria-label=""><line x1="44" x2="628" y1="250" y2="250" stroke="#000"></line><text x="38" y="254" text-anchor="end" font-size="11">0</text><text x="38" y="197" text-anchor="end" font-size="11">5,000</text><text x="38" y="140" text-anchor="end" font-size="11">10,000</text><text x="38" y="83" text-anchor="end" font-size="11">15,000</text><text x="38" y="26" text-anchor="end" font-size="11">20,000</text><line x1="44" x2="44" y1="22" y2="250" stroke="#000"></line><rect x="80.98666666666666" y="181.9762" width="60.346666666666664" height="68.0238" fill="#c4a35a"></rect><text x="111.16" y="176.9762" font-size="11" text-anchor="middle">5,967</text><rect x="275.6533333333333" y="136" width="60.346666666666664" height="114" fill="#c4a35a"></rect><text x="305.82666666666665" y="131" font-size="11" text-anchor="middle">10,000</text><rect x="470.32" y="44.115999999999985" width="60.346666666666664" height="205.88400000000001" fill="#c4a35a"></rect><text x="500.49333333333334" y="39.115999999999985" font-size="11" text-anchor="middle">18,060</text><rect x="141.33333333333331" y="173.221" width="60.346666666666664" height="76.779" fill="#8c8c8c"></rect><text x="171.50666666666666" y="168.221" font-size="11" text-anchor="middle">6,735</text><rect x="530.6666666666666" y="94.6522" width="60.346666666666664" height="155.3478" fill="#8c8c8c"></rect><text x="560.8399999999999" y="89.6522" font-size="11" text-anchor="middle">13,627</text><text x="141.33333333333331" y="266" font-size="11.5" text-anchor="middle">2025</text><text x="336" y="266" font-size="11.5" text-anchor="middle">2029</text><text x="530.6666666666666" y="266" font-size="11.5" text-anchor="middle">2035（予測）</text></svg><div class="lg"><span><i style="background:#c4a35a"></i>構成部材（材料）</span><span><i style="background:#8c8c8c"></i>製造装置</span></div></div>
+  <div class="src">Source: 富士経済（2026年4月28日発表、EE Times Japan経由）。構成部材はウエハ・レジスト・はんだ・封止材・接合材など20品目。2029年は「1兆円に達する」を1兆円で表示。2025年の装置は前年比82.4%</div></div>
+ <div class="fig"><div class="ft"><h3>図7：モジュールのパッケージ材料は2023年23億ドル→2029年43億ドル。最大はベースプレート</h3></div>
+  <div class="chart" id="psm-cPkg"><svg viewBox="0 0 640 280" role="img" aria-label=""><line x1="44" x2="628" y1="250" y2="250" stroke="#000"></line><text x="38" y="254" text-anchor="end" font-size="11">0</text><text x="38" y="208.4" text-anchor="end" font-size="11">1</text><text x="38" y="162.8" text-anchor="end" font-size="11">2</text><text x="38" y="117.20000000000002" text-anchor="end" font-size="11">3</text><text x="38" y="71.6" text-anchor="end" font-size="11">4</text><text x="38" y="26" text-anchor="end" font-size="11">5</text><line x1="44" x2="44" y1="22" y2="250" stroke="#000"></line><rect x="99.48" y="220.3144" width="181.04" height="29.6856" fill="#0b1f8f"></rect><text x="190" y="239.15720000000002" font-size="10.5" text-anchor="middle" fill="#fff">0.65</text><rect x="391.48" y="201.208" width="181.04" height="48.79200000000001" fill="#0b1f8f"></rect><text x="482" y="229.604" font-size="10.5" text-anchor="middle" fill="#fff">1.07</text><rect x="99.48" y="145.07439999999997" width="181.04" height="75.24000000000001" fill="#d9d9d9"></rect><text x="190" y="186.69439999999997" font-size="10.5" text-anchor="middle" fill="#000">1.65</text><rect x="391.48" y="52.096000000000004" width="181.04" height="149.112" fill="#d9d9d9"></rect><text x="482" y="130.652" font-size="10.5" text-anchor="middle" fill="#000">3.27</text><text x="190" y="139.07439999999997" font-size="11" font-weight="700" text-anchor="middle">2.30</text><text x="482" y="46.096000000000004" font-size="11" font-weight="700" text-anchor="middle">4.34</text><text x="190" y="266" font-size="11.5" text-anchor="middle">2023</text><text x="482" y="266" font-size="11.5" text-anchor="middle">2029（予測）</text></svg><div class="lg"><span><i style="background:#0b1f8f"></i>ベースプレート</span><span><i style="background:#d9d9d9"></i>その他のパッケージ材料（算出）</span></div></div>
+  <div class="src">Source: Yole「Status of the Power Module Packaging Industry 2024」（パッケージ材料はモジュール原価の約30%、2023–29年の年率11%）。ベースプレート以外の内訳は非開示</div></div>
+</div>
+<div class="fig"><div class="ft"><h3>図8：パッケージ原価のうち材料は約4分の1。材料価値の58%が銅、20–22%が銀</h3></div>
+ <div class="tbl"><table>
+  <thead><tr><th>項目</th><th class="n">数値</th><th>意味</th><th>出典</th></tr></thead>
+  <tbody>
+   <tr><td>原材料・加工部品の比率</td><td class="n">パッケージ原価の約1/4、完成モジュール価格の約1/3</td><td class="w">材料の値上がりは、モジュール価格に3分の1程度の重みで効く</td><td>Future Markets</td></tr>
+   <tr><td>銅の比率</td><td class="n">原材料価値の58%</td><td class="w">ベースプレート・基板の銅・クリップ。銅価格の感応度が最大</td><td>Future Markets</td></tr>
+   <tr class="tot"><td>銀の比率</td><td class="n">20–22%</td><td class="w">焼結銀への切り替えで上がる。銀価格の上昇がそのままコスト増になる</td><td>Future Markets</td></tr>
+   <tr><td>車載の認定期間</td><td class="n">2–5年</td><td class="w">材料を一度採用されると切り替わりにくい。新規参入の壁</td><td>Future Markets</td></tr>
+   <tr><td>SiC MOSFETの普及</td><td class="n">2030年に主機インバータ出荷の30%超</td><td class="w">焼結銀・窒化ケイ素AMBの数量の前提</td><td>Future Markets</td></tr>
+  </tbody></table></div>
+ <div class="src">Source: Future Markets「Critical Materials for Power Module Packaging 2026–2036」（2026年2月、概要部分）</div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-4"><span class="n">04</span>SiC基板：数量は伸びたが、値下がりと過剰能力</h2>
+<div class="row">
+ <div class="fig"><div class="ft"><h3>図9：SiCウエハ市場は2035年に5,724億円。8インチが28%→65%に</h3></div>
+  <div class="chart" id="psm-cSicW"><svg viewBox="0 0 640 300" role="img" aria-label=""><line x1="44" x2="628" y1="270" y2="270" stroke="#000"></line><text x="38" y="274" text-anchor="end" font-size="11">0</text><text x="38" y="224.4" text-anchor="end" font-size="11">2,000</text><text x="38" y="174.8" text-anchor="end" font-size="11">4,000</text><text x="38" y="125.20000000000002" text-anchor="end" font-size="11">6,000</text><text x="38" y="75.6" text-anchor="end" font-size="11">8,000</text><text x="38" y="26" text-anchor="end" font-size="11">10,000</text><line x1="44" x2="44" y1="22" y2="270" stroke="#000"></line><rect x="80.98666666666666" y="234.3872" width="120.69333333333333" height="35.6128" fill="#d9d9d9"></rect><text x="141.33333333333331" y="256.1936" font-size="10.5" text-anchor="middle" fill="#000">1,436</text><rect x="275.6533333333333" y="235.4784" width="120.69333333333333" height="34.5216" fill="#8c8c8c"></rect><text x="336" y="256.7392" font-size="10.5" text-anchor="middle" fill="#fff">1,392</text><rect x="470.32" y="219.8048" width="120.69333333333333" height="50.1952" fill="#8c8c8c"></rect><text x="530.6666666666666" y="248.9024" font-size="10.5" text-anchor="middle" fill="#fff">2,024</text><rect x="275.6533333333333" y="221.8136" width="120.69333333333333" height="13.6648" fill="#0b1f8f"></rect><rect x="470.32" y="128.0448" width="120.69333333333333" height="91.75999999999999" fill="#0b1f8f"></rect><text x="530.6666666666666" y="177.9248" font-size="10.5" text-anchor="middle" fill="#fff">3,700</text><text x="141.33333333333331" y="228.3872" font-size="11" font-weight="700" text-anchor="middle">1,436</text><text x="336" y="215.8136" font-size="11" font-weight="700" text-anchor="middle">1,943</text><text x="530.6666666666666" y="122.04480000000001" font-size="11" font-weight="700" text-anchor="middle">5,724</text><text x="141.33333333333331" y="286" font-size="11.5" text-anchor="middle">2024</text><text x="336" y="286" font-size="11.5" text-anchor="middle">2025（見込み）</text><text x="530.6666666666666" y="286" font-size="11.5" text-anchor="middle">2035（予測）</text></svg><div class="lg"><span><i style="background:#d9d9d9"></i>合計のみ（内訳なし）</span><span><i style="background:#8c8c8c"></i>8インチ以外（算出）</span><span><i style="background:#0b1f8f"></i>8インチ</span></div></div>
+  <div class="src">Source: 富士経済（2025年12月発表、EE Times Japan 2026年1月6日経由）。2024年は2025年5月発表の値（定義の改定で2025年の伸び率22.3%と整合しない）。8インチ以外は作成者の算出。前回予測（2035年6,195億円）から下方修正</div></div>
+ <div class="fig"><div class="ft"><h3>図10：N型SiC基板の売上シェア（2024年）。上位4社で82%、うち中国2社で34%</h3></div>
+  <div class="chart" id="psm-cShare"><svg viewBox="0 0 640 192" role="img" aria-label=""><line x1="130" x2="130" y1="18" y2="172" stroke="#000"></line><rect x="130" y="27.7" width="370.7" height="18.6" fill="#0b1f8f"></rect><text x="504.7" y="41" font-size="11">33.7%</text><rect x="130" y="57.7" width="190.3" height="18.6" fill="#8c8c8c"></rect><text x="324.3" y="71" font-size="11">17.3%</text><rect x="130" y="87.7" width="188.10000000000002" height="18.6" fill="#8c8c8c"></rect><text x="322.1" y="101" font-size="11">17.1%</text><rect x="130" y="117.7" width="152.9" height="18.6" fill="#0b1f8f"></rect><text x="286.9" y="131" font-size="11">13.9%</text><rect x="130" y="147.7" width="198" height="18.6" fill="#d9d9d9"></rect><text x="332" y="161" font-size="11">18.0%</text><text x="124" y="41" text-anchor="end" font-size="11.5">Wolfspeed</text><text x="124" y="71" text-anchor="end" font-size="11.5">TanKeBlue（中国）</text><text x="124" y="101" text-anchor="end" font-size="11.5">SICC（中国）</text><text x="124" y="131" text-anchor="end" font-size="11.5">Coherent</text><text x="124" y="161" text-anchor="end" font-size="11.5">その他</text></svg></div>
+  <div class="src">Source: TrendForce（2025年5月12日）。2024年のN型基板売上10.4億ドル（前年比−9%）。その他は差し引きで算出</div></div>
+</div>
+<div class="row">
+ <div class="fig"><div class="ft"><h3>図11：8インチ基板（中国の平均見積もり）は1年半で約4分の1に</h3></div>
+  <div class="chart" id="psm-cPx"><svg viewBox="0 0 640 260" role="img" aria-label=""><line x1="44" x2="628" y1="230" y2="230" stroke="#000"></line><text x="38" y="234" text-anchor="end" font-size="11">0</text><text x="38" y="187.77777777777777" text-anchor="end" font-size="11">1,000</text><text x="38" y="141.55555555555554" text-anchor="end" font-size="11">2,000</text><text x="38" y="95.33333333333334" text-anchor="end" font-size="11">3,000</text><text x="38" y="49.111111111111114" text-anchor="end" font-size="11">4,000</text><line x1="44" x2="44" y1="22" y2="230" stroke="#000"></line><rect x="80.98666666666666" y="45.111111111111114" width="120.69333333333333" height="46.22222222222223" fill="#0b1f8f"></rect><text x="141.33333333333331" y="40.111111111111114" font-size="11" text-anchor="middle">3,000–4,000ドル</text><rect x="275.6533333333333" y="137.55555555555554" width="120.69333333333333" height="92.44444444444444" fill="#0b1f8f"></rect><text x="336" y="132.55555555555554" font-size="11" text-anchor="middle">2,000ドル</text><rect x="470.32" y="183.77777777777777" width="120.69333333333333" height="46.22222222222222" fill="#0b1f8f"></rect><text x="530.6666666666666" y="178.77777777777777" font-size="11" text-anchor="middle">1,000ドル</text><text x="141.33333333333331" y="246" font-size="11.5" text-anchor="middle">2023年末</text><text x="336" y="246" font-size="11.5" text-anchor="middle">2024年4–6月</text><text x="530.6666666666666" y="246" font-size="11.5" text-anchor="middle">2025年1–3月</text></svg></div>
+  <div class="src">Source: TrendForce系の報道（nami-ts、2026年の整理）。6インチは2024年半ばに500ドル未満、2024年10–12月に400ドル以下、2025年は約400ドル。2026年の取引価格は未確認</div></div>
+ <div class="fig"><div class="ft"><h3>図12：中国のSiC基板の能力は3年で約8倍（年間、万枚）</h3></div>
+  <div class="chart" id="psm-cCn"><svg viewBox="0 0 640 260" role="img" aria-label=""><line x1="44" x2="628" y1="230" y2="230" stroke="#000"></line><text x="38" y="234" text-anchor="end" font-size="11">0</text><text x="38" y="192.4" text-anchor="end" font-size="11">100</text><text x="38" y="150.8" text-anchor="end" font-size="11">200</text><text x="38" y="109.2" text-anchor="end" font-size="11">300</text><text x="38" y="67.6" text-anchor="end" font-size="11">400</text><text x="38" y="26" text-anchor="end" font-size="11">500</text><line x1="44" x2="44" y1="22" y2="230" stroke="#000"></line><rect x="71.74000000000001" y="210.864" width="90.52" height="19.136" fill="#8c8c8c"></rect><text x="117" y="205.864" font-size="11" text-anchor="middle">46万枚</text><rect x="217.74" y="181.328" width="90.52" height="48.672000000000004" fill="#8c8c8c"></rect><text x="263" y="176.328" font-size="11" text-anchor="middle">117万枚</text><rect x="363.74" y="137.648" width="90.52" height="92.352" fill="#d9d9d9"></rect><text x="409" y="132.648" font-size="11" text-anchor="middle">222万枚</text><rect x="509.74" y="67.75999999999999" width="90.52" height="162.24" fill="#d9d9d9"></rect><text x="555" y="62.75999999999999" font-size="11" text-anchor="middle">390万枚</text><text x="117" y="246" font-size="11.5" text-anchor="middle">2022</text><text x="263" y="246" font-size="11.5" text-anchor="middle">2023</text><text x="409" y="246" font-size="11.5" text-anchor="middle">2024（見通し）</text><text x="555" y="246" font-size="11.5" text-anchor="middle">2025（見通し）</text></svg></div>
+  <div class="src">Source: digitimes（2024年10月、nami-ts経由）。2024・2025年は見通し。口径の内訳は非開示</div></div>
+</div>
+<div class="fig"><div class="ft"><h3>図13：SiCの供給過剰を示す数字</h3></div>
+ <div class="tbl"><table>
+  <thead><tr><th>指標</th><th class="n">数値</th><th>時期</th><th>出典</th></tr></thead>
+  <tbody>
+   <tr><td>上流（基板・エピ）の稼働率</td><td class="n">約50%</td><td>2025年</td><td>Yole（2025年12月）</td></tr>
+   <tr><td>デバイスラインの稼働率</td><td class="n">約70%</td><td>2025年</td><td>Yole</td></tr>
+   <tr><td>中国勢の基板・エピ能力のシェア</td><td class="n">約40%</td><td>2024年</td><td>Yole</td></tr>
+   <tr><td>供給過剰の期間</td><td class="n">2027–28年まで</td><td>見通し</td><td>Yole</td></tr>
+   <tr><td>8インチの出荷比率</td><td class="n">20%超</td><td>2030年見通し</td><td>TrendForce</td></tr>
+   <tr class="tot"><td>Wolfspeed</td><td class="n">米破産法11条</td><td>2025年6月申請、9月に再建（債務約7割削減）</td><td>Wolfspeed</td></tr>
+   <tr><td>SK siltron CSS（米国の基板会社）</td><td class="n">清算手続き</td><td>2026年7月</td><td>The Elec（nami-ts経由）</td></tr>
+  </tbody></table></div>
+ <div class="src">Source: 各出典</div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-5"><span class="n">05</span>GaN・Ga₂O₃・ダイヤモンド：口径を上げる段階</h2>
+<div class="fig"><div class="ft"><h3>図14：GaNはSiの12インチラインへ、Ga₂O₃は6インチの量産を2029年に目指す</h3></div>
+ <div class="tbl"><table>
+  <thead><tr><th>材料</th><th>現状</th><th>次の段階</th><th>日本企業</th><th>出典</th></tr></thead>
+  <tbody>
+   <tr><td>GaN on Si（横型）</td><td class="w">6・8インチで量産。InfineonはSiラインで12インチを開発</td><td class="w">12インチでチップ単価を下げる</td><td class="w">エア・ウォーター（エピ）、信越化学（QST基板）、ルネサス・ローム（デバイス）</td><td>Infineon（2024年9月）</td></tr>
+   <tr class="jp"><td>GaN基板（縦型）</td><td class="w">三菱ケミカルが4インチを量産（レーザー用）、パワー用は評価中</td><td class="w">6インチのサンプルを27/3期中、8インチは開発中。日本製鋼所の室蘭に試験ライン</td><td class="w">三菱ケミカルG、住友化学</td><td>日刊工業新聞（2026年9月24日）</td></tr>
+   <tr class="jp"><td>Ga₂O₃</td><td class="w">NCTが4インチ（EFG法）。6インチのサンプル出荷を2026年3月に開始</td><td class="w">6インチのエピは2027年、量産は2029年、8インチは2035年</td><td class="w">NCT（三菱電機が出資）、FLOSFIA、タムラ製作所</td><td>EE Times Japan（2026年3月3日）</td></tr>
+   <tr class="jp"><td>ダイヤモンド</td><td class="w">2インチを目指す段階</td><td class="w">ウエハ市場は2026年に立ち上がり、デバイスは2030年頃から</td><td class="w">Orbray、大熊ダイヤモンドデバイス</td><td>富士経済（2025年5月・2026年4月）</td></tr>
+   <tr><td>窒化アルミ（AlN）</td><td class="w">4インチのサンプル出荷</td><td class="w">本格量産が見込まれる</td><td class="w">—</td><td>富士経済（2025年5月）</td></tr>
+  </tbody></table></div>
+ <div class="src">Source: 各出典。Ga₂O₃デバイスの市場は2035年に149億円（富士経済）</div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-6"><span class="n">06</span>モジュール材料：窒化ケイ素基板と焼結銀の増産</h2>
+<div class="row">
+ <div class="fig"><div class="ft"><h3>図15：日本ガイシはAMB基板を月10万枚から25万枚へ（2.5倍）</h3></div>
+  <div class="chart" id="psm-cNgk"><svg viewBox="0 0 640 240" role="img" aria-label=""><line x1="44" x2="628" y1="210" y2="210" stroke="#000"></line><text x="38" y="214" text-anchor="end" font-size="11">0</text><text x="38" y="151.33333333333334" text-anchor="end" font-size="11">10</text><text x="38" y="88.66666666666667" text-anchor="end" font-size="11">20</text><text x="38" y="26" text-anchor="end" font-size="11">30</text><line x1="44" x2="44" y1="22" y2="210" stroke="#000"></line><rect x="99.48" y="147.33333333333334" width="181.04" height="62.666666666666664" fill="#c4a35a"></rect><text x="190" y="142.33333333333334" font-size="11" text-anchor="middle">10万枚/月</text><rect x="391.48" y="53.333333333333314" width="181.04" height="156.66666666666669" fill="#c4a35a"></rect><text x="482" y="48.333333333333314" font-size="11" text-anchor="middle">25万枚/月</text><text x="190" y="226" font-size="11.5" text-anchor="middle">2024年（現状）</text><text x="482" y="226" font-size="11.5" text-anchor="middle">2026年度（計画）</text></svg></div>
+  <div class="src">Source: eeNews Europe（2024年3月22日）。投資50億円、2030年にAMB売上200億円目標。2019年から欧州・日本のモジュールメーカーが採用</div></div>
+ <div class="fig"><div class="ft"><h3>図16：窒化ケイ素基板をめぐる日本企業の動き</h3></div>
+  <div class="tbl"><table>
+   <thead><tr><th>企業</th><th>動き</th><th>時期</th></tr></thead>
+   <tbody>
+    <tr class="jp"><td>日本特殊陶業</td><td class="w">東芝マテリアルを約1,500億円で取得。24/3期の売上345億円、営業利益55億円（利益率16%）</td><td>2025年5月</td></tr>
+    <tr class="jp"><td>プロテリアル</td><td class="w">窒化ケイ素基板の能力を21年度比で約2倍に</td><td>2023年後半稼働</td></tr>
+    <tr class="jp"><td>日本ガイシ</td><td class="w">AMB基板を月25万枚に（図15）</td><td>2026年度</td></tr>
+    <tr class="jp"><td>デンカ・UBE・トクヤマ</td><td class="w">基板・原料粉（窒化ケイ素・窒化アルミ）。能力の数字は今回未取得</td><td>—</td></tr>
+   </tbody></table></div>
+  <div class="calc"><p>取得額1,500億円は、24/3期の営業利益55億円の約27倍。買い手が窒化ケイ素基板の伸びにどれだけ値段を付けたかの目安になる（作成者の算出）。</p></div>
+  <div class="src">Source: EE Times Japan（2024年11月25日）、MarkLines（2023年2月13日）、eeNews Europe</div></div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-7"><span class="n">07</span>企業：基板会社の採算が崩れ、デバイス会社は減損</h2>
+<div class="row">
+ <div class="fig"><div class="ft"><h3>図17：Wolfspeedの基板・材料の売上は1年で7,840万ドル→4,330万ドル（−45%）</h3></div>
+  <div class="chart" id="psm-cWolf"><svg viewBox="0 0 640 280" role="img" aria-label=""><line x1="44" x2="628" y1="250" y2="250" stroke="#000"></line><text x="38" y="254" text-anchor="end" font-size="11">0</text><text x="38" y="208.4" text-anchor="end" font-size="11">50</text><text x="38" y="162.8" text-anchor="end" font-size="11">100</text><text x="38" y="117.20000000000002" text-anchor="end" font-size="11">150</text><text x="38" y="71.6" text-anchor="end" font-size="11">200</text><text x="38" y="26" text-anchor="end" font-size="11">250</text><line x1="44" x2="44" y1="22" y2="250" stroke="#000"></line><rect x="99.48" y="141.83679999999998" width="181.04" height="108.1632" fill="#0b1f8f"></rect><text x="190" y="199.9184" font-size="10.5" text-anchor="middle" fill="#fff">118.6</text><rect x="391.48" y="153.0544" width="181.04" height="96.9456" fill="#0b1f8f"></rect><text x="482" y="205.5272" font-size="10.5" text-anchor="middle" fill="#fff">106.3</text><rect x="99.48" y="70.33599999999998" width="181.04" height="71.50080000000001" fill="#c4a35a"></rect><text x="190" y="110.0864" font-size="10.5" text-anchor="middle" fill="#000">78.4</text><rect x="391.48" y="113.56480000000002" width="181.04" height="39.48959999999998" fill="#c4a35a"></rect><text x="482" y="137.30960000000002" font-size="10.5" text-anchor="middle" fill="#000">43.3</text><text x="190" y="64.33599999999998" font-size="11" font-weight="700" text-anchor="middle">197.0</text><text x="482" y="107.56480000000002" font-size="11" font-weight="700" text-anchor="middle">149.6</text><text x="190" y="266" font-size="11.5" text-anchor="middle">2025年4–6月</text><text x="482" y="266" font-size="11.5" text-anchor="middle">2026年4–6月</text></svg><div class="lg"><span><i style="background:#0b1f8f"></i>パワーデバイス（百万ドル）</span><span><i style="background:#c4a35a"></i>基板・材料（百万ドル）</span></div></div>
+  <div class="src">Source: Wolfspeed 決算発表（2026年8月19日）。四半期（6月期）。2026年4–6月の粗利率は−25%（GAAP）。FY2026の売上は再建前後の合計で約6.65億ドル（作成者の算出）</div></div>
+ <div class="fig"><div class="ft"><h3>図18：企業別の数字</h3></div>
+  <div class="tbl"><table>
+   <thead><tr><th>企業</th><th>数字</th><th>時期</th></tr></thead>
+   <tbody>
+    <tr><td>Wolfspeed</td><td class="w">2026年7–9月の売上見通し1.4–1.6億ドル、粗利率は引き続きマイナス。AIデータセンター向けの売上は2倍超</td><td>2026年8月</td></tr>
+    <tr class="jp"><td>ローム</td><td class="w">SiC関連の減損1,936億円、最終赤字1,584億円。27/3期はSiCデバイス・モジュール+55%以上、AIサーバ向け2.5倍。SiC事業の黒字化は29/3期</td><td>2026年5月</td></tr>
+    <tr><td>Coherent（SiC事業）</td><td class="w">デンソー・三菱電機が各5億ドルで12.5%ずつ取得。100%換算で約40億ドル（算出）</td><td>2023年10月発表</td></tr>
+    <tr><td>STMicroelectronics</td><td class="w">SiCデバイスのシェア32.6%（2023年、首位）。上位5社で91.9%</td><td>TrendForce（2024年6月）</td></tr>
+    <tr><td>SICC（天岳先進）</td><td class="w">2025年にSiC基板全体と8インチで世界首位と自社で表明（数値は非開示）</td><td>2026年7月</td></tr>
+   </tbody></table></div>
+  <div class="src">Source: Wolfspeed、EE Times Japan（2026年5月13日）、Power Electronics News（2023年10月）、TrendForce、智通財経（2026年7月9日）</div></div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-8"><span class="n">08</span>論点</h2>
+<div class="fig"><div class="ft"><h3>図19：強気と弱気、それぞれの根拠と確かめ方</h3></div>
+ <div class="tbl"><table>
+  <thead><tr><th>論点</th><th>強気の読み</th><th>弱気の読み</th><th>何で確かめるか</th></tr></thead>
+  <tbody>
+   <tr><td>SiC基板の価格</td><td class="w">2026年7月に底入れの報道。8インチへの移行で1チップあたりの原価が下がり、需要が戻る</td><td class="w">中国の能力は2025年に390万枚（見通し）。稼働率50%のままでは値上げできない</td><td class="w">6・8インチの四半期の取引価格、中国勢の稼働率</td></tr>
+   <tr><td>材料の切り替え</td><td class="w">焼結銀・窒化ケイ素AMB・高耐熱封止はSiCで標準になり、Si向けより単価が高い</td><td class="w">中国のモジュールメーカーは安い材料を使い、日本の材料会社の採用は外資系・日系に限られる</td><td class="w">中国モジュールメーカーの部材採用、AMBの中国生産比率</td></tr>
+   <tr><td>GaNの伸び</td><td class="w">DC電源と800V DC化で2030年に約30億ドル（年率42%）</td><td class="w">GaN on SiはSiのラインを使うため、材料（基板・エピ）の付加価値が小さい</td><td class="w">GaN向けエピの外販比率、12インチの立ち上がり</td></tr>
+   <tr><td>需要の時期</td><td class="w">2035年にEVの約70%がSiC（富士経済）</td><td class="w">Yoleは2027–28年まで調整と見る。EVの伸びの鈍化</td><td class="w">EV販売、主機インバータのSiC採用率</td></tr>
+   <tr><td>銀・銅の価格</td><td class="w">価格転嫁の条項がある</td><td class="w">銀は原材料価値の20–22%。値上がりが焼結銀の普及を遅らせる</td><td class="w">銀価格と焼結銀の採用率</td></tr>
+  </tbody></table></div>
+ <div class="src">Source: 図2–18の各出典。強気・弱気の整理は作成者</div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-9"><span class="n">09</span>初回レポートに加えるべきもの</h2>
+<div class="fig"><div class="ft"><h3>図20：イニシエーションで答えるべき問いと、そのためのデータ</h3></div>
+ <ol class="chk">
+  <li><b>材料の原単位：</b>SiCモジュール1個（または主機インバータ1台）あたりの基板枚数、焼結銀のグラム数、AMB枚数、封止材の量</li>
+  <li><b>材料別の市場：</b>富士経済の20品目の内訳（ウエハ、エピ、接合材、絶縁基板、封止材、放熱材）を年次で</li>
+  <li><b>SiC基板の需給：</b>社別・国別の能力と稼働率、6・8インチの取引価格。中国の能力の実際の稼働</li>
+  <li><b>原価の分解：</b>SiCチップ原価のうち基板・エピ・前工程・後工程の比率。8インチでの変化</li>
+  <li><b>モジュール材料の採用：</b>焼結銀・窒化ケイ素AMB・Cuクリップの採用率（主機インバータ、OBC、産業）</li>
+  <li><b>日本企業の売上感応度：</b>レゾナック・デンカ・プロテリアル・日本特殊陶業・日本ガイシ・京セラのパワー向け売上と利益率</li>
+  <li><b>中国の材料国産化：</b>中国モジュールメーカーの基板・接合材・封止材の調達先</li>
+  <li><b>GaN・Ga₂O₃の時間軸：</b>12インチGaN、6インチGa₂O₃の量産と単価</li>
+  <li><b>銀・銅の感応度：</b>銀価格10%上昇でモジュール原価がどれだけ動くか</li>
+  <li><b>サイクル：</b>2022–24年の能力増強と現在の調整。前回の値崩れからの回復期間</li>
+  <li><b>バリュエーション：</b>材料会社のパワー向け事業の価値（東芝マテリアルの取得倍率を参考に）</li>
+  <li><b>エキスパートコールの論点：</b>モジュールメーカーの部材調達（認定・二社購買）、SiC基板の元営業（価格交渉）、中国の基板メーカーの技術者（歩留まり）</li>
+ </ol>
+ <div class="src">Source: 作成者</div>
+</div>
+
+</section><section class="standard-section"><h2 id="psm-report-section-10"><span class="n">10</span>出典</h2>
+<ol class="srcl">
+ <li>富士経済「2026年版 次世代パワーデバイス関連市場の現状と将来展望」（2026年4月28日発表）— <a href="https://eetimes.itmedia.co.jp/ee/articles/2605/01/news067.html">EE Times Japan 2026年5月1日</a>、<a href="https://eetimes.itmedia.co.jp/ee/spv/2605/01/news067_2.html">同2ページ</a></li>
+ <li>富士経済 SiCウエハ市場（2025年12月発表）— <a href="https://eetimes.itmedia.co.jp/ee/articles/2601/06/news035.html">EE Times Japan 2026年1月6日</a></li>
+ <li>富士経済 パワー半導体向けウエハ（2025年5月21日）— <a href="https://www.fuji-keizai.co.jp/press/detail.html?cid=25051">プレスリリース</a></li>
+ <li>Yole Group Power SiC 2025 — <a href="https://www.semiconductor-today.com/news_items/2025/dec/yole-181225.shtml">Semiconductor Today 2025年12月18日</a></li>
+ <li>Yole Group Power GaN 2025 — <a href="https://www.semiconductor-today.com/news_items/2025/oct/yole-291025.shtml">Semiconductor Today 2025年10月29日</a></li>
+ <li>Yole Group IGBT 2025 — <a href="https://www.yolegroup.com/press-release/igbts-maintain-strategic-role-driving-market-toward-us13-billion-by-2030/">プレスリリース</a></li>
+ <li>Yole Group Status of the Power Module Packaging Industry 2024 — <a href="https://www.yolegroup.com/product/report/status-of-the-power-module-packaging-industry-2024">レポート概要</a></li>
+ <li>TrendForce 2024年SiC基板売上 — <a href="https://www.trendforce.com/presscenter/news/20250512-12574.html">2025年5月12日</a></li>
+ <li>TrendForce SiCデバイスのシェア（2023年）— <a href="https://trendforce.com/presscenter/news/20240620-12196.html">2024年6月20日</a></li>
+ <li>SiCウエハの価格・能力の整理 — <a href="https://nami-ts.com/en/insights/sic-wafer-market-6to8">nami-ts</a>（TrendForce、digitimes、The Elec、Yoleの数値を整理）</li>
+ <li>Future Markets「Critical Materials for Power Module Packaging」— <a href="https://www.dri.co.jp/auto/report/fminc/260223-critical-materials-for.html">概要</a></li>
+ <li>Power Electronics News「SiC Power Devices: Lowering Costs to Drive Adoption」— <a href="https://www.powerelectronicsnews.com/sic-power-devices-lowering-costs-to-drive-adoption">2022年1月18日</a></li>
+ <li>Wolfspeed FY2026 4Q決算 — <a href="https://seekingalpha.com/pr/20624581">2026年8月19日</a></li>
+ <li>ローム 2025年度決算 — <a href="https://eetimes.itmedia.co.jp/ee/spv/2605/13/news069_2.html">EE Times Japan 2026年5月13日</a></li>
+ <li>デンソー・三菱電機のCoherent出資 — <a href="https://www.powerelectronicsnews.com/denso-and-mitsubishi-electric-to-invest-in-coherents-sic-business">Power Electronics News</a></li>
+ <li>日本ガイシ AMB増産 — <a href="https://www.eenewseurope.com/en/ngk-looks-to-europe-as-it-doubles-power-substrate-production/">eeNews Europe 2024年3月22日</a></li>
+ <li>東芝マテリアルの売却 — <a href="https://eetimes.itmedia.co.jp/ee/spv/2411/25/news190.html">EE Times Japan 2024年11月25日</a></li>
+ <li>プロテリアル 窒化ケイ素基板の増産 — <a href="https://www.marklines.com/ja/news/286168">MarkLines 2023年2月13日</a></li>
+ <li>三菱ケミカル GaN基板 — <a href="https://newswitch.jp/p/50348">ニュースイッチ 2026年9月25日</a></li>
+ <li>NCT 6インチGa₂O₃ — <a href="https://eetimes.itmedia.co.jp/ee/articles/2603/03/news036.html">EE Times Japan 2026年3月3日</a></li>
+ <li>SICC — <a href="https://www.zhitongcaijing.com/content/detail/1465195.html">智通財経 2026年7月9日</a></li>
+</ol>
+<div class="standard-retained-footer">ドラフト。数値は各出典の時点と定義に従う。算出と記した数値は作成者の計算。富士経済とYoleの数値は定義・通貨が違うため足し合わせない。企業の配置は製品分野による分類で、取引関係を示さない。</div>
+</section><footer class="standard-footer">ホーム・トピック一覧統計・VC・3Dの整備状況</footer></div></div>
+</main>
+</div>
+<script>
+(function(){
+var VIEW_EL=document.getElementById('view-psm');if(!VIEW_EL||VIEW_EL.dataset.psmReady)return;VIEW_EL.dataset.psmReady='true';
+
+/* Shared data: process x device matrix, companies, value-chain layers. Company roles are product-category placements from public product information, not supply relationships or shares. */
+const DEV=[
+ {id:'si',ja:'Si',sub:'IGBT・MOSFET',col:'#8c8c8c'},
+ {id:'sic',ja:'SiC',sub:'MOSFET・SBD',col:'#0b1f8f'},
+ {id:'gan',ja:'GaN',sub:'HEMT',col:'#2f6fd0'},
+ {id:'gao',ja:'Ga₂O₃・ダイヤモンド',sub:'次世代',col:'#c4a35a'}
+];
+/* rows: id, group, ja, what, cells{si,sic,gan,gao}: [text, changeFlag] changeFlag:1 = material changes vs Si */
+const MX=[
+ {g:'ウエハまで',id:'raw',ja:'原料・結晶成長用部材',what:'結晶をつくる原料と、炉の中で使う部材',
+  c:{si:['半導体級の多結晶シリコン、石英るつぼ。Wacker・Hemlock・トクヤマ（多結晶）'],
+     sic:['高純度SiC粉末、黒鉛るつぼ・断熱材。約2,200℃で昇華させて結晶を育てる。東洋炭素・イビデン・SGL・Mersen（黒鉛）',1],
+     gan:['金属ガリウム、アンモニア、有機金属（TMGa）。ガリウムは中国が2023年8月から輸出を許可制に',1],
+     gao:['Ga₂O₃粉末、イリジウムるつぼ（EFG法）。NCTはるつぼの要らないDG法を2029年に導入予定',1]}},
+ {g:'ウエハまで',id:'sub',ja:'基板（ウエハ）',what:'素子をつくる土台の円板',
+  c:{si:['FZ／MCZウエハ（8・12インチ）。信越化学・SUMCO・Siltronic・GlobalWafers'],
+     sic:['6インチが主力、8インチへ移行中。Wolfspeed・TanKeBlue・SICC・Coherent（上位4社で82%）、ローム（SiCrystal）、レゾナック、住友金属鉱山（貼り合わせ基板）',1],
+     gan:['主流はSiウエハの上にGaNを成長（GaN on Si、6→8→12インチ）。縦型用のGaN基板は三菱ケミカル・住友化学。信越化学はQST基板',1],
+     gao:['Ga₂O₃：NCTが6インチのサンプル出荷（2026年3月）、量産は2029年目標。ダイヤモンド：Orbrayなど2インチ',1]}},
+ {g:'ウエハまで',id:'epi',ja:'エピ（結晶膜）',what:'基板の上に、電圧を受け持つ層を結晶のまま重ねる',
+  c:{si:['MOSFETはエピ、IGBTは基板そのものを使う。基板メーカー各社'],
+     sic:['CVDで約10µmのドリフト層。レゾナック・Wolfspeed・瀚天天成・天域。装置はAIXTRON・ASM・ニューフレア・東京エレクトロン',1],
+     gan:['MOCVDでAlGaN/GaN。IQE・エア・ウォーター、デバイスメーカー内製。装置はAIXTRON・Veeco',1],
+     gao:['NCT（HVPE、エピのサンプルは2027年）、FLOSFIA（ミストCVD）',1]}},
+ {g:'素子・チップ',id:'fe',ja:'前工程（素子形成）',what:'ゲート・電極・保護膜をつくる',
+  c:{si:['汎用の前工程材料（レジスト・ガス・スパッタ材）。トレンチゲート、フィールドストップ'],
+     sic:['Alの高温イオン注入、1,700℃前後の活性化アニール、ゲート酸化膜（界面の質が課題）、Ni・Ti電極。装置は住友重機械イオンテクノロジー・Axcelis',1],
+     gan:['p-GaNゲート、SiN保護膜、金を使わない電極。Si工場の8インチラインを転用できる',1],
+     gao:['ショットキー電極（SBD）が先行。FETは2030年前後',1]}},
+ {g:'素子・チップ',id:'die',ja:'チップ加工（研削・切断）',what:'ウエハを薄くし、チップに切り分ける',
+  c:{si:['100µm前後まで薄化、ブレードダイシング。ディスコ'],
+     sic:['硬く割れやすいため、レーザー切断（ディスコKABRA）、研削・CMP（フジミインコーポレーテッドなどのスラリー）、ダイヤモンド工具',1],
+     gan:['Si基板側を研削・ダイシング。Siとほぼ同じ'],
+     gao:['—（量産前）']}},
+ {g:'モジュール',id:'attach',ja:'ダイ接合',what:'チップを基板に固定し、熱と電気を通す',
+  c:{si:['鉛フリーはんだ（Sn系）。千住金属工業'],
+     sic:['焼結銀（200℃超でも溶けない）、焼結銅。Heraeus・京セラ・三ツ星ベルト・田中貴金属・MacDermid Alpha・Henkel',1],
+     gan:['ディスクリート中心。はんだ・銀ペースト'],
+     gao:['—（研究段階）']}},
+ {g:'モジュール',id:'wire',ja:'配線（ワイヤ・クリップ）',what:'チップ上面の電極と端子をつなぐ',
+  c:{si:['太いAlワイヤ。Heraeus・田中電子工業'],
+     sic:['Cuワイヤ・Cuクリップ・リボン。ワイヤをなくした両面冷却も',1],
+     gan:['寄生インダクタンスを避けるため、ワイヤの少ないチップスケール・面実装',1],
+     gao:['—']}},
+ {g:'モジュール',id:'ceram',ja:'絶縁基板（セラミック）',what:'電気を絶縁しつつ、熱を下へ逃がす',
+  c:{si:['DBC（銅＋アルミナ）、DBA（アルミ）。Rogers・Heraeus・KCC・三菱マテリアル・DOWA・Ferrotec'],
+     sic:['窒化ケイ素AMB（割れにくい）。日本特殊陶業（旧東芝マテリアル）・プロテリアル・デンカ・日本ガイシ・京セラ。原料粉はUBE（窒化ケイ素）、トクヤマ（窒化アルミ）',1],
+     gan:['小型品はプリント基板・リードフレーム。大電力品はAMB'],
+     gao:['—']}},
+ {g:'モジュール',id:'base',ja:'ベースプレート・冷却',what:'モジュールの底板と冷却器',
+  c:{si:['銅ベースプレート、鉄道・産業向けはAlSiC'],
+     sic:['ピンフィン付きの直接水冷、両面冷却。銅・アルミ',1],
+     gan:['—（基板実装）'],
+     gao:['—']}},
+ {g:'モジュール',id:'encap',ja:'封止・ケース',what:'チップと配線を湿気・異物・放電から守る',
+  c:{si:['シリコーンゲル＋樹脂ケース（PPS）。信越化学・ダウ・Wacker'],
+     sic:['接合温度175–200℃に耐えるエポキシ封止（トランスファーモールド）。住友ベークライト・レゾナック',1],
+     gan:['QFNなどのモールドパッケージ'],
+     gao:['—']}},
+ {g:'モジュール',id:'tim',ja:'放熱材（TIM）',what:'モジュールと冷却器のすき間を埋める',
+  c:{si:['サーマルグリース。信越化学・ダウ・Henkel'],
+     sic:['相変化材料・あらかじめ塗布した放熱材。直接水冷ではTIMそのものを省く',1],
+     gan:['放熱シート・グリース'],
+     gao:['—']}}
+];
+/* Companies: key: [name, code, jp, cn] */
+const CO={
+ wacker:['Wacker','WCH GR'],hemlock:['Hemlock','非上場'],tokuyama:['トクヤマ','4043 JP',1],toyotanso:['東洋炭素','5310 JP',1],ibiden:['イビデン','4062 JP',1],sgl:['SGL Carbon','SGL GR'],mersen:['Mersen','MRN FP'],
+ shinetsu:['信越化学工業','4063 JP',1],sumco:['SUMCO','3436 JP',1],siltronic:['Siltronic','WAF GR'],gw:['GlobalWafers','6488 TT'],
+ wolf:['Wolfspeed','WOLF US'],tkb:['TanKeBlue（天科合達）','非上場',0,1],sicc:['SICC（天岳先進）','688234 CH・2631 HK',0,1],coh:['Coherent','COHR US'],rohm:['ローム','6963 JP',1],resonac:['レゾナック','4004 JP',1],smm:['住友金属鉱山','5713 JP',1],soitec:['Soitec','SOI FP'],
+ mcc:['三菱ケミカルG','4188 JP',1],sumichem:['住友化学（SCIOCS）','4005 JP',1],nct:['ノベルクリスタルテクノロジー','非上場',1],flosfia:['FLOSFIA','非上場',1],orbray:['Orbray','非上場',1],
+ epiw:['瀚天天成（EpiWorld）','非上場',0,1],tianyu:['天域半導体','—',0,1],iqe:['IQE','IQE LN'],aw:['エア・ウォーター','4088 JP',1],
+ aix:['AIXTRON','AIXA GR'],asm:['ASM International','ASM NA'],nuflare:['ニューフレアテクノロジー','東芝子会社',1],tel:['東京エレクトロン','8035 JP',1],veeco:['Veeco','VECO US'],shi:['住友重機械工業','6302 JP',1],axcl:['Axcelis','ACLS US'],
+ disco:['ディスコ','6146 JP',1],fujimi:['フジミインコーポレーテッド','5384 JP',1],tsk:['東京精密','7729 JP',1],
+ senju:['千住金属工業','非上場',1],heraeus:['Heraeus','非上場'],kyocera:['京セラ','6971 JP',1],mitsuboshi:['三ツ星ベルト','5192 JP',1],tanaka:['田中貴金属工業','非上場',1],alpha:['MacDermid Alpha（Element Solutions）','ESI US'],henkel:['Henkel','HEN3 GR'],
+ rogers:['Rogers（curamik）','ROG US'],kcc:['KCC','002380 KS'],mmc:['三菱マテリアル','5711 JP',1],dowa:['DOWAホールディングス','5714 JP',1],ferrotec:['Ferrotec','6890 JP',1],niterra:['日本特殊陶業（旧東芝マテリアル）','5334 JP',1],proterial:['プロテリアル','非上場',1],denka:['デンカ','4061 JP',1],ngk:['日本ガイシ','5333 JP',1],ube:['UBE','4208 JP',1],
+ sb:['住友ベークライト','4203 JP',1],dow:['Dow','DOW US'],
+ infineon:['Infineon','IFX GR'],st:['STMicroelectronics','STM US'],onsemi:['onsemi','ON US'],melco:['三菱電機','6503 JP',1],fuji:['富士電機','6504 JP',1],toshiba:['東芝','非上場',1],bosch:['Bosch','非上場'],byd:['BYD（半導体子会社）','1211 HK',0,1],renesas:['ルネサス','6723 JP',1],innosci:['Innoscience','2577 HK',0,1],navitas:['Navitas','NVTS US'],ti:['Texas Instruments','TXN US'],denso:['デンソー','6902 JP',1],
+ tesla:['Tesla','TSLA US'],toyota:['トヨタ自動車','7203 JP',1],nvda:['NVIDIA','NVDA US'],hitachie:['日立（日立エナジー）','6501 JP',1]
+};
+/* Value chain layers */
+const L=[
+ {grp:'原料・結晶成長'},
+ {id:'raw',ja:'原料・成長炉の部材',en:'Feedstock / furnace parts',d:'多結晶シリコン、高純度SiC粉末、黒鉛るつぼ・断熱材、ガリウム。',why:'SiCの結晶成長は約2,200℃で、黒鉛部材の消耗が多い。ガリウムは中国が輸出を許可制にしている。',dev:['si','sic','gan','gao'],
+  co:['wacker','hemlock','tokuyama','toyotanso','ibiden','sgl','mersen'],note:{wacker:'多結晶シリコン',hemlock:'多結晶シリコン',tokuyama:'多結晶シリコン、窒化アルミ粉',toyotanso:'等方性黒鉛・SiCコート黒鉛',ibiden:'特殊炭素製品',sgl:'黒鉛部材',mersen:'黒鉛部材・断熱材'}},
+ {grp:'基板・エピ'},
+ {id:'sisub',ja:'Siウエハ（パワー用）',en:'Si wafers (FZ/MCZ)',d:'IGBT・MOSFET用のFZ・MCZウエハ。8インチから12インチへ。',why:'SiCウエハの市場規模は2024年にパワー用Siウエハを上回った（富士経済）。',dev:['si','gan'],
+  co:['shinetsu','sumco','siltronic','gw'],note:{shinetsu:'FZ・MCZウエハ、GaN用QST基板',sumco:'パワー用ウエハ',siltronic:'FZウエハ',gw:'パワー用ウエハ'}},
+ {id:'sicsub',ja:'SiC基板',en:'SiC substrates',d:'昇華法（PVT）で結晶を育て、スライス・研磨して6・8インチの基板にする。',why:'2024年のN型基板の売上は10.4億ドル（−9%）。6インチは1枚約400ドルまで下がった（TrendForce）。中国勢が能力の約4割（Yole）。',dev:['sic'],
+  co:['wolf','tkb','sicc','coh','rohm','resonac','smm','soitec'],note:{wolf:'基板・デバイス一貫。2025年6月に米破産法11条、9月に再建',tkb:'基板（2024年シェア17.3%）',sicc:'基板（2024年シェア17.1%）。8インチの出荷首位を自称',coh:'基板・エピ。デンソーと三菱電機が各12.5%出資',rohm:'SiCrystal（独子会社）で基板を内製',resonac:'エピが主力、基板も',smm:'貼り合わせSiC基板',soitec:'SmartSiC（薄い単結晶を多結晶に貼る）'}},
+ {id:'sicepi',ja:'SiCエピ',en:'SiC epiwafers',d:'基板の上に、電圧を受け持つドリフト層をCVDで重ねる。',why:'欠陥の密度がチップの歩留まりを決める。デバイスメーカーの内製と外販が混在。',dev:['sic'],
+  co:['resonac','wolf','coh','epiw','tianyu'],note:{resonac:'外販エピの大手',wolf:'内製・外販',coh:'エピ',epiw:'外販エピ',tianyu:'外販エピ'}},
+ {id:'gansub',ja:'GaN・次世代基板とエピ',en:'GaN / Ga₂O₃ / diamond',d:'GaN on Siのエピウエハ、縦型用のGaN基板、Ga₂O₃基板、ダイヤモンド基板。',why:'GaNは8インチ・12インチのSiラインを使えるのがコスト面の強み（Infineonが12インチを発表）。',dev:['gan','gao'],
+  co:['iqe','aw','mcc','sumichem','shinetsu','nct','flosfia','orbray'],note:{iqe:'GaN on Siエピ',aw:'GaN on Siエピ',mcc:'GaN基板（4インチ量産、6インチは27/3期にサンプル）',sumichem:'GaN基板（SCIOCS）',shinetsu:'QST基板（GaN成長用）',nct:'Ga₂O₃基板・エピ。三菱電機が出資',flosfia:'α型Ga₂O₃（ミストCVD）',orbray:'ダイヤモンド基板'}},
+ {id:'epieq',ja:'成長・エピ装置',en:'Crystal growth / epi tools',d:'結晶成長炉、SiC用CVD、GaN用MOCVD。',why:'2025年の上流の稼働率は約50%（Yole）。装置投資は2030年まで減る見通し。',dev:['sic','gan'],
+  co:['aix','asm','nuflare','tel','veeco'],note:{aix:'SiC CVD・GaN MOCVD',asm:'SiC CVD（LPE）',nuflare:'SiC CVD',tel:'SiC CVD',veeco:'GaN MOCVD'}},
+ {grp:'素子・チップ'},
+ {id:'feproc',ja:'前工程の装置・材料',en:'Front-end',d:'イオン注入、高温アニール、ゲート酸化、電極。',why:'SiCは高温での注入・アニールが必要で、Si用の装置をそのまま使えない。',dev:['si','sic','gan'],
+  co:['shi','axcl','tel'],note:{shi:'イオン注入装置（住友重機械イオンテクノロジー）',axcl:'SiC向け高温イオン注入',tel:'成膜・熱処理'}},
+ {id:'proc',ja:'研削・切断・研磨',en:'Grinding / slicing / CMP',d:'インゴットのスライス、基板・ウエハの研削とCMP、チップの切断。',why:'SiCはダイヤモンドに次いで硬く、加工の時間と材料ロスがコストになる。',dev:['si','sic','gan'],
+  co:['disco','tsk','fujimi'],note:{disco:'KABRA（レーザーでのインゴット切断）、研削・ダイシング',tsk:'研削・ダイシング',fujimi:'SiC用研磨スラリー'}},
+ {id:'dev',ja:'パワーデバイス',en:'Power devices / modules',d:'チップを設計・製造し、ディスクリートやモジュールにする。材料の買い手。',why:'2023年のSiCデバイス売上はSTが32.6%で首位、上位5社で91.9%（TrendForce）。',dev:['si','sic','gan','gao'],
+  co:['infineon','st','onsemi','wolf','rohm','melco','fuji','toshiba','denso','bosch','byd','renesas','innosci','navitas','ti','hitachie'],note:{infineon:'Si・SiC・GaN（12インチGaN）',st:'SiC首位（2023年32.6%）',onsemi:'SiC 2位（2023年）',wolf:'SiCデバイス',rohm:'SiC。26/3期にSiC関連で1,936億円の減損',melco:'Si・SiCモジュール',fuji:'Si・SiCモジュール',toshiba:'Si・SiC',denso:'車載SiC',bosch:'車載SiC',byd:'車載Si・SiC（中国）',renesas:'Si・GaN',innosci:'GaN on Si（中国）',navitas:'GaN・SiC',ti:'GaN',hitachie:'大容量IGBT'}},
+ {grp:'モジュール材料'},
+ {id:'attach',ja:'ダイ接合材',en:'Die attach',d:'はんだ、焼結銀・焼結銅。',why:'SiCの高温動作ではんだが劣化するため、焼結銀へ切り替わる。銀は原材料の20–22%（Future Markets）。',dev:['si','sic','gan'],
+  co:['senju','heraeus','kyocera','mitsuboshi','tanaka','alpha','henkel'],note:{senju:'はんだ',heraeus:'焼結銀',kyocera:'焼結銀ペースト',mitsuboshi:'焼結銀・銅ペースト',tanaka:'焼結銀・シート状接合材',alpha:'焼結銀',henkel:'焼結銀・接着材'}},
+ {id:'wire',ja:'ワイヤ・クリップ',en:'Interconnect',d:'Alワイヤ、Cuワイヤ・リボン・クリップ。',why:'電流を増やし、寄生インダクタンスを下げるためCuへ移る。',dev:['si','sic'],
+  co:['heraeus','tanaka'],note:{heraeus:'Al・Cuワイヤ',tanaka:'ボンディングワイヤ（田中電子工業）'}},
+ {id:'ceram',ja:'絶縁基板（DBC・AMB）',en:'Ceramic substrates',d:'銅とセラミックを貼り合わせた基板。アルミナDBC、窒化アルミ、窒化ケイ素AMB。',why:'割れにくい窒化ケイ素AMBがSiCで標準に。日本ガイシはAMBを月10万枚→25万枚（26年度）に増やす。',dev:['si','sic','gan'],
+  co:['rogers','heraeus','kcc','mmc','dowa','ferrotec','niterra','proterial','denka','ngk','kyocera'],note:{rogers:'DBC・AMB（curamik）',heraeus:'DBC・AMB（Condura）',kcc:'DBC・AMB',mmc:'DBA・DBC',dowa:'金属セラミック接合基板',ferrotec:'DBC・AMB（中国生産）',niterra:'窒化ケイ素基板（2025年5月に東芝マテリアルを取得、約1,500億円）',proterial:'窒化ケイ素基板（能力を21年度比約2倍）',denka:'窒化ケイ素AMB',ngk:'AMB（月25万枚へ、30年に200億円目標）',kyocera:'セラミック基板'}},
+ {id:'cpowder',ja:'セラミック原料粉',en:'Ceramic powders',d:'窒化ケイ素粉、窒化アルミ粉。',why:'高純度の粉を作れる会社が少なく、基板の性能を左右する。',dev:['si','sic'],
+  co:['ube','tokuyama','denka'],note:{ube:'窒化ケイ素粉',tokuyama:'窒化アルミ粉',denka:'窒化ケイ素'}},
+ {id:'encap',ja:'封止材・放熱材',en:'Encapsulants / TIM',d:'シリコーンゲル、エポキシ封止材、サーマルグリース・相変化材料。',why:'SiCの接合温度175–200℃に耐える封止が必要。',dev:['si','sic','gan'],
+  co:['shinetsu','dow','wacker','sb','resonac','henkel'],note:{shinetsu:'シリコーンゲル・放熱材',dow:'シリコーンゲル・放熱材',wacker:'シリコーンゲル',sb:'エポキシ封止材',resonac:'エポキシ封止材',henkel:'放熱材'}},
+ {grp:'用途'},
+ {id:'use',ja:'需要家',en:'End users',d:'EVのインバータ・充電器、産業機器、太陽光・系統、AIデータセンターの電源。',why:'SiCは2035年にEVの約70%が採用（富士経済）。GaNはDC電源とAI向けで伸びる。',dev:['si','sic','gan','gao'],
+  co:['tesla','toyota','byd','nvda','hitachie'],note:{tesla:'EVインバータ',toyota:'EV・HV',byd:'EV（デバイス内製）',nvda:'800V DC化を提唱（AIラック電源）',hitachie:'系統・鉄道'}}
+];
+
+/* Tiny SVG bar chart helper (no external library). Bars, stacked bars, ranges [lo,hi], horizontal or vertical. */
+const SC=(()=>{
+ const NS='http://www.w3.org/2000/svg';
+ const el=(t,a,txt)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;return e};
+ const fmt0=v=>(Math.round(v*10)/10).toLocaleString('ja-JP');
+ const nice=m=>{const p=Math.pow(10,Math.floor(Math.log10(m)));const r=m/p;const s=r<=1?1:r<=2?2:r<=2.5?2.5:r<=5?5:10;return s*p};
+ function legend(host,series){if(series.length<2&&!series[0].legend)return;const d=document.createElement('div');d.className='lg';
+  d.innerHTML=series.map(s=>'<span><i style="background:'+s.color+'"></i>'+s.name+'</span>').join('');host.appendChild(d)}
+ // opts: labels[], series[{name,color,data[] (number|[lo,hi]|null), colors?[]}], stacked, horiz, max, fmt, unit, total, height, labelW
+ function bar(host,o){
+  host.innerHTML='';const H=!!o.horiz,N=o.labels.length,f=o.fmt||(v=>fmt0(v)+(o.unit||''));
+  const W=640,lw=H?(o.labelW||170):44,top=22,right=H?70:12,bot=H?20:(o.rotate?58:30);
+  const rowH=o.rowH||30,ht=H?top+N*rowH+bot:(o.height||300);
+  let mx=0;const tot=new Array(N).fill(0);
+  o.series.forEach(s=>s.data.forEach((v,i)=>{if(v==null)return;if(Array.isArray(v)){mx=Math.max(mx,v[1]);return}if(o.stacked){tot[i]+=v;mx=Math.max(mx,tot[i])}else mx=Math.max(mx,v)}));
+  const vmax=o.max||nice(mx*1.08),pw=W-lw-right,ph=ht-top-bot;
+  const svg=el('svg',{viewBox:'0 0 '+W+' '+ht,role:'img','aria-label':o.title||''});
+  const sc=v=>(v/vmax)*(H?pw:ph);
+  // axis
+  if(H)svg.appendChild(el('line',{x1:lw,x2:lw,y1:top-4,y2:top+N*rowH,stroke:'#000'}));
+  else svg.appendChild(el('line',{x1:lw,x2:W-right,y1:top+ph,y2:top+ph,stroke:'#000'}));
+  if(!H){const step=nice(vmax/5);for(let t=0;t<=vmax+1e-9;t+=step){const y=top+ph-sc(t);svg.appendChild(el('text',{x:lw-6,y:y+4,'text-anchor':'end','font-size':11},f===o.fmt&&o.tickFmt?o.tickFmt(t):(o.tickFmt?o.tickFmt(t):fmt0(t))))}
+   svg.appendChild(el('line',{x1:lw,x2:lw,y1:top,y2:top+ph,stroke:'#000'}))}
+  const ns=o.stacked?1:o.series.length;
+  const band=H?rowH:pw/N,bw=band*(o.bw||0.62)/ns;
+  const base=new Array(N).fill(0);
+  o.series.forEach((s,si)=>{s.data.forEach((v,i)=>{if(v==null)return;const col=(s.colors&&s.colors[i])||s.color;
+   const off=o.stacked?0:si*bw;let lo=0,hi=v,rng=Array.isArray(v);if(rng){lo=v[0];hi=v[1]}
+   if(o.stacked&&!rng){lo=base[i];hi=base[i]+v;base[i]=hi}
+   if(H){const y=top+i*band+(band-bw*ns)/2+off,x=lw+sc(lo),w=Math.max(1,sc(hi)-sc(lo));
+    svg.appendChild(el('rect',{x,y,width:w,height:bw,fill:col}));
+    if(!o.stacked||rng){svg.appendChild(el('text',{x:x+w+4,y:y+bw/2+4,'font-size':11},rng?(fmt0(lo)+'–'+f(hi)):f(v)))}
+    else if(w>34){svg.appendChild(el('text',{x:x+w/2,y:y+bw/2+4,'font-size':10.5,'text-anchor':'middle',fill:s.dark?'#fff':'#000'},f(v)))}
+   }else{const x=lw+i*band+(band-bw*ns)/2+off,y=top+ph-sc(hi),h=Math.max(1,sc(hi)-sc(lo));
+    svg.appendChild(el('rect',{x,y,width:bw,height:h,fill:col}));
+    if(!o.stacked||rng){svg.appendChild(el('text',{x:x+bw/2,y:y-5,'font-size':11,'text-anchor':'middle'},rng?(fmt0(lo)+'–'+f(hi)):f(v)))}
+    else if(h>16){svg.appendChild(el('text',{x:x+bw/2,y:y+h/2+4,'font-size':10.5,'text-anchor':'middle',fill:s.dark?'#fff':'#000'},f(v)))}}
+  })});
+  if(o.stacked&&o.total){base.forEach((t,i)=>{if(!t)return;if(H){const y=top+i*band+band/2+4;svg.appendChild(el('text',{x:lw+sc(t)+4,y,'font-size':11,'font-weight':700},f(t)))}else{const x=lw+i*band+band/2;svg.appendChild(el('text',{x,y:top+ph-sc(t)-6,'font-size':11,'font-weight':700,'text-anchor':'middle'},f(t)))}})}
+  o.labels.forEach((l,i)=>{if(H){svg.appendChild(el('text',{x:lw-6,y:top+i*band+band/2+4,'text-anchor':'end','font-size':11.5},l))}
+   else{const x=lw+i*band+band/2,y=top+ph+16;const t=el('text',{x,y,'font-size':11.5,'text-anchor':o.rotate?'end':'middle'},l);if(o.rotate)t.setAttribute('transform','rotate(-28 '+x+' '+y+')');svg.appendChild(t)}});
+  host.appendChild(svg);legend(host,o.series)}
+ return {bar}
+})();
+
+(function(){
+// matrix
+const mx=document.getElementById('psm-mx');let dsel='all',only=false;
+function rmx(){const ds=DEV.filter(d=>dsel==='all'||d.id===dsel);let h='<thead><tr><th>工程</th>'+ds.map(d=>'<th class="dv"><span class="ddot" style="background:'+d.col+'"></span>'+d.ja+' <small style="font-weight:400;color:#595959">'+d.sub+'</small></th>').join('')+'</tr></thead><tbody>';let g='';
+ MX.forEach(r=>{if(r.g!==g){g=r.g;h+='<tr class="gr"><td colspan="'+(ds.length+1)+'">'+g+'</td></tr>'}
+  h+='<tr><td class="rh">'+r.ja+'<small>'+r.what+'</small></td>'+ds.map(d=>{const c=r.c[d.id];return '<td class="cell'+(c[1]?' chg':'')+'">'+c[0]+'</td>'}).join('')+'</tr>'});
+ mx.innerHTML=h+'</tbody>';mx.classList.toggle('only',only)}
+const seg=(ids,cb)=>ids.forEach(([id,v])=>document.getElementById(id).addEventListener('click',()=>{ids.forEach(([i])=>document.getElementById(i).setAttribute('aria-pressed',i===id?'true':'false'));cb(v)}));
+seg([['psm-d-all','all'],['psm-d-si','si'],['psm-d-sic','sic'],['psm-d-gan','gan'],['psm-d-gao','gao']],v=>{dsel=v;rmx()});
+seg([['psm-o-all',false],['psm-o-chg',true]],v=>{only=v;rmx()});rmx();
+// charts
+const N='#0b1f8f',B='#2f6fd0',G='#8c8c8c',L='#d9d9d9',Au='#c4a35a';
+SC.bar(document.getElementById('psm-cMkt'),{labels:['2025','2035（予測）'],stacked:true,total:true,unit:'兆円',fmt:v=>v.toFixed(2),tickFmt:v=>v.toFixed(0),height:280,
+ series:[{name:'Si',color:G,data:[3.22,4.84],dark:1},{name:'次世代（SiC・GaN・Ga₂O₃）',color:N,data:[0.54,2.51],dark:1}]});
+SC.bar(document.getElementById('psm-cNext'),{horiz:true,labels:['SiCモジュール','その他の次世代（算出）','GaN','Ga₂O₃'],fmt:v=>v.toLocaleString()+'億円',max:22000,labelW:150,
+ series:[{name:'2025',color:L,data:[3506,1277,585,0]},{name:'2035（予測）',color:N,data:[18749,3010,3169,149]}]});
+SC.bar(document.getElementById('psm-cYole'),{horiz:true,labels:['IGBT','SiC','GaN'],fmt:v=>v+'億ドル',max:160,labelW:80,
+ series:[{name:'2030年見通し',color:N,data:[134,100,30],colors:[G,N,B]}]});
+SC.bar(document.getElementById('psm-cMat'),{labels:['2025','2029','2035（予測）'],fmt:v=>v.toLocaleString(),tickFmt:v=>v.toLocaleString(),height:280,
+ series:[{name:'構成部材（材料）',color:Au,data:[5967,10000,18060]},{name:'製造装置',color:G,data:[6735,null,13627]}]});
+SC.bar(document.getElementById('psm-cPkg'),{labels:['2023','2029（予測）'],fmt:v=>v.toFixed(2),tickFmt:v=>v.toFixed(0),height:280,stacked:true,total:true,
+ series:[{name:'ベースプレート',color:N,data:[0.651,1.07],dark:1},{name:'その他のパッケージ材料（算出）',color:L,data:[1.65,3.27]}]});
+SC.bar(document.getElementById('psm-cSicW'),{labels:['2024','2025（見込み）','2035（予測）'],stacked:true,total:true,fmt:v=>Math.round(v).toLocaleString(),tickFmt:v=>v.toLocaleString(),height:300,
+ series:[{name:'合計のみ（内訳なし）',color:L,data:[1436,null,null]},{name:'8インチ以外（算出）',color:G,data:[null,1392,2024],dark:1},{name:'8インチ',color:N,data:[null,551,3700],dark:1}]});
+SC.bar(document.getElementById('psm-cShare'),{horiz:true,labels:['Wolfspeed','TanKeBlue（中国）','SICC（中国）','Coherent','その他'],fmt:v=>v.toFixed(1)+'%',max:40,labelW:130,
+ series:[{name:'2024年シェア',color:N,data:[33.7,17.3,17.1,13.9,18.0],colors:[N,G,G,N,L]}]});
+SC.bar(document.getElementById('psm-cPx'),{labels:['2023年末','2024年4–6月','2025年1–3月'],fmt:v=>v.toLocaleString()+'ドル',tickFmt:v=>v.toLocaleString(),height:260,max:4500,
+ series:[{name:'8インチ（ドル/枚）',color:N,data:[[3000,4000],2000,1000]}]});
+SC.bar(document.getElementById('psm-cCn'),{labels:['2022','2023','2024（見通し）','2025（見通し）'],fmt:v=>v+'万枚',tickFmt:v=>v,height:260,
+ series:[{name:'中国の能力',color:G,data:[46,117,222,390],colors:[G,G,L,L]}]});
+SC.bar(document.getElementById('psm-cNgk'),{labels:['2024年（現状）','2026年度（計画）'],fmt:v=>v+'万枚/月',tickFmt:v=>v,height:240,max:30,
+ series:[{name:'AMB基板の能力',color:Au,data:[10,25]}]});
+SC.bar(document.getElementById('psm-cWolf'),{labels:['2025年4–6月','2026年4–6月'],stacked:true,total:true,fmt:v=>v.toFixed(1),tickFmt:v=>v,height:280,
+ series:[{name:'パワーデバイス（百万ドル）',color:N,data:[118.6,106.3],dark:1},{name:'基板・材料（百万ドル）',color:Au,data:[78.4,43.3]}]});
+})();
+
+})();
+</script>

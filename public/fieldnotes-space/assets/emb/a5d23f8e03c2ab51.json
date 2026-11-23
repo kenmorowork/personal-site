@@ -1,0 +1,1397 @@
+{
+  "as_of": "2026-10-24",
+  "purpose": "Intermediate primary-source evidence, not forecast or market consensus",
+  "sources": {
+    "ge_q226_release": {
+      "url": "https://www.gevernova.com/sites/default/files/gev_webcast_pressrelease_07222026.pdf",
+      "date": "2026-07-22",
+      "pages": [
+        1,
+        3
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "GE Vernova 2Q26決算発表",
+      "scope": "資料内の各表を参照"
+    },
+    "ge_q226_presentation": {
+      "url": "https://www.gevernova.com/sites/default/files/gev_webcast_presentation_07222026.pdf",
+      "date": "2026-07-22",
+      "pages": [
+        14,
+        15,
+        19
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "GE Vernova 2Q26説明資料",
+      "scope": "資料内の各表を参照"
+    },
+    "se_q326_presentation": {
+      "url": "https://assets.siemens-energy.com/dam/3e846440-66dd-4a56-be75-b49d004e6741/2026-08-05_Q3_Analyst_presentation-pdf_Original%20file.pdf",
+      "date": "2026-08-05",
+      "pages": [
+        5,
+        6,
+        11
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "Siemens Energy FY26 3Q説明資料",
+      "scope": "資料内の各表を参照"
+    },
+    "se_q326_release": {
+      "url": "https://assets.siemens-energy.com/dam/d0147174-31a9-4a78-b062-b49d00428fc4/earnings-release-q3-fy2026-en-pdf_Original%20file.pdf",
+      "date": "2026-08-05",
+      "pages": [
+        3,
+        5
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "Siemens Energy FY26 3Q決算発表",
+      "scope": "資料内の各表を参照"
+    },
+    "mhi_q126": {
+      "url": "https://www.mhi.com/finance/library/result/pdf/fy20261q/presentation.pdf",
+      "date": "2026-08-04",
+      "pages": [
+        11,
+        21,
+        22
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "三菱重工 FY2026 1Q決算資料",
+      "scope": "資料内の各表を参照"
+    },
+    "mhi_q126_qa": {
+      "url": "https://www.mhi.com/finance/library/result/pdf/fy20261q/qa_20261q.pdf",
+      "date": "2026-08-06",
+      "pages": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "三菱重工 FY2026 1Q決算Q&A",
+      "scope": "資料内の各表を参照"
+    },
+    "mhi_fy25": {
+      "url": "https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf",
+      "date": "2026-05-12",
+      "pages": [
+        6
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "三菱重工 FY2025通期決算資料",
+      "scope": "資料内の各表を参照"
+    },
+    "mhi_gtcc25": {
+      "url": "https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf",
+      "date": "2025-10-07",
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "三菱重工 GTCC事業説明会2025",
+      "scope": "資料内の各表を参照"
+    },
+    "eia860m": {
+      "url": "https://www.eia.gov/electricity/data/eia860m/",
+      "release_date": "2026-10-23",
+      "data_period": "2026-09",
+      "accessed": "2026-10-24",
+      "type": "official",
+      "title": "EIA-860M 月次設備統計",
+      "scope": "資料内の各表を参照"
+    },
+    "eia_annual_plans": {
+      "url": "https://www.eia.gov/electricity/annual/html/epa_04_05.html",
+      "title": "Planned Utility-Scale Generating Capacity Changes, by Energy Source, 2026-2030",
+      "vintage": "計画基準2025-12-31（原典脚注確認）。公表日未特定。",
+      "accessed": "2026-10-24",
+      "type": "official",
+      "scope": "資料内の各表を参照"
+    },
+    "woodmac": {
+      "url": "https://www.woodmac.com/press-releases/gas-turbine-prices-soar-195-as-market-faces-supply-demand-crisis/",
+      "title": "Wood Mackenzie：GT価格と供給制約",
+      "date": "2026-04-01",
+      "type": "industry_forecast",
+      "accessed": "2026-10-24"
+    },
+    "iea_ai": {
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "title": "IEA Key Questions on Energy and AI",
+      "date": "2026-04-16",
+      "type": "agency_forecast",
+      "accessed": "2026-10-24"
+    },
+    "m501": {
+      "url": "https://power.mhi.com/products/gasturbines/lineup/m501j",
+      "title": "M501J/JAC公式仕様",
+      "date": null,
+      "type": "product_spec",
+      "accessed": "2026-10-24"
+    },
+    "m701": {
+      "url": "https://power.mhi.com/products/gasturbines/lineup/m701j",
+      "title": "M701J/JAC公式仕様",
+      "date": null,
+      "type": "product_spec",
+      "accessed": "2026-10-24"
+    },
+    "howmet": {
+      "url": "https://www.howmet.com/press-release/2026-08-06/howmet-aerospace-reports-second-quarter-2026-results/",
+      "title": "Howmet 2Q26 results",
+      "date": "2026-08-06",
+      "type": "official",
+      "accessed": "2026-10-24"
+    },
+    "mhi_qatar": {
+      "url": "https://www.mhi.com/jp/news/260114.html",
+      "title": "三菱重工：Qatar Facility E JAC4台受注",
+      "date": "2026-01-14",
+      "type": "project",
+      "accessed": "2026-10-24"
+    },
+    "ge_event": {
+      "url": "https://www.gevernova.com/investors/updates",
+      "title": "GE Vernova決算予定・IR更新",
+      "date": "2026-10-13",
+      "type": "official",
+      "accessed": "2026-10-24"
+    },
+    "project_0": {
+      "url": "https://www.gevernova.com/news/press-releases/homer-city-redevelopment-kiewit-announce-country-largest-natural-gas-powered-data-center-support-ai-hpc-demand",
+      "title": "Homer City公式発表",
+      "date": "2025-04-02",
+      "type": "project",
+      "accessed": "2026-10-24"
+    },
+    "project_1": {
+      "url": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/chevron-signs-20-year-power-agreement-microsoft-west-texas-data",
+      "title": "Project Kilby公式発表",
+      "date": "2026-06-22",
+      "type": "project",
+      "accessed": "2026-10-24"
+    },
+    "project_2": {
+      "url": "https://www.blueenergy.co/news/project-acceleration-agreement-with-ge-vernova-hitachi",
+      "title": "Blue Energy Victoria公式発表",
+      "date": "2026-08-13",
+      "type": "project",
+      "accessed": "2026-10-24"
+    },
+    "project_3": {
+      "url": "https://power.mhi.com/regions/amer/news/260515",
+      "title": "Tallgrass Cheyenne Power Hub Phase1公式発表",
+      "date": "2026-05-15",
+      "type": "project",
+      "accessed": "2026-10-24"
+    },
+    "ge_q325_presentation": {
+      "url": "https://www.gevernova.com/sites/default/files/gev_webcast_presentation_10222025.pdf",
+      "title": "GE Vernova 3Q25説明資料",
+      "date": "2025-10-22",
+      "accessed": "2026-10-24",
+      "type": "official"
+    },
+    "ge_q425_presentation": {
+      "url": "https://www.gevernova.com/sites/default/files/gev_webcast_presentation_01282026.pdf",
+      "title": "GE Vernova 4Q25説明資料",
+      "date": "2026-01-28",
+      "accessed": "2026-10-24",
+      "type": "official"
+    },
+    "eia_raw": {
+      "url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx",
+      "title": "EIA-860M September2026原表・Planned sheet",
+      "date": "2026-10-23",
+      "accessed": "2026-10-24",
+      "type": "agency_actual_plan",
+      "scope": "NG・US（PR除外）、PlantID＋GeneratorID重複0、nameplateとnet summer分離"
+    },
+    "ge_q126_presentation": {
+      "url": "https://www.gevernova.com/sites/default/files/gev_webcast_presentation_04222026.pdf",
+      "title": "GE Vernova 1Q26説明資料",
+      "date": "2026-04-22",
+      "accessed": "2026-10-24",
+      "pages": [
+        21
+      ],
+      "type": "official"
+    }
+  },
+  "ge": {
+    "period": "2026Q2",
+    "scope": "all GE gas turbines; Heavy-duty/Aero not strict >=100MW market",
+    "gas_orders": {
+      "all_units": 113,
+      "heavy_units": 52,
+      "ha_subset_units": 15,
+      "aero_units": 61,
+      "gw": 12.1
+    },
+    "gas_sales": {
+      "all_units": 29,
+      "heavy_units": 13,
+      "ha_subset_units": 3,
+      "aero_units": 16,
+      "gw": 3.3
+    },
+    "gas_h126_sales_gw": 7.5,
+    "gas_backlog_sra_gw": {
+      "2026-03-31": {
+        "firm": 44,
+        "sra": 56
+      },
+      "2026-06-30": {
+        "firm": 53,
+        "sra": 63
+      }
+    },
+    "q2_contract_flow_gw": {
+      "new_sra": 18,
+      "direct_orders": 2,
+      "existing_sra_conversion": 10,
+      "shipped_rounded": 3,
+      "sra_reconciliation_unexplained": -1
+    },
+    "capacity_company_targets_gw_per_year": {
+      "2026Q3_run_rate": 20,
+      "2028": 24,
+      "2030_actions": 30
+    },
+    "year_end_2026_firm_plus_sra_target_gw_lower_bound": 125,
+    "power_financial_history_usdm": {
+      "periods": [
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "revenue": [
+        4449,
+        4785,
+        4863,
+        5776,
+        4971,
+        5477
+      ],
+      "equipment_revenue": [
+        1491,
+        1504,
+        1744,
+        1946,
+        1885,
+        1965
+      ],
+      "service_revenue": [
+        2958,
+        3280,
+        3119,
+        3830,
+        3086,
+        3512
+      ],
+      "ebitda": [
+        517,
+        785,
+        651,
+        982,
+        811,
+        1031
+      ],
+      "ebitda_margin_pct": [
+        11.6,
+        16.4,
+        13.4,
+        17.0,
+        16.3,
+        18.8
+      ]
+    },
+    "power_q2_orders_usdm": {
+      "2025Q2": 7109,
+      "2026Q2": 16729,
+      "equipment_2026Q2": 12650,
+      "service_2026Q2": 4078
+    },
+    "power_rpo_usdm": {
+      "2025Q2": {
+        "equipment": 16133,
+        "service": 63088,
+        "total": 79221
+      },
+      "2026Q2": {
+        "equipment": 39261,
+        "service": 72388,
+        "total": 111649
+      }
+    },
+    "gas_power_revenue_usdm": {
+      "2025Q2": 3911,
+      "2026Q2": 4427,
+      "2025H1": 7516,
+      "2026H1": 8493
+    },
+    "notes": [
+      "Power includes nuclear and hydro; Power services and EBITDA are not GT-only",
+      "Power figures may contain displayed rounding differences",
+      "2026Q2 Power order growth nominal 135%, organic 134%; choose consistent basis",
+      "2025Q4 EBITDA margin latest 2Q26 trending table 17.0%, not old-site 16.9%"
+    ],
+    "physical_8q": {
+      "periods": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "heavyOrders": [
+        14,
+        24,
+        29,
+        20,
+        20,
+        41,
+        28,
+        52
+      ],
+      "aeroOrders": [
+        15,
+        10,
+        9,
+        27,
+        9,
+        18,
+        9,
+        61
+      ],
+      "heavySales": [
+        13,
+        17,
+        12,
+        18,
+        14,
+        10,
+        15,
+        13
+      ],
+      "aeroSales": [
+        5,
+        8,
+        7,
+        3,
+        6,
+        11,
+        10,
+        16
+      ],
+      "ordersGW": [
+        5.1,
+        6.1,
+        7.1,
+        5.1,
+        7.4,
+        10.2,
+        8.1,
+        12.1
+      ],
+      "salesGW": [
+        3.3,
+        4.8,
+        3.0,
+        5.2,
+        4.0,
+        3.1,
+        4.2,
+        3.3
+      ]
+    }
+  },
+  "siemens": {
+    "period": "FY2026Q3 = calendar 2026Q2",
+    "scope": "Gas Services; small/mid/large turbines plus services",
+    "gas_firm_orders_gw": 15,
+    "gas_sra_converted_to_orders_gw": 12,
+    "gas_shipped_gw": 6,
+    "2026-06-30": {
+      "firm_backlog_gw": 69,
+      "sra_gw": 26,
+      "gs_backlog_eur_bn": 73
+    },
+    "gs_financials_eur_m": {
+      "FY25Q3": {
+        "orders": 6180,
+        "revenue": 3118,
+        "profit": 402,
+        "profit_before_si": 406,
+        "profit_margin_pct": 12.9,
+        "profit_margin_before_si_pct": 13.0
+      },
+      "FY26Q3": {
+        "orders": 9967,
+        "revenue": 3756,
+        "profit": 645,
+        "profit_before_si": 648,
+        "profit_margin_pct": 17.2,
+        "profit_margin_before_si_pct": 17.3
+      }
+    },
+    "gs_order_growth_pct": {
+      "nominal": 61.3,
+      "comparable": 61.9
+    },
+    "gs_revenue_growth_pct": {
+      "nominal": 20.5,
+      "comparable": 20.8
+    },
+    "gs_fy26_company_guide": {
+      "comparable_revenue_growth_pct": [
+        16,
+        18
+      ],
+      "profit_margin_before_si_pct": [
+        14,
+        16
+      ]
+    },
+    "capacity_units_per_year": {
+      "mgt_20_to_100mw": {
+        "FY25": 50,
+        "FY26_approx": 80,
+        "FY28_approx": 100
+      },
+      "lgt_100_to_600mw": {
+        "FY25": 35,
+        "FY26_approx": 35,
+        "FY27_approx": 50,
+        "FY28_lower_bound": 50
+      }
+    },
+    "notes": [
+      "Current site compares 12.9% to 17.3% while calling both pre-SI; correct pre-SI comparison 13.0% to 17.3%",
+      "GW order intake includes conversion from SRA; conversion is not additive new pipeline"
+    ]
+  },
+  "mhi": {
+    "fy_definition": "April to March; FY2026Q1=2026Apr-Jun",
+    "gtcc_annual_bn_jpy": {
+      "FY2021": {
+        "orders": 638.4,
+        "revenue": 616.8,
+        "oe": 312.3,
+        "services": 304.5
+      },
+      "FY2022": {
+        "orders": 834.6,
+        "revenue": 736.8,
+        "oe": 398.9,
+        "services": 337.9
+      },
+      "FY2023": {
+        "orders": 1259.3,
+        "revenue": 735.6,
+        "oe": 355.3,
+        "services": 380.3
+      },
+      "FY2024": {
+        "orders": 1474.4,
+        "revenue": 790.7,
+        "oe": 387.1,
+        "services": 403.5
+      },
+      "FY2025": {
+        "orders": 2652.6,
+        "revenue": 992.2,
+        "oe": 509.3,
+        "services": 482.8
+      }
+    },
+    "gtcc_quarter_bn_jpy": {
+      "FY2025Q1": {
+        "orders": 602.5,
+        "revenue": 196.8,
+        "after_sales_pct": 55
+      },
+      "FY2026Q1": {
+        "orders": 930.0,
+        "revenue": 274.9,
+        "after_sales_pct": 45
+      }
+    },
+    "gtcc_fy26_guide_bn_jpy": {
+      "orders_original": 2300,
+      "orders_q1_revision": 2400,
+      "revenue": 1100
+    },
+    "large_gt": {
+      "definition": "over100MW company category",
+      "FY2025": {
+        "orders_units": 35,
+        "orders_gw": 16,
+        "americas_units": 19,
+        "asia_units": 12,
+        "emea_units": 4,
+        "backlog_units": 74,
+        "backlog_gw": 33,
+        "china_licensee_orders_units_separate": 13
+      },
+      "FY2025Q1": {
+        "orders_units": 8,
+        "orders_gw": 4,
+        "backlog_units": 53,
+        "backlog_gw": 23
+      },
+      "FY2026Q1": {
+        "orders_units": 10,
+        "orders_gw": 4,
+        "usa_units": 4,
+        "japan_units": 6,
+        "backlog_units": 80,
+        "backlog_gw": 35,
+        "china_licensee_orders_units_separate": 2
+      }
+    },
+    "energy_fy26q1_bn_jpy": {
+      "revenue": 536.3,
+      "business_profit": 101.3,
+      "reported_margin_pct": 18.9,
+      "oneoff_profit_approx": 25,
+      "contract_finalization_profit_approx": 15,
+      "project_investment_sale_gain_approx": 10
+    },
+    "normalization_warning": "Company says most approx25bn oneoffs in Energy. Contract finalization also raises revenue by MORE THAN15bn; exact revenue adjustment not disclosed, and company declines whether project is GT or conventional thermal. (101.3-25)/536.3=14.227% is only fixed-reported-revenue illustration, NOT normalized margin. 10bn project sale gain affects only profit.",
+    "capacity_warning": "Q1 QA confirms expected future doubling relative to FY2024, not immediate doubling of orders; base year must be shown. Exact annual GW target unavailable here.",
+    "lead_time_warning": "Q1 QA: projects under discussion typically2030-31; currently booking projects mostly2028-30. Do not collapse discussion leadtimes into signed-order delivery profile.",
+    "annual_component_warning": "OE/services mapping must be visually checked against legend before publication; field values reflect extracted latest ratios: FY24 services403.5/790.7≈51%; FY25 services482.8/992.2≈49%. Rounded components may not equal total.",
+    "regional_ltsa_terms": "FY26Q1 Americas projects include LTSAs; Japan services generally contracted separately annually (Q1QA p4). Do not assign a uniform LTSA attachment rate across regions."
+  },
+  "market": {
+    "mhi_oct2025_vintage_mccoy_gt_market_gw": {
+      "CY2019": 40.3,
+      "CY2020": 39.7,
+      "CY2021": 34.6,
+      "CY2022": 50.4,
+      "CY2023": 43.6,
+      "CY2024": 57.4,
+      "CY2025H1": 41.7
+    },
+    "regional_mhi_oct2025_vintage_gw": {
+      "regions": [
+        "North America",
+        "Latin America",
+        "Europe",
+        "CIS/R",
+        "MENA",
+        "Sub-Saharan",
+        "South Asia",
+        "SE Asia",
+        "East Asia",
+        "China",
+        "Unknown"
+      ],
+      "CY2024": [
+        14.9,
+        3.7,
+        1.5,
+        4.4,
+        16.0,
+        0.4,
+        0.0,
+        2.3,
+        5.2,
+        6.8,
+        2.2
+      ],
+      "CY2025H1": [
+        18.6,
+        0.7,
+        1.3,
+        1.6,
+        12.0,
+        0.0,
+        0.1,
+        0.8,
+        2.7,
+        0.4,
+        3.6
+      ]
+    },
+    "mhi_may2026_vintage_power_generation_gt_CY2025_gw": 96.1,
+    "warning": "Newer FY25 slide title specifies power-generation GT demand; differs from older GT market series and site all-size100.3GW. Do not stitch vintages or claim96.1 is >100MW-only. Exact model/powerband coverage needs McCoy definition.",
+    "mhi_may2026_vintage_power_generation_gt_gw": {
+      "CY2019": 36.8,
+      "CY2020": 34.4,
+      "CY2021": 30.6,
+      "CY2022": 48.3,
+      "CY2023": 40.3,
+      "CY2024": 56.2,
+      "CY2025": 96.1
+    }
+  },
+  "eia": {
+    "monthly_latest": {
+      "release": "2026-10-23",
+      "period": "2026-09",
+      "next_release": "2026-11-24",
+      "status": "September raw XLS aggregated by prime mover, status and operation month; prior-month revisions not compared"
+    },
+    "annual_table_natural_gas_net_summer_mw": {
+      "years": [
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      "planned_additions": [
+        6177.6,
+        10466.1,
+        15695.3,
+        13531.0,
+        17282.0
+      ],
+      "planned_retirements": [
+        4097.5,
+        3288.3,
+        2318.1,
+        2215.0,
+        1479.7
+      ]
+    },
+    "warning": "Annual table as of2025-12-31. September2026 monthly raw aggregated separately; differing scope/units not joined.",
+    "annual_plan_asof": "2025-12-31",
+    "annual_total_natural_gas_mw": {
+      "additions": 63152.0,
+      "retirements": 13398.6,
+      "net_additions": 49753.4
+    },
+    "annual_as_of": "2025-12-31"
+  },
+  "projects": [
+    {
+      "id": "homer-city",
+      "name": "Homer City",
+      "country": "US",
+      "state": "Pennsylvania",
+      "source_date": "2025-04-02",
+      "url": "https://www.gevernova.com/news/press-releases/homer-city-redevelopment-kiewit-announce-country-largest-natural-gas-powered-data-center-support-ai-hpc-demand",
+      "oem": "GE Vernova",
+      "gas_turbines": 7,
+      "plant_capacity_gw_upper": 4.5,
+      "first_turbine_delivery_plan": 2026,
+      "status": "developer/OEM announced plan; current completion not verified",
+      "note": "4.5GW plant total is not GT-only capacity"
+    },
+    {
+      "id": "kilby",
+      "name": "Project Kilby",
+      "country": "US",
+      "state": "Texas",
+      "source_date": "2026-06-22",
+      "url": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/chevron-signs-20-year-power-agreement-microsoft-west-texas-data",
+      "buyer": "Microsoft",
+      "developer": "Chevron / Energy Forge One with Engine No.1",
+      "ppa_years": 20,
+      "plant_capacity_gw_approx": 2.67,
+      "oem": "majority GE Vernova large turbines; additional Solar Turbines",
+      "fid_plan": "end2026 conditional",
+      "first_power_plan": 2028,
+      "status": "PPA signed, FID not yet established by source",
+      "note": "Do not add to earlier Chevron7-turbine4GW umbrella as independent demand without project reconciliation"
+    },
+    {
+      "id": "blue-victoria",
+      "name": "Blue Energy Victoria",
+      "country": "US",
+      "state": "Texas",
+      "source_date": "2026-08-13",
+      "url": "https://www.blueenergy.co/news/project-acceleration-agreement-with-ge-vernova-hitachi",
+      "oem": "GE Vernova7HA.02; GVH BWRX300",
+      "gt_units": 2,
+      "gas_phase_plant_capacity_gw_approx": 1,
+      "gas_phase_power_plan": 2030,
+      "nuclear_phase_gw": 1.5,
+      "nuclear_start_plan": 2032,
+      "total_project_gw": 2.5,
+      "fid_plan": 2027,
+      "status": "engineering/licensing agreement; conditional FID",
+      "note": "2.5GW includes1.5GW nuclear; not gas-turbine demand"
+    },
+    {
+      "id": "cheyenne",
+      "name": "Tallgrass Cheyenne Power Hub Phase1",
+      "country": "US",
+      "state": "Wyoming",
+      "source_date": "2026-05-15",
+      "url": "https://power.mhi.com/regions/amer/news/260515",
+      "oem": "Mitsubishi Power",
+      "model": "M501JAC",
+      "first_phase_gt_units": 2,
+      "site_ready_power_mw_approx": 1150,
+      "investment_usd_bn_lower": 7,
+      "fuel_pipeline": "Rockies Express",
+      "status": "allocation location announced",
+      "note": "Site-ready power not GT ISO single-unit output; retain phase boundary"
+    }
+  ],
+  "market_data_status": {
+    "as_of": "2026-10-24",
+    "attempted": "公開株価・コンセンサスを検索。取引所・会社原典との完全な時点・株数・EV・GTCC利益整合を今回確定できず。",
+    "price": null,
+    "market_cap": null,
+    "ev": null,
+    "diluted_shares": null,
+    "gt_consensus": null,
+    "conclusion": "市場の割安・割高、GT価値の織込率、目標株価は判定しない。"
+  },
+  "eia_latest": {
+    "source_url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx",
+    "release_date": "2026-10-23",
+    "data_as_of": "2026-09",
+    "sheet": "Planned",
+    "fuel_filter": "Energy Source Code = NG",
+    "territory": "US Planned sheet, excludes separate Planned_PR",
+    "raw_sha256": "bcef74e1af991680731aeecfda967f5950db4ce739bb584edd8b8774c7e6da17",
+    "dedup_keys": [
+      "Plant ID",
+      "Generator ID"
+    ],
+    "duplicate_count": 0,
+    "all_ng": {
+      "records": 495,
+      "nameplate_mw": 71102.5,
+      "nameplate_mw_missing": 0,
+      "net_summer_mw": 65918.8,
+      "net_summer_mw_missing": 0
+    },
+    "by_year": [
+      {
+        "year": 2026,
+        "all_ng": {
+          "records": 29,
+          "nameplate_mw": 2677.3,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2421.3,
+          "net_summer_mw_missing": 0
+        },
+        "by_prime_mover": {
+          "CA": {
+            "records": 1,
+            "nameplate_mw": 400,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 365,
+            "net_summer_mw_missing": 0
+          },
+          "CS": {
+            "records": 1,
+            "nameplate_mw": 612,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 538.3,
+            "net_summer_mw_missing": 0
+          },
+          "CT": {
+            "records": 2,
+            "nameplate_mw": 906,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 793.2,
+            "net_summer_mw_missing": 0
+          },
+          "GT": {
+            "records": 10,
+            "nameplate_mw": 628.2,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 596.8,
+            "net_summer_mw_missing": 0
+          },
+          "IC": {
+            "records": 14,
+            "nameplate_mw": 122.1,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 120.0,
+            "net_summer_mw_missing": 0
+          },
+          "ST": {
+            "records": 1,
+            "nameplate_mw": 9,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 8,
+            "net_summer_mw_missing": 0
+          }
+        },
+        "by_status": {
+          "(TS) Construction complete, but not yet in commercial operation": {
+            "records": 12,
+            "nameplate_mw": 2472.2,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2228.1,
+            "net_summer_mw_missing": 0
+          },
+          "(V) Under construction, more than 50 percent complete": {
+            "records": 17,
+            "nameplate_mw": 205.1,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 193.2,
+            "net_summer_mw_missing": 0
+          }
+        }
+      },
+      {
+        "year": 2027,
+        "all_ng": {
+          "records": 113,
+          "nameplate_mw": 10725.7,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 9443.9,
+          "net_summer_mw_missing": 0
+        },
+        "by_prime_mover": {
+          "CA": {
+            "records": 10,
+            "nameplate_mw": 1065.9,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1032.8,
+            "net_summer_mw_missing": 0
+          },
+          "CS": {
+            "records": 2,
+            "nameplate_mw": 756.3,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 661.3,
+            "net_summer_mw_missing": 0
+          },
+          "CT": {
+            "records": 8,
+            "nameplate_mw": 762.3,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 676.6,
+            "net_summer_mw_missing": 0
+          },
+          "GT": {
+            "records": 76,
+            "nameplate_mw": 7910.0,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 6844.4,
+            "net_summer_mw_missing": 0
+          },
+          "IC": {
+            "records": 17,
+            "nameplate_mw": 231.2,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 228.8,
+            "net_summer_mw_missing": 0
+          }
+        },
+        "by_status": {
+          "(L) Regulatory approvals pending. Not under construction": {
+            "records": 10,
+            "nameplate_mw": 363.8,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 291.4,
+            "net_summer_mw_missing": 0
+          },
+          "(P) Planned for installation, but regulatory approvals not initiated": {
+            "records": 42,
+            "nameplate_mw": 4785.9,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 4028.6,
+            "net_summer_mw_missing": 0
+          },
+          "(T) Regulatory approvals received. Not under construction": {
+            "records": 9,
+            "nameplate_mw": 619.6,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 548.4,
+            "net_summer_mw_missing": 0
+          },
+          "(TS) Construction complete, but not yet in commercial operation": {
+            "records": 2,
+            "nameplate_mw": 20,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 20,
+            "net_summer_mw_missing": 0
+          },
+          "(U) Under construction, less than or equal to 50 percent complete": {
+            "records": 37,
+            "nameplate_mw": 3197.7,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2984.0,
+            "net_summer_mw_missing": 0
+          },
+          "(V) Under construction, more than 50 percent complete": {
+            "records": 13,
+            "nameplate_mw": 1738.7,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1571.5,
+            "net_summer_mw_missing": 0
+          }
+        }
+      },
+      {
+        "year": 2028,
+        "all_ng": {
+          "records": 122,
+          "nameplate_mw": 19699.2,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 18146.7,
+          "net_summer_mw_missing": 0
+        },
+        "by_prime_mover": {
+          "CA": {
+            "records": 10,
+            "nameplate_mw": 2926.5,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2758.3,
+            "net_summer_mw_missing": 0
+          },
+          "CC": {
+            "records": 1,
+            "nameplate_mw": 754,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 723,
+            "net_summer_mw_missing": 0
+          },
+          "CS": {
+            "records": 3,
+            "nameplate_mw": 2011,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1854,
+            "net_summer_mw_missing": 0
+          },
+          "CT": {
+            "records": 16,
+            "nameplate_mw": 5742.5,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 5353.9,
+            "net_summer_mw_missing": 0
+          },
+          "GT": {
+            "records": 75,
+            "nameplate_mw": 7996.5,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 7192.4,
+            "net_summer_mw_missing": 0
+          },
+          "IC": {
+            "records": 17,
+            "nameplate_mw": 268.7,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 265.1,
+            "net_summer_mw_missing": 0
+          }
+        },
+        "by_status": {
+          "(L) Regulatory approvals pending. Not under construction": {
+            "records": 36,
+            "nameplate_mw": 7337.3,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 6503.0,
+            "net_summer_mw_missing": 0
+          },
+          "(P) Planned for installation, but regulatory approvals not initiated": {
+            "records": 69,
+            "nameplate_mw": 8732.6,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 8358.4,
+            "net_summer_mw_missing": 0
+          },
+          "(T) Regulatory approvals received. Not under construction": {
+            "records": 3,
+            "nameplate_mw": 340,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 288.4,
+            "net_summer_mw_missing": 0
+          },
+          "(U) Under construction, less than or equal to 50 percent complete": {
+            "records": 14,
+            "nameplate_mw": 3289.3,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2996.9,
+            "net_summer_mw_missing": 0
+          }
+        }
+      },
+      {
+        "year": 2029,
+        "all_ng": {
+          "records": 68,
+          "nameplate_mw": 15747.6,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 14740.9,
+          "net_summer_mw_missing": 0
+        },
+        "by_prime_mover": {
+          "CA": {
+            "records": 9,
+            "nameplate_mw": 2629.2,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2574.6,
+            "net_summer_mw_missing": 0
+          },
+          "CC": {
+            "records": 2,
+            "nameplate_mw": 804,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 711,
+            "net_summer_mw_missing": 0
+          },
+          "CS": {
+            "records": 3,
+            "nameplate_mw": 2210.0,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2038.0,
+            "net_summer_mw_missing": 0
+          },
+          "CT": {
+            "records": 9,
+            "nameplate_mw": 3804.4,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 3438.1,
+            "net_summer_mw_missing": 0
+          },
+          "GT": {
+            "records": 27,
+            "nameplate_mw": 5970.0,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 5650.4,
+            "net_summer_mw_missing": 0
+          },
+          "IC": {
+            "records": 18,
+            "nameplate_mw": 330.0,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 328.8,
+            "net_summer_mw_missing": 0
+          }
+        },
+        "by_status": {
+          "(L) Regulatory approvals pending. Not under construction": {
+            "records": 17,
+            "nameplate_mw": 3750.2,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 3523.8,
+            "net_summer_mw_missing": 0
+          },
+          "(P) Planned for installation, but regulatory approvals not initiated": {
+            "records": 41,
+            "nameplate_mw": 7727.4,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 7338.1,
+            "net_summer_mw_missing": 0
+          },
+          "(T) Regulatory approvals received. Not under construction": {
+            "records": 8,
+            "nameplate_mw": 2825,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2534.2,
+            "net_summer_mw_missing": 0
+          },
+          "(U) Under construction, less than or equal to 50 percent complete": {
+            "records": 2,
+            "nameplate_mw": 1445.0,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1344.8,
+            "net_summer_mw_missing": 0
+          }
+        }
+      },
+      {
+        "year": 2030,
+        "all_ng": {
+          "records": 153,
+          "nameplate_mw": 18134.0,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 17281.9,
+          "net_summer_mw_missing": 0
+        },
+        "by_prime_mover": {
+          "CA": {
+            "records": 41,
+            "nameplate_mw": 6050.7,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 6002.9,
+            "net_summer_mw_missing": 0
+          },
+          "CS": {
+            "records": 3,
+            "nameplate_mw": 2041.8,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1730.4,
+            "net_summer_mw_missing": 0
+          },
+          "CT": {
+            "records": 105,
+            "nameplate_mw": 9550.9,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 9122.6,
+            "net_summer_mw_missing": 0
+          },
+          "GT": {
+            "records": 4,
+            "nameplate_mw": 490.6,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 426.0,
+            "net_summer_mw_missing": 0
+          }
+        },
+        "by_status": {
+          "(L) Regulatory approvals pending. Not under construction": {
+            "records": 2,
+            "nameplate_mw": 759,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 729,
+            "net_summer_mw_missing": 0
+          },
+          "(P) Planned for installation, but regulatory approvals not initiated": {
+            "records": 149,
+            "nameplate_mw": 16120.3,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 15437.4,
+            "net_summer_mw_missing": 0
+          },
+          "(T) Regulatory approvals received. Not under construction": {
+            "records": 2,
+            "nameplate_mw": 1254.7,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1115.5,
+            "net_summer_mw_missing": 0
+          }
+        }
+      },
+      {
+        "year": 2031,
+        "all_ng": {
+          "records": 6,
+          "nameplate_mw": 2340.9,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2214.6,
+          "net_summer_mw_missing": 0
+        },
+        "by_prime_mover": {
+          "CA": {
+            "records": 3,
+            "nameplate_mw": 933,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 908.4,
+            "net_summer_mw_missing": 0
+          },
+          "CT": {
+            "records": 3,
+            "nameplate_mw": 1407.9,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1306.2,
+            "net_summer_mw_missing": 0
+          }
+        },
+        "by_status": {
+          "(P) Planned for installation, but regulatory approvals not initiated": {
+            "records": 6,
+            "nameplate_mw": 2340.9,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 2214.6,
+            "net_summer_mw_missing": 0
+          }
+        }
+      },
+      {
+        "year": 2034,
+        "all_ng": {
+          "records": 4,
+          "nameplate_mw": 1777.8,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1669.5,
+          "net_summer_mw_missing": 0
+        },
+        "by_prime_mover": {
+          "CA": {
+            "records": 1,
+            "nameplate_mw": 323,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 296.6,
+            "net_summer_mw_missing": 0
+          },
+          "CS": {
+            "records": 2,
+            "nameplate_mw": 1000,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 1000,
+            "net_summer_mw_missing": 0
+          },
+          "CT": {
+            "records": 1,
+            "nameplate_mw": 454.8,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 372.9,
+            "net_summer_mw_missing": 0
+          }
+        },
+        "by_status": {
+          "(L) Regulatory approvals pending. Not under construction": {
+            "records": 1,
+            "nameplate_mw": 500,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 500,
+            "net_summer_mw_missing": 0
+          },
+          "(T) Regulatory approvals received. Not under construction": {
+            "records": 1,
+            "nameplate_mw": 500,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 500,
+            "net_summer_mw_missing": 0
+          },
+          "(U) Under construction, less than or equal to 50 percent complete": {
+            "records": 2,
+            "nameplate_mw": 777.8,
+            "nameplate_mw_missing": 0,
+            "net_summer_mw": 669.5,
+            "net_summer_mw_missing": 0
+          }
+        }
+      }
+    ],
+    "prime_mover_notes": {
+      "GT": "combustion turbine simple cycle",
+      "CT": "combined-cycle combustion turbine part",
+      "CA": "combined-cycle steam part; exclude from gas turbine capacity",
+      "CS": "combined-cycle single shaft, complete combined output; do not treat as GT-only",
+      "CC": "combined-cycle total unit; report separately, not GT-only",
+      "IC": "reciprocating internal combustion engine",
+      "ST": "steam turbine"
+    },
+    "limits": [
+      "Planned inventory is not firm OEM orders or committed capacity",
+      "Reported nameplate/net summer differ from ISO turbine specs",
+      "Raw generator entries, not number of turbine OEM contracts",
+      "Monthly delay/cancellation requires matching another vintage; not calculated here",
+      "Plan dates and statuses may be revised"
+    ],
+    "quarterly_2027_29": [
+      {
+        "quarter": "2027Q1",
+        "all_ng_nameplate_mw": 933.2,
+        "combustion_GT_CT_nameplate_mw": 882.7,
+        "GT_CT_over100MW_nameplate_mw": 682.6,
+        "combustion_under_construction_or_test_nameplate_mw": 882.7,
+        "combustion_generators": 7,
+        "over100mw_generators": 2
+      },
+      {
+        "quarter": "2027Q2",
+        "all_ng_nameplate_mw": 2257.7,
+        "combustion_GT_CT_nameplate_mw": 1442.5,
+        "GT_CT_over100MW_nameplate_mw": 1299.0,
+        "combustion_under_construction_or_test_nameplate_mw": 1322.5,
+        "combustion_generators": 11,
+        "over100mw_generators": 3
+      },
+      {
+        "quarter": "2027Q3",
+        "all_ng_nameplate_mw": 988.8,
+        "combustion_GT_CT_nameplate_mw": 864.1,
+        "GT_CT_over100MW_nameplate_mw": 419.0,
+        "combustion_under_construction_or_test_nameplate_mw": 731.8,
+        "combustion_generators": 16,
+        "over100mw_generators": 1
+      },
+      {
+        "quarter": "2027Q4",
+        "all_ng_nameplate_mw": 6546.0,
+        "combustion_GT_CT_nameplate_mw": 5483.0,
+        "GT_CT_over100MW_nameplate_mw": 3230.2,
+        "combustion_under_construction_or_test_nameplate_mw": 1170.0,
+        "combustion_generators": 50,
+        "over100mw_generators": 11
+      },
+      {
+        "quarter": "2028Q1",
+        "all_ng_nameplate_mw": 1443.5,
+        "combustion_GT_CT_nameplate_mw": 1419.5,
+        "GT_CT_over100MW_nameplate_mw": 1181.5,
+        "combustion_under_construction_or_test_nameplate_mw": 15.0,
+        "combustion_generators": 11,
+        "over100mw_generators": 5
+      },
+      {
+        "quarter": "2028Q2",
+        "all_ng_nameplate_mw": 2790.7,
+        "combustion_GT_CT_nameplate_mw": 2429.0,
+        "GT_CT_over100MW_nameplate_mw": 1340.0,
+        "combustion_under_construction_or_test_nameplate_mw": 863.0,
+        "combustion_generators": 22,
+        "over100mw_generators": 4
+      },
+      {
+        "quarter": "2028Q3",
+        "all_ng_nameplate_mw": 7939.9,
+        "combustion_GT_CT_nameplate_mw": 5238.0,
+        "GT_CT_over100MW_nameplate_mw": 4758.0,
+        "combustion_under_construction_or_test_nameplate_mw": 955.4,
+        "combustion_generators": 26,
+        "over100mw_generators": 16
+      },
+      {
+        "quarter": "2028Q4",
+        "all_ng_nameplate_mw": 7525.1,
+        "combustion_GT_CT_nameplate_mw": 4652.5,
+        "GT_CT_over100MW_nameplate_mw": 3350.1,
+        "combustion_under_construction_or_test_nameplate_mw": 0,
+        "combustion_generators": 32,
+        "over100mw_generators": 9
+      },
+      {
+        "quarter": "2029Q1",
+        "all_ng_nameplate_mw": 6840.8,
+        "combustion_GT_CT_nameplate_mw": 3776.8,
+        "GT_CT_over100MW_nameplate_mw": 3776.8,
+        "combustion_under_construction_or_test_nameplate_mw": 0,
+        "combustion_generators": 10,
+        "over100mw_generators": 10
+      },
+      {
+        "quarter": "2029Q2",
+        "all_ng_nameplate_mw": 3021.2,
+        "combustion_GT_CT_nameplate_mw": 1658.0,
+        "GT_CT_over100MW_nameplate_mw": 1478.0,
+        "combustion_under_construction_or_test_nameplate_mw": 0,
+        "combustion_generators": 9,
+        "over100mw_generators": 5
+      },
+      {
+        "quarter": "2029Q3",
+        "all_ng_nameplate_mw": 2113.6,
+        "combustion_GT_CT_nameplate_mw": 1177.6,
+        "GT_CT_over100MW_nameplate_mw": 1177.6,
+        "combustion_under_construction_or_test_nameplate_mw": 0,
+        "combustion_generators": 3,
+        "over100mw_generators": 3
+      },
+      {
+        "quarter": "2029Q4",
+        "all_ng_nameplate_mw": 3772.0,
+        "combustion_GT_CT_nameplate_mw": 3162.0,
+        "GT_CT_over100MW_nameplate_mw": 3016.8,
+        "combustion_under_construction_or_test_nameplate_mw": 0,
+        "combustion_generators": 14,
+        "over100mw_generators": 10
+      }
+    ],
+    "status_filter_note": "Construction(U,V) and construction complete not commercial(TS) combined only for displayed readiness subset. Approvals(P,L,T) remain separate in by_year."
+  }
+}

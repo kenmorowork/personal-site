@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1183" viewBox="0 0 1440 1183" role="img" aria-labelledby="title desc"><title id="title">共通部品は装置のどこで何をするか</title><desc id="desc">一般的なプラズマ処理チャンバの概念断面。ガス流量制御、RF電源と整合、圧力制御、搬送ゲート、気密部品、液温調、別の薬液フィルター回路、ドライ排気またはターボと背圧側ポンプの代替構成、工場用役との機能境界を示す。全部品が必須という意味ではない。</desc><metadata>{"as_of": "2026-10-20", "timezone": "Asia/Tokyo", "authorship": "Original FIELDNOTES educational schematic; no manufacturer illustration copied", "source_ids": ["CP_VIS_MKS", "CP_VIS_VAT_CONTROL", "CP_VIS_VAT_SEAL", "CP_VIS_PFEIFFER", "CP_VIS_SMC", "CP_VIS_ENTEGRIS"], "limitations": ["Not to scale; no product CAD or real Fab layout", "Positions, component counts, layer counts and dimensions are illustrative", "Optional functions and alternative architectures are not mandatory simultaneous equipment"]}</metadata><defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#436b90" stroke-width="1.2"/></marker><marker id="gold" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#a87924" stroke-width="1.2"/></marker><style>text{font-family:Arial,"Noto Sans CJK JP","Noto Sans JP",sans-serif;fill:#17324f;font-size:17px} .title{font-size:27px;font-weight:700}.head{font-size:21px;font-weight:700}.small{font-size:15px}.tiny{font-size:14px}.bold{font-weight:700}.muted{fill:#536980}.blue{fill:#1374aa}.gold{fill:#876323}.line{fill:none;stroke:#436b90;stroke-width:2.4}.arrow{fill:none;stroke:#436b90;stroke-width:2.4;marker-end:url(#arr)}.feedback{fill:none;stroke:#a87924;stroke-width:2;stroke-dasharray:6 5;marker-end:url(#gold)}.box{fill:#f5f8fc;stroke:#b9cddd;stroke-width:1.4}.rule{stroke:#d5e1ea;stroke-width:1}.si{fill:#a7bbcf;stroke:#607c98;stroke-width:1.3}.film{fill:#69bdd4;stroke:#26859c;stroke-width:1}.resist{fill:#dcabcc;stroke:#a65c91;stroke-width:1}.metal{fill:#e1be6a;stroke:#ac8236;stroke-width:1}</style></defs><rect width="1440" height="1183" fill="white"/>
+<text x="28" y="39" class="title">共通部品は、装置のどこで何をするか</text>
+<text x="28" y="69" class="small muted">一般的なプラズマ処理装置を説明する概念断面。実製品の構成、寸法、搭載数、実際の工場配置は示さない。</text>
+<rect x="27" y="94" width="1386" height="758" rx="4" fill="#fff" stroke="#7290a9" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="43" y="122" class="head">装置・周辺サブシステム側（境界の取り方は設計・契約で変わる）</text>
+<!-- gas supply and pressure control -->
+<rect x="54" y="152" width="240" height="100" rx="4" class="box"/><text x="70" y="181" class="bold">MFC：ガス流量制御</text><text x="70" y="211" class="small">センサ ＋ 調節弁</text><text x="70" y="236" class="small muted">ガス種・条件に合わせて選定</text>
+<text x="55" y="143" class="tiny muted">Fabのガス供給から</text><path d="M28 201H54M294 201H570V270" stroke="#2b967e" stroke-width="5" fill="none"/>
+<text x="319" y="188" class="small" fill="#2b967e">ガス導入管 → 分配部</text>
+<!-- chamber -->
+<path d="M446 270H794V501H446Z" fill="#edf4f9" stroke="#587a99" stroke-width="9"/>
+<rect x="472" y="270" width="296" height="25" fill="#a9bbcc" stroke="#587a99" stroke-width="2"/>
+<path d="M488 288V306M518 288V306M548 288V306M578 288V306M608 288V306M638 288V306M668 288V306M698 288V306M728 288V306" stroke="#2b967e" stroke-width="2"/>
+<text x="620" y="329" text-anchor="middle" class="bold">処理チャンバ</text>
+<path d="M478 348Q520 330 559 351T638 349T718 350T764 347" fill="none" stroke="#ac87c3" stroke-width="5" opacity=".8"/>
+<path d="M477 367Q520 350 559 370T638 368T718 369T765 366" fill="none" stroke="#ac87c3" stroke-width="4" opacity=".6"/>
+<text x="620" y="394" text-anchor="middle" class="small muted">プラズマ：電力とガスで形成・制御</text>
+<rect x="486" y="415" width="267" height="9" fill="#a3b9ce" stroke="#587a99"/><text x="620" y="449" text-anchor="middle" class="small">ウェーハ</text>
+<rect x="483" y="455" width="273" height="30" fill="#7c96ae" stroke="#587a99"/>
+<path d="M491 472H745" stroke="#3b9bbe" stroke-width="5"/>
+<text x="620" y="532" text-anchor="middle" class="small">電極・チャックの模式例</text>
+<!-- RF supply -->
+<rect x="54" y="294" width="177" height="80" rx="4" fill="#f5eef9" stroke="#bba4c8"/><text x="142" y="325" text-anchor="middle" class="bold">RF電源</text><text x="142" y="353" text-anchor="middle" class="small">高周波電力</text>
+<rect x="260" y="294" width="150" height="80" rx="4" fill="#f5eef9" stroke="#bba4c8"/><text x="335" y="325" text-anchor="middle" class="bold">整合器</text><text x="335" y="353" text-anchor="middle" class="small">負荷に整合</text>
+<path d="M231 335H260M335 374V471H480" stroke="#9e70b4" stroke-width="5" fill="none"/>
+<text x="54" y="410" class="small muted">電力供給先・周波数・方式は異なる。</text><text x="54" y="437" class="small muted">上部電極・コイル等を用いる構成もある。</text>
+<!-- seal and transfer gate -->
+<path d="M446 276H471M769 276H794" stroke="#c08b30" stroke-width="6"/>
+<path d="M774 277H848V246H913" class="line"/><text x="928" y="228" class="bold">シール：接合部の気密を保つ</text><text x="928" y="255" class="small muted">エラストマー／金属等。条件で選定。</text>
+<path d="M795 411H860" stroke="#6683a0" stroke-width="25"/>
+<rect x="843" y="380" width="26" height="59" fill="#cad6e1" stroke="#587a99" stroke-width="2"/><path d="M853 380V352H889" class="line"/>
+<text x="911" y="337" class="bold">搬送用ゲートバルブ</text><text x="911" y="366">ウェーハ通路を開閉・隔離</text>
+<path d="M870 410H973" class="arrow"/><text x="991" y="417" class="small">搬送室・ロードロック等へ</text>
+<!-- pressure control and exhaust -->
+<path d="M794 316H831" class="line"/><circle cx="847" cy="316" r="16" fill="white" stroke="#436b90" stroke-width="2"/>
+<path d="M847 300V175H1012V198" class="feedback"/><rect x="935" y="152" width="266" height="53" rx="4" class="box"/><text x="1068" y="184" text-anchor="middle" class="bold">圧力計 → 圧力制御器</text>
+<path d="M727 502V568H931" stroke="#536e85" stroke-width="13" fill="none"/>
+<circle cx="962" cy="568" r="29" fill="white" stroke="#587a99" stroke-width="3"/><path d="M940 585L981 550" stroke="#587a99" stroke-width="5"/>
+<path d="M1201 180H1240V508H962V536" class="feedback"/>
+<text x="815" y="615" class="bold">排気スロットル（APC）</text><text x="815" y="643">排気の通りやすさを調節し圧力制御</text>
+<text x="815" y="671" class="small muted">隔離機能と一体化するバルブもある。</text>
+<path d="M991 568H1369V686" class="arrow"/><text x="1126" y="549" class="small">排気経路</text>
+<!-- bellows sealed moving shaft illustration -->
+<rect x="54" y="488" width="345" height="88" rx="4" class="box"/><path d="M81 530H98L104 514L114 545L124 514L134 545L144 514L154 545L164 530H180" fill="none" stroke="#6f89a0" stroke-width="3"/>
+<text x="194" y="519" class="bold">ベローズ</text><text x="194" y="546" class="small">変位を許容し気密維持</text><text x="54" y="603" class="small muted">例：バルブ軸の可動シール。採用形態は設計次第。</text>
+<!-- coolant route, intentionally separate from chemical filter -->
+<rect x="54" y="671" width="208" height="111" rx="4" fill="#edf8fb" stroke="#91bdcd"/><text x="158" y="704" text-anchor="middle" class="bold">循環液温調器</text><text x="158" y="733" text-anchor="middle">チラー・熱交換器等</text><text x="158" y="762" text-anchor="middle" class="small muted">装置へ冷却液を循環</text>
+<path d="M262 704H469V473H483M756 473H774V752H262" fill="none" stroke="#3b9bbe" stroke-width="4"/>
+<path d="M288 704H330M364 752H322" class="arrow"/>
+<text x="296" y="693" class="small blue">供給</text><text x="296" y="782" class="small blue">戻り</text>
+<text x="54" y="817" class="small muted">循環液と工場冷却水は熱交換器で分離する水冷例。空冷式などもある。</text>
+<rect x="829" y="701" width="508" height="120" rx="4" fill="#f2f8f3" stroke="#a3c0a7"/>
+<text x="849" y="732" class="bold">別の液回路：薬液・超純水のフィルター</text>
+<path d="M849 774H900M954 774H1009" stroke="#3a9a7f" stroke-width="4"/>
+<rect x="900" y="752" width="54" height="44" fill="white" stroke="#3a9a7f" stroke-width="2"/><path d="M907 756L947 791M907 769L934 793M919 755L948 780" stroke="#3a9a7f"/>
+<text x="1023" y="769" class="small">粒子等を除去 → ウェット装置等へ</text><text x="1023" y="796" class="small muted">ガスMFC・冷却用途とは別回路</text>
+<!-- pumping alternatives -->
+<rect x="27" y="870" width="1386" height="167" rx="4" class="box"/><text x="46" y="902" class="head">真空ポンプ：プロセス条件で構成を選ぶ（下の2経路は代替例）</text>
+<text x="46" y="944" class="bold">A</text><text x="82" y="944">チャンバ排気</text><path d="M221 938H272" class="arrow"/><rect x="285" y="917" width="207" height="47" rx="3" fill="white" stroke="#7290a9"/><text x="389" y="947" text-anchor="middle">ドライポンプ</text><path d="M493 938H564" class="arrow"/>
+<text x="46" y="1000" class="bold">B</text><text x="82" y="1000">チャンバ排気</text><path d="M221 993H272" class="arrow"/><rect x="285" y="972" width="207" height="47" rx="3" fill="white" stroke="#7290a9"/><text x="389" y="1002" text-anchor="middle">ターボ分子ポンプ</text><path d="M493 993H564" class="arrow"/><rect x="577" y="972" width="276" height="47" rx="3" fill="white" stroke="#7290a9"/><text x="715" y="1002" text-anchor="middle">補助・背圧側ドライポンプ</text><path d="M854 993H911" class="arrow"/>
+<text x="602" y="944" class="small muted">ターボは背圧側ポンプが必要。ドライとターボは同義ではない。</text>
+<text x="939" y="990" class="small">→ 排ガス処理・工場排気へ</text><text x="939" y="1017" class="small muted">ブースタ等の追加も条件次第</text>
+<!-- utilities boundary -->
+<text x="28" y="1080" class="head">Fabの共通用役側</text><text x="326" y="1080" class="small muted">ガス供給設備 ／ 受配電 ／ 工場冷却水 ／ 排ガス処理・排気設備 等</text>
+<text x="28" y="1111" class="small muted">共通用役設備、装置、装置に組み込む部品、加工対象のウェーハは別の集計対象。図の全部品を全装置が併用するわけではない。</text>
+<path d="M28 1132H1412" class="rule"/><text x="28" y="1160" class="small muted">原理模式図・縮尺なし。配管の接続順は機能の説明用で、設備設計図・安全設計図・BOMではない。確認日 2026-10-20 JST</text>
+</svg>

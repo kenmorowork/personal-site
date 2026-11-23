@@ -71,6 +71,19 @@ const slugOf = (id: string) => id.replace(/-ja$/, '');
   }
 </p>
 
+<p class="mt-6">
+  <a
+    href="/fieldnotes-space/"
+    class="inline-block rounded-lg border border-neutral-800 px-5 py-3 font-medium underline-offset-4 hover:underline dark:border-neutral-200"
+  >
+    {
+      isJa
+        ? 'FIELDNOTES トピックライブラリ（統計・バリューチェーン全242ページ）を開く →'
+        : 'Open the FIELDNOTES topic library — all 242 statistics & value-chain pages →'
+    }
+  </a>
+</p>
+
 <section class="mt-10">
   <h2 class="font-display text-xl font-semibold">{isJa ? 'セクター構成' : 'Sector overview'}</h2>
   <div class="mt-5 grid gap-4 sm:grid-cols-3">

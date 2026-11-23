@@ -1,0 +1,144 @@
+{
+  "slug": "cathode",
+  "title": "正極材",
+  "sub": "CATHODE · 材料選択が市場を分ける",
+  "thesis": "EVの成長率から正極材各社の成長率を直線的に推定しない。LFPとニッケル系を分け、販売量、金属連動価格、加工マージン、認定済み顧客を別々に評価する。",
+  "metrics": [
+    {
+      "label": "LFPのEV搭載比率",
+      "value": "55%超",
+      "period": "2025暦年",
+      "kind": "統計実績",
+      "source": "iea26"
+    },
+    {
+      "label": "Umicore正極材売上",
+      "value": "4.30億EUR",
+      "period": "2025暦年",
+      "kind": "会社実績・金属価額除外",
+      "source": "umicore"
+    },
+    {
+      "label": "同 調整後EBITDA",
+      "value": "損益均衡",
+      "period": "2025暦年",
+      "kind": "会社実績",
+      "source": "umicore"
+    }
+  ],
+  "flow": [
+    "金属・Li原料",
+    "前駆体",
+    "焼成・表面処理",
+    "正極活物質",
+    "顧客認定",
+    "セル組込み"
+  ],
+  "sections": [
+    [
+      "製品と需要の分岐",
+      "正極はリチウムイオンの授受を担う材料。LFPとニッケル系では原料、合成工程、性能要件が異なる。セル需要増の恩恵は、各社が量産認定を持つ化学系と顧客車種に依存する。<a class=\"cite\" href=\"#source-doe\">[doe]</a>"
+    ],
+    [
+      "LFP拡大の意味",
+      "IEAではLFPのEV搭載比率が2024年約半分から2025年55%超へ上昇。これは搭載容量ベースの構成比であり、正極材売上構成比ではない。世界EV市場の拡大と特定ニッケル系工場の稼働率低下は両立し得る。<a class=\"cite\" href=\"#source-iea26\">[iea26]</a>"
+    ],
+    [
+      "会社実績で見る加工収益",
+      "Umicoreの2025年Battery Cathode Materials売上は4.30億EUR、前年比11%増、調整後EBITDAは損益均衡。新規プログラム数量に加え、契約数量未達のtake-or-pay補償が寄与した。成長をすべて実物出荷増と解釈しない。<a class=\"cite\" href=\"#source-umicore\">[umicore]</a>"
+    ],
+    [
+      "セグメントを混ぜない",
+      "UmicoreのBattery Materials Solutionsは売上4.36億EUR、調整後EBITDA▲0.21億EURで、正極材以外のBattery Recycling Solutionsを含む。正極材の利益率をBMSの損益から逆算しない。住友金属鉱山なども資源・製錬と材料の利益を切り分ける。<a class=\"cite\" href=\"#source-umicore\">[umicore]</a>"
+    ],
+    [
+      "モデルの組み方",
+      "売上を販売トン数×実現価格に分け、価格を金属連動部分と加工対価に分解する。Li価格下落による売上減と加工利益悪化を区別。化学系ごとのkg/kWhは仕様・歩留まりで変わるため、未確認の一律係数は置かない。"
+    ],
+    [
+      "投資判断の確認点",
+      "注目点は設備増設ではなく認定完了、顧客量産、工場利用、原料在庫評価、最低購入契約の実効性。強気仮説は既存設備の数量回復で固定費を吸収すること。反証は構成比低下と契約再交渉である。"
+    ]
+  ],
+  "rows": [
+    [
+      "LFP EV搭載比率",
+      "2024",
+      "約50",
+      "%",
+      "統計実績",
+      "iea26"
+    ],
+    [
+      "LFP EV搭載比率",
+      "2025",
+      "55超",
+      "%",
+      "統計実績",
+      "iea26"
+    ],
+    [
+      "Umicore正極材売上",
+      "2025",
+      "430",
+      "百万EUR・金属価額除外",
+      "会社実績",
+      "umicore"
+    ],
+    [
+      "Umicore BMS売上",
+      "2025",
+      "436",
+      "百万EUR・金属価額除外",
+      "会社実績・リサイクル含む",
+      "umicore"
+    ]
+  ],
+  "sources": [
+    "iea26",
+    "umicore",
+    "doe"
+  ],
+  "chart": null,
+  "source_audit": {
+    "iea26": {
+      "title": "IEA Global EV Outlook 2026 / Electric vehicle batteries",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries",
+      "published_or_asof": "2026年版",
+      "classification": "統計・第三者予測",
+      "caveat": "EV搭載量、LFP比率、年末公称能力。2024年値は版間改訂に注意。"
+    },
+    "umicore": {
+      "title": "Umicore Full Year Results 2025",
+      "url": "https://www.umicore.com/en/files/secure-documents/7893839e-71dc-414a-b5ec-1aa47454a114.pdf",
+      "published_or_asof": "2026-02-20",
+      "classification": "会社実績",
+      "caveat": "p8 Battery Cathode MaterialsとBattery Materials Solutionsを区別。金属価額除外売上。"
+    },
+    "doe": {
+      "title": "US DOE / Batteries",
+      "url": "https://www.energy.gov/science/doe-explainsbatteries",
+      "published_or_asof": "閲覧2026-10-15",
+      "classification": "技術解説",
+      "caveat": "電子は外部回路、イオンは電解質を通る。図は独自概念図。"
+    }
+  },
+  "verified_on": "2026-10-15",
+  "status": "research_report",
+  "independent_forecast": null,
+  "expanded_component_analysis_html": "<section class=\"panel\"><h2>2026年更新：増益と出荷回復を切り離す</h2><p>Umicoreの2026年上期発表では、Battery Cathode Materialsの業績改善は主に契約数量に関するtake-or-pay補償の発生計上に関連する。会社は年間を通じて補償を見積計上し、実際と契約数量の差に基づき年末後に請求すると説明する。<a href=\"https://www.umicore.com/en/media/newsroom/half-year-results-2026\" target=\"_blank\" rel=\"noopener\">2026年7月31日発表：Battery Materials Solutions、注記4</a>。</p><p>分析上、補償を含む収益改善は工場出荷の回復と同じ意味ではない。契約保護が短期の利益を支える効果と、材料の継続販売が設備を稼働させる効果を分ける。売上・利益・現金回収の時点が一致しない場合、利益から営業キャッシュフローへの変換も確認が必要になる。これは開示に基づく解釈であり、補償の将来継続額を独自推定したものではない。</p></section><section class=\"panel\"><h2>過年度比較：同じ事業範囲を保つ</h2><div class=\"table-wrap\"><table><thead><tr><th>期間・範囲</th><th>確認値</th><th>読み方</th></tr></thead><tbody><tr><td>2025 Battery Cathode Materials</td><td>売上430百万EUR、前年比11%増</td><td>正極事業。補償を含む</td></tr><tr><td>2025 Battery Cathode Materials</td><td>調整後EBITDA損益均衡</td><td>営業利益・純利益・現金収支の黒字とは異なる</td></tr><tr><td>2026上期 Battery Cathode Materials</td><td>改善の主因はtake-or-payの発生計上</td><td>出荷数量の回復をこの記述だけから判断しない</td></tr></tbody></table></div><p><a href=\"https://www.umicore.com/en/files/secure-documents/7893839e-71dc-414a-b5ec-1aa47454a114.pdf\" target=\"_blank\" rel=\"noopener\">FY2025原資料：Battery Materials Solutions内、Battery Cathode Materials説明</a>。2025年の金額を、リサイクルを含む上位部門の売上・EBITDAと接続して正極単独の利益率を計算しない。2024年の正極売上を前年比から逆算することも、丸めによる誤差があるため本稿の実績系列には採用しない。</p></section><section class=\"panel\"><h2>需要の橋渡し：EV台数から正極トン数へ</h2><p>EV台数、電池GWh、正極活物質トン数は異なる数量である。台数に一台当たり電池容量を掛けても、セル製造時の歩留まり、化学系、正極の比容量、在庫変動を確認しなければ材料需要は決まらない。さらにEV向けと定置向けではセル設計と用途の構成が変わる。世界のEV電池GWh成長率を全ての正極メーカーの販売トン数に共通適用しない。</p><div class=\"table-wrap\"><table><thead><tr><th>需要の段階</th><th>必要な情報</th><th>未取得時の扱い</th></tr></thead><tbody><tr><td>EV販売→搭載容量</td><td>車種・地域別容量と台数</td><td>平均容量を創作しない</td></tr><tr><td>搭載容量→セル生産</td><td>在庫・歩留まり・生産場所</td><td>需要と工場生産を同一視しない</td></tr><tr><td>セル生産→化学系別材料</td><td>LFP/NMC等の構成と仕様</td><td>一律のkg/kWhを置かない</td></tr><tr><td>材料市場→会社出荷</td><td>顧客認定・供給契約・市場シェア</td><td>能力を全量販売と扱わない</td></tr></tbody></table></div></section><section class=\"panel\"><h2>収益構造：金属価格と加工の対価</h2><p>正極材料の売上変動は、数量、製品構成、原料連動、加工条件、補償などに分けて読む。金属相場の下落で売上高が下がっても、加工の対価が維持されれば付加価値の減少とは限らない。一方で原料価格の転嫁に時間差がある場合、在庫評価や運転資金が収益と現金に異なる影響を及ぼす。転嫁条件は会社・顧客ごとに確認する必要があり、全契約が同じ方式とは仮定しない。</p><p>工場の採算は、販売可能量×単位当たりの加工利益で固定費を吸収できるかを軸に考える。設備能力の増加は減価償却・保守・人員・認定費用を伴い得るため、出荷が追いつかない増設は利益率の改善と直結しない。数量契約による補償がある場合、その対象期間・最低数量・例外条件・決済時期を別立てで確認する。</p></section><section class=\"panel\"><h2>化学系と企業比較の軸</h2><div class=\"table-wrap\"><table><thead><tr><th>比較軸</th><th>高ニッケル系など</th><th>LFPなど</th><th>共通の注意</th></tr></thead><tbody><tr><td>材料設計</td><td>容量・熱安定性等の整合</td><td>コスト・寿命等と用途の整合</td><td>セル単位の同条件比較が必要</td></tr><tr><td>投入原料</td><td>Ni/Co等の相場と調達条件</td><td>Li・リン酸等の調達条件</td><td>相場と加工マージンを分ける</td></tr><tr><td>顧客認定</td><td>顧客仕様・車種ごとの立上げ</td><td>用途・形状・ラインごとの評価</td><td>認定は自動移管されない</td></tr><tr><td>能力の評価</td><td>製品・地域別稼働</td><td>競争下での価格・稼働</td><td>名目能力だけで順位を付けない</td></tr></tbody></table></div><p>表は分析用の模式的整理であり、特定材料の性能優位や全社共通の工程を示すものではない。企業の比較では、正極活物質、前駆体、金属精錬、リサイクルを区別し、同じ会社でも事業範囲が異なる指標を混ぜない。総合素材会社の連結利益から正極単独の利益を推定することはしない。</p></section><section class=\"panel\"><h2>シナリオを動かす観測項目</h2><div class=\"table-wrap\"><table><thead><tr><th>観測</th><th>改善を支持する証拠</th><th>警戒を要する証拠</th></tr></thead><tbody><tr><td>数量</td><td>契約先の量産と継続出荷</td><td>顧客立上げ遅延・認定延期</td></tr><tr><td>利益の質</td><td>加工収益と稼働の改善</td><td>補償依存増・一時項目の増加</td></tr><tr><td>現金</td><td>売掛回収・在庫日数の改善</td><td>利益増でも現金が回収されない</td></tr><tr><td>投資</td><td>稼働と契約に応じた段階投資</td><td>能力増に対して注文が伴わない</td></tr></tbody></table></div><p>ベースケースの数値予測は作成していない。現時点で監視に有効なのは、正極数量、加工条件、補償の利益寄与と現金回収、稼働率、残存投資の同時確認である。これらが欠けた状態で売上成長率だけを強気・弱気判断に置くことは避ける。投資価値評価に進むには事業別キャッシュフローと資本負担の追加資料が必要となる。</p></section>",
+  "expanded_records": [
+    {
+      "metric": "Battery Cathode Materials revenue",
+      "period": "2025",
+      "value": 430,
+      "unit": "EUR million",
+      "scope": "CAM only",
+      "classification": "company_actual",
+      "source_url": "https://www.umicore.com/en/files/secure-documents/7893839e-71dc-414a-b5ec-1aa47454a114.pdf",
+      "locator": "Battery Materials Solutions / Battery Cathode Materials",
+      "transformation": "none"
+    }
+  ],
+  "coverage_status": "Expanded analytical draft; FY2025 and H1 2026 qualitative update verified. Full numeric historical series, peer financial normalization and visual QA pending."
+}

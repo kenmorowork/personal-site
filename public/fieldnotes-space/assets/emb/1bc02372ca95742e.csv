@@ -1,0 +1,44 @@
+﻿series,period,value,unit,scope,source
+発電用GT受注,CY2019,36.8,GW,全出力帯・2026年5月版,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+発電用GT受注,CY2020,34.4,GW,全出力帯・2026年5月版,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+発電用GT受注,CY2021,30.6,GW,全出力帯・2026年5月版,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+発電用GT受注,CY2022,48.3,GW,全出力帯・2026年5月版,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+発電用GT受注,CY2023,40.3,GW,全出力帯・2026年5月版,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+発電用GT受注,CY2024,56.2,GW,全出力帯・2026年5月版,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+発電用GT受注,CY2025,96.1,GW,全出力帯・2026年5月版,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+ordersGW,2024Q3,5.1,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_10222025.pdf
+salesGW,2024Q3,3.3,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_10222025.pdf
+ordersGW,2024Q4,6.1,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_01282026.pdf
+salesGW,2024Q4,4.8,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_01282026.pdf
+ordersGW,2025Q1,7.1,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_04222026.pdf
+salesGW,2025Q1,3.0,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_04222026.pdf
+ordersGW,2025Q2,5.1,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_07222026.pdf
+salesGW,2025Q2,5.2,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_07222026.pdf
+ordersGW,2025Q3,7.4,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_10222025.pdf
+salesGW,2025Q3,4.0,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_10222025.pdf
+ordersGW,2025Q4,10.2,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_01282026.pdf
+salesGW,2025Q4,3.1,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_01282026.pdf
+ordersGW,2026Q1,8.1,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_04222026.pdf
+salesGW,2026Q1,4.2,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_04222026.pdf
+ordersGW,2026Q2,12.1,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_07222026.pdf
+salesGW,2026Q2,3.3,GW,GE全GT,https://www.gevernova.com/sites/default/files/gev_webcast_presentation_07222026.pdf
+MHI GTCC orders,FY2021,638.4,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC revenue,FY2021,616.8,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC oe,FY2021,312.3,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC services,FY2021,304.5,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC orders,FY2022,834.6,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC revenue,FY2022,736.8,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC oe,FY2022,398.9,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC services,FY2022,337.9,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC orders,FY2023,1259.3,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC revenue,FY2023,735.6,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC oe,FY2023,355.3,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC services,FY2023,380.3,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC orders,FY2024,1474.4,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC revenue,FY2024,790.7,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC oe,FY2024,387.1,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC services,FY2024,403.5,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/business/pdf/2025_gtcc_summary.pdf
+MHI GTCC orders,FY2025,2652.6,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+MHI GTCC revenue,FY2025,992.2,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+MHI GTCC oe,FY2025,509.3,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
+MHI GTCC services,FY2025,482.8,十億円,GTCC事業・4月開始年度,https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf
