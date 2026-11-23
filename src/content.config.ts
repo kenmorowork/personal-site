@@ -49,4 +49,16 @@ const portfolio = defineCollection({
   }),
 });
 
-export const collections = { news, reports, portfolio };
+const fieldnotes = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/fieldnotes' }),
+  schema: z.object({
+    title: z.string(),
+    titleEn: z.string().optional(),
+    no: z.number(),
+    group: z.enum(['industrials', 'materials', 'energy']),
+    date: z.coerce.date(),
+    lang,
+  }),
+});
+
+export const collections = { news, reports, portfolio, fieldnotes };

@@ -1,0 +1,145 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('fieldnotes');
+  return entries.map((entry) => ({
+    params: { slug: entry.id.replace(/-ja$/, '') },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const groupJa = {
+  industrials: 'インダストリアルズ',
+  materials: 'マテリアルズ',
+  energy: 'エネルギー',
+}[entry.data.group];
+---
+
+<Base
+  lang="ja"
+  title={`${entry.data.title} | FIELDNOTES 産業レポート No.${entry.data.no}`}
+  description={`FIELDNOTES産業レポート No.${entry.data.no}「${entry.data.title}」の全文。データ・カットオフは2026年11月16日です。`}
+  altHref="/en/fieldnotes/"
+>
+  <p class="text-sm text-neutral-500 dark:text-neutral-400">
+    <a class="underline underline-offset-2 hover:text-neutral-800 dark:hover:text-neutral-200" href="/ja/fieldnotes/">FIELDNOTES</a>
+    <span class="mx-1">/</span>{groupJa}
+  </p>
+  <h1 class="mt-4 font-display text-3xl font-semibold leading-snug tracking-tight">
+    産業レポート No.{entry.data.no} {entry.data.title}
+  </h1>
+  {entry.data.titleEn && (
+    <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">{entry.data.titleEn}</p>
+  )}
+  <div class="report-body mt-8">
+    <Content />
+  </div>
+  <p class="mt-12 border-t border-neutral-200 pt-6 text-sm dark:border-neutral-800">
+    <a class="underline underline-offset-2 hover:text-neutral-600 dark:hover:text-neutral-300" href="/ja/fieldnotes/">← FIELDNOTESの索引に戻る</a>
+  </p>
+</Base>
+
+<style is:global>
+  .report-body {
+    line-height: 1.85;
+    font-size: 0.95rem;
+    overflow-wrap: break-word;
+  }
+  .report-body h2 {
+    font-family: ui-serif, Georgia, 'Times New Roman', 'Hiragino Mincho ProN', 'Yu Mincho', serif;
+    font-size: 1.45rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 2.4em 0 0.8em;
+  }
+  .report-body h3 {
+    font-size: 1.12rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin: 1.9em 0 0.6em;
+  }
+  .report-body h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 1.6em 0 0.5em;
+  }
+  .report-body p {
+    margin: 0.9em 0;
+  }
+  .report-body ul,
+  .report-body ol {
+    margin: 0.9em 0;
+    padding-left: 1.5em;
+  }
+  .report-body ul {
+    list-style: disc;
+  }
+  .report-body ol {
+    list-style: decimal;
+  }
+  .report-body li {
+    margin: 0.35em 0;
+  }
+  .report-body table {
+    display: block;
+    overflow-x: auto;
+    border-collapse: collapse;
+    margin: 1.2em 0;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    white-space: normal;
+  }
+  .report-body th,
+  .report-body td {
+    border: 1px solid #d4d4d4;
+    padding: 0.45em 0.7em;
+    text-align: left;
+    vertical-align: top;
+  }
+  .report-body th {
+    background: #f5f5f5;
+    font-weight: 600;
+  }
+  .dark .report-body th,
+  .dark .report-body td {
+    border-color: #404040;
+  }
+  .dark .report-body th {
+    background: #171717;
+  }
+  .report-body blockquote {
+    border-left: 3px solid #d4d4d4;
+    padding-left: 1em;
+    margin: 1.2em 0;
+    color: #525252;
+  }
+  .dark .report-body blockquote {
+    border-color: #404040;
+    color: #a3a3a3;
+  }
+  .report-body hr {
+    border: none;
+    border-top: 1px solid #e5e5e5;
+    margin: 2em 0;
+  }
+  .dark .report-body hr {
+    border-color: #262626;
+  }
+  .report-body a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .report-body code {
+    font-size: 0.85em;
+    background: #f5f5f5;
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+  }
+  .dark .report-body code {
+    background: #262626;
+  }
+</style>
