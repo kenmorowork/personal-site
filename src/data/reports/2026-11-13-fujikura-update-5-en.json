@@ -147,6 +147,13 @@
     }
   ],
   "showRatingHistory": true,
-  "ratingHistory": [],
+  "ratingHistory": [
+    {
+      "date": "2026-11-23T11:46:13.043Z",
+      "rating": "Under Review",
+      "price": 2252,
+      "target": null
+    }
+  ],
   "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
 }
