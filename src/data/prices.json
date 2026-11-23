@@ -1,10 +1,260 @@
 {
   "updatedAt": "2026-11-23",
   "prices": {
+    "1407": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1674
+    },
+    "2395": {
+      "asOf": "2026-11-23",
+      "currency": "TWD",
+      "price": 536
+    },
+    "4022": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1124
+    },
+    "4204": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2569
+    },
+    "5801": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1620
+    },
+    "5802": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1235.5
+    },
     "5803": {
       "price": 2252,
       "currency": "JPY",
-      "asOf": "2026-11-23T07:12:29.000Z"
+      "asOf": "2026-11-20"
+    },
+    "6036": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1605
+    },
+    "6101": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 3215
+    },
+    "6103": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 3630
+    },
+    "6113": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2079
+    },
+    "6134": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 4312
+    },
+    "6141": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2361.5
+    },
+    "6143": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1194
+    },
+    "6146": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 41350
+    },
+    "6268": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 3105
+    },
+    "6273": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 55300
+    },
+    "6278": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 9550
+    },
+    "6301": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 5578
+    },
+    "6324": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 3722
+    },
+    "6326": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2242
+    },
+    "6361": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 3241
+    },
+    "6367": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 23765
+    },
+    "6383": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 4129
+    },
+    "6471": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 892.5
+    },
+    "6472": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 311
+    },
+    "6473": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1858.5
+    },
+    "6479": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2637
+    },
+    "6481": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 4249
+    },
+    "6501": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 4763
+    },
+    "6503": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 4364
+    },
+    "6506": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 3180
+    },
+    "6586": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 5303
+    },
+    "6594": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1644
+    },
+    "6645": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 4363
+    },
+    "6762": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2116.5
+    },
+    "6856": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 17350
+    },
+    "6857": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 24255
+    },
+    "6861": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 14025
+    },
+    "6920": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 30250
+    },
+    "6954": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 5047
+    },
+    "7004": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 901
+    },
+    "7011": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2722
+    },
+    "7012": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1529
+    },
+    "7013": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 2181
+    },
+    "7453": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 4822
+    },
+    "7735": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 7121
+    },
+    "7752": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 1582
+    },
+    "8035": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 8309
+    },
+    "9962": {
+      "asOf": "2026-11-20",
+      "currency": "JPY",
+      "price": 3416
+    },
+    "NVDA": {
+      "asOf": "2026-11-20",
+      "currency": "USD",
+      "price": 125.53
     }
   }
 }
