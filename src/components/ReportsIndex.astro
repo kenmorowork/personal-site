@@ -8,9 +8,12 @@ interface Props {
 const { lang } = Astro.props;
 const isJa = lang === 'ja';
 
-const entries = (await getCollection('reports', ({ data }) => data.lang === lang)).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
-);
+// The Daifuku initiation exists twice in the Editor library (the
+// original, id 42, and a later copy, id 59) with the same headline.
+// The copy is kept out of the index; its page still exists.
+const allEntries = (await getCollection('reports', ({ data }) => data.lang === lang))
+  .filter((e) => !e.id.includes('daifuku-initiation-59'))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const fmt = (d: Date) =>
   isJa
@@ -19,6 +22,21 @@ const fmt = (d: Date) =>
 
 const typeLabel = (t: string) =>
   t === 'initiation' ? (isJa ? 'イニシエーション' : 'Initiation') : isJa ? 'アップデート' : 'Update';
+
+// Non-company pieces: the weekly market reports carry a "Global
+// Markets" company line; the sector/theme reports live in Field
+// Notes, so their externalUrl points at the fieldnotes section.
+const isMarket = (e: (typeof allEntries)[number]) =>
+  e.data.company.startsWith('Global Markets');
+const isTheme = (e: (typeof allEntries)[number]) =>
+  e.data.externalUrl.endsWith('/fieldnotes/');
+const isNonCompany = (e: (typeof allEntries)[number]) => isMarket(e) || isTheme(e);
+
+const badgeOf = (e: (typeof allEntries)[number]): string => {
+  if (isMarket(e)) return isJa ? 'マーケット' : 'Market';
+  if (e.id.includes('results')) return isJa ? '決算' : 'Results';
+  return typeLabel(e.data.type);
+};
 
 // One-line summary derived from the report's own first paragraph.
 // Reports carry no summary field, so take the first substantive prose
@@ -46,22 +64,59 @@ const summaryOf = (body: string | undefined): string => {
   return '';
 };
 
-const items = entries.map((entry) => ({
+const decorate = (entry: (typeof allEntries)[number]) => ({
   entry,
   summary: summaryOf(entry.body),
+  badge: badgeOf(entry),
   search:
     `${entry.data.company} ${entry.data.ticker} ${entry.data.title} ${entry.data.sector}`.toLowerCase(),
-}));
+});
+
+// Block 1 — the five newest reports, whatever kind they are.
+const latest = allEntries.slice(0, 5).map(decorate);
+
+// Block 2 — market & theme pieces, newest first.
+const marketThemes = allEntries.filter(isNonCompany).map(decorate);
+
+// Block 3 — one row per covered company (its newest company report),
+// grouped by that report's sector.
+const companyReports = allEntries.filter((e) => !isNonCompany(e));
+const byCompany = new Map<string, (typeof allEntries)[number]>();
+for (const e of companyReports) {
+  const key = `${e.data.company}|${e.data.ticker}`;
+  if (!byCompany.has(key)) byCompany.set(key, e);
+}
+const sectorGroups = new Map<string, (typeof allEntries)[number][]>();
+for (const e of byCompany.values()) {
+  const arr = sectorGroups.get(e.data.sector) ?? [];
+  arr.push(e);
+  sectorGroups.set(e.data.sector, arr);
+}
+const coverageGroups = [...sectorGroups.entries()]
+  .map(([sector, rows]) => ({
+    sector,
+    rows: rows.sort((a, b) => a.data.company.localeCompare(b.data.company)),
+  }))
+  .sort((a, b) => b.rows.length - a.rows.length || a.sector.localeCompare(b.sector));
 
 const sectorCounts = new Map<string, number>();
-for (const { entry } of items) {
-  sectorCounts.set(entry.data.sector, (sectorCounts.get(entry.data.sector) ?? 0) + 1);
+for (const e of allEntries) {
+  sectorCounts.set(e.data.sector, (sectorCounts.get(e.data.sector) ?? 0) + 1);
 }
 const sectors = [...sectorCounts.entries()].sort(
   (a, b) => b[1] - a[1] || a[0].localeCompare(b[0]),
 );
 
-const total = items.length;
+const total = allEntries.length;
+const itemCount = marketThemes.length + coverageGroups.reduce((n, g) => n + g.rows.length, 0);
+
+const ratingChip = (e: (typeof allEntries)[number]): string | null => {
+  const r = e.data.rating;
+  if (!r) return null;
+  const tp = e.data.targetPrice;
+  if (!tp) return r;
+  return isJa ? `${r} · 目標株価 ${tp}` : `${r} · TP ${tp}`;
+};
 ---
 
 <h1 class="font-display text-3xl font-semibold tracking-tight">
@@ -75,8 +130,8 @@ const total = items.length;
 <p class="mt-3 leading-relaxed text-neutral-600 dark:text-neutral-300">
   {
     isJa
-      ? `全${total}本を新しい順に並べています。各レポートは一次統計と企業開示をもとに作成し、投資推奨（買い・売り）は行いません。行を選ぶと全文が開きます。`
-      : `All ${total} reports, newest first. Every report is built from primary statistics and company disclosures, and no investment recommendations (buy/sell) are made. Select a report to read the full text.`
+      ? `全${total}本を、新着レポート、マーケット・テーマ、カバレッジ一覧の3つに分けて並べています。各レポートは一次統計と企業開示をもとに作成しています。行を選ぶと全文が開きます。`
+      : `All ${total} reports, organised into latest reports, market & themes, and a coverage list. Every report is built from primary statistics and company disclosures. Select a report to read the full text.`
   }
 </p>
 
@@ -124,60 +179,165 @@ const total = items.length;
 </div>
 
 <p id="report-count" class="mt-3 text-sm font-medium text-neutral-600 dark:text-neutral-300">
-  {isJa ? `全${total}件中 ${total}件を表示` : `${total} of ${total} reports`}
+  {isJa ? `${itemCount}件を表示` : `Showing ${itemCount} items`}
 </p>
 </div>
 
-<ul class="mt-2 divide-y divide-neutral-200 dark:divide-neutral-800">
-  {
-    items.map(({ entry, summary, search }) => (
-      <li
-        data-report-row
-        data-search={search}
-        data-sector={entry.data.sector}
-        data-type={entry.data.type}
-      >
-        <a
-          href={entry.data.externalUrl}
-          class="group -mx-3 block rounded-lg px-3 py-5 transition-colors hover:bg-neutral-100 dark:hover:bg-neutral-900"
+<section data-block class="mt-10">
+  <h2 class="font-display text-xl font-semibold tracking-tight">
+    {isJa ? '新着レポート' : 'Latest reports'}
+  </h2>
+  <ul class="mt-2 divide-y divide-neutral-200 dark:divide-neutral-800">
+    {
+      latest.map(({ entry, summary, badge, search }) => (
+        <li
+          data-report-row
+          data-nocount
+          data-search={search}
+          data-sector={entry.data.sector}
+          data-type={entry.data.type}
         >
-          <span class="flex flex-wrap items-center gap-x-3 gap-y-1">
-            <span class="text-base font-semibold">{entry.data.company}</span>
-            {entry.data.ticker && entry.data.ticker !== '—' && (
-              <span class="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300">
-                {entry.data.ticker}
+          <a
+            href={entry.data.externalUrl}
+            class="group -mx-3 block rounded-lg px-3 py-5 transition-colors hover:bg-neutral-100 dark:hover:bg-neutral-900"
+          >
+            <span class="flex flex-wrap items-center gap-x-3 gap-y-1">
+              <span class="text-base font-semibold">
+                {isMarket(entry) ? (isJa ? 'マーケット' : 'Market') : entry.data.company}
+              </span>
+              {entry.data.ticker && entry.data.ticker !== '—' && (
+                <span class="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300">
+                  {entry.data.ticker}
+                </span>
+              )}
+              <span
+                class={
+                  entry.data.type === 'initiation' && !isMarket(entry)
+                    ? 'rounded-full bg-neutral-900 px-2 py-0.5 text-xs font-medium text-white dark:bg-neutral-100 dark:text-neutral-900'
+                    : 'rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300'
+                }
+              >
+                {badge}
+              </span>
+              {ratingChip(entry) && (
+                <span class="rounded-full bg-emerald-700 px-2 py-0.5 text-xs font-semibold text-white dark:bg-emerald-600">
+                  {ratingChip(entry)}
+                </span>
+              )}
+              <time
+                datetime={entry.data.date.toISOString()}
+                class="ml-auto text-sm whitespace-nowrap text-neutral-500 dark:text-neutral-400"
+              >
+                {fmt(entry.data.date)}
+              </time>
+            </span>
+            <span class="mt-1.5 block leading-snug font-semibold underline-offset-4 group-hover:underline">{entry.data.title}</span>
+            {summary && (
+              <span class="mt-1 line-clamp-1 block text-sm leading-relaxed text-neutral-600 dark:text-neutral-300">
+                {summary}
               </span>
             )}
-            <span
-              class={
-                entry.data.type === 'initiation'
-                  ? 'rounded-full bg-neutral-900 px-2 py-0.5 text-xs font-medium text-white dark:bg-neutral-100 dark:text-neutral-900'
-                  : 'rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300'
-              }
-            >
-              {typeLabel(entry.data.type)}
+            <span class="mt-2.5 inline-block rounded-full bg-neutral-100 px-2.5 py-0.5 text-xs font-medium tracking-wide text-neutral-600 dark:bg-neutral-900 dark:text-neutral-300">
+              {entry.data.sector}
             </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</section>
+
+<section data-block class="mt-12">
+  <h2 class="font-display text-xl font-semibold tracking-tight">
+    {isJa ? 'マーケット・テーマ' : 'Market & themes'}
+  </h2>
+  <ul class="mt-2 divide-y divide-neutral-200 dark:divide-neutral-800">
+    {
+      marketThemes.map(({ entry, badge, search }) => (
+        <li
+          data-report-row
+          data-search={search}
+          data-sector={entry.data.sector}
+          data-type={entry.data.type}
+        >
+          <a
+            href={entry.data.externalUrl}
+            class="group -mx-3 flex items-baseline gap-3 rounded-lg px-3 py-3 transition-colors hover:bg-neutral-100 dark:hover:bg-neutral-900"
+          >
             <time
               datetime={entry.data.date.toISOString()}
-              class="ml-auto text-sm whitespace-nowrap text-neutral-500 dark:text-neutral-400"
+              class="shrink-0 text-sm whitespace-nowrap text-neutral-500 dark:text-neutral-400"
             >
               {fmt(entry.data.date)}
             </time>
-          </span>
-          <span class="mt-1.5 block leading-snug font-semibold underline-offset-4 group-hover:underline">{entry.data.title}</span>
-          {summary && (
-            <span class="mt-1 line-clamp-2 block text-sm leading-relaxed text-neutral-600 dark:text-neutral-300">
-              {summary}
+            <span class="shrink-0 rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300">
+              {badge}
             </span>
-          )}
-          <span class="mt-2.5 inline-block rounded-full bg-neutral-100 px-2.5 py-0.5 text-xs font-medium tracking-wide text-neutral-600 dark:bg-neutral-900 dark:text-neutral-300">
-            {entry.data.sector}
-          </span>
-        </a>
-      </li>
+            <span class="leading-snug font-medium underline-offset-4 group-hover:underline">{entry.data.title}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</section>
+
+<section data-block class="mt-12">
+  <h2 class="font-display text-xl font-semibold tracking-tight">
+    {isJa ? 'カバレッジ一覧' : 'Coverage'}
+  </h2>
+  {
+    coverageGroups.map(({ sector, rows }) => (
+      <div data-sector-group class="mt-8">
+        <h3 class="text-sm font-semibold tracking-wide text-neutral-500 uppercase dark:text-neutral-400">
+          {sector}
+        </h3>
+        <div class="mt-2 overflow-x-auto">
+          <table class="w-full border-collapse text-sm">
+            <thead>
+              <tr class="border-b border-neutral-300 text-left dark:border-neutral-700">
+                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '会社' : 'Company'}</th>
+                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'コード' : 'Ticker'}</th>
+                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'レーティング' : 'Rating'}</th>
+                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '目標株価' : 'Target price'}</th>
+                <th class="py-2 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '最新レポート' : 'Latest report'}</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 dark:divide-neutral-800">
+              {rows.map((entry) => (
+                <tr
+                  data-report-row
+                  data-search={`${entry.data.company} ${entry.data.ticker} ${entry.data.title} ${entry.data.sector}`.toLowerCase()}
+                  data-sector={entry.data.sector}
+                  data-type={entry.data.type}
+                >
+                  <td class="py-2.5 pr-3">
+                    <a href={entry.data.externalUrl} class="font-semibold underline-offset-4 hover:underline">
+                      {entry.data.company}
+                    </a>
+                  </td>
+                  <td class="py-2.5 pr-3 whitespace-nowrap text-neutral-600 dark:text-neutral-300">
+                    {entry.data.ticker}
+                  </td>
+                  <td class="py-2.5 pr-3 whitespace-nowrap">
+                    {entry.data.rating ?? '—'}
+                  </td>
+                  <td class="py-2.5 pr-3 whitespace-nowrap">
+                    {entry.data.targetPrice ?? '—'}
+                  </td>
+                  <td class="py-2.5 whitespace-nowrap text-neutral-600 dark:text-neutral-300">
+                    <a href={entry.data.externalUrl} class="underline-offset-4 hover:underline">
+                      {fmt(entry.data.date)} · {typeLabel(entry.data.type)}
+                    </a>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
     ))
   }
-</ul>
+</section>
 
 <p
   id="report-none"
@@ -198,8 +358,16 @@ const total = items.length;
     var rows = Array.prototype.slice.call(
       document.querySelectorAll('[data-report-row]'),
     );
-    var total = rows.length;
+    var blocks = Array.prototype.slice.call(
+      document.querySelectorAll('[data-block]'),
+    );
+    var groups = Array.prototype.slice.call(
+      document.querySelectorAll('[data-sector-group]'),
+    );
     var isJa = document.documentElement.lang === 'ja';
+    function anyVisible(list) {
+      return list.some(function (r) { return r.style.display !== 'none'; });
+    }
     function apply() {
       var needle = (q.value || '').trim().toLowerCase();
       var s = sec.value;
@@ -211,13 +379,25 @@ const total = items.length;
           (!s || r.getAttribute('data-sector') === s) &&
           (!ty || r.getAttribute('data-type') === ty);
         r.style.display = ok ? '' : 'none';
-        if (ok) visible++;
+        if (ok && !r.hasAttribute('data-nocount')) visible++;
       });
-      if (none) none.classList.toggle('hidden', visible !== 0);
+      groups.forEach(function (g) {
+        var any = anyVisible(
+          Array.prototype.slice.call(g.querySelectorAll('[data-report-row]')),
+        );
+        g.style.display = any ? '' : 'none';
+      });
+      blocks.forEach(function (b) {
+        var any = anyVisible(
+          Array.prototype.slice.call(b.querySelectorAll('[data-report-row]')),
+        );
+        b.style.display = any ? '' : 'none';
+      });
+      if (none) none.classList.toggle('hidden', anyVisible(rows));
       if (count) {
         count.textContent = isJa
-          ? '全' + total + '件中 ' + visible + '件を表示'
-          : visible + ' of ' + total + ' reports';
+          ? visible + '件を表示'
+          : 'Showing ' + visible + ' items';
       }
     }
     q.addEventListener('input', apply);
