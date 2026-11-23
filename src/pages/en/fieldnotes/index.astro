@@ -1,19 +1,11 @@
 ---
+// @ts-ignore - raw HTML import of the FIELDNOTES hub
+import hubHtml from '../../../fieldnotes/hub.html?raw';
+
+// Serve the FIELDNOTES Space hub itself at this URL, exactly as-is
+// (Space colours/layout, full width). The hub HTML carries
+// <base href="/fieldnotes-space/"> so its relative assets/views
+// keep loading from the bundle at /fieldnotes-space/.
 ---
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="refresh" content="0; url=/fieldnotes-space/" />
-    <link rel="canonical" href="https://kenmorozumi.com/fieldnotes-space/" />
-    <meta name="robots" content="noindex" />
-    <title>FIELDNOTES | Ken Morozumi</title>
-    <script>
-      window.location.replace('/fieldnotes-space/');
-    </script>
-  </head>
-  <body>
-    <p><a href="/fieldnotes-space/">Open FIELDNOTES (all 242 pages: statistics & value chains) →</a></p>
-  </body>
-</html>
+
+<Fragment set:html={hubHtml} />
