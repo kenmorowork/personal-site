@@ -1,11 +1,12 @@
 ---
 // @ts-ignore - raw HTML import of the FIELDNOTES hub
-import hubHtml from '../../../fieldnotes/hub.html?raw';
+import hubHtml from '../../../fieldnotes/hub-en.html?raw';
 
 // Serve the FIELDNOTES Space hub itself at this URL, exactly as-is
 // (Space colours/layout, full width). The hub HTML carries
-// <base href="/fieldnotes-space/"> so its relative assets/views
-// keep loading from the bundle at /fieldnotes-space/.
+// <base href="/fieldnotes-space/"> so its relative assets/views keep
+// loading from the bundle at /fieldnotes-space/, while its topic
+// links point back at this URL so navigation stays here.
 ---
 
 <Fragment set:html={hubHtml} />
