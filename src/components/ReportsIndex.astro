@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import type { Lang } from '../data/site';
+import pricesData from '../data/prices.json';
 
 interface Props {
   lang: Lang;
@@ -117,6 +118,52 @@ const ratingChip = (e: (typeof allEntries)[number]): string | null => {
   if (!tp) return r;
   return isJa ? `${r} · 目標株価 ${tp}` : `${r} · TP ${tp}`;
 };
+
+// Coverage price columns: current price (Yahoo Finance end-of-day,
+// kept in src/data/prices.json by the daily price job and refreshed
+// by the publish bridge) and the gap to the report's target price.
+interface PriceRow { price: number; currency: string; asOf: string }
+const priceMap = ((pricesData as { prices?: Record<string, PriceRow> }).prices ?? {}) as Record<string, PriceRow>;
+const priceOf = (ticker: string): PriceRow | undefined => priceMap[ticker];
+const fmtPrice = (p: PriceRow): string => {
+  if (p.currency === 'JPY') return '\u00a5' + p.price.toLocaleString('en-US', { maximumFractionDigits: 2 });
+  if (p.currency === 'USD') return 'US$' + p.price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  if (p.currency === 'TWD') return 'NT$' + p.price.toLocaleString('en-US', { maximumFractionDigits: 2 });
+  return p.price.toLocaleString('en-US', { maximumFractionDigits: 2 });
+};
+const gapOf = (e: (typeof allEntries)[number]): string | null => {
+  const tp = e.data.targetPrice;
+  const pr = priceOf(e.data.ticker);
+  if (!tp || !pr || !pr.price) return null;
+  const t = parseFloat(tp.replace(/[^0-9.]/g, ''));
+  if (!isFinite(t) || t <= 0) return null;
+  const pct = (t / pr.price - 1) * 100;
+  return (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%';
+};
+const priceAsOf = (() => {
+  let max = '';
+  for (const e of companyReports) {
+    const p = priceOf(e.data.ticker);
+    if (p && p.asOf > max) max = p.asOf;
+  }
+  return max;
+})();
+
+// Company-page slug — the same slugify rule the publish bridge uses
+// for src/data/companies.json, so coverage rows can link to the
+// company page.
+const companySlug = (name: string): string => {
+  const drop = new Set(['ltd', 'limited', 'inc', 'corporation', 'corp', 'co']);
+  const tokens = name
+    .replace(/,/g, '')
+    .replace(/\./g, '')
+    .toLowerCase()
+    .split(/[^a-z0-9]+/)
+    .filter(Boolean);
+  while (tokens.length > 1 && drop.has(tokens[tokens.length - 1])) tokens.pop();
+  return tokens.join('-');
+};
+const companyHref = (e: (typeof allEntries)[number]) => `/${lang}/companies/${companySlug(e.data.company)}/`;
 ---
 
 <h1 class="font-display text-3xl font-semibold tracking-tight">
@@ -127,13 +174,6 @@ const ratingChip = (e: (typeof allEntries)[number]): string | null => {
   {isJa ? 'リサーチレポート一覧' : 'Research Reports'}
 </p>
 
-<p class="mt-3 leading-relaxed text-neutral-600 dark:text-neutral-300">
-  {
-    isJa
-      ? `全${total}本を、新着レポート、マーケット・テーマ、カバレッジ一覧の3つに分けて並べています。各レポートは一次統計と企業開示をもとに作成しています。行を選ぶと全文が開きます。`
-      : `All ${total} reports, organised into latest reports, market & themes, and a coverage list. Every report is built from primary statistics and company disclosures. Select a report to read the full text.`
-  }
-</p>
 
 <div
   class="mt-8 rounded-xl border border-neutral-200 bg-neutral-50/95 p-4 backdrop-blur md:sticky md:top-14 md:z-30 dark:border-neutral-800 dark:bg-neutral-900/95"
@@ -285,44 +325,65 @@ const ratingChip = (e: (typeof allEntries)[number]): string | null => {
   <h2 class="font-display text-xl font-semibold tracking-tight">
     {isJa ? 'カバレッジ一覧' : 'Coverage'}
   </h2>
-  {
-    coverageGroups.map(({ sector, rows }) => (
-      <div data-sector-group class="mt-8">
-        <h3 class="text-sm font-semibold tracking-wide text-neutral-500 uppercase dark:text-neutral-400">
-          {sector}
-        </h3>
-        <div class="mt-2 overflow-x-auto">
-          <table class="w-full border-collapse text-sm">
-            <thead>
-              <tr class="border-b border-neutral-300 text-left dark:border-neutral-700">
-                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '会社' : 'Company'}</th>
-                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'コード' : 'Ticker'}</th>
-                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'レーティング' : 'Rating'}</th>
-                <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '目標株価' : 'Target price'}</th>
-                <th class="py-2 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '最新レポート' : 'Latest report'}</th>
-              </tr>
-            </thead>
-            <tbody class="divide-y divide-neutral-200 dark:divide-neutral-800">
-              {rows.map((entry) => (
+  <div class="mt-4 overflow-x-auto">
+    <table class="w-full table-fixed border-collapse text-sm">
+      <colgroup>
+        <col style="width:25%" />
+        <col style="width:8%" />
+        <col style="width:12%" />
+        <col style="width:11%" />
+        <col style="width:11%" />
+        <col style="width:9%" />
+        <col style="width:24%" />
+      </colgroup>
+      <thead>
+        <tr class="border-b border-neutral-300 text-left dark:border-neutral-700">
+          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '会社' : 'Company'}</th>
+          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'コード' : 'Ticker'}</th>
+          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'レーティング' : 'Rating'}</th>
+          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '目標株価' : 'Target price'}</th>
+          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '現在の株価' : 'Current price'}</th>
+          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '差額' : 'vs target'}</th>
+          <th class="py-2 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '最新レポート' : 'Latest report'}</th>
+        </tr>
+      </thead>
+      {
+        coverageGroups.map(({ sector, rows }) => (
+          <tbody data-sector-group>
+            <tr>
+              <td
+                colspan="7"
+                class="bg-neutral-50 px-2 pt-5 pb-1.5 text-xs font-semibold tracking-wide text-neutral-500 uppercase dark:bg-neutral-900 dark:text-neutral-400"
+              >
+                {sector}
+              </td>
+            </tr>
+            {rows.map((entry) => {
+              const pr = priceOf(entry.data.ticker);
+              const gap = gapOf(entry);
+              return (
                 <tr
                   data-report-row
                   data-search={`${entry.data.company} ${entry.data.ticker} ${entry.data.title} ${entry.data.sector}`.toLowerCase()}
                   data-sector={entry.data.sector}
                   data-type={entry.data.type}
+                  class="border-b border-neutral-200 dark:border-neutral-800"
                 >
                   <td class="py-2.5 pr-3">
-                    <a href={entry.data.externalUrl} class="font-semibold underline-offset-4 hover:underline">
+                    <a href={companyHref(entry)} class="font-semibold underline-offset-4 hover:underline">
                       {entry.data.company}
                     </a>
                   </td>
                   <td class="py-2.5 pr-3 whitespace-nowrap text-neutral-600 dark:text-neutral-300">
                     {entry.data.ticker}
                   </td>
-                  <td class="py-2.5 pr-3 whitespace-nowrap">
-                    {entry.data.rating ?? '—'}
-                  </td>
-                  <td class="py-2.5 pr-3 whitespace-nowrap">
-                    {entry.data.targetPrice ?? '—'}
+                  <td class="py-2.5 pr-3 whitespace-nowrap">{entry.data.rating ?? '—'}</td>
+                  <td class="py-2.5 pr-3 whitespace-nowrap">{entry.data.targetPrice ?? '—'}</td>
+                  <td class="py-2.5 pr-3 whitespace-nowrap">{pr ? fmtPrice(pr) : '—'}</td>
+                  <td
+                    class={`py-2.5 pr-3 whitespace-nowrap ${gap == null ? '' : gap.startsWith('+') ? 'font-medium text-emerald-700 dark:text-emerald-400' : 'font-medium text-red-700 dark:text-red-400'}`}
+                  >
+                    {gap ?? '—'}
                   </td>
                   <td class="py-2.5 whitespace-nowrap text-neutral-600 dark:text-neutral-300">
                     <a href={entry.data.externalUrl} class="underline-offset-4 hover:underline">
@@ -330,13 +391,20 @@ const ratingChip = (e: (typeof allEntries)[number]): string | null => {
                     </a>
                   </td>
                 </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </div>
-    ))
-  }
+              );
+            })}
+          </tbody>
+        ))
+      }
+    </table>
+  </div>
+  {priceAsOf && (
+    <p class="mt-2 text-xs text-neutral-500 dark:text-neutral-400">
+      {isJa
+        ? `現在の株価は${priceAsOf}時点の終値です。差額は、目標株価と現在の株価の差（％）です。`
+        : `Current prices are end-of-day closes as of ${priceAsOf}. "vs target" is the percentage gap between the target price and the current price.`}
+    </p>
+  )}
 </section>
 
 <p
@@ -344,6 +412,12 @@ const ratingChip = (e: (typeof allEntries)[number]): string | null => {
   class="mt-6 hidden text-sm text-neutral-500 dark:text-neutral-400"
 >
   {isJa ? '条件に合うレポートがありません。検索や絞り込みを変えてみてください。' : 'No reports match the current filters. Try a different search or filter.'}
+</p>
+
+<p class="mt-16 border-t border-neutral-200 pt-6 text-xs leading-relaxed text-neutral-500 dark:border-neutral-800 dark:text-neutral-400">
+  {isJa
+    ? '本サイトのレポートは情報提供を目的としたものであり、投資推奨・投資助言ではありません。投資に関する最終判断は、ご自身の責任で行ってください。'
+    : 'The reports on this site are provided for information purposes only and do not constitute investment recommendations or investment advice. Any investment decision is your own responsibility.'}
 </p>
 
 <script is:inline>
