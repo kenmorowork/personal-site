@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import type { Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+
+const items = (await getCollection('reports', ({ data }) => data.lang === lang)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const fmt = (d: Date) =>
+  isJa
+    ? `${d.getFullYear()}/${d.getMonth() + 1}/${d.getDate()}`
+    : d.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
+
+const typeLabel = (t: string) =>
+  t === 'initiation' ? (isJa ? 'イニシエーション' : 'Initiation') : isJa ? 'アップデート' : 'Update';
+---
+
+<h1 class="font-display text-3xl font-semibold tracking-tight">
+  {isJa ? 'リサーチレポート（J-Core）' : 'Research Reports (J-Core)'}
+</h1>
+
+<p class="mt-6 max-w-prose leading-relaxed">
+  {
+    isJa
+      ? 'J-Core Fundamental Researchのセクターレポート索引です。各レポートは一次統計と企業開示をもとに作成し、投資推奨（買い・売り）は行いません。全文はFIELDNOTES Spaceに収録しています。'
+      : 'The index of J-Core Fundamental Research sector reports. Each report is built from primary statistics and company disclosures; no investment recommendations (buy/sell) are made. Full texts are held in the FIELDNOTES Space.'
+  }
+</p>
+
+<div class="mt-10 overflow-x-auto">
+  <table class="w-full border-collapse text-left text-sm">
+    <thead>
+      <tr class="border-b border-neutral-300 text-neutral-500 dark:border-neutral-700 dark:text-neutral-400">
+        <th class="py-2 pr-4 font-medium">{isJa ? 'コード' : 'Ticker'}</th>
+        <th class="py-2 pr-4 font-medium">{isJa ? '会社' : 'Company'}</th>
+        <th class="py-2 pr-4 font-medium">{isJa ? 'セクター' : 'Sector'}</th>
+        <th class="py-2 pr-4 font-medium">{isJa ? '日付' : 'Date'}</th>
+        <th class="py-2 pr-4 font-medium">{isJa ? '種類' : 'Type'}</th>
+        <th class="py-2 font-medium">{isJa ? 'タイトル' : 'Title'}</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-neutral-200 dark:divide-neutral-800">
+      {
+        items.map((item) => (
+          <tr class="align-top">
+            <td class="py-3 pr-4 font-medium whitespace-nowrap">{item.data.ticker}</td>
+            <td class="py-3 pr-4 whitespace-nowrap">{item.data.company}</td>
+            <td class="py-3 pr-4">{item.data.sector}</td>
+            <td class="py-3 pr-4 whitespace-nowrap">
+              <time datetime={item.data.date.toISOString()}>{fmt(item.data.date)}</time>
+            </td>
+            <td class="py-3 pr-4 whitespace-nowrap">{typeLabel(item.data.type)}</td>
+            <td class="py-3">
+              <a
+                href={item.data.externalUrl}
+                class="font-medium underline-offset-4 hover:underline"
+              >
+                {item.data.title}
+              </a>
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</div>
