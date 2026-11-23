@@ -10,9 +10,9 @@ const isJa = lang === 'ja';
 
 const heading = isJa ? '株価チャート' : 'Share price';
 const sourceLine = isJa
-  ? `出典：Yahoo Finance — TDK（6762.T）日次OHLC、${data.from}〜${data.to}`
-  : `Source: Yahoo Finance — TDK (6762.T) daily OHLC, ${data.from} to ${data.to}`;
-const payload = JSON.stringify({ candles: data.candles });
+  ? `出典：Yahoo Finance — TDK（6762.T）日次終値、${data.from}〜${data.to}`
+  : `Source: Yahoo Finance — TDK (6762.T) daily closes, ${data.from} to ${data.to}`;
+const payload = JSON.stringify({ closes: data.closes });
 ---
 
 <section class="mt-10" aria-label={heading}>
@@ -26,7 +26,7 @@ const payload = JSON.stringify({ candles: data.candles });
       data-price-chart-payload
       set:html={payload}
     />
-    <div data-price-chart-canvas class="h-[360px] w-full"></div>
+    <div data-price-chart-canvas class="h-[280px] w-full"></div>
   </div>
   <p class="mt-2 text-xs text-neutral-500 dark:text-neutral-400">
     {sourceLine}
