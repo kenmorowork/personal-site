@@ -1,0 +1,907 @@
+{
+  "version": 1,
+  "editorReportId": 28,
+  "lang": "en",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "17 November 2026",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Misumi Group Inc. (9962)",
+  "headlineHtml": "The catalogue-and-platform supplier to the world's factories, riding a data-centre capex wave: initiation on Misumi as <strong>FA sales jump 50% and guidance is raised twice</strong>",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥3,416",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥978.7bn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥2,116 – ¥4,349",
+      "asOf": "13 Nov 2026 (Finnhub; low 21 Nov 2025, high 12 Nov 2026)"
+    },
+    {
+      "label": "P/E (FY3/26 basic EPS ¥149.30)",
+      "value": "22.9x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY3/27E co. guidance EPS ¥199.98)",
+      "value": "17.1x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY3/27E dividend (company forecast)",
+      "value": "¥70.34 / share (1.8% yield)",
+      "asOf": "Q2 FY3/27 tanshin, 30 Oct 2026 (interim ¥33.61 decided)"
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY3/27 results, 22 Jan 2027 (scheduled, per StockAnalysis.com earnings calendar)",
+      "asOf": "Third-party calendar estimate, Nov 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "A manufacturer and a distributor in one company, rebuilt around digital ordering and now pulled by data-centre capex:",
+  "ledeHtml": "Misumi Group Inc. (9962, TSE Prime) is the Tokyo-based supplier of factory-automation (FA) components, die &amp; mould components and, through VONA, third-party industrial products — a hybrid manufacturer-distributor whose model is 'global, reliable, short lead time' (グローバル確実短納期): more than 40 million products sold through its e-commerce platform, configurable to order, with the meviy AI-quotation service, the D-JIT customisation system and the Economy series as its digital levers. The initiation question is whether the FY3/27 surge is a data-centre spike or a step-change in the earnings base. The evidence for step-change is accumulating but not yet conclusive: H1 FY3/27 (April–September 2026) printed record half-year sales of ¥273,606mn (+32.9% YoY) and operating profit of ¥37,132mn (+89.8%, 13.6% margin), and on 30 October 2026 the company raised full-year FY3/27 guidance for the second time in six months to sales of ¥565,000mn and operating profit of ¥78,000mn (company guidance). Strengths: (1) FA is doing the heavy lifting — <strong>H1 sales +50.2% YoY to ¥109,246mn with segment profit of ¥19,014mn (+135.5%)</strong>, on Chinese data-centre demand (the company raised its assumed Chinese data-centre sales to ¥22.8bn) plus digital-model initiatives including Fictiv, consolidated in July 2025; (2) a balance sheet with no borrowings at all — <strong>interest-bearing debt is ¥0 in every year of the ten-year history</strong> — and cash of ¥104,202mn at March 2026, funding a ¥30,000mn buyback plan for the current year (president's message) alongside a raised dividend forecast of ¥70.34; (3) a ten-year record of compounding through cycles — sales grew from ¥259,015mn in FY3/17 to ¥441,383mn in FY3/26 (a 6.1% CAGR, calculated) with the dividend cut through the FY3/20–21 trough and rebuilt to ¥52.98 by FY3/26. Weaknesses: (1) profitability is still below its own peak — operating profit of ¥47,613mn in FY3/26 (10.8% margin) is below the FY3/22 print of ¥52,210mn (14.3%), and the SG&amp;A ratio has drifted from 31.0% in FY3/21 to 35.9% in FY3/26 on growth and AI/DX investment; (2) the surge is concentrated — China sales rose 59% YoY in H1 FY3/27 (calculated) and the Q&amp;A record ties the guidance raise to optical-transceiver-related demand secured in order backlogs, a concentrated, lumpy end-market with US export-control risk; (3) working capital is heavy — the calculated cash conversion cycle was 149 days at March 2026 (inventory days 113.9), and inventory has sat above ¥69,000mn since FY3/23. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company-stated plans, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "H1 FY3/27: a record half, and the second guidance raise in six months.",
+      "html": "For the six months to 30 September 2026, sales were ¥273,606mn (+32.9% YoY), <strong>operating profit ¥37,132mn (+89.8%)</strong>, ordinary profit ¥37,058mn (+82.2%) and net income attributable to owners ¥25,037mn (+78.9%); basic EPS was ¥95.05 and the operating margin 13.6% (calculated) against 9.5% a year earlier. Prior-year comparatives are restated for the finalised Fictiv purchase-price allocation (tanshin note 2): H1 FY3/26 sales ¥205,814mn and operating profit ¥19,559mn — the sheet's pre-restatement H1 FY3/26 operating profit of ¥19,618mn differs by ¥59mn and is flagged in Chapter 9. Source: Q2 FY3/27 tanshin, 30 October 2026."
+    },
+    {
+      "leadHtml": "Guidance raised again — ¥565,000mn of sales, ¥78,000mn of operating profit.",
+      "html": "Full-year FY3/27 company guidance (会社計画), as revised in the Q2 release of 30 October 2026, is sales ¥565,000mn (+28.0%), operating profit ¥78,000mn (+63.8%), ordinary income ¥77,800mn (+58.5%), owners' net income ¥52,400mn (+29.5%) and EPS ¥199.98 — <strong>up from ¥532,000mn / ¥67,000mn at Q1 (31 July 2026) and ¥491,500mn / ¥55,000mn at the initial plan</strong> (April 2026). H1 progress was 48.4% of guided sales and 47.6% of guided operating profit, so the guide implies H2 sales of ¥291,394mn and operating profit of ¥40,868mn (calculated), a 14.0% H2 margin — slightly above H1's 13.6%. H2 FX assumptions are USD/JPY 155.0, EUR/JPY 175.0, CNY/JPY 22.5. The dividend forecast was raised to ¥70.34 for the year (from ¥59.45 at Q1 and ¥52.98 initially). Source: Q2 FY3/27 tanshin section 3, 30 October 2026; Q1 FY3/27 tanshin, 31 July 2026."
+    },
+    {
+      "leadHtml": "Strength — FA is doing the heavy lifting, at a 17.4% H1 margin.",
+      "html": "The FA business was 36.4% of FY3/26 sales and earned ¥20,283mn of segment profit (12.6% margin). In H1 FY3/27 its sales rose 50.2% YoY to ¥109,246mn and <strong>segment profit rose 135.5% to ¥19,014mn (17.4% margin)</strong>, on data-centre demand and the digital-model initiatives (Fictiv, Economy series, D-JIT, meviy). Before goodwill and intangible amortisation — the company's supplementary disclosure — FA segment profit was ¥21,013mn in H1, so the Fictiv amortisation drag was about ¥1,999mn (calculated). The company says Fictiv turned profitable on a standalone, pre-amortisation basis in Q2 alone. Source: Q2 FY3/27 tanshin segment note; Q2 FY3/27 earnings-briefing Q&amp;A excerpt, 30 October 2026."
+    },
+    {
+      "leadHtml": "Weakness — the ten-year margin record is a plateau, not a climb.",
+      "html": "<strong>Operating profit peaked at ¥52,210mn in FY3/22 (14.3% margin)</strong> and printed ¥46,615mn / ¥38,365mn / ¥46,480mn / ¥47,613mn across FY3/23–26 — margins of 12.5% / 10.4% / 11.6% / 10.8% — while sales rose 20.5% over the same four years, because the SG&amp;A ratio rose from 31.3% to 35.9%. ROE has printed 14.8% / 11.7% / 8.6% / 10.5% / 11.1% across FY3/22–26 (tanshin headers), a solid but unexceptional return for a company with no debt and an 81.7% equity ratio. The FY3/27 guide (13.8% operating margin) would be the best margin since FY3/22 — but it depends on the data-centre demand holding. Source: company results via PL/segment sheet (tanshin, JPX archive); tanshin headers FY3/22–FY3/26."
+    },
+    {
+      "leadHtml": "Capital returns step up: ¥30bn buyback plan, dividend raised to ¥70.34.",
+      "html": "The company repurchased ¥15,909mn of its own shares in H1 FY3/27 (cash-flow statement), lifting treasury shares from 20,288,824 at March 2026 to 24,546,224 at September 2026, and the president's message states <strong>a ¥30,000mn repurchase plan for the current year</strong>. The dividend forecast for FY3/27 is ¥70.34 per share (interim ¥33.61 decided), up from ¥52.98 paid for FY3/26 — a 32.8% increase (calculated) — and the payout ratio on guidance EPS would be 35.2% (calculated), in line with the 35.0% payout printed in FY3/26. With no borrowings and ¥104,202mn of cash at March 2026, the returns are funded from the balance sheet, not leverage. Source: Q2 FY3/27 tanshin (dividend table; issued-share note; cash-flow statement); president's message on the company website (accessed November 2026)."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and FY3/27E company guidance",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive). FY3/17–21 from the supplementary history block (annual only); FY3/22–26 from the main block. Revenue-recognition standard applied from FY3/22 — growth across FY3/21–22 is not strictly like-for-like. Profit before tax is the tanshin definition (before income taxes). EPS is basic EPS as reported in the tanshin per-share notes. ROE: as reported in tanshin headers for FY3/19, FY3/20, FY3/22–26; calculated (owners' profit / average owners' equity) for FY3/17, FY3/18, FY3/21. DPS: tanshin dividend tables for FY3/19–26; payment-record cross-check for FY3/17, FY3/18, FY3/21 (see Basis of preparation). CCC days are calculated from year-end stocks (365 days). FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 30 Oct 2026 (EPS ¥199.98; dividend forecast ¥70.34).",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY3/17",
+          "FY3/18",
+          "FY3/19",
+          "FY3/20",
+          "FY3/21",
+          "FY3/22",
+          "FY3/23",
+          "FY3/24",
+          "FY3/25",
+          "FY3/26",
+          "FY3/27E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "259015",
+            "312969",
+            "331936",
+            "313337",
+            "310719",
+            "366160",
+            "373151",
+            "367649",
+            "401987",
+            "441383",
+            "565000"
+          ],
+          [
+            "Revenue growth (%)",
+            "—",
+            "20.8",
+            "6.1",
+            "-5.6",
+            "-0.8",
+            "17.8",
+            "1.9",
+            "-1.5",
+            "9.3",
+            "9.8",
+            "28"
+          ],
+          [
+            "Operating profit",
+            "27127",
+            "34848",
+            "31874",
+            "23640",
+            "27199",
+            "52210",
+            "46615",
+            "38365",
+            "46480",
+            "47613",
+            "78000"
+          ],
+          [
+            "Operating margin (%)",
+            "10.5",
+            "11.1",
+            "9.6",
+            "7.5",
+            "8.8",
+            "14.3",
+            "12.5",
+            "10.4",
+            "11.6",
+            "10.8",
+            "13.8"
+          ],
+          [
+            "Ordinary profit",
+            "26462",
+            "34679",
+            "31815",
+            "23245",
+            "27189",
+            "52500",
+            "47838",
+            "41265",
+            "49901",
+            "49095",
+            "77800"
+          ],
+          [
+            "Profit before income taxes",
+            "26071",
+            "34516",
+            "31815",
+            "22781",
+            "23496",
+            "51131",
+            "46533",
+            "39219",
+            "49940",
+            "48498",
+            "—"
+          ],
+          [
+            "Net income to owners",
+            "18387",
+            "25601",
+            "24034",
+            "16504",
+            "17138",
+            "37557",
+            "34282",
+            "28152",
+            "36549",
+            "40457",
+            "52400"
+          ],
+          [
+            "Basic EPS (¥)",
+            "66.94",
+            "91.01",
+            "84.8",
+            "58.18",
+            "60.36",
+            "132.15",
+            "120.53",
+            "99.75",
+            "131.95",
+            "149.3",
+            "199.98"
+          ],
+          [
+            "Dividend per share (¥)",
+            "16.71",
+            "22.6",
+            "21.2",
+            "14.55",
+            "13.13",
+            "33.04",
+            "30.14",
+            "27.47",
+            "43.21",
+            "52.98",
+            "70.34"
+          ],
+          [
+            "ROE (%)",
+            "12.4",
+            "15.1",
+            "12.4",
+            "8",
+            "7.8",
+            "14.8",
+            "11.7",
+            "8.6",
+            "10.5",
+            "11.1",
+            "—"
+          ],
+          [
+            "Equity ratio (%)",
+            "72.9",
+            "76",
+            "80.6",
+            "79.2",
+            "80",
+            "79.8",
+            "82.3",
+            "83.3",
+            "83.2",
+            "81.7",
+            "—"
+          ],
+          [
+            "Operating cash flow",
+            "19508",
+            "24324",
+            "13048",
+            "28218",
+            "36492",
+            "55391",
+            "31447",
+            "54567",
+            "60461",
+            "52190",
+            "—"
+          ],
+          [
+            "Receivable days (calc.)",
+            "81.5",
+            "79.1",
+            "74",
+            "73.6",
+            "84.2",
+            "76.6",
+            "74.7",
+            "75.3",
+            "71.2",
+            "81.5",
+            "—"
+          ],
+          [
+            "Inventory days (calc.)",
+            "80.2",
+            "84.2",
+            "99.5",
+            "112",
+            "114.9",
+            "113.1",
+            "139.8",
+            "142.8",
+            "118.2",
+            "113.9",
+            "—"
+          ],
+          [
+            "Payable days (calc.)",
+            "40.9",
+            "39.8",
+            "35",
+            "35.4",
+            "40.4",
+            "39.6",
+            "40.5",
+            "38.2",
+            "36",
+            "46.3",
+            "—"
+          ],
+          [
+            "Cash conversion cycle (days, calc.)",
+            "120.9",
+            "123.5",
+            "138.4",
+            "150.2",
+            "158.7",
+            "150.1",
+            "174",
+            "179.9",
+            "153.5",
+            "149.1",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Misumi reports with a March year-end under J-GAAP, as reported in each year's own tanshin. The history in this chapter and in Exhibit 1 covers ten years — FY3/17–FY3/21 from the supplementary history block of the PL/segment sheet (annual tanshin only) and FY3/22–FY3/26 from the sheet's main block (annual plus 20 quarters) — with all template checks equal to zero. One presentation break sits inside the decade: from FY3/22 the company applies the revenue-recognition accounting standard (企業会計基準第29号), so FY3/17–21 sales are on the pre-standard basis as originally reported and growth across the FY3/21–22 boundary is not strictly like-for-like; the sheet preserves each year's as-reported figures and this report does not restate them. Figures are ¥mn unless stated.</p>\n<p>The decade is a compounding story with a flat middle. Sales rose from ¥259,015mn in FY3/17 to ¥331,936mn in FY3/19 (+6.1% that year, the eighth consecutive record at the time), fell 5.6% in FY3/20 and 0.8% in FY3/21 on COVID and the US–China trade friction, then jumped 17.8% in FY3/22 to ¥366,160mn on the post-COVID automation recovery, and rose again in FY3/25 (+9.3%) and FY3/26 (+9.8%) to ¥441,383mn. The ten-year sales CAGR is 6.1% (calculated). Operating profit describes a different shape: ¥27,127mn (10.5% margin) in FY3/17, a peak of ¥52,210mn (14.3%) in FY3/22, a trough of ¥38,365mn (10.4%) in FY3/24, and ¥47,613mn (10.8%) in FY3/26 — <strong>still below the FY3/22 peak in absolute terms despite sales being 20.5% higher</strong>. The anatomy is cost, not gross margin: the gross margin has been remarkably stable (45.6% / 45.8% / 45.5% / 46.5% / 46.7% across FY3/22–26, and 41.5%–45.0% in the history block), while the SG&amp;A ratio rose from 31.0% in FY3/17 to 35.9% in FY3/26, absorbing the gross-profit growth. The FY3/20–21 trough is instructive: sales fell only 6.4% cumulatively yet operating profit fell 26.4% from the FY3/19 level, on SG&amp;A that stayed above ¥107,000mn in both years — the fixed-cost base of a global short-lead-time model.</p>\n<p>Below operating profit, Misumi's J-GAAP presentation is clean: ordinary income (経常利益) tracks operating profit closely (¥49,095mn in FY3/26 against operating profit of ¥47,613mn), extraordinary items are small (a ¥597mn extraordinary loss in FY3/26; a ¥3,693mn loss in FY3/21), and the effective tax rate was 16.2% in FY3/26 — unusually low, because of a ¥4,730mn deferred-tax credit — against 26.0%–28.0% in FY3/22–24; the FY3/26 tax line flatters net income and should not be extrapolated. Net income attributable to owners was ¥18,387mn / ¥25,601mn / ¥24,034mn / ¥16,504mn / ¥17,138mn / ¥37,557mn / ¥34,282mn / ¥28,152mn / ¥36,549mn / ¥40,457mn across FY3/17–26. Basic EPS as reported in the tanshin per-share notes was ¥66.94 / ¥91.01 / ¥84.80 / ¥58.18 / ¥60.36 / ¥132.15 / ¥120.53 / ¥99.75 / ¥131.95 / ¥149.30 (diluted EPS is ¥64.70 / ¥89.76 / ¥84.48 / ¥57.98 / ¥60.14 / ¥131.72 / ¥120.18 / ¥99.48 / ¥131.62 / ¥149.00). ROE as reported in the tanshin headers was 12.4% (FY3/19), 8.0% (FY3/20), 14.8% (FY3/22), 11.7% (FY3/23), 8.6% (FY3/24), 10.5% (FY3/25) and 11.1% (FY3/26); for FY3/17, FY3/18 and FY3/21 the tanshin headers in the sources used do not carry the ratio, so this report shows calculated values of 12.4%, 15.1% and 7.8% (owners' profit over average owners' equity, labelled calculated in Exhibit 1).</p>\n<p>The balance sheet is the group's quiet strength. Total assets were ¥464,969mn and net assets ¥382,509mn at 31 March 2026; the equity ratio was 81.7% (79.8%–83.3% in every year FY3/22–26, 72.9%–80.6% in FY3/17–21) and book value per share ¥1,433.69. Interest-bearing debt is ¥0 in every year of the decade — Misumi has no borrowings or bonds on its balance sheet in any covered period (lease liabilities are presented separately and excluded per the programme convention) — and cash and equivalents were ¥104,202mn at March 2026. Operating cash flow was ¥19,508mn / ¥24,324mn / ¥13,048mn / ¥28,218mn / ¥36,492mn / ¥55,391mn / ¥31,447mn / ¥54,567mn / ¥60,461mn / ¥52,190mn across FY3/17–26; capital expenditure (the single combined fixed-asset acquisition line in the cash-flow statement) was ¥7,219mn / ¥15,421mn / ¥21,414mn / ¥18,442mn / ¥14,016mn / ¥16,508mn / ¥13,625mn / ¥17,976mn / ¥15,434mn / ¥14,288mn, and D&amp;A was ¥5,901mn / ¥7,187mn / ¥8,840mn / ¥13,070mn / ¥14,963mn / ¥15,341mn / ¥16,587mn / ¥17,564mn / ¥17,718mn / ¥17,939mn, giving an EBITDA proxy (operating profit + D&amp;A, calculated) of ¥33,028mn / ¥42,035mn / ¥40,714mn / ¥36,710mn / ¥42,162mn / ¥67,551mn / ¥63,202mn / ¥55,929mn / ¥64,198mn / ¥65,552mn. The working-capital cost of the model shows in the calculated cash conversion cycle (year-end stocks, 365 days): 120.9 / 123.5 / 138.4 / 150.2 / 158.7 / 150.1 / 174.0 / 179.9 / 153.5 / 149.1 days across FY3/17–26, driven by inventory days that have stayed above 110 since FY3/20 (113.9 days at March 2026) — the stock a short-lead-time catalogue business must hold. Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; tanshin headers and per-share notes.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Misumi Group Inc. — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/c1.svg",
+          "alt": "Misumi Group Inc. — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Misumi Group Inc. — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/c2.svg",
+          "alt": "Misumi Group Inc. — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Misumi Group Inc. — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/c3.svg",
+          "alt": "Misumi Group Inc. — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Misumi Group Inc. — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/v1.svg",
+          "alt": "Misumi Group Inc. — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — Q2 FY3/27 results and guidance",
+      "level": "part",
+      "html": "<p>Misumi reported Q2 FY3/27 (H1, 1 April–30 September 2026) results on 30 October 2026, the same day it held a Zoom earnings briefing for institutional investors and published an edited Q&amp;A excerpt (抜粋). The president is Arata Shimizu, who assumed the role of Representative Director and President on 1 April 2026, succeeding Ryusei Ono (now Director and Chairman); the inquiry contact in the tanshin is Toru Takanami, Managing Executive Officer and CFO. This chapter summarises the release; segment detail is in Chapter 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY3/27 results (cumulative, as reported)",
+      "level": "section",
+      "html": "<p>Sales were ¥273,606mn (+32.9% YoY), operating profit ¥37,132mn (+89.8%), ordinary profit ¥37,058mn (+82.2%) and net income attributable to owners ¥25,037mn (+78.9%); basic EPS was ¥95.05 and the operating margin 13.6% (calculated) against 9.5% a year earlier. The prior-year comparatives are restated for the finalised Fictiv purchase-price allocation (tanshin note 2): H1 FY3/26 sales ¥205,814mn, operating profit ¥19,559mn, ordinary profit ¥20,338mn, owners' net income ¥13,997mn. The quarterly split shows the acceleration holding into Q2: Q1 FY3/27 standalone printed sales of ¥131,440mn (+32.3%) and operating profit of ¥17,837mn (+85.3%), so Q2 standalone (derived as H1 minus Q1, both as reported) contributed sales of ¥142,166mn and operating profit of ¥19,295mn (calculated), a 13.6% margin — the same margin as Q1, with no fade.</p>\n<p>By segment (external sales / segment profit): FA ¥109,246mn / ¥19,014mn (+50.2% / +135.5% YoY); Die &amp; Mold Components ¥48,497mn / ¥5,609mn (+13.9% / +34.3%); VONA ¥115,861mn / ¥12,508mn (+28.0% / +71.2%). By region (customer location, as disclosed in the tanshin supplement): Japan ¥97,667mn, China ¥67,363mn, Asia ¥48,450mn, Americas ¥39,123mn, Europe ¥15,352mn, other ¥5,648mn — <strong>China +59% YoY (calculated against ¥42,339mn in H1 FY3/26) is the standout</strong>, and the Q&amp;A record ties it to optical-transceiver-related demand with order backlogs secured for both this fiscal year and next. The balance sheet at 30 September 2026: total assets ¥478,086mn, net assets ¥381,303mn, equity ratio 79.2%, owners' equity ¥378,850mn. The H1 cash-flow statement records ¥15,909mn of share repurchases (per the interview pack, from the Q2 FY3/27 tanshin cash-flow statement); the annual cash-flow series is in Chapter 6. The interim dividend was decided at ¥33.61 per share. Market reaction is part of the record: the shares closed at ¥3,925 on 30 October 2026 (the day of the print) and then fell — ¥3,681 on 6 November, ¥3,966 on 13 November and ¥3,803 on 16 November 2026 (StockAnalysis.com history; Finnhub) — a volatile fortnight in which the 52-week high of ¥4,349 was set on 12 November. Source: Q2 FY3/27 tanshin, 30 October 2026; Q1 FY3/27 tanshin, 31 July 2026; Q2 FY3/27 earnings-briefing Q&amp;A excerpt, 30 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance: raised twice since April — sales ¥565,000mn, operating profit ¥78,000mn (company guidance)",
+      "level": "section",
+      "html": "<p>Full-year FY3/27 guidance, as revised in the Q2 release of 30 October 2026, is sales ¥565,000mn, operating profit ¥78,000mn, ordinary income ¥77,800mn, owners' net income ¥52,400mn and EPS ¥199.98 — company guidance (会社計画), not a J-Core Fundamental Research forecast. The revision path is steep: against the initial plan published with the FY3/26 results in April 2026 (¥491,500mn / ¥55,000mn / ¥55,900mn / ¥37,400mn) and the Q1 revision of 31 July 2026 (¥532,000mn / ¥67,000mn / ¥67,300mn / ¥44,800mn; EPS ¥169.67), the Q2 raise adds ¥33,000mn of sales and ¥11,000mn of operating profit. The stated raise rationale is data-centre / semiconductor demand and digital-model initiatives growing 'above plan', and the Q&amp;A record quantifies one piece of it: <strong>assumed Chinese data-centre sales were raised from ¥20.3bn to ¥22.8bn</strong>, and the ¥2.6bn positive operating-profit effect from product mix in the full-year plan is 'slightly more than half' margin improvement from cost reductions and limited component-cost increases. The H2 assumptions are USD/JPY 155.0, EUR/JPY 175.0 and CNY/JPY 22.5 (H1 actual USD rate ¥160.5).</p>\n<p>Against guidance, H1 progress was 48.4% on sales and 47.6% on operating profit, so delivery requires H2 sales of ¥291,394mn and operating profit of ¥40,868mn (calculated), a 14.0% H2 margin — slightly above the H1 print. The Q&amp;A record gives the reasons to treat the second half carefully rather than as a straight line: Fictiv's full-year outlook was left unchanged despite its Q2 standalone pre-amortisation profitability, on seasonal factors (the US holiday season and Chinese New Year from Q3); the VONA margin fell in Q2 on purchase-price and price-revision timing, which the company describes as quarterly fluctuation in a purchase-and-resale business; and the company says AI/DX investment costs will continue, with the leverage effect — core-system renewal (NEWTON) completing, growth investments contributing, personnel investment restrained — expected from next fiscal year onward. The dividend forecast was raised in step with earnings: ¥70.34 for the year (interim ¥33.61 decided, final ¥36.73 forecast), from ¥59.45 at Q1 and ¥52.98 in the initial plan. The open questions the print leaves — how much of FA's +50.2% is Fictiv consolidation versus organic digital-model growth, whether China's +59% is a data-centre buildout spike or broad demand, and whether VONA's margin jump is structural or cyclical — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Exhibit 3 sets out the H1 segment actuals and the guidance arithmetic. Source: Q2 FY3/27 tanshin section 3, 30 October 2026; Q1 FY3/27 tanshin, 31 July 2026; Q2 FY3/27 earnings-briefing Q&amp;A excerpt, 30 October 2026.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. H1 FY3/27 results and FY3/27 company guidance (implied H2 calculated)",
+          "sourceHtml": "H1 FY3/27: Q2 FY3/27 tanshin, 30 Oct 2026 (prior-year half restated for the finalised Fictiv purchase-price allocation). Segment prior-year comparatives on the restated basis are disclosed as growth rates in the tanshin text (FA sales +50.2%, Die &amp; Mold +13.9%, VONA +28.0%) and are not shown as absolute figures here. Q2 standalone derived as H1 minus Q1 (Q1 FY3/27 tanshin, 31 Jul 2026). FY3/27 guidance: Q2 FY3/27 tanshin section 3 (company guidance). Implied H2 = guidance minus H1 (calculated).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "H1 FY3/27",
+            "H1 FY3/26 (restated)",
+            "Q2 FY3/27 standalone (calc.)",
+            "FY3/27E (co. guidance)",
+            "Implied H2 (calc.)"
+          ],
+          "rows": [
+            [
+              "Sales",
+              "273606",
+              "205814",
+              "142166",
+              "565000",
+              "291394"
+            ],
+            [
+              "Operating profit",
+              "37132",
+              "19559",
+              "19295",
+              "78000",
+              "40868"
+            ],
+            [
+              "Ordinary profit",
+              "37058",
+              "20338",
+              "19228",
+              "77800",
+              "40742"
+            ],
+            [
+              "Net income to owners",
+              "25037",
+              "13997",
+              "13334",
+              "52400",
+              "27363"
+            ],
+            [
+              "FA — sales",
+              "109246",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "FA — segment profit",
+              "19014",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "Die & Mold Components — sales",
+              "48497",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "Die & Mold Components — segment profit",
+              "5609",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "VONA — sales",
+              "115861",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "VONA — segment profit",
+              "12508",
+              "—",
+              "—",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Misumi is headquartered in Tokyo (Chiyoda-ku) and organises itself into three reportable segments — FA, Die &amp; Mold Components and VONA — unchanged across all ten years of this report. The segment definitions below are the company's own (tanshin segment notes): the FA business manufactures and sells FA components (factory-automation parts); the Die &amp; Mold Components business manufactures and sells die components and mould parts; VONA is the distribution business, selling other manufacturers' products — production-equipment parts, manufacturing consumables and MRO (maintenance, repair and operations) indirect materials — alongside Misumi-brand products. Segment sales are external customer sales (intersegment sales are nil in every period); segment profit is on the operating-profit basis. In FY3/26 the mix was FA 36.4%, Die &amp; Mold Components 20.0% and VONA 43.6% of sales, with segment profit of ¥20,283mn / ¥8,694mn / ¥18,635mn — VONA is the largest segment by sales and FA the largest by profit margin. The company's own description of its model, repeated across the tanshin qualitative sections, is that it combines a manufacturer business and a distribution business, using IT, logistics and manufacturing bases and a global network to serve customers' 'global, reliable, short lead time' needs and to remove inefficiency from manufacturing. The company states it sells more than 40 million products worldwide through its e-commerce platform (company website, accessed November 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "FA business: configurable automation components and the digital model",
+      "level": "section",
+      "html": "<p>The FA business sells the mechanical and electrical components that build and run automated production lines — linear motion parts, shafts, bearings, couplings, timing belts, sensors and related parts — configurable to order and delivered on short lead times. Its economics are the catalogue model: breadth of range, speed of delivery and the digital ordering interface do the selling, and the gross margin is protected by configuration rather than by unit price. The digital layer is where the company says its differentiation now sits: meviy, the AI-driven service that generates quotations from uploaded 3D CAD data; D-JIT, the customisation system for made-to-order parts; and the Economy series of lower-priced standard parts. The H1 FY3/27 Q&amp;A record adds two operating facts: production lines in the customisation area continue to operate at high utilisation with personnel being reinforced, and advance orders are increasing in Asia, making forecasting easier — while lead times are lengthening for some electrical products. Financially FA is the group's growth engine and its swing factor: sales of ¥84,669mn / ¥105,184mn / ¥109,230mn / ¥99,403mn / ¥102,244mn / ¥119,253mn / ¥121,932mn / ¥118,219mn / ¥135,803mn / ¥160,498mn across FY3/17–26 with segment profit of ¥14,417mn / ¥20,171mn / ¥18,835mn / ¥12,578mn / ¥16,115mn / ¥23,381mn / ¥21,384mn / ¥15,097mn / ¥22,510mn / ¥20,283mn — margins of 17.0% / 19.2% / 17.2% / 12.7% / 15.8% / 19.6% / 17.5% / 12.8% / 16.6% / 12.6%. The FY3/26 margin (12.6%) is the second-lowest of the decade despite record segment sales, because of the Fictiv goodwill and technology amortisation: before amortisation, FA segment profit was ¥23,143mn in FY3/26 (a 14.4% margin, calculated) and ¥21,013mn in H1 FY3/27. <mark>The FY3/24 margin trough (12.8%) and the H1 FY3/27 recovery to 17.4% are, in one segment, the whole investment case</mark> — and the open question is how much of the recovery is Fictiv consolidation (inorganic, from July 2025) versus organic digital-model growth. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note and Q&amp;A excerpt, 30 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Die & Mold Components business: the steady, auto-linked manufacturer",
+      "level": "section",
+      "html": "<p>The Die &amp; Mold Components business manufactures and sells the precision parts used to build press dies and injection moulds — die sets, punches, ejector pins, mould bases and related standard and configurable parts. Demand is tied to automotive production and to electronics manufacturing, and the segment's history is the steadiest of the three: sales of ¥69,797mn / ¥76,523mn / ¥76,443mn / ¥72,413mn / ¥66,871mn / ¥75,108mn / ¥79,125mn / ¥79,932mn / ¥86,451mn / ¥88,368mn across FY3/17–26 with segment profit of ¥3,097mn / ¥5,869mn / ¥6,109mn / ¥5,009mn / ¥4,930mn / ¥9,542mn / ¥8,723mn / ¥9,139mn / ¥9,504mn / ¥8,694mn — margins of 4.4% / 7.7% / 8.0% / 6.9% / 7.4% / 12.7% / 11.0% / 11.4% / 11.0% / 9.8%. The step-change in FY3/22 (profit +93.5% on sales +12.3%) was the automotive recovery plus the company's profit-improvement measures; since then the margin has drifted down from 12.7% to 9.8% as the segment absorbed cost increases that its more standardised product range passes through more slowly. Before goodwill and intangible amortisation — the Dayton Lamina acquisition, disclosed in FY3/17–18 and FY3/22 documents — segment profit was ¥5,391mn / ¥7,486mn / ¥6,725mn / ¥5,616mn / ¥5,520mn / ¥10,010mn across FY3/17–22 (FY3/26: ¥8,694mn, the same as the reported profit, so no amortisation remains in the segment that year). In H1 FY3/27 sales rose 13.9% to ¥48,497mn and profit 34.3% to ¥5,609mn (an 11.6% margin), on what the tanshin describes as mixed demand by region — the interview pack's open question is the quality of the auto-related recovery by region (Japan / China / US). The segment carries the group's most direct exposure to a slowdown in automotive capital spending, and its FY3/20–21 record (sales −5.3% and −7.7%) is the cleanest read of that sensitivity. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "VONA business: the distribution platform — largest by sales, thinnest by margin",
+      "level": "section",
+      "html": "<p>VONA is Misumi's distribution business: it sells other manufacturers' products — production-equipment parts, manufacturing consumables and MRO indirect materials — through the same e-commerce platform and logistics network as the manufacturing businesses, alongside Misumi-brand products. The strategic logic is range: the company states its global handled-item count reached 26.7 million items by the end of FY3/19, and growth in the segment has been driven by expanding the handled-manufacturer count and customer numbers, with international expansion accelerating the business in recent years. Financially VONA is the largest segment by sales and the thinnest by margin: sales of ¥104,548mn / ¥131,262mn / ¥146,262mn / ¥141,519mn / ¥141,602mn / ¥171,799mn / ¥172,093mn / ¥169,497mn / ¥179,732mn / ¥192,516mn across FY3/17–26 with segment profit of ¥9,950mn / ¥9,010mn / ¥6,929mn / ¥6,052mn / ¥6,152mn / ¥19,287mn / ¥16,506mn / ¥14,128mn / ¥14,466mn / ¥18,635mn — margins of 9.5% / 6.9% / 4.7% / 4.3% / 4.3% / 11.2% / 9.6% / 8.3% / 8.0% / 9.7%. The FY3/22 step-change (profit +213.5% on sales +21.3%) reflects the discontinuation of low-profit products and price corrections alongside the automation-demand recovery; the FY3/19–21 margin trough (4.3%–4.7%) is the cost of the international expansion's upfront spending. In H1 FY3/27 VONA sales rose 28.0% to ¥115,861mn and profit 71.2% to ¥12,508mn (a 10.8% margin), with double-digit growth in all regions except Europe — but the Q2 margin fell within the half, which the company attributes to purchase-price and price-revision timing in a purchase-and-resale business and says is no cause for concern, citing pricing-response capability through its e-commerce platform. <strong>The live debate is whether the H1 margin jump is structural (mix and private-brand) or cyclical operating leverage that reverses</strong>. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin and Q&amp;A excerpt, 30 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Misumi sells into the value chain of manufacturing itself. In factory automation, its customers are machine builders, system integrators and end-user factories buying the components that make production lines move and sense; in die &amp; mould, its customers are the mould and die makers serving automotive and electronics production; in distribution, its customers are the same factories buying consumables and indirect materials. Demand is therefore derived from manufacturing capital expenditure and operating rates, and the current cycle is AI-led: the company reports data-centre-related investment — optical-transceiver production, automated stages for communications applications — as the driver of FA's H1 FY3/27 growth, with <strong>order backlogs secured for this fiscal year and next</strong>, and says the impact of the EV slowdown has already run its course as it shifts its customer portfolio toward growth fields. The company also states that if AI-related investment were to slow, markets such as South Korea and Taiwan, which depend more on semiconductors than China, would be more susceptible — a view that frames China as the relatively defensive part of its AI exposure, not the riskiest.</p>\n<p>Competition in the catalogue-and-configurable segment is against other FA-parts distributors and manufacturers, and against the direct-sales and e-commerce channels of large component makers; the moats the company claims are range (tens of millions of handled items), the short-lead-time logistics network built on local production and local procurement, and the digital ordering interface (CAD-linked quotation through meviy, customisation through D-JIT). Entry barriers are the accumulated product data and the logistics footprint; the substitute risk is platform shift — customers consolidating procurement onto a smaller number of general-purpose e-commerce platforms, or standard parts becoming commoditised to the point where range alone no longer commands a margin. No company-disclosed market-size or share figure for its categories is carried in the sources used here, and none is substituted: the verifiable demand evidence is Misumi's own reported segment and regional growth and the order-backlog colour in the Q&amp;A record (orders and backlog are not disclosed numerically in the tanshin). Two sensitivities follow for the equity. First, Greater China was 20.8% of FY3/26 sales (¥91,947mn) and 24.6% of H1 FY3/27 sales (¥67,363mn of ¥273,606mn, calculated) — the region is simultaneously the growth engine and the concentration risk, including US export-control risk on Chinese-made optical transceivers, which the company says it can manage because its end customers are mostly European and US manufacturers (only two purely Chinese customers) and its production bases are in Vietnam as well as China. Second, the demand now driving the guide is concentrated in data-centre buildout, and with no order or backlog disclosure in the tanshin, the earliest observable of a pause is the quarterly FA print itself. Sources: Q2 FY3/27 tanshin; Q2 FY3/27 earnings-briefing Q&amp;A excerpt, 30 October 2026; PL/segment sheet (tanshin, JPX archive).</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "Misumi in the factory-automation value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (machine tools &amp; FA value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/d1.svg",
+          "alt": "Misumi in the factory-automation value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Misumi's tanshin disclosure gives a complete business-segment history and, in the annual tanshin (related information) and the quarterly tanshin (supplementary information), a six-region sales split by customer location. Both layers are disclosed in every period of the ten-year history, and the sheet reconciles them to consolidated sales with only ¥1–¥4mn of truncation residual. This chapter keeps the two disclosure layers separate and labelled.</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 6",
+          "titleHtml": "Misumi Group Inc. — segment revenue, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/c4.svg",
+          "alt": "Misumi Group Inc. — segment revenue, FY3/26"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 7",
+          "titleHtml": "Misumi Group Inc. — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/v2.svg",
+          "alt": "Misumi Group Inc. — segment revenue by year"
+        },
+        {
+          "id": "v3",
+          "number": "Figure 8",
+          "titleHtml": "Misumi Group Inc. — segment revenue mix, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/v3.svg",
+          "alt": "Misumi Group Inc. — segment revenue mix, FY3/26"
+        },
+        {
+          "id": "v4",
+          "number": "Figure 9",
+          "titleHtml": "Misumi Group Inc. — regional revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-misumi-group-initiation-28/v4.svg",
+          "alt": "Misumi Group Inc. — regional revenue by year"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Business segments: VONA carries sales, FA carries the margin swing",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the ten-year history on the basis disclosed in each year's own tanshin. Three facts organise it. First, profit concentration and its volatility: in FY3/26 the three segments earned ¥47,612mn of segment profit before a ¥1mn adjustment to consolidated operating profit of ¥47,613mn — FA ¥20,283mn (42.6% of segment profit), VONA ¥18,635mn and Die &amp; Mold Components ¥8,694mn. In FY3/22, by contrast, FA alone earned ¥23,381mn of ¥52,210mn. <strong>The group's earnings power is therefore an FA margin question</strong>: FA printed 19.6% in FY3/22, 12.8% in FY3/24 and 12.6% in FY3/26, and the H1 FY3/27 print of 17.4% is the first step back toward the top of that range. Second, the quiet improver is VONA's margin recovery: from 4.3% in FY3/20–21 to 9.7% in FY3/26 and 10.8% in H1 FY3/27, on product-mix discipline and price corrections — but the Q2 FY3/27 margin dip inside the half is a reminder that a purchase-and-resale margin moves with purchase prices. Third, the basis is clean: the three reportable segments are unchanged across all ten years, intersegment sales are nil, and the disclosed adjustment column is nil in every period, so segment sales sum to consolidated sales within ¥1–¥2mn of truncation in every year. The supplementary pre-amortisation disclosure matters for the current period: FA's FY3/26 segment profit before goodwill and intangible amortisation was ¥23,143mn against ¥20,283mn reported (a ¥2,860mn amortisation charge, calculated), and in H1 FY3/27 the equivalent gap was ¥1,999mn — the Fictiv amortisation drag, which the company says will persist while the Fictiv earnings improvement is judged on the pre-amortisation basis. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Business segments — external sales and segment profit (operating-profit basis)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), segment note, as reported in each year's own tanshin. Three reportable segments unchanged across all ten years; intersegment sales nil; disclosed adjustment column nil in every period (segment sums differ from consolidated sales by at most ¥2mn of truncation). FY3/17–21 from the supplementary history block.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY3/17",
+            "FY3/18",
+            "FY3/19",
+            "FY3/20",
+            "FY3/21",
+            "FY3/22",
+            "FY3/23",
+            "FY3/24",
+            "FY3/25",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "FA — sales",
+              "84669",
+              "105184",
+              "109230",
+              "99403",
+              "102244",
+              "119253",
+              "121932",
+              "118219",
+              "135803",
+              "160498"
+            ],
+            [
+              "FA — segment profit",
+              "14417",
+              "20171",
+              "18835",
+              "12578",
+              "16115",
+              "23381",
+              "21384",
+              "15097",
+              "22510",
+              "20283"
+            ],
+            [
+              "Die & Mold Components — sales",
+              "69797",
+              "76523",
+              "76443",
+              "72413",
+              "66871",
+              "75108",
+              "79125",
+              "79932",
+              "86451",
+              "88368"
+            ],
+            [
+              "Die & Mold Components — segment profit",
+              "3097",
+              "5869",
+              "6109",
+              "5009",
+              "4930",
+              "9542",
+              "8723",
+              "9139",
+              "9504",
+              "8694"
+            ],
+            [
+              "VONA — sales",
+              "104548",
+              "131262",
+              "146262",
+              "141519",
+              "141602",
+              "171799",
+              "172093",
+              "169497",
+              "179732",
+              "192516"
+            ],
+            [
+              "VONA — segment profit",
+              "9950",
+              "9010",
+              "6929",
+              "6052",
+              "6152",
+              "19287",
+              "16506",
+              "14128",
+              "14466",
+              "18635"
+            ],
+            [
+              "Consolidated operating profit",
+              "27127",
+              "34848",
+              "31874",
+              "23640",
+              "27199",
+              "52210",
+              "46615",
+              "38365",
+              "46480",
+              "47613"
+            ],
+            [
+              "Supplementary: FA profit before goodwill/intangible amortisation",
+              "14417",
+              "20171",
+              "18835",
+              "12578",
+              "16115",
+              "23381",
+              "—",
+              "—",
+              "—",
+              "23143"
+            ],
+            [
+              "Supplementary: Die & Mold profit before goodwill/intangible amortisation",
+              "5391",
+              "7486",
+              "6725",
+              "5616",
+              "5520",
+              "10010",
+              "—",
+              "—",
+              "—",
+              "8694"
+            ],
+            [
+              "Supplementary: VONA profit before goodwill/intangible amortisation",
+              "9950",
+              "9010",
+              "6929",
+              "6052",
+              "6152",
+              "19287",
+              "—",
+              "—",
+              "—",
+              "18635"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions: Japan is half the business; China is the growth engine",
+      "level": "section",
+      "html": "<p>Regional sales by customer location (six regions as disclosed; Exhibit 4) show a business that is half domestic and half overseas, with the overseas half rotating toward China and North America. Japan was ¥140,301mn (54.2% of sales) in FY3/17, ¥154,748mn (49.8%) in FY3/21 and ¥177,221mn (40.1%) in FY3/26 — growing in absolute terms in eight of the ten years but shrinking as a share as the overseas business compounded faster. China was ¥43,401mn (16.8%) in FY3/17, fell to ¥60,853mn in FY3/24 after the FY3/23–24 correction (−8.1% and −11.7% YoY), then rose 30.4% in FY3/25 and 15.9% in FY3/26 to ¥91,947mn (20.8%), and <strong>reached ¥67,363mn in H1 FY3/27 alone — 24.6% of half-year sales (calculated) and +59% YoY</strong>. Asia (ex-China) rose steadily from ¥32,637mn to ¥72,045mn across the decade; North America (America as disclosed) jumped 41.6% in FY3/26 to ¥63,307mn (14.3% of sales) after four years of ¥33,899mn–¥44,697mn — the Fictiv consolidation (US-based, from July 2025) is the visible driver, and the interview pack flags the decomposition as an open question; Europe rose from ¥12,588mn to ¥27,676mn and other regions from ¥4,291mn to ¥9,184mn. The overseas ratio was 45.8% in FY3/17 and 59.9% in FY3/26 (calculated). Regional profit is not disclosed on any basis, and quarterly tanshin carry the same six-region split as the annual documents. Source: company results via PL/segment sheet (tanshin, JPX archive), regional information, FY3/17–FY3/26; Q2 FY3/27 tanshin supplement.</p>",
+      "figures": [
+        {
+          "id": "f4",
+          "number": "Table 4",
+          "titleHtml": "Exhibit 4. Regional sales by customer location (six regions as disclosed)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), regional information (annual) and supplementary information (quarterly). FY3/17–21 from the supplementary history block. Regional sums differ from consolidated sales by at most ¥4mn of truncation. Regional profit is not disclosed.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY3/17",
+            "FY3/18",
+            "FY3/19",
+            "FY3/20",
+            "FY3/21",
+            "FY3/22",
+            "FY3/23",
+            "FY3/24",
+            "FY3/25",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "140301",
+              "166440",
+              "176127",
+              "168331",
+              "154748",
+              "175463",
+              "172661",
+              "171141",
+              "177688",
+              "177221"
+            ],
+            [
+              "China",
+              "43401",
+              "56872",
+              "56837",
+              "50406",
+              "63517",
+              "74986",
+              "68900",
+              "60853",
+              "79331",
+              "91947"
+            ],
+            [
+              "Asia (ex-China)",
+              "32637",
+              "42315",
+              "47849",
+              "44872",
+              "43126",
+              "53918",
+              "56182",
+              "57498",
+              "64010",
+              "72045"
+            ],
+            [
+              "America",
+              "25794",
+              "26985",
+              "28236",
+              "28001",
+              "27548",
+              "33899",
+              "42521",
+              "42839",
+              "44697",
+              "63307"
+            ],
+            [
+              "Europe",
+              "12588",
+              "15489",
+              "17255",
+              "15999",
+              "16089",
+              "20781",
+              "24257",
+              "26201",
+              "26801",
+              "27676"
+            ],
+            [
+              "Other",
+              "4291",
+              "4865",
+              "5630",
+              "5724",
+              "5689",
+              "7110",
+              "8627",
+              "9115",
+              "9458",
+              "9184"
+            ],
+            [
+              "Consolidated sales",
+              "259015",
+              "312969",
+              "331936",
+              "313337",
+              "310719",
+              "366160",
+              "373151",
+              "367649",
+              "401987",
+              "441383"
+            ],
+            [
+              "Overseas ratio (%) (calc.)",
+              "45.8",
+              "46.8",
+              "46.9",
+              "46.3",
+              "50.2",
+              "52.1",
+              "53.7",
+              "53.4",
+              "55.8",
+              "59.9"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive); FY3/17–21 from the history block (annual only), FY3/22–26 from the main block. Income statement: sales ¥259,015mn / ¥312,969mn / ¥331,936mn / ¥313,337mn / ¥310,719mn / ¥366,160mn / ¥373,151mn / ¥367,649mn / ¥401,987mn / ¥441,383mn for FY3/17–26; cost of sales ¥151,564mn / ¥178,917mn / ¥189,846mn / ¥179,751mn / ¥175,841mn / ¥199,296mn / ¥202,073mn / ¥200,272mn / ¥214,997mn / ¥235,367mn; gross profit ¥107,451mn / ¥134,052mn / ¥142,090mn / ¥133,586mn / ¥134,878mn / ¥166,864mn / ¥171,078mn / ¥167,377mn / ¥186,990mn / ¥206,016mn (margins 41.5% / 42.8% / 42.8% / 42.6% / 43.4% / 45.6% / 45.8% / 45.5% / 46.5% / 46.7%, calculated); SG&amp;A ¥80,324mn / ¥99,204mn / ¥110,216mn / ¥109,946mn / ¥107,679mn / ¥114,654mn / ¥124,463mn / ¥129,012mn / ¥140,510mn / ¥158,403mn; operating profit ¥27,127mn / ¥34,848mn / ¥31,874mn / ¥23,640mn / ¥27,199mn / ¥52,210mn / ¥46,615mn / ¥38,365mn / ¥46,480mn / ¥47,613mn. Below operating profit: non-operating income ¥511mn / ¥677mn / ¥791mn / ¥670mn / ¥678mn / ¥1,043mn / ¥2,283mn / ¥4,199mn / ¥4,701mn / ¥2,618mn; non-operating expenses ¥1,176mn / ¥846mn / ¥850mn / ¥1,065mn / ¥688mn / ¥753mn / ¥1,060mn / ¥1,299mn / ¥1,280mn / ¥1,136mn; ordinary income ¥26,462mn / ¥34,679mn / ¥31,815mn / ¥23,245mn / ¥27,189mn / ¥52,500mn / ¥47,838mn / ¥41,265mn / ¥49,901mn / ¥49,095mn. Extraordinary income was nil in most years (¥98mn in FY3/18, ¥1,015mn in FY3/25); extraordinary losses were ¥391mn / ¥261mn / ¥0mn / ¥464mn / ¥3,693mn / ¥1,426mn / ¥1,305mn / ¥2,046mn / ¥976mn / ¥597mn (the FY3/21 loss includes impairment losses of ¥3,211mn across the three segments, per the FY3/21 tanshin). Profit before income taxes was ¥26,071mn / ¥34,516mn / ¥31,815mn / ¥22,781mn / ¥23,496mn / ¥51,131mn / ¥46,533mn / ¥39,219mn / ¥49,940mn / ¥48,498mn; income taxes (current plus deferred) were ¥7,714mn / ¥8,837mn / ¥7,717mn / ¥6,250mn / ¥6,320mn / ¥13,510mn / ¥12,127mn / ¥10,965mn / ¥13,286mn / ¥7,873mn (the FY3/26 total includes the ¥4,730mn deferred-tax credit); net income (total) was ¥18,357mn / ¥25,679mn / ¥24,098mn / ¥16,531mn / ¥17,176mn / ¥37,621mn / ¥34,406mn / ¥28,254mn / ¥36,654mn / ¥40,625mn; non-controlling interests took a loss of ¥30mn in FY3/17 (owners' profit exceeds total net income) and ¥78mn / ¥64mn / ¥27mn / ¥38mn / ¥64mn / ¥124mn / ¥102mn / ¥105mn / ¥168mn thereafter, leaving owners' net income as in Chapter 1.</p>\n<p>Earnings quality — three items must be normalised before any trend is read. (1) The FY3/26 effective tax rate of 16.2% is an outlier against 26.0%–28.0% in FY3/22–24; the ¥4,730mn deferred-tax credit adds roughly ¥2,800mn to net income against a 26% rate (calculated), so <strong>the FY3/26 net-income growth of 10.7% overstates the operating trend (operating profit grew 2.4%)</strong>. (2) The FY3/21 extraordinary loss of ¥3,693mn, including ¥3,211mn of impairment, depresses that year's net income against a recovering operating line. (3) The FY3/22 sales and profit jump partly reflects the revenue-recognition standard applied from that year; the sheet preserves as-reported figures and this report does not quantify the standard's effect.</p>\n<p>Balance sheet (31 March 2026): total assets ¥464,969mn; total liabilities ¥82,460mn (calculated as total assets less net assets); net assets ¥382,509mn, of which owners' equity ¥379,832mn (equity ratio 81.7%; book value per share ¥1,433.69) and non-controlling interests ¥2,677mn (calculated as net assets less owners' equity). Cash and equivalents ¥104,202mn; receivables ¥98,520mn; inventory ¥73,437mn (finished goods, work in process and raw materials); trade payables ¥29,852mn; interest-bearing debt ¥0. Cash flow: operating cash flow ¥19,508mn / ¥24,324mn / ¥13,048mn / ¥28,218mn / ¥36,492mn / ¥55,391mn / ¥31,447mn / ¥54,567mn / ¥60,461mn / ¥52,190mn (FY3/17–26); FY3/26 investing outflow was ¥43,203mn and financing outflow ¥41,801mn (tanshin cash-flow summary). Per-share data (basic, as reported; diluted in parentheses): EPS ¥66.94 (¥64.70) / ¥91.01 (¥89.76) / ¥84.80 (¥84.48) / ¥58.18 (¥57.98) / ¥60.36 (¥60.14) / ¥132.15 (¥131.72) / ¥120.53 (¥120.18) / ¥99.75 (¥99.48) / ¥131.95 (¥131.62) / ¥149.30 (¥149.00); dividends per share ¥16.71 / ¥22.60 / ¥21.20 / ¥14.55 / ¥13.13 / ¥33.04 / ¥30.14 / ¥27.47 / ¥43.21 / ¥52.98 (payout ratios as reported in the tanshin dividend tables: 25.0% in FY3/19 and FY3/20, 25.0% in FY3/22 and FY3/23, 27.5% in FY3/24, 32.5% in FY3/25 and 35.0% in FY3/26 — the ratio has risen as earnings recovered). Shares issued: 285,221,897 at 31 March 2026 (285,309,897 at 30 September 2026), of which 20,288,824 in treasury at March 2026 (24,546,224 at September 2026); weighted average diluted shares 277.676mn in FY3/25 and 271.529mn in FY3/26 (sheet register S8; earlier years' weighted shares are in the history block: 283.717mn / 284.343mn / 284.511mn / 284.650mn / 284.967mn for FY3/17–21). Not disclosed in the tanshin and therefore not presented as history here: R&amp;D expenditure, employees, order intake and backlog, production/sales units, capacity, installed base and inventory months. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 30 April 2026; Q2 FY3/27 tanshin, 30 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — digital model, Fictiv and the next disclosure",
+      "level": "part",
+      "html": "<p>Misumi's stated strategy, repeated across the tanshin qualitative sections and the president's message, is the evolution of its business model toward 'digital monozukuri' (デジタルものつくり): use IT, logistics and manufacturing bases and a global network to remove inefficiency from manufacturing, expanding the customer base through the e-commerce platform while deepening the digital model — meviy (AI quotation from 3D CAD data), D-JIT customisation and the Economy series — and reinforcing the global, reliable, short-lead-time supply system through local production and local procurement and logistics-base expansion. The president, Arata Shimizu (in office since 1 April 2026), redefines the company's role as 'Driving Monozukuri Innovation — MISUMI Transforming Monozukuri' in the Integrated Report 2026 (published 29 October 2026), and the company completed the global rollout of its next-generation core system NEWTON in September 2026 after about six years of development, deploying it to subsidiaries in 13 countries and regions (company press release, 4 November 2026). The Q&amp;A record states that AI/DX investment is progressing as planned and will continue, with the leverage effect — core-system renewal completing, growth investments contributing, personnel investment restrained — expected from next fiscal year onward.</p>\n<p>The portfolio leg of the strategy is Fictiv Inc., the US-based digital manufacturing platform consolidated in July 2025 (goodwill of ¥41,992mn booked, per the interview pack): the synergy case is to combine Fictiv's on-demand manufacturing network with Misumi's catalogue and customer base, and the company judges progress on a pre-amortisation basis — Fictiv turned profitable on a standalone, pre-amortisation basis in Q2 FY3/27 alone, against a plan to return to profitability in FY3/27, with the full-year outlook held conservatively on seasonal factors. The Q&amp;A record also notes that, in conjunction with the medium-to-long-term growth plan, the company is preparing to disclose its thinking on capital policy, including ROE and ROIC, in a form that responds to market requests, at the time of the full-year results — which means that, as of this report, no quantified mid-term plan targets (revenue, margin, ROE or ROIC) exist in the sources used, and none is invented here. The only quantified forward figures in the sources are the FY3/27 company guidance in Chapter 2 and the ¥30,000mn buyback plan for the current year. The monitoring set that substitutes for a fuller plan, in the order the data arrives: quarterly FA sales growth and segment margin against the H1 print of +50.2% / 17.4% as the Fictiv consolidation annualises out of the comparison from Q2 FY3/27; China regional sales against the H1 pace of ¥67,363mn; VONA's margin against its H1 10.8%; the Fictiv pre-amortisation profit disclosure; the SG&amp;A ratio against the FY3/26 print of 35.9%; and Q3 FY3/27 progress — the interview pack's yardstick is 9M operating profit of roughly ¥58,000mn or more to keep the ¥78,000mn guide on a linear path (calculated). All plan figures above are company guidance or company-stated plans, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY3/26 tanshin qualitative section, 30 April 2026; Q2 FY3/27 earnings-briefing Q&amp;A excerpt, 30 October 2026; company press releases (NEWTON, 4 November 2026; Integrated Report 2026, 29 October 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History. Misumi Group Inc. is the Tokyo-based holding company of the Misumi group, listed on the Tokyo Stock Exchange Prime Market. The company states it manufactures and sells more than 40 million products worldwide through its e-commerce platform. Head office: Chiyoda-ku, Tokyo. Share capital is not stated here because the figure was not extracted from the sources used (see Basis of preparation). Source: company website (accessed November 2026); FY3/26 tanshin.</p>\n<p>Management. Representative Director and President: Arata Shimizu (清水 新) — named in that role in the FY3/26 tanshin (30 April 2026), the Q1 FY3/27 tanshin (31 July 2026) and the Q2 FY3/27 tanshin (30 October 2026), and in the company's 19 February 2026 notice of change of representative directors (effective 1 April 2026). He succeeded Ryusei Ono, who became Director and Chairman; the long-serving chairman Kosuke Nishimoto retired at the June 2026 shareholder meeting. The inquiry contact in the tanshin is Toru Takanami, Managing Executive Officer and CFO, head of the Finance Platform Hub. Shares issued: 285,221,897 at 31 March 2026 (285,309,897 at 30 September 2026), with treasury shares of 20,288,824 at March 2026 (24,546,224 at September 2026).</p>\n<p>Major shareholders. Not verified from the sources used in this report: the tanshin do not carry the major-shareholder register, and no securities-report extract was used. The major-shareholder list is therefore not presented here (未取得) and is queued for the securities-report backfill. There is no controlling shareholder disclosed in the sources used.</p>\n<p>Employees and other data. Consolidated headcount is not disclosed in the tanshin (PL/segment sheet register S9) and is not presented as company disclosure here; no third-party figure is substituted.</p>\n<p>Shareholder returns. Dividends per share were ¥16.71 / ¥22.60 / ¥21.20 / ¥14.55 / ¥13.13 / ¥33.04 / ¥30.14 / ¥27.47 / ¥43.21 / ¥52.98 across FY3/17–26 — raised in FY3/18, cut through the FY3/19–21 earnings decline, raised sharply in FY3/22, eased in FY3/23–24 and raised again in FY3/25–26; the FY3/27 forecast of ¥70.34 would be the largest single-year increase of the decade (+32.8%, calculated). The payout ratio as reported in the tanshin dividend tables was 25.0% in FY3/19, FY3/20, FY3/22 and FY3/23, 27.5% in FY3/24, 32.5% in FY3/25 and 35.0% in FY3/26; on guidance EPS of ¥199.98 the FY3/27 payout would be 35.2% (calculated). The FY3/27 dividend forecast implies a 1.8% yield at ¥3,966 (calculated). Buybacks: ¥15,909mn spent in H1 FY3/27 against a ¥30,000mn plan for the current year (president's message).</p>\n<p>Market data. The shares closed at ¥3,966 on 13 November 2026 (Finnhub; corroborated by StockAnalysis.com), giving a market capitalisation of about ¥1,034.2bn (calculated from the cited price and the 260.76mn shares excluding treasury at 30 September 2026). The 52-week range was ¥2,116 (21 November 2025) to ¥4,349 (12 November 2026) (Finnhub) — the shares had therefore risen about 46.96% year-to-date to 17 November 2026 (Finnhub) and were trading 8.8% below the 12 November high at the 13 November close (calculated); they closed at ¥3,925 on the day of the Q2 print (30 October 2026), fell 6.6% to ¥3,681 on 6 November, and fell a further 4.1% to ¥3,803 on 16 November 2026 (StockAnalysis.com history). At ¥3,966 the shares trade at 26.6x FY3/26 basic EPS of ¥149.30, 19.8x FY3/27 company-guidance EPS of ¥199.98, and 2.77x FY3/26 book value per share of ¥1,433.69 (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, scheduled for 22 January 2027 (third-party calendar estimate, StockAnalysis.com).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Misumi (9962) (J-GAAP template; March year-end; FY3/22–FY3/26 annual and 20 quarters in the main block, FY3/17–FY3/21 annual in the supplementary history block of Reported inputs rows 126+, ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (rollout log and sheet registers S1–S15, 2026-11-17). Q1 and Q2 FY3/27 figures are from the Q1 FY3/27 tanshin dated 31 July 2026 and the Q2 FY3/27 tanshin dated 30 October 2026. The Q2 FY3/27 earnings-briefing Q&amp;A excerpt (company-published, edited excerpt, 30 October 2026; English transcript in the programme's transcript library) is used for the data-centre order-backlog colour, the Fictiv profitability statement, the VONA margin explanation and the capital-policy disclosure timing; the company publishes presentation slides but no verbatim presentation transcript for this briefing, and none is cited. The interview pack for 9962 (16 November 2026) is used for the live debates and the Q3 monitoring yardsticks. Strategy text is from the FY3/26 tanshin qualitative section and the president's message on the company website. Market data are from Finnhub and StockAnalysis.com as returned by web search on 17 November 2026 and are cited with dates in the text; the dividend payment record for FY3/17, FY3/18 and FY3/21 is cross-checked between third-party payment histories (TipRanks / a2-finance) and the tanshin equity statements and is flagged as such where used.</p>\n<p>Discrepancies and basis breaks flagged (not silently resolved). (1) Revenue-recognition standard: the company applies the revenue-recognition accounting standard from FY3/22, so FY3/17–21 sales are on the pre-standard basis as originally reported; growth across the FY3/21–22 boundary is not strictly like-for-like and the sheet does not restate the history block. (2) Fictiv purchase-price allocation: the Q2 FY3/27 tanshin restates H1 FY3/26 for the finalised Fictiv PPA (tanshin note 2); the sheet's pre-restatement H1 FY3/26 operating profit is ¥19,618mn against the restated ¥19,559mn (a ¥59mn difference), and this report uses the restated figure for H1 comparisons. (3) Equity-ratio rounding: the FY3/18 tanshin text states 76.0% while its cash-flow-indicator table states 76.1%; this report uses 76.0% (185,203 / 243,685, calculated from the reported owners' equity and total assets). (4) Dividend-per-share history: FY3/19–26 and FY3/27E are from the tanshin dividend tables; FY3/17 (¥16.71) is corroborated by the FY3/18 tanshin's stock-option note (expected dividend based on the most recent one-year record) and by the interim ¥7.61 plus final ¥9.10 payment record, and FY3/18 (¥22.60) and FY3/21 (¥13.13) are from the dividend payment record (interim plus year-end payments) as compiled by third-party histories and cross-checked to the tanshin equity statements — these three years are therefore presented as company-reported totals with a third-party cross-check, not as tanshin-table extracts. (5) ROE: the tanshin headers report ROE for FY3/19, FY3/20 and FY3/22–26; FY3/17, FY3/18 and FY3/21 are calculated in this report as owners' profit over average owners' equity and are labelled calculated in Exhibit 1. (6) H1 FY3/27 regional split: the tanshin supplement discloses six regions (Japan / China / Asia / America / Europe / other); the sheet's main Regions block combines Europe &amp; other, and this report uses the six-region detail. (7) The FY3/26 tanshin's initial FY3/27 dividend forecast of ¥52.98 total (interim ¥22.07, final ¥30.91) was revised at Q1 to ¥59.45 and at Q2 to ¥70.34; all three steps are recorded. (8) The Q1 FY3/27 tanshin's H1 guidance (¥266,000mn sales / ¥35,000mn operating profit) was superseded by the Q2 actuals and is not used as a forecast.</p>\n<p>Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'Company guidance' means Misumi's published forecasts (会社計画) and 'plan targets' means published mid-term targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — R&amp;D expenditure, employees, order intake and backlog (qualitative colour only, in the Q&amp;A record), production/sales units, capacity, installed base, inventory months, regional profit, segment assets and liabilities, and the major-shareholder register — are described as not disclosed rather than estimated. The company's share capital (¥mn) was not extracted from the sources used and is not stated in Chapter 8. KPI history in this report covers ten years (FY3/17–FY3/26) from the PL/segment sheet, matching the Shared Research reference standard; the FY3/17–21 block is annual-only with no quarters. Calculated figures (market cap, P/E, P/B, yield, CCC days, H2 implied figures, Q2 standalone figures, CAGRs and payout on guidance) are labelled calculated at first use.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
