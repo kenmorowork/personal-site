@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "editorReportId": 65,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Event Flash",
+  "dateDisplay": "2026年11月23日",
+  "dateISO": "2026-11-23",
+  "sectorLine": "Global Equity Research",
+  "companyName": "NVIDIA Corporation (NVDA)",
+  "headlineHtml": "Huang reinstated: <strong>board restores the founder-CEO with immediate effect, unanimously</strong> — the governance trigger of the November rout is lifted, the investigation is not closed",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "US$125.53",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Close, Fri 20 Nov 26",
+      "value": "US$125.53, −14.01% on the day",
+      "asOf": "Finnhub"
+    },
+    {
+      "label": "Pre-market, Mon 23 Nov",
+      "value": "US$136.08, +8.40% vs Fri close",
+      "asOf": "Finnhub, 23 Nov 26"
+    },
+    {
+      "label": "After-hours, Fri 20 Nov",
+      "value": "US$130.01, +3.57%",
+      "asOf": "Finnhub"
+    },
+    {
+      "label": "52-week high",
+      "value": "US$243.37 (6 Oct 26); −48% from the high",
+      "asOf": "Finnhub"
+    },
+    {
+      "label": "Market cap",
+      "value": "≈US$3.0tn",
+      "asOf": "20 Nov 26"
+    },
+    {
+      "label": "Q3 FY27 revenue (17 Nov)",
+      "value": "US$115.8bn; Q4 guide US$130bn ±3%",
+      "asOf": ""
+    },
+    {
+      "label": "Next events",
+      "value": "Dell Q3 — 24 Nov (US); Tokyo reopen — Tue 24 Nov",
+      "asOf": ""
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Under review:",
+  "ledeHtml": "We keep our rating and price target for NVIDIA under review. Twelve days after accepting Jensen Huang's resignation, the board has reinstated him as President, CEO and director with immediate effect. <strong>In our view, this removes the governance trigger of the November rout — it does not close the file: the independent investigation continues, and the accounting-examination reporting that fed the sell-off is untouched by today's release</strong>.",
+  "bullets": [
+    {
+      "leadHtml": "Huang is back, effective immediately.",
+      "html": "The board voted <strong>unanimously</strong> to reinstate Jensen Huang as President, Chief Executive Officer and as a member of the board, effective immediately (release dated Mon 23 Nov; announced 13:58 UTC / 22:58 JST). The move reverses the resignation the board accepted on 11 Nov and announced on 12 Nov."
+    },
+    {
+      "leadHtml": "The board's stated basis: candor, and Washington.",
+      "html": "The board said it was satisfied with respect to Huang's <strong>candor and ability to lead NVIDIA</strong> after a series of discussions and meetings with him. It also received input from senior levels of the United States government and, based on that input, is confident the reinstatement poses <strong>no national security risk</strong>."
+    },
+    {
+      "leadHtml": "Kress returns to CFO only; Jones stays chair.",
+      "html": "Colette Kress, who served as interim CEO from 12 Nov, continues as Chief Financial Officer. <strong>Harvey C. Jones remains board chair</strong> — the separation of chair and CEO put in place on 12 Nov is kept."
+    },
+    {
+      "leadHtml": "What stays open: the investigation runs on.",
+      "html": "The independent committee's investigation into reporting that Huang has been the target of a foreign intelligence effort <strong>will proceed to conclusion</strong>; Huang fully supports it and is cooperating. A National Security and Export Control Committee of independent directors was formed on 17 Nov, the company is searching for a new Chief Compliance Officer, and it continues to cooperate with ongoing government investigations."
+    },
+    {
+      "leadHtml": "First market verdict: pre-market +8.40%.",
+      "html": "NVDA closed Friday 20 Nov at <strong>US$125.53, down 14.01% on the day and 48% below the 6 Oct high of US$243.37</strong> (market cap ≈US$3.0tn). Friday after-hours trade recovered to US$130.01 (+3.57%); Monday pre-market stood at <strong>US$136.08 (+8.40%)</strong> — the first priced reaction to the reinstatement."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "heading": "What happened",
+      "level": "section",
+      "html": "<p>NVIDIA announced on Monday 23 November that Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the board, effective immediately. The board's vote was unanimous.</p>\n<p>The sequence is short and complete: Huang resigned with immediate effect (board acceptance 11 Nov, announcement 12 Nov); CFO Colette Kress served as interim CEO, delivering the Q3 FY27 print on 17 Nov — revenue of US$115.8bn against guidance of US$108.0bn ±2%, with Q4 guided to US$130.0bn ±3%; and on 23 Nov the board restored the founder-CEO, twelve days after his departure. Harvey C. Jones, who became the company's first board chair on 12 Nov, remains chair; Kress returns to the CFO role alone.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Why the board acted",
+      "level": "section",
+      "html": "<p>The release gives three grounds. First, process: the decision followed a series of discussions and meetings with Huang, after which the board was satisfied with respect to his candor and his ability to lead the company. Second, Washington: in reaching its decision the board received input from senior levels of the United States government, and on that basis is confident the reinstatement poses no national security risk. Third, judgement: in the chair's words, the board believes 'Jensen is the right person to lead NVIDIA', and that the reinstatement is in the best interests of stockholders, employees, partners and customers.</p>\n<p><strong>Our reading (a view, not a fact in the release): the government input is the load-bearing element</strong>. The resignation was entangled with reporting about a foreign intelligence effort targeting Huang; a board could not reverse itself on that file without an external all-clear, and the release is drafted to record that one was obtained.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "What remains open",
+      "level": "section",
+      "html": "<p>Today's release closes the succession question. It does not close three other files.</p>\n<p>First, the investigation: the committee of independent directors formed after the foreign-intelligence reporting, assisted by independent counsel, <strong>will proceed to conclusion</strong>, with Huang's stated full support and cooperation. Its findings — and any personnel or control consequences — are still ahead. Second, the compliance build-out: the National Security and Export Control Committee (independent directors, formed 17 Nov) is engaging specialist counsel and advisors, and the search for a new Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee, has begun. Third, the company states it will continue to cooperate with ongoing government investigations and inquiries.</p>\n<p>Separately — and not addressed by this release at all — the <strong>reported SEC examination into potential accounting issues</strong>, which Reuters reporting brought to the market in the past week and which coincided with the steepest leg of the sell-off, remains an open headline risk. Nothing in the reinstatement speaks to it.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Market reaction",
+      "level": "section",
+      "html": "<p>The stock's starting point matters. NVDA closed Friday 20 Nov at US$125.53, <strong>down 14.01% on the day and 48% below the 6 Oct 2026 high of US$243.37</strong>, with a market capitalisation of roughly US$3.0tn (Finnhub). The November decline was, in the framework this desk has used throughout, a multiple compression on governance and positioning rather than a revision to estimates — Q3 estimates were beaten on 17 Nov while the shares kept falling.</p>\n<p>The first priced reaction to the reinstatement is positive but partial: after-hours trade on Friday had already recovered to US$130.01 (+3.57%), and Monday pre-market stood at US$136.08, +8.40% versus Friday's close (Finnhub). Even a hold at that level leaves the shares roughly 44% below the October high. <strong>Our view: the reinstatement removes the governance trigger of the rout, not its other channels</strong> — the SEC accounting-examination reporting and the AI-capex / corporate-credit transmission channel are unchanged by it. Tokyo was closed on Monday 23 Nov (Labour Thanksgiving Day), so the Japanese read-across — the AI data-centre supply chain in our coverage — prices the news at Tuesday's reopen.</p>",
+      "figures": [
+        {
+          "id": "f1",
+          "number": "Table 1",
+          "titleHtml": "NVDA price markers around the reinstatement",
+          "sourceHtml": "Finnhub, 20–23 Nov 2026.",
+          "kind": "table",
+          "columns": [
+            "Marker",
+            "US$",
+            "Note"
+          ],
+          "rows": [
+            [
+              "52-week high (6 Oct 26)",
+              "243.37",
+              "Pre-rout peak"
+            ],
+            [
+              "Close, Fri 20 Nov",
+              "125.53",
+              "−14.01% on the day"
+            ],
+            [
+              "After-hours, Fri 20 Nov",
+              "130.01",
+              "+3.57%"
+            ],
+            [
+              "Pre-market, Mon 23 Nov",
+              "136.08",
+              "+8.40% vs Fri close"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What to watch next",
+      "level": "section",
+      "html": "<p>Four watchpoints, in the order they arrive.</p>\n<p>1) <strong>Tonight's US close (Mon 23 Nov) versus the US$130–136 zone</strong>: whether the regular session holds the pre-market gain or fades it is the market's real verdict on how much of the governance discount has actually been lifted. 2) <strong>SEC follow-ups</strong>: any further reporting or company comment on the reported accounting examination is now the lead overhang. 3) <strong>Dell Technologies' fiscal Q3, 24 Nov (US)</strong>: the next demand-side read on AI server momentum for the wider complex. 4) <strong>The Tokyo reopen, Tue 24 Nov</strong>: how the AIDC chain in our coverage retraces, against Nikkei futures that stood at ¥54,600 on Saturday morning.</p>\n<p>Beyond this week, the committee investigation's conclusion and the Chief Compliance Officer appointment are the two dated governance milestones. We will revisit the rating once the investigation file closes and the shares have a settled post-reinstatement trading range.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [
+    {
+      "date": "2026-11-23T16:41:25.569Z",
+      "rating": "Under Review",
+      "price": 125.53,
+      "target": null
+    }
+  ],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

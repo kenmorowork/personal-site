@@ -49,6 +49,12 @@
             "en"
           ]
         },
+        "rating": {
+          "type": "string"
+        },
+        "targetPrice": {
+          "type": "string"
+        },
         "$schema": {
           "type": "string"
         }

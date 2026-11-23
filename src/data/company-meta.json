@@ -1,0 +1,306 @@
+{
+ "nvidia": {
+  "nameJa": "エヌビディア",
+  "marketJa": "ナスダック",
+  "marketEn": "NASDAQ"
+ },
+ "fujikura": {
+  "nameJa": "フジクラ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "advantech": {
+  "nameJa": "研華(アドバンテック)",
+  "marketJa": "台湾証券取引所",
+  "marketEn": "TWSE"
+ },
+ "tsugami": {
+  "nameJa": "ツガミ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "dmg-mori": {
+  "nameJa": "DMG森精機",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "fanuc": {
+  "nameJa": "ファナック株式会社",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "amada": {
+  "nameJa": "アマダ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "okuma": {
+  "nameJa": "オークマ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "fuji": {
+  "nameJa": "FUJI",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "sodick": {
+  "nameJa": "ソディック",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "keyence": {
+  "nameJa": "キーエンス",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "yaskawa-electric": {
+  "nameJa": "安川電機",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "smc": {
+  "nameJa": "SMC",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "harmonic-drive-systems": {
+  "nameJa": "ハーモニック・ドライブ・システムズ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "ryohin-keikaku": {
+  "nameJa": "良品計画",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "kanadevia": {
+  "nameJa": "カナデビア",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "screen-holdings": {
+  "nameJa": "SCREENホールディングス",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "lasertec": {
+  "nameJa": "レーザーテック",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "thk": {
+  "nameJa": "THK",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "omron": {
+  "nameJa": "オムロン",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "kawasaki-heavy-industries": {
+  "nameJa": "川崎重工業",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "misumi-group": {
+  "nameJa": "ミスミグループ本社",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "komatsu": {
+  "nameJa": "小松製作所",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "kubota": {
+  "nameJa": "クボタ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "mitsubishi-heavy-industries": {
+  "nameJa": "三菱重工業",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "ihi": {
+  "nameJa": "IHI",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "mitsubishi-electric": {
+  "nameJa": "三菱電機",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "ebara": {
+  "nameJa": "荏原製作所",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "daikin-industries": {
+  "nameJa": "ダイキン工業",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "disco": {
+  "nameJa": "ディスコ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "nidec": {
+  "nameJa": "ニデック",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "union-tool": {
+  "nameJa": "ユニオンツール",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "makita": {
+  "nameJa": "マキタ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "horiba": {
+  "nameJa": "堀場製作所",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "minebeamitsumi": {
+  "nameJa": "ミネベアミツミ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "daifuku": {
+  "nameJa": "ダイフク",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "ricoh-company": {
+  "nameJa": "リコー",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "sekisui-chemical": {
+  "nameJa": "積水化学工業",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "rasa-industries": {
+  "nameJa": "ラサ工業",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "keeper": {
+  "nameJa": "KeePer技研",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "west-holdings": {
+  "nameJa": "ウエストホールディングス",
+  "marketJa": "東証スタンダード",
+  "marketEn": "TSE Standard",
+  "jpxMarketRaw": "スタンダード（内国株式）"
+ },
+ "hitachi": {
+  "nameJa": "日立製作所",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "tokyo-electron": {
+  "nameJa": "東京エレクトロン",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "advantest": {
+  "nameJa": "アドバンテスト",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "nabtesco": {
+  "nameJa": "ナブテスコ",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "nsk": {
+  "nameJa": "日本精工",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "ntn": {
+  "nameJa": "NTN",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "jtekt": {
+  "nameJa": "ジェイテクト",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "sumitomo-electric-industries": {
+  "nameJa": "住友電気工業",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "furukawa-electric": {
+  "nameJa": "古河電気工業",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "tdk": {
+  "nameJa": "TDK",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ }
+}

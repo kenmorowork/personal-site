@@ -1,9 +1,16 @@
-import { createChart, AreaSeries } from 'lightweight-charts';
+import { createChart, AreaSeries, LineStyle } from 'lightweight-charts';
 import type { LineData, Time } from 'lightweight-charts';
 
 interface Close {
   time: string;
   value: number;
+}
+
+/** Navy of the site palette; lightened on the dark theme. */
+function targetColor() {
+  return document.documentElement.classList.contains('dark')
+    ? '#8fb0dd'
+    : '#0a2e5c';
 }
 
 /**
@@ -47,8 +54,13 @@ document
     if (!payloadEl || !canvas) return;
 
     let closes: Close[] = [];
+    let target: number | null = null;
     try {
-      closes = JSON.parse(payloadEl.textContent || '{}').closes ?? [];
+      const parsed = JSON.parse(payloadEl.textContent || '{}');
+      closes = parsed.closes ?? [];
+      if (typeof parsed.target === 'number' && parsed.target > 0) {
+        target = parsed.target;
+      }
     } catch {
       return;
     }
@@ -58,7 +70,7 @@ document
     const chart = createChart(canvas, {
       ...theme.chart,
       autoSize: true,
-      height: 280,
+      height: Number(canvas.dataset.height) || 280,
     });
 
     const series = chart.addSeries(AreaSeries, {
@@ -70,6 +82,20 @@ document
     series.setData(
       closes.map((c) => ({ ...c, time: c.time as Time })) as LineData<Time>[],
     );
+
+    // Optional dashed target-price line (company pages with a stated
+    // J-Core target). Report pages pass no target and stay plain.
+    const priceLine =
+      target !== null
+        ? series.createPriceLine({
+            price: target,
+            color: targetColor(),
+            lineWidth: 1,
+            lineStyle: LineStyle.Dashed,
+            axisLabelVisible: true,
+            title: '',
+          })
+        : null;
     chart.timeScale().fitContent();
 
     // Re-theme when the site's dark-mode toggle flips the .dark class.
@@ -77,6 +103,7 @@ document
       const t = themeOptions();
       chart.applyOptions(t.chart);
       series.applyOptions(t.series);
+      priceLine?.applyOptions({ color: targetColor() });
     }).observe(document.documentElement, {
       attributes: true,
       attributeFilter: ['class'],

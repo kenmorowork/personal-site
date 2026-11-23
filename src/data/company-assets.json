@@ -1,0 +1,226 @@
+{
+ "advantech": {
+  "logo": "logo.svg"
+ },
+ "advantest": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Kugel, Wikimedia Commons, Public domain"
+ },
+ "amada": {
+  "logo": "logo.svg"
+ },
+ "daifuku": {
+  "logo": "logo.svg"
+ },
+ "daikin-industries": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Wikimedia Commons"
+ },
+ "disco": {
+  "logo": "logo.svg"
+ },
+ "dmg-mori": {
+  "logo": "logo.jpg",
+  "photo": "photo.jpg",
+  "photoCredit": "Lombroso, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "ebara": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Aimaimyi, Wikimedia Commons, CC BY-SA 3.0"
+ },
+ "fanuc": {
+  "logo": "logo.png",
+  "photo": "photo.jpg",
+  "photoCredit": "Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "fuji": {
+  "logo": "logo.jpg",
+  "photo": "photo.jpg",
+  "photoCredit": "アラツク, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "fujikura": {
+  "logo": "logo.svg"
+ },
+ "furukawa-electric": {
+  "logo": "logo.jpg"
+ },
+ "harmonic-drive-systems": {
+  "logo": "logo.png"
+ },
+ "hitachi": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "horiba": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "BrianAdler, Wikimedia Commons, Public domain"
+ },
+ "ihi": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Lombroso, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "jtekt": {
+  "logo": "logo.svg"
+ },
+ "kanadevia": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Tokumeigakarinoaoshima, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "kawasaki-heavy-industries": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "keeper": {
+  "logo": "logo.png",
+  "photo": "photo.jpg",
+  "photoCredit": "運動会プロテインパワー, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "keyence": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "W236, Wikimedia Commons, CC BY 3.0"
+ },
+ "komatsu": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "妖精書士, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "kubota": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Tokumeigakarinoaoshima, Wikimedia Commons, CC0"
+ },
+ "lasertec": {
+  "logo": "logo.png"
+ },
+ "makita": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Asturio Cantabrio, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "minebeamitsumi": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "misumi-group": {
+  "logo": "logo.png"
+ },
+ "mitsubishi-electric": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "mitsubishi-heavy-industries": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "nabtesco": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Kentin, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "nidec": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "J o, Wikimedia Commons, CC BY-SA 3.0"
+ },
+ "nsk": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Dwight Burdette, Wikimedia Commons, CC BY 3.0"
+ },
+ "ntn": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Tokumeigakarinoaoshima, Wikimedia Commons, CC0"
+ },
+ "nvidia": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Wikimedia Commons"
+ },
+ "okuma": {
+  "logo": "logo.png",
+  "photo": "photo.jpg",
+  "photoCredit": "Amaze 123, Wikimedia Commons, CC BY-SA 3.0"
+ },
+ "omron": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "J o, Wikimedia Commons, CC BY-SA 3.0"
+ },
+ "ricoh-company": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "ryohin-keikaku": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Asanagi, Wikimedia Commons, CC0"
+ },
+ "screen-holdings": {
+  "logo": "logo.jpg",
+  "photo": "photo.jpg",
+  "photoCredit": "J o, Wikimedia Commons, CC BY-SA 3.0"
+ },
+ "sekisui-chemical": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "アラツク, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "smc": {
+  "logo": "logo.svg"
+ },
+ "sodick": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "与謝野鋼管, Wikimedia Commons, CC0"
+ },
+ "sumitomo-electric-industries": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Nkns, Wikimedia Commons, CC BY-SA 3.0"
+ },
+ "tdk": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "散歩, Wikimedia Commons, Public domain"
+ },
+ "thk": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Novcira, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "tokyo-electron": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "tsugami": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "Rebirth10, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "union-tool": {
+  "logo": "logo.svg"
+ },
+ "west-holdings": {
+  "logo": "logo.png"
+ },
+ "yaskawa-electric": {
+  "logo": "logo.svg",
+  "photo": "photo.jpg",
+  "photoCredit": "そらみみ (Soramimi), Wikimedia Commons, CC BY-SA 4.0"
+ }
+}

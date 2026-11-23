@@ -1,0 +1,486 @@
+---
+import CompanyChart from './CompanyChart.astro';
+
+/**
+ * Company page in the shape Ken approved with the Fanuc MVP
+ * (fanuc-company-page-mvp.html v2): logo, name, ticker / sector /
+ * market line, photo; a market band with price, rating, target price
+ * and performance; a plain share-price chart with the target-price
+ * line; then the report history, unchanged from the previous pages.
+ *
+ * Elements only — no summary paragraphs, no extra cards. Palette:
+ * white / light gray / charcoal with one accent, deep navy #0a2e5c.
+ * Rating and target cells render only where a published J-Core
+ * report actually states them (otherwise the coverage is
+ * Under Review and the cells are omitted, never invented).
+ */
+interface CompanyRec {
+  slug: string;
+  name: string;
+  nameJa: string;
+  ticker: string;
+  sector: string;
+}
+
+interface Close {
+  time: string;
+  value: number;
+}
+
+interface Props {
+  lang: 'ja' | 'en';
+  company: CompanyRec;
+  nameJa: string;
+  market: string;
+  price: { price: number; currency: string; asOf: string } | null;
+  marketCap: number | null;
+  rating: string | null;
+  target: number | null;
+  ratingReportDate: Date | null;
+  closes: Close[];
+  chartFrom: string;
+  chartTo: string;
+  chartSymbol: string;
+  logoFile: string | null;
+  photoFile: string | null;
+  photoCredit: string | null;
+  history: any[];
+}
+
+const p = Astro.props as Props;
+const isJa = p.lang === 'ja';
+const { company } = p;
+
+const primaryName = isJa ? p.nameJa : company.name;
+const secondaryName = isJa ? company.name.toUpperCase() : p.nameJa;
+const assetBase = `/company-assets/${company.slug}`;
+
+// ---------- formatting ----------
+const group = (n: number, dp = 0) =>
+  n.toLocaleString('en-US', {
+    minimumFractionDigits: dp,
+    maximumFractionDigits: dp,
+  });
+const fmtPrice = (v: number, currency: string): string => {
+  if (currency === 'USD') return `$${group(v, 2)}`;
+  if (currency === 'TWD') return `NT$${group(v)}`;
+  const s = Number.isInteger(v) ? group(v) : group(v, 1);
+  return `¥${s}`;
+};
+const fmtDate = (iso: string): string => {
+  const d = new Date(iso + 'T00:00:00');
+  if (isJa)
+    return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+  return d.toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+};
+const fmtPct = (x: number, dp: number): string => {
+  const sign = x > 0 ? '+' : x < 0 ? '−' : '';
+  return `${sign}${Math.abs(x).toFixed(dp)}%`;
+};
+const pctClass = (x: number) => (x < 0 ? 'cp-neg' : x > 0 ? 'cp-pos' : '');
+const fmtCap = (v: number, currency: string): string => {
+  const sym = currency === 'USD' ? '$' : currency === 'TWD' ? 'NT$' : '¥';
+  if (isJa) {
+    if (v >= 1e12) return `${sym}${(v / 1e12).toFixed(2)}兆`;
+    return `${sym}${group(Math.round(v / 1e8))}億`;
+  }
+  if (v >= 1e12) return `${sym}${(v / 1e12).toFixed(2)}tn`;
+  return `${sym}${(v / 1e9).toFixed(1)}bn`;
+};
+
+// ---------- derived numbers ----------
+const closes = p.closes;
+const lastClose = closes.length ? closes[closes.length - 1] : null;
+const prevClose = closes.length > 1 ? closes[closes.length - 2] : null;
+const currency = p.price?.currency ?? 'JPY';
+const priceNow = p.price?.price ?? lastClose?.value ?? null;
+const asOf = p.price?.asOf ?? lastClose?.time ?? null;
+
+const dayChange =
+  lastClose && prevClose
+    ? (lastClose.value / prevClose.value - 1) * 100
+    : null;
+
+const perfAt = (months: number): number | null => {
+  if (!lastClose) return null;
+  const d = new Date(lastClose.time + 'T00:00:00');
+  d.setMonth(d.getMonth() - months);
+  const cut = d.toISOString().slice(0, 10);
+  let ref: Close | null = null;
+  for (const c of closes) {
+    if (c.time <= cut) ref = c;
+    else break;
+  }
+  if (!ref || ref.value === 0) return null;
+  return (lastClose.value / ref.value - 1) * 100;
+};
+const perf1m = perfAt(1);
+const perf3m = perfAt(3);
+
+const upside =
+  p.target != null && priceNow
+    ? (p.target / priceNow - 1) * 100
+    : null;
+
+// ---------- report history (unchanged from the previous pages) ----------
+const fmtHistDate = (d: Date) =>
+  isJa
+    ? `${d.getFullYear()}/${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getDate()).padStart(2, '0')}`
+    : d.toLocaleDateString('en-GB', {
+        day: 'numeric',
+        month: 'short',
+        year: 'numeric',
+      });
+const badgeOf = (e: any): string => {
+  if (e.id.includes('results')) return isJa ? '決算' : 'Results';
+  if (e.data.type === 'initiation') return isJa ? 'イニシエーション' : 'Initiation';
+  return isJa ? 'アップデート' : 'Update';
+};
+
+// ---------- footnote ----------
+const footParts: string[] = [];
+if (asOf) {
+  footParts.push(
+    isJa
+      ? `株価は${fmtDate(asOf)}終値（Yahoo Finance）。`
+      : `Share price is the close on ${fmtDate(asOf)} (Yahoo Finance).`,
+  );
+}
+if (p.marketCap != null) {
+  footParts.push(
+    isJa
+      ? '時価総額は、終値に発行済株式数（J-Core バリュエーションDB）を掛けて計算しています。'
+      : 'Market capitalisation is the closing price multiplied by shares outstanding (J-Core Valuation DB).',
+  );
+}
+if (p.rating && p.ratingReportDate) {
+  footParts.push(
+    isJa
+      ? `レーティングと目標株価は、J-Core Fundamental Research のレポート（${fmtDate(p.ratingReportDate.toISOString().slice(0, 10))}）に基づきます。`
+      : `Rating and target price are from the J-Core Fundamental Research report of ${fmtDate(p.ratingReportDate.toISOString().slice(0, 10))}.`,
+  );
+}
+if (p.photoFile && p.photoCredit) {
+  footParts.push(
+    isJa ? `写真は${p.photoCredit}。` : `Photo: ${p.photoCredit}.`,
+  );
+}
+---
+
+<div class="cp">
+  <div class="cp-head">
+    <div class="cp-head-left">
+      {
+        p.logoFile && (
+          <img
+            class="cp-logo"
+            src={`${assetBase}/${p.logoFile}`}
+            alt={company.name}
+          />
+        )
+      }
+      <div class="cp-name">{primaryName}</div>
+      <div class="cp-name-sub">{secondaryName}</div>
+      <div class="cp-meta">
+        <span>{company.ticker}</span><span>{company.sector}</span><span
+          >{p.market}</span
+        >
+      </div>
+    </div>
+    {
+      p.photoFile && (
+        <img
+          class="cp-photo"
+          src={`${assetBase}/${p.photoFile}`}
+          alt={primaryName}
+        />
+      )
+    }
+  </div>
+
+  <hr class="cp-rule" />
+
+  <div class="cp-band">
+    <div class="cp-cell">
+      <div class="cp-label">PRICE</div>
+      <div class="cp-big">
+        {priceNow != null ? fmtPrice(priceNow, currency) : '—'}
+      </div>
+      {
+        dayChange != null && asOf && (
+          <div class="cp-sub">
+            <span class={pctClass(dayChange)}>{fmtPct(dayChange, 2)}</span>
+            {isJa
+              ? `　前日比（${fmtDate(asOf)}終値）`
+              : ` vs previous close (${fmtDate(asOf)})`}
+          </div>
+        )
+      }
+      {
+        p.marketCap != null && (
+          <div class="cp-sub">
+            {isJa ? '時価総額 ' : 'Market cap '}
+            {fmtCap(p.marketCap, currency)}
+          </div>
+        )
+      }
+    </div>
+
+    {
+      p.rating && (
+        <div class="cp-cell">
+          <div class="cp-label">RATING</div>
+          <div class="cp-big">{p.rating}</div>
+          <div class="cp-sub">J-Core Fundamental Research</div>
+        </div>
+      )
+    }
+
+    {
+      p.target != null && (
+        <div class="cp-cell">
+          <div class="cp-label">TARGET PRICE</div>
+          <div class="cp-big">{fmtPrice(p.target, currency)}</div>
+          {upside != null && (
+            <div class="cp-sub">
+              {isJa
+                ? upside >= 0
+                  ? '上昇余地 '
+                  : '下落余地 '
+                : upside >= 0
+                  ? 'Upside '
+                  : 'Downside '}
+              <span class={pctClass(upside)}>{fmtPct(upside, 1)}</span>
+            </div>
+          )}
+        </div>
+      )
+    }
+
+    <div class="cp-cell">
+      <div class="cp-label">PERFORMANCE</div>
+      <div class="cp-perf">
+        <div>
+          <div class="cp-p-label">{isJa ? '1カ月' : '1M'}</div>
+          <div class={`cp-p-val ${perf1m != null ? pctClass(perf1m) : ''}`}>
+            {perf1m != null ? fmtPct(perf1m, 1) : '—'}
+          </div>
+        </div>
+        <div>
+          <div class="cp-p-label">{isJa ? '3カ月' : '3M'}</div>
+          <div class={`cp-p-val ${perf3m != null ? pctClass(perf3m) : ''}`}>
+            {perf3m != null ? fmtPct(perf3m, 1) : '—'}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {
+    closes.length > 0 && (
+      <CompanyChart
+        lang={p.lang}
+        closes={closes}
+        from={p.chartFrom}
+        to={p.chartTo}
+        symbolLabel={`${company.name} (${p.chartSymbol})`}
+        target={p.target}
+        targetText={p.target != null ? fmtPrice(p.target, currency) : null}
+      />
+    )
+  }
+
+  {footParts.length > 0 && <div class="cp-foot">{footParts.join('')}</div>}
+
+  <section class="mt-12">
+    <h2 class="font-display text-xl font-semibold tracking-tight">
+      {isJa ? 'レポート履歴' : 'Report history'}
+    </h2>
+    {
+      p.history.length > 0 ? (
+        <ul class="mt-4 divide-y divide-neutral-200 border-y border-neutral-200 dark:divide-neutral-800 dark:border-neutral-800">
+          {p.history.map((e: any) => (
+            <li>
+              <a
+                href={e.data.externalUrl}
+                class="group flex items-baseline gap-3 px-1 py-3"
+              >
+                <span class="shrink-0 rounded-full border border-neutral-300 px-2 py-0.5 text-[11px] font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300">
+                  {badgeOf(e)}
+                </span>
+                <span class="shrink-0 text-sm whitespace-nowrap text-neutral-500 tabular-nums dark:text-neutral-400">
+                  {fmtHistDate(e.data.date)}
+                </span>
+                <span class="font-medium underline-offset-4 group-hover:underline">
+                  {e.data.title}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="mt-4 text-sm text-neutral-500 dark:text-neutral-400">
+          {isJa
+            ? 'この会社のレポートはまだありません。'
+            : 'No reports for this company yet.'}
+        </p>
+      )
+    }
+  </section>
+</div>
+
+<style>
+  /* Fanuc MVP (v2) geometry and palette, scoped to the company page. */
+  .cp-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 48px;
+  }
+  .cp-head-left {
+    padding-top: 6px;
+  }
+  .cp-logo {
+    height: 30px;
+    width: auto;
+    display: block;
+  }
+  :global(.dark) .cp-logo {
+    background: rgba(255, 255, 255, 0.94);
+    border-radius: 3px;
+    padding: 3px 6px;
+    height: 36px;
+  }
+  .cp-name {
+    margin-top: 22px;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1.3;
+  }
+  .cp-name-sub {
+    margin-top: 4px;
+    font-size: 13px;
+    color: #6f6f6f;
+    letter-spacing: 0.04em;
+  }
+  .cp-meta {
+    margin-top: 14px;
+    font-size: 12.5px;
+    color: #6f6f6f;
+    letter-spacing: 0.06em;
+  }
+  .cp-meta span + span::before {
+    content: '·';
+    margin: 0 10px;
+    color: #c4c4c4;
+  }
+  .cp-photo {
+    width: 330px;
+    max-width: 42%;
+    height: auto;
+    display: block;
+  }
+  .cp-rule {
+    border: none;
+    border-top: 2px solid #0a2e5c;
+    margin-top: 28px;
+  }
+  .cp-band {
+    display: flex;
+    margin-top: 34px;
+    border-top: 1px solid #e3e3e3;
+    border-bottom: 1px solid #e3e3e3;
+  }
+  .cp-cell {
+    flex: 1;
+    padding: 22px 28px 24px 0;
+  }
+  .cp-cell + .cp-cell {
+    border-left: 1px solid #e3e3e3;
+    padding-left: 28px;
+  }
+  .cp-label {
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    color: #8a8a8a;
+    font-weight: 600;
+  }
+  .cp-big {
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.15;
+  }
+  .cp-sub {
+    margin-top: 6px;
+    font-size: 12.5px;
+    color: #6f6f6f;
+    font-variant-numeric: tabular-nums;
+  }
+  .cp-neg {
+    color: #9e4a48;
+  }
+  .cp-pos {
+    color: #57785c;
+  }
+  .cp-perf {
+    display: flex;
+    gap: 34px;
+    margin-top: 10px;
+  }
+  .cp-p-label {
+    font-size: 11px;
+    color: #8a8a8a;
+    letter-spacing: 0.08em;
+  }
+  .cp-p-val {
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 3px;
+    font-variant-numeric: tabular-nums;
+  }
+  .cp-foot {
+    margin-top: 34px;
+    border-top: 1px solid #e3e3e3;
+    padding-top: 14px;
+    font-size: 11px;
+    line-height: 1.7;
+    color: #9a9a9a;
+  }
+  :global(.dark) .cp-band,
+  :global(.dark) .cp-cell + .cp-cell,
+  :global(.dark) .cp-foot {
+    border-color: #262626;
+  }
+  :global(.dark) .cp-name-sub,
+  :global(.dark) .cp-meta,
+  :global(.dark) .cp-sub {
+    color: #a3a3a3;
+  }
+  @media (max-width: 760px) {
+    .cp-head {
+      flex-direction: column;
+      gap: 24px;
+    }
+    .cp-photo {
+      max-width: 100%;
+      width: 100%;
+    }
+    .cp-band {
+      flex-wrap: wrap;
+    }
+    .cp-cell {
+      flex: 1 1 42%;
+    }
+    .cp-cell + .cp-cell {
+      border-left: none;
+      padding-left: 0;
+    }
+  }
+</style>

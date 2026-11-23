@@ -1,0 +1,91 @@
+---
+/**
+ * Company-page share price chart: one plain area series of daily
+ * closes (Yahoo Finance), with a dashed target-price line when the
+ * company's coverage states a J-Core target. Rendering is done by
+ * src/scripts/price-chart.ts (shared with the report-page chart).
+ */
+interface Close {
+  time: string;
+  value: number;
+}
+
+interface Props {
+  lang: 'ja' | 'en';
+  closes: Close[];
+  from: string;
+  to: string;
+  symbolLabel: string; // e.g. "TDK (6762.T)"
+  target?: number | null;
+  targetText?: string | null; // formatted target, for the source line
+}
+
+const { lang, closes, from, to, symbolLabel, target, targetText } =
+  Astro.props as Props;
+const isJa = lang === 'ja';
+
+const label = isJa ? 'SHARE PRICE — 株価' : 'SHARE PRICE';
+const sourceLine = isJa
+  ? `出典：Yahoo Finance — ${symbolLabel} 日次終値、${from}〜${to}`
+  : `Source: Yahoo Finance — ${symbolLabel} daily closes, ${from} to ${to}`;
+const targetNote =
+  target != null && targetText
+    ? isJa
+      ? `点線は目標株価 ${targetText}です。`
+      : `Dashed line: target price ${targetText}.`
+    : null;
+const payload = JSON.stringify({
+  closes,
+  ...(target != null ? { target } : {}),
+});
+---
+
+<div class="cp-chart">
+  <div class="cp-chart-label">{label}</div>
+  <div data-price-chart>
+    <script
+      type="application/json"
+      data-price-chart-payload
+      set:html={payload}
+    />
+    <div data-price-chart-canvas data-height="320" class="h-[320px] w-full"></div>
+  </div>
+  <p class="cp-source">
+    {sourceLine}
+    {targetNote && <span> {targetNote}</span>}
+  </p>
+  <p class="cp-source">
+    Chart by
+    <a href="https://www.tradingview.com/" target="_blank" rel="noopener"
+      >TradingView</a
+    >
+    Lightweight Charts™
+  </p>
+</div>
+
+<style>
+  .cp-chart {
+    margin-top: 38px;
+  }
+  .cp-chart-label {
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    color: #8a8a8a;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .cp-source {
+    margin-top: 8px;
+    font-size: 11px;
+    line-height: 1.7;
+    color: #9a9a9a;
+  }
+  .cp-source a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+</style>
+
+<script>
+  import '../scripts/price-chart.ts';
+</script>
