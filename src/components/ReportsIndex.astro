@@ -65,18 +65,25 @@ const total = items.length;
 ---
 
 <h1 class="font-display text-3xl font-semibold tracking-tight">
-  {isJa ? 'リサーチレポート（J-Core）' : 'Research Reports (J-Core)'}
+  J-Core Fundamental Research
 </h1>
 
-<p class="mt-4 leading-relaxed text-neutral-600 dark:text-neutral-300">
+<p class="mt-2 text-lg font-medium text-neutral-700 dark:text-neutral-200">
+  {isJa ? 'リサーチレポート一覧' : 'Research Reports'}
+</p>
+
+<p class="mt-3 leading-relaxed text-neutral-600 dark:text-neutral-300">
   {
     isJa
-      ? `J-Core Fundamental Researchのリサーチレポート一覧です。全${total}本を新しい順に並べています。各レポートは一次統計と企業開示をもとに作成し、投資推奨（買い・売り）は行いません。行を選ぶと全文が開きます。`
-      : `The research library of J-Core Fundamental Research: all ${total} reports, newest first. Every report is built from primary statistics and company disclosures, and no investment recommendations (buy/sell) are made. Select a report to read the full text.`
+      ? `全${total}本を新しい順に並べています。各レポートは一次統計と企業開示をもとに作成し、投資推奨（買い・売り）は行いません。行を選ぶと全文が開きます。`
+      : `All ${total} reports, newest first. Every report is built from primary statistics and company disclosures, and no investment recommendations (buy/sell) are made. Select a report to read the full text.`
   }
 </p>
 
-<div class="mt-8 flex flex-wrap items-center gap-3">
+<div
+  class="mt-8 rounded-xl border border-neutral-200 bg-neutral-50/95 p-4 backdrop-blur md:sticky md:top-14 md:z-30 dark:border-neutral-800 dark:bg-neutral-900/95"
+>
+<div class="flex flex-wrap items-center gap-3">
   <input
     id="report-search"
     type="search"
@@ -116,9 +123,10 @@ const total = items.length;
   </button>
 </div>
 
-<p id="report-count" class="mt-4 text-sm text-neutral-500 dark:text-neutral-400">
+<p id="report-count" class="mt-3 text-sm font-medium text-neutral-600 dark:text-neutral-300">
   {isJa ? `全${total}件中 ${total}件を表示` : `${total} of ${total} reports`}
 </p>
+</div>
 
 <ul class="mt-2 divide-y divide-neutral-200 dark:divide-neutral-800">
   {
@@ -131,10 +139,10 @@ const total = items.length;
       >
         <a
           href={entry.data.externalUrl}
-          class="-mx-3 block rounded-lg px-3 py-4 hover:bg-neutral-50 dark:hover:bg-neutral-900"
+          class="group -mx-3 block rounded-lg px-3 py-5 transition-colors hover:bg-neutral-100 dark:hover:bg-neutral-900"
         >
           <span class="flex flex-wrap items-center gap-x-3 gap-y-1">
-            <span class="font-semibold">{entry.data.company}</span>
+            <span class="text-base font-semibold">{entry.data.company}</span>
             {entry.data.ticker && entry.data.ticker !== '—' && (
               <span class="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300">
                 {entry.data.ticker}
@@ -156,13 +164,13 @@ const total = items.length;
               {fmt(entry.data.date)}
             </time>
           </span>
-          <span class="mt-1.5 block leading-snug font-medium">{entry.data.title}</span>
+          <span class="mt-1.5 block leading-snug font-semibold underline-offset-4 group-hover:underline">{entry.data.title}</span>
           {summary && (
-            <span class="mt-1 line-clamp-2 block text-sm leading-relaxed text-neutral-500 dark:text-neutral-400">
+            <span class="mt-1 line-clamp-2 block text-sm leading-relaxed text-neutral-600 dark:text-neutral-300">
               {summary}
             </span>
           )}
-          <span class="mt-2 block text-xs tracking-wide text-neutral-500 dark:text-neutral-400">
+          <span class="mt-2.5 inline-block rounded-full bg-neutral-100 px-2.5 py-0.5 text-xs font-medium tracking-wide text-neutral-600 dark:bg-neutral-900 dark:text-neutral-300">
             {entry.data.sector}
           </span>
         </a>

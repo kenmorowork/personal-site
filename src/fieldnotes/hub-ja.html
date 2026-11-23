@@ -363,14 +363,16 @@
 .fn-sitemap-list a:hover{text-decoration:underline;text-underline-offset:2px}
 @media (min-width:760px){.fn-sitemap-list{columns:3}}
 </style><style>
-/* kenmorozumi.com copy only: full-width layout, no left/right margins (2026-11-23) */
-body .wrap,body .rpt-hvac .wrap,body .rpt-hvacv .wrap{max-width:none!important;margin-left:0!important;margin-right:0!important}
-body .fn-view{max-width:none!important;margin-left:0!important;margin-right:0!important}
-body .rpt-plc :is(main.standard-report,main.standard-directory,main.standard-coverage){max-width:none!important;margin-left:0!important;margin-right:0!important}
-body .rpt-vc main{max-width:none!important;margin-left:0!important;margin-right:0!important}
-body .rpt-mtv,body .rpt-hvacv,body .rpt-hvac,body .rpt-pump,body .rpt-comp,body .rpt-valve{max-width:none!important;margin-left:0!important;margin-right:0!important}
-body .rpt-stats .rpt-grid{max-width:none!important;margin-left:0!important;margin-right:0!important}
-body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:none!important;margin-left:0!important;margin-right:0!important}
+/* kenmorozumi.com copy only: standard site container (max-w-6xl = 72rem, centred,
+   1.5rem side padding) — same width as every other page (unified 2026-11-23) */
+body .wrap,body .rpt-hvac .wrap,body .rpt-hvacv .wrap{max-width:72rem!important;margin-left:auto!important;margin-right:auto!important}
+body .wrap{padding-left:1.5rem!important;padding-right:1.5rem!important}
+body .fn-view{max-width:72rem!important;margin-left:auto!important;margin-right:auto!important}
+body .rpt-plc :is(main.standard-report,main.standard-directory,main.standard-coverage){max-width:72rem!important;margin-left:auto!important;margin-right:auto!important}
+body .rpt-vc main{max-width:72rem!important;margin-left:auto!important;margin-right:auto!important}
+body .rpt-mtv,body .rpt-hvacv,body .rpt-hvac,body .rpt-pump,body .rpt-comp,body .rpt-valve{max-width:72rem!important;margin-left:auto!important;margin-right:auto!important}
+body .rpt-stats .rpt-grid{max-width:72rem!important;margin-left:auto!important;margin-right:auto!important}
+body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:72rem!important;margin-left:auto!important;margin-right:auto!important}
 </style>
     <script>
       // Apply the saved (or system) colour scheme before first paint (same as Base.astro).
