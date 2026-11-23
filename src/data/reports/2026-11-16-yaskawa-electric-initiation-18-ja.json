@@ -1,0 +1,655 @@
+{
+  "version": 1,
+  "editorReportId": 18,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "2026年11月16日",
+  "dateISO": "2026-11-16",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Yaskawa Electric Corporation (6506)",
+  "headlineHtml": "Record orders, an ERP hangover and <strong>a plan to double profit</strong>: initiation on the servo and MOTOMAN franchise at the start of Dash 35",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥3,180",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥907.6bn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥3,350 – ¥7,915",
+      "asOf": "13 Nov 2026 (Finnhub via search results)"
+    },
+    {
+      "label": "P/E (FY2/26 basic EPS ¥135.88)",
+      "value": "23.4x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY2/27E co. guidance EPS ¥183.11)",
+      "value": "17.4x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY2/27E dividend (company forecast)",
+      "value": "¥72 / share (1.9% yield)",
+      "asOf": "Q2 FY2/27 tanshin, 9 Oct 2026"
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY2/27 results, early Jan 2027",
+      "asOf": "Third-party calendar estimate (Finnhub), Nov 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "The motion-control core inside everyone else's automation:",
+  "ledeHtml": "Yaskawa Electric Corporation (6506, TSE Prime and Fukuoka) is the Kitakyushu-based factory-automation group built on 'electric motors and their applications': it claims the leading global position in AC servo motors and controllers, sells inverters (AC drives) worldwide, and is one of the 'big four' industrial-robot makers with its MOTOMAN brand, organised in three reportable segments — Motion Control, Robotics and System Engineering — plus a small Other (logistics). The initiation question is whether a demand supercycle now visible in orders can be converted into the profit recovery the new mid-term plan promises. The demand evidence is strong: <strong>quarterly order intake hit a record ¥185.4bn in Q2 FY2/27 (+38% YoY</strong>, company briefing materials, October 2026), driven by data-centre and semiconductor capex, and full-year FY2/27 guidance was revised on 9 October 2026 to revenue of ¥600,000mn (+10.7% YoY). Strengths: (1) a component franchise with genuine technology depth — Yaskawa coined 'mechatronics' in 1969, makes the servos, controllers and robots as one system under its i³-Mechatronics concept, and supplies motion components to the wider industry, not only to its own robots; (2) breadth of the current upcycle — H1 FY2/27 Motion Control revenue rose 21.7% YoY with growth in every region, and overseas revenue reached 75.2% of the total (briefing materials); (3) a solid balance sheet (equity ratio attributable to owners 59.5% at February 2026) and a rising dividend (¥68 in FY2/26 to a forecast ¥72 in FY2/27). Weaknesses: (1) profitability has fallen for three consecutive years — the operating margin compressed from 12.3% in FY2/23 to 8.7% in FY2/26 and ROE to 7.7%, as volume fell and then costs, wages and depreciation rose faster than added value; (2) earnings quality needs care — FY2/25 profit before tax of ¥78,454mn included a one-off gain of ¥26,777mn on the sale and revaluation of associate investments, so the reported FY2/25 profit growth was not operating; (3) execution is currently impaired by the group's own systems change — a new core (ERP) system disrupted production and shipments in H1 FY2/27, Robotics profit fell 43.3% YoY in the half, and full-year operating-profit guidance was cut to ¥57,500mn even as revenue guidance was raised. Against that record, the new mid-term plan 'Dash 35' (announced 22 May 2026) <strong>targets revenue of ¥650,000mn and a record operating profit of ¥100,000mn (15.4% margin) by FY2/30 — more than double FY2/26 operating profit</strong>. All historical figures in this report are as reported by the company (IFRS) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "Record orders, led by Motion Control.",
+      "html": "Consolidated order intake in Q2 FY2/27 (June–August 2026) was ¥185.4bn, which the company describes as <strong>a record-high quarterly intake, +38% YoY and +13% QoQ</strong>, following ¥163.8bn in Q1 (+29% YoY); <strong>Motion Control orders rose 56% YoY in Q2</strong> on data-centre and semiconductor demand. Orders are disclosed in briefing materials, not in the tanshin. Source: FY2026 1H financial results briefing materials (company, October 2026)."
+    },
+    {
+      "leadHtml": "Guidance: revenue up, operating profit down — read the revision correctly.",
+      "html": "At Q2 FY2/27 (9 October 2026) the company raised FY2/27 revenue guidance from ¥580,000mn to ¥600,000mn but <span class=\"rt-red\">cut operating-profit guidance from ¥60,000mn to ¥57,500mn</span>, while lifting profit before tax to ¥65,500mn and net income to owners to ¥47,500mn (basic EPS ¥183.11). H1 delivered 47.6% of guided revenue but only 38.4% of guided operating profit, so the year depends on H2 normalisation of production and shipments after the ERP disruption. Source: Q2 FY2/27 tanshin, 9 October 2026; company briefing materials, October 2026."
+    },
+    {
+      "leadHtml": "Strength — the servo core is compounding again.",
+      "html": "Motion Control was 43.5% of FY2/26 revenue and is the growth engine of the current cycle: H1 FY2/27 <strong>segment revenue was ¥137,286mn (+21.7% YoY) and segment profit ¥15,973mn (+32.8%), an 11.6% margin</strong>, with AC servo and controller sales up in every region on semiconductor, electronic-components and machine-tool demand, and drives lifted by data-centre, semiconductor-equipment and oil &amp; gas sales. Source: Q2 FY2/27 tanshin segment note, 9 October 2026."
+    },
+    {
+      "leadHtml": "Weakness — three years of margin erosion, and FY2/25 flattered by a one-off.",
+      "html": "Group operating profit fell from ¥68,301mn (FY2/23) to ¥47,307mn (FY2/26); the SG&amp;A ratio rose from 23.8% to 26.9% of revenue over the same period. FY2/25 is the trap year for screens: operating profit fell 24.3% to ¥50,156mn, yet profit before tax rose 13.6% to ¥78,454mn because of <strong>a ¥26,777mn gain on the sale and revaluation of associate investments</strong> recorded in Q3 FY2/25 below operating profit. Underlying FY2/25 earnings declined. Source: company results via PL/segment sheet (tanshin, JPX archive)."
+    },
+    {
+      "leadHtml": "The plan asks for a step-change: Dash 35 targets ¥100bn of operating profit by FY2/30.",
+      "html": "The long-term plan 'Vision 2035' and first mid-term plan 'Dash 35' (FY2/27–FY2/30, announced 22 May 2026) target FY2/30 revenue of ¥650,000mn, <strong>operating profit of ¥100,000mn (15.4% margin, a record high)</strong>, ROE of 12% or more, ROIC of 11% or more and a dividend payout ratio of 40% or more, with physical AI — centred on the adaptive AI robot MOTOMAN NEXT — as the growth frontier. These are company plan targets, not J-Core Fundamental Research estimates. Source: company release 'New Long-term Business Plan Vision 2035 and New Mid-term Business Plan Dash 35', 22 May 2026."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY2/17–FY2/26 actuals and FY2/27E company guidance",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive); FY2/27E = company guidance as revised in the Q2 FY2/27 tanshin, 9 Oct 2026. EPS is basic EPS as reported in the tanshin headers (sheet-calculated diluted EPS is marginally lower — see Basis of preparation). ROE as reported in the tanshin headers. FY2/25 profit before tax and EPS include the ¥26,777mn one-off gain on sale/revaluation of associate investments. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY2/17",
+          "FY2/18",
+          "FY2/19",
+          "FY2/20",
+          "FY2/21",
+          "FY2/22",
+          "FY2/23",
+          "FY2/24",
+          "FY2/25",
+          "FY2/26",
+          "FY2/27E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "394883",
+            "448523",
+            "474638",
+            "410957",
+            "389712",
+            "479082",
+            "555955",
+            "575658",
+            "537682",
+            "542122",
+            "600000"
+          ],
+          [
+            "Revenue growth (%)",
+            "—",
+            "—",
+            "5.8",
+            "-13.4",
+            "-5.2",
+            "22.9",
+            "16",
+            "3.5",
+            "-6.6",
+            "0.8",
+            "10.7"
+          ],
+          [
+            "Operating profit",
+            "30409",
+            "54126",
+            "49766",
+            "24198",
+            "27180",
+            "52860",
+            "68301",
+            "66225",
+            "50156",
+            "47307",
+            "57500"
+          ],
+          [
+            "Operating margin (%)",
+            "7.7",
+            "12.1",
+            "10.5",
+            "5.9",
+            "7",
+            "11",
+            "12.3",
+            "11.5",
+            "9.3",
+            "8.7",
+            "9.6"
+          ],
+          [
+            "Profit before tax",
+            "29910",
+            "53556",
+            "54163",
+            "24642",
+            "27172",
+            "55378",
+            "71134",
+            "69078",
+            "78454",
+            "49563",
+            "65500"
+          ],
+          [
+            "Net income to owners",
+            "20397",
+            "39749",
+            "41164",
+            "15572",
+            "18927",
+            "38354",
+            "51783",
+            "50687",
+            "56987",
+            "35240",
+            "47500"
+          ],
+          [
+            "Basic EPS (¥)",
+            "76.6",
+            "149.3",
+            "155.9",
+            "59.4",
+            "72.4",
+            "146.7",
+            "198.1",
+            "193.9",
+            "218.6",
+            "135.9",
+            "183.1"
+          ],
+          [
+            "Dividend per share (¥)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "52",
+            "64",
+            "64",
+            "68",
+            "68",
+            "72"
+          ],
+          [
+            "ROE (%)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "14.3",
+            "16.2",
+            "13.6",
+            "13.7",
+            "7.7",
+            "—"
+          ],
+          [
+            "Operating cash flow",
+            "33752",
+            "46054",
+            "32832",
+            "21480",
+            "39602",
+            "49233",
+            "-2209",
+            "54619",
+            "56505",
+            "52170",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Yaskawa reports under IFRS with a February year-end; fiscal years below are labelled by the February in which they end (FY2/26 = year ended 28 February 2026; FY2/27 = year ending 28 February 2027). The ten-year record is as reported in the company's tanshin (earnings releases) filed in the JPX disclosure archive, compiled in the PL/segment sheet for 6506 (FY2/17–FY2/26 actuals plus 20 quarters; all template checks equal zero). Figures are ¥mn unless stated.</p>\n<p>The preceding five years span two accounting bases and a year-end change, and are labelled accordingly in Exhibit 1: FY2/17–FY2/19 are Japanese GAAP as originally reported, FY2/20–FY2/21 are IFRS (FY2/20 from the IFRS first-adoption reissue tanshin of 28 May 2020), FY2/17 is the last March year-end and FY2/18 is an eleven-month transitional year (April 2017 – February 2018) whose figures are as reported and not annualised. Revenue was ¥394,883mn in FY2/17, ¥448,523mn in the eleven-month FY2/18 and ¥474,638mn in FY2/19, then fell to ¥410,957mn in FY2/20 (−13.4%) and ¥389,712mn in FY2/21 (−5.2%) — the FY2/21 trough sits below every year of the recent five-year record above. Operating profit followed the same arc in amplified form: ¥30,409mn in FY2/17 (7.7% margin), a peak of ¥54,126mn in FY2/18 (12.1%), ¥49,766mn in FY2/19 (10.5%), then ¥24,198mn in FY2/20 (5.9%) and ¥27,180mn in FY2/21 (7.0%). By segment, <strong>Motion Control was the largest profit contributor in every one of the five years</strong> (segment profit ¥22,772mn / ¥41,729mn / ¥33,907mn / ¥19,227mn / ¥24,576mn), Robotics second (¥10,253mn / ¥17,761mn / ¥17,298mn / ¥5,639mn / ¥6,907mn), and System Engineering was loss-making in three of the five years (−¥591mn in FY2/17, −¥3,794mn in FY2/18 and −¥1,030mn in FY2/21). Net income attributable to owners was ¥20,397mn / ¥39,749mn / ¥41,164mn / ¥15,572mn / ¥18,927mn across FY2/17–FY2/21.</p>\n<p>Revenue rose from ¥479,082mn in FY2/22 to ¥555,955mn in FY2/23 (+16.0% YoY) and a record ¥575,658mn in FY2/24 (+3.5%), then fell to ¥537,682mn in FY2/25 (−6.6%) as the post-COVID order backlog normalised and China and European demand stayed weak, before recovering only modestly to ¥542,122mn in FY2/26 (+0.8%). Operating profit peaked earlier and has fallen since: ¥52,860mn (11.0% margin) in FY2/22, ¥68,301mn (12.3%) in FY2/23, ¥66,225mn (11.5%) in FY2/24, ¥50,156mn (9.3%) in FY2/25 and ¥47,307mn (8.7%) in FY2/26. The anatomy of the decline matters: gross margin was broadly stable (35.2% / 34.5% / 36.3% / 35.6% / 35.3% across FY2/22–26), so the compression came below gross profit — the SG&amp;A ratio rose from 24.3% of revenue in FY2/22 to 26.9% in FY2/26 (SG&amp;A of ¥145,905mn in FY2/26, up in absolute terms in a year when revenue rose only 0.8%), reflecting wage increases, depreciation from the recent investment wave and indirect-cost growth that the company itself cites in its H1 FY2/27 commentary.</p>\n<p>Below operating profit, two lines dominate the recent history. Share of profit of associates and joint ventures fell from ¥4,406mn in FY2/24 to ¥2,792mn in FY2/25 and ¥766mn in FY2/26. Other investing income was negligible in every year except FY2/25, when it was ¥26,778mn — of which ¥26,777mn in Q3 FY2/25 alone was a gain on the sale and revaluation of associate investments (see Chapter 6 for the earnings-quality discussion). As a result, profit before tax was ¥55,378mn in FY2/22, ¥71,134mn in FY2/23, ¥69,078mn in FY2/24, a reported peak of ¥78,454mn in FY2/25 and ¥49,563mn in FY2/26; excluding the FY2/25 one-off, the pre-tax trend follows operating profit down. Net income attributable to owners of the parent was ¥38,354mn / ¥51,783mn / ¥50,687mn / ¥56,987mn / ¥35,240mn over the five years. Basic EPS as reported in the tanshin headers was ¥146.72 / ¥198.07 / ¥193.87 / ¥218.62 / ¥135.88 (the PL/segment sheet calculates diluted EPS of ¥146.63 / ¥197.90 / ¥193.69 / ¥218.38 / ¥135.71; this report uses basic EPS and flags the basis where it matters). ROE (profit attributable to owners over average owners' equity, as reported) was 14.3% / 16.2% / 13.6% / 13.7% / 7.7% — the FY2/25 figure itself flattered by the one-off gain, and FY2/26 the weakest of the five years.</p>\n<p>The balance sheet strengthened through the profit decline. Total assets were ¥812,365mn and total equity ¥493,615mn at 28 February 2026 (equity attributable to owners ¥483,542mn; owners' equity ratio 59.5%; book value per share ¥1,864.31). Operating cash flow was ¥49,233mn in FY2/22, negative ¥2,209mn in FY2/23 (the working-capital build of the order boom), then ¥54,619mn / ¥56,505mn / ¥52,170mn in FY2/24–26. Inventory is the stock to watch: ¥210,764mn at end-FY2/26, which the company expresses as 4.5 months of revenue (briefing materials, revenue basis); on the sheet's cost-of-sales basis the same stock is about 7.3 months — the two figures use different denominators and are not interchangeable. Interest-bearing debt on the sheet's definition (current borrowings plus non-current bonds and borrowings) was ¥110,029mn at end-FY2/26; the company reports ¥124,900mn including lease obligations (briefing materials), a D/E ratio of 0.26x. The full KPI table, including FY2/27 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY2/22–FY2/26; briefing-material items are cited as such.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Yaskawa Electric Corporation — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/c1.svg",
+          "alt": "Yaskawa Electric Corporation — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Yaskawa Electric Corporation — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/c2.svg",
+          "alt": "Yaskawa Electric Corporation — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Yaskawa Electric Corporation — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/c3.svg",
+          "alt": "Yaskawa Electric Corporation — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Yaskawa Electric Corporation — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/v1.svg",
+          "alt": "Yaskawa Electric Corporation — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — Q2 FY2/27 results and guidance",
+      "level": "part",
+      "html": "<p>Yaskawa reported Q2 FY2/27 (H1, 1 March–31 August 2026) results on 9 October 2026. Note on naming: the company's English materials label this fiscal year 'FY2026' (the year ending February 2027); this report uses the February year-end convention throughout (FY2/27). This chapter summarises the release; segment detail is in Chapter 5 and order detail in Chapters 2 and 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY2/27 results (cumulative, as reported)",
+      "level": "section",
+      "html": "<p>Revenue was ¥285,598mn (+9.8% YoY), operating profit ¥22,058mn (−5.5%), profit before tax ¥25,963mn (+3.0%) and net income attributable to owners of the parent ¥18,988mn (+4.1%); H1 basic EPS was ¥73.21. The split between the halves of the half is informative: Q1 FY2/27 standalone (March–May 2026) printed revenue of ¥138,982mn (+10.6% YoY) and operating profit of ¥8,486mn (−19.2%), so Q2 standalone (June–August 2026, derived as H1 minus Q1, both as reported) contributed revenue of about ¥146,616mn and operating profit of about ¥13,572mn — a sequential recovery as production and shipments normalised. The profit decline on higher revenue has three company-stated causes: the new core (ERP) system introduced to strengthen the management base disrupted production and shipments; indirect expenses increased; and temporary expenses for business structural reform in Europe were recorded. Profit before tax rose despite lower operating profit because equity-method investment income increased (¥1,992mn recognised in H1 per the cash-flow statement, against ¥165mn a year earlier) alongside net financial income. The company's H1 operating-profit bridge (briefing materials) quantifies the tug-of-war: foreign exchange +¥4.6bn and volume +¥3.6bn against added value −¥0.6bn (including the ERP production impact), total expenses −¥6.3bn (wages and depreciation) and 'other' −¥2.7bn (European restructuring expenses and the absence of prior-year other income).</p>\n<p>Demand, by contrast, was the strongest in the company's history on the order measure it discloses in briefing materials: consolidated orders were ¥163.8bn in Q1 FY2/27 (+29% YoY) and <strong>a record ¥185.4bn in Q2 (+38% YoY, +13% QoQ)</strong>, with Motion Control orders +48% YoY in Q1 and +56% in Q2, and <strong>Q2 AC servo orders +76% YoY</strong>. Management attributes the intake to AI-related investment — data centres and semiconductors — with general-industry automation demand also firm; by region in Q2, orders rose in every location, led by the Americas (+60% YoY) and Asia ex-China (+53%). Average exchange rates in H1 were USD/JPY 159.82, EUR/JPY 184.91, CNY/JPY 23.48 and KRW/JPY 0.108, all weaker-yen than a year earlier (Q2 FY2/27 tanshin).</p>\n<p>The balance sheet at 31 August 2026: total assets ¥842,833mn (+¥30,467mn vs February 2026), total equity ¥514,590mn, owners' equity ratio 59.8%. H1 operating cash flow was ¥45,628mn (prior-year H1: ¥15,804mn) on improved receivables collection; investing outflow was ¥29,642mn, including ¥27,286mn of tangible and intangible asset purchases and ¥3,736mn for an acquisition involving a change in consolidation scope; financing outflow was ¥12,776mn, including a ¥10,000mn bond redemption, ¥15,007mn of new long-term borrowing and ¥8,861mn of dividends. Cash and equivalents ended the half at ¥66,083mn; free cash flow (operating plus investing) was ¥15,985mn per the company. Two capacity milestones were completed in the half: full-scale operation of Robot Factory No. 5 in Kitakyushu, which integrates AC servo and robot production and uses the AI robot MOTOMAN NEXT in a decentralised cell system, and of the System Engineering factory at the Minamiyukuhashi plant (briefing materials). Source: Q2 FY2/27 tanshin, 9 October 2026 (JPX archive); FY2026 1H briefing materials (company, October 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance: revenue raised, operating profit cut",
+      "level": "section",
+      "html": "<p>Full-year FY2/27 guidance, as revised in the Q2 release of 9 October 2026, is revenue ¥600,000mn (+10.7% YoY), operating profit ¥57,500mn (+21.5%), profit before tax ¥65,500mn (+32.2%), net income to owners ¥47,500mn (+34.8%) and basic EPS ¥183.11 — company guidance, not a J-Core Fundamental Research forecast. The revision is mixed and should not be summarised as a simple upgrade: against the initial guidance of 10 April 2026, revenue was raised by ¥20,000mn (+3.4%) on the weaker yen, but <strong>operating profit was cut by ¥2,500mn (−4.2%)</strong> to reflect the H1 ERP impact on production and shipments, while profit before tax (+¥500mn) and net income (+¥500mn) were raised slightly. Assumed H2 exchange rates were revised to USD/JPY 155, EUR/JPY 180, CNY/JPY 22.00 and KRW/JPY 0.107 (from 145 / 170 / 20.50 / 0.105). The dividend forecast was left unchanged at ¥72 per share (interim ¥36, year-end ¥36), a forecast payout ratio of 39.3% (briefing materials).</p>\n<p>Segment guidance (briefing materials, October 2026) shows where the year is expected to be made: Motion Control revenue ¥290,300mn and operating profit ¥39,400mn (13.6% margin) — both the revenue and the profit centre of the year, though the profit figure was cut from ¥42,000mn in April; Robotics revenue ¥251,000mn and operating profit ¥17,800mn (7.1%), cut from ¥21,000mn; System Engineering revenue ¥41,200mn and operating profit ¥5,600mn, raised from ¥3,200mn; Other revenue ¥17,500mn and operating profit ¥1,500mn; eliminations and corporate −¥6,700mn. Against guidance, H1 progress was 47.6% on revenue and 38.4% on operating profit, so delivery requires a strong H2: implied H2 operating profit of ¥35,442mn is 61% above the H1 print, predicated on normalised supply after the ERP transition, conversion of the record order intake, and the H2 measures the company lists — expanding U1000 matrix-converter production and sales for data-centre HVAC and server cooling, a Vietnam PCB supply base for Motion Control, added semiconductor-robot capacity, and package deployment of MOTOMAN NEXT validation results with partners. Exhibit 3 sets out the H1 segment actuals and the full-year segment guidance. Source: Q2 FY2/27 tanshin, 9 October 2026; FY2026 1H briefing materials (company, October 2026).</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. H1 FY2/27 segment results and FY2/27 company guidance by segment",
+          "sourceHtml": "H1 FY2/27: Q2 FY2/27 tanshin segment note, 9 Oct 2026 (external revenue basis). FY2/27 guidance by segment: company FY2026 1H briefing materials, Oct 2026 (briefing-material figures; consolidated guidance per Q2 FY2/27 tanshin).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "H1 FY2/27 revenue",
+            "H1 FY2/27 profit",
+            "FY2/27E revenue (guidance)",
+            "FY2/27E profit (guidance)"
+          ],
+          "rows": [
+            [
+              "Motion Control",
+              "137286",
+              "15973",
+              "290300",
+              "39400"
+            ],
+            [
+              "Robotics",
+              "118404",
+              "5974",
+              "251000",
+              "17800"
+            ],
+            [
+              "System Engineering",
+              "20778",
+              "3480",
+              "41200",
+              "5600"
+            ],
+            [
+              "Other",
+              "9128",
+              "575",
+              "17500",
+              "1500"
+            ],
+            [
+              "Adjustment / corporate",
+              "—",
+              "-3944",
+              "—",
+              "-6700"
+            ],
+            [
+              "Consolidated",
+              "285598",
+              "22058",
+              "600000",
+              "57500"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Yaskawa Electric is headquartered in Kitakyushu, Fukuoka Prefecture, and listed in Tokyo and Fukuoka. Since its founding in 1915 the group has defined its domain as 'electric motors and their applications', and today organises itself around three core technologies — motion control, power conversion and robotics — delivered through three reportable segments plus Other. The segment definitions below are the company's own (Q2 FY2/27 tanshin, segment note): Motion Control develops, manufactures, sells and services AC servo motors, control devices and inverters; Robotics develops, manufactures, sells and services industrial robots and related products; System Engineering develops, manufactures, sells and services industrial automation drives and social (infrastructure) systems. Segment profit is on an operating-profit basis. In FY2/26 the mix was Motion Control 43.5% of revenue, Robotics 45.6%, System Engineering 7.1% and Other 3.7% (external revenue basis, PL/segment sheet).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Motion Control: AC servos, controllers and drives",
+      "level": "section",
+      "html": "<p>Motion Control has two businesses. The AC servo motor and controller business sells the servo systems — motors, amplifiers (the Σ (Sigma) series is the flagship line) and machine controllers such as the new MPX1310 series — that position machine tools, semiconductor and electronic-components equipment, and robots themselves; Yaskawa states it holds the leading global share in AC servo motors and controllers, and cumulative AC servo shipments reached 20 million units in 2020 (company materials via PitchBook company profile, accessed November 2026). The drives (inverter) business sells AC drives including the GA700 series, PV (solar) inverters — the Enewell-SOL line — and the U1000 matrix converter, whose harmonic-suppression characteristics are currently winning data-centre HVAC and server-cooling orders in the US (briefing materials). Financially this is the group's highest-quality segment at scale: revenue of ¥227,260mn / ¥252,126mn / ¥260,035mn / ¥238,752mn / ¥236,053mn across FY2/22–26 with segment profit of ¥38,161mn / ¥36,193mn / ¥38,198mn / ¥23,005mn / ¥24,384mn — margins of 16.8% / 14.4% / 14.7% / 9.6% / 10.3%. The FY2/25 margin halving, on an 8.2% revenue decline, is the clearest operating-leverage evidence in the group, and <strong>the FY2/27 guidance margin of 13.6% is the single most important number in the recovery case</strong>. One comparability point is essential: from Q1 FY2/25, solar power conditioners were moved from System Engineering into Motion Control as part of a reorganisation of the System Engineering business, and prior-year figures in the company's releases were restated onto the new basis — the PL/segment sheet captures segment history on the basis disclosed in each period's documents, so long series should be read with that break in mind (see Chapter 5). Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY2/27 tanshin segment note; FY2/25 tanshin qualitative section.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Robotics: MOTOMAN, from arc welding to AI robots",
+      "level": "section",
+      "html": "<p>Robotics sells industrial robots under the MOTOMAN brand — arc- and spot-welding robots (for example the MOTOMAN-AR series), painting robots, handling robots, semiconductor wafer-transfer robots, biomedical robots, the HC-series collaborative robots and, most recently, the MOTOMAN NEXT series of adaptive AI robots, controlled by the YRM controller line. The lineage is the company's founding claim in robotics: the MOTOMAN-L10 of 1977 was Japan's first all-electric industrial robot, and cumulative MOTOMAN shipments reached 500,000 units in February 2021 (company release). Applications remain anchored in automotive (welding and handling systems) but the growth mix has shifted to semiconductor robots (strong in China in H1 FY2/27), general industry, food, pharmaceuticals/cosmetics and 3C, and now to previously hard-to-automate tasks addressed by MOTOMAN NEXT — mixed-case palletising and food-topping automation are the two customer deployments the company showcased in its H1 FY2/27 materials. Revenue was ¥178,670mn / ¥223,829mn / ¥234,680mn / ¥237,413mn / ¥247,012mn across FY2/22–26 — Robotics became the largest segment by revenue in FY2/25 — but profit moved the other way: ¥17,248mn / ¥26,126mn / ¥25,149mn / ¥23,751mn / ¥20,418mn, margins of 9.7% / 11.7% / 10.7% / 10.0% / 8.3%. The company attributed the FY2/25 decline to lower plant utilisation and advance investment to strengthen systems capability, and H1 FY2/27 added Japan ERP disruption and European restructuring costs (segment profit −43.3% YoY in the half). <strong>Robotics is therefore the segment where volume recovery has not yet become profit recovery</strong> — and where the Dash 35 physical-AI strategy must prove itself. Source: company results via PL/segment sheet (tanshin, JPX archive); company materials, accessed November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "System Engineering and Other",
+      "level": "section",
+      "html": "<p>System Engineering is the project business: electrical systems for steel plants, port-crane systems, water supply and sewage systems, and industrial automation drives, sold largely as engineered projects with lumpy revenue recognition. It is small — revenue of ¥52,265mn / ¥51,111mn / ¥55,455mn / ¥38,352mn / ¥38,744mn across FY2/22–26 — and its history carries the segment-basis break described above: the FY2/25 revenue fall of 30.8% is partly the removal of solar power conditioners to Motion Control (restated comparisons in the company's own releases show a smaller underlying decline) and partly genuinely weak project flow. Profitability has, unusually, improved as the segment shrank: segment profit of ¥2,126mn / ¥2,574mn / ¥5,637mn / ¥4,605mn / ¥4,989mn, margins of 4.1% / 5.0% / 10.2% / 12.0% / 12.9%, and H1 FY2/27 continued the pattern (revenue +11.2% YoY on port-crane sales; profit +79.5% on project-margin improvement). FY2/27 guidance of ¥5,600mn of segment profit would be a five-year high. Other — principally logistics services — contributed revenue of ¥20,311mn and profit of ¥1,988mn in FY2/26. Corporate and elimination adjustments were −¥4,472mn in FY2/26 (principally basic-research and unallocated corporate costs, per the segment note). Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY2/27 tanshin.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Technology frame: mechatronics, i³-Mechatronics and physical AI; production",
+      "level": "section",
+      "html": "<p>Yaskawa's strategic vocabulary is unusually consistent over decades, and it maps directly onto the product architecture. 'Mechatronics' — mechanism plus electronics — was coined inside the company by engineer Tetsuro Mori in 1969 (trademark registered 1972) for the idea of controlling mechanical devices precisely with electric power. The current solution concept, i³-Mechatronics, adds digital data management to that base: the three 'i's are integrated, intelligent and innovative, and the commercial claim is that because Yaskawa makes the servo, the controller and the robot, it can collect and use production data across the cell to solve customer problems — quality, traceability, labour shortage — rather than selling components alone. Vision 2035 (May 2026) extends this to 'i³-Singularity' — i³-Mechatronics combined with AI — and defines physical AI as realising use cases in areas where automation was traditionally difficult by integrating Yaskawa products with AI, embodied in the MOTOMAN NEXT AI robot; the company is also developing actuators aimed at humanoid-robot applications and ran field deployment of a MOTOMAN NEXT strawberry sorting and packaging solution in H2 FY2/27 planning (briefing materials). Production is centred on Kitakyushu (the Yukuhashi and, from 2026, Robot Factory No. 5 and the Minamiyukuhashi System Engineering factory) with manufacturing and sales bases worldwide; the group cites business hubs in 29 countries and production bases in 12 countries (company profile materials). Unit production volumes, capacity and utilisation are not disclosed in the tanshin and are therefore not quantified in this report. Source: company history and plan materials (Yaskawa Global Site; Vision 2035 / Dash 35 release, 22 May 2026); FY2026 1H briefing materials.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Yaskawa sells into the factory-automation value chain at its highest-value layer: the components that make machines move precisely (servos, controllers, drives) and the robots that use those same components, sold both to end-users and, for components, to other equipment makers. Demand is a derived function of manufacturing capex, and the current cycle is being pulled by AI-related investment: the company reports data-centre and semiconductor capex as the driver of its record order intake, with servo demand from machine tools and electronic-components equipment and drive demand from data-centre cooling in the same wave (Q2 FY2/27 tanshin; briefing materials). Third-party market sizing is consistent with a mid-single-digit structural growth market rather than a boom market: Global Market Insights estimates the AC servo motors and drives market at USD 16.3bn in 2025, growing at a 6.4% CAGR to USD 30.8bn by 2035, with <strong>Yaskawa the market leader at over 9% share in 2025</strong> and the top five suppliers (ABB, Siemens, Yaskawa, Panasonic Industry, Mitsubishi Electric) holding 33% combined (GMI industry analysis, accessed November 2026 — a third-party estimate, not company data). In industrial robots, industry commentary groups Yaskawa with FANUC, ABB and KUKA as the 'big four' (PitchBook company profile, November 2026); one 2026 industry analysis puts FANUC at roughly 17% of global robot shipments and Yaskawa at roughly 8%, with the leading group together above 40% (Japonity, May 2026 — third-party estimate).</p>\n<p>Competition differs by segment. In Motion Control the rivals are Mitsubishi Electric, Siemens, ABB, Panasonic Industry and FANUC (in controllers and compact automation), plus Chinese servo makers competing on price in China — the market where Yaskawa is pushing its Σ-Mx strategic product (briefing materials). In Robotics the rivals are FANUC (the scale and margin benchmark, with its own CNC ecosystem), ABB Robotics, KUKA and Mitsubishi Electric, with collaborative-robot specialists and Chinese makers pressing from below; Yaskawa's differentiation claim is the depth of its own motion technology inside the robot — its servos and control are developed in-house rather than bought in. Entry barriers are the accumulated servo-control know-how, installed-base trust in uptime-critical lines, global service networks and application engineering; the substitute risk is less a rival product than a technology shift — integrated drives, direct-drive and software-defined motion, and now AI-native robot platforms (including humanoids) that could re-draw which layer of the stack captures value. That is precisely the shift Dash 35's physical-AI programme, and its strategic-investment envelope for external AI technology, is designed to defend against. Two sensitivities follow for the equity: first, China is both a top-three revenue location (23.4% of H1 FY2/27 revenue, briefing materials) and the most contested market; second, the demand now driving orders — data centres and semiconductors — is concentrated, capex-lumpy AI investment, and order intake by segment, published quarterly in briefing materials, is the earliest observable if it pauses. Sources: company tanshin and briefing materials, October 2026; GMI and other third-party estimates as cited and dated in the text.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "Yaskawa in the industrial-robot value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (industrial robots value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/d1.svg",
+          "alt": "Yaskawa in the industrial-robot value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Yaskawa's tanshin disclosure gives a complete business-segment history but no regional split: regional revenue appears only in the company's briefing (supplementary) materials. This chapter keeps the two sources separate and labelled, as the PL/segment sheet does (its regions block is intentionally empty — 'not disclosed in tanshin').</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 6",
+          "titleHtml": "Yaskawa Electric Corporation — segment revenue, FY2/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/c4.svg",
+          "alt": "Yaskawa Electric Corporation — segment revenue, FY2/26"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 7",
+          "titleHtml": "Yaskawa Electric Corporation — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/v2.svg",
+          "alt": "Yaskawa Electric Corporation — segment revenue by year"
+        },
+        {
+          "id": "v3",
+          "number": "Figure 8",
+          "titleHtml": "Yaskawa Electric Corporation — segment revenue mix, FY2/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-yaskawa-electric-initiation-18/v3.svg",
+          "alt": "Yaskawa Electric Corporation — segment revenue mix, FY2/26"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Business segments: Motion Control carries profit; Robotics carries revenue",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the five-year history. Three facts organise it. First, profit concentration: in FY2/26 <strong>Motion Control earned ¥24,384mn of the ¥51,779mn of segment profit before corporate adjustments (47%)</strong>, Robotics ¥20,418mn (39%), System Engineering ¥4,989mn and Other ¥1,988mn, against a −¥4,472mn corporate/elimination adjustment to consolidated operating profit of ¥47,307mn. Second, divergent trajectories: Robotics revenue compounded through the downturn (+38% cumulatively FY2/22–26) while its margin fell every year after FY2/23; Motion Control revenue is still 9% below its FY2/24 peak but is the segment now inflecting — FY2/27 guidance implies revenue growth of 23.0% and profit growth of 61.5% for the segment. Third, the basis break: solar power conditioners moved from System Engineering to Motion Control from Q1 FY2/25 as part of the System Engineering reorganisation; the company restated prior-year comparisons in its own FY2/25 releases, while the sheet preserves each period as disclosed in its source documents with the change registered — readers comparing FY2/24 System Engineering revenue (¥55,455mn, old basis including solar) with FY2/25 (¥38,352mn, new basis) must not read the whole 30.8% fall as demand. H1 FY2/27 segment detail (external revenue / segment profit) was: Motion Control ¥137,286mn / ¥15,973mn (11.6% margin); Robotics ¥118,404mn / ¥5,974mn (5.0%); System Engineering ¥20,778mn / ¥3,480mn (16.8%); Other ¥9,128mn / ¥575mn; adjustment −¥3,944mn; consolidated operating profit ¥22,058mn (Q2 FY2/27 tanshin segment note). Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY2/27 tanshin.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Business segments — external revenue and segment profit (operating-profit basis)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), segment note. Solar power conditioners moved from System Engineering to Motion Control from Q1 FY2/25 (basis change — see text). Segment profit reconciles to consolidated operating profit after the adjustment line shown. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY2/17",
+            "FY2/18",
+            "FY2/19",
+            "FY2/20",
+            "FY2/21",
+            "FY2/22",
+            "FY2/23",
+            "FY2/24",
+            "FY2/25",
+            "FY2/26"
+          ],
+          "rows": [
+            [
+              "Motion Control — revenue",
+              "172025",
+              "212095",
+              "205423",
+              "177893",
+              "176014",
+              "227260",
+              "252126",
+              "260035",
+              "238752",
+              "236053"
+            ],
+            [
+              "Motion Control — segment profit",
+              "22772",
+              "41729",
+              "33907",
+              "19227",
+              "24576",
+              "38161",
+              "36193",
+              "38198",
+              "23005",
+              "24384"
+            ],
+            [
+              "Robotics — revenue",
+              "139993",
+              "163379",
+              "177995",
+              "152170",
+              "139494",
+              "178670",
+              "223829",
+              "234680",
+              "237413",
+              "247012"
+            ],
+            [
+              "Robotics — segment profit",
+              "10253",
+              "17761",
+              "17298",
+              "5639",
+              "6907",
+              "17248",
+              "26126",
+              "25149",
+              "23751",
+              "20418"
+            ],
+            [
+              "System Engineering — revenue",
+              "59354",
+              "52934",
+              "59463",
+              "58089",
+              "50763",
+              "52265",
+              "51111",
+              "55455",
+              "38352",
+              "38744"
+            ],
+            [
+              "System Engineering — segment profit",
+              "-591",
+              "-3794",
+              "65",
+              "919",
+              "-1030",
+              "2126",
+              "2574",
+              "5637",
+              "4605",
+              "4989"
+            ],
+            [
+              "Other — revenue",
+              "23509",
+              "20112",
+              "31755",
+              "22804",
+              "23440",
+              "20886",
+              "28888",
+              "25486",
+              "23164",
+              "20311"
+            ],
+            [
+              "Other — segment profit",
+              "-723",
+              "-212",
+              "446",
+              "-20",
+              "301",
+              "384",
+              "1787",
+              "416",
+              "1591",
+              "1988"
+            ],
+            [
+              "Adjustment — profit",
+              "-1301",
+              "-1357",
+              "-1951",
+              "-1567",
+              "-3574",
+              "-5059",
+              "1621",
+              "-3175",
+              "-2796",
+              "-4472"
+            ],
+            [
+              "Consolidated operating profit",
+              "30409",
+              "54126",
+              "49766",
+              "24198",
+              "27180",
+              "52860",
+              "68301",
+              "66225",
+              "50156",
+              "47307"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions (briefing materials only): 75% overseas, the Americas now the largest location",
+      "level": "section",
+      "html": "<p>Regional revenue is not disclosed in the tanshin; the figures in this section are from the company's FY2026 1H briefing materials (October 2026), are rounded to ¥0.1bn by the company, and are labelled accordingly wherever used. For H1 FY2/27, revenue by location was: Japan ¥70.7bn (−3.2% YoY), the Americas ¥78.1bn (+26.2%), Europe (including Middle East and Africa) ¥33.5bn (+0.8%), China ¥66.7bn (+15.1%) and Asian countries except China ¥36.6bn (+7.3%); <strong>overseas revenue was ¥214.9bn, 75.2% of the total</strong>, up 3 points YoY, and the Americas overtook Japan as the largest single location. The H1 pattern matches the demand narrative: Japan fell despite firm semiconductor and electronic-components capex because the ERP disruption hit Japan production and shipments (Robotics Japan sales fell explicitly on this, per the tanshin), while the Americas combined data-centre and semiconductor strength with firm automotive and general-industry capex and large oil &amp; gas projects. Segment-by-region colour from the same materials: Motion Control grew in every region in H1; Robotics grew in the Americas and China but fell in Japan. Regional profit is not disclosed on any basis in the sources used. The forward sensitivity is quantified by the company: a 1% move in its H2 assumed rates moves full-year revenue by about ¥1.63bn and operating profit by about ¥0.40bn, with the euro the largest single profit sensitivity (¥0.37bn of the ¥0.40bn) (briefing materials). Source: FY2026 1H briefing materials (company, October 2026) — briefing-material figures, not tanshin disclosure.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (IFRS, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: revenue ¥479,082mn / ¥555,955mn / ¥575,658mn / ¥537,682mn / ¥542,122mn for FY2/22–FY2/26; cost of sales ¥310,437mn / ¥363,948mn / ¥366,557mn / ¥346,201mn / ¥350,885mn; gross profit ¥168,645mn / ¥192,007mn / ¥209,101mn / ¥191,481mn / ¥191,237mn (margins 35.2% / 34.5% / 36.3% / 35.6% / 35.3%); SG&amp;A ¥116,507mn / ¥132,552mn / ¥143,927mn / ¥142,193mn / ¥145,905mn; other operating items were a net expense in FY2/23 (−¥8,846mn) and small thereafter; operating profit ¥52,860mn / ¥68,301mn / ¥66,225mn / ¥50,156mn / ¥47,307mn. Below operating profit: share of profit of associates and JVs ¥2,400mn / ¥3,738mn / ¥4,406mn / ¥2,792mn / ¥766mn; other investing income ¥94mn / ¥110mn / ¥52mn / ¥26,778mn / ¥1mn; profit before financing and income taxes ¥55,354mn / ¥72,149mn / ¥70,683mn / ¥79,726mn / ¥48,074mn; net financing ¥24mn / −¥1,015mn / −¥1,605mn / −¥1,272mn / +¥1,489mn; profit before tax ¥55,378mn / ¥71,134mn / ¥69,078mn / ¥78,454mn / ¥49,563mn; income tax ¥16,610mn / ¥18,369mn / ¥17,477mn / ¥20,758mn / ¥12,981mn (effective rates 30.0% / 25.8% / 25.3% / 26.5% / 26.2%); net income ¥38,768mn / ¥52,765mn / ¥51,601mn / ¥57,696mn / ¥36,582mn, of which to owners ¥38,354mn / ¥51,783mn / ¥50,687mn / ¥56,987mn / ¥35,240mn.</p>\n<p>Earnings quality — the FY2/25 one-off. <mark>The ¥26,777mn gain on the sale and revaluation of associate investments recorded in Q3 FY2/25 (within other investing income, below operating profit) is the single largest distortion in the five-year record.</mark> It lifted FY2/25 profit before tax by about 52% relative to its ex-gain level (¥51,677mn) and net income to owners correspondingly; FY2/25 ROE of 13.7% and basic EPS of ¥218.62 are therefore not operating run-rates, and the FY2/26 declines in pre-tax profit (−36.8%) and owners' net income (−38.2%) are largely the mirror image of the gain rolling off, on top of a genuine 5.7% operating-profit decline. Any screen ranking Yaskawa on FY2/25 earnings growth or FY2/26 earnings decline without this adjustment misreads both years.</p>\n<p>Balance sheet (28 February 2026): total assets ¥812,365mn; total equity ¥493,615mn; owners' equity ratio 59.5%. Inventory ¥210,764mn; cash and equivalents ¥61,223mn; interest-bearing debt ¥110,029mn on the sheet's definition (borrowings and bonds; ¥124,900mn including leases per briefing materials). Cash flow: operating cash flow ¥49,233mn / −¥2,209mn / ¥54,619mn / ¥56,505mn / ¥52,170mn (FY2/22–26); FY2/26 investing outflow was ¥44,216mn and financing outflow ¥8,626mn. Capital expenditure and R&amp;D are not disclosed in the tanshin; briefing materials report capex of ¥57,040mn and R&amp;D investment of ¥24,010mn for FY2/26, with FY2/27 plans of ¥58,000mn and ¥24,000mn and planned depreciation and amortisation of ¥26,000mn (company briefing materials, October 2026 — the sheet itself does not carry D&amp;A, so no EBITDA is presented in this report). Per-share data (basic, as reported): EPS ¥146.72 / ¥198.07 / ¥193.87 / ¥218.62 / ¥135.88; book value per share ¥1,864.31 at FY2/26 (¥1,662.60 at FY2/25). Dividends per share were ¥52 / ¥64 / ¥64 / ¥68 / ¥68, payout ratios of 35.4% / 32.3% / 33.0% / 31.1% / 50.0% — the FY2/26 ratio elevated by the depressed EPS denominator. Not disclosed in the tanshin and therefore not presented as history here: order intake and backlog (briefing materials only), R&amp;D and capex (briefing materials only), employee numbers, and unit volumes. Source: company results via PL/segment sheet (tanshin, JPX archive); FY2/26 tanshin header indicators; briefing-material items cited as such.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — Vision 2035 and Dash 35",
+      "level": "part",
+      "html": "<p>On 22 May 2026 Yaskawa announced a new long-term business plan, 'Vision 2035' (FY2/27–FY2/36 in the company's FY2026–FY2035 naming), and its first four-year mid-term plan, 'Dash 35' (FY2/27–FY2/30), succeeding the 'Challenge 25 Plus' plan that ran to FY2/26. The starting point is candid in the numbers if not in a formal scorecard in the sources used here: FY2/26, the predecessor plan's final year, closed with revenue of ¥542,122mn and an operating margin of 8.7%, well below the profitability the group had printed in FY2/23 (12.3%) — the new plan is framed as a profitability restoration first and a growth plan second.</p>\n<p>Dash 35 targets, for FY2/30 (company plan targets, not J-Core Fundamental Research estimates): revenue ¥650,000mn (from ¥542,100mn in FY2/26, a 4.6% four-year CAGR), operating profit ¥100,000mn — a record high, 2.1x FY2/26 — for an operating margin of 15.4% (from 8.7%), ROE of 12% or more (from 7.7%), ROIC of 11% or more (from 6.9%) and a dividend payout ratio of 40% or more (FY2/26 actual: 50.0% on depressed earnings; FY2/27 forecast: 39.3%). Plan FX assumptions for FY2/30 are USD/JPY 145, EUR/JPY 170, CNY/JPY 20.50 and KRW/JPY 0.105. Vision 2035 beyond the plan sets <strong>an operating margin of 20% or more and a payout ratio of 40% or more by FY2/36</strong> as its financial targets. The five Dash 35 policies are: (1) develop the physical-AI market — expand the adaptive AI robot MOTOMAN NEXT, build physical-AI markets including humanoid robots through key components such as advanced actuators, and open previously un-automatable areas with partners; (2) expand implementation of i³-Mechatronics solutions, leveraging regional strengths; (3) world-leading new product development from core technology, operating data and AI; (4) expand new mechatronics applications — domestic agriculture automation and medical/laboratory automation with partners; and (5) evolve YDX (the group's digital transformation, of which the new ERP system is part) and i³-Singularity. Secondary reporting on the plan cites total investment of about ¥250bn over the four years, of which about ¥120bn is strategic investment for acquiring physical-AI technology, alliances and M&amp;A (press summary of company plan materials, October 2026 — flagged as secondary; the primary release summary used here confirms the targets above but does not restate the investment envelope). The FY2/27 guidance in Chapter 2 is the plan's first year: it already requires the operating margin to recover to 9.6%, and the segment guidance requires Motion Control to deliver ¥39,400mn of the ¥57,500mn group operating profit. The arithmetic of Dash 35 is therefore back-loaded and Motion-Control-led: roughly ¥42,500mn of the ¥52,700mn operating-profit increase targeted by FY2/30 must come after FY2/27. Source: company release 'New Long-term Business Plan Vision 2035 and New Mid-term Business Plan Dash 35', 22 May 2026; FY2026 1H briefing materials (company, October 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History. Yaskawa was founded on 16 July 1915 in Kitakyushu by Keiichiro (Daigoro) Yasukawa, growing out of the Yasukawa family's mining interests as a maker of electrical equipment for coal mining; its first order product, a three-phase induction motor, was delivered in 1917, and the shares were first listed in 1949. The milestones that built the current group: the word 'mechatronics' coined in-house in 1969; Japan's first all-electric industrial robot, the MOTOMAN-L10, in 1977; the Sigma series AC servo line launched in 1992, still the flagship servo family; cumulative MOTOMAN shipments of 500,000 units in February 2021; and the i³-Mechatronics solution concept, now extended toward physical AI under Vision 2035. The head office remains at 2-1 Kurosakishiroishi, Yahatanishi-ku, Kitakyushu, Fukuoka. Source: company history materials (Yaskawa Global Site, accessed November 2026); company releases.</p>\n<p>Management. Representative Director, Chairman of the Board and President: Hiroshi Ogasawara — verified against the company's own documents: he is named in that role in the Q1 and Q2 FY2/27 tanshin (10 July and 9 October 2026). The leadership changed during 2026: Masahiro Ogawa, who was Representative Director and President in the FY2/26 tanshin (10 April 2026), stepped down as director at the 110th Annual General Meeting on 27 May 2026 and became Vice Chairman, Executive Officer, responsible for the AI Robotics and New Mechatronics Applications businesses, while Ogasawara — chairman since March 2022 and previously president (2016–2023) — resumed the presidency, a change the company announced on 10 April 2026 as timed to the start of the new long-term and mid-term plans. Capital: ¥30,562mn (Q2 FY2/27 tanshin equity statement). Shares issued: 266,690,497, of which 7,251,147 were held in treasury at 31 August 2026.</p>\n<p>Major shareholders and employees. The tanshin does not carry a shareholder register, and no securities-report register was extracted for this report; third-party compilations (S&amp;P Global Market Intelligence data via Simply Wall St, updated August 2026) put Nomura Asset Management as the largest holder at about 8.5%, followed by BlackRock at about 5.2%, with institutions holding roughly two-thirds of the shares and no single controlling holder — third-party data, flagged as such. Consolidated headcount is not disclosed in the tanshin; third-party providers put employees at approximately 14,400 (PitchBook, November 2026) — again a third-party figure, not company disclosure in the sources used here.</p>\n<p>Shareholder returns. Dividends rose from ¥52 (FY2/22) to ¥68 (FY2/25–26) and a forecast ¥72 in FY2/27; the Dash 35 policy floor is a payout ratio of 40% or more. The FY2/26 payout ratio of 50.0% reflects the low EPS base rather than a policy step-up. No material buyback was recorded in H1 FY2/27 (treasury-share purchases of ¥1mn per the interim cash-flow statement).</p>\n<p>Market data. The shares closed at ¥3,791 on 13 November 2026 (Finnhub, 13 November 2026), giving a market capitalisation of about ¥983.5bn (calculated from the cited price and the 259.44mn shares excluding treasury at August 2026). The 52-week range was ¥3,350 (6 November 2026) to ¥7,915 (22 June 2026) (Finnhub) — the shares had therefore roughly halved from the June 2026 peak into November, and fell a further 6.1% to ¥3,561 on 16 November 2026, the date of this report (Finnhub / StockAnalysis.com, 16 November 2026). At ¥3,791 the shares trade at 27.9x FY2/26 basic EPS of ¥135.88, 20.7x FY2/27 company-guidance EPS of ¥183.11, and 2.03x FY2/26 book value per share of ¥1,864.31 (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY2/27 tanshin, expected in early January 2027 (third-party calendar estimate).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials and segment data are taken from the PL/segment sheet for Yaskawa (6506) (IFRS template; February year-end; FY2/22–FY2/26 annual and 20 quarters; ¥mn), which was built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (rollout log and sheet register, 2026-11-16). Q1 and Q2 FY2/27 figures are from the Q1 FY2/27 tanshin dated 10 July 2026 and the Q2 FY2/27 tanshin dated 9 October 2026. Order intake, regional revenue, capex, R&amp;D and FX-sensitivity figures are NOT in the tanshin; where used, they are taken from the company's FY2026 1H financial-results briefing materials (October 2026) and are cited as briefing-material figures at each use. Mid-term plan figures are from the company's Vision 2035 / Dash 35 release of 22 May 2026. Market data are from Finnhub and StockAnalysis.com as returned by web search on 16 November 2026 and are cited with dates in the text; third-party estimates (market sizes and shares, shareholder compilations, employee counts) are flagged as third-party at each use.</p>\n<p>Discrepancies flagged. (1) Guidance characterisation: the FY2/27 revision of 9 October 2026 is sometimes summarised as an upward revision; the primary source shows a mixed revision — revenue, profit before tax and net income raised, operating profit cut from ¥60,000mn to ¥57,500mn — and this report follows the primary source. (2) EPS basis: the tanshin headers report basic EPS (used in this report); the PL/segment sheet calculates diluted EPS, which is ¥0.09–¥0.24 lower per year; ratios in the key data use basic EPS. (3) Debt and inventory definitions: interest-bearing debt is ¥110,029mn on the sheet's borrowings-and-bonds definition versus ¥124,900mn including leases in briefing materials; inventory is 4.5 months on the company's revenue basis versus about 7.3 months on the sheet's cost-of-sales basis. Both pairs are definitional, and the basis is stated at each use. (4) Segment basis change: solar power conditioners moved from System Engineering to Motion Control from Q1 FY2/25; the company restated its own prior-year comparisons, while the sheet preserves periods as disclosed — cross-basis comparisons are flagged in Chapters 3 and 5. (5) Fiscal-year naming: the company's English materials call the year ending February 2027 'FY2026'; this report labels it FY2/27 throughout.</p>\n<p>Conventions and gaps. Fiscal years are labelled by the February year-end (FY2/27 = year ending 28 February 2027). 'Company guidance' means Yaskawa's published forecasts and 'plan targets' means Vision 2035 / Dash 35 targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — regional sales and profit, order intake and backlog, R&amp;D, capex, D&amp;A, headcount and unit volumes — are described as not disclosed in the tanshin rather than estimated; where briefing materials disclose some of them, they are used only with that citation. KPI history in this report now covers ten years (FY2/17–FY2/26) from the PL/segment sheet, including its supplementary History block (FY2/17–FY2/21, each year as reported in its own tanshin): the added years span the J-GAAP-to-IFRS change (J-GAAP FY2/17–FY2/19; IFRS FY2/20–FY2/21, FY2/20 from the IFRS first-adoption reissue) and the eleven-month transitional FY2/18, and the items described above as not disclosed in the tanshin remain not disclosed for the added years.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments; financial statements; mid-term plan; other information) and adds the Editor's rating rail.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
