@@ -1,0 +1,48 @@
+---
+import data from '../data/prices/6762.json';
+
+interface Props {
+  lang: 'ja' | 'en';
+}
+
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+
+const heading = isJa ? '株価チャート' : 'Share price';
+const sourceLine = isJa
+  ? `出典：Yahoo Finance — TDK（6762.T）日次OHLC、${data.from}〜${data.to}`
+  : `Source: Yahoo Finance — TDK (6762.T) daily OHLC, ${data.from} to ${data.to}`;
+const payload = JSON.stringify({ candles: data.candles });
+---
+
+<section class="mt-10" aria-label={heading}>
+  <h2 class="font-display text-xl font-semibold tracking-tight">{heading}</h2>
+  <div
+    data-price-chart
+    class="mt-4 w-full overflow-hidden rounded-md border border-neutral-200 dark:border-neutral-800"
+  >
+    <script
+      type="application/json"
+      data-price-chart-payload
+      set:html={payload}
+    />
+    <div data-price-chart-canvas class="h-[360px] w-full"></div>
+  </div>
+  <p class="mt-2 text-xs text-neutral-500 dark:text-neutral-400">
+    {sourceLine}
+  </p>
+  <p class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+    Chart by
+    <a
+      class="underline underline-offset-2 hover:text-neutral-800 dark:hover:text-neutral-200"
+      href="https://www.tradingview.com/"
+      target="_blank"
+      rel="noopener">TradingView</a
+    >
+    Lightweight Charts™
+  </p>
+</section>
+
+<script>
+  import '../scripts/price-chart.ts';
+</script>

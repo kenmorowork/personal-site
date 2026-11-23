@@ -1,1 +1,1 @@
-{"dependencies":{"@tailwindcss/vite":"^4.1.0","astro":"^5.13.0","tailwindcss":"^4.1.0"},"name":"ken-morozumi-personal-site","private":true,"scripts":{"build":"astro build","dev":"astro dev","preview":"astro preview"},"type":"module","version":"0.1.0"}
+{"dependencies":{"@tailwindcss/vite":"^4.1.0","astro":"^5.13.0","lightweight-charts":"^5.3.0","tailwindcss":"^4.1.0"},"name":"ken-morozumi-personal-site","private":true,"scripts":{"build":"astro build","dev":"astro dev","preview":"astro preview"},"type":"module","version":"0.1.0"}
