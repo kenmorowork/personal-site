@@ -1,0 +1,595 @@
+{
+  "version": 1,
+  "editorReportId": 37,
+  "lang": "en",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "17 November 2026",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Nidec Corporation (6594)",
+  "headlineHtml": "The world's largest motor maker under a second consecutive disclaimer of opinion: initiation on Nidec, where <strong>disclosure — not demand — is the investment question</strong>",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥1,644",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥1.95tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥1,544 – ¥2,941",
+      "asOf": "16 Nov 2026 (Finnhub via search results; low 6 Nov 2026, high 24 Sep 2026)"
+    },
+    {
+      "label": "P/B (FY3/26 BPS ¥692.80, disclaimer of opinion)",
+      "value": "2.46x",
+      "asOf": "16 Nov 2026 (calculated from the cited price and FY3/26 book value per share as filed, 30 Sep 2026)"
+    },
+    {
+      "label": "P/E (FY3/27 plan EPS ¥87.23, unaudited management assertion)",
+      "value": "18.8x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "Dividend",
+      "value": "¥0 (FY3/26); FY3/27 undecided",
+      "asOf": "FY3/26 tanshin, 30 Sep 2026 (interim and year-end both no dividend; FY3/27 interim and year-end both 未定)"
+    },
+    {
+      "label": "Next event",
+      "value": "H1 FY3/27 interim report — extended deadline 16 Dec 2026",
+      "asOf": "Company extension application, 16 Nov 2026 (interview pack / sheet register S1); FY3/27 Q1 and Q2 tanshin not yet filed as of 17 Nov 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "All for motors, nothing yet for the audit: the franchise is intact, the numbers are not yet reliable:",
+  "ledeHtml": "Nidec Corporation (6594, TSE Prime) is the Kyoto-based group founded in 1973 by Shigenobu Nagamori — described in the interview pack as the world's largest motor maker — spanning precision small motors (HDD spindle motors, brushless and fan motors, and water-cooling modules for AI data centres), automotive motors and traction-motor systems, appliance, commercial and industrial motors, machinery (presses, reducers, machine tools, inspection equipment) and electronic and optical components. FY3/26 revenue was ¥2,708,705mn (year ended 31 March 2026, as filed in the FY3/26 tanshin of 30 September 2026; FY3/26 figures carry a disclaimer of opinion from the auditor — the second consecutive year — and are labelled as such at every use in this report). The initiation question is not demand but reliability. A third-party committee (established 3 September 2025; reports received 27 February and 17 April 2026) found numerous improper accounting treatments at many group sites, carried out with management involvement or awareness — premature revenue recognition, under-provisioning, overstated inventories, impairment avoidance and cost capitalisation — and found that executives had provided the auditor with inaccurate or misleading information and concealed or falsified records (FY3/26 tanshin, note 8). <strong>Prior years were retrospectively restated: FY3/25 operating profit as originally filed (¥240,200mn) became ¥128,222mn as restated in the FY3/26 tanshin</strong>. FY3/26 itself printed an operating loss of ¥518,978mn (disclaimer of opinion) after ¥632,135mn of non-financial-asset impairment losses, the shares have been designated Securities on Special Alert (特別注意銘柄) since 28 October 2025, and as of this report's date, 17 November 2026, <strong>no FY3/27 quarterly results have been filed at all</strong> — the Q1 FY3/27 tanshin was never disclosed and the Q2 tanshin is postponed, with the H1 FY3/27 interim-report deadline extended to 16 December 2026. Strengths: (1) the underlying franchise is real — SPMS segment profit rose to ¥62,844mn in FY3/26 (disclaimer of opinion) at a 15.6% margin, HDD motor revenue grew 9.8% to ¥110,152mn on nearline and AI-related demand, and generators and battery energy storage systems (BESS) for data centres drove the appliance/commercial/industrial product group; (2) liquidity held through the crisis year — cash of ¥852,204mn against interest-bearing debt of ¥1,113,404mn at March 2026 (disclaimer of opinion), operating cash flow of ¥234,218mn (disclaimer of opinion) and a ¥600bn commitment line renewed on 5 November 2026; (3) governance is being rebuilt under duress — the founder has left the board, an independent outside director chairs it, President Michio Kaida (from 29 September 2026) leads a transformation plan, and the company resolved on 27 October 2026 to sue its founder and eight other former executives. Weaknesses: (1) the audit situation itself — disclaimers of opinion on two consecutive securities reports (FY3/25 and FY3/26), a tanshin note stating that some personnel involved in the improper accounting still hold responsible positions in the financial-reporting process and that undiscovered misstatements could be material and pervasive, and corrected filings whose targeted 28 October 2026 submission was missed with audit completion timing undetermined (interview pack); (2) pre-crisis earnings were overstated — the cumulative impact of the improper accounting is put at about ¥160.7bn in the committee process (interview pack, press compilation) and FY3/25 as-filed operating profit was cut 46.6% on restatement; (3) the FY3/27 plan (revenue ¥2,800,000mn, operating profit ¥200,000mn) is an unaudited management assertion issued alongside disclaimed statements, untested by any published H1 actuals against its ¥120,000mn H1 operating-profit plan — it is labelled exactly that way wherever it appears in this report, and never as guidance of the usual standing. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive, on the bases labelled in each chapter. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "Latest filed period — FY3/26 (disclaimer of opinion): revenue ¥2,708,705mn, operating loss ¥518,978mn.",
+      "html": "For the year ended 31 March 2026, filed only on 30 September 2026, revenue was ¥2,708,705mn (+3.9% YoY against the restated FY3/25 figure), <strong>operating profit was a loss of ¥518,978mn after non-financial-asset impairment losses of ¥632,135mn</strong> (excluding the impairment, operating profit would have been about ¥113,157mn — calculated), profit before tax was a loss of ¥496,214mn and net income attributable to owners was a loss of ¥564,624mn (basic EPS −¥492.55); the year-end dividend was nil. The FY3/26 securities report received a disclaimer of opinion from PwC Japan — the second consecutive year (FY3/25 also) — so every FY3/26 figure in this report carries that label. The loss was concentrated in Q4 (standalone operating loss ¥634,713mn), when the impairments were booked. Source: FY3/26 tanshin [IFRS], 30 September 2026; PL/segment sheet register S1/S6."
+    },
+    {
+      "leadHtml": "No FY3/27 interims exist: Q1 never filed, Q2 postponed, H1 deadline extended to 16 December 2026.",
+      "html": "As of 17 November 2026 the company has published no FY3/27 quarterly results: no Q1 FY3/27 tanshin has been disclosed (delay notice 5 August 2026), the Q2 tanshin is postponed (company notices, 11–12 November 2026), and on 16 November 2026 the company applied to extend the H1 FY3/27 interim-report filing deadline by one month to 16 December 2026, citing delayed restatement work at some overseas sites (interview pack; sheet register S1). The FY3/27 figures published with the FY3/26 results — full-year revenue ¥2,800,000mn, operating profit ¥200,000mn, owners' net income ¥100,000mn, and an H1 plan of revenue ¥1,400,000mn / operating profit ¥120,000mn — are an unaudited management assertion only, issued while the auditor disclaims; <strong>they are not presented in this report as guidance of the usual standing and no actuals exist to test them against</strong>. Source: FY3/26 tanshin section 3, 30 September 2026; guidance tracker, 17 November 2026 (status 未検証)."
+    },
+    {
+      "leadHtml": "Strength — SPMS carried the group in FY3/26 (disclaimer of opinion): ¥62,844mn of segment profit at a 15.6% margin.",
+      "html": "On the current six-segment basis (external sales / segment profit = operating profit), <strong>SPMS (HDD and other small motors) earned ¥62,844mn on sales of ¥403,997mn in FY3/26 (disclaimer of opinion) — the only large segment in profit</strong> — as HDD motor revenue rose 9.8% to ¥110,152mn (product-group disclosure) on nearline drives for AI data centres and water-cooling modules ramped. Every other segment lost money in FY3/26 (disclaimer of opinion): ACIM −¥289,333mn (including ¥298,800mn of segment impairments), Group Companies −¥131,711mn, MOEN −¥72,573mn (impairments ¥116,287mn), AMEC −¥25,089mn (impairments ¥18,387mn) and Machinery −¥13,827mn. Source: FY3/26 tanshin segment note, 30 September 2026; PL/segment sheet."
+    },
+    {
+      "leadHtml": "Weakness — the restatement rewrote the record: FY3/25 operating profit ¥240,200mn as filed became ¥128,222mn restated.",
+      "html": "The FY3/26 tanshin's restated FY3/25 comparatives <span class=\"rt-red\">cut operating profit by ¥111,978mn (−46.6%)</span>, owners' net income from ¥167,688mn to ¥84,672mn, total assets from ¥3,325,561mn to ¥2,919,765mn and owners' equity from ¥1,719,296mn to ¥1,239,815mn against the FY3/25 tanshin as originally filed; Machinery segment profit for FY3/25 swung from +¥17,828mn as filed to −¥84,926mn restated as machine-tool goodwill impairment was re-dated. The third-party committee's cumulative improper-accounting impact is put at about ¥160.7bn (interview pack, press compilation of the April 2026 final report). Any use of pre-restatement figures — including the as-filed FY3/25 column preserved in this report's history — must be read with that gap in mind. Source: FY3/25 tanshin, 24 April 2025; FY3/26 tanshin restated comparatives, 30 September 2026; sheet register S1."
+    },
+    {
+      "leadHtml": "Governance reset is under way, but the listing itself is the risk: Special Alert since 28 October 2025.",
+      "html": "Founder Shigenobu Nagamori resigned from the board on 19 December 2025 (and as chairman emeritus on 26 February 2026); President Mitsuya Kishida resigned on 29 September 2026 after the board found statements and conduct concerning financial reporting that could not necessarily be regarded as appropriate, and CTO Michio Kaida became President and CEO the same day, with Representative Director Masayuki Minai holding representative authority (FY3/26 tanshin header) because Kaida was not yet a director. The board has been chaired by independent outside director Soichiro Sakuma since the 18 June 2026 AGM. The internal-control confirmation document was submitted to the TSE on 30 October 2026, starting the listing-maintenance review, but <strong>the audited corrected filings targeted for 28 October 2026 were not submitted and audit completion timing is undetermined</strong> (interview pack). On 27 October 2026 the company decided to sue Nagamori and eight other former executives for damages (Reuters). Source: company notices via web search, November 2026; interview pack, 16 November 2026."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (IFRS, as reported in each year's own tanshin; FY3/25 and FY3/26 securities reports carry disclaimers of opinion)",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive). FY3/25 is as originally filed; the FY3/26 tanshin restates FY3/25 to revenue ¥2,606,347mn / operating profit ¥128,222mn / owners' net income ¥84,672mn / ROE 6.9% (see Basis of preparation). Profit before tax is the sheet's control definition (reported PBT plus the post-tax discontinued result) — FY3/26 header PBT is −¥496,214mn. EPS is calculated from owners' profit and diluted weighted shares (no dilutive securities); per-share series break at the 2-for-1 splits of 1 Apr 2020 and 1 Oct 2024. Dividend per share is as paid (FY3/25 not summable across the split: interim ¥40 pre-split + year-end ¥20 post-split; ¥80 pre-split basis). ROE as reported in each year's tanshin. The FY3/27 plan (revenue ¥2,800,000mn / operating profit ¥200,000mn) is an unaudited management assertion only and is excluded from this history.",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY3/17",
+          "FY3/18",
+          "FY3/19",
+          "FY3/20",
+          "FY3/21",
+          "FY3/22",
+          "FY3/23",
+          "FY3/24",
+          "FY3/25",
+          "FY3/26"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "1199311",
+            "1488090",
+            "1518320",
+            "1534800",
+            "1618064",
+            "1918174",
+            "2242824",
+            "2348202",
+            "2607094",
+            "2708705"
+          ],
+          [
+            "Revenue growth (%)",
+            "1.8",
+            "24.1",
+            "2",
+            "1.1",
+            "5.4",
+            "18.5",
+            "16.9",
+            "4.7",
+            "11",
+            "3.9"
+          ],
+          [
+            "Operating profit",
+            "140331",
+            "167637",
+            "138620",
+            "110326",
+            "160011",
+            "171487",
+            "100081",
+            "163106",
+            "240200",
+            "-518978"
+          ],
+          [
+            "Operating margin (%)",
+            "11.7",
+            "11.3",
+            "9.1",
+            "7.2",
+            "9.9",
+            "8.9",
+            "4.5",
+            "6.9",
+            "9.2",
+            "-19.2"
+          ],
+          [
+            "Profit before tax (sheet control definition)",
+            "142278",
+            "164460",
+            "139014",
+            "106927",
+            "152978",
+            "170818",
+            "118610",
+            "202875",
+            "236324",
+            "-496265"
+          ],
+          [
+            "Net income to owners",
+            "111721",
+            "131434",
+            "110798",
+            "60084",
+            "121977",
+            "136870",
+            "45003",
+            "125387",
+            "167688",
+            "-564624"
+          ],
+          [
+            "Basic EPS (¥, calculated)",
+            "376.7",
+            "443.9",
+            "375.8",
+            "102.1",
+            "208.3",
+            "234.3",
+            "78.2",
+            "218.2",
+            "146",
+            "-492.6"
+          ],
+          [
+            "Dividend per share (¥, as paid)",
+            "85",
+            "95",
+            "105",
+            "115",
+            "60",
+            "65",
+            "70",
+            "75",
+            "—",
+            "0"
+          ],
+          [
+            "ROE (%)",
+            "13.9",
+            "14.7",
+            "11.5",
+            "6.2",
+            "11.9",
+            "11.5",
+            "3.4",
+            "8.4",
+            "10",
+            "-55.5"
+          ],
+          [
+            "Operating cash flow",
+            "129853",
+            "175568",
+            "170233",
+            "168049",
+            "219156",
+            "94994",
+            "143485",
+            "321487",
+            "284428",
+            "234218"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Nidec reports under IFRS with a March year-end. The history in this chapter and in Exhibit 1 covers ten years, FY3/17–FY3/26, as reported in each year's own annual tanshin and compiled in the PL/segment sheet for 6594 (FY3/22–FY3/26 main block plus the FY3/17–FY3/21 history block added in the history-deepening programme; all template and history-block checks equal zero). Two audit labels sit inside the ten years and are not removable: the FY3/25 securities report received a disclaimer of opinion and the FY3/26 securities report received a disclaimer of opinion — the second consecutive year (sheet register S1) — and the FY3/26 tanshin retrospectively restates FY3/25. This chapter's history therefore uses each year's own tanshin as filed (the sheet's standard method), with FY3/25 shown as originally filed and the restated FY3/25 figures given separately in Chapters 2, 5 and 9 wherever the comparison matters. FY3/27 has no filed figures at all and appears nowhere in this history. Figures are ¥mn unless stated.</p>\n<p>Revenue grew from ¥1,199,311mn in FY3/17 to a peak of ¥2,708,705mn in FY3/26 (disclaimer of opinion) — a 9.5% ten-year CAGR (calculated) built by the FY3/18–FY3/19 appliance and automotive consolidation wave, the COVID-era small-motor surge (FY3/21–FY3/22, +5.4% and +18.5%) and the FY3/23 peak growth year (+16.9% to ¥2,242,824mn), followed by three slower years (+4.7% / +11.0% / +3.9% on the as-filed series). Operating profit tells a different story: ¥140,331mn (11.7% margin) in FY3/17 and a high of ¥167,637mn in FY3/18 gave way to the FY3/20 dip (¥110,326mn), recovery to ¥171,487mn in FY3/22, then a halving to ¥100,081mn in FY3/23 (4.5% margin) as China demand, EV traction-motor pricing and inventory corrections hit simultaneously and income tax expense of ¥74,889mn (a 63.1% effective rate on the sheet's control definition) cut owners' net income to ¥45,003mn. FY3/24 operating profit recovered to ¥163,106mn and FY3/25 printed ¥240,200mn as filed (9.2% margin) — the figure the restatement later cut to ¥128,222mn (Chapter 9). FY3/26 (disclaimer of opinion) is not a cyclical year at all: gross profit fell to ¥526,635mn (19.4% margin) while SG&amp;A rose to ¥928,710mn from ¥215,349mn, because the line carries the investigation-era impairments and write-downs; the company quantifies non-financial-asset impairment losses of ¥632,135mn for the year, and operating profit printed −¥518,978mn (−19.2% margin). Excluding that impairment, operating profit would have been about ¥113,157mn (calculated) — below even the restated FY3/25 level, which is the correct starting point for any underlying-earnings debate.</p>\n<p>Below operating profit, the sheet's control definition of profit before tax (reported PBT plus the post-tax discontinued-operations result; register S6) was ¥142,278mn / ¥164,460mn / ¥139,014mn / ¥106,927mn / ¥152,978mn / ¥170,818mn / ¥118,610mn / ¥202,875mn / ¥236,324mn / −¥496,265mn across FY3/17–FY3/26; the tanshin-header PBT (continuing basis) differs by the discontinued result each year (FY3/26: −¥496,214mn — see Chapter 9). Net income attributable to owners was ¥111,721mn / ¥131,434mn / ¥110,798mn / ¥60,084mn / ¥121,977mn / ¥136,870mn / ¥45,003mn / ¥125,387mn / ¥167,688mn as filed / −¥564,624mn (FY3/26, disclaimer of opinion). Basic EPS, calculated from owners' profit and diluted weighted shares (the company states no dilutive securities exist; register S8), was ¥376.7 / ¥443.9 / ¥375.8 / ¥102.1 / ¥208.3 / ¥234.3 / ¥78.2 / ¥218.2 / ¥146.0 / −¥492.6 — a series with two stock-split breaks that must not be read as a continuous per-share record: a 2-for-1 split on 1 April 2020 (FY3/20 EPS is split-adjusted in its own tanshin; FY3/17–FY3/19 are not) and a 2-for-1 split on 1 October 2024 (FY3/25–FY3/26 are on the post-split share count of about 1,149mn; FY3/24's ¥218.2 is on the pre-split count of about 575mn). ROE as reported in each year's tanshin was 13.9% / 14.7% / 11.5% / 6.2% / 11.9% / 11.5% / 3.4% / 8.4% / 10.0% as filed (6.9% on the restated FY3/25 base) / −55.5% in FY3/26 (disclaimer of opinion).</p>\n<p>Cash generation survived better than reported profit. Operating cash flow was ¥129,853mn / ¥175,568mn / ¥170,233mn / ¥168,049mn / ¥219,156mn in FY3/17–FY3/21 (history block) and ¥94,994mn / ¥143,485mn / ¥321,487mn / ¥284,428mn as filed / ¥234,218mn (FY3/26, disclaimer of opinion) in FY3/22–FY3/26 — FY3/26 operating cash flow stayed positive because the ¥632,135mn impairment is non-cash (the cash-flow statement shows ¥626,949mn of fixed-asset disposal and impairment losses) and payables rose ¥60,008mn. Dividends per share rose steadily for eight years — ¥85 / ¥95 / ¥105 / ¥115 across FY3/17–FY3/20 (pre-2020-split basis), then ¥60 / ¥65 / ¥70 / ¥75 across FY3/21–FY3/24 (post-split basis) — before the FY3/25 pattern broke (interim ¥40 pre-split, year-end ¥20 post-split; ¥80 on a pre-split basis, per the FY3/26 tanshin note) and FY3/26 paid nothing at all. Exhibit 1 (page 1) gives the full KPI table. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header and qualitative section, 30 September 2026.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Nidec Corporation — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-nidec-initiation-37/c1.svg",
+          "alt": "Nidec Corporation — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Nidec Corporation — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-nidec-initiation-37/c2.svg",
+          "alt": "Nidec Corporation — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Nidec Corporation — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-nidec-initiation-37/c3.svg",
+          "alt": "Nidec Corporation — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Nidec Corporation — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-nidec-initiation-37/v1.svg",
+          "alt": "Nidec Corporation — revenue and operating margin"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 5",
+          "titleHtml": "Nidec Corporation — revenue vs operating profit",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-nidec-initiation-37/v2.svg",
+          "alt": "Nidec Corporation — revenue vs operating profit"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — FY3/26 results filed on 30 September 2026 (disclaimer of opinion) and the missing FY3/27 interims",
+      "level": "part",
+      "html": "<p>The latest actually filed period is the full year FY3/26 (April 2025–March 2026), published on 30 September 2026 — roughly five months late, one day after the president's resignation, and accompanied by a disclaimer of opinion on the securities report for the second consecutive year. There is no more recent filed period: FY3/27 Q1 and Q2 results had not been filed as of 17 November 2026 (section 2b). This chapter therefore treats FY3/26 as the latest update, states the audit situation in full, and keeps every FY3/26 figure under its disclaimer label. Segment detail is in Chapter 5; the product-group view the company manages by is in Chapter 3.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "FY3/26 results (as filed; disclaimer of opinion — second consecutive year)",
+      "level": "section",
+      "html": "<p>Revenue was ¥2,708,705mn (+3.9% YoY against the restated FY3/25 revenue of ¥2,606,347mn), gross profit ¥526,635mn (19.4% margin), operating profit a loss of ¥518,978mn, profit before tax a loss of ¥496,214mn (tanshin header, continuing basis; the sheet's control PBT including the −¥51mn discontinued result is −¥496,265mn), net income a loss of ¥622,961mn in total and ¥564,624mn attributable to owners, and basic EPS −¥492.55 (basic and diluted identical; no dilutive securities). All FY3/26 figures in this paragraph carry a disclaimer of opinion. The anatomy matters more than the headline: <strong>the company recognised non-financial-asset impairment losses of ¥632,135mn in the year (qualitative section), booked overwhelmingly in Q4</strong> — standalone Q4 operating profit was −¥634,713mn against +¥33,339mn / +¥53,969mn / +¥28,427mn in Q1–Q3 on the restated quarterly trend table (Exhibit 3) — and by segment the disclosed impairments were ACIM ¥298,800mn, MOEN ¥116,287mn and AMEC ¥18,387mn (segment note), with the balance in Machinery, Group Companies and SPMS; by management product group, the appliance/commercial/industrial group took ¥335,139mn and the automotive group ¥231,085mn. FX added about ¥14,682mn of gains below operating profit, and income tax expense of ¥126,696mn was still booked against the pre-tax loss (including ¥74,850mn of deferred-tax expense in the cash-flow presentation), which is why the total net loss exceeds the pre-tax loss. The FY3/26 dividend is nil (interim and year-end both no dividend, decided 23 October 2025 and 3 March 2026 respectively), and the FY3/27 dividend is undecided.</p>\n<p>The balance sheet at 31 March 2026 (disclaimer of opinion): total assets ¥3,107,621mn, total equity ¥764,726mn, owners' equity ¥794,164mn (owners' equity exceeds total equity because non-controlling interests are negative at −¥29,438mn after subsidiary losses), owners' equity ratio 25.6% (restated FY3/25: 42.5%), book value per share ¥692.80 (restated FY3/25: ¥1,081.57). Interest-bearing debt (the company's definition: short-term borrowings + current portion of long-term debt + long-term debt, excluding leases) jumped to ¥1,113,404mn on the sheet (¥1,113,405mn in the tanshin's qualitative text — a ¥1mn rounding difference, Chapter 9) from a restated ¥639,192mn, as short-term borrowings rose by a net ¥492,904mn in the year (cash-flow statement) while ¥131,040mn of bonds were redeemed; cash rose ¥605,950mn to ¥852,204mn, so net interest-bearing debt actually fell to ¥261,201mn and the net D/E ratio was 0.33x (gross D/E 1.40x) — the company pre-funded liquidity ahead of the filing crisis, a fact pattern that matters for the listing-risk debate. Operating cash flow was ¥234,218mn, investing outflow ¥136,238mn (capex on tangible assets ¥130,482mn), free cash flow ¥97,979mn (company definition) and financing inflow ¥418,246mn (all FY3/26, disclaimer of opinion). One non-consolidated figure deserves prominence: the parent company's own net assets fell to ¥18,976mn at March 2026 (equity ratio 1.0%), from ¥202,984mn restated a year earlier (FY3/26 tanshin, individual summary) — the holding-company balance sheet, not the consolidated one, is where the loss landed hardest.</p>\n<p>Why the disclaimer — in the company's own disclosure (FY3/26 tanshin, note 8, summarised here, not verbatim): the third-party committee (established 3 September 2025 under the Japan Federation of Bar Associations guidelines; reports 27 February 2026 and, as the final supplementary report, 17 April 2026) identified, at the company and across many group sites, improper accounting committed with management involvement or awareness — premature revenue recognition, under-provisioning, overstated inventories, impairment avoidance and cost capitalisation — and confirmed that management and accounting staff had given the auditor inaccurate or misleading information and concealed or falsified records. Separate internal investigations found quality-related misconduct (falsified test and inspection records and unauthorised use of nonconforming materials at multiple production sites) and customs under-declaration on import transactions; the identified items were corrected in the FY3/26 statements, which restate FY3/25 retrospectively. However, personnel measures for some involved officers and employees were still incomplete at filing, some of those individuals still held responsible positions in the financial-reporting process, successors' performance of those responsibilities could not be sufficiently confirmed, and the company therefore states that undiscovered misstatements could have a material and pervasive effect that is not reflected because the affected items and amounts are not clear. PwC Japan accordingly disclaimed an opinion on the FY3/26 securities report — the second consecutive disclaimer, after FY3/25 — and the shares remain designated Securities on Special Alert (designated 28 October 2025). Exhibit 3 sets out the FY3/26 quarterly path on the annual tanshin's restated trend-table basis. Source: FY3/26 tanshin [IFRS] (header, qualitative section, notes, segment note, quarterly trend table), 30 September 2026; PL/segment sheet register S1/S6/S7.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. FY3/26 quarterly standalone results — latest filed period detail (restated trend-table basis; disclaimer of opinion)",
+          "sourceHtml": "FY3/26 tanshin [IFRS], 30 Sep 2026, section 5(2) quarterly trend table (Q1 and Q3 columns as restated in that document) and header. FY3/26 figures carry a disclaimer of opinion. The PL/segment sheet's standalone quarters, differenced from each quarter's own tanshin as filed, differ within the year (Q1 operating profit −¥26,407mn as filed vs +¥33,339mn here; Q3 +¥94,628mn vs +¥28,427mn) while nine-month and full-year totals agree exactly — see Basis of preparation. Profit before tax here is the tanshin (continuing) definition. No FY3/27 quarterly figures exist: the Q1 tanshin was never filed and the Q2 tanshin is postponed (H1 interim-report deadline extended to 16 Dec 2026).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "Q1 FY3/26",
+            "Q2 FY3/26",
+            "Q3 FY3/26",
+            "Q4 FY3/26",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "Revenue",
+              "639233",
+              "665665",
+              "681459",
+              "722348",
+              "2708705"
+            ],
+            [
+              "Operating profit",
+              "33339",
+              "53969",
+              "28427",
+              "-634713",
+              "-518978"
+            ],
+            [
+              "Profit before tax",
+              "33077",
+              "62224",
+              "42135",
+              "-633650",
+              "-496214"
+            ],
+            [
+              "Net income to owners",
+              "15852",
+              "13543",
+              "9722",
+              "-603741",
+              "-564624"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "No FY3/27 interims: postponement, the 16 December 2026 deadline, and the FY3/27 plan as an unaudited management assertion",
+      "level": "section",
+      "html": "<p><strong>Nothing about FY3/27 performance is knowable from company disclosure as of 17 November 2026</strong>, and this report presents no FY3/27 interim figures because none have been filed. The chronology, from the sheet register (S1) and the interview pack: the FY3/27 Q1 tanshin was never disclosed (a delay notice was issued on 5 August 2026); the Q2 FY3/27 tanshin was formally postponed (company notices on 11–12 November 2026); and on 16 November 2026 the company applied to extend the H1 FY3/27 interim-report filing deadline by one month to 16 December 2026, citing delayed restatement work at some overseas sites (Reuters / Newsweek Japan reports via the interview pack; the register records the Q2 delay notice under 16 November 2026 — the dating difference between the two sources is flagged in Chapter 9). In parallel, the audited corrected filings for prior years that the company had targeted for 28 October 2026 were not submitted: additional procedures — including checks on 252 signatory candidates at the auditor's request — pushed the company's own additional work into November 2026 with audit completion timing undetermined, although corrected-audit and FY3/27-audit contracts were signed on 23–24 October 2026, and the internal-control confirmation document was submitted to the TSE on 30 October 2026, starting the listing-maintenance review (interview pack, citing company disclosure via Tokyo Brief, 30 October 2026).</p>\n<p>The only FY3/27 numbers in existence are the plan figures published in section 3 of the FY3/26 tanshin (30 September 2026): full-year revenue ¥2,800,000mn, operating profit ¥200,000mn, profit before tax ¥180,000mn, owners' net income ¥100,000mn and basic EPS ¥87.23, on FX assumptions of USD/JPY 150 and EUR/JPY 180, with an H1 (cumulative Q2) plan of revenue ¥1,400,000mn, operating profit ¥120,000mn, profit before tax ¥110,000mn and owners' net income ¥60,000mn (EPS ¥52.34). In this report these figures are labelled, at every use, as an unaudited management assertion only: they were issued alongside financial statements carrying a disclaimer of opinion, they have never been revised or confirmed since (guidance tracker, 17 November 2026: unchanged, status 未検証), and roughly 60% of the planned full-year operating profit was scheduled to land in an H1 for which no results have been published — so there is no disclosed basis on which to treat the ¥200,000mn as guidance of the usual standing, and no H1 progress rate can be computed. The FY3/27 dividend forecast is undecided (interim and year-end both 未定). Two post-period liquidity facts are on the record: on 5 November 2026 the company renewed commitment-line agreements with MUFG Bank and Sumitomo Mitsui Banking Corporation totalling ¥600bn (company release via Business Wire), against cash of ¥852,204mn at March 2026 (disclaimer of opinion). The next hard disclosure event is therefore not an earnings print but a deadline: the H1 FY3/27 interim report by 16 December 2026, and whether the Q1 and Q2 FY3/27 tanshin appear with it. Source: FY3/26 tanshin section 3, 30 September 2026; sheet register S1/S10; interview pack, 16 November 2026; guidance tracker, 17 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Nidec is headquartered in Minami-ku, Kyoto, and reports six segments on the current basis (introduced in Q2 FY3/25, with FY3/24 taken from the restated prior-period block of the FY3/25 tanshin): SPMS, AMEC, MOEN, ACIM, Machinery (機械事業) and Group Companies (グループ会社事業). The segment definitions below are the company's own (FY3/26 tanshin segment note): SPMS is HDD motors and other small motors; AMEC is automotive products; MOEN and ACIM are both appliance, commercial and industrial products (MOEN is the former Nidec Motor operation; ACIM the appliance/commercial/industrial motor business into which the automotive organic business is being integrated); Machinery is equipment and machine tools; Group Companies is a portfolio segment spanning automotive products, appliance/commercial/industrial products, equipment, electronic components, other small motors and other businesses held through domestic group companies. Segment profit is operating profit. Segments are disclosed annually only — quarterly tanshin carry no segment note (register S4/S9) — so no quarterly segment history exists in this report. Alongside the segments, the company manages and describes the business in six product groups (precision small motors; automotive; appliance/commercial/industrial; machinery and equipment; electronic and optical components; other), whose FY3/26 figures (on the restated FY3/25 base) are used in this chapter where they give the cleaner demand picture. In FY3/26 (disclaimer of opinion) the segment revenue mix was MOEN 25.9%, Group Companies 21.9%, ACIM 16.3%, SPMS 14.9%, AMEC 13.4% and Machinery 7.5% (calculated from external sales).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "SPMS: the precision-small-motor franchise — HDD, brushless, fans and water-cooling",
+      "level": "section",
+      "html": "<p>SPMS sells the small precision motors on which Nidec was built: HDD spindle motors, other brushless motors, fan motors, vibration motors, brushed motors, motor-applied products and — the newest line — water-cooling modules for data centres (company product list, FY3/26 tanshin). It is the group's technology and margin core. On the current segment basis, external sales were ¥330,596mn in FY3/24, ¥391,265mn as filed in FY3/25 (¥391,372mn restated) and ¥403,997mn in FY3/26 (disclaimer of opinion), with segment profit of ¥25,958mn / ¥41,130mn as filed (¥44,386mn restated) / ¥62,844mn — <strong>margins of 7.9% / 10.5% as filed / 15.6%, the only segment whose profitability improved through the crisis years on the disclosed numbers</strong>. The product-group disclosure (precision small motors, a slightly wider perimeter than SPMS) shows why: external sales of ¥498,696mn in FY3/26 (+2.2% against restated FY3/25), of which HDD motors ¥110,152mn (+9.8%) on nearline drives for AI data centres and other small motors ¥388,544mn (+0.2%), with product-group operating profit of ¥29,995mn (6.0% margin, −51.3% YoY — the product-group profit is stated after allocations the segment figure is not, and the two must not be mixed). The FY3/26 tanshin's qualitative section frames the strategy directly: support the explosive growth of AI data centres with water-cooling modules and nearline HDD motors, develop and expand the product range, and lift profitability by reviewing unprofitable models. The Transformation plan (1 October 2026, interview pack) names water-cooling modules/CDU and HDD precision small motors among its five growth areas. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin segment note and product-group section, 30 September 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "AMEC and MOEN: automotive motors — growth bought with traction-motor losses and impairment",
+      "level": "section",
+      "html": "<p>AMEC (automotive products: automotive motors, automotive components and traction-motor systems, including the e-axle business built around the former Nidec Elesys and the China EV push) external sales were ¥338,540mn in FY3/24, ¥348,685mn as filed in FY3/25 (¥350,132mn restated) and ¥363,330mn in FY3/26 (disclaimer of opinion); segment profit was −¥55,694mn / −¥2,362mn as filed (¥53mn restated) / −¥25,089mn, including FY3/26 non-financial-asset impairments of ¥18,387mn in EV traction-motor and BSG (belt starter-generator) related facilities after sustained operating losses (segment note). MOEN (appliance, commercial and industrial products on the former Nidec Motor perimeter — the large US/European motor operation acquired in the Emerson and Leroy-Somer era) was the group's largest segment by FY3/26: external sales ¥459,828mn / ¥573,202mn as filed (¥573,846mn restated) / ¥702,824mn, with segment profit of ¥61,285mn / ¥69,379mn as filed (¥68,919mn restated) / −¥72,573mn, the swing driven by ¥116,287mn of FY3/26 impairments. On the management product-group view, automotive external sales were ¥718,309mn in FY3/26 (+7.7% against restated FY3/25) with an operating loss of ¥250,536mn after ¥231,085mn of impairments — the single largest loss pool in the group — while the FY3/26 tanshin describes the response: keep supplying mobility innovation across a broad product range while reviewing orders for unprofitable models, cutting fixed costs, integrating the automotive organic business into ACIM, and merging Nidec Mobility and Nidec Elesys (1 April 2025). The interview pack's portfolio debate — whether low-profit automotive and appliance motor units are sold — is live precisely here. Source: company results via PL/segment sheet; FY3/26 tanshin segment note (impairment notes) and qualitative section, 30 September 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "ACIM, Machinery and Group Companies: the appliance/industrial engine, the equipment arm and the long tail",
+      "level": "section",
+      "html": "<p>ACIM (appliance, commercial and industrial motors and related products — compressors' motors, HVAC, industrial motors, and increasingly generators and power systems) external sales were ¥428,009mn in FY3/24, ¥462,269mn as filed in FY3/25 (¥462,342mn restated) and ¥441,190mn in FY3/26 (disclaimer of opinion); segment profit was ¥42,646mn / ¥41,922mn as filed (¥35,668mn restated) / −¥289,333mn, after the group's largest single segment impairment, ¥298,800mn of non-financial assets in FY3/26. The demand story underneath is the strongest in the portfolio: the appliance/commercial/industrial product group (wider than ACIM alone) printed external sales of ¥1,104,605mn in FY3/26 (+5.0% against restated FY3/25) on rising demand for data-centre emergency-power generators and BESS, with capacity being added in India, France and North/Central America and a push into recurring maintenance and inspection services (FY3/26 tanshin qualitative section) — against an operating loss of ¥251,124mn after ¥335,139mn of product-group impairments. Machinery (equipment: industrial robots, card readers, inspection equipment, presses, reducers and machine tools, including the Takisawa and OKK machine-tool operations and Nidec Drive Technology) external sales were ¥204,388mn / ¥213,386mn as filed (¥209,352mn restated) / ¥203,776mn, with segment profit of ¥28,353mn / ¥17,828mn as filed / −¥13,827mn — and, on the restated base, −¥84,926mn in FY3/25, the clearest single example of impairment re-dating in the restatement (Chapter 9); the product-group view (machinery and equipment) shows external sales of ¥298,782mn (−3.8%) and an operating loss of ¥930mn in FY3/26. Group Companies — the domestic group-company portfolio (including the components business now being sold) — external sales were ¥585,798mn / ¥618,287mn as filed (¥619,303mn restated) / ¥593,588mn, with segment profit of ¥75,582mn / ¥88,696mn as filed (¥79,175mn restated) / −¥131,711mn. Electronic and optical components (switches, sensors, lens units, camera shutters) appear only in the product-group view: external sales ¥84,560mn (−0.7%) and operating profit ¥2,415mn in FY3/26. Production, capacity and unit-volume data are not disclosed in the tanshin and are not quantified in this report (register S9); the Transformation plan's statement that appliance-motor capacity utilisation ran at only about 50–60% is a plan-materials figure via the interview pack, labelled as such. Source: company results via PL/segment sheet; FY3/26 tanshin, 30 September 2026; interview pack, 16 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "The portfolio frame: breadth built by fifty years of M&A, now being cut back",
+      "level": "section",
+      "html": "<p>Nidec's breadth is an acquisition artefact: from the 1973 founding as a precision small-motor maker, the group bought its way into appliance motors (Emerson's motor business, Leroy-Somer, Control Techniques), automotive (Elesys, and the OMRON automotive-components business that became Nidec Mobility), compressors (Embraco), machinery (Shimpo, OKK, Takisawa, Pama) and components — reaching 353 group entities and 248 sites by March 2026 (FY3/26 tanshin, Re-Definition plan section). The common technology thread is the motor and its control: rotating and moving things, from a 10mm HDD spindle motor to a traction-motor system and a generator, with power electronics and gearing attached. The crisis-era reversal of that build-out is now official policy on two documents: the 'Re-Definition' five-year reform plan (basic policy announced 13 May 2026; Chapter 7) targets consolidation to 160–180 sites and 160–180 entities, and the Transformation plan of 1 October 2026 (interview pack) names five growth areas — water-cooling modules/CDU for AI data centres, generators, BESS/power-conversion systems, HDD precision small motors and one further data-centre-adjacent line — with selection and concentration in automotive and appliance motors. The first signed exit is Nidec Components, to be sold to Carlyle for ¥103.0bn with closing on 1 December 2026 (interview pack). Whether the rump portfolio — SPMS plus data-centre power — can carry a group of ¥2.7tn of revenue is the business question that sits underneath the disclosure question. Source: FY3/26 tanshin (Re-Definition section), 30 September 2026; interview pack, 16 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Nidec sells components, not systems, into four value chains that share one competence — <strong>designing and mass-producing motors and their drive electronics at a cost and quality level customers cannot replicate in-house</strong>. In precision small motors, the chain runs from rare-earth magnets, bearings and semiconductor drivers through Nidec's motor plants (heavily in Thailand, China and the Philippines, on the entity-location disclosure) to HDD makers, fan and module makers and, increasingly, server and data-centre equipment makers: the current cycle is AI-led, with nearline HDD demand (HDD motor revenue +9.8% in FY3/26) and liquid-cooling modules (CDU) as the growth edge the company itself identifies, against a structurally declining client-HDD base. Competition is against MinebeaMitsumi and specialist Asian motor makers on cost and customisation; the barrier is co-development depth and capacity, and the substitute risk is technology shift (solid-state storage against HDDs, direct liquid-cooling architectures against module suppliers) — no company-disclosed market-size or share figure is carried in the sources used here, and none is substituted.</p>\n<p>In automotive, Nidec supplies motors and components (EPS motors, brake and pump motors, BSG) and complete traction-motor systems (e-axle) to global OEMs and tier-1s; this is the chain where the model broke — Chinese EV price competition and over-built traction capacity produced sustained losses, the FY3/25–FY3/26 impairments (automotive product-group impairments of ¥231,085mn in FY3/26 alone) and the current order-review and fixed-cost programme. In appliance, commercial and industrial motors, the chain runs to appliance OEMs, HVAC makers and — the growth pole — data-centre developers and power-equipment channels buying generators and BESS, where the FY3/26 tanshin reports demand still rising steeply and capacity investment under way in India, France and North/Central America; appliance-motor utilisation of only about 50–60% (Transformation plan materials via the interview pack) marks the legacy end of the same chain. In machinery, Nidec sells presses, reducers, machine tools and inspection equipment into factory capex, competing with the domestic machine-tool industry on installed base and service. Entry barriers across the group are manufacturing know-how at scale, customer qualification cycles (longest in automotive and HDD) and a global plant footprint; the governance overlay is now itself a value-chain variable — the interview pack's central commercial question is whether hyperscaler and OEM customers will qualify and keep sole- or dual-sourcing critical motors and CDU from a supplier whose financial reporting carries a disclaimer of opinion, and no quantified customer attrition has been disclosed (未取得). The two sensitivities that follow: first, overseas sales are 90.4% of the total by customer location (Chapter 5), so FX and the China/EV complex dominate the demand mix; second, the growth the transformation plan depends on — AI data-centre physical infrastructure — is also the demand most exposed to a single capex cycle, and with no order or backlog disclosure in the tanshin, the earliest observable of a change is the quarterly print itself, which currently does not exist for FY3/27. Sources: FY3/26 tanshin qualitative section, 30 September 2026; PL/segment sheet (tanshin, JPX archive); interview pack, 16 November 2026.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 6",
+          "titleHtml": "Nidec in the motor &amp; motion value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (motion control value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-nidec-initiation-37/d1.svg",
+          "alt": "Nidec in the motor & motion value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Nidec's tanshin disclosure gives an annual business-segment history on three successive bases (the pre-FY3/25 ten-unit basis, the FY3/21 eight-unit basis and the current six-segment basis) and regional sales on two bases (customer location and entity location) in every period including quarters. The sheet preserves each basis separately and never restates silently (register S4/S5); this chapter uses the current six-segment basis for FY3/24–FY3/26 and shows FY3/25 twice — as originally filed and as restated in the FY3/26 tanshin — because the difference between those two columns is the single most important fact in the segment record. All FY3/26 figures carry a disclaimer of opinion.</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 7",
+          "titleHtml": "Nidec Corporation — segment revenue, FY3/26 (disclaimer of opinion)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-nidec-initiation-37/c4.svg",
+          "alt": "Nidec Corporation — segment revenue, FY3/26 (disclaimer of opinion)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Business segments: in FY3/26 (disclaimer of opinion) only SPMS made money",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the history. Three facts organise it. First, the FY3/26 (disclaimer of opinion) profit map is a clean split between the small-motor core and everything the acquisition era added: SPMS earned ¥62,844mn (15.6% margin) while ACIM lost ¥289,333mn, Group Companies ¥131,711mn, MOEN ¥72,573mn, AMEC ¥25,089mn and Machinery ¥13,827mn, with a further −¥49,289mn of eliminations and corporate costs (including ¥49,751mn of unallocated corporate expenses per the segment note) taking the segment subtotal of −¥469,689mn to the consolidated operating loss of −¥518,978mn. The losses are impairment-led (disclosed segment impairments: ACIM ¥298,800mn, MOEN ¥116,287mn, AMEC ¥18,387mn) but not impairment-only: <mark>excluding the total ¥632,135mn impairment, consolidated operating profit would have been about ¥113,157mn (calculated), a 4.2% margin — thin for the revenue base even before the crisis accounting</mark>. Second, the restatement column: FY3/25 segment profit as restated (SPMS ¥44,386mn, AMEC ¥53mn, MOEN ¥68,919mn, ACIM ¥35,668mn, Machinery −¥84,926mn, Group Companies ¥79,175mn; total ¥128,222mn) versus as filed (¥41,130mn / −¥2,362mn / ¥69,379mn / ¥41,922mn / ¥17,828mn / ¥88,696mn; total ¥240,200mn) shows the correction concentrated in Machinery (−¥102,754mn of swing, as machine-tool goodwill impairment was re-dated into FY3/25) — the interview pack notes roughly ¥250bn of machine-tool goodwill impairment across FY3/24–FY3/25 on the corrected basis. Third, the growth engine by revenue is MOEN: external sales rose from ¥459,828mn (FY3/24) to ¥702,824mn (FY3/26, disclaimer of opinion), +22.6% in FY3/26 alone, on the appliance/commercial/industrial demand described in Chapter 3 — revenue growth and profit destruction in the same segment is the portfolio problem the transformation plan has to solve. One reconciliation note: FY3/24 segment external sales sum to ¥2,347,159mn, ¥1,043mn below consolidated revenue, because the segment note excludes businesses classified as discontinued operations (tanshin note); FY3/25 and FY3/26 segment sales sum exactly to consolidated revenue. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin segment note, 30 September 2026.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Business segments — external revenue and segment profit (operating profit), current six-segment basis",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), segment note. FY3/24 is from the restated prior-period block of the FY3/25 tanshin (the six-segment aggregation was introduced in Q2 FY3/25). FY3/25 is shown as originally filed and as restated in the FY3/26 tanshin; FY3/26 figures carry a disclaimer of opinion. Segment external sales for FY3/24 sum to ¥2,347,159mn, ¥1,043mn below consolidated revenue, because the segment note excludes discontinued operations (tanshin note); other years sum exactly. Adjustment / corporate is calculated as consolidated operating profit less the segment subtotal (FY3/25 restated and FY3/26 as disclosed in the FY3/26 tanshin). Segments are disclosed annually only.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY3/24",
+            "FY3/25 (as filed)",
+            "FY3/25 (restated)",
+            "FY3/26 (disclaimer of opinion)"
+          ],
+          "rows": [
+            [
+              "SPMS — external revenue",
+              "330596",
+              "391265",
+              "391372",
+              "403997"
+            ],
+            [
+              "SPMS — segment profit",
+              "25958",
+              "41130",
+              "44386",
+              "62844"
+            ],
+            [
+              "AMEC — external revenue",
+              "338540",
+              "348685",
+              "350132",
+              "363330"
+            ],
+            [
+              "AMEC — segment profit",
+              "-55694",
+              "-2362",
+              "53",
+              "-25089"
+            ],
+            [
+              "MOEN — external revenue",
+              "459828",
+              "573202",
+              "573846",
+              "702824"
+            ],
+            [
+              "MOEN — segment profit",
+              "61285",
+              "69379",
+              "68919",
+              "-72573"
+            ],
+            [
+              "ACIM — external revenue",
+              "428009",
+              "462269",
+              "462342",
+              "441190"
+            ],
+            [
+              "ACIM — segment profit",
+              "42646",
+              "41922",
+              "35668",
+              "-289333"
+            ],
+            [
+              "Machinery — external revenue",
+              "204388",
+              "213386",
+              "209352",
+              "203776"
+            ],
+            [
+              "Machinery — segment profit",
+              "28353",
+              "17828",
+              "-84926",
+              "-13827"
+            ],
+            [
+              "Group Companies — external revenue",
+              "585798",
+              "618287",
+              "619303",
+              "593588"
+            ],
+            [
+              "Group Companies — segment profit",
+              "75582",
+              "88696",
+              "79175",
+              "-131711"
+            ],
+            [
+              "Adjustment / corporate — profit",
+              "-15024",
+              "-16393",
+              "-15053",
+              "-49289"
+            ],
+            [
+              "Consolidated operating profit",
+              "163106",
+              "240200",
+              "128222",
+              "-518978"
+            ],
+            [
+              "Consolidated revenue (memo)",
+              "2348202",
+              "2607094",
+              "2606347",
+              "2708705"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions: 90.4% overseas by customer location; Europe is the largest single region",
+      "level": "section",
+      "html": "<p>Regional sales by customer location (地域別; the sheet's main block, with Other regions as the balancing category) for FY3/26 (disclaimer of opinion) were: Japan ¥259,722mn (9.6% of sales), China ¥557,883mn (20.6%), Asia ex-China ¥442,491mn (16.3%), USA ¥555,470mn (20.5%), Europe ¥644,802mn (23.8%) and Other ¥248,337mn (9.2%) — <strong>an overseas ratio of 90.4% (calculated)</strong>. The four-year path on this basis (the China / Asia ex-China / USA split is disclosed from FY3/23; FY3/22 is preserved on the prior category set in the sheet and is not spliced in) is one of European and American weight rising: Europe grew from ¥400,513mn in FY3/23 to ¥644,802mn in FY3/26 (+15.7% in FY3/26), the USA from ¥455,566mn to ¥555,470mn, Asia ex-China from ¥353,097mn to ¥442,491mn, while China was flat (¥563,088mn → ¥557,883mn) and Japan declined slightly (¥260,463mn → ¥259,722mn). By entity location (所在地別, supplementary rows), FY3/26 sales were Japan ¥392,650mn, China ¥563,489mn, Asia ex-China ¥362,066mn, USA ¥617,423mn, Europe ¥670,455mn and Other ¥102,622mn — the production footprint is more Asian than the customer map, as expected for an exporter of motors built in Thailand, China and the Philippines. Regional profit is not disclosed on any basis, and segment data by quarter are not disclosed in the tanshin (register S5/S9) — both are stated here as not disclosed rather than estimated. The regional fact that matters for the equity is concentration of the problem, not of the sales: the restatement's delayed work sits at overseas sites (the H1 extension cites overseas restatement work; Reuters via the interview pack identifies North America), and the impairment pool sits in the automotive and appliance operations built in Europe and the Americas. Source: company results via PL/segment sheet (tanshin, JPX archive), regional information, FY3/23–FY3/26.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (IFRS, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive); FY3/25 is as originally filed and FY3/26 carries a disclaimer of opinion — see the labels in Chapters 2 and 9. Income statement: sales ¥1,918,174mn / ¥2,242,824mn / ¥2,348,202mn / ¥2,607,094mn / ¥2,708,705mn for FY3/22–FY3/26; cost of sales ¥1,514,837mn / ¥1,829,623mn / ¥1,850,590mn / ¥2,070,096mn / ¥2,182,070mn; gross profit ¥403,337mn / ¥413,201mn / ¥497,612mn / ¥536,998mn / ¥526,635mn (margins 21.0% / 18.4% / 21.2% / 20.6% / 19.4%); SG&amp;A ¥153,835mn / ¥231,783mn / ¥253,451mn / ¥215,349mn / ¥928,710mn; R&amp;D (a separate IS line in Nidec's presentation, and the sheet's 'other operating expense' row) ¥78,015mn / ¥81,337mn / ¥81,055mn / ¥81,449mn / ¥116,903mn; operating profit ¥171,487mn / ¥100,081mn / ¥163,106mn / ¥240,200mn / −¥518,978mn. Below operating profit: share of profit of associates was −¥1,788mn / −¥5,888mn / −¥7,208mn / −¥3,383mn / −¥1,061mn on the sheet's mapping (the tanshin's equity-method reference figure for FY3/26 is −¥1,010mn, the difference being presentation of the discontinued result — Chapter 9); other investing income and expenses were +¥2,485mn / +¥19,854mn / +¥32,550mn / −¥13,693mn / +¥13,649mn (derivatives and FX: FY3/26 FX gains of ¥14,682mn partly offset by derivative losses of ¥1,033mn, per the segment-note reconciliation); financing income net was −¥1,366mn / +¥4,563mn / +¥14,427mn / +¥13,200mn / +¥10,125mn. Profit before tax on the sheet's control definition (reported PBT plus the post-tax discontinued result) was ¥170,818mn / ¥118,610mn / ¥202,875mn / ¥236,324mn / −¥496,265mn; income tax expense was ¥34,051mn / ¥74,889mn / ¥76,332mn / ¥72,704mn / ¥126,696mn — the FY3/23 and FY3/26 tax charges are the two earnings-quality flags in the series (a 63.1% effective rate in FY3/23; a ¥126,696mn charge, including ¥74,850mn of deferred-tax expense, booked against a pre-tax loss in FY3/26 as deferred-tax assets were written down). Net income (total) was ¥136,767mn / ¥43,721mn / ¥126,543mn / ¥163,620mn / −¥622,961mn; non-controlling interests took −¥103mn / −¥1,282mn / ¥1,156mn / −¥4,068mn / −¥58,337mn, leaving owners' net income of ¥136,870mn / ¥45,003mn / ¥125,387mn / ¥167,688mn / −¥564,624mn. Depreciation and amortisation are not presented as a single tanshin line in the sheet (blank) and no EBITDA proxy is presented; the FY3/26 cash-flow statement shows tangible-asset depreciation of ¥80,612mn and other amortisation of ¥22,270mn (disclaimer of opinion).</p>\n<p>Balance sheet (31 March 2026, disclaimer of opinion): total assets ¥3,107,621mn; total liabilities ¥2,342,895mn; total equity ¥764,726mn, of which owners' equity ¥794,164mn (ratio 25.6%; book value per share ¥692.80) and non-controlling interests −¥29,438mn. Cash and equivalents ¥852,204mn; receivables ¥736,512mn; inventory ¥560,987mn (about 3.1 months of cost of sales, calculated); trade payables ¥704,712mn; interest-bearing debt ¥1,113,404mn (short-term borrowings ¥587,026mn, current portion of long-term debt ¥95,106mn, long-term debt ¥431,272mn — the current-portion line is the component a programme audit screen initially missed; the sheet was re-derived exactly from the tanshin balance sheet for all 25 periods). Cash flow: operating cash flow ¥94,994mn / ¥143,485mn / ¥321,487mn / ¥284,428mn as filed / ¥234,218mn (FY3/22–FY3/26); FY3/26 investing outflow was ¥136,238mn and financing inflow ¥418,246mn (net short-term borrowing increase ¥492,904mn, long-term debt raised ¥95,771mn, bond redemptions ¥131,040mn, dividends paid ¥22,926mn — the FY3/25 year-end dividend). Per-share data: weighted average shares 1,146,308,959 in FY3/26 (issued 1,192,568,936; treasury 46,260,495); basic EPS as reported was ¥234.30 / ¥78.19 / ¥218.22 / ¥145.95 / −¥492.55 across FY3/22–FY3/26 on each year's own share-count basis (split breaks in Chapter 1). Share capital was ¥87,784mn. Not disclosed in the tanshin and therefore not presented as history here: order intake and backlog, employees, unit volumes, capacity and utilisation (register S9). Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin statements and notes, 30 September 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — 'Re-Definition', the Transformation plan, and what is not yet a plan",
+      "level": "part",
+      "html": "<p>Nidec has had three strategic frames in eighteen months, and this report keeps them separate and dated. The pre-crisis frame, Conversion2027, was abandoned with the scandal. The second frame is the 'Re-Definition' Nidec management-reform five-year plan (basic policy announced 13 May 2026, covering FY3/27–FY3/31), documented in the FY3/26 tanshin: governance and culture reform first ('必ず正しく' — 'be absolutely correct' — as the stated top management priority), a reorganised board with strengthened supervision, and a business rebuild around five pillars — Better Life; Electrification &amp; Energy Infrastructure; Digital Society Solutions; Manufacturing Solutions; Mobility Innovation — with portfolio review, group restructuring (248 sites to 160–180; 353 entities to 160–180, as targeted in the May 2026 policy) and a group IT rebuild, aimed at raising ROIC. Critically, the tanshin states that the mid-term management plan containing business strategies and numerical plans is still being formulated on the basis of that policy: <strong>audited or published multi-year numerical mid-term targets are therefore 未取得 (not disclosed) in the sources used, and none are presented here</strong>. The third frame is the 'Transformation for Revival' plan (再生に向けての変革) announced by the new management on 1 October 2026 (interview pack; company plan materials via press): concentrate resources on five high-profit/growth areas — water-cooling modules/CDU for AI data centres, generators, BESS/power-conversion systems, HDD precision small motors, and one further data-centre-adjacent line, with machine tools redefined as an enabler of that infrastructure — apply selection and concentration to automotive and appliance motors (appliance capacity utilisation described as only about 50–60%), and fund the pivot partly from disposals, of which the first is signed: Nidec Components to a Carlyle entity for ¥103.0bn, closing 1 December 2026. Growth claims in the plan materials (water-cooling, generator and BESS sales each growing about 40%) carry no stated base period in the materials and are treated here as unquantified plan colour, not data (interview pack flag).</p>\n<p>Shareholder-return policy as stated in the FY3/26 tanshin is a total return ratio target of 50%, combining stable and continuous dividends with opportunistic buybacks — a policy currently in abeyance in fact: the FY3/26 dividend was nil and the FY3/27 dividend is undecided, and no buyback is recorded in the periods covered here. The monitoring set that substitutes for a fuller plan, in the order the evidence arrives: (1) the H1 FY3/27 interim report by the extended deadline of 16 December 2026, and publication of the Q1 and Q2 FY3/27 tanshin, with or without an auditor review conclusion; (2) H1 FY3/27 operating profit against the ¥120,000mn H1 plan (unaudited management assertion) — the first hard test of the FY3/27 ¥200,000mn plan figure (unaudited management assertion); (3) the corrected filings: the audit opinion type on the restated accounts and any further change to cumulative profit or equity beyond the about ¥160.7bn already identified; (4) the TSE's listing-maintenance review outcome on the internal-control confirmation submitted 30 October 2026; (5) execution markers — the Components disposal closing (1 December 2026), further disposals, and the site/entity consolidation counts against the Re-Definition targets. All plan figures above are company plans or, for FY3/27, an unaudited management assertion, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY3/26 tanshin (outlook and management-policy sections), 30 September 2026; interview pack, 16 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History. Nidec was founded in Kyoto in 1973 by Shigenobu Nagamori as Nippon Densan (日本電産), a precision small-motor maker, and built the group through domestic growth and a long acquisition programme (Chapter 3d); the company renamed itself Nidec Corporation (ニデック株式会社) in 2023. Head office: Minami-ku, Kyoto. Share capital: ¥87,784mn (FY3/26 tanshin equity statement). The auditor is PwC Japan. Source: company history materials (accessed November 2026); FY3/26 tanshin.</p>\n<p>Management — a complete changing of the guard inside a year. Founder Shigenobu Nagamori, who had held representative rights as Global Group Representative, resigned as a director and board chairman on 19 December 2025 and became chairman emeritus, then resigned as chairman emeritus on 26 February 2026 (company releases via Kyodo/Mainichi and Business Wire). President and CEO Mitsuya Kishida (in office since April 2024) took the board chair in December 2025; at the 18 June 2026 AGM the board chair passed to Soichiro Sakuma, an independent outside director, under a renewed board and committee structure (company release, 18 June 2026). On 29 September 2026 Kishida resigned as Representative Director, President and CEO after a review in the preparation of the corrected results found statements and conduct by him concerning financial reporting that could not necessarily be regarded as appropriate (company notice, 29 September 2026; Reuters/Asahi, 30 September 2026); Michio Kaida, Senior Managing Executive Officer and CTO, became President and CEO the same day — as he was not a director, Representative Director Masayuki Minai (Senior Managing Executive Officer; the representative named in the FY3/26 tanshin header) holds representative authority until Kaida's planned election as a director at an extraordinary shareholders' meeting (company notice via NewsPicks summary). On 27 October 2026 the company decided to sue Nagamori, former chairman Hiroshi Kobe, former chief executives Kishida and Jun Seki and five other former directors, auditors and the former CFO — nine former executives in total — for damages over the suspected accounting irregularities (Reuters, 27 October 2026). Shares issued: 1,192,568,936, of which 46,260,495 in treasury at 31 March 2026.</p>\n<p>Major shareholders. No controlling shareholder; the largest single holder on the record used here is founder Shigenobu Nagamori at 8.61% as of September 2025 (Kyodo via Mainichi) — a dated figure, flagged as such; a full current top-10 register is not reproduced because the FY3/26 securities report (disclaimer of opinion) is the only primary source and its shareholder table was not in the sources compiled for this report (未取得).</p>\n<p>Employees and other data. Consolidated headcount is not disclosed in the tanshin (PL/segment sheet register S9) and is not presented as company disclosure here.</p>\n<p>Shareholder returns. Dividends per share: ¥85 (FY3/17) rising to ¥115 (FY3/20) on the pre-split basis, ¥60–¥75 across FY3/21–FY3/24 after the April 2020 split, FY3/25 interim ¥40 (pre-split) plus year-end ¥20 (post-split; ¥80 for the year on a pre-split basis), FY3/26 nil, FY3/27 undecided. The stated policy (FY3/26 tanshin) targets a total return ratio of 50% over time; at the FY3/26 balance-sheet date the company also carried a ¥600bn commitment line, renewed on 5 November 2026 with MUFG Bank and Sumitomo Mitsui Banking Corporation (company release via Business Wire).</p>\n<p>Market data. The shares closed at ¥1,707 on 16 November 2026 (StockAnalysis.com; corroborated by StockInvest.us), down 4.53% on the day, giving a market capitalisation of about ¥1,956.7bn (calculated from the cited price and the 1,146.31mn shares excluding treasury at March 2026; StockInvest.us shows ¥1.957tn). The 52-week range was ¥1,544 (6 November 2026) to ¥2,941 (24 September 2026) (Finnhub) — the shares had therefore fallen about 42% from the September 2026 high, which predates the FY3/26 filing, into mid-November. At ¥1,707 the shares trade at 2.46x FY3/26 book value per share of ¥692.80 (disclaimer of opinion; calculated), at no meaningful P/E on FY3/26 EPS of −¥492.55, and at 19.6x the FY3/27 plan EPS of ¥87.23 — a multiple of an unaudited management assertion, shown for scale only and not as a valuation. The next scheduled disclosure event is the H1 FY3/27 interim report by its extended deadline of 16 December 2026; no date for the Q1/Q2 FY3/27 tanshin has been committed in the sources used.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Nidec (6594) (IFRS template; March year-end; FY3/22–FY3/26 annual and 20 quarters in the main block, FY3/17–FY3/21 annual in the history block; ¥mn), built from the company's tanshin in the JPX disclosure archive (batch 4b, 2026-11-16; history wave H5, 2026-11-17; BS completion fix, register S17), with template checks equal to zero apart from the known forecast-column artefact set (125 nonzero check cells, identical before and after the BS fix — a template artefact class, not a data error; batch logs). The FY3/26 tanshin [IFRS] dated 30 September 2026 is used directly for the FY3/26 header figures, the restated FY3/25 comparatives, the segment note, the product-group tables, the quarterly trend table, the impairment and investigation notes and the FY3/27 plan figures. The interview pack for 6594 (16 November 2026) is used for the postponement and corrected-filing chronology, the committee impact figure and the Transformation plan, and is flagged at each use as a secondary compilation of company notices and press reports; the guidance tracker (17 November 2026) is used for the FY3/27 plan's revision status. No genuine Nidec transcript exists in the programme's English transcript library (checked 17 November 2026), and none is cited. Market and leadership data are from Finnhub, StockAnalysis.com, StockInvest.us and the cited company releases and news reports as returned by web search on 17 November 2026, cited with dates in the text.</p>\n<p>Discrepancies and basis breaks flagged (not silently resolved). (1) The restatement: FY3/25 as originally filed (FY3/25 tanshin, 24 April 2025: sales ¥2,607,094mn, operating profit ¥240,200mn, PBT ¥236,528mn, owners' net income ¥167,688mn, total assets ¥3,325,561mn, owners' equity ¥1,719,296mn, BPS ¥1,499.86, ROE 10.0%) versus FY3/25 as restated in the FY3/26 tanshin (sales ¥2,606,347mn, operating profit ¥128,222mn, PBT ¥124,576mn, owners' net income ¥84,672mn, total assets ¥2,919,765mn, owners' equity ¥1,239,815mn, BPS ¥1,081.57, ROE 6.9%). This report's history preserves the as-filed figures (the sheet's standard method) and shows the restated column in Exhibit 2 and wherever FY3/25 is the comparison base; the two must not be mixed. (2) Audit status by year: the FY3/25 and FY3/26 securities reports carry disclaimers of opinion (second consecutive year at FY3/26); FY3/22–FY3/24 figures are as filed in years that predate the discovery but sit inside the perimeter the committee later investigated, and their own later comparatives already differ for a separate reason — discontinued-operations reclassification (e.g. FY3/24 in the FY3/25 tanshin: sales ¥2,347,159mn and operating profit ¥161,856mn versus ¥2,348,202mn and ¥163,106mn in the FY3/24 tanshin itself; FY3/23 operating profit ¥100,028mn in the FY3/24 tanshin versus ¥100,081mn as filed). The sheet preserves as-filed figures throughout and this report follows the sheet. (3) FY3/26 quarterly splits: the sheet's standalone quarters, derived by differencing each quarter's own tanshin as filed (Q1 operating profit −¥26,407mn, Q2 +¥47,514mn, Q3 +¥94,628mn), differ materially from the FY3/26 annual tanshin's restated quarterly trend table used in Exhibit 3 (Q1 +¥33,339mn, Q2 +¥53,969mn, Q3 +¥28,427mn); nine-month and full-year totals agree exactly on both bases (9M operating profit ¥115,735mn; FY −¥518,978mn), so the difference is within-year allocation under the restatement, flagged here rather than reconciled away. (4) Profit-before-tax definition: the tanshin-header PBT is a continuing-operations figure; the sheet's control PBT adds the post-tax discontinued result (FY3/26: −¥496,265mn versus header −¥496,214mn, the difference being the −¥51mn discontinued loss; the same construction explains smaller differences in FY3/22–FY3/25). Chapter 6 uses the sheet definition and labels it; Chapters 1–2 use the header figure where the tanshin's own growth comparisons are quoted. (5) Interest-bearing debt: ¥1,113,404mn in the sheet (re-derived exactly from the tanshin balance sheet for all 25 periods; the FY3/26 components are short-term borrowings ¥587,026mn + current long-term debt ¥95,106mn + long-term debt ¥431,272mn) versus ¥1,113,405mn in the FY3/26 tanshin's qualitative text — a ¥1mn rounding difference in the source. (6) Associates: the sheet's FY3/26 associates line (−¥1,061mn) versus the tanshin's equity-method reference figure (−¥1,010mn) differ by the discontinued-operations presentation in the sheet's mapping (register S6). (7) Postponement dating: the interview pack dates the Q2 FY3/27 postponement notices to 11–12 November 2026 and the deadline-extension application to 16 November 2026; the sheet register (S1) records the Q2 delay notice under 16 November 2026. Both are reported in Chapter 2 with their sources. (8) Per-share breaks: 2-for-1 stock splits on 1 April 2020 and 1 October 2024 make EPS, BPS and dividend series non-continuous (FY3/25's dividend cannot be summed across the split; the tanshin gives ¥80 on a pre-split basis). (9) FY3/27 plan labelling: the FY3/27 figures (revenue ¥2,800,000mn, operating profit ¥200,000mn) are an unaudited management assertion only, per the task convention adopted throughout this report — they appear in the key data and Chapters 2 and 7 under that exact label and are excluded from Exhibit 1's history.</p>\n<p>Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'As filed' means as reported in that year's own tanshin; 'restated' means the comparatives in the FY3/26 tanshin. Items the company does not disclose in the tanshin — FY3/27 Q1 and Q2 results (not yet filed; H1 interim-report deadline extended to 16 December 2026), quarterly segment data, order intake and backlog, employees, unit volumes, capacity and utilisation, regional profit, audited corrected filings for prior years (pending; submission targeted for 28 October 2026 was missed), numerical mid-term plan targets (未取得 — still being formulated under the Re-Definition basic policy), the FY3/27 dividend (undecided) and any customer-attrition quantification (未取得) — are described as not disclosed or not yet filed rather than estimated. KPI history in this report covers ten years (FY3/17–FY3/26) from the PL/segment sheet, matching the 10–11-year span of the Shared Research reference reports.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
