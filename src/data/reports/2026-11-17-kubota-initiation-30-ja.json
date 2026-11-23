@@ -1,0 +1,685 @@
+{
+  "version": 1,
+  "editorReportId": 30,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "2026年11月23日",
+  "dateISO": "2026-11-23",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Kubota Corporation (6326)",
+  "headlineHtml": "<span class=\"rt-blue\">A North America machinery major</span> at a tariff-refund crossroads: initiation on Kubota as <strong>a record ¥400bn operating-profit guide</strong> meets the question of what the underlying margin is",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥2,242",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥2.77tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥1,999.5 – ¥3,268",
+      "asOf": "16 Nov 2026 (Finnhub via search results; low 19 Nov 2025, high 13 Feb 2026)"
+    },
+    {
+      "label": "P/E (FY12/25 basic EPS ¥163.44, IFRS)",
+      "value": "13.7x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY12/26E co. guidance EPS ¥255.55)",
+      "value": "8.8x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY12/26E dividend (company forecast)",
+      "value": "¥52 / share (2.1% yield)",
+      "asOf": "Q3 FY12/26 tanshin, 9 Nov 2026 (interim ¥26 paid)"
+    },
+    {
+      "label": "Next event",
+      "value": "FY12/26 full-year results, mid-Feb 2027",
+      "asOf": "Third-party calendar estimate (StockInvest.us: 15 Feb 2027), Nov 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Tractors, construction machinery and water infrastructure, repriced by tariffs and refunds:",
+  "ledeHtml": "Kubota Corporation (6326, TSE Prime) is the Osaka-based machinery group founded in 1890 as a casting works: its Farm &amp; Industrial Machinery segment — tractors and other farm machinery, engines, and compact construction machinery — is one of the world's leading franchises in small and mid-size equipment, with North America its largest market (40.4% of FY12/25 revenue; the US alone 37.2%), while Water &amp; Environment (ductile iron pipe, industrial machinery, environmental plants and pumps) is a predominantly domestic infrastructure business. The initiation question is not whether FY12/26 is a good year — it plainly is — but what Kubota's earnings power is once the year's two non-structural supports fall away. After the August 2026 upward revision, <strong>full-year company guidance is revenue of ¥3,280,000mn and a record operating profit of ¥400,000mn (+50.7% YoY), a 12.2% margin that already matches the company's 2030 mid-term target of an operating margin above 12%</strong>. Yet the guide embeds ¥70,000mn of expected US tariff refunds (¥17,000mn in H1, ¥53,000mn assumed in H2, per the Q2 briefing) and a weak yen (guidance assumptions USD/JPY 157, EUR/JPY 183), and management said at the Q3 stage that refund receipt is running slower than assumed and full-year receipt of the whole amount now looks difficult. Strengths: (1) the machinery franchise is genuinely strong where it matters — 9M FY12/26 construction machinery sales rose 21.6% YoY to ¥534,517mn on North American public and private construction demand, India market expansion continued, and North American price revisions and incentive discipline are documented in the Q2 briefing; (2) the balance-sheet turn under the new mid-term plan 'Focus &amp; Breakthrough' is producing cash — H1 FY12/26 free cash flow was ¥122,000mn (+¥59,200mn YoY) on finance-receivable compression, with a ¥230,000mn full-year FCF target and a ¥40,000mn buyback framework added in August 2026; (3) the domestic Water &amp; Environment business recovered segment profit 35.9% in FY12/25 to ¥32,983mn and provides a low-correlation earnings base. Weaknesses: (1) earnings quality at the guide — <strong>ex-FX, 9M revenue rose ¥137,000mn and operating profit ¥42,800mn of the reported +¥87,880mn increase</strong> (interview pack, from company disclosure), so most of the +40.9% 9M operating-profit jump is FX, refunds and price rather than volume; Q3 standalone operating profit actually fell 6.5% YoY (calculated); (2) the largest market is also the softest at retail — North American residential tractor demand is weak, the tractor market shrank in 9M even as Kubota's wholesale sales rose on dealer-inventory normalisation, and Thai demand remains at a low level; (3) the balance sheet carries a large finance book — bonds and borrowings were ¥2,242,079mn at FY12/25 against cash of ¥276,959mn, and total assets of ¥6,204,909mn are dominated by machinery and finance receivables, so ROIC (guided 6.2% for FY12/26 against a 2030 target of 7% or more) is the binding constraint of the equity story. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "9M FY12/26: revenue ¥2,478,111mn (+12.4%), operating profit ¥302,570mn (+40.9%) — but Q3 standalone profit fell.",
+      "html": "For the nine months to 30 September 2026 (IFRS), revenue was ¥2,478,111mn (+12.4% YoY), operating profit ¥302,570mn (+40.9%; margin 12.2%, +2.5pt), profit before tax ¥318,514mn (+39.8%), quarterly profit ¥242,031mn and net income attributable to owners ¥225,016mn (+58.5%); basic EPS was ¥198.70. The quarterly split matters more than the cumulative: Q1 printed operating profit of ¥98,042mn (+59.1%) and Q2 (derived) ¥137,525mn, while Q3 standalone (9M minus H1, both as reported) contributed revenue of ¥787,831mn (+5.1% YoY) and <strong>operating profit of ¥67,003mn, down 6.5% YoY against ¥71,662mn</strong> — the refund- and FX-flattered first half is not the run-rate. Source: Q3 FY12/26 tanshin [IFRS], 9 November 2026; Q1 and Q2 FY12/26 tanshin."
+    },
+    {
+      "leadHtml": "Guidance unchanged at Q3 — and it requires a record Q4.",
+      "html": "Full-year FY12/26 company guidance (会社計画) was left unchanged in the Q3 release of 9 November 2026 at revenue ¥3,280,000mn, operating profit ¥400,000mn, profit before tax ¥417,000mn and owners' net income ¥289,000mn (basic EPS ¥255.55), after the single revision of 4 August 2026 (initial plan, 12 February 2026: revenue ¥3,150,000mn, operating profit ¥300,000mn, owners' profit ¥210,000mn). At 9M, progress was 75.5% on revenue and 75.6% on operating profit, so <strong>the guide requires Q4 operating profit of about ¥97,430mn (calculated) — roughly 1.9x the ¥50,780mn of Q4 FY12/25</strong> — predicated on the H2 tariff-refund receipts (¥53,000mn of the ¥70,000mn expected for the year, per the Q2 briefing) that management now says are arriving slowly. Source: Q3 FY12/26 tanshin, 9 November 2026; guidance tracker (verified chain, 17 November 2026); Q2 FY12/26 briefing transcript, 4 August 2026."
+    },
+    {
+      "leadHtml": "Strength — construction machinery and India are carrying volume; North America is 42.3% of 9M sales.",
+      "html": "By product, 9M FY12/26 farm machinery &amp; engines sales were ¥1,661,861mn (+11.7% YoY) and construction machinery ¥534,517mn (+21.6%), the latter on firm North American public-investment and private construction demand (housing-related mini-excavator demand soft). By destination, North America was ¥1,049,435mn of 9M revenue (42.3%; the US ¥946,889mn, 38.2%), Japan ¥537,030mn, Asia ex-Japan ¥509,627mn, Europe ¥301,705mn and Others ¥80,314mn. <strong>Machinery segment profit rose 42.9% YoY to ¥280,718mn (a 12.8% margin on external sales)</strong>. Source: Q3 FY12/26 tanshin segment, regional and product notes, 9 November 2026."
+    },
+    {
+      "leadHtml": "Weakness — the five-year record before FY12/26 is a margin fade, not a climb.",
+      "html": "<strong>Operating profit fell from ¥328,829mn in FY12/23 (a 10.9% margin) to ¥315,636mn in FY12/24 and ¥265,470mn in FY12/25 (8.8%)</strong>, as US tariff costs, lower machinery volume and adverse mix hit FY12/25 (company qualitative section); ROE declined from 11.8% (FY12/23) to 7.3% (FY12/25) and operating cash flow was negative in both FY12/22 (−¥7,680mn) and FY12/23 (−¥17,273mn) on finance-receivable growth before recovering to ¥327,901mn in FY12/25. The FY12/26 guide therefore asks the market to capitalise a margin (12.2%) the group has not printed since the FY12/16–21 era (margins of 9.5–11.8%) — and to do so in a year flattered by refunds and FX. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 tanshin, 12 February 2026."
+    },
+    {
+      "leadHtml": "The plan is a balance-sheet story: 'Focus &amp; Breakthrough', 2030 targets ROE 12%, ROIC ≥7%, operating margin &gt;12%.",
+      "html": "The mid-term plan from 2026 shifts Kubota from PL-centred to BS/capital-efficiency management: company-wide ROIC management, compression of retail finance receivables and working capital, a Business Portfolio Strategy Council, growth concentration on construction machinery (the new large CTL takes North American CTL line-up coverage to 95%) and the India-originated business, and revenue-structure reform of the North American tractor business (incentive review, shorter retail-finance terms, an integrated North American production-and-sales organisation). <strong>Published 2030 targets are ROE 12%, ROIC of 7% or more and an operating margin above 12% (company plan); FY12/26 guided ROIC is 6.2%</strong> and guided free cash flow ¥230,000mn. Source: Q2 FY12/26 briefing transcript (full published record, SCRIPTS Asia), 4 August 2026; interview pack, 16 November 2026."
+    },
+    {
+      "leadHtml": "/",
+      "html": ""
+    },
+    {
+      "leadHtml": "",
+      "html": ""
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY12/16–FY12/25 actuals (IFRS, as reported) and FY12/26E company guidance",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), FY12/21–25 main window and FY12/16–20 history block; each year's figures as reported in its own tanshin (FY12/21 and FY12/22 were restated in the following year's tanshin for accounting-policy changes — see Basis of preparation). Profit before tax is the tanshin definition (before equity-method results, which Kubota presents below the tax line). EPS is basic EPS as reported for FY12/21–25 (no dilutive securities); FY12/17–20 EPS is calculated from history-block owners' profit and weighted shares; FY12/16 EPS, FY12/16–20 dividends and ROE are not carried in the history block. ROE as reported in tanshin headers. FY12/26E = company guidance as revised 4 Aug 2026 and unchanged in the Q3 FY12/26 tanshin, 9 Nov 2026.",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY12/16",
+          "FY12/17",
+          "FY12/18",
+          "FY12/19",
+          "FY12/20",
+          "FY12/21",
+          "FY12/22",
+          "FY12/23",
+          "FY12/24",
+          "FY12/25",
+          "FY12/26E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "1596091",
+            "1751535",
+            "1850316",
+            "1920042",
+            "1853234",
+            "2196766",
+            "2678772",
+            "3020711",
+            "3016281",
+            "3018891",
+            "3280000"
+          ],
+          [
+            "Revenue growth (%)",
+            "—",
+            "9.7",
+            "5.6",
+            "3.8",
+            "-3.5",
+            "18.5",
+            "21.9",
+            "12.8",
+            "-0.1",
+            "0.1",
+            "8.6"
+          ],
+          [
+            "Operating profit",
+            "188777",
+            "198826",
+            "189314",
+            "201654",
+            "175284",
+            "246207",
+            "218942",
+            "328829",
+            "315636",
+            "265470",
+            "400000"
+          ],
+          [
+            "Operating margin (%)",
+            "11.8",
+            "11.4",
+            "10.2",
+            "10.5",
+            "9.5",
+            "11.2",
+            "8.2",
+            "10.9",
+            "10.5",
+            "8.8",
+            "12.2"
+          ],
+          [
+            "Profit before tax",
+            "196971",
+            "212901",
+            "197230",
+            "209022",
+            "185899",
+            "250917",
+            "233927",
+            "342289",
+            "335297",
+            "282140",
+            "417000"
+          ],
+          [
+            "Net income to owners",
+            "132485",
+            "136445",
+            "138595",
+            "149061",
+            "128524",
+            "175637",
+            "156182",
+            "238455",
+            "230437",
+            "186687",
+            "289000"
+          ],
+          [
+            "Basic EPS (¥)",
+            "—",
+            "110.3",
+            "112.4",
+            "121.6",
+            "105.8",
+            "144.8",
+            "130.8",
+            "201.7",
+            "197.6",
+            "163.4",
+            "255.6"
+          ],
+          [
+            "Dividend per share (¥)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "42",
+            "44",
+            "48",
+            "50",
+            "50",
+            "52"
+          ],
+          [
+            "ROE (%)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "11.1",
+            "8.8",
+            "11.8",
+            "9.9",
+            "7.3",
+            "—"
+          ],
+          [
+            "Operating cash flow",
+            "184978",
+            "222288",
+            "89148",
+            "82410",
+            "142919",
+            "92511",
+            "-7680",
+            "-17273",
+            "282084",
+            "327901",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "figure": {
+        "id": "fnxvdaqmwt10oys",
+        "number": "Figure 1",
+        "titleHtml": "",
+        "sourceHtml": "",
+        "kind": "image",
+        "alt": ""
+      }
+    },
+    {
+      "type": "section",
+      "heading": "",
+      "level": "section",
+      "html": "",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Kubota reports with a December year-end under IFRS. The history in this chapter and in Exhibit 1 is as reported in each year's own annual tanshin (current-period column), compiled in the PL/segment sheet for 6326 (FY12/21–FY12/25 main window plus 20 quarters, with a history block for FY12/16–FY12/20 from the same tanshin series; all template checks equal zero). Two restatement warnings apply inside the window and are flagged, not adjusted away: the FY12/22 tanshin restates FY12/21 for an accounting-policy change (operating profit ¥244,565mn restated vs ¥246,207mn as originally reported; owners' profit ¥174,765mn vs ¥175,637mn), and the FY12/23 tanshin likewise restates FY12/22 (revenue ¥2,676,980mn, operating profit ¥214,387mn vs ¥2,678,772mn / ¥218,942mn as originally reported). This report follows the sheet in using each year's own as-reported figures. Figures are ¥mn unless stated.</p>\n<p>Revenue grew from ¥1,596,091mn in FY12/16 to a ¥3,020,711mn peak in FY12/23 — a 7.3% nine-year CAGR to FY12/25's ¥3,018,891mn — but the path is two distinct regimes. FY12/16–FY12/20 was a high-margin plateau: operating profit of ¥175,284mn–¥201,654mn at margins of 9.5–11.8% on revenue below ¥2tn. FY12/21–FY12/23 was the volume-and-price expansion: revenue rose 18.5% / 21.9% / 12.8% as North American demand, price revisions and yen translation compounded, and <strong>operating profit peaked at ¥328,829mn in FY12/23 — yet the margin never regained the plateau (11.2% / 8.2% / 10.9%)</strong>, because the growth was bought with SG&amp;A (¥390,449mn in FY12/21 to ¥597,007mn in FY12/24) and a swelling finance book. FY12/24–FY12/25 was the fade: revenue flat at ¥3,016,281mn and ¥3,018,891mn, operating profit down 4.0% then 15.9% to ¥265,470mn, as US tariff costs, lower machinery volume and mix deterioration overwhelmed price (FY12/25 tanshin qualitative section). Owners' net income followed the same arc: ¥238,455mn (FY12/23) → ¥230,437mn → ¥186,687mn; basic EPS (as reported; Kubota has no dilutive securities and presents diluted EPS as nil) was ¥201.74 / ¥197.61 / ¥163.44; ROE fell from 11.8% to 7.3%.</p>\n<p>The balance sheet is where the expansion went. Total assets rose from ¥3,773,656mn at FY12/21 to ¥6,204,909mn at FY12/25, driven by trade receivables (¥574,349mn → ¥1,001,683mn on the sheet's operating-receivables definition, finance receivables being a separate balance-sheet line) and inventory (¥510,065mn → ¥688,893mn); bonds and borrowings rose from ¥1,094,509mn to ¥2,242,079mn against cash of ¥276,959mn — a net debt position of about ¥1,965,120mn (calculated) that funds the retail-finance model. Operating cash flow tells the same story in reverse: strongly positive in the plateau years (¥184,978mn in FY12/16, ¥222,288mn in FY12/17), negative in FY12/22 (−¥7,680mn) and FY12/23 (−¥17,273mn) as receivables absorbed the sales growth, then recovering to ¥282,084mn (FY12/24) and ¥327,901mn (FY12/25) as growth stalled and collection improved. Owners' equity was ¥2,622,985mn at FY12/25 (ratio 42.3%; book value per share ¥2,306.80). Dividends per share rose steadily through the cycle — ¥42 / ¥44 / ¥48 / ¥50 / ¥50 across FY12/21–25, payout ratios of 23.8–33.6% — a stability that contrasts with the earnings path and is now supplemented by buybacks (Chapter 7). Exhibit 1 (page 1) gives the full ten-year KPI table including FY12/26 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY12/16–FY12/25; FY12/25 tanshin header, 12 February 2026.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 2",
+          "titleHtml": "Kubota Corporation — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/c1.svg",
+          "alt": "Kubota Corporation — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 3",
+          "titleHtml": "Kubota Corporation — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/c2.svg",
+          "alt": "Kubota Corporation — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 4",
+          "titleHtml": "Kubota Corporation — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/c3.svg",
+          "alt": "Kubota Corporation — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 5",
+          "titleHtml": "Kubota Corporation — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/v1.svg",
+          "alt": "Kubota Corporation — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — Q3 FY12/26 results and guidance",
+      "level": "part",
+      "html": "<p>Kubota reported Q3 FY12/26 (nine months, 1 January–30 September 2026) results on 9 November 2026, with a telephone conference for institutional investors and analysts the same day. Kubota publishes briefing scripts only for the second-quarter and full-year briefings, so no published Q3 script exists (verified in the programme's transcript library, 16 November 2026); the full verbatim record used for colour in this chapter is the Q2 FY12/26 briefing of 4 August 2026 (SCRIPTS Asia transcript), at which President &amp; CEO Shingo Hanada presented. This chapter summarises the Q3 release; segment and regional detail is in Chapter 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9M FY12/26 results (cumulative, as reported, IFRS)",
+      "level": "section",
+      "html": "<p>Revenue was ¥2,478,111mn (+12.4% YoY), operating profit ¥302,570mn (+40.9%; margin 12.2%, +2.5pt), profit before tax ¥318,514mn (+39.8%), quarterly profit ¥242,031mn (+45.7%) and net income attributable to owners ¥225,016mn (+58.5%); basic EPS was ¥198.70 (no diluted EPS — no dilutive securities). The company's qualitative section attributes the profit increase to FX improvement, price revisions centred on North America, volume gains in machinery, and tariff refunds, against US tariff costs and inflation-driven cost increases; income tax was ¥79,600mn and equity-method profit ¥3,100mn (tanshin text, rounded). The interview pack, from company disclosure, quantifies the quality of the beat: ex-FX, revenue rose ¥137,000mn and operating profit ¥42,800mn — i.e. <strong>a little under half of the reported +¥87,880mn operating-profit increase is underlying, the rest FX, refunds and price</strong>. The quarterly progression is the caution: Q1 FY12/26 operating profit was ¥98,042mn (+59.1% YoY), Q2 standalone (H1 minus Q1, both as reported) was ¥137,525mn on revenue of ¥880,268mn, and Q3 standalone was ¥67,003mn on revenue of ¥787,831mn — revenue +5.1% YoY but operating profit −6.5% YoY (calculated from as-reported cumulative figures), as refund receipt lagged and North American construction sales-support costs were loaded (interview pack, from Q3 coverage). H1 free cash flow was ¥122,000mn, up ¥59,200mn YoY, on compression of finance receivables (Q2 briefing).</p>\n<p>By segment (external revenue / segment profit, on the FY12/26 basis — from FY12/26, costs previously in the adjustment column are allocated to segments, and prior-year figures are restated onto that basis in the Q3 tanshin): Farm &amp; Industrial Machinery ¥2,196,378mn / ¥280,718mn (+14.0% / +42.9% YoY; a 12.8% margin); Water &amp; Environment ¥271,577mn / ¥19,911mn (+2.4% / −4.6%; price effects offset by raw-material cost increases); Other ¥10,156mn / ¥816mn (−14.2% / +4.6%); the adjustment column was +¥1,125mn (vs −¥3,464mn restated), mainly parent FX gains/losses not allocated to segments. Demand colour from the tanshin: in North America, construction machinery markets were firm on public investment and private construction despite soft housing-related demand, while the tractor market shrank on inflation-hit sentiment and weaker farm incomes — Kubota's tractor sales nonetheless rose on dealer-inventory normalisation; in Europe, tractor markets shrank on heatwaves but Kubota sales rose on inventory normalisation, and construction machinery markets recovered on infrastructure demand; in Asia, Thailand remained at a low level on low crop prices and high fuel prices, while India's market continued to expand on improving farm incomes and government rural-support measures.</p>\n<p>The balance sheet at 30 September 2026: total assets ¥6,185,126mn (down ¥19,800mn from FY12/25 year-end, mainly lower finance receivables in North America and Asia), total equity ¥2,985,050mn, owners' equity ¥2,754,509mn and an owners' equity ratio of 44.6% (+2.3pt from year-end). Shares issued were unchanged at 1,138,716,846, but treasury shares rose to 12,323,543 from 1,652,299 at FY12/25 year-end — the August buyback framework at work. The interim dividend was ¥26 per share. Source: Q3 FY12/26 tanshin [IFRS], 9 November 2026; Q1 FY12/26 tanshin, 8 May 2026; Q2 FY12/26 tanshin, 4 August 2026; Q2 FY12/26 briefing transcript, 4 August 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance: raised once, in August — revenue ¥3,280,000mn, operating profit ¥400,000mn (company guidance)",
+      "level": "section",
+      "html": "<p>Full-year FY12/26 guidance, unchanged in the Q3 release of 9 November 2026, is revenue ¥3,280,000mn (+8.6% YoY), operating profit ¥400,000mn (+50.7%), profit before tax ¥417,000mn (+47.8%) and net income attributable to owners ¥289,000mn (+54.8%) with basic EPS of ¥255.55 — company guidance (会社計画), not a J-Core Fundamental Research forecast. The revision chain is fully documented (guidance tracker, verified 17 November 2026): the initial plan of 12 February 2026 (revenue ¥3,150,000mn, operating profit ¥300,000mn, owners' profit ¥210,000mn) was revised once, on 4 August 2026, with the Q2 release; Q1 (8 May 2026) and Q3 (9 November 2026) both state no revision. The company's stated reason for the August raise (Q2 tanshin qualitative section): revenue reflects yen depreciation (+¥130,000mn vs the February plan), and operating profit was raised ¥100,000mn because FX and the expected contribution of US tariff refunds outweigh negatives such as raw-material cost increases from the Middle East situation. Guidance FX assumptions are USD/JPY 157 and EUR/JPY 183 (interview pack). The dividend forecast is ¥52 per share for the year (interim ¥26 paid), +¥2 YoY.</p>\n<p>What the guide embeds is the crux. At the Q2 briefing the company quantified expected US tariff refunds for FY12/26 at ¥70,000mn in total — ¥20,000mn for steel and aluminium (already in the initial plan) plus ¥50,000mn of reciprocal-tariff refunds — split ¥17,000mn in H1 and ¥53,000mn in H2 (Q2 briefing transcript, disclosed-figures table). It also guided free cash flow of ¥230,000mn and ROIC of 6.2% for FY12/26, and set an additional ¥40,000mn share-repurchase framework the same day. At Q3, however, management said operating profit came in below its internal expectation because tariff-refund receipt was slower than assumed, and that full-year receipt of the whole amount now looks difficult (Q3 coverage, Kikai News, 9 November 2026, via the interview pack). Arithmetic makes the exposure concrete: <mark>9M progress is 75.6% of guided operating profit, leaving about ¥97,430mn required in Q4 (calculated) against ¥50,780mn actually earned in Q4 FY12/25 — a near-doubling that depends on H2 refunds landing and on no Q4 margin fade</mark>. No segment-level guidance is published in the tanshin. The open questions the print leaves — the normalised margin ex-FX and ex-refunds, the recoverable refund total, and why guidance was not raised at Q3 despite 75.6% progress — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Exhibit 3 sets out the 9M segment results. Source: Q3 FY12/26 tanshin, 9 November 2026; Q2 FY12/26 tanshin, 4 August 2026; Q2 FY12/26 briefing transcript; guidance tracker, 17 November 2026.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. 9M FY12/26 segment results (IFRS, current allocation basis) and product sales",
+          "sourceHtml": "Q3 FY12/26 tanshin [IFRS] segment, product and qualitative sections, 9 Nov 2026. From FY12/26, costs previously in the adjustment column are allocated to segments; prior-year (9M FY12/25) figures are the tanshin's restated comparatives on that basis. Product sales are as disclosed in the tanshin's divisional sales table (9M FY12/25 comparatives as reported there).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "9M FY12/26 revenue",
+            "9M FY12/26 profit",
+            "9M FY12/25 revenue (restated)",
+            "9M FY12/25 profit (restated)"
+          ],
+          "rows": [
+            [
+              "Farm & Industrial Machinery",
+              "2196378",
+              "280718",
+              "1927181",
+              "196500"
+            ],
+            [
+              "Water & Environment",
+              "271577",
+              "19911",
+              "265268",
+              "20874"
+            ],
+            [
+              "Other",
+              "10156",
+              "816",
+              "11833",
+              "780"
+            ],
+            [
+              "Adjustment / corporate",
+              "—",
+              "1125",
+              "—",
+              "-3464"
+            ],
+            [
+              "Consolidated",
+              "2478111",
+              "302570",
+              "2204282",
+              "214690"
+            ],
+            [
+              "Memo: Farm machinery & engines (product sales)",
+              "1661861",
+              "—",
+              "1487449",
+              "—"
+            ],
+            [
+              "Memo: Construction machinery (product sales)",
+              "534517",
+              "—",
+              "439732",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Kubota is headquartered in Naniwa-ku, Osaka, and organises itself into three reportable segments — Farm &amp; Industrial Machinery, Water &amp; Environment, and Other (services) — plus a disclosed adjustment column; segment profit reconciles to consolidated operating profit. The segment definitions are the company's own (Q3 FY12/26 tanshin, segment note): Machinery comprises farm machinery and related products, engines, and construction machinery; Water &amp; Environment comprises the pipe systems business (ductile iron pipe, synthetic pipe), the industrial machinery business (reaction tubes, spiral steel pipe, air-conditioning equipment) and the environment business (environmental plants, pumps); Other is principally service businesses. One basis change runs through the recent history: from 1 January 2025 (FY12/25), certain corporate costs previously in the adjustment column are allocated to the segments (the FY12/25 annual tanshin restates FY12/24 onto that basis), and from FY12/26 the allocation was extended further, with prior periods restated in the FY12/26 tanshin — each chapter of this report states which basis its figures are on. In FY12/25 (as reported), the mix was Machinery 87.1% of external revenue, Water &amp; Environment 12.4% and Other 0.5%; by product, farm machinery &amp; engines were ¥2,003,307mn (66.4%), construction machinery ¥625,311mn (20.7%), pipe systems ¥139,956mn, environment ¥154,572mn and industrial machinery ¥79,824mn.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Farm & Industrial Machinery: tractors, engines and compact construction equipment",
+      "level": "section",
+      "html": "<p>Machinery is the group: external revenue of ¥1,864,803mn / ¥2,327,990mn / ¥2,636,727mn / ¥2,636,874mn / ¥2,628,618mn across FY12/21–FY12/25 with segment profit of ¥250,435mn / ¥237,134mn / ¥355,788mn / ¥347,390mn / ¥253,638mn — margins of 13.4% / 10.2% / 13.5% / 13.2% / 9.6% (as reported in each year's own tanshin; FY12/24 on the pre-2025 allocation basis — the FY12/25 tanshin's restated FY12/24 segment profit is ¥323,393mn, the difference being the corporate-cost allocation). The product engine is farm machinery &amp; engines (¥2,003,307mn in FY12/25): tractors — where Kubota's global strength is concentrated in compact and mid-size machines for residential, livestock and general farm use rather than the high-horsepower row-crop segment — plus combines, rice transplanters and implements in Asia, and a large engine business selling industrial diesel engines both internally and to third-party OEMs. Construction machinery (¥625,311mn in FY12/25) is compact equipment — mini excavators, compact track loaders (CTL) and skid-steer loaders — sold heavily into North American rental, landscaping and construction channels; <strong>the FY12/26 growth product is the new large CTL launched for North America, which takes the line-up's market coverage to 95% (Q2 briefing)</strong>. The demand map is deliberately diversified but North-America-led: machinery revenue by destination is dominated by North America, and the segment's FY12/25 profit fall (−¥93,752mn as reported) was a tariff-cost, volume and mix event in that market, while its 9M FY12/26 recovery (+42.9% segment profit, restated basis) was North American price, construction volume, FX and refunds. The structural questions are the two the mid-term plan itself names: the North American tractor business is a 'value-rebuilding' business (Chapter 7), and the growth pillars are construction machinery and the India-originated business (Escorts Kubota's FT-brand Promaxx and PT-brand Shaurya line-ups, per the Q2 briefing). Production and capacity data (sites, utilisation, unit volumes) are not disclosed in the tanshin and are not quantified in this report. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 and Q3 FY12/26 tanshin; Q2 FY12/26 briefing transcript, 4 August 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Water & Environment and Other: the domestic infrastructure base",
+      "level": "section",
+      "html": "<p>Water &amp; Environment is Kubota's original industrial franchise — the casting technology of 1890 became ductile iron pipe for waterworks — organised as pipe systems (ductile iron pipe and synthetic pipe for water and sewerage networks), industrial machinery (reaction tubes and spiral steel pipe for petrochemical and steel plants, air-conditioning equipment, and the housing-materials operations including the KMEW exterior-materials joint venture listed among the group's principal domestic companies in the FY12/25 tanshin) and environment (water and waste treatment plants, pumps, and related operation-and-maintenance work). The demand base is Japanese public infrastructure spending and replacement demand, with a smaller overseas pipe and plant business. Financially it is the group's stabiliser: external revenue of ¥305,380mn / ¥327,602mn / ¥364,469mn / ¥362,631mn / ¥374,352mn across FY12/21–FY12/25 with segment profit of ¥22,270mn / ¥17,250mn / ¥30,547mn / ¥29,665mn / ¥32,983mn (margins 7.3% / 5.3% / 8.4% / 8.2% / 8.8%, as reported) — a slow-growth, mid-single-to-high-single-digit margin business whose FY12/25 profit rose 35.9% on the restated basis on price revisions and volume. In 9M FY12/26 revenue grew 2.4% to ¥271,577mn (domestic +4.1% on pipe systems; overseas −6.8%) while segment profit fell 4.6% to ¥19,911mn as raw-material prices outran price effects — the segment's recurring tension. Other (services) is immaterial to earnings: FY12/25 external revenue ¥15,921mn and segment profit ¥824mn; 9M FY12/26 revenue ¥10,156mn, profit ¥816mn. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 tanshin qualitative and segment sections; Q3 FY12/26 tanshin.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Kubota sits at the equipment layer of three value chains. In farm machinery, it manufactures tractors, combines and implements and sells through dealer networks it supports with retail finance — the finance book on the balance sheet is part of the product, smoothing dealer and end-user purchases and tying Kubota's cash conversion to credit conditions in North America. Demand is derived from farm incomes, crop prices, interest rates and replacement cycles, segmented sharply by horsepower: Kubota is strongest in compact and mid-size tractors (residential, livestock, municipal) and in Asian wet-field machinery, and competes against Deere &amp; Company globally, CNH Industrial and AGCO in North America and Europe, and domestic and Indian makers (including its own Escorts Kubota platform) in Asia. In compact construction equipment — mini excavators and CTL — the competitors are Caterpillar, Komatsu, Deere and the compact specialists, and the demand drivers are housing, infrastructure and rental-fleet capex; the Q3 tanshin records the current split plainly: public investment and private construction firm, housing-related demand soft. In water infrastructure, Kubota sells pipe and plants into Japanese municipal procurement, a specification-driven market where casting quality, installed base and maintenance relationships are the barriers, and pricing power is real but capped by public budgets.</p>\n<p>No company-disclosed market-size or market-share figure for Kubota's categories is carried in the sources used here, and none is substituted: the verifiable demand evidence is Kubota's own reported product and regional sales (Chapter 5) and the market colour in its tanshin and briefing. Entry barriers across the machinery businesses are the dealer and service network (a tractor or excavator is bought with its parts-and-service coverage), engine technology and emissions compliance, brand trust in resale values, and the retail-finance capability that smaller rivals cannot replicate; the substitute risks are electrification of compact equipment (where Kubota's engine franchise becomes a liability to manage rather than an asset), autonomy and precision-agriculture platforms shifting value from hardware to data, and — most immediately — tariff regimes: FY12/25 showed a tariff cost shock cutting segment margin by roughly 3.6pt in one year, and FY12/26 shows the same regime returning cash as refunds. The two sensitivities that follow for the equity: first, <strong>North America is 40.4% of revenue and the US alone 37.2% (FY12/25), so US rates, housing and farm income are Kubota's macro</strong>; second, with no order or backlog disclosure in the tanshin, the earliest observables of a demand turn are the quarterly product-sales table and dealer-inventory colour in briefings. Sources: Q3 FY12/26 and FY12/25 tanshin; Q2 FY12/26 briefing transcript, 4 August 2026; PL/segment sheet (tanshin, JPX archive).</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 6",
+          "titleHtml": "Kubota in the agricultural &amp; compact-machinery value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (agricultural machinery value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/d1.svg",
+          "alt": "Kubota in the agricultural & compact-machinery value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Kubota's tanshin disclosure is unusually complete: business segments, product sales and destination-basis regional sales are all disclosed in annual and quarterly tanshin (product sales annually only in full). Regional profit is not disclosed on any basis. This chapter keeps the disclosure layers separate and labelled, including the segment-allocation basis changes of FY12/25 and FY12/26.</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 7",
+          "titleHtml": "Kubota Corporation — segment revenue, FY12/25",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/c4.svg",
+          "alt": "Kubota Corporation — segment revenue, FY12/25"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 8",
+          "titleHtml": "Kubota Corporation — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/v2.svg",
+          "alt": "Kubota Corporation — segment revenue by year"
+        },
+        {
+          "id": "v3",
+          "number": "Figure 9",
+          "titleHtml": "Kubota Corporation — segment revenue mix, FY12/25",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/v3.svg",
+          "alt": "Kubota Corporation — segment revenue mix, FY12/25"
+        },
+        {
+          "id": "v4",
+          "number": "Figure 10",
+          "titleHtml": "Kubota Corporation — regional revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-kubota-initiation-30/v4.svg",
+          "alt": "Kubota Corporation — regional revenue by year"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Business segments: one profit engine, one stabiliser",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the five-year history on the basis disclosed in each year's own tanshin. Three facts organise it. First, profit concentration: in FY12/25 the three segments earned ¥287,445mn of segment profit before a −¥21,975mn adjustment to consolidated operating profit of ¥265,470mn — <strong>Machinery ¥253,638mn (88% of segment profit)</strong>, Water &amp; Environment ¥32,983mn and Other ¥824mn. Kubota's earnings are therefore a Machinery margin question, and Machinery's margin is a North America question: it printed 13.5% in FY12/23, 9.6% in FY12/25 (tariffs, volume, mix) and 12.8% in 9M FY12/26 (price, construction volume, FX, refunds). Second, the adjustment column is not noise: it was −¥62,385mn in FY12/24 on the old allocation basis and −¥21,975mn in FY12/25 after corporate costs were allocated into the segments — cross-year segment-profit comparisons that ignore the basis change overstate Machinery's FY12/25 decline (restated FY12/24 Machinery profit: ¥323,393mn, so the like-for-like FY12/25 fall is ¥69,755mn, not ¥93,752mn). Third, Water &amp; Environment is quietly improving: segment profit rose from ¥17,250mn (FY12/22) to ¥32,983mn (FY12/25) and its margin to 8.8%, the group's best non-machinery economics, even though 9M FY12/26 profit dipped 4.6% on raw-material costs. Product detail inside Machinery (annual tanshin): farm machinery &amp; engines ¥1,995,603mn / ¥1,989,268mn / ¥2,003,307mn and construction machinery ¥641,124mn / ¥647,606mn / ¥625,311mn across FY12/23–FY12/25 — construction is the swing product, down in FY12/25 and up 21.6% in 9M FY12/26. Exhibit 3 (Chapter 2) sets out the 9M FY12/26 segment results on the current allocation basis. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 tanshin segment note (incl. restated FY12/24); Q3 FY12/26 tanshin.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Business segments — external revenue and segment profit (reconciles to consolidated operating profit)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), segment note, as reported in each year's own tanshin. FY12/24 is on the pre-2025 allocation basis; the FY12/25 tanshin restates FY12/24 onto the basis with corporate costs allocated to segments (Machinery profit ¥323,393mn, Water &amp; Environment ¥24,264mn, Other ¥966mn, adjustment −¥32,987mn) — see Basis of preparation.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY12/21",
+            "FY12/22",
+            "FY12/23",
+            "FY12/24",
+            "FY12/25"
+          ],
+          "rows": [
+            [
+              "Farm & Industrial Machinery — external revenue",
+              "1864803",
+              "2327990",
+              "2636727",
+              "2636874",
+              "2628618"
+            ],
+            [
+              "Farm & Industrial Machinery — segment profit",
+              "250435",
+              "237134",
+              "355788",
+              "347390",
+              "253638"
+            ],
+            [
+              "Water & Environment — external revenue",
+              "305380",
+              "327602",
+              "364469",
+              "362631",
+              "374352"
+            ],
+            [
+              "Water & Environment — segment profit",
+              "22270",
+              "17250",
+              "30547",
+              "29665",
+              "32983"
+            ],
+            [
+              "Other — external revenue",
+              "26583",
+              "23180",
+              "19515",
+              "16776",
+              "15921"
+            ],
+            [
+              "Other — segment profit",
+              "3700",
+              "3089",
+              "1512",
+              "966",
+              "824"
+            ],
+            [
+              "Adjustment / corporate — profit",
+              "-30198",
+              "-38531",
+              "-59018",
+              "-62385",
+              "-21975"
+            ],
+            [
+              "Consolidated operating profit",
+              "246207",
+              "218942",
+              "328829",
+              "315636",
+              "265470"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions: North America at 40.4% of sales — the exposure that prices the stock",
+      "level": "section",
+      "html": "<p>Regional sales by customer destination (tanshin regional-information note) were as follows. FY12/21: Japan ¥602,783mn (27.4% of sales), North America ¥819,813mn (37.3%), Europe ¥285,651mn (13.0%), Asia ex-Japan ¥406,884mn (18.5%), Others ¥81,635mn — an overseas ratio of 72.6%. FY12/23: Japan ¥643,144mn, North America ¥1,252,213mn (41.5%), Europe ¥418,302mn, Asia ex-Japan ¥600,598mn, Others ¥106,454mn. FY12/25: Japan ¥685,184mn (22.7%), North America ¥1,218,454mn (40.4%), Europe ¥348,954mn (11.6%), Asia ex-Japan ¥672,460mn (22.3%), Others ¥93,839mn (3.1%) — overseas ratio 77.3%, and within North America the US alone was ¥1,123,029mn, 37.2% of consolidated revenue (tanshin note). The five-year drift is a North America and Asia story: North America added ¥398,641mn and Asia ex-Japan ¥265,576mn versus FY12/21, while Japan grew only ¥82,401mn — <strong>Kubota is, by revenue, a US-market company with a Japanese cost and governance base</strong>, which is why tariff and USD/JPY assumptions dominate its guidance arithmetic. In 9M FY12/26 the concentration rose further: North America ¥1,049,435mn (42.3% of sales; US ¥946,889mn, 38.2%), Japan ¥537,030mn (21.7%), Asia ex-Japan ¥509,627mn (20.6%), Europe ¥301,705mn (12.2%) and Others ¥80,314mn (3.2%), with North America +20.3% YoY against Asia ex-Japan +0.5% (Thailand weak, India growing). Regional profit is not disclosed (未取得 / not disclosed in the tanshin), and quarterly product sales are likewise not disclosed. Exhibit 4 gives the annual regional history. Source: company results via PL/segment sheet (tanshin, JPX archive), regional-information note; Q3 FY12/26 tanshin regional note.</p>",
+      "figures": [
+        {
+          "id": "f4",
+          "number": "Table 4",
+          "titleHtml": "Exhibit 4. Regional sales by customer destination (destination basis)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), regional-information note. The US (within North America) was ¥1,123,029mn in FY12/25 and ¥946,889mn in 9M FY12/26 (tanshin note). Regional profit is not disclosed.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY12/21",
+            "FY12/22",
+            "FY12/23",
+            "FY12/24",
+            "FY12/25",
+            "9M FY12/26"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "602783",
+              "602376",
+              "643144",
+              "632476",
+              "685184",
+              "537030"
+            ],
+            [
+              "North America",
+              "819813",
+              "1101960",
+              "1252213",
+              "1272503",
+              "1218454",
+              "1049435"
+            ],
+            [
+              "Europe",
+              "285651",
+              "337976",
+              "418302",
+              "334079",
+              "348954",
+              "301705"
+            ],
+            [
+              "Asia ex-Japan",
+              "406884",
+              "532989",
+              "600598",
+              "680514",
+              "672460",
+              "509627"
+            ],
+            [
+              "Others",
+              "81635",
+              "103471",
+              "106454",
+              "96709",
+              "93839",
+              "80314"
+            ],
+            [
+              "Consolidated revenue",
+              "2196766",
+              "2678772",
+              "3020711",
+              "3016281",
+              "3018891",
+              "2478111"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (IFRS, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive), FY12/21–FY12/25 on each year's own as-reported basis. Income statement: revenue ¥2,196,766mn / ¥2,678,772mn / ¥3,020,711mn / ¥3,016,281mn / ¥3,018,891mn; cost of sales ¥1,564,960mn / ¥1,982,248mn / ¥2,144,242mn / ¥2,088,301mn / ¥2,134,577mn; gross profit (calculated) ¥631,806mn / ¥696,524mn / ¥876,469mn / ¥927,980mn / ¥884,314mn (margins 28.8% / 26.0% / 29.0% / 30.8% / 29.3%); SG&amp;A ¥390,449mn / ¥485,644mn / ¥538,621mn / ¥597,007mn / ¥609,108mn (17.8% / 18.1% / 17.8% / 19.8% / 20.2% of revenue — a steady creep that is itself a finding); other operating expense, net −¥4,850mn (net income) / −¥8,062mn / ¥9,019mn / ¥15,337mn / ¥9,736mn (sheet mapping: other expenses less other income; other income was ¥10,638mn / ¥15,488mn / ¥22,174mn / ¥23,471mn / ¥31,495mn and other expenses ¥5,788mn / ¥7,426mn / ¥31,193mn / ¥38,808mn / ¥41,231mn); operating profit ¥246,207mn / ¥218,942mn / ¥328,829mn / ¥315,636mn / ¥265,470mn. Below operating profit, Kubota's presentation places finance income and costs and — below the tax line — equity-method results between operating profit and net income: finance income was ¥9,341mn / ¥16,982mn / ¥18,713mn / ¥26,305mn / ¥28,985mn and finance costs ¥2,989mn / ¥1,997mn / ¥5,253mn / ¥6,644mn / ¥12,315mn; profit before tax (tanshin definition, before equity-method results) was ¥250,917mn / ¥233,927mn / ¥342,289mn / ¥335,297mn / ¥282,140mn; income taxes ¥64,869mn / ¥59,149mn / ¥84,402mn / ¥80,732mn / ¥68,125mn; equity-method profit (post-tax, presented below taxes) ¥3,042mn / ¥1,642mn / ¥2,111mn / ¥5,099mn / ¥2,741mn. Net income (total) was ¥190,732mn / ¥176,420mn / ¥259,998mn / ¥259,664mn / ¥216,756mn, of which attributable to owners ¥175,637mn / ¥156,182mn / ¥238,455mn / ¥230,437mn / ¥186,687mn and to non-controlling interests the remainder. Depreciation and amortisation (cash-flow statement basis; FY12/25 from the segment note) was ¥71,701mn / ¥85,213mn / ¥107,270mn / ¥120,461mn / ¥130,476mn, giving an EBITDA proxy (operating profit + D&amp;A, calculated) of ¥317,908mn / ¥304,155mn / ¥436,099mn / ¥436,097mn / ¥395,946mn.</p>\n<p>Balance sheet (31 December 2025, IFRS): total assets ¥6,204,909mn; total equity ¥2,873,024mn, of which owners' equity ¥2,622,985mn (ratio 42.3%; book value per share ¥2,306.80). Cash and equivalents ¥276,959mn; trade receivables ¥1,001,683mn (operating receivables only — finance receivables are a separate balance-sheet line and are excluded from the sheet's receivables definition, so total receivables exposure is larger); inventories ¥688,893mn (about 3.9 months of cost of sales, calculated); trade payables ¥296,375mn; bonds and borrowings ¥2,242,079mn (current plus non-current, as presented). Cash flow: operating cash flow was ¥92,511mn / −¥7,680mn / −¥17,273mn / ¥282,084mn / ¥327,901mn across FY12/21–FY12/25 — the two negative years are the finance-book build, and their reversal is the mid-term plan's core cash claim; FY12/25 investing outflow was ¥163,726mn and financing outflow ¥184,462mn. Per-share data (basic, as reported; no dilutive securities exist): EPS ¥144.80 / ¥130.82 / ¥201.74 / ¥197.61 / ¥163.44; dividends per share ¥42 / ¥44 / ¥48 / ¥50 / ¥50 (payout ratios as reported 29.0% / 33.6% / 23.8% / 25.3% / 30.6%). Shares issued: 1,138,716,846, of which 1,652,299 in treasury at 31 December 2025; weighted average shares 1,142,227,534 (FY12/25) — the share count has fallen every year of the window (1,206,967,000 weighted in FY12/21) on buybacks and cancellations, including the FY12/25 cancellation implied by the drop in issued shares from 1,150,896,846. Not disclosed in the tanshin and therefore not presented as history here: order intake and backlog, employees, unit volumes, capacity, utilisation and R&amp;D as a tanshin line. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 tanshin, 12 February 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — 'Focus & Breakthrough'",
+      "level": "part",
+      "html": "<p>Kubota's mid-term management plan 'Focus &amp; Breakthrough' (from 2026) is, in the company's own framing at the Q2 FY12/26 briefing (4 August 2026, full published transcript), a shift 'a step beyond the previous focus on revenue and profit margins' to management that emphasises the balance sheet and capital efficiency. Its three pillars are: (1) selection and concentration of management resources — growth drivers are the construction machinery business (the new large CTL for North America takes CTL line-up coverage to 95%, with improved hydraulic performance and attachment range) and the India-originated business (new Promaxx and Shaurya models; Kubota manufacturing and design know-how applied to quality and share expansion), while the North American tractor business is designated a value-rebuilding business whose revenue structure is being reformed through incentive-programme review, shorter retail-finance terms, an integrated North American production-and-sales organisation, turnover-based inventory targets and logistics review; (2) strategic financial operations conscious of the balance sheet — company-wide ROIC management, a shift from PL-centred control to managing PL, BS and cash flow as one, board-level monitoring of capital-efficiency indicators, and compression of retail finance receivables and working capital; and (3) building a resilient global foundation — culture and organisation, an internal entrepreneurship programme, and a Business Portfolio Strategy Council (formally launched in FY12/26) to review the portfolio continuously. <strong>Published numerical targets (company plan) are for 2030: ROE of 12%, ROIC of 7% or more, and an operating margin above 12%</strong>. For FY12/26 the company guides ROIC of 6.2% and free cash flow of ¥230,000mn, and states that even excluding FX and tariff-refund effects it will secure profit at the level assumed in the plan (Q2 briefing). Shareholder returns: the dividend rises to a forecast ¥52 for FY12/26 (payout ratio on guided EPS about 20.3%, calculated), and a ¥40,000mn share-repurchase framework was set on 4 August 2026 — treasury shares had risen to 12,323,543 by 30 September 2026.</p>\n<p>The monitoring set that substitutes for a fuller plan bridge (no year-by-year plan P&amp;L is published in the sources used), in the order the data arrives: the FY12/26 full-year print (February 2027) — operating profit against the ¥400,000mn guide and, decisively, the tariff-refund amount actually received in FY12/26 versus the ¥70,000mn expected; Q4 standalone operating margin against the roughly 12.2% the guide requires in Q4 (calculated: ¥97,430mn on implied Q4 revenue of ¥801,889mn); the FY12/27 initial guidance and its refund and FX assumptions — whether the company guides operating profit down on a normalised base or defends ¥400,000mn; North American tractor retail-versus-wholesale and dealer-inventory colour at the full-year briefing; free cash flow against the ¥230,000mn target and the finance-receivable balance; and ROIC progression from the guided 6.2% toward the 2030 target of 7% or more. All plan figures above are company targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: Q2 FY12/26 briefing transcript (full published record), 4 August 2026; Q3 FY12/26 tanshin, 9 November 2026; interview pack, 16 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History. Kubota was founded in February 1890 in Osaka by Gonshiro Kubota (Gonshiro Ohde), who started a casting business (Ohde Casting) at the age of 19; casting became iron pipe for Japan's waterworks — the origin of today's pipe-systems business — and the company later mechanised Japanese agriculture (its own engines from 1922) and adopted the Kubota Corporation name in 1990, its centenary year. Head office: Shikitsu-higashi, Naniwa-ku, Osaka. Source: Kubota Global Site corporate history (accessed November 2026); company profile references, November 2026.</p>\n<p>Management. Representative Director, President and CEO: Shingo Hanada — named in that role in the FY12/25 annual tanshin and in every FY12/26 tanshin, and the presenter of the Q2 FY12/26 briefing (published transcript). His predecessor Yuichi Kitao is named as Representative Director and President in the FY12/22 and FY12/23 annual tanshin. The inquiry contact in the FY12/26 tanshin is Yujiro Okada (General Manager, Finance Department in the Q3 tanshin; Business Planning in the FY12/25 tanshin). Other named briefing participants (Q2 FY12/26): Rin Sasaki, Managing Executive Officer and Chief Business Planning Officer; Wataru Kondo, Director &amp; Senior Managing Executive Officer, President of the Water &amp; Environment Infrastructure Company. Shares issued: 1,138,716,846 at both FY12/25 year-end and September 2026, with treasury shares of 1,652,299 at December 2025 and 12,323,543 at September 2026 (buyback execution).</p>\n<p>Major shareholders. Not disclosed in the tanshin and not verified from the securities report in the sources used for this report — 未取得; no register is presented rather than substituting third-party compilations. There is no controlling shareholder known from the sources used.</p>\n<p>Employees and other data. Consolidated headcount is not disclosed in the tanshin (PL/segment sheet register S9) and is not presented as company disclosure here.</p>\n<p>Shareholder returns. Dividends per share rose from ¥42 (FY12/21) to ¥50 (FY12/24–25) and a forecast ¥52 in FY12/26 (interim ¥26), with reported payout ratios of 23.8–33.6% across FY12/21–25 and a guided payout of about 20.3% on FY12/26 guided EPS (calculated). Buybacks have reduced the weighted share count every year since FY12/21, and a further ¥40,000mn repurchase framework was set on 4 August 2026.</p>\n<p>Market data. The shares closed at ¥2,469 on 16 November 2026 (StockInvest.us; corroborated by Finnhub's previous-close field on 17 November 2026), giving a market capitalisation of about ¥2,781bn (calculated from the cited price and the 1,126.39mn shares excluding treasury at September 2026; StockInvest.us shows ¥2.781tn). The 52-week range was ¥1,999.5 (19 November 2025) to ¥3,268 (13 February 2026) (Finnhub) — the shares had therefore fallen about 24% from the February 2026 peak into mid-November, including a sharp drop on 9 November 2026, the Q3 results day (close ¥2,470, −2.27%, TipRanks). At ¥2,469 the shares trade at 15.1x FY12/25 basic EPS of ¥163.44, 9.7x FY12/26 company-guidance EPS of ¥255.55, 1.07x FY12/25 book value per share of ¥2,306.80 and a 2.1% forecast dividend yield (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the FY12/26 full-year tanshin, expected in mid-February 2027 (third-party calendar estimate: 15 February 2027, StockInvest.us).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials, segment data, product sales and regional sales are taken from the PL/segment sheet for Kubota (6326) (IFRS template; December year-end; FY12/21–FY12/25 annual and 20 quarters in the main window, FY12/16–FY12/20 history block; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (batch log 3a and sheet register S1–S11, 17 November 2026). FY12/26 figures are from the Q1 FY12/26 tanshin [IFRS] dated 8 May 2026, the Q2 FY12/26 tanshin [IFRS] dated 4 August 2026 and the Q3 FY12/26 tanshin [IFRS] dated 9 November 2026. The Q2 FY12/26 briefing transcript (company-published meeting script via SCRIPTS Asia, full verbatim record, 4 August 2026; English transcript in the programme's transcript library) is used for the tariff-refund quantification, FCF and ROIC guidance, the buyback framework and mid-term plan detail; Kubota publishes no Q3 briefing script (verified 16 November 2026), and none is cited. Guidance history is from the programme's guidance tracker (verified against the tanshin chain, 17 November 2026). Market data are from Finnhub, StockInvest.us and TipRanks as returned by web search on 17 November 2026 and are cited with dates in the text; founding and head-office facts are from the Kubota Global Site corporate history, accessed November 2026.</p>\n<p>Comparative-recovery notes (register S2). (1) The FY12/25 Q2 (interim) tanshin is absent from the irbank/JPX tanshin listings; H1 FY12/25 cumulative figures in the sheet are recovered from the prior-period comparative blocks of the FY12/26 Q2 tanshin. (2) The FY12/24 Q3 tanshin PDF is unavailable (the JPX archive returns AccessDenied and the irbank mirror is missing); cumulative 9M FY12/24 IS/CF/segment/regional figures are recovered from the prior-period comparative blocks of the FY12/25 Q3 tanshin, whose balance-sheet comparative column is the FY12/23 year-end rather than September 2024 — so Q3 FY12/24 balance-sheet (stock) rows are blank in the sheet, and Q4 FY12/24 stock rows use the FY12/24 annual tanshin only. Neither recovery affects the annual figures or the FY12/26 figures used in this report's latest-update chapter, which are taken from the FY12/26 tanshin themselves.</p>\n<p>Discrepancies and basis breaks flagged (not silently resolved). (1) Restated comparatives: the FY12/22 tanshin restates FY12/21 for an accounting-policy change (revenue unchanged at ¥2,196,766mn; operating profit ¥244,565mn vs ¥246,207mn as originally reported; owners' profit ¥174,765mn vs ¥175,637mn; total assets at FY12/22 differ by ¥33,780mn between the FY12/22 and FY12/23 tanshin), and the FY12/23 tanshin restates FY12/22 (revenue ¥2,676,980mn, operating profit ¥214,387mn, owners' profit ¥156,472mn vs ¥2,678,772mn / ¥218,942mn / ¥156,182mn as originally reported). This report and the sheet use each year's own as-reported figures throughout; growth rates spanning those years are as-reported-basis. (2) Segment allocation changes: from 1 January 2025 certain corporate costs formerly in the adjustment column are allocated to segments (FY12/24 restated segment figures are in the sheet's supplementary rows and are cited where the comparison requires them), and from FY12/26 the allocation was extended again — the Q3 FY12/26 tanshin restates 9M FY12/25 segment profit on the new basis (Machinery ¥196,500mn vs ¥216,485mn on the basis originally reported for 9M FY12/25, per the sheet's cumulative tanshin inputs), so 9M segment growth rates in Chapter 2 are on the restated basis while the five-year table in Chapter 5 is as-reported; the two are labelled and must not be mixed. (3) Guidance dating: the sheet register (S10) and batch log date the unchanged Q3 guidance to 4 November 2026 (the TDnet filing identifier date); the Q3 tanshin itself is dated 9 November 2026, which this report uses. (4) Profit-before-tax definition: the tanshin PBT (used in Exhibit 1) is stated before equity-method results, which Kubota presents below the tax line; the PL/segment sheet's control line adds equity earnings into its PBT row (e.g. ¥284,881mn for FY12/25 vs the tanshin's ¥282,140mn) — the two are definitional, and this report uses the tanshin definition throughout. (5) Profit totals: the sheet's FY12/21 net income total (¥190,732mn) and owners' figure differ from the FY12/22 tanshin's restated comparatives for the same reason as (1); as-reported figures are used. (6) Interview-pack vs tanshin: the pack's 9M FY12/26 figures and guidance agree with the Q3 tanshin; its statement that operating profit missed the company's internal expectation on slow refund receipt is attributed to Q3 trade-press coverage (Kikai News) and is labelled as such in Chapter 2.</p>\n<p>Conventions and gaps. Fiscal years are labelled by the December year-end (FY12/26 = year ending 31 December 2026). 'Company guidance' means Kubota's published forecasts (会社計画) and 'plan targets' means the 'Focus &amp; Breakthrough' mid-term plan targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — regional profit, quarterly product sales, order intake and backlog, employees, production/sales units, capacity, utilisation, R&amp;D as a tanshin line, segment-level guidance, and major shareholders (not verified from the securities report in this pass) — are described as not disclosed / 未取得 rather than estimated. Per-share history for FY12/16–FY12/20 is not carried in the sheet's history block: EPS for FY12/17–FY12/20 in Exhibit 1 is calculated from history-block owners' profit and weighted shares, and FY12/16 EPS, dividends and ROE for FY12/16–FY12/20 are shown as not available.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
