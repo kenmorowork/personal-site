@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1403" viewBox="0 0 1440 1403" role="img" aria-labelledby="title desc"><title id="title">Fabの供給・循環・回収・処理の方向と分類境界</title><desc id="desc">電力供給と再エネ契約、超純水循環と使用後の分別回収・排水処理、熱交換で分かれる工場冷却水と装置循環液、ガス薬液供給と使用後排気、外気と室内循環、FOUP搬送とウェーハ搬送を区別した系統の原理模式図。</desc><metadata>{"as_of": "2026-10-20", "timezone": "Asia/Tokyo", "authorship": "Original FIELDNOTES schematic; no manufacturer illustration copied", "source_ids": ["FI_VIS_ORGANO", "FI_VIS_LINDE", "FI_VIS_ENTEGRIS", "FI_VIS_EDWARDS", "FI_VIS_NORTEK", "FI_VIS_DAIFUKU", "FI_VIS_SINFONIA", "FI_VIS_SCHNEIDER", "FI_VIS_TSMC", "FI_VIS_EXYTE", "FI_VIS_SMC", "FI_VIS_EBARA"], "limitations": ["Not to scale; not a real Fab layout, product CAD, P&amp;ID or safety/installation drawing", "Equipment quantities, transport routes, dimensions and measuring points are not specified", "Functions may be located elsewhere or combined; the example does not require every system in every Fab"]}</metadata><defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#537897" stroke-width="1.2"/></marker><marker id="water" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#148fb6" stroke-width="1.2"/></marker><marker id="gas" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#298b70" stroke-width="1.2"/></marker><marker id="air" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#659dbe" stroke-width="1.2"/></marker><marker id="exhaust" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#9c5c4f" stroke-width="1.2"/></marker><marker id="power" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#ac7c26" stroke-width="1.2"/></marker><style>text{font-family:Arial,"Noto Sans CJK JP","Noto Sans JP",sans-serif;font-size:17px;fill:#17324f}.title{font-size:27px;font-weight:700}.head{font-size:21px;font-weight:700}.bold{font-weight:700}.small{font-size:15px}.tiny{font-size:14px}.muted{fill:#536980}.box{fill:#f5f8fc;stroke:#b8ccdc;stroke-width:1.4}.line{fill:none;stroke:#537897;stroke-width:2}.arrow{fill:none;stroke:#537897;stroke-width:2.5;marker-end:url(#arr)}.water{fill:none;stroke:#148fb6;stroke-width:3;marker-end:url(#water)}.gas{fill:none;stroke:#298b70;stroke-width:3;marker-end:url(#gas)}.air{fill:none;stroke:#659dbe;stroke-width:3;marker-end:url(#air)}.exhaust{fill:none;stroke:#9c5c4f;stroke-width:3;marker-end:url(#exhaust)}.power{fill:none;stroke:#ac7c26;stroke-width:3;marker-end:url(#power)}.contract{fill:none;stroke:#ac7c26;stroke-width:2;stroke-dasharray:6 5}.rule{stroke:#d6e0e8;stroke-width:1}</style></defs><rect width="1440" height="1403" fill="white"/>
+<text x="28" y="40" class="title">供給・循環・回収・処理の方向と分類境界</text>
+<text x="28" y="70" class="small muted">矢印は機能上の流れ。配管・空気・電気・物の移動を区別し、実際の設計や全設備必須の接続順序にはしない。</text>
+<!-- power -->
+<rect x="28" y="94" width="1384" height="132" rx="4" fill="#fcf8ef" stroke="#dccaa5"/>
+<text x="45" y="125" class="head">電力</text><text x="45" y="155" class="small">供給・配電</text>
+<rect x="207" y="130" width="205" height="58" rx="3" fill="white" stroke="#b99b5e"/><text x="309" y="165" text-anchor="middle">系統等から受電</text>
+<rect x="471" y="130" width="249" height="58" rx="3" fill="white" stroke="#b99b5e"/><text x="596" y="165" text-anchor="middle">受変電・構内配電</text>
+<rect x="779" y="130" width="223" height="58" rx="3" fill="white" stroke="#b99b5e"/><text x="891" y="165" text-anchor="middle">装置・用役の負荷</text>
+<path d="M415 159H465" class="power"/><path d="M724 159H773" class="power"/>
+<text x="1040" y="143" class="bold">PPA・証書等：調達・属性</text><text x="1040" y="172" class="small muted">電力線・配電容量とは別の軸</text><path d="M1040 185H1355" class="contract"/>
+<text x="207" y="213" class="small muted">契約上の再エネ割合から、受電の物理経路・無停電能力・配電設備容量を推定しない。</text>
+<!-- ultrapure water and drainage -->
+<rect x="28" y="244" width="1384" height="241" rx="4" fill="#edf8fc" stroke="#abcddb"/>
+<text x="45" y="275" class="head">水</text><text x="45" y="305" class="small">超純水・排水</text>
+<rect x="207" y="286" width="145" height="57" rx="3" fill="white" stroke="#559bb3"/><text x="280" y="321" text-anchor="middle">原水・補給水</text>
+<rect x="391" y="286" width="190" height="57" rx="3" fill="white" stroke="#559bb3"/><text x="486" y="321" text-anchor="middle">前処理・一次純水</text>
+<rect x="620" y="286" width="202" height="57" rx="3" fill="white" stroke="#559bb3"/><text x="721" y="321" text-anchor="middle">仕上げ・供給系</text>
+<rect x="1066" y="286" width="221" height="57" rx="3" fill="white" stroke="#559bb3"/><text x="1177" y="321" text-anchor="middle">洗浄等の使用工程</text>
+<path d="M355 315H385" class="water"/><path d="M584 315H614" class="water"/><path d="M825 315H1060" class="water"/><text x="890" y="301" class="small">超純水を供給</text>
+<path d="M1006 315V263H721V281" class="water"/><text x="749" y="257" class="tiny muted">未使用の循環戻り → 再仕上げ</text>
+<path d="M1177 346V397H1038" class="water"/><text x="1194" y="376" class="small">使用後</text>
+<rect x="808" y="372" width="226" height="53" rx="3" fill="white" stroke="#559bb3"/><text x="921" y="405" text-anchor="middle">排水を性状別に分ける</text>
+<rect x="496" y="372" width="243" height="53" rx="3" fill="white" stroke="#559bb3"/><text x="617" y="405" text-anchor="middle">適した回収・再生処理</text>
+<path d="M804 398H745" class="water"/><path d="M492 398H279V349" class="water"/><text x="300" y="389" class="tiny muted">水質に合う再利用先へ</text>
+<path d="M921 426V449H1287" class="water"/><text x="1004" y="440" class="tiny muted">排水処理 → 適合確認後に排出</text>
+<text x="207" y="469" class="small muted">再生水を直接すべて超純水に戻す図ではない。回収率・再利用先・分別方式は工場と水質で異なる。</text>
+<!-- cooling fluid -->
+<rect x="28" y="503" width="1384" height="166" rx="4" fill="#f2f8fb" stroke="#abcddb"/>
+<text x="45" y="534" class="head">冷熱・冷却水</text><text x="45" y="564" class="small">熱を運ぶ循環</text>
+<rect x="253" y="546" width="246" height="57" rx="3" fill="white" stroke="#559bb3"/><text x="376" y="581" text-anchor="middle">工場の冷熱源・冷却水系</text>
+<rect x="691" y="546" width="218" height="57" rx="3" fill="white" stroke="#559bb3"/><text x="800" y="581" text-anchor="middle">局所温調器・熱交換器</text>
+<rect x="1117" y="546" width="229" height="57" rx="3" fill="white" stroke="#559bb3"/><text x="1232" y="581" text-anchor="middle">装置の温度制御対象</text>
+<path d="M502 560H685" class="water"/><path d="M913 560H1111" class="water"/><path d="M685 591H505" class="water"/><path d="M1111 591H915" class="water"/>
+<text x="528" y="545" class="tiny muted">工場冷却水：往き／戻り</text><text x="940" y="545" class="tiny muted">装置循環液：供給／戻り</text>
+<text x="253" y="639" class="small muted">水冷式温調の例。熱交換する二つの液は別回路。超純水による洗浄や排水回収の系統と分ける。</text>
+<!-- gas chemicals and exhaust -->
+<rect x="28" y="687" width="1384" height="249" rx="4" fill="#f2f8f3" stroke="#abc8b2"/>
+<text x="45" y="718" class="head">ガス・薬液</text><text x="45" y="748" class="small">供給と使用後</text>
+<rect x="253" y="720" width="246" height="57" rx="3" fill="white" stroke="#69a188"/><text x="376" y="755" text-anchor="middle">ガス製造・貯蔵／容器供給</text>
+<rect x="614" y="720" width="279" height="57" rx="3" fill="white" stroke="#69a188"/><text x="753" y="755" text-anchor="middle">供給・分配（配管・弁等）</text>
+<rect x="1055" y="720" width="291" height="57" rx="3" fill="white" stroke="#69a188"/><text x="1200" y="755" text-anchor="middle">対象の加工装置へ</text>
+<path d="M502 749H608" class="gas"/><path d="M897 749H1049" class="gas"/>
+<text x="253" y="805" class="small">薬液も貯蔵・供給から使用点へ。ガス配管と薬液配管を同じ物理配管として示す意味ではない。</text>
+<rect x="253" y="836" width="246" height="53" rx="3" fill="white" stroke="#bb8c80"/><text x="376" y="869" text-anchor="middle">対象物に適した処理・排出</text>
+<rect x="614" y="836" width="279" height="53" rx="3" fill="white" stroke="#bb8c80"/><text x="753" y="869" text-anchor="middle">局所除害・中央排気処理等</text>
+<rect x="1055" y="836" width="291" height="53" rx="3" fill="white" stroke="#bb8c80"/><text x="1200" y="869" text-anchor="middle">工程の排ガス・局所排気</text>
+<path d="M1049 862H899" class="exhaust"/><path d="M608 862H505" class="exhaust"/>
+<text x="253" y="907" class="tiny muted">真空排気・除害・中央排気は別機能。ガス性状で系統・順序・方式を選定。</text><text x="253" y="927" class="tiny muted">薬液排水や湿式除害の排液は、性状別の排水処理へ。</text>
+<!-- cleanroom air -->
+<rect x="28" y="954" width="1384" height="199" rx="4" fill="#eef5fa" stroke="#afcadb"/>
+<text x="45" y="985" class="head">空気</text><text x="45" y="1015" class="small">外気と循環</text>
+<rect x="253" y="994" width="205" height="57" rx="3" fill="white" stroke="#80a9c0"/><text x="355" y="1029" text-anchor="middle">外気 → 外気処理</text>
+<rect x="583" y="994" width="310" height="57" rx="3" fill="white" stroke="#80a9c0"/><text x="738" y="1029" text-anchor="middle">給気空間・フィルター</text>
+<rect x="1055" y="994" width="291" height="57" rx="3" fill="white" stroke="#80a9c0"/><text x="1200" y="1029" text-anchor="middle">クリーンルーム</text>
+<path d="M461 1023H577" class="air"/><path d="M897 1023H1049" class="air"/>
+<path d="M1200 1054V1082H737V1057" class="air"/><text x="821" y="1105" class="small">室内空気の一部を戻り経路・循環処理へ</text>
+<text x="253" y="1136" class="small muted">外気補給と循環は別の流れ。工程排ガスを室内空気の循環ループへ接続する図ではない。排気系も別途設計する。</text>
+<!-- carrier / wafer -->
+<rect x="28" y="1171" width="1384" height="160" rx="4" fill="#fbf7ed" stroke="#d8c69e"/>
+<text x="45" y="1202" class="head">物の移動</text><text x="45" y="1232" class="small">容器とウェーハ</text>
+<rect x="253" y="1211" width="246" height="57" rx="3" fill="white" stroke="#b99b58"/><text x="376" y="1246" text-anchor="middle">AMHS：FOUP等の容器搬送</text>
+<rect x="614" y="1211" width="279" height="57" rx="3" fill="white" stroke="#b99b58"/><text x="753" y="1246" text-anchor="middle">ロードポート ＋ EFEM</text>
+<rect x="1055" y="1211" width="291" height="57" rx="3" fill="white" stroke="#b99b58"/><text x="1200" y="1246" text-anchor="middle">加工装置</text>
+<path d="M502 1239H608" class="arrow"/><path d="M897 1239H1049" class="arrow"/><text x="937" y="1224" class="tiny muted">ウェーハ</text>
+<text x="253" y="1307" class="small muted">容器の受け渡しと個々のウェーハ搬送は別機能。製造には往復・保管・工程への再訪があり、右向き1回だけではない。</text>
+<path d="M28 1352H1412" class="rule"/><text x="28" y="1380" class="small muted">縮尺のない原理模式図。回路数・設備台数・排出条件・配管設計・工場の安全系統を指定しない。確認日 2026-10-20 JST</text>
+</svg>

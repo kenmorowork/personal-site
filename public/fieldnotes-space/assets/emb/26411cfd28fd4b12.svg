@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1052" viewBox="0 0 1440 1052" role="img" aria-labelledby="title desc"><title id="title">Fab用役・搬送・建設の機能全体図</title><desc id="desc">Fab外の用役設備、天井側空調、クリーンルームの加工装置とFOUP搬送、Subfab等の供給・温調・真空排気・除害を機能領域として示す模式断面。超純水と冷却水、循環空気と装置排ガス、電力供給設備と再エネ調達を区別し、建設の役割を示す。</desc><metadata>{"as_of": "2026-10-20", "timezone": "Asia/Tokyo", "authorship": "Original FIELDNOTES schematic; no manufacturer illustration copied", "source_ids": ["FI_VIS_ORGANO", "FI_VIS_LINDE", "FI_VIS_ENTEGRIS", "FI_VIS_EDWARDS", "FI_VIS_NORTEK", "FI_VIS_DAIFUKU", "FI_VIS_SINFONIA", "FI_VIS_SCHNEIDER", "FI_VIS_TSMC", "FI_VIS_EXYTE", "FI_VIS_SMC", "FI_VIS_EBARA"], "limitations": ["Not to scale; not a real Fab layout, product CAD, P&amp;ID or safety/installation drawing", "Equipment quantities, transport routes, dimensions and measuring points are not specified", "Functions may be located elsewhere or combined; the example does not require every system in every Fab"]}</metadata><defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#537897" stroke-width="1.2"/></marker><marker id="water" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#148fb6" stroke-width="1.2"/></marker><marker id="gas" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#298b70" stroke-width="1.2"/></marker><marker id="air" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#659dbe" stroke-width="1.2"/></marker><marker id="exhaust" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#9c5c4f" stroke-width="1.2"/></marker><marker id="power" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#ac7c26" stroke-width="1.2"/></marker><style>text{font-family:Arial,"Noto Sans CJK JP","Noto Sans JP",sans-serif;font-size:17px;fill:#17324f}.title{font-size:27px;font-weight:700}.head{font-size:21px;font-weight:700}.bold{font-weight:700}.small{font-size:15px}.tiny{font-size:14px}.muted{fill:#536980}.box{fill:#f5f8fc;stroke:#b8ccdc;stroke-width:1.4}.line{fill:none;stroke:#537897;stroke-width:2}.arrow{fill:none;stroke:#537897;stroke-width:2.5;marker-end:url(#arr)}.water{fill:none;stroke:#148fb6;stroke-width:3;marker-end:url(#water)}.gas{fill:none;stroke:#298b70;stroke-width:3;marker-end:url(#gas)}.air{fill:none;stroke:#659dbe;stroke-width:3;marker-end:url(#air)}.exhaust{fill:none;stroke:#9c5c4f;stroke-width:3;marker-end:url(#exhaust)}.power{fill:none;stroke:#ac7c26;stroke-width:3;marker-end:url(#power)}.contract{fill:none;stroke:#ac7c26;stroke-width:2;stroke-dasharray:6 5}.rule{stroke:#d6e0e8;stroke-width:1}</style></defs><rect width="1440" height="1052" fill="white"/>
+<text x="28" y="40" class="title">Fabを支える用役・搬送・建設の全体像</text>
+<text x="28" y="70" class="small muted">機能の位置関係を読む模式断面。建屋の形・設備数・配管経路・高さ・実際の配置は表さない。</text>
+<rect x="28" y="102" width="343" height="727" rx="5" fill="#f8fafc" stroke="#b8ccdc"/>
+<text x="45" y="133" class="head">Utility yard / 用役棟等</text><text x="45" y="161" class="small muted">Fab外・隣接棟・構内の供給設備の例</text>
+<rect x="48" y="184" width="302" height="108" rx="4" fill="#fcf8ef" stroke="#d7c49c"/>
+<path d="M69 209H104V266H69Z M75 218H98 M75 245H98" fill="none" stroke="#ac7c26" stroke-width="2"/><path d="M90 223L82 237H93L86 252" fill="none" stroke="#ac7c26" stroke-width="2"/>
+<text x="118" y="216" class="bold">受変電・配電</text><text x="118" y="245" class="small">系統等から負荷へ電力供給</text><text x="118" y="274" class="tiny muted">再エネ契約・証書は別の管理軸</text>
+<rect x="48" y="309" width="302" height="108" rx="4" fill="#edf8fc" stroke="#a7cfde"/>
+<path d="M72 335H105V391H72Z M72 347H105 M72 379H105" fill="none" stroke="#148fb6" stroke-width="2"/>
+<text x="118" y="341" class="bold">超純水・水回収</text><text x="118" y="370" class="small">造水・循環、分別回収・排水処理</text><text x="118" y="399" class="tiny muted">再利用先は水質・用途で選定</text>
+<rect x="48" y="434" width="302" height="108" rx="4" fill="#f0f8f2" stroke="#a8c8b3"/>
+<path d="M72 511V464Q72 451 82 451Q92 451 92 464V511Z M99 511V464Q99 451 109 451Q119 451 119 464V511Z" fill="none" stroke="#298b70" stroke-width="2"/>
+<text x="134" y="466" class="bold">ガス・薬液供給</text><text x="134" y="495" class="small">貯蔵・精製・供給設備</text><text x="134" y="524" class="tiny muted">バルク／容器／オンサイト等</text>
+<rect x="48" y="559" width="302" height="108" rx="4" fill="#edf8fc" stroke="#a7cfde"/>
+<rect x="71" y="585" width="38" height="51" fill="none" stroke="#148fb6" stroke-width="2"/><path d="M76 591L104 630M76 605L94 631M87 590L104 616" stroke="#148fb6"/>
+<text x="125" y="591" class="bold">冷熱源・熱交換</text><text x="125" y="620" class="small">空調・装置へ冷熱を供給</text><text x="125" y="649" class="tiny muted">冷却水と超純水は別系統</text>
+<rect x="48" y="684" width="302" height="122" rx="4" fill="#fbf2f0" stroke="#cfaea6"/>
+<rect x="72" y="715" width="37" height="58" fill="none" stroke="#9c5c4f" stroke-width="2"/><path d="M90 715V697H104V686" fill="none" stroke="#9c5c4f" stroke-width="3"/>
+<text x="125" y="716" class="bold">排気処理・排水処理</text><text x="125" y="745" class="small">処理後、適合を確認して排出</text><text x="125" y="774" class="tiny muted">排気と排水は別系統で処理</text>
+<!-- Fab cross-section -->
+<rect x="427" y="102" width="985" height="727" rx="5" fill="#fff" stroke="#7294af" stroke-width="2"/>
+<text x="446" y="133" class="head">Fab内：清浄な加工空間と、それを支える空間</text>
+<rect x="447" y="152" width="944" height="120" fill="#edf5fa" stroke="#b4cedd"/>
+<text x="465" y="181" class="bold">空調・天井側の機能例</text>
+<rect x="464" y="199" width="202" height="51" rx="3" fill="white" stroke="#85b0c7"/><text x="565" y="230" text-anchor="middle">外気処理（MAU等）</text>
+<rect x="792" y="199" width="392" height="51" rx="3" fill="white" stroke="#85b0c7"/><text x="988" y="230" text-anchor="middle">給気空間 ＋ フィルター（FFU等）</text>
+<path d="M673 224H785" class="air"/><text x="681" y="193" class="tiny muted">外気を補給</text>
+<path d="M842 252V299" class="air"/><path d="M970 252V299" class="air"/><path d="M1098 252V299" class="air"/>
+<path d="M1362 507V224H1192" class="air"/><text x="1283" y="294" class="small" text-anchor="middle">循環空気</text><text x="1283" y="320" class="tiny muted" text-anchor="middle">戻り経路の例</text>
+<text x="447" y="309" class="head">Cleanroom：加工・搬送</text>
+<path d="M482 344H1258" stroke="#60819d" stroke-width="8"/>
+<path d="M506 330H710" class="arrow"/><path d="M1003 330H1220" class="arrow"/>
+<rect x="739" y="328" width="86" height="33" rx="5" fill="#c3d2df" stroke="#60819d"/><path d="M782 362V397" stroke="#60819d" stroke-width="2"/>
+<rect x="756" y="396" width="52" height="46" rx="5" fill="#ebcb78" stroke="#a87925" stroke-width="2"/>
+<text x="847" y="371" class="bold">AMHS：FOUP等を運ぶ</text><text x="847" y="398" class="small muted">天井走行式OHTは方式の一例</text>
+<rect x="477" y="423" width="169" height="104" fill="#f0f5f9" stroke="#86a5bf"/><path d="M492 451H630M492 480H630M548 437V516" stroke="#86a5bf" stroke-width="2"/>
+<text x="562" y="552" text-anchor="middle" class="small">ストッカー等</text>
+<rect x="730" y="461" width="107" height="66" fill="#f9f1db" stroke="#b29246"/><text x="783" y="487" text-anchor="middle" class="small">FOUP</text><text x="783" y="512" text-anchor="middle" class="tiny">ロードポート</text>
+<rect x="857" y="430" width="184" height="97" fill="#eef4f8" stroke="#86a5bf"/><path d="M890 496L934 461L991 496" stroke="#7894ac" stroke-width="5" fill="none"/><ellipse cx="991" cy="494" rx="25" ry="5" fill="#a7bdd0"/>
+<text x="949" y="455" text-anchor="middle" class="small">EFEM</text>
+<rect x="1071" y="427" width="215" height="100" fill="#dce7ef" stroke="#7894ac" stroke-width="2"/><rect x="1091" y="448" width="174" height="52" fill="white" stroke="#86a5bf"/><text x="1179" y="481" text-anchor="middle" class="bold">加工装置</text>
+<path d="M838 492H853" class="arrow"/><path d="M1044 492H1067" class="arrow"/>
+<text x="860" y="552" class="small">EFEM内では個々のウェーハを受け渡す</text>
+<path d="M447 578H1391" stroke="#87a7bf" stroke-width="12"/>
+<text x="447" y="615" class="head">Subfab等：装置を支える機能</text>
+<rect x="474" y="639" width="240" height="111" rx="3" class="box"/><text x="594" y="674" text-anchor="middle" class="bold">分配・接続・温調等</text><text x="594" y="707" text-anchor="middle" class="small">ガス・薬液・水・冷熱</text><text x="594" y="735" text-anchor="middle" class="tiny muted">中央供給と装置の接続</text>
+<rect x="765" y="639" width="252" height="111" rx="3" fill="#fbf2f0" stroke="#cfaea6"/><text x="891" y="674" text-anchor="middle" class="bold">真空排気・局所除害等</text><text x="891" y="707" text-anchor="middle" class="small">適した方式で排ガス処理</text><text x="891" y="735" text-anchor="middle" class="tiny muted">ポンプと除害は別の機能</text>
+<rect x="1068" y="639" width="286" height="111" rx="3" class="box"/><text x="1211" y="674" text-anchor="middle" class="bold">用役配管・配線・排水等</text><text x="1211" y="707" text-anchor="middle" class="small">使用後の回収・処理経路</text><text x="1211" y="735" text-anchor="middle" class="tiny muted">部屋の循環空気へ戻さない</text>
+<path d="M714 695H735V586H1134V532" class="gas"/><path d="M1179 531V595H890V633" class="exhaust"/>
+<text x="447" y="800" class="small muted">Subfab・用役棟・屋上等への配置は工場設計で変わる。この図は配置の標準を定めない。</text>
+<!-- cross-boundary feed arrows; they show function not shared pipe -->
+<path d="M351 233H417" class="power"/><path d="M351 359H417" class="water"/><path d="M351 484H417" class="gas"/><path d="M351 609H417" class="water"/><path d="M418 744H356" class="exhaust"/>
+<text x="28" y="867" class="head">建設・設備工事は、これらを設計し、つなぎ、立ち上げる役割</text>
+<rect x="28" y="890" width="1384" height="91" rx="4" class="box"/>
+<text x="48" y="923" class="bold">計画・設計</text><path d="M179 918H240" class="arrow"/><text x="267" y="923" class="bold">建屋・用役工事</text><path d="M452 918H513" class="arrow"/><text x="540" y="923" class="bold">装置接続・試運転・確認</text><path d="M803 918H864" class="arrow"/><text x="891" y="923" class="bold">稼働・保守・増強</text>
+<text x="48" y="959" class="small muted">設備の製品市場、工事・EPC、運転保守は契約範囲を確認。金額を単純に重ねて合計しない。工程は一部並行・反復する。</text>
+<path d="M28 1003H1412" class="rule"/><text x="28" y="1030" class="small muted">原理模式図・縮尺なし。方式は工程で異なる。線は機能の接続例で、実機台数・測定点・実際の安全系統を示さない。確認日 2026-10-20 JST</text>
+</svg>

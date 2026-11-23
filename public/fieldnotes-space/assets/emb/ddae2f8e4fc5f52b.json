@@ -1,0 +1,633 @@
+{
+  "source_url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx",
+  "release_date": "2026-10-23",
+  "data_as_of": "2026-09",
+  "sheet": "Planned",
+  "fuel_filter": "Energy Source Code = NG",
+  "territory": "US Planned sheet, excludes separate Planned_PR",
+  "raw_sha256": "bcef74e1af991680731aeecfda967f5950db4ce739bb584edd8b8774c7e6da17",
+  "dedup_keys": [
+    "Plant ID",
+    "Generator ID"
+  ],
+  "duplicate_count": 0,
+  "all_ng": {
+    "records": 495,
+    "nameplate_mw": 71102.5,
+    "nameplate_mw_missing": 0,
+    "net_summer_mw": 65918.8,
+    "net_summer_mw_missing": 0
+  },
+  "by_year": [
+    {
+      "year": 2026,
+      "all_ng": {
+        "records": 29,
+        "nameplate_mw": 2677.3,
+        "nameplate_mw_missing": 0,
+        "net_summer_mw": 2421.3,
+        "net_summer_mw_missing": 0
+      },
+      "by_prime_mover": {
+        "CA": {
+          "records": 1,
+          "nameplate_mw": 400,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 365,
+          "net_summer_mw_missing": 0
+        },
+        "CS": {
+          "records": 1,
+          "nameplate_mw": 612,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 538.3,
+          "net_summer_mw_missing": 0
+        },
+        "CT": {
+          "records": 2,
+          "nameplate_mw": 906,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 793.2,
+          "net_summer_mw_missing": 0
+        },
+        "GT": {
+          "records": 10,
+          "nameplate_mw": 628.2,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 596.8,
+          "net_summer_mw_missing": 0
+        },
+        "IC": {
+          "records": 14,
+          "nameplate_mw": 122.1,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 120.0,
+          "net_summer_mw_missing": 0
+        },
+        "ST": {
+          "records": 1,
+          "nameplate_mw": 9,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 8,
+          "net_summer_mw_missing": 0
+        }
+      },
+      "by_status": {
+        "(TS) Construction complete, but not yet in commercial operation": {
+          "records": 12,
+          "nameplate_mw": 2472.2,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2228.1,
+          "net_summer_mw_missing": 0
+        },
+        "(V) Under construction, more than 50 percent complete": {
+          "records": 17,
+          "nameplate_mw": 205.1,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 193.2,
+          "net_summer_mw_missing": 0
+        }
+      }
+    },
+    {
+      "year": 2027,
+      "all_ng": {
+        "records": 113,
+        "nameplate_mw": 10725.7,
+        "nameplate_mw_missing": 0,
+        "net_summer_mw": 9443.9,
+        "net_summer_mw_missing": 0
+      },
+      "by_prime_mover": {
+        "CA": {
+          "records": 10,
+          "nameplate_mw": 1065.9,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1032.8,
+          "net_summer_mw_missing": 0
+        },
+        "CS": {
+          "records": 2,
+          "nameplate_mw": 756.3,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 661.3,
+          "net_summer_mw_missing": 0
+        },
+        "CT": {
+          "records": 8,
+          "nameplate_mw": 762.3,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 676.6,
+          "net_summer_mw_missing": 0
+        },
+        "GT": {
+          "records": 76,
+          "nameplate_mw": 7910.0,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 6844.4,
+          "net_summer_mw_missing": 0
+        },
+        "IC": {
+          "records": 17,
+          "nameplate_mw": 231.2,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 228.8,
+          "net_summer_mw_missing": 0
+        }
+      },
+      "by_status": {
+        "(L) Regulatory approvals pending. Not under construction": {
+          "records": 10,
+          "nameplate_mw": 363.8,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 291.4,
+          "net_summer_mw_missing": 0
+        },
+        "(P) Planned for installation, but regulatory approvals not initiated": {
+          "records": 42,
+          "nameplate_mw": 4785.9,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 4028.6,
+          "net_summer_mw_missing": 0
+        },
+        "(T) Regulatory approvals received. Not under construction": {
+          "records": 9,
+          "nameplate_mw": 619.6,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 548.4,
+          "net_summer_mw_missing": 0
+        },
+        "(TS) Construction complete, but not yet in commercial operation": {
+          "records": 2,
+          "nameplate_mw": 20,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 20,
+          "net_summer_mw_missing": 0
+        },
+        "(U) Under construction, less than or equal to 50 percent complete": {
+          "records": 37,
+          "nameplate_mw": 3197.7,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2984.0,
+          "net_summer_mw_missing": 0
+        },
+        "(V) Under construction, more than 50 percent complete": {
+          "records": 13,
+          "nameplate_mw": 1738.7,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1571.5,
+          "net_summer_mw_missing": 0
+        }
+      }
+    },
+    {
+      "year": 2028,
+      "all_ng": {
+        "records": 122,
+        "nameplate_mw": 19699.2,
+        "nameplate_mw_missing": 0,
+        "net_summer_mw": 18146.7,
+        "net_summer_mw_missing": 0
+      },
+      "by_prime_mover": {
+        "CA": {
+          "records": 10,
+          "nameplate_mw": 2926.5,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2758.3,
+          "net_summer_mw_missing": 0
+        },
+        "CC": {
+          "records": 1,
+          "nameplate_mw": 754,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 723,
+          "net_summer_mw_missing": 0
+        },
+        "CS": {
+          "records": 3,
+          "nameplate_mw": 2011,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1854,
+          "net_summer_mw_missing": 0
+        },
+        "CT": {
+          "records": 16,
+          "nameplate_mw": 5742.5,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 5353.9,
+          "net_summer_mw_missing": 0
+        },
+        "GT": {
+          "records": 75,
+          "nameplate_mw": 7996.5,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 7192.4,
+          "net_summer_mw_missing": 0
+        },
+        "IC": {
+          "records": 17,
+          "nameplate_mw": 268.7,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 265.1,
+          "net_summer_mw_missing": 0
+        }
+      },
+      "by_status": {
+        "(L) Regulatory approvals pending. Not under construction": {
+          "records": 36,
+          "nameplate_mw": 7337.3,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 6503.0,
+          "net_summer_mw_missing": 0
+        },
+        "(P) Planned for installation, but regulatory approvals not initiated": {
+          "records": 69,
+          "nameplate_mw": 8732.6,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 8358.4,
+          "net_summer_mw_missing": 0
+        },
+        "(T) Regulatory approvals received. Not under construction": {
+          "records": 3,
+          "nameplate_mw": 340,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 288.4,
+          "net_summer_mw_missing": 0
+        },
+        "(U) Under construction, less than or equal to 50 percent complete": {
+          "records": 14,
+          "nameplate_mw": 3289.3,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2996.9,
+          "net_summer_mw_missing": 0
+        }
+      }
+    },
+    {
+      "year": 2029,
+      "all_ng": {
+        "records": 68,
+        "nameplate_mw": 15747.6,
+        "nameplate_mw_missing": 0,
+        "net_summer_mw": 14740.9,
+        "net_summer_mw_missing": 0
+      },
+      "by_prime_mover": {
+        "CA": {
+          "records": 9,
+          "nameplate_mw": 2629.2,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2574.6,
+          "net_summer_mw_missing": 0
+        },
+        "CC": {
+          "records": 2,
+          "nameplate_mw": 804,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 711,
+          "net_summer_mw_missing": 0
+        },
+        "CS": {
+          "records": 3,
+          "nameplate_mw": 2210.0,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2038.0,
+          "net_summer_mw_missing": 0
+        },
+        "CT": {
+          "records": 9,
+          "nameplate_mw": 3804.4,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 3438.1,
+          "net_summer_mw_missing": 0
+        },
+        "GT": {
+          "records": 27,
+          "nameplate_mw": 5970.0,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 5650.4,
+          "net_summer_mw_missing": 0
+        },
+        "IC": {
+          "records": 18,
+          "nameplate_mw": 330.0,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 328.8,
+          "net_summer_mw_missing": 0
+        }
+      },
+      "by_status": {
+        "(L) Regulatory approvals pending. Not under construction": {
+          "records": 17,
+          "nameplate_mw": 3750.2,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 3523.8,
+          "net_summer_mw_missing": 0
+        },
+        "(P) Planned for installation, but regulatory approvals not initiated": {
+          "records": 41,
+          "nameplate_mw": 7727.4,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 7338.1,
+          "net_summer_mw_missing": 0
+        },
+        "(T) Regulatory approvals received. Not under construction": {
+          "records": 8,
+          "nameplate_mw": 2825,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2534.2,
+          "net_summer_mw_missing": 0
+        },
+        "(U) Under construction, less than or equal to 50 percent complete": {
+          "records": 2,
+          "nameplate_mw": 1445.0,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1344.8,
+          "net_summer_mw_missing": 0
+        }
+      }
+    },
+    {
+      "year": 2030,
+      "all_ng": {
+        "records": 153,
+        "nameplate_mw": 18134.0,
+        "nameplate_mw_missing": 0,
+        "net_summer_mw": 17281.9,
+        "net_summer_mw_missing": 0
+      },
+      "by_prime_mover": {
+        "CA": {
+          "records": 41,
+          "nameplate_mw": 6050.7,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 6002.9,
+          "net_summer_mw_missing": 0
+        },
+        "CS": {
+          "records": 3,
+          "nameplate_mw": 2041.8,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1730.4,
+          "net_summer_mw_missing": 0
+        },
+        "CT": {
+          "records": 105,
+          "nameplate_mw": 9550.9,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 9122.6,
+          "net_summer_mw_missing": 0
+        },
+        "GT": {
+          "records": 4,
+          "nameplate_mw": 490.6,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 426.0,
+          "net_summer_mw_missing": 0
+        }
+      },
+      "by_status": {
+        "(L) Regulatory approvals pending. Not under construction": {
+          "records": 2,
+          "nameplate_mw": 759,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 729,
+          "net_summer_mw_missing": 0
+        },
+        "(P) Planned for installation, but regulatory approvals not initiated": {
+          "records": 149,
+          "nameplate_mw": 16120.3,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 15437.4,
+          "net_summer_mw_missing": 0
+        },
+        "(T) Regulatory approvals received. Not under construction": {
+          "records": 2,
+          "nameplate_mw": 1254.7,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1115.5,
+          "net_summer_mw_missing": 0
+        }
+      }
+    },
+    {
+      "year": 2031,
+      "all_ng": {
+        "records": 6,
+        "nameplate_mw": 2340.9,
+        "nameplate_mw_missing": 0,
+        "net_summer_mw": 2214.6,
+        "net_summer_mw_missing": 0
+      },
+      "by_prime_mover": {
+        "CA": {
+          "records": 3,
+          "nameplate_mw": 933,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 908.4,
+          "net_summer_mw_missing": 0
+        },
+        "CT": {
+          "records": 3,
+          "nameplate_mw": 1407.9,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1306.2,
+          "net_summer_mw_missing": 0
+        }
+      },
+      "by_status": {
+        "(P) Planned for installation, but regulatory approvals not initiated": {
+          "records": 6,
+          "nameplate_mw": 2340.9,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 2214.6,
+          "net_summer_mw_missing": 0
+        }
+      }
+    },
+    {
+      "year": 2034,
+      "all_ng": {
+        "records": 4,
+        "nameplate_mw": 1777.8,
+        "nameplate_mw_missing": 0,
+        "net_summer_mw": 1669.5,
+        "net_summer_mw_missing": 0
+      },
+      "by_prime_mover": {
+        "CA": {
+          "records": 1,
+          "nameplate_mw": 323,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 296.6,
+          "net_summer_mw_missing": 0
+        },
+        "CS": {
+          "records": 2,
+          "nameplate_mw": 1000,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 1000,
+          "net_summer_mw_missing": 0
+        },
+        "CT": {
+          "records": 1,
+          "nameplate_mw": 454.8,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 372.9,
+          "net_summer_mw_missing": 0
+        }
+      },
+      "by_status": {
+        "(L) Regulatory approvals pending. Not under construction": {
+          "records": 1,
+          "nameplate_mw": 500,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 500,
+          "net_summer_mw_missing": 0
+        },
+        "(T) Regulatory approvals received. Not under construction": {
+          "records": 1,
+          "nameplate_mw": 500,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 500,
+          "net_summer_mw_missing": 0
+        },
+        "(U) Under construction, less than or equal to 50 percent complete": {
+          "records": 2,
+          "nameplate_mw": 777.8,
+          "nameplate_mw_missing": 0,
+          "net_summer_mw": 669.5,
+          "net_summer_mw_missing": 0
+        }
+      }
+    }
+  ],
+  "prime_mover_notes": {
+    "GT": "combustion turbine simple cycle",
+    "CT": "combined-cycle combustion turbine part",
+    "CA": "combined-cycle steam part; exclude from gas turbine capacity",
+    "CS": "combined-cycle single shaft, complete combined output; do not treat as GT-only",
+    "CC": "combined-cycle total unit; report separately, not GT-only",
+    "IC": "reciprocating internal combustion engine",
+    "ST": "steam turbine"
+  },
+  "limits": [
+    "Planned inventory is not firm OEM orders or committed capacity",
+    "Reported nameplate/net summer differ from ISO turbine specs",
+    "Raw generator entries, not number of turbine OEM contracts",
+    "Monthly delay/cancellation requires matching another vintage; not calculated here",
+    "Plan dates and statuses may be revised"
+  ],
+  "quarterly_2027_29": [
+    {
+      "quarter": "2027Q1",
+      "all_ng_nameplate_mw": 933.2,
+      "combustion_GT_CT_nameplate_mw": 882.7,
+      "GT_CT_over100MW_nameplate_mw": 682.6,
+      "combustion_under_construction_or_test_nameplate_mw": 882.7,
+      "combustion_generators": 7,
+      "over100mw_generators": 2
+    },
+    {
+      "quarter": "2027Q2",
+      "all_ng_nameplate_mw": 2257.7,
+      "combustion_GT_CT_nameplate_mw": 1442.5,
+      "GT_CT_over100MW_nameplate_mw": 1299.0,
+      "combustion_under_construction_or_test_nameplate_mw": 1322.5,
+      "combustion_generators": 11,
+      "over100mw_generators": 3
+    },
+    {
+      "quarter": "2027Q3",
+      "all_ng_nameplate_mw": 988.8,
+      "combustion_GT_CT_nameplate_mw": 864.1,
+      "GT_CT_over100MW_nameplate_mw": 419.0,
+      "combustion_under_construction_or_test_nameplate_mw": 731.8,
+      "combustion_generators": 16,
+      "over100mw_generators": 1
+    },
+    {
+      "quarter": "2027Q4",
+      "all_ng_nameplate_mw": 6546.0,
+      "combustion_GT_CT_nameplate_mw": 5483.0,
+      "GT_CT_over100MW_nameplate_mw": 3230.2,
+      "combustion_under_construction_or_test_nameplate_mw": 1170.0,
+      "combustion_generators": 50,
+      "over100mw_generators": 11
+    },
+    {
+      "quarter": "2028Q1",
+      "all_ng_nameplate_mw": 1443.5,
+      "combustion_GT_CT_nameplate_mw": 1419.5,
+      "GT_CT_over100MW_nameplate_mw": 1181.5,
+      "combustion_under_construction_or_test_nameplate_mw": 15.0,
+      "combustion_generators": 11,
+      "over100mw_generators": 5
+    },
+    {
+      "quarter": "2028Q2",
+      "all_ng_nameplate_mw": 2790.7,
+      "combustion_GT_CT_nameplate_mw": 2429.0,
+      "GT_CT_over100MW_nameplate_mw": 1340.0,
+      "combustion_under_construction_or_test_nameplate_mw": 863.0,
+      "combustion_generators": 22,
+      "over100mw_generators": 4
+    },
+    {
+      "quarter": "2028Q3",
+      "all_ng_nameplate_mw": 7939.9,
+      "combustion_GT_CT_nameplate_mw": 5238.0,
+      "GT_CT_over100MW_nameplate_mw": 4758.0,
+      "combustion_under_construction_or_test_nameplate_mw": 955.4,
+      "combustion_generators": 26,
+      "over100mw_generators": 16
+    },
+    {
+      "quarter": "2028Q4",
+      "all_ng_nameplate_mw": 7525.1,
+      "combustion_GT_CT_nameplate_mw": 4652.5,
+      "GT_CT_over100MW_nameplate_mw": 3350.1,
+      "combustion_under_construction_or_test_nameplate_mw": 0,
+      "combustion_generators": 32,
+      "over100mw_generators": 9
+    },
+    {
+      "quarter": "2029Q1",
+      "all_ng_nameplate_mw": 6840.8,
+      "combustion_GT_CT_nameplate_mw": 3776.8,
+      "GT_CT_over100MW_nameplate_mw": 3776.8,
+      "combustion_under_construction_or_test_nameplate_mw": 0,
+      "combustion_generators": 10,
+      "over100mw_generators": 10
+    },
+    {
+      "quarter": "2029Q2",
+      "all_ng_nameplate_mw": 3021.2,
+      "combustion_GT_CT_nameplate_mw": 1658.0,
+      "GT_CT_over100MW_nameplate_mw": 1478.0,
+      "combustion_under_construction_or_test_nameplate_mw": 0,
+      "combustion_generators": 9,
+      "over100mw_generators": 5
+    },
+    {
+      "quarter": "2029Q3",
+      "all_ng_nameplate_mw": 2113.6,
+      "combustion_GT_CT_nameplate_mw": 1177.6,
+      "GT_CT_over100MW_nameplate_mw": 1177.6,
+      "combustion_under_construction_or_test_nameplate_mw": 0,
+      "combustion_generators": 3,
+      "over100mw_generators": 3
+    },
+    {
+      "quarter": "2029Q4",
+      "all_ng_nameplate_mw": 3772.0,
+      "combustion_GT_CT_nameplate_mw": 3162.0,
+      "GT_CT_over100MW_nameplate_mw": 3016.8,
+      "combustion_under_construction_or_test_nameplate_mw": 0,
+      "combustion_generators": 14,
+      "over100mw_generators": 10
+    }
+  ],
+  "status_filter_note": "Construction(U,V) and construction complete not commercial(TS) combined only for displayed readiness subset. Approvals(P,L,T) remain separate in by_year."
+}

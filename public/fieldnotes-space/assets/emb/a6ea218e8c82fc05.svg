@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1045" viewBox="0 0 1440 1045" role="img" aria-labelledby="title desc"><title id="title">どの工程で何を測るか</title><desc id="desc">基板、反復する前工程、後工程をまたぐ寸法・膜・欠陥の計測検査と、ウェーハ電気テスト、KGD、最終ATE、用途別burn-inとSLTの機能を区別した原理模式図。</desc><metadata>{"as_of": "2026-10-20", "timezone": "Asia/Tokyo", "authorship": "Original FIELDNOTES educational schematic; no manufacturer illustration copied", "source_ids": ["CP_VIS_ASML", "CP_VIS_KLA", "CP_VIS_ONTO", "CP_VIS_NORDSON", "CP_VIS_AMKOR"], "limitations": ["Not to scale; no product CAD or real Fab layout", "Positions, component counts, layer counts and dimensions are illustrative", "Optional functions and alternative architectures are not mandatory simultaneous equipment"]}</metadata><defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#436b90" stroke-width="1.2"/></marker><marker id="gold" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#a87924" stroke-width="1.2"/></marker><style>text{font-family:Arial,"Noto Sans CJK JP","Noto Sans JP",sans-serif;fill:#17324f;font-size:17px} .title{font-size:27px;font-weight:700}.head{font-size:21px;font-weight:700}.small{font-size:15px}.tiny{font-size:14px}.bold{font-weight:700}.muted{fill:#536980}.blue{fill:#1374aa}.gold{fill:#876323}.line{fill:none;stroke:#436b90;stroke-width:2.4}.arrow{fill:none;stroke:#436b90;stroke-width:2.4;marker-end:url(#arr)}.feedback{fill:none;stroke:#a87924;stroke-width:2;stroke-dasharray:6 5;marker-end:url(#gold)}.box{fill:#f5f8fc;stroke:#b9cddd;stroke-width:1.4}.rule{stroke:#d5e1ea;stroke-width:1}.si{fill:#a7bbcf;stroke:#607c98;stroke-width:1.3}.film{fill:#69bdd4;stroke:#26859c;stroke-width:1}.resist{fill:#dcabcc;stroke:#a65c91;stroke-width:1}.metal{fill:#e1be6a;stroke:#ac8236;stroke-width:1}</style></defs><rect width="1440" height="1045" fill="white"/>
+<text x="28" y="39" class="title">どの工程で何を測るか</text>
+<text x="28" y="69" class="small muted">加工を進める流れと、寸法・欠陥・電気特性を見る機能を分ける。計測・検査は複数工程に入る。</text>
+<rect x="28" y="93" width="240" height="248" rx="5" class="box"/>
+<text x="46" y="123" class="head">基板・ウェーハ</text>
+<ellipse cx="147" cy="211" rx="76" ry="40" class="si"/><path d="M71 211V225A76 40 0 0 0 223 225V211" fill="#8fa9c0" stroke="#607c98"/>
+<path d="M82 197L210 224M98 184L218 210M72 214L195 239" stroke="#d6e0e9" stroke-width="2"/>
+<circle cx="114" cy="204" r="4" fill="#d06055"/><circle cx="171" cy="220" r="3" fill="#d06055"/>
+<text x="46" y="286">研磨・洗浄後などに確認</text><text x="46" y="314" class="small muted">表面・膜・形状・結晶の品質</text>
+<path d="M274 216H302" class="arrow"/>
+<rect x="310" y="93" width="700" height="248" rx="5" class="box"/>
+<text x="328" y="123" class="head">前工程：層・配線を作るたびに繰り返す</text>
+<g transform="translate(331 154)"><rect width="137" height="85" rx="3" fill="white" stroke="#a9bfce"/><rect x="18" y="54" width="101" height="16" class="si"/><rect x="18" y="43" width="101" height="11" class="film"/><text x="68" y="26" text-anchor="middle" class="bold">成膜</text></g>
+<g transform="translate(492 154)"><rect width="167" height="85" rx="3" fill="white" stroke="#a9bfce"/><rect x="18" y="58" width="131" height="12" class="si"/><rect x="18" y="49" width="131" height="9" class="film"/><path d="M18 49V37H45V49M65 49V37H94V49M114 49V37H149V49" class="resist"/><text x="83" y="26" text-anchor="middle" class="bold">露光・現像</text></g>
+<g transform="translate(683 154)"><rect width="147" height="85" rx="3" fill="white" stroke="#a9bfce"/><rect x="17" y="58" width="113" height="12" class="si"/><path d="M17 58V42H43V58M62 58V42H91V58M110 58V42H130V58" class="film"/><text x="74" y="26" text-anchor="middle" class="bold">エッチ・洗浄</text></g>
+<g transform="translate(854 154)"><rect width="135" height="85" rx="3" fill="white" stroke="#a9bfce"/><rect x="17" y="56" width="101" height="14" class="si"/><rect x="17" y="44" width="101" height="12" class="film"/><text x="67" y="26" text-anchor="middle" class="bold">CMP 等</text></g>
+<path d="M470 195H487M661 195H678M832 195H849" class="arrow"/>
+<path d="M920 245V263H397V245" class="arrow"/><text x="665" y="288" text-anchor="middle" class="small muted">実際の順序・省略・反復は製品と層で変わる</text>
+<text x="328" y="318" class="small gold">測定データ → 原因解析・装置条件の補正・ウェーハの判定へ</text>
+<path d="M1016 216H1044" class="arrow"/>
+<rect x="1052" y="93" width="360" height="248" rx="5" class="box"/>
+<text x="1070" y="123" class="head">後工程・実装</text>
+<rect x="1113" y="217" width="234" height="24" fill="#7c9f8d" stroke="#527a69"/><rect x="1152" y="168" width="154" height="28" class="si"/>
+<path d="M1142 217V155H1316V217" fill="none" stroke="#8f9dac" stroke-width="13"/>
+<path d="M1164 200V216M1192 200V216M1220 200V216M1248 200V216M1276 200V216" stroke="#b98f3b" stroke-width="7"/>
+<text x="1070" y="286">RDL・接合・封止の前後</text><text x="1070" y="314" class="small muted">形状、接合部、内部界面など</text>
+<text x="28" y="382" class="head">寸法・膜の計測</text><text x="373" y="382" class="small muted">「どれだけ・どこに」を数値化。対象と原理が異なる。</text>
+<rect x="28" y="402" width="440" height="169" rx="4" fill="#eff7fb" stroke="#b0cfdf"/>
+<path d="M58 476H93V441H128V476H166V441H202V476H247" fill="none" stroke="#26859c" stroke-width="9"/>
+<path d="M95 430H126M95 425V435M126 425V435" stroke="#17324f" stroke-width="1.7"/><text x="268" y="442" class="head">CD・形状</text>
+<text x="268" y="472">線幅、穴径、側壁形状</text><text x="48" y="523" class="small">前工程のパターン、後工程の配線・接点等</text><text x="48" y="549" class="small muted">SEM・光学等を対象構造に合わせて選ぶ</text>
+<rect x="490" y="402" width="439" height="169" rx="4" fill="#eff7fb" stroke="#b0cfdf"/>
+<rect x="520" y="437" width="67" height="45" fill="none" stroke="#26859c" stroke-width="4"/><rect x="536" y="449" width="67" height="45" fill="none" stroke="#b18a36" stroke-width="4"/>
+<text x="627" y="442" class="head">Overlay</text><text x="627" y="472">層間の重ね合わせ位置</text>
+<text x="510" y="523" class="small">露光後・エッチ後等で位置ずれを評価</text><text x="510" y="549" class="small muted">線幅の測定、外観欠陥の検出とは別の機能</text>
+<rect x="951" y="402" width="461" height="169" rx="4" fill="#eff7fb" stroke="#b0cfdf"/>
+<rect x="981" y="466" width="114" height="25" class="si"/><rect x="981" y="448" width="114" height="18" class="film"/>
+<path d="M1105 450V464M1099 450H1111M1099 464H1111" stroke="#17324f" stroke-width="1.6"/>
+<text x="1143" y="442" class="head">Film</text><text x="1143" y="472">膜厚・膜の特性</text>
+<text x="971" y="523" class="small">成膜・研磨・RDL工程の前後等</text><text x="971" y="549" class="small muted">光学・音響等。組成などは別原理も用いる</text>
+<text x="28" y="611" class="head">欠陥の検査</text><text x="373" y="611" class="small muted">「異常がどこにあるか」を探し、必要に応じてレビュー・解析する。</text>
+<rect x="28" y="630" width="681" height="129" rx="4" fill="#fbf6ed" stroke="#dccaaa"/>
+<text x="48" y="662" class="bold">表面：粒子・傷・パターンの異常</text><text x="48" y="695">基板・膜・加工済みパターンの表面を観察</text>
+<text x="48" y="729" class="small muted">光学／電子線など。検出条件・速度・視野が異なる。</text>
+<rect x="731" y="630" width="681" height="129" rx="4" fill="#fbf6ed" stroke="#dccaaa"/>
+<text x="751" y="662" class="bold">内部・界面：接合の空隙・剥離など</text><text x="751" y="695">接合ウェーハ・パッケージの内部を適した手法で確認</text>
+<text x="751" y="729" class="small muted">音響等は対象材質・深さ・界面に制約。表面検査の代用ではない。</text>
+<text x="28" y="800" class="head">電気テスト</text><text x="373" y="800" class="small muted">構造の合否とは別に、電気特性・機能を規定条件で確かめる。</text>
+<rect x="28" y="818" width="425" height="156" rx="4" class="box"/><text x="48" y="850" class="bold">ウェーハ電気検査 → ダイ選別</text>
+<text x="48" y="881">ATE ＋ プローバ ＋ プローブカード</text><text x="48" y="911" class="small">KGD：要求された試験に基づく良品ダイ</text><text x="48" y="943" class="small muted">未検出不良ゼロを保証する用語ではない</text>
+<rect x="475" y="818" width="390" height="156" rx="4" class="box"/><text x="495" y="850" class="bold">最終パッケージ電気検査</text>
+<text x="495" y="881">ATE ＋ ハンドラ ＋ ソケット等</text><text x="495" y="911" class="small">組立後の特性・機能を試験</text><text x="495" y="943" class="small muted">外観・内部検査と相互補完</text>
+<rect x="887" y="818" width="525" height="156" rx="4" class="box"/><text x="907" y="850" class="bold">Burn-in ／ SLT：用途に応じて採用</text>
+<text x="907" y="881">Burn-in：温度・電気ストレスによる選別等</text><text x="907" y="911">SLT：システムに近い条件で動作を確認</text><text x="907" y="943" class="small muted">全品共通の必須順序ではなく、前後に電気再試験もある</text>
+<path d="M28 996H1412" class="rule"/><text x="28" y="1023" class="small muted">原理を整理した模式図。寸法・層数・測定点数・搭載数・実際の製造レシピを表さない。確認日 2026-10-20 JST</text>
+</svg>

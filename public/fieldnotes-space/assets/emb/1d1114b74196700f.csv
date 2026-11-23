@@ -1,0 +1,75 @@
+entity,metric,period,value,unit,classification,scope,source_id
+GE CES,engine_deliveries,2023,2075,engines,reported_actual,Commercial engines; includes LEAP,GE25
+GE CES,engine_deliveries,2024,1911,engines,reported_actual,Commercial engines; includes LEAP,GE25
+GE CES,engine_deliveries,2025,2386,engines,reported_actual,Commercial engines; includes LEAP,GE25
+CFM LEAP,engine_deliveries,2023,1570,engines,reported_actual,Subset of GE commercial engine delivery disclosure; not additive,GE25
+CFM LEAP,engine_deliveries,2024,1407,engines,reported_actual,Subset of GE commercial engine delivery disclosure; not additive,GE25
+CFM LEAP,engine_deliveries,2025,1802,engines,reported_actual,Subset of GE commercial engine delivery disclosure; not additive,GE25
+GE DPT,defense_engine_deliveries,2023,556,engines,reported_actual,Defense engines; not all DPT equipment,GE25
+GE DPT,defense_engine_deliveries,2024,490,engines,reported_actual,Defense engines; not all DPT equipment,GE25
+GE DPT,defense_engine_deliveries,2025,635,engines,reported_actual,Defense engines; not all DPT equipment,GE25
+GE CES,equipment_revenue,2023,6169,USD million,reported_actual,GE CES segment,GE25
+GE CES,equipment_revenue,2024,7106,USD million,reported_actual,GE CES segment,GE25
+GE CES,equipment_revenue,2025,8304,USD million,reported_actual,GE CES segment,GE25
+GE CES,services_revenue,2023,17686,USD million,reported_actual,GE CES segment,GE25
+GE CES,services_revenue,2024,19775,USD million,reported_actual,GE CES segment,GE25
+GE CES,services_revenue,2025,25010,USD million,reported_actual,GE CES segment,GE25
+GE CES,segment_revenue,2023,23855,USD million,reported_actual,GE CES segment,GE25
+GE CES,segment_revenue,2024,26881,USD million,reported_actual,GE CES segment,GE25
+GE CES,segment_revenue,2025,33314,USD million,reported_actual,GE CES segment,GE25
+GE CES,segment_profit,2023,5643,USD million,reported_actual,Segment profit; not net income,GE25
+GE CES,segment_profit,2024,7055,USD million,reported_actual,Segment profit; not net income,GE25
+GE CES,segment_profit,2025,8861,USD million,reported_actual,Segment profit; not net income,GE25
+GE CES,segment_profit_margin,2023,23.7,percent,reported_actual,Segment profit/revenue,GE25
+GE CES,segment_profit_margin,2024,26.2,percent,reported_actual,Segment profit/revenue,GE25
+GE CES,segment_profit_margin,2025,26.6,percent,reported_actual,Segment profit/revenue,GE25
+GE DPT,segment_revenue,2023,8961,USD million,reported_actual,Includes P&AT; not pure military engines,GE25
+GE DPT,segment_revenue,2024,9478,USD million,reported_actual,Includes P&AT; not pure military engines,GE25
+GE DPT,segment_revenue,2025,10554,USD million,reported_actual,Includes P&AT; not pure military engines,GE25
+GE DPT,segment_profit,2023,908,USD million,reported_actual,Includes P&AT; not pure military engines,GE25
+GE DPT,segment_profit,2024,1061,USD million,reported_actual,Includes P&AT; not pure military engines,GE25
+GE DPT,segment_profit,2025,1296,USD million,reported_actual,Includes P&AT; not pure military engines,GE25
+GE DPT,segment_profit_margin,2023,10.1,percent,reported_actual,Segment profit/revenue,GE25
+GE DPT,segment_profit_margin,2024,11.2,percent,reported_actual,Segment profit/revenue,GE25
+GE DPT,segment_profit_margin,2025,12.3,percent,reported_actual,Segment profit/revenue,GE25
+GE CES,RPO,2023,137535,USD million,reported_actual,Equipment + services remaining performance obligations,GE25
+GE CES,RPO,2024,153644,USD million,reported_actual,Equipment + services remaining performance obligations,GE25
+GE CES,RPO,2025,169822,USD million,reported_actual,Equipment + services remaining performance obligations,GE25
+GE DPT,RPO,2023,16468,USD million,reported_actual,Equipment + services remaining performance obligations,GE25
+GE DPT,RPO,2024,17991,USD million,reported_actual,Equipment + services remaining performance obligations,GE25
+GE DPT,RPO,2025,20742,USD million,reported_actual,Equipment + services remaining performance obligations,GE25
+RR Civil,large_engine_deliveries,2025,259,engines,reported_actual,Includes spare engines,RR25
+RR Civil,large_engine_orders,2025,638,engines,reported_actual,"Gross orders, not deliveries",RR25
+RR Civil,large_engine_orderbook,2025-12-31,2207,engines,reported_actual,Large engine orders outstanding,RR25
+RR Civil,total_OE_deliveries,2025,483,engines,reported_actual,Large + business aviation/regional,RR25
+RR Civil,large_engine_deliveries,2026H1,157,engines,reported_actual,Six months only,RR26
+RR Civil,total_OE_deliveries,2026H1,279,engines,reported_actual,Six months only,RR26
+RR Civil,total_LTSA_shop_visits,2026H1,712,visits,reported_actual,LTSA; not industry MRO total,RR26
+RR Civil,operating_margin,2026H1,25.3,percent,reported_actual,Underlying basis,RR26
+PW,sales,2026Q2,8889,USD million,reported_actual,Quarter; commercial + military + small engines,RTX26
+PW,operating_profit,2026Q2,738,USD million,reported_actual,Reported,RTX26
+PW,adjusted_operating_profit,2026Q2,740,USD million,reported_actual,Adjusted,RTX26
+GE,total_engine_delivery_growth,2026H1,31,percent YoY,reported_actual,Total deliveries,GE26
+CFM LEAP,delivery_growth,2026H1,41,percent YoY,reported_actual,LEAP delivery growth,GE26
+GE CES,intersegment_revenue,2025,62,USD million,reported_actual,Included in segment revenue,GE25
+GE DPT,intersegment_revenue,2025,1686,USD million,reported_actual,Included in segment revenue,GE25
+GE CES,external_revenue,2025,33252,USD million,reported_actual,External customers,GE25
+GE DPT,external_revenue,2025,8868,USD million,reported_actual,External customers,GE25
+RR Civil,net_contractual_operational_improvements,2026H1,497,GBP million,reported_actual,Includes catchups372 and onerous release125; not wholly recurring,RR26
+IHI Aero Engine Space Defense,segment_revenue,FY2025 ended2026-03,651.7,JPY billion,reported_actual,Mixed segment; not civil engines alone,IHI25FIN
+IHI Aero Engine Space Defense,operating_profit,FY2025 ended2026-03,112.4,JPY billion,reported_actual,Mixed segment; not civil engines alone,IHI25FIN
+MHI Commercial Aviation,revenue,FY2024 ended2025-03,203.0,JPY billion,reported_actual,Includes aerostructures/aftermarket; not engines alone,MHI25FIN
+MHI Commercial Aviation,revenue,FY2025 ended2026-03,249.2,JPY billion,reported_actual,Includes aerostructures/aftermarket; not engines alone,MHI25FIN
+KHI Aerospace Systems,external_revenue,FY2024 ended2025-03,567.8,JPY billion,reported_actual,Mixed aircraft and engines,KHI25FIN
+KHI Aerospace Systems,external_revenue,FY2025 ended2026-03,613.6,JPY billion,reported_actual,Mixed aircraft and engines,KHI25FIN
+KHI Aerospace Systems,business_profit,FY2024 ended2025-03,55.8,JPY billion,reported_actual,Mixed aircraft and engines,KHI25FIN
+KHI Aerospace Systems,business_profit,FY2025 ended2026-03,62.4,JPY billion,reported_actual,Mixed aircraft and engines,KHI25FIN
+RTX Group,operating_cash_flow,2023,7883,USD million,reported_actual,Whole group; not PW,RTX25
+RTX Group,operating_cash_flow,2024,7159,USD million,reported_actual,Whole group; not PW,RTX25
+RTX Group,operating_cash_flow,2025,10567,USD million,reported_actual,Whole group; not PW,RTX25
+RTX Group,capital_expenditures,2023,2415,USD million,reported_actual,Whole group; cash outflow shown positive,RTX25
+RTX Group,capital_expenditures,2024,2625,USD million,reported_actual,Whole group; cash outflow shown positive,RTX25
+RTX Group,capital_expenditures,2025,2627,USD million,reported_actual,Whole group; cash outflow shown positive,RTX25
+RR Group,free_cash_flow,2023,1285,GBP million,reported_actual,"Company APM; whole group, not civil engines",RR24
+RR Group,free_cash_flow,2024,2425,GBP million,reported_actual,"Company APM; whole group, not civil engines",RR25
+RR Group,free_cash_flow,2025,3270,GBP million,reported_actual,"Company APM; whole group, not civil engines",RR25
