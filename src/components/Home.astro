@@ -1,6 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
 import { NAME, TAGLINE, CHANNELS, type Lang } from '../data/site';
+// @ts-ignore - raw HTML imports of the FIELDNOTES hubs (the same files
+// the Field Notes pages serve), parsed at build time for the by-industry list.
+import hubJaHtml from '../fieldnotes/hub-ja.html?raw';
+// @ts-ignore - see above.
+import hubEnHtml from '../fieldnotes/hub-en.html?raw';
 
 interface Props {
   lang: Lang;
@@ -11,20 +16,209 @@ const base = isJa ? '/ja' : '/en';
 
 const SUBSTACK_URL = 'https://morokenjp.substack.com/';
 
-const latestNews = (
-  await getCollection('news', ({ data }) => data.lang === lang)
-)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 5);
-
-const featuredReport = (
-  await getCollection('reports', ({ data }) => data.lang === lang)
-).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())[0];
-
 const fmt = (d: Date) =>
   isJa
     ? `${d.getFullYear()}/${d.getMonth() + 1}/${d.getDate()}`
-    : d.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
+    : d.toLocaleDateString('en-GB', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+      });
+const fmtShort = (d: Date) =>
+  isJa
+    ? `${d.getMonth() + 1}/${d.getDate()}`
+    : d.toLocaleDateString('en-GB', { month: 'short', day: 'numeric' });
+
+/* ---------- News (left column) ---------- */
+const allNews = (
+  await getCollection('news', ({ data }) => data.lang === lang)
+).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const leadNews = allNews[0];
+const gridNews = allNews.slice(1, 7);
+const listNews = allNews.slice(7, 11);
+
+/* ---------- Latest rail (right column, all content types) ---------- */
+interface RailItem {
+  type: string;
+  date: Date;
+  title: string;
+  href: string;
+  external: boolean;
+  meta?: string;
+}
+const byDate = (a: { data: { date: Date } }, b: { data: { date: Date } }) =>
+  b.data.date.valueOf() - a.data.date.valueOf();
+
+const railReports = (
+  await getCollection('reports', ({ data }) => data.lang === lang)
+)
+  .sort(byDate)
+  .slice(0, 5)
+  .map(
+    (r): RailItem => ({
+      type: isJa ? 'レポート' : 'Report',
+      date: r.data.date,
+      title: r.data.title,
+      href: r.data.externalUrl,
+      external: r.data.externalUrl.startsWith('http'),
+      meta: r.data.company,
+    }),
+  );
+
+const railNews = allNews
+  .slice(0, 4)
+  .map(
+    (n): RailItem => ({
+      type: isJa ? 'ニュース' : 'News',
+      date: n.data.date,
+      title: n.data.title,
+      href: n.data.externalUrl,
+      external: true,
+      meta: n.data.sector,
+    }),
+  );
+
+const railFieldnotes = (await getCollection('fieldnotes'))
+  .sort((a, b) => b.data.no - a.data.no)
+  .slice(0, 3)
+  .map(
+    (f): RailItem => ({
+      type: isJa ? '統合レポート' : 'Sector report',
+      date: f.data.date,
+      title: isJa ? f.data.title : (f.data.titleEn ?? f.data.title),
+      href: `/ja/fieldnotes/${f.id.replace(/-ja$/, '')}/`,
+      external: false,
+      meta: `FIELDNOTES No.${f.data.no}`,
+    }),
+  );
+
+const railArticles = (
+  await getCollection('portfolio', ({ data }) => data.lang === lang)
+)
+  .sort(byDate)
+  .slice(0, 3)
+  .map(
+    (p): RailItem => ({
+      type: isJa ? '記事' : 'Article',
+      date: p.data.date,
+      title: p.data.title,
+      href: p.data.externalUrl,
+      external: p.data.externalUrl.startsWith('http'),
+      meta: p.data.kind,
+    }),
+  );
+
+// Newest-first across types; the sector reports (all dated 2026-11-16)
+// get reserved slots so every content type appears in the rail.
+const rail = [
+  ...[...railReports, ...railNews, ...railArticles]
+    .sort((a, b) => b.date.valueOf() - a.date.valueOf())
+    .slice(0, 9),
+  ...railFieldnotes,
+].sort((a, b) => b.date.valueOf() - a.date.valueOf());
+
+/* ---------- Field Notes by-industry list (parsed from the hub) ---------- */
+interface FnState {
+  label: string;
+  goto: string | null;
+}
+interface FnTopic {
+  kind: 'topic';
+  name: string;
+  states: FnState[];
+}
+interface FnSub {
+  kind: 'sub';
+  label: string;
+}
+interface FnSection {
+  no: string;
+  name: string;
+  count: number | null;
+  rows: (FnTopic | FnSub)[];
+}
+
+const stripTags = (s: string) =>
+  s
+    .replace(/<[^>]+>/g, '')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+function parseHub(html: string): FnSection[] {
+  const headRe =
+    /<span class="sec-no">(§\d+)<\/span>([^<]+?)(?:<span class="sec-count">（(\d+)件）<\/span>)?/g;
+  const heads: { no: string; name: string; count: number | null; idx: number }[] =
+    [];
+  let m: RegExpExecArray | null;
+  while ((m = headRe.exec(html))) {
+    heads.push({
+      no: m[1],
+      name: stripTags(m[2]),
+      count: m[3] ? Number(m[3]) : null,
+      idx: m.index,
+    });
+  }
+  const sections: FnSection[] = [];
+  for (let i = 0; i < heads.length; i++) {
+    const chunk = html.slice(
+      heads[i].idx,
+      i + 1 < heads.length ? heads[i + 1].idx : html.length,
+    );
+    const table = chunk.match(/<table class="topic-table">([\s\S]*?)<\/table>/);
+    if (!table) continue;
+    const rows: (FnTopic | FnSub)[] = [];
+    const rowRe = /<tr([^>]*)>([\s\S]*?)<\/tr>/g;
+    let r: RegExpExecArray | null;
+    while ((r = rowRe.exec(table[1]))) {
+      if (r[1].includes('subrow')) {
+        rows.push({ kind: 'sub', label: stripTags(r[2]) });
+        continue;
+      }
+      const nameM = r[2].match(/<td class="t-name">([\s\S]*?)<\/td>/);
+      if (!nameM) continue;
+      const states = [
+        ...r[2].matchAll(/<td class="t-state">([\s\S]*?)<\/td>/g),
+      ].map((c) => {
+        const g = c[1].match(/data-goto="([^"]+)"/);
+        return { label: stripTags(c[1]), goto: g ? g[1] : null };
+      });
+      rows.push({ kind: 'topic', name: stripTags(nameM[1]), states });
+    }
+    sections.push({ ...heads[i], rows });
+  }
+  return sections;
+}
+
+const FN_EXCLUDE = new Set(['§1', '§15', '§16']);
+const fnSections = parseHub(isJa ? hubJaHtml : hubEnHtml).filter(
+  (s) => !FN_EXCLUDE.has(s.no),
+);
+const fnTopicTotal = fnSections.reduce(
+  (n, s) => n + s.rows.filter((r) => r.kind === 'topic').length,
+  0,
+);
+
+const FN_EN: Record<string, string> = {
+  '§2': 'Semiconductors & Semiconductor Materials',
+  '§3': 'Telecom & Data Centres',
+  '§4': 'Industrial Equipment & Machinery',
+  '§5': 'Elevators & Escalators',
+  '§6': 'Motion',
+  '§7': 'Electronic Equipment',
+  '§8': 'Measurement & Inspection',
+  '§9': 'Electronic Components',
+  '§10': 'Materials & Industrial Gases',
+  '§11': 'Power & Energy',
+  '§12': 'Batteries & Battery Materials',
+  '§13': 'Aircraft & Engines',
+  '§14': 'Defence',
+};
+const stateKinds = isJa
+  ? ['統計', 'VC', '3D']
+  : ['Stats', 'VC', '3D'];
 
 const gateways = isJa
   ? [
@@ -63,19 +257,20 @@ const gateways = isJa
     ];
 ---
 
+{/* ---------- Masthead ---------- */}
 <section>
-  <h1 class="font-display text-4xl font-semibold tracking-tight sm:text-5xl">
+  <h1 class="font-display text-3xl font-semibold tracking-tight sm:text-4xl">
     {NAME}
   </h1>
-  <p class="mt-3 text-base text-neutral-600 dark:text-neutral-400">{TAGLINE}</p>
-  <p class="mt-8 max-w-prose leading-relaxed">
+  <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">{TAGLINE}</p>
+  <p class="mt-4 max-w-prose text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
     {
       isJa
-        ? '東京を拠点とするセルサイド株式アナリストです。インダストリアル・素材・エネルギー（IME）をカバーし、市場と業界の短報を1日3回、長文レポートを週3回（月・水・土）配信しています。数字と一次情報から業界を読むことを仕事にしています。'
-        : 'I am a sell-side equity analyst based in Tokyo, covering industrials, materials and energy (IME). I publish short market and industry reports three times a day, and long-form reports three times a week (Mon / Wed / Sat) — reading industries through numbers and primary sources.'
+        ? '東京を拠点とするセルサイド株式アナリストです。インダストリアル・素材・エネルギー（IME）をカバーし、市場と業界の短報を1日3回、長文レポートを週3回（月・水・土）配信しています。'
+        : 'Sell-side equity analyst in Tokyo covering industrials, materials and energy (IME). Short market and industry reports three times a day; long-form reports three times a week (Mon / Wed / Sat).'
     }
   </p>
-  <p class="mt-6 flex flex-wrap items-center gap-3">
+  <p class="mt-4 flex flex-wrap items-center gap-3">
     <a
       href={SUBSTACK_URL}
       target="_blank"
@@ -92,73 +287,231 @@ const gateways = isJa
   </p>
 </section>
 
-<section class="mt-14">
-  <div class="flex items-baseline justify-between gap-4">
-    <h2 class="font-display text-xl font-semibold">
-      {isJa ? '最新の業界ニュース' : 'Latest industry news'}
-    </h2>
-    <a href={`${base}/news/`} class="text-sm font-medium underline-offset-4 hover:underline">
-      {isJa ? 'ニュース一覧 →' : 'All news →'}
-    </a>
-  </div>
-  <ul class="mt-5 divide-y divide-neutral-200 dark:divide-neutral-800">
+{/* ---------- News portal: news left, latest rail right ---------- */}
+<div class="mt-10 grid gap-10 lg:grid-cols-3">
+  <section class="lg:col-span-2">
+    <div class="flex items-baseline justify-between gap-4 border-t-4 border-neutral-900 pt-3 dark:border-neutral-100">
+      <h2 class="font-display text-xl font-semibold">
+        {isJa ? '業界ニュース' : 'Industry News'}
+      </h2>
+      <a href={`${base}/news/`} class="text-sm font-medium underline-offset-4 hover:underline">
+        {isJa ? 'ニュース一覧 →' : 'All news →'}
+      </a>
+    </div>
+
     {
-      latestNews.map((item) => (
-        <li class="py-4">
-          <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-sm text-neutral-500 dark:text-neutral-400">
-            <time datetime={item.data.date.toISOString()}>{fmt(item.data.date)}</time>
-            <span class="rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:bg-neutral-900 dark:text-neutral-400">
-              {item.data.sector}
+      leadNews && (
+        <article class="mt-5">
+          <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-neutral-500 dark:text-neutral-400">
+            <span class="rounded-full bg-neutral-900 px-2 py-0.5 text-xs font-medium text-white dark:bg-neutral-100 dark:text-neutral-900">
+              {leadNews.data.sector}
             </span>
+            <time datetime={leadNews.data.date.toISOString()}>
+              {fmt(leadNews.data.date)}
+            </time>
           </div>
           <a
-            href={item.data.externalUrl}
+            href={leadNews.data.externalUrl}
             target="_blank"
             rel="noopener noreferrer"
-            class="mt-1 block font-display text-lg font-semibold leading-snug underline-offset-4 hover:underline"
+            class="mt-2 block font-display text-2xl font-semibold leading-snug underline-offset-4 hover:underline sm:text-3xl"
           >
-            {item.data.title}
+            {leadNews.data.title}
           </a>
-          <p class="mt-1 max-w-prose text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
-            {item.data.summary}
+          <p class="mt-2 leading-relaxed text-neutral-600 dark:text-neutral-400">
+            {leadNews.data.summary}
           </p>
-        </li>
+          <a
+            href={leadNews.data.externalUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="mt-3 inline-block text-sm font-medium underline-offset-4 hover:underline"
+          >
+            {isJa ? '記事を読む →' : 'Read the story →'}
+          </a>
+        </article>
+      )
+    }
+
+    <div class="mt-8 grid gap-x-6 gap-y-6 border-t border-neutral-200 pt-6 sm:grid-cols-2 dark:border-neutral-800">
+      {
+        gridNews.map((item) => (
+          <article>
+            <div class="flex flex-wrap items-baseline gap-x-2 text-xs text-neutral-500 dark:text-neutral-400">
+              <span class="font-medium text-neutral-700 dark:text-neutral-300">
+                {item.data.sector}
+              </span>
+              <time datetime={item.data.date.toISOString()}>
+                {fmtShort(item.data.date)}
+              </time>
+            </div>
+            <a
+              href={item.data.externalUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="mt-1 block font-display text-base font-semibold leading-snug underline-offset-4 hover:underline"
+            >
+              {item.data.title}
+            </a>
+            <p class="mt-1 line-clamp-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+              {item.data.summary}
+            </p>
+          </article>
+        ))
+      }
+    </div>
+
+    <ul class="mt-8 divide-y divide-neutral-200 border-t border-neutral-200 dark:divide-neutral-800 dark:border-neutral-800">
+      {
+        listNews.map((item) => (
+          <li class="flex items-baseline gap-3 py-3">
+            <time
+              datetime={item.data.date.toISOString()}
+              class="shrink-0 text-xs text-neutral-500 dark:text-neutral-400"
+            >
+              {fmtShort(item.data.date)}
+            </time>
+            <span class="shrink-0 text-xs font-medium text-neutral-700 dark:text-neutral-300">
+              {item.data.sector}
+            </span>
+            <a
+              href={item.data.externalUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="font-medium leading-snug underline-offset-4 hover:underline"
+            >
+              {item.data.title}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <aside>
+    <div class="border-t-4 border-neutral-900 pt-3 dark:border-neutral-100">
+      <h2 class="font-display text-xl font-semibold">
+        {isJa ? '新着' : 'Latest'}
+      </h2>
+    </div>
+    <ul class="mt-2 divide-y divide-neutral-200 dark:divide-neutral-800">
+      {
+        rail.map((item) => (
+          <li class="py-3">
+            <div class="flex flex-wrap items-baseline gap-x-2 text-xs text-neutral-500 dark:text-neutral-400">
+              <span class="rounded bg-neutral-100 px-1.5 py-0.5 font-medium text-neutral-700 dark:bg-neutral-900 dark:text-neutral-300">
+                {item.type}
+              </span>
+              <time datetime={item.date.toISOString()}>{fmtShort(item.date)}</time>
+              {item.meta && <span class="truncate">{item.meta}</span>}
+            </div>
+            <a
+              href={item.href}
+              {...(item.external
+                ? { target: '_blank', rel: 'noopener noreferrer' }
+                : {})}
+              class="mt-1 block font-medium leading-snug underline-offset-4 hover:underline"
+            >
+              {item.title}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </aside>
+</div>
+
+{/* ---------- Field Notes by industry ---------- */}
+<section class="mt-14">
+  <div class="flex flex-wrap items-baseline justify-between gap-4 border-t-4 border-neutral-900 pt-3 dark:border-neutral-100">
+    <h2 class="font-display text-xl font-semibold">
+      {isJa ? 'Field Notes — 業界別一覧' : 'Field Notes — by Industry'}
+    </h2>
+    <a href={`${base}/fieldnotes/`} class="text-sm font-medium underline-offset-4 hover:underline">
+      {isJa ? 'FIELDNOTESを開く →' : 'Open FIELDNOTES →'}
+    </a>
+  </div>
+  <p class="mt-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+    {
+      isJa
+        ? `業界統計とバリューチェーンの調査基盤FIELDNOTESのトピック一覧です。全${fnTopicTotal}トピック・${fnSections.length}分類。各トピックの「統計」「VC」チップから、そのまま該当ページを開けます。`
+        : `Every topic in FIELDNOTES, the industry-statistics and value-chain library — ${fnTopicTotal} topics in ${fnSections.length} industries. The Stats / VC chips open the matching page directly. Topic names are in Japanese.`
+    }
+  </p>
+
+  <div class="mt-6 grid gap-5 lg:grid-cols-2">
+    {
+      fnSections.map((sec) => (
+        <div class="rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+          <div class="flex flex-wrap items-baseline justify-between gap-2">
+            <h3 class="font-display text-base font-semibold">
+              <span class="text-neutral-400">{sec.no}</span>{' '}
+              {isJa ? sec.name : (FN_EN[sec.no] ?? sec.name)}
+              {sec.count != null && (
+                <span class="ml-1 text-sm font-normal text-neutral-500 dark:text-neutral-400">
+                  {isJa ? `（${sec.count}件）` : `(${sec.count})`}
+                </span>
+              )}
+            </h3>
+            <a
+              href={`${base}/fieldnotes/`}
+              class="text-xs font-medium underline-offset-4 hover:underline"
+            >
+              {isJa ? '目次で開く →' : 'Open in index →'}
+            </a>
+          </div>
+          <ul class="mt-3">
+            {sec.rows.map((row) =>
+              row.kind === 'sub' ? (
+                <li class="pt-3 pb-1 text-xs font-semibold tracking-wide text-neutral-500 uppercase dark:text-neutral-400">
+                  {row.label}
+                </li>
+              ) : (
+                <li class="flex items-baseline justify-between gap-3 border-b border-neutral-100 py-1.5 last:border-0 dark:border-neutral-900">
+                  <span class="text-[13px] leading-snug font-medium">
+                    {row.name}
+                  </span>
+                  <span class="flex shrink-0 items-center gap-1">
+                    {row.states.map((st, i) => {
+                      const kind = stateKinds[i] ?? '';
+                      if (st.label === '―') {
+                        return (
+                          <span class="text-[11px] text-neutral-300 dark:text-neutral-700">
+                            {kind} ―
+                          </span>
+                        );
+                      }
+                      const shared = st.label !== '掲載';
+                      return (
+                        <a
+                          href={
+                            st.goto
+                              ? `${base}/fieldnotes/#/${st.goto}`
+                              : `${base}/fieldnotes/`
+                          }
+                          class={
+                            shared
+                              ? 'rounded bg-neutral-50 px-1.5 py-0.5 text-[11px] font-medium text-neutral-500 underline-offset-2 hover:underline dark:bg-neutral-900 dark:text-neutral-400'
+                              : 'rounded bg-neutral-100 px-1.5 py-0.5 text-[11px] font-medium text-neutral-800 underline-offset-2 hover:underline dark:bg-neutral-800 dark:text-neutral-100'
+                          }
+                        >
+                          {kind}
+                          {shared ? (isJa ? ' 共用' : ' shared') : ''}
+                        </a>
+                      );
+                    })}
+                  </span>
+                </li>
+              ),
+            )}
+          </ul>
+        </div>
       ))
     }
-  </ul>
+  </div>
 </section>
 
-{
-  featuredReport && (
-    <section class="mt-14 rounded-lg border border-neutral-200 p-6 dark:border-neutral-800">
-      <p class="text-xs font-medium tracking-wide text-neutral-500 uppercase dark:text-neutral-400">
-        {isJa ? '注目レポート' : 'Featured report'}
-      </p>
-      <a
-        href={featuredReport.data.externalUrl}
-        class="mt-3 block font-display text-xl font-semibold leading-snug underline-offset-4 hover:underline"
-      >
-        {featuredReport.data.title}
-      </a>
-      <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">
-        {featuredReport.data.company}（{featuredReport.data.ticker}）・
-        {featuredReport.data.sector}・
-        <time datetime={featuredReport.data.date.toISOString()}>
-          {fmt(featuredReport.data.date)}
-        </time>
-      </p>
-      <p class="mt-4">
-        <a
-          href={`${base}/reports/`}
-          class="text-sm font-medium underline-offset-4 hover:underline"
-        >
-          {isJa ? 'レポート索引を見る →' : 'Browse the report index →'}
-        </a>
-      </p>
-    </section>
-  )
-}
-
+{/* ---------- Archives / channels / newsletter ---------- */}
 <section class="mt-14">
   <h2 class="font-display text-xl font-semibold">
     {isJa ? 'アーカイブ' : 'Archives'}

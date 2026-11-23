@@ -8,11 +8,14 @@ interface Props {
   description: string;
   /** URL of the same page in the other language. */
   altHref: string;
+  /** Wide container (news-portal pages such as the homepage). */
+  wide?: boolean;
 }
 
-const { lang, title, description, altHref } = Astro.props;
+const { lang, title, description, altHref, wide = false } = Astro.props;
 const isJa = lang === 'ja';
 const base = isJa ? '/ja' : '/en';
+const wrap = wide ? 'max-w-6xl' : 'max-w-3xl';
 
 const nav = isJa
   ? [
@@ -62,10 +65,10 @@ const year = new Date().getFullYear();
     class="min-h-screen bg-white text-neutral-900 antialiased dark:bg-neutral-950 dark:text-neutral-100"
   >
     <header
-      class="border-b border-neutral-200 dark:border-neutral-800"
+      class="sticky top-0 z-50 border-b border-neutral-200 bg-white/95 backdrop-blur dark:border-neutral-800 dark:bg-neutral-950/95"
     >
       <div
-        class="mx-auto flex max-w-3xl flex-wrap items-center gap-x-6 gap-y-2 px-6 py-4"
+        class={`mx-auto flex ${wrap} flex-wrap items-center gap-x-6 gap-y-2 px-6 py-4`}
       >
         <a href={`${base}/`} class="font-display text-lg font-semibold tracking-tight">
           {NAME}
@@ -99,13 +102,13 @@ const year = new Date().getFullYear();
       </div>
     </header>
 
-    <main class="mx-auto max-w-3xl px-6 py-12">
+    <main class={`mx-auto ${wrap} px-6 py-12`}>
       <slot />
     </main>
 
     <footer class="border-t border-neutral-200 dark:border-neutral-800">
       <div
-        class="mx-auto flex max-w-3xl flex-col gap-2 px-6 py-8 text-sm text-neutral-500 dark:text-neutral-400"
+        class={`mx-auto flex ${wrap} flex-col gap-2 px-6 py-8 text-sm text-neutral-500 dark:text-neutral-400`}
       >
         <p>{TAGLINE}</p>
         <p>© {year} {NAME}</p>
