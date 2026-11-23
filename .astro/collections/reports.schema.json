@@ -1,0 +1,70 @@
+{
+  "$ref": "#/definitions/reports",
+  "definitions": {
+    "reports": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "company": {
+          "type": "string"
+        },
+        "ticker": {
+          "type": "string"
+        },
+        "sector": {
+          "type": "string"
+        },
+        "date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "initiation",
+            "update"
+          ]
+        },
+        "externalUrl": {
+          "type": "string"
+        },
+        "lang": {
+          "type": "string",
+          "enum": [
+            "ja",
+            "en"
+          ]
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "company",
+        "ticker",
+        "sector",
+        "date",
+        "type",
+        "externalUrl",
+        "lang"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import type { Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+
+const items = (await getCollection('news', ({ data }) => data.lang === lang)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const fmt = (d: Date) =>
+  isJa
+    ? `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`
+    : d.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
+---
+
+<h1 class="font-display text-3xl font-semibold tracking-tight">
+  {isJa ? '業界ニュース' : 'Industry News'}
+</h1>
+
+<p class="mt-6 max-w-prose leading-relaxed">
+  {
+    isJa
+      ? '市場と業界の短報です。数字と出典を明示し、朝・昼・夜の1日3回、XとThreadsに配信しています。ここでは最新の見出しと要約を蓄積し、全文は配信先で読めます。'
+      : 'Short market and industry reports — numbers and sources shown, published three times a day (morning, noon, night) on X and Threads. Headlines and summaries are archived here; the full text lives on the publishing channels.'
+  }
+</p>
+
+<ul class="mt-10 divide-y divide-neutral-200 dark:divide-neutral-800">
+  {
+    items.map((item) => (
+      <li class="py-5">
+        <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-sm text-neutral-500 dark:text-neutral-400">
+          <time datetime={item.data.date.toISOString()}>{fmt(item.data.date)}</time>
+          <span class="rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:bg-neutral-900 dark:text-neutral-400">
+            {item.data.sector}
+          </span>
+        </div>
+        <a
+          href={item.data.externalUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="mt-2 block font-display text-lg font-semibold leading-snug underline-offset-4 hover:underline"
+        >
+          {item.data.title}
+        </a>
+        <p class="mt-2 max-w-prose leading-relaxed text-neutral-600 dark:text-neutral-400">
+          {item.data.summary}
+        </p>
+      </li>
+    ))
+  }
+</ul>
