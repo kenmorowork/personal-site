@@ -4,7 +4,7 @@
 <base href="/fieldnotes-space/" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="color-scheme" content="light" />
+    <meta name="color-scheme" content="light dark" />
     <link rel="icon" href="data:," />
     <title>FIELDNOTES</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -371,8 +371,109 @@ body .rpt-vc main{max-width:none!important;margin-left:0!important;margin-right:
 body .rpt-mtv,body .rpt-hvacv,body .rpt-hvac,body .rpt-pump,body .rpt-comp,body .rpt-valve{max-width:none!important;margin-left:0!important;margin-right:0!important}
 body .rpt-stats .rpt-grid{max-width:none!important;margin-left:0!important;margin-right:0!important}
 body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:none!important;margin-left:0!important;margin-right:0!important}
-</style></head>
-  <body><button type="button" id="fn-homebtn" hidden>← FIELDNOTES 目次</button>
+</style>
+    <script>
+      // Apply the saved (or system) colour scheme before first paint (same as Base.astro).
+      (function () {
+        try {
+          var t = localStorage.getItem('theme');
+          if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <style>
+      /* ===== kenmorozumi.com site restyle (2026-11-23): site colours + typography,
+             site header, search box. Content/layout of the hub is unchanged. ===== */
+      :root {
+        --paper: #ffffff;
+        --paper-deep: #f5f5f5;
+        --ink: #171717;
+        --ink-soft: #525252;
+        --ink-faint: #737373;
+        --rule: #e5e5e5;
+        --rule-strong: #d4d4d4;
+        --accent: #171717;
+      }
+      html.dark {
+        --paper: #0a0a0a;
+        --paper-deep: #171717;
+        --ink: #f5f5f5;
+        --ink-soft: #a3a3a3;
+        --ink-faint: #737373;
+        --rule: #262626;
+        --rule-strong: #404040;
+        --accent: #f5f5f5;
+      }
+      body { font-family: ui-sans-serif, system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif; }
+      h1.title, h2.sec, .tb-sub { font-family: ui-serif, Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", serif; }
+
+      /* ----- Site header (mirrors src/layouts/Base.astro) ----- */
+      .site-header {
+        position: sticky; top: 0; z-index: 50;
+        border-bottom: 1px solid #e5e5e5;
+        background: rgba(255,255,255,.95);
+        backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+        font-family: ui-sans-serif, system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+      }
+      html.dark .site-header { border-bottom-color: #262626; background: rgba(10,10,10,.95); }
+      .site-header-in {
+        max-width: 72rem; margin: 0 auto; padding: 1rem 1.5rem;
+        display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.5rem;
+      }
+      .site-brand {
+        font-family: ui-serif, Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", serif; font-size: 1.125rem; font-weight: 600;
+        letter-spacing: -0.01em; color: #171717; text-decoration: none;
+      }
+      html.dark .site-brand { color: #f5f5f5; }
+      .site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem 1rem; font-size: .875rem; }
+      .site-nav a { color: #525252; text-decoration: none; }
+      .site-nav a:hover { color: #171717; }
+      html.dark .site-nav a { color: #a3a3a3; }
+      html.dark .site-nav a:hover { color: #f5f5f5; }
+      .site-tools { margin-left: auto; display: flex; align-items: center; gap: .75rem; font-size: .875rem; }
+      .site-pill {
+        border: 1px solid #d4d4d4; border-radius: 999px; padding: .25rem .75rem;
+        color: inherit; background: transparent; font: inherit; cursor: pointer; text-decoration: none;
+      }
+      .site-pill:hover { background: #f5f5f5; }
+      html.dark .site-pill { border-color: #404040; }
+      html.dark .site-pill:hover { background: #171717; }
+
+      /* ----- Back-to-index button: site colours ----- */
+      #fn-homebtn { background: #171717; color: #ffffff; border-color: #404040; }
+      html.dark #fn-homebtn { background: #f5f5f5; color: #171717; border-color: #a3a3a3; }
+
+      /* ----- Search box ----- */
+      .fn-search { margin: 22px 0 0; }
+      .fn-search input {
+        width: 100%; padding: 11px 14px; font: inherit; font-size: 15px;
+        color: var(--ink); background: var(--paper);
+        border: 1px solid var(--rule-strong); border-radius: 8px;
+      }
+      .fn-search input:focus { outline: 2px solid var(--ink-faint); outline-offset: 1px; }
+      .fn-search-status { margin: 8px 0 0; font-size: 13px; color: var(--ink-faint); }
+    </style>
+  </head>
+  <body><header class="site-header">
+      <div class="site-header-in">
+        <a class="site-brand" href="/en/">J-Core Research by Ken</a>
+        <nav class="site-nav" aria-label="Main menu">
+          <a href="/en/">Home</a>
+          <a href="/en/news/">News</a>
+          <a href="/en/fieldnotes/">Field Notes</a>
+          <a href="/en/reports/">Reports</a>
+          <a href="/en/portfolio/">Portfolio</a>
+          <a href="/en/about/">About</a>
+        </nav>
+        <div class="site-tools">
+          <a class="site-pill" href="/ja/fieldnotes/" aria-label="日本語に切り替え">日本語</a>
+          <button class="site-pill" id="fn-theme-toggle" type="button" aria-label="Toggle dark mode">Dark</button>
+        </div>
+      </div>
+    </header>
+    <button type="button" id="fn-homebtn" hidden>← FIELDNOTES 目次</button>
     <div class="wrap" id="view-index">
 
       <header class="title-block">
@@ -386,25 +487,16 @@ body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:none!imp
         </div>
       </header>
 
+      <div class="fn-search" role="search">
+        <input id="fn-search-input" type="search" placeholder="Search topics…" aria-label="Search FIELDNOTES topics" autocomplete="off" />
+        <p class="fn-search-status" id="fn-search-status" hidden></p>
+      </div>
+
+
       <p class="intro">業界別の統計・見通し、バリューチェーン上の企業影響、構造アトラスを収録するリサーチ・ライブラリの総索引。各トピックについて、3種のレポートの掲載状況を一覧する。</p>
       <div class="legend">
         <b>凡例</b>　<b>統計</b>＝統計・業界レポート／<b>VC</b>＝バリューチェーン（企業影響）レポート／<b>3D</b>＝構造アトラス。各欄の表示は、<b>掲載</b>＝当該レポートあり、<b>共用・代表見本</b>＝共用ページまたは代表見本を参照、<b>―</b>＝未作成を示す。
       </div>
-
-
-      <section aria-labelledby="sec-common">
-        <h2 class="sec" id="sec-common"><span class="sec-no">§1</span>共通データ</h2>
-        <p class="sec-lede">全トピック横断で使うデータベースとダッシュボード。</p>
-        <table class="common-table">
-          <thead><tr><th scope="col" class="c-name">名称</th><th scope="col">内容</th></tr></thead>
-          <tbody>
-<tr><td class="t-name"><a class="t-link" href="#" data-goto="ed">決算データベース</a></td><td class="t-desc">日本企業の決算を業界・トピック別に整理し、全体像と横断比較ができるデータベース。</td></tr>
-<tr><td class="t-name"><a class="t-link" href="#" data-goto="sd">統計・公開情報データベース</a></td><td class="t-desc">公的統計・公開情報について、いつ・どのように発表されるか、結果と見通しを一覧で確認。</td></tr>
-<tr><td class="t-name"><a class="t-link" href="#" data-goto="nw">業界ニュース ダッシュボード</a></td><td class="t-desc">カバー業界と株式・金融・競争環境のニュースを集約するダッシュボード。</td></tr>
-<tr><td class="t-name"><a class="t-link" href="#" data-goto="bf">バイサイド ファンドまとめ</a></td><td class="t-desc">バイサイド各ファンドのポートフォリオと運用のまとめ。</td></tr>
-</tbody>
-        </table>
-      </section>
 
       <section aria-labelledby="sec-2">
         <h2 class="sec" id="sec-2"><button class="sec-toggle" type="button" aria-expanded="false" aria-controls="secbody-2"><span class="sec-no">§2</span>半導体・半導体材料<span class="sec-count">（22件）</span><span class="tgl" aria-hidden="true"></span></button></h2><div class="sec-body" id="secbody-2" hidden>
@@ -2971,6 +3063,105 @@ btn.addEventListener('click',()=>{const on=all.style.display==='none';all.style.
             if (body) body.hidden = open;
           });
         });
+      })();
+    </script>
+  
+    <script>
+      /* Site header theme toggle (same behaviour as Base.astro) + hub search. */
+      (function () {
+        var toggle = document.getElementById('fn-theme-toggle');
+        if (toggle) {
+          toggle.addEventListener('click', function () {
+            var dark = document.documentElement.classList.toggle('dark');
+            try { localStorage.setItem('theme', dark ? 'dark' : 'light'); } catch (e) {}
+          });
+        }
+
+        var input = document.getElementById('fn-search-input');
+        var index = document.getElementById('view-index');
+        var status = document.getElementById('fn-search-status');
+        if (!input || !index || !status) return;
+
+        var bodies = Array.prototype.slice.call(index.querySelectorAll('.sec-body'));
+        var snapshot = null;
+
+        function takeSnapshot() {
+          snapshot = bodies.map(function (b) {
+            var t = document.querySelector('[aria-controls="' + b.id + '"]');
+            return { body: b, hidden: b.hidden, toggle: t, expanded: t ? t.getAttribute('aria-expanded') : null };
+          });
+        }
+
+        function restore() {
+          Array.prototype.forEach.call(index.querySelectorAll('table'), function (tbl) { tbl.style.display = ''; });
+          Array.prototype.forEach.call(index.querySelectorAll('tbody tr'), function (tr) { tr.style.display = ''; });
+          Array.prototype.forEach.call(index.querySelectorAll('.fn-sitemap-list li'), function (li) { li.style.display = ''; });
+          Array.prototype.forEach.call(index.querySelectorAll('section'), function (sec) { sec.style.display = ''; });
+          if (snapshot) {
+            snapshot.forEach(function (s) {
+              s.body.hidden = s.hidden;
+              if (s.toggle && s.expanded !== null) s.toggle.setAttribute('aria-expanded', s.expanded);
+            });
+          }
+          status.hidden = true;
+          status.textContent = '';
+        }
+
+        function apply(raw) {
+          var q = (raw || '').trim().toLowerCase();
+          if (!q) { restore(); return; }
+          if (!snapshot) takeSnapshot();
+          var matches = 0;
+
+          Array.prototype.forEach.call(index.querySelectorAll('table'), function (tbl) {
+            var rows = Array.prototype.slice.call(tbl.querySelectorAll('tbody tr'));
+            var any = false, lastSub = null, subHas = false;
+            function flushSub() { if (lastSub) lastSub.style.display = subHas ? '' : 'none'; }
+            rows.forEach(function (tr) {
+              if (tr.classList.contains('subrow')) { flushSub(); lastSub = tr; subHas = false; return; }
+              var hit = tr.textContent.toLowerCase().indexOf(q) !== -1;
+              tr.style.display = hit ? '' : 'none';
+              if (hit) { subHas = true; any = true; matches++; }
+            });
+            flushSub();
+            tbl.style.display = any ? '' : 'none';
+            tbl.setAttribute('data-fn-any', any ? '1' : '0');
+          });
+
+          Array.prototype.forEach.call(index.querySelectorAll('section'), function (sec) {
+            if (sec.classList.contains('fn-sitemap')) {
+              var anyItem = false;
+              Array.prototype.forEach.call(sec.querySelectorAll('.fn-sitemap-list li'), function (li) {
+                var hit = li.textContent.toLowerCase().indexOf(q) !== -1;
+                li.style.display = hit ? '' : 'none';
+                if (hit) { anyItem = true; matches++; }
+              });
+              sec.style.display = anyItem ? '' : 'none';
+              return;
+            }
+            if (sec.classList.contains('about')) { sec.style.display = 'none'; return; }
+            var tables = sec.querySelectorAll('table');
+            if (!tables.length) return;
+            var anyTable = false;
+            Array.prototype.forEach.call(tables, function (t) { if (t.getAttribute('data-fn-any') === '1') anyTable = true; });
+            sec.style.display = anyTable ? '' : 'none';
+            if (anyTable) {
+              var body = sec.querySelector('.sec-body');
+              if (body && body.hidden) {
+                body.hidden = false;
+                var tgl = document.querySelector('[aria-controls="' + body.id + '"]');
+                if (tgl) tgl.setAttribute('aria-expanded', 'true');
+              }
+            }
+          });
+
+          status.hidden = false;
+          status.textContent = matches > 0
+            ? matches + ' 件が一致しました'
+            : '一致するトピックが見つかりませんでした';
+        }
+
+        input.addEventListener('input', function () { apply(input.value); });
       })();
     </script>
   </body>
