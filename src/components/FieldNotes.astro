@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import type { Lang } from '../data/site';
 
 interface Props {
@@ -49,6 +50,15 @@ const sectors = isJa
           'Power infrastructure, transmission and distribution, submarine cables and offshore wind — the grid-side constraints behind AI data-centre power demand.',
       },
     ];
+
+const entries = (await getCollection('fieldnotes')).sort(
+  (a, b) => a.data.no - b.data.no,
+);
+const groupOrder = ['industrials', 'materials', 'energy'] as const;
+const groupLabel = isJa
+  ? { industrials: 'インダストリアルズ', materials: 'マテリアルズ', energy: 'エネルギー' }
+  : { industrials: 'Industrials', materials: 'Materials', energy: 'Energy' };
+const slugOf = (id: string) => id.replace(/-ja$/, '');
 ---
 
 <h1 class="font-display text-3xl font-semibold tracking-tight">FIELDNOTES</h1>
@@ -56,8 +66,8 @@ const sectors = isJa
 <p class="mt-6 max-w-prose leading-relaxed">
   {
     isJa
-      ? 'FIELDNOTESは、業界統計・企業開示・取材メモを蓄積する調査基盤です。セクターごとの統計ページとバリューチェーン分析を土台に、日々のニュース配信とJ-Coreのリサーチレポートが生まれます。現在、産業レポート77本を含む242ページを収録しています。'
-      : 'FIELDNOTES is the research library behind everything published here: industry statistics, company disclosures and interview notes, organised by sector with value-chain analysis. It currently holds 242 pages, including 77 sector reports — the base from which the daily news and the J-Core research reports are written.'
+      ? 'FIELDNOTESは、業界統計・企業開示・取材メモを蓄積する調査基盤です。セクターごとの統計ページとバリューチェーン分析を土台に、日々のニュース配信とJ-Coreのリサーチレポートが生まれます。本サイトでは、産業レポート77本の全文を収録しています。統計ページなどを含むライブラリ全体は242ページです。'
+      : 'FIELDNOTES is the research library behind everything published here: industry statistics, company disclosures and interview notes, organised by sector with value-chain analysis. This site carries the full text of all 77 sector reports; the wider library, including the statistics pages, runs to 242 pages.'
   }
 </p>
 
@@ -78,6 +88,44 @@ const sectors = isJa
   </div>
 </section>
 
+<section class="mt-12">
+  <h2 class="font-display text-xl font-semibold">
+    {isJa ? '産業レポート（全77本）' : 'Sector reports (all 77)'}
+  </h2>
+  <p class="mt-3 max-w-prose leading-relaxed text-neutral-600 dark:text-neutral-400">
+    {
+      isJa
+        ? 'セクター全体をイニシエーション・レポートの深さで書いた産業レポートです。全77本をIME（インダストリアルズ／マテリアルズ／エネルギー）順に並べています。数値はいずれも出典と時点付きで、取得できなかった項目は未取得と明記しました。データ・カットオフは2026年11月16日です。'
+        : 'Sector reports written at initiation-report depth, listed in IME order (Industrials / Materials / Energy). Every figure carries its source and date; items that could not be obtained are marked as such. The reports are in Japanese; data cut-off 16 November 2026.'
+    }
+  </p>
+  {
+    groupOrder.map((g) => (
+      <div class="mt-8">
+        <h3 class="font-display text-lg font-semibold">{groupLabel[g]}</h3>
+        <ul class="mt-3 divide-y divide-neutral-100 dark:divide-neutral-900">
+          {entries
+            .filter((e) => e.data.group === g)
+            .map((e) => (
+              <li>
+                <a
+                  href={`/ja/fieldnotes/${slugOf(e.id)}/`}
+                  class="group flex items-baseline gap-3 py-2"
+                >
+                  <span class="w-10 shrink-0 text-sm text-neutral-400">No.{e.data.no}</span>
+                  <span class="font-medium group-hover:underline group-hover:underline-offset-4">
+                    {isJa ? e.data.title : (e.data.titleEn ?? e.data.title)}
+                  </span>
+                  {!isJa && <span class="text-xs text-neutral-400">(Japanese)</span>}
+                </a>
+              </li>
+            ))}
+        </ul>
+      </div>
+    ))
+  }
+</section>
+
 <section class="mt-12 rounded-lg border border-neutral-200 p-6 dark:border-neutral-800">
   <h2 class="font-display text-xl font-semibold">
     {isJa ? '全文へのアクセス' : 'Access to the full library'}
@@ -85,8 +133,8 @@ const sectors = isJa
   <p class="mt-3 max-w-prose leading-relaxed text-neutral-600 dark:text-neutral-400">
     {
       isJa
-        ? 'FIELDNOTESの全文は専用のSpaceで公開しています。このサイトでは公開窓口として、レポートの索引と各セクターの概要を載せています。全文の閲覧や取材のご連絡は、Aboutページの連絡先からお願いします。'
-        : 'The full FIELDNOTES library lives in its own Space. This site carries the public window — the report index and the sector overviews. For full-text access or interview requests, please use the contact routes on the About page.'
+        ? '産業レポート77本の全文は、上の索引からそのまま読めます。統計ページやバリューチェーン分析など、その他のページは専用のSpaceで公開しています。取材のご連絡は、Aboutページの連絡先からお願いします。'
+        : 'The full text of all 77 sector reports is readable from the index above. The remaining pages — statistics and value-chain analyses — live in the FIELDNOTES Space. For interview requests, please use the contact routes on the About page.'
     }
   </p>
   <p class="mt-5 flex flex-wrap gap-3">
