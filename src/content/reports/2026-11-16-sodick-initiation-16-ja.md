@@ -1,0 +1,371 @@
+---
+title: "The EDM specialist whose 2029 plan targets were overtaken in nine months: initiation on Sodick as data-centre optics demand rewrites the P&L"
+company: "Sodick Co., Ltd."
+ticker: "6143"
+sector: "Machine Tools"
+date: 2026-11-16
+type: initiation
+externalUrl: "/ja/reports/2026-11-16-sodick-initiation-16/"
+lang: ja
+---
+
+EDM depth, suddenly scarce capacity: Sodick Co., Ltd. (6143, TSE Prime) is the Yokohama-based pioneer of numerically controlled electrical discharge machines (EDM) — die-sinker and wire-cut machines that erode hardened metal with spark discharges to micron accuracy — and the company that put flat linear-motor drives into EDM from 1998. Machine tools were 72.4% of FY12/25 revenue of ¥80,572mn; the balance is injection-moulding machines (industrial machinery), noodle and packaged-rice food machinery, and an 'Other' bucket of precision moulding and element technology (ceramics, linear motors, LED). The initiation story is a demand shock meeting a restructured cost base: **nine-month FY12/26 revenue rose 27.3% YoY to ¥71,752mn and operating profit 141.6% to ¥7,292mn** on data-centre demand for optical connectors, electronic components and semiconductors, concentrated in Greater China (38.7% of nine-month revenue by customer location), and on 6 November 2026 the company raised full-year FY12/26 guidance to revenue of ¥101,400mn and operating profit of ¥11,000mn — **already above the FY12/29 targets (¥100,000mn / ¥10,000mn) of its Mid-term Plan 'Grow Forward 2029'**, announced only in February 2026. Strengths: (1) genuine technology depth — world-first NC EDM, proprietary linear-motor drives, ceramics and in-house NC/power-supply development, with more than 60,000 linear-motor machines shipped cumulatively (company materials); (2) a recurring tail — maintenance services and consumables were ¥16,593mn, 20.6% of FY12/25 revenue; (3) a solid balance sheet (equity ratio 60.5% at end-September 2026) and a step-change in returns policy — a progressive dividend, a total payout target of 70% or more over FY12/26–29, and a buyback of up to 2.4mn shares / ¥3,000mn running to 23 December 2026. Weaknesses: (1) earnings quality through the cycle is unproven — the five-year record includes an operating loss of ¥2,819mn in FY12/23, ROE has not exceeded 10.0% in the period and was 5.2% in FY12/25, and the FY12/29 plan's own ROE target is only 8% or more; (2) concentration — Greater China was 33.7% of FY12/25 revenue and 38.7% in 9M FY12/26, and the current surge rests substantially on one demand complex (data-centre optical connectors) across both the machine-tool and injection-moulding segments; (3) disclosure gaps — order intake, backlog, unit volumes, capacity and utilisation are not disclosed in the tanshin, so the durability of the surge cannot be verified from orders, and a dilutive convertible bond (partially converted in 2026 using treasury shares; diluted EPS of ¥115.52 vs basic ¥137.34 in 9M FY12/26) complicates per-share arithmetic. All historical figures are as reported by the company (J-GAAP) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY12/25 actuals and FY12/26E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY12/17 (9M) | FY12/18 | FY12/19 | FY12/20 | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 | FY12/26E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 61812 | 65604 | 82716 | 67591 | 58030 | 75174 | 80495 | 67174 | 73668 | 80572 | 101400 |
+| Revenue growth (%) | — | — | — | -18.3 | -14.1 | 29.5 | 7.1 | -16.5 | 9.7 | 9.4 | 25.9 |
+| Operating profit | 5236 | 7490 | 9888 | 3422 | 1852 | 6813 | 5813 | -2819 | 2231 | 4224 | 11000 |
+| Operating margin (%) | 8.5 | 11.4 | 12 | 5.1 | 3.2 | 9.1 | 7.2 | -4.2 | 3 | 5.2 | 10.8 |
+| Ordinary profit | 4620 | 7910 | 9619 | 3558 | 2046 | 8588 | 8275 | -1257 | 3627 | 5231 | 12000 |
+| Net income to parent | 3644 | 5736 | 6462 | 2002 | 1346 | 6591 | 6021 | -4604 | 4115 | 4514 | 9500 |
+| EPS (¥, reported basic) | 76.9 | 122.1 | 137.6 | 42.6 | 28.6 | 125.7 | 112.7 | -90.3 | 81.1 | 89.2 | 179.3 |
+| Dividend per share (¥) | — | — | — | — | — | 26 | 27 | 29 | 29 | 29 | 35 |
+| ROE (%) | — | — | — | — | — | 10 | 7.8 | -5.8 | 5.1 | 5.2 | — |
+| Operating cash flow | 8373 | 4522 | 9275 | 8336 | 5399 | 7642 | 3543 | -14 | 9969 | 7147 | — |
+| R&D expenditure | 2148 | 2016 | 2352 | 2528 | 2216 | 2324 | 2065 | 2158 | 2275 | 2345 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive); ROE, BPS and equity ratio as reported in annual tanshin headers. EPS is reported basic EPS (see Basis of preparation on the sheet's calculated EPS). FY12/26E = company guidance revised at Q3 FY12/26 (tanshin, 6 Nov 2026). Dividend FY12/26E ¥35 includes a ¥6 commemorative dividend. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥65.5bn |
+| 52-week range | ¥889 – ¥2,136 |
+| P/E (FY12/25 EPS ¥89.19) | 13.4x |
+| P/E (FY12/26E co. guidance EPS ¥179.30) | 6.7x |
+| FY12/26E dividend (company forecast) | ¥35 / share (2.5% yield; incl. ¥6 commemorative) |
+| Next event | FY12/26 full-year results, mid-Feb 2027 |
+
+## Key points
+- **Guidance now exceeds the 2029 plan.** FY12/26 company guidance, revised up at Q3 on 6 November 2026, is revenue ¥101,400mn (+25.9% YoY), operating profit ¥11,000mn (+160.4%), ordinary profit ¥12,000mn, net income to parent ¥9,500mn and EPS ¥179.30 — **above Mid-term Plan 'Grow Forward 2029' FY12/29 targets of ¥100,000mn revenue and ¥10,000mn operating profit, three years early**. The path was ¥88,500mn / ¥5,500mn at the February 2026 initial forecast and ¥97,000mn / ¥9,200mn at the Q2 revision (7 August 2026). Source: Q3 FY12/26 tanshin, 6 November 2026; PL/segment sheet register S9.
+- **9M FY12/26: the machine-tool segment did the work.** Nine-month revenue was ¥71,752mn (+27.3% YoY), operating profit ¥7,292mn (+141.6%) and net income to parent ¥6,888mn (+217.4%). **Machine tools contributed ¥55,645mn of revenue (+33.7%) and ¥8,738mn of segment profit** — more than consolidated operating profit, after ¥2,600mn of corporate costs and eliminations — as utilisation rose on Greater China demand for electronic components, semiconductors and NEV applications. Source: Q3 FY12/26 tanshin, 6 November 2026.
+- **Strength — technology and the recurring tail.** Sodick developed the world's first NC die-sinker EDM, introduced flat linear-motor EDM drives in 1998 and has shipped more than 60,000 linear-motor machines; it develops its NC units, power supplies, linear motors and ceramics in-house. Maintenance services and consumables — the aftermarket on that installed base — **were 20.6% of FY12/25 revenue and grew in every year of the five-year record** even when machine sales fell. Source: company corporate materials, accessed November 2026; company results via PL/segment sheet (tanshin, JPX archive).
+- **Weakness — a five-year record that still includes a loss year.** Revenue was essentially flat across FY12/21–25 (¥75,174mn to ¥80,572mn, a 1.7% CAGR) while **operating profit swung from ¥6,813mn to a loss of ¥2,819mn in FY12/23** and back to ¥4,224mn in FY12/25 (5.2% margin); ROE was 5.2% in FY12/25 against the plan's FY12/29 target of 8% or more. The FY12/26 step-change therefore has to be judged against a demonstrated downside, not extrapolated. Source: company results via PL/segment sheet (tanshin, JPX archive); annual tanshin headers FY12/21–25.
+- **Returns step-change — and a disclosure caveat.** From FY12/26 the company pays a progressive (no-cut in principle) dividend — FY12/26 forecast ¥35 per share including a ¥6 50th-anniversary commemorative dividend — **targets a total payout ratio of 40% or more normally and 70% or more cumulatively over the plan period**, and is buying back up to 2.4mn shares (¥3,000mn) to 23 December 2026 (656k shares / ¥962mn executed by end-October 2026). Against that, orders, backlog, units, capacity and utilisation are not disclosed in the tanshin: the single most-watched variables in this cycle are not observable quarterly. Source: FY12/25 tanshin, 13 February 2026; Q3 FY12/26 tanshin, 6 November 2026; PL/segment sheet register S8.
+
+## 1. Key indicators and financial history
+
+Sodick reports under Japanese GAAP with a December year-end (FY12/25 = the year ended 31 December 2025). The ten-year record below is as reported in the company's tanshin (earnings releases) filed in the JPX disclosure archive, compiled in the PL/segment sheet for 6143 (FY3/17–FY12/25 actuals plus 20 quarters; all template checks equal zero). Figures are ¥mn unless stated.
+
+The preceding five annual periods are held in the sheet's supplementary History block, each as originally reported in its own annual tanshin: FY3/17 (the last March year-end), the nine-month transitional FY12/17 created by the move to a December year-end, and FY12/18–FY12/20. Revenue was ¥61,812mn in FY3/17 and ¥65,604mn in the nine-month FY12/17, peaked at ¥82,716mn in FY12/18, then fell to ¥67,591mn in FY12/19 (−18.3% YoY) and ¥58,030mn in FY12/20 (−14.1%), the low of the ten annual columns now shown. **Operating profit peaked with revenue at ¥9,888mn in FY12/18 (12.0% margin)** and fell to ¥3,422mn in FY12/19 and ¥1,852mn in FY12/20 (3.2% margin); net income attributable to owners of the parent fell from ¥6,462mn in FY12/18 to ¥1,346mn in FY12/20. Machine tools supplied most of segment profit in every period (¥6,213mn in FY3/17, ¥9,988mn in FY12/18 and ¥2,896mn in FY12/20), and operating cash flow was positive in all five periods, between ¥4,522mn and ¥9,275mn. Regional and revenue-by-type splits were not disclosed in these years' tanshin, so that history begins in FY12/22.
+
+Revenue was ¥75,174mn in FY12/21, ¥80,495mn in FY12/22 (+7.1% YoY), ¥67,174mn in FY12/23 (−16.5%), ¥73,668mn in FY12/24 (+9.7%) and ¥80,572mn in FY12/25 (+9.4%) — a five-year span in which the top line ended only 7.2% above where it began (1.7% CAGR). Operating profit tells the cyclical story: ¥6,813mn (9.1% margin) in FY12/21, ¥5,813mn (7.2%) in FY12/22, a loss of ¥2,819mn (−4.2%) in FY12/23 as China demand and smartphone-related mould work collapsed, then ¥2,231mn (3.0%) in FY12/24 and ¥4,224mn (5.2%) in FY12/25. The FY12/23 loss was a gross-margin event as much as a volume event: gross margin fell to 28.7% (from 33.3% in FY12/22) while the SG&A ratio rose to 32.9%, before gross margin recovered to 32.7% in FY12/24 and a period-best 35.0% in FY12/25 on China plant consolidation (Suzhou production concentrated into Xiamen/Amoy) and utilisation gains. Net income attributable to owners of the parent was ¥6,591mn, ¥6,021mn, −¥4,604mn, ¥4,115mn and ¥4,514mn across FY12/21–25; reported basic EPS was ¥125.67, ¥112.67, −¥90.29, ¥81.06 and ¥89.19 (FY12/25 diluted EPS ¥83.35, reflecting the convertible bond issued in August 2025; no dilutive securities existed before then). ROE as reported in the tanshin headers was 10.0%, 7.8%, −5.8%, 5.1% and 5.2%.
+
+The balance sheet strengthened through the loss year. Total assets were ¥155,695mn and net assets ¥90,592mn at 31 December 2025 (equity attributable to parent ¥90,502mn; equity ratio 58.1%; book value per share ¥1,786.89). Cash and equivalents were ¥44,983mn against borrowings of ¥24,428mn and bonds of ¥8,174mn (sheet and FY12/25 tanshin balance sheet). Operating cash flow was ¥7,642mn / ¥3,543mn / −¥14mn / ¥9,969mn / ¥7,147mn across FY12/21–25 — the FY12/23 near-zero print, in a loss year with inventory still rising, is the cash-flow signature of the downturn. Inventory ended FY12/25 at ¥33,387mn, about 7.2 months of cost of sales on the sheet's average-inventory calculation, down from a peak of 8.6 months in FY12/23 but still the working-capital item to watch; 'inventory optimisation' is an explicit workstream of the Advantage Partners alliance (Chapter 7). R&D expenditure, disclosed inside the SG&A breakdown, was ¥2,345mn in FY12/25 (2.9% of revenue), within a narrow ¥2,065–2,345mn band across the five years. Depreciation and amortisation was ¥3,435mn in FY12/25, giving an EBITDA proxy (operating profit + D&A) of ¥7,659mn. The full KPI table, including FY12/26 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY12/21–FY12/25; tanshin header indicators for ROE, BPS, equity ratio and cash-flow lines.
+
+**Figure: Sodick Co., Ltd. — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 61812 |
+
+| FY12/17 (9M) | 65604 |
+
+| FY12/18 | 82716 |
+
+| FY12/19 | 67591 |
+
+| FY12/20 | 58030 |
+
+| FY12/21 | 75174 |
+
+| FY12/22 | 80495 |
+
+| FY12/23 | 67174 |
+
+| FY12/24 | 73668 |
+
+| FY12/25 | 80572 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sodick Co., Ltd. — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 5236 |
+
+| FY12/17 (9M) | 7490 |
+
+| FY12/18 | 9888 |
+
+| FY12/19 | 3422 |
+
+| FY12/20 | 1852 |
+
+| FY12/21 | 6813 |
+
+| FY12/22 | 5813 |
+
+| FY12/23 | -2819 |
+
+| FY12/24 | 2231 |
+
+| FY12/25 | 4224 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sodick Co., Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 8.5 |
+
+| FY12/17 (9M) | 11.4 |
+
+| FY12/18 | 12 |
+
+| FY12/19 | 5.1 |
+
+| FY12/20 | 3.2 |
+
+| FY12/21 | 9.1 |
+
+| FY12/22 | 7.2 |
+
+| FY12/23 | -4.2 |
+
+| FY12/24 | 3 |
+
+| FY12/25 | 5.2 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sodick Co., Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q3 FY12/26 results and guidance
+
+Sodick reported Q3 FY12/26 (nine months, January–September 2026) results on 6 November 2026, together with an upward revision to full-year guidance and a supplementary results presentation. This chapter summarises the release; segment and regional detail is in Chapter 5.
+
+## 9M FY12/26 results (cumulative, as reported)
+
+Revenue was ¥71,752mn (+27.3% YoY), **operating profit ¥7,292mn (+141.6%)**, ordinary profit ¥8,258mn (+182.8%) and net income attributable to owners of the parent ¥6,888mn (+217.4%); nine-month basic EPS was ¥137.34 and diluted EPS ¥115.52, the gap reflecting the second-series unsecured convertible bonds with warrants issued on 4 August 2025. The nine-month operating margin was 10.2%, against 5.4% in the prior-year period. Management attributes the demand environment to continued strength in data-centre-related electronic components, optical connectors and semiconductors, against sluggish global automotive demand; new products launched in the period include the linear-motor die-sinker EDMs 'A40G' and 'A60G' for large-area and deep machining, the 'AZ275nS' nano-machining centre, the 'SZ50' electrode/workpiece changer, and the 'LP10EH5-MT' injection-moulding machine for optical connectors. The group exhibited at IMTS 2026 in Chicago, including the Italian subsidiary AltForm's metal 3D printer.
+
+By segment (external sales / segment profit): machine tools ¥55,645mn (+33.7% YoY) / ¥8,738mn (prior-year period ¥4,333mn); industrial machinery ¥8,358mn (+16.3%) / ¥667mn; food machinery ¥4,309mn (+6.7%) / ¥448mn (down ¥72mn YoY on weak aseptic packaged-rice equipment and higher SG&A); Other ¥3,438mn (−1.7%) / ¥37mn; with a −¥2,600mn adjustment (corporate costs of ¥2,624mn) to consolidated operating profit. By customer location, **Greater China was ¥27,790mn (38.7% of revenue)**, Japan ¥16,556mn, the Americas ¥11,422mn, Europe ¥7,415mn and Other Asia ¥8,567mn. By type, product sales were ¥57,138mn and maintenance services and consumables ¥14,613mn (20.4% of revenue). Note a presentational change from Q1 FY12/26: the linear-motor business, previously in 'Other' because of its small external scale, is now included in machine tools as external resources were redirected in-house; prior-period segment figures in the Q3 release are restated to the new basis (see Basis of preparation for the effect on FY12/25 comparatives).
+
+The balance sheet at 30 September 2026: total assets ¥163,423mn (+¥7,727mn vs December 2025), net assets ¥99,055mn, equity ratio 60.5% and book value per share ¥1,867.48. Cash and deposits rose ¥6,418mn to ¥51,482mn; contract liabilities nearly doubled to ¥10,927mn (from ¥5,821mn), consistent with advance payments on a strong order book — although, as noted throughout this report, order intake itself is not disclosed. Long-term borrowings fell ¥4,151mn and bonds ¥2,102mn over the nine months, while treasury shares fell to 1,807,989 (from 4,144,554 at FY12/25 year-end) as treasury stock was delivered on partial conversion of the convertible bond — no new shares were issued. A secondary offering (sell-off) of shares was conducted in October 2026 in response to selling demand from financial institutions unwinding cross-shareholdings, converting bondholders and some founding-family holders; the buyback described in Chapter 7 was decided partly to offset its supply effect. No Q3 cash-flow statement is prepared (company practice); nine-month depreciation was ¥2,667mn and goodwill amortisation ¥270mn. Source: Q3 FY12/26 tanshin, 6 November 2026 (JPX archive, TDnet 140120261106567407 as recorded in the PL/segment sheet register).
+
+## Guidance: revised up twice; Q4 is the delivery quarter
+
+Full-year FY12/26 guidance, as revised on 6 November 2026, is revenue ¥101,400mn (+25.9% YoY), operating profit ¥11,000mn (+160.4%), ordinary profit ¥12,000mn (+129.4%), net income to parent ¥9,500mn (+110.5%) and EPS ¥179.30 — company guidance, not a J-Core Fundamental Research forecast. The revision path within the year is steep: the initial forecast published with FY12/25 results on 13 February 2026 was revenue ¥88,500mn and operating profit ¥5,500mn; at Q2 (7 August 2026) it was raised to ¥97,000mn and ¥9,200mn; **the Q3 revision adds a further ¥4,400mn of revenue and ¥1,800mn of operating profit**. The FY12/26 dividend forecast was left unchanged at ¥35 per share (interim ¥20 already set, including the ¥6 commemorative dividend; year-end ¥15).
+
+Against the revised guidance, nine-month progress was 70.8% on revenue but only 66.3% on operating profit, so the implied Q4 (October–December 2026) is demanding: revenue of ¥29,648mn (+22.4% YoY vs Q4 FY12/25) and operating profit of ¥3,708mn, a 12.5% quarterly margin — well above any quarter in the five-year history on the sheet's standalone-quarter derivation (Q4 is seasonally the largest quarter: 30.1% of FY12/25 revenue). Delivery rests on the same data-centre/optical-connector demand complex that drove the nine months, on Greater China in particular, and on the production ramp the company says it is building at each plant for optical-connector moulding machines. The Q3 release itself flags opaque conditions — unstable FX, rising interest rates, raw-material and energy prices, and geopolitical risk — even as it raises the forecast. Source: Q3 FY12/26 tanshin, 6 November 2026; FY12/25 tanshin, 13 February 2026; Q2 revision as reported in company materials, August 2026.
+
+## 3. Business description
+
+Sodick is a precision-machinery group headquartered at 3-12-1 Nakamachidai, Tsuzuki-ku, Yokohama, with capital of ¥24,618mn and 21 affiliated companies (company outline, FY12/25). Its founding business — NC electrical discharge machines — remains the core, but the group also makes high-speed machining centres and metal 3D printers (machine tools), injection-moulding machines (industrial machinery), noodle-making and packaged-rice plants (food machinery), and components and materials — linear motors, ceramics, NC units, EDM wire — that are both sold externally (in 'Other') and consumed in-house, giving the group an unusually high in-house production ratio for its key technologies.
+
+## Machine tools: die-sinker and wire-cut EDM, machining centres, metal 3D printers
+
+Electrical discharge machining removes metal by repeated spark discharges between an electrode and the workpiece in a dielectric fluid. Because it cuts regardless of material hardness and without cutting force, EDM is the standard process for moulds and dies (die-sinker EDM, which reproduces an electrode's shape in the workpiece) and for precision profiles in hardened steel, carbide and exotic alloys (wire-cut EDM, which cuts with a travelling wire electrode); small-hole drilling EDM serves applications such as turbine-blade cooling holes. Sodick's range covers die-sinker EDM, wire-cut EDM (including oil-dielectric models for fine finishes), small-hole EDM, high-speed machining centres for direct milling of moulds, nano-level precision machines, and — since the consolidation of Italy's Prima Additive (renamed AltForm S.r.l.) in December 2025 — metal 3D printers, which sit alongside EDM in mould and additive workflows. End-markets are mould and die shops and precision-parts makers across electronics and semiconductors, automotive, aerospace, medical and energy. In FY12/25 the segment (on the tanshin basis used in the sheet) recorded sales of ¥58,332mn and segment profit of ¥5,465mn, a 9.4% margin — the group's profit engine in recovery years and its loss driver in FY12/23, when segment profit fell to ¥798mn. Source: company results via PL/segment sheet (tanshin, JPX archive); company product materials, accessed November 2026.
+
+## Core technology: linear-motor drives, ceramics, in-house NC and power supplies
+
+Sodick's differentiation is a stack of self-developed technologies rather than any single machine. It delivered the world's first NC (microcomputer-controlled) die-sinker EDM shortly after its 1976 founding, developed non-wear electrode circuits, and in 1998 launched the first EDM driven by flat linear motors — replacing ball screws, whose backlash, wear and thermal growth limit long-term positioning accuracy, with a direct drive that the company argues holds accuracy over the machine's life. **Cumulative shipments of linear-motor machines exceed 60,000 units** (company materials, 2026). Around the drive sit thermally stable ceramic components in the work zone, in-house NC units and motion controllers, and proprietary discharge power supplies — the elements that determine machining speed, surface finish and electrode wear. The same linear-motor and control technology is reused in the group's machining centres, metal 3D printers and injection-moulding machines, and was sold externally as a components business until its reclassification into machine tools in FY12/26. R&D expenditure was ¥2,345mn in FY12/25 (2.9% of revenue), disclosed within the SG&A breakdown; the FY12/26 launches (A40G/A60G die-sinkers, AZ275nS nano-machining centre, SZ50 automation changer) show the spend concentrated on large/difficult machining, nano-precision and automation. Source: company history and technology materials (Sodick Co., Ltd. / Sodick Inc.), accessed November 2026; company results via PL/segment sheet.
+
+## Industrial machinery (V-LINE injection moulding) and food machinery
+
+Industrial machinery is injection-moulding machines built around Sodick's proprietary V-LINE system, which separates plasticisation and injection to stabilise shot volume and pressure — a design aimed at precision parts such as optical connectors, electronic components and contact lenses, where the current data-centre cycle is pulling demand: segment sales were ¥9,730mn in FY12/25 with profit of ¥518mn (5.3% margin), and in 9M FY12/26 sales rose 16.3% YoY to ¥8,358mn as optical-connector demand offset postponed automotive capex; the company is adding capacity for connector machines and launched the LP10EH5-MT for higher-precision connector moulding. Food machinery — complete noodle-production plants (sheet presses, vacuum mixers, boiling/cooling and ageing lines) and aseptic packaged-rice systems — is the group's most stable earner: sales of ¥6,952mn in FY12/25 at a 14.1% segment margin, the highest of the three reportable segments, on replacement demand in Japan and food-quality/infrastructure demand across Greater China, Korea and Southeast Asia; its FY12/25 sales decline (−9.7%) came from packaged-rice equipment in Greater China, where competition changed. 'Other' (¥5,557mn sales, ¥428mn profit in FY12/25) combines precision moulding and forming on a contract basis (precision connectors) with element technology — ceramics (buoyant on semiconductor-equipment demand), linear motors (to FY12/25), LED floodlights and neodymium magnets. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 and Q3 FY12/26 tanshin qualitative sections.
+
+## Production system: Japan plants plus Thailand and China
+
+Domestic production and development sit at the Yokohama head office / R&D centre and the Kaga factory (Kaga, Ishikawa), Fukui office/plant (Sakai, Fukui) and Miyazaki factory (company outline, FY12/25). Overseas, the group produces in Thailand and in China, where the restructuring of the past three years concentrated Suzhou production into the Amoy (Xiamen) plant and repositioned Suzhou as a technical centre and service base — the consolidation management credits for part of the machine-tool margin recovery. Sales and service subsidiaries cover the US, Europe and Asia, including the new Sodick Technologia Mexico (consolidated in FY12/25) and AltForm in Italy. Consolidated headcount was 3,272 at end-FY12/25 (parent 1,173), down from 3,746 at end-FY12/22 — the restructuring was, in part, a headcount story (Annual Securities Report FY12/25; headcount is not disclosed in the tanshin). Unit production volumes, plant capacity and utilisation are not disclosed and are therefore not quantified in this report; management commentary in the FY12/26 releases cites rising factory utilisation as a profit driver in both machine tools and industrial machinery, without figures. Source: company outline and Annual Securities Report FY12/25 (filed 27 March 2026); FY12/25 tanshin qualitative section.
+
+## 4. Market and value chain
+
+EDM is a niche inside the machine-tool market: third-party estimates of the global EDM equipment market for 2025 range from about US$3.4bn (Global Market Insights, equipment and bundled services, excluding standalone consumables) to about US$6.5–7.2bn (Dataintelo, broader industrial scope) — the spread itself shows how scope-dependent sizing is, and this report uses the range rather than a point estimate (both retrieved November 2026). Both sources put growth at roughly 5–6% CAGR over the coming decade and Asia-Pacific as the largest region (about half of demand), with wire EDM the largest product category (about 42–43% of the market), die-sinkers about a third, and hole-drilling the balance. Demand is derived from mould-and-die and precision-parts capex in electronics/semiconductors, automotive, aerospace and medical — and, in the current cycle, from AI/data-centre investment: optical connectors (MT ferrules), electronic components and semiconductor tooling are the applications Sodick's FY12/26 releases cite, a mix that favours high-precision wire and die-sinker machines and precision injection moulding rather than general-purpose cutting machines.
+
+The value chain runs from components (linear motors and drives, NC controls, discharge power supplies, ceramics, EDM wire and other consumables) through machine builders to dealers, technical centres and end-users, with a long aftermarket tail of maintenance, parts and consumables — **20.6% of Sodick's FY12/25 revenue** — that monetises the installed base of more than 60,000 linear-motor machines. Sodick is vertically integrated across the high-value elements of that chain (motors, controls, power supplies, ceramics, wire), which supports both its precision claims and its aftermarket attach, at the cost of carrying the full development burden. Competition is a concentrated global oligopoly of specialists: Mitsubishi Electric (the largest EDM supplier on third-party estimates, at roughly 15–19% share), Makino Milling Machine (6135; premium die-sinker and wire EDM alongside machining centres), GF Machining Solutions (Switzerland; the AgieCharmilles heritage), FANUC (6954; Robocut wire EDM, leveraging its CNC installed base), and Taiwanese makers such as CHMER and Excetek at the value end; the top five suppliers hold roughly half the market on GMI's estimate. Sodick is consistently placed in the leading group — company materials describe it as holding top-class global share in EDM, and FISCO's March 2026 company report calls it world top-class in EDM share — but no audited share series exists, and Sodick does not disclose order intake against which share could be tracked. Entry barriers are the accumulated discharge-control know-how, precision mechanics, application engineering and the service network an installed base requires; substitutes are high-speed hard milling (which has taken some mould work from die-sinkers), laser machining and, at the margin, additive manufacturing — which Sodick has chosen to own via AltForm rather than cede. Sources: Global Market Insights, 'Electrical Discharge Machine Market', 2026; Dataintelo industrial EDM report, 2026 (both via web search, November 2026); company results via PL/segment sheet; FISCO company report via news release, March 2026.
+
+**Figure: Sodick in the cutting-machine-tool value chain**
+
+**Materials & Machine Structures**
+
+- Castings: beds, columns, tables
+- Structural steel, mineral casting
+- In-house: DMG Mori, Okuma
+- In-house: Makino, Yamazaki Mazak
+
+**Precision Components**
+
+- Ball screws, linear guides: THK
+- Spindles, bearings: NSK, JTEKT
+- Measurement: Renishaw, HEIDENHAIN
+- ATC, pallet mechanisms
+
+**Control & Drive Systems**
+
+- CNC: Fanuc, Mitsubishi Electric, Siemens
+- Okuma OSP in-house CNC
+- Servo motors & amplifiers
+- PLC, safety control, sensors
+
+**Sodick Co., Ltd. (6143)**
+
+- Machine tools — die-sinker & wire-cut EDM, machining centres, metal 3D printers (72.4% of FY12/25 sales)
+- Industrial machinery — V-LINE injection moulding
+- Food machinery — noodle & packaged-rice plants
+- Other — ceramics, linear motors, precision moulding
+
+**Peripherals, Distribution & Integration**
+
+- Cutting tools: OSG, Sandvik
+- Holders, workholding, coolant
+- Trading houses: Yamazen, Yuasa
+- Automation cells, CAD/CAM, service
+
+**End Customers**
+
+- Automotive: Toyota, BYD, Tesla
+- Semiconductor equipment makers
+- Aerospace: GE Aerospace, Rolls-Royce
+- Dies & moulds, medical, AI data centres
+
+*Source: FIELDNOTES sector report §4 (cutting machine tools value chain); company segments from §5 of this report.*
+
+## 5. Segments, regions and revenue type
+
+Sodick discloses three reportable segments — machine tools, industrial machinery and food machinery — plus 'Other' (non-reportable), with segment profit defined as operating profit. It does not disclose geographic segments; the geographic cut in this chapter is the revenue-disaggregation note (sales by customer location), for which no profit split exists. Both cuts are published in every tanshin from FY12/22; the FY12/21 tanshin has no disaggregation note, so FY12/21 regional and type cells are blank in the sheet and in Exhibit 3.
+
+**Figure: Sodick Co., Ltd. — segment revenue, FY12/25**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Machine tools — sales | 58332 |
+
+| Industrial machinery — sales | 9730 |
+
+| Food machinery — sales | 6952 |
+
+| Other — sales | 5557 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Sodick Co., Ltd. — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Sodick Co., Ltd. — segment revenue mix, FY12/25**
+
+**Machine tools**
+
+- ¥58,332mn
+- 72.4% of revenue
+
+**Industrial machinery**
+
+- ¥9,730mn
+- 12.1% of revenue
+
+**Food machinery**
+
+- ¥6,952mn
+- 8.6% of revenue
+
+**Other**
+
+- ¥5,557mn
+- 6.9% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## Business segments: machine tools carry the cycle; food carries the margin
+
+Exhibit 2 gives the five-year history. Machine tools were ¥58,332mn of FY12/25 sales (72.4% of the group) and ¥5,465mn of segment profit (9.4% margin). The segment's arc explains the group's: profit of ¥7,176mn in FY12/21 and ¥7,046mn in FY12/22 **collapsed to ¥798mn in FY12/23 (1.7% margin)** as Greater China mould demand fell, then rebuilt to ¥3,447mn in FY12/24 and ¥5,465mn in FY12/25 on China plant consolidation and utilisation. Industrial machinery is the smallest reportable segment and the least profitable: ¥9,730mn sales and ¥518mn profit (5.3%) in FY12/25, with a loss of ¥478mn in FY12/23; its mix shift to high-value models is a stated restructuring theme, and its FY12/26 demand (optical connectors) is currently the strongest in its history on company commentary. Food machinery is the stabiliser: sales held a ¥6,813–7,695mn band across all five years — including the FY12/23 group downturn, when it earned ¥876mn at a 12.7% margin — and **its FY12/25 margin of 14.1% was the group's highest**. 'Other' swung from ¥811mn profit (FY12/21) to a ¥954mn loss (FY12/23) and back to ¥428mn (FY12/25). Corporate costs and eliminations — the adjustment between segment profit and consolidated operating profit — were −¥3,168mn in FY12/25 and have run at ¥2.5–3.2bn a year throughout, a fixed drag equal to 75% of FY12/25 operating profit that any segment-level analysis must carry. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note (register S3).
+
+**Exhibit 2. Business segments — external sales and segment profit (operating profit)**
+
+| ¥mn | FY3/17 | FY12/17 (9M) | FY12/18 | FY12/19 | FY12/20 | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Machine tools — sales | 43355 | 47559 | 58607 | 45797 | 38024 | 51485 | 56492 | 46706 | 51355 | 58332 |
+| Machine tools — segment profit | 6213 | 7478 | 9988 | 4621 | 2896 | 7176 | 7046 | 798 | 3447 | 5465 |
+| Industrial machinery — sales | 9366 | 9981 | 11155 | 9773 | 10931 | 10367 | 10656 | 8630 | 9560 | 9730 |
+| Industrial machinery — segment profit | 617 | 976 | 802 | 165 | 596 | 503 | 820 | -478 | 823 | 518 |
+| Food machinery — sales | 3429 | 3467 | 6560 | 6283 | 3585 | 6884 | 6813 | 6902 | 7695 | 6952 |
+| Food machinery — segment profit | 159 | 178 | 674 | 625 | 65 | 830 | 447 | 876 | 969 | 981 |
+| Other — sales | 5661 | 4596 | 6392 | 5737 | 5488 | 6437 | 6533 | 4934 | 5057 | 5557 |
+| Other — segment profit | 859 | 847 | 1030 | 311 | 319 | 811 | 313 | -954 | -323 | 428 |
+| Adjustment — profit (corporate costs etc.) | -2612 | -1989 | -2606 | -2300 | -2024 | -2507 | -2813 | -3061 | -2685 | -3168 |
+| Consolidated operating profit | 5236 | 7490 | 9888 | 3422 | 1852 | 6813 | 5813 | -2819 | 2231 | 4224 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive), segment note (register S3). As-reported tanshin basis: the linear-motor business sits in 'Other' to FY12/25 and moved into machine tools from Q1 FY12/26 (see Basis of preparation). Segment sales reconcile to consolidated revenue after a ¥1–2mn adjustment. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
+
+## Regions (customer location) and revenue by type
+
+By customer location (Exhibit 3), FY12/25 revenue was: Greater China ¥27,156mn (33.7% of the total), Japan ¥23,157mn (28.7%), the Americas ¥12,994mn (16.1%), Other Asia ¥9,943mn (12.3%) and Europe ¥7,319mn (9.1%); the overseas ratio was 71.3%. Greater China is both the largest market and the swing factor: it fell from ¥29,104mn in FY12/22 to ¥20,484mn in FY12/23 (−29.6%) — the single largest contributor to the group's loss year — and **recovered to ¥27,156mn by FY12/25 (+26.1% YoY), before reaching ¥27,790mn in 9M FY12/26 alone (38.7% of nine-month revenue)**. Japan, by contrast, has been flat (¥24,629mn in FY12/22 to ¥23,157mn in FY12/25). No regional profit is disclosed, so the margin content of the China exposure cannot be observed directly; the machine-tool segment commentary attributes FY12/25–26 profit improvement partly to the consolidated China production base, which cuts both ways — the group's largest demand pool and a key production pool are in the same geography.
+
+By type, product sales were ¥63,979mn in FY12/25 (79.4%) and maintenance services and consumables ¥16,593mn (20.6%, derived as the disaggregation-note total less product sales; the note itself is in the sheet at register S5). ==The recurring line grew every year== — ¥14,404mn (FY12/22), ¥14,755mn (FY12/23), ¥15,696mn (FY12/24), ¥16,593mn (FY12/25) — including through the FY12/23 machine downturn, when its share of revenue reached 22.0%. That stability is the clearest structural offset to EDM cyclicality in the disclosure, and its growth rate (+5.7% in FY12/25; +19.7% YoY in 9M FY12/26 on the Q3 note) is one of the 2–3 numbers to monitor each quarter. Source: company results via PL/segment sheet (tanshin, JPX archive), revenue disaggregation note (registers S4–S5); Q3 FY12/26 tanshin revenue note.
+
+**Exhibit 3. Revenue by customer location and by type (revenue disaggregation note)**
+
+| ¥mn | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 |
+|---|---|---|---|---|---|
+| Japan | — | 24629 | 22072 | 23383 | 23157 |
+| Americas | — | 10434 | 9538 | 11771 | 12994 |
+| Europe | — | 7247 | 6642 | 6498 | 7319 |
+| Greater China | — | 29104 | 20484 | 21529 | 27156 |
+| Other Asia | — | 9080 | 8437 | 10486 | 9943 |
+| Consolidated revenue | 75174 | 80495 | 67174 | 73668 | 80572 |
+| Product sales | — | 66091 | 52419 | 57972 | 63979 |
+| Maintenance services & consumables | — | 14404 | 14755 | 15696 | 16593 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive), revenue disaggregation note (registers S4–S5). The FY12/21 tanshin has no disaggregation note, so FY12/21 is not disclosed. Maintenance services & consumables derived as note total less product sales. No regional profit is disclosed.*
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: revenue ¥75,174mn / ¥80,495mn / ¥67,174mn / ¥73,668mn / ¥80,572mn for FY12/21–FY12/25; cost of sales ¥49,461mn / ¥53,670mn / ¥47,892mn / ¥49,599mn / ¥52,364mn; gross profit ¥25,713mn / ¥26,825mn / ¥19,282mn / ¥24,069mn / ¥28,208mn (margins 34.2% / 33.3% / 28.7% / 32.7% / 35.0%); SG&A ¥18,900mn / ¥21,012mn / ¥22,101mn / ¥21,838mn / ¥23,984mn (ratios 25.1% / 26.1% / 32.9% / 29.6% / 29.8%; R&D inside SG&A was ¥2,324mn / ¥2,065mn / ¥2,158mn / ¥2,275mn / ¥2,345mn); operating profit ¥6,813mn / ¥5,813mn / −¥2,819mn / ¥2,231mn / ¥4,224mn. Non-operating income exceeded expenses in every year (FY12/25: income ¥1,822mn including equity-method profit, expenses ¥815mn), giving ordinary profit of ¥8,588mn / ¥8,275mn / −¥1,257mn / ¥3,627mn / ¥5,231mn. Extraordinary items were material in FY12/24 (income ¥2,711mn, losses ¥1,314mn) and FY12/25 (income ¥1,340mn, losses ¥782mn) — restructuring-era asset sales and related items that flatter the net line relative to operating profit in both recovery years. Profit before tax was ¥5,789mn in FY12/25; total income taxes ¥1,282mn (effective rate 22.1%; the FY12/23 effective rate is not meaningful, taxes of ¥2,180mn being charged against a pre-tax loss); net income ¥4,507mn, of which ¥4,514mn to owners of the parent and −¥7mn to non-controlling interests.
+
+Balance sheet (31 December 2025): total assets ¥155,695mn; net assets ¥90,592mn; equity ratio 58.1%; inventory ¥33,387mn; cash and equivalents ¥44,983mn (cash and deposits ¥45,064mn, plus ¥4,000mn of securities on the Q3 comparative balance sheet); borrowings ¥24,428mn and bonds ¥8,174mn. At 30 September 2026 total assets were ¥163,423mn, net assets ¥99,055mn and the equity ratio 60.5%, with contract liabilities of ¥10,927mn the fastest-growing line. Cash flow: operating cash flow ¥7,642mn / ¥3,543mn / −¥14mn / ¥9,969mn / ¥7,147mn (FY12/21–25); FY12/25 investing outflow ¥3,955mn included ¥3,002mn for the AltForm consolidation and ¥4,000mn of securities purchases, and financing outflow ¥2,484mn reflected ¥8,680mn of long-term loan repayments partly funded by ¥8,016mn of bond issuance (the August 2025 convertible bond programme); cash and equivalents were ¥44,229mn / ¥33,158mn / ¥33,305mn / ¥42,569mn / ¥44,983mn at each year-end. Per-share data (as reported): basic EPS ¥125.67 / ¥112.67 / −¥90.29 / ¥81.06 / ¥89.19; book value per share ¥1,376.33 / ¥1,548.28 / ¥1,519.02 / ¥1,668.55 / ¥1,786.89. Dividends per share were ¥26 / ¥27 / ¥29 / ¥29 / ¥29 (payout ratios 20.6% / 23.9% / not meaningful in the loss year / 35.7% / 32.5%), and the FY12/26 forecast is ¥35 under the new returns policy (Chapter 7). Not disclosed in the tanshin and therefore not presented here: order intake and backlog, unit volumes, capacity and utilisation, and headcount (the last appears in the Annual Securities Report: 3,272 consolidated at end-FY12/25). Source: company results via PL/segment sheet (tanshin, JPX archive); annual tanshin headers and FY12/25 tanshin cash-flow analysis.
+
+## 7. Strategy and mid-term plan — 'Grow Forward 2029'
+
+Mid-term Plan 'Grow Forward 2029' (announced 13 February 2026; detailed action plans presented June 2026) covers FY12/26–FY12/29, following the 2023–25 restructuring phase ('reduce dependence on China', selection and concentration, global production/sales restructuring, balance-sheet improvement — company wording in the FY12/25 tanshin). A governance and capital-markets change runs alongside it: on 18 July 2025 Sodick entered a business alliance with Advantage Advisors (now Advantage Partners), funded in part by the second-series convertible bonds issued 4 August 2025, with joint projects on sales capability, solutions, inventory optimisation and M&A; Kenichi Furukawa moved to Chairman and Yuji Akutsu became Representative Director, CEO and President (FY12/25 tanshin; company outline).
+
+Plan targets for FY12/29 (company plan materials): **revenue ¥100,000mn, operating profit ¥10,000mn (a 10.0% margin; operating profit is designated the most important indicator), ROE of 8% or more**, EPS of ¥130 or more and PBR of 1.0x or more. The segment build published with the detailed plan is: machine tools revenue ¥71,000mn and operating profit ¥10,200mn (14% margin); industrial machinery ¥13,000mn / ¥1,300mn (10%); food machinery ¥10,000mn / ¥1,300mn (13%); Other ¥6,000mn / ¥500mn (8%) — segment operating profit summing to ¥13,300mn against the ¥10,000mn consolidated target, the difference being corporate costs. The plan's three pillars are business strategy (solving growth-market problems with ultra-precision and micro-machining; strengthening labour-saving/automation solutions), management-base strengthening (productivity and profitability improvement; global structure rebuild) and financial strategy (management conscious of cost of capital and share price; disciplined growth investment). Two qualifications belong on the record. First, the FY12/25 comparatives in the plan materials are presented on the post-FY12/26 segment basis (machine tools including the linear-motor business: revenue ¥59,100mn, operating profit ¥5,600mn as reported in plan coverage) and therefore differ from the tanshin-basis figures in the PL/segment sheet (¥58,332mn / ¥5,465mn) used elsewhere in this report. Second, the plan has already been overtaken at the consolidated level: revised FY12/26 guidance (revenue ¥101,400mn, operating profit ¥11,000mn, EPS ¥179.30) exceeds all three FY12/29 headline targets three years early, and management stated at Q2 that early achievement was in sight — the open question for the plan is no longer attainment but whether the FY12/26 level, driven by one demand complex, can be held and converted into the targeted ROE and PBR through the cycle.
+
+Shareholder returns (company policy, February 2026): a progressive dividend (no reduction in principle), with the FY12/26 level of ¥35 — including the ¥6 commemorative dividend — to be maintained as the base level from FY12/27; a total payout ratio (dividends plus buybacks, over net income to parent) of 40% or more as the normal guide and 70% or more cumulatively over the four plan years, explicitly to optimise the capital structure (the equity ratio was 58.1% at end-FY12/25). The first execution is the buyback resolved on 5 October 2026: up to 2,400,000 shares (4.80% of shares ex-treasury) or ¥3,000mn, by market purchase from 22 October to 23 December 2026, of which 656k shares for ¥962mn had been acquired by end-October 2026. All figures in this chapter are company plan targets and policies, not J-Core Fundamental Research estimates. Source: Mid-term Plan 'Grow Forward 2029' announcement, 13 February 2026, and detailed plan presentation, June 2026 (company materials via Logmi Finance transcripts and MONOist, June 2026); FY12/25 tanshin, 13 February 2026; Q3 FY12/26 tanshin (subsequent-events note), 6 November 2026.
+
+## 8. Other information
+
+History. Sodick was established on 3 August 1976 in Yokohama (the company also cites a February 1971 founding origin) by engineers from Japax — the maker of Japan's first EDM (1954) — led by founder Toshihiko Furukawa, and delivered the world's first NC die-sinker EDM within its first year. Milestones: Fukui plant completed 1980 as the main production base; first EDM maker to list on the TSE Second Section, February 1986; equity participation in, and partial acquisition of the EDM sales business of, its former parent Japax (1991–92); the world's first linear-motor EDM, 1998; cumulative linear-motor machine shipments passing 10,000 units by 2005 and 60,000 by 2026 (company materials); move to the TSE Prime Market; 50th anniversary in 2026 (marked by the ¥6 commemorative dividend); consolidation of Italian metal-3D-printer maker Prima Additive (now AltForm) in December 2025. The name derives from 'So' (creation), 'di' (execution) and 'ck' (overcoming difficulties) (company materials). Source: Sodick corporate history pages and company profile, accessed November 2026; FY12/25 tanshin.
+
+Management. Representative Director, CEO and President Executive Officer: Yuji Akutsu （圷 祐次） — verified on the cover of the Q3 FY12/26 tanshin (6 November 2026) and the FY12/25 Annual Securities Report. Chairman and Representative Director: Kenichi Furukawa. The tanshin contact is Masato Takagi, Director and Managing Executive Officer. Head office: 3-12-1 Nakamachidai, Tsuzuki-ku, Yokohama. Capital: ¥24,618mn. Shares issued: 54,792,239, of which 1,807,989 were held in treasury at 30 September 2026 (4,144,554 at end-FY12/25, before delivery of treasury shares on convertible-bond conversion and the FY12/26 buybacks and disposals).
+
+Major shareholders (31 December 2025, company shareholder information in the FY12/25 business report): The Master Trust Bank of Japan (trust account) 6,901,000 shares (12.59% of issued shares); Sodick treasury shares 4,144,554 (7.56%); Japan Custody Bank (trust account) 3,938,700 (7.19%); JP Morgan Securities 1,343,792 (2.45%); Kiyoshi Morita 1,190,070 (2.17%); Sodick Kyoei shareholding association 1,046,500 (1.91%); employee shareholding association 959,876 (1.75%). Shareholders numbered 14,711. The register is custody- and association-heavy; note also the October 2026 secondary offering, in which financial institutions unwinding policy holdings, converting bondholders and some founding-family holders sold, and the business-alliance relationship with AAGS S14, L.P. / Advantage Partners as convertible-bond holder — the company states the alliance is unchanged by the offering.
+
+Employees. Consolidated headcount (Annual Securities Report) fell from 3,683 (end-FY12/21) to 3,746, 3,562, 3,417 and 3,272 (end-FY12/25); parent-company headcount was 1,173 at end-FY12/25. Headcount is not disclosed in the tanshin (PL/segment sheet register S8).
+
+Shareholder returns. FY12/25 dividend ¥29 per share (payout ratio 32.5% as reported); FY12/26 forecast ¥35 (interim ¥20 including the ¥6 50th-anniversary commemorative dividend; year-end ¥15), to be held as the base level from FY12/27 under the progressive-dividend policy, with buybacks on top (Chapter 7).
+
+Market data. The shares closed at ¥1,410 on 13 November 2026 (TipRanks historical prices; Finnhub previous close), giving a market capitalisation of about ¥74.7bn on the 52,984,250 shares outstanding ex-treasury at 30 September 2026 (calculated; StockAnalysis.com shows ¥70.89bn at the 16 November close of ¥1,338, −5.1% on the day — after this report's pricing date). The 52-week range was ¥889 to ¥2,136 (high on 18 June 2026) (Finnhub). At ¥1,410 the shares trade at 15.8x FY12/25 basic EPS of ¥89.19 (16.9x diluted EPS of ¥83.35), 7.9x FY12/26 company-guidance EPS of ¥179.30, and 0.79x FY12/25 book value per share of ¥1,786.89 (0.76x the September 2026 BPS of ¥1,867.48) — against a plan target of PBR 1.0x or more by FY12/29. The FY12/26 dividend forecast of ¥35 is a 2.5% yield at ¥1,410. The next scheduled disclosure is the FY12/26 full-year tanshin, expected in mid-February 2027 (FY12/25 results were published on 13 February 2026; third-party calendar estimate).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and regional/type revenue are taken from the PL/segment sheet for Sodick (6143) (J-GAAP template; December year-end; FY12/21–FY12/25 annual and 20 quarters; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (sheet register S1–S10, 2026-11-16). Q3 FY12/26 figures are from the Q3 FY12/26 tanshin dated 6 November 2026. Mid-term plan figures are from the company's 'Grow Forward 2029' announcement (13 February 2026) and detailed plan presentation (June 2026), as transcribed by Logmi Finance and reported by MONOist. Market data are from Finnhub, StockAnalysis.com and TipRanks as returned by web search on 16 November 2026 and are cited with dates in the text. EDM market sizing is third-party (Global Market Insights; Dataintelo) and is presented as a range because the two scopes differ materially.
+
+Conventions and discrepancies. Fiscal years are labelled by the December year-end (FY12/25 = year ended 31 December 2025). 'Company guidance' means Sodick's published forecasts; this report contains no J-Core Fundamental Research forecasts. Three discrepancies are flagged. (1) EPS: the sheet's calculated EPS (net income to parent over weighted shares) differs by ¥0.02–0.24 from the EPS reported in the tanshin headers (e.g. FY12/25: ¥89.17 calculated vs ¥89.19 reported); this report uses the reported EPS throughout, as the primary source. (2) Segments: from Q1 FY12/26 the linear-motor business moved from 'Other' into machine tools; the mid-term plan materials present FY12/25 segment comparatives on the new basis (machine tools revenue ¥59,100mn / operating profit ¥5,600mn), whereas the sheet and Exhibits 1–2 use the as-reported tanshin basis (¥58,332mn / ¥5,465mn). Consolidated totals are unaffected. (3) Revenue by type: the sheet's supplementary rows capture product sales directly; maintenance services and consumables are derived as the disaggregation-note total less product sales, and the FY12/21 tanshin contains no disaggregation note, so FY12/21 regional and type figures are shown as not disclosed. The FY12/23 equity figure in the FY12/24 tanshin comparative (¥77,075mn) differs by ¥33mn from the FY12/23 tanshin (¥77,108mn); the as-first-reported figure is used. Items the company does not disclose in the tanshin — order intake, order backlog, production/sales units, capacity, utilisation and company-reported inventory months — are described as not disclosed rather than estimated; headcount is taken from the Annual Securities Report, where it is disclosed.
+
+KPI history length. The KPI history in this report now covers ten annual columns from the PL/segment sheet, including its supplementary History block: FY3/17, the nine-month transitional FY12/17 (year-end change from March to December, shown as reported and never annualised), FY12/18–FY12/20 and FY12/21–FY12/25 — ten columns against the 10–11-year standard of the Shared Research exemplars, with the transitional nine-month period labelled as such; regional and revenue-by-type history remains FY12/22 onward, as the disaggregation note did not exist before then.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments; financial statements; mid-term plan; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

@@ -1,0 +1,357 @@
+---
+title: "The world's pneumatics leader at a cyclical peak: initiation on SMC as H1 FY3/27 prints a record half and guidance jumps to ¥1.07tn of sales"
+company: "SMC Corporation"
+ticker: "6273"
+sector: "Machine Tools"
+date: 2026-11-16
+type: initiation
+externalUrl: "/en/reports/2026-11-16-smc-initiation-19/"
+lang: en
+---
+
+Global pneumatics dominance meeting an AI-capex upcycle: SMC Corporation (6273, TSE Prime) is the world's largest maker of pneumatic (air-driven) automatic control equipment — the cylinders, valves, air-preparation units and fittings that move factory production lines — reporting as a single segment (automatic control equipment) and estimating its own global market share at 36% and its Japan share at 62% (company Integrated Report 2025). The initiation point is a business at a cyclical high: **H1 FY3/27 (April–September 2026) revenue was a record ¥553,636mn (+38.3% YoY) with operating profit of ¥157,945mn (+74.0%)**, and on 13 November 2026 the company raised full-year FY3/27 guidance to revenue of ¥1,073,000mn and operating profit of ¥294,000mn, which would be the first ¥1tn sales year in its history. Strengths: (1) structural dominance in a component category where breadth (hundreds of thousands of product variations), direct sales coverage in more than 80 countries and immediate-availability inventory are the competitive weapons, supporting a gross margin of 45–51% across the last five years; (2) an almost debt-free balance sheet (equity ratio 91.5% at March 2026; cash and equivalents of ¥573,769mn against borrowings of ¥5,092mn) that funds capacity cycles internally; (3) direct leverage to the current capex wave — semiconductor and electrical demand in Greater China, Japan, North America and Asia, and AI/data-centre-related machine-tool demand, are the drivers management itself cites for the H1 surge. Weaknesses: (1) profitability is normalising from an extraordinary peak — the operating margin has fallen every year from 31.3% in FY3/23 to 22.6% in FY3/26 as personnel costs, depreciation from the FY3/22–26 capacity build and cost inflation outran volume, and ROE was 8.3% in FY3/26 despite the 91.5% equity ratio; (2) China concentration is rising — **China was 27.9% of FY3/26 sales by customer location and 32.2% in H1 FY3/27**, the single largest exposure to export controls, local competition (notably Taiwan's Airtac) and CNY translation; (3) disclosure is deliberately thin — a single segment, no product sales split, no regional profit, no orders or backlog — so the cycle can only be tracked through revenue, the two regional sales cuts and the capex/R&D/employee supplements. All historical figures in this report are as reported by the company (J-GAAP) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 487625 | 591035 | 576948 | 526000 | 552178 | 727397 | 824772 | 776873 | 792108 | 842541 | 1073000 |
+| Revenue growth (%) | — | 21.2 | -2.4 | -8.8 | 5 | 31.7 | 13.4 | -5.8 | 2 | 6.4 | 27.4 |
+| Operating profit | 141107 | 192428 | 180203 | 146254 | 153355 | 227857 | 258200 | 196226 | 190244 | 190558 | 294000 |
+| Operating margin (%) | 28.9 | 32.6 | 31.2 | 27.8 | 27.8 | 31.3 | 31.3 | 25.3 | 24 | 22.6 | 27.4 |
+| Ordinary profit | 148237 | 196846 | 198201 | 158450 | 171827 | 272981 | 305980 | 251008 | 209921 | 235591 | 325000 |
+| Net income to parent | 113095 | 136869 | 130631 | 110500 | 121790 | 192991 | 224609 | 178321 | 156344 | 167302 | 238000 |
+| EPS (¥) | 1683.1 | 2036.3 | 1943.4 | 1656.4 | 1832 | 2923.8 | 3444.5 | 2766.9 | 2444.6 | 2640 | 3789.2 |
+| Dividend per share (¥) | — | — | — | — | — | — | — | — | 1000 | 1000 | 1000 |
+| Operating cash flow | 120949 | 154315 | 75627 | 124610 | 120473 | 156093 | 101617 | 98207 | 196656 | 188917 | — |
+| R&D expenditure | 19115 | 20239 | 21367 | 21480 | 20874 | 23457 | 27361 | 31141 | 33351 | 39986 | 47000 |
+| Employees at period end (persons) | 19191 | 19680 | 19746 | 20853 | 20619 | 21620 | 22988 | 23127 | 23114 | 24773 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive); FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 13 Nov 2026. EPS FY3/22, FY3/25, FY3/26 as reported in tanshin headers; FY3/23–24 calculated from reported net income and weighted shares. Dividend per share shown only where verified from the tanshin headers used (FY3/25–27E). History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥3.66tn |
+| 52-week range | ¥50,560 – ¥86,800 |
+| P/E (FY3/26 EPS ¥2,640.04) | 20.9x |
+| P/E (FY3/27E co. guidance EPS ¥3,789.21) | 14.6x |
+| FY3/27E dividend (company forecast) | ¥1,000 / share (1.6% yield) |
+| Next event | Q3 FY3/27 results, early Feb 2027 |
+
+## Key points
+- **Record half, guidance raised sharply.** H1 FY3/27 revenue was ¥553,636mn (+38.3% YoY), operating profit ¥157,945mn (+74.0%) and net income to parent ¥128,979mn (+62.9%) — a record half on the company's presentation. Full-year FY3/27 guidance was revised up on 13 November 2026 to **revenue ¥1,073,000mn (+27.4% YoY), operating profit ¥294,000mn (+54.3%)**, ordinary profit ¥325,000mn and net income to parent ¥238,000mn (EPS ¥3,789.21), from the May 2026 initial guidance of ¥1,000,000mn / ¥219,000mn / ¥239,000mn / ¥170,000mn. Source: Q2 FY3/27 tanshin, 13 November 2026.
+- **Strength — share, breadth and the balance sheet.** SMC estimates its **share of the global pneumatic-equipment market at 36% (62% in Japan**; company Integrated Report 2025, company's own estimate), sells directly in more than 80 countries, and carries the inventory to supply from stock — finished goods, work in progress and raw materials totalled ¥506,697mn at March 2026. The equity ratio was 91.5% and net cash (cash and equivalents less borrowings) was about ¥568,677mn. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 14 May 2026.
+- **The cycle driver is semiconductors and AI data centres.** Management attributes the H1 FY3/27 surge to semiconductor/electrical demand holding at high levels across Greater China (semiconductors, LCD, solar) and expanding in Japan, North America and Asia, to EV-battery investment in China, and to machine-tool demand supported by data-centre investment. By customer location, **China sales rose to ¥178,115mn in H1 (32.2% of revenue)** from a 27.9% share in FY3/26. Source: Q2 FY3/27 tanshin qualitative section and supplement, 13 November 2026.
+- **Weakness — margins and ROE are well below the FY3/23 peak.** Gross margin compressed from 51.1% in FY3/23 to 45.3% in FY3/26 and the SG&A ratio rose from 19.8% to 22.7%, taking the operating margin from 31.3% to 22.6%; ROE was 8.3% in FY3/26 (FY3/25: 8.2%). Depreciation is still rising into the FY3/27 plan (company forecast ¥62,300mn, +38.9% YoY) after company-defined capex peaked at ¥150,254mn in FY3/26. **The revised FY3/27 guidance implies a 27.4% operating margin — delivery of that recovery is the central earnings question**. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin supplement.
+- **Disclosure gaps define what cannot be tracked.** SMC reports a single segment (automatic control equipment) by its own statement in every tanshin, and discloses no product-line sales, no regional profit, no order intake or backlog, and no unit volumes, capacity or utilisation. What it does disclose — unusually for this programme — is R&D expenditure (FY3/26: ¥39,986mn), period-end employees (24,773 at March 2026; 26,924 at September 2026), company-defined capex and average FX rates, plus sales on two regional bases (customer location and entity location). Source: PL/segment sheet register for SMC (6273), 2026-11-16; Q2 FY3/27 tanshin segment note.
+
+## 1. Key indicators and financial history
+
+SMC reports under Japanese GAAP with a March year-end. The ten-year record below is as reported in the company's tanshin (earnings releases) filed in the JPX disclosure archive, compiled in the PL/segment sheet for 6273 (FY3/17–FY3/26 actuals plus 20 quarters; all template checks equal zero). Figures are ¥mn unless stated.
+
+The preceding five years show the same cycle as the recent record, one turn earlier. Revenue was ¥487,625mn in FY3/17, rose to ¥591,035mn in FY3/18 (+21.2%), then eased to ¥576,948mn in FY3/19 (−2.4%) and ¥526,000mn in FY3/20 (−8.8%) before recovering to ¥552,178mn in FY3/21 (+5.0%) — every one of those years sits below the FY3/22 figure above, so the ten-year revenue peak remains the FY3/26 record. **Operating profit was ¥141,107mn in FY3/17 (28.9% margin), peaked in this window at ¥192,428mn in FY3/18 (32.6%** — a higher margin than any year in the recent five), and troughed at ¥146,254mn in FY3/20 (27.8%), with ¥153,355mn in FY3/21 (27.8%). Ordinary profit exceeded operating profit in every year (¥148,237mn / ¥196,846mn / ¥198,201mn / ¥158,450mn / ¥171,827mn), the same non-operating pattern as the recent record. The regional history for these years exists only on the entity-location basis then disclosed (Japan / North America / Europe / Asia / Other, with regional operating profit — a disclosure that stops after FY3/21): Asia was the largest entity-location sales region in FY3/18–FY3/21 (¥213,952mn / ¥197,620mn / ¥184,709mn / ¥224,711mn), and Japan carried the bulk of regional operating profit (¥88,603mn of the ¥141,107mn consolidated figure in FY3/17). Destination-basis (customer-location) regional sales were not disclosed before FY3/22 and are not shown for these years. R&D expenditure was ¥19,115mn / ¥20,239mn / ¥21,367mn / ¥21,480mn / ¥20,874mn and period-end employees 19,191 / 19,680 / 19,746 / 20,853 / 20,619 across FY3/17–FY3/21.
+
+Revenue rose from ¥727,397mn in FY3/22 to ¥824,772mn in FY3/23 (+13.4% YoY) on the post-COVID automation and semiconductor capex wave, fell to ¥776,873mn in FY3/24 (−5.8%) as that wave corrected and inventories built, then recovered to ¥792,108mn in FY3/25 (+2.0%) and a record ¥842,541mn in FY3/26 (+6.4%). Operating profit peaked earlier and higher: ¥227,857mn in FY3/22 (31.3% margin), ¥258,200mn in FY3/23 (31.3%), then ¥196,226mn in FY3/24 (25.3%), ¥190,244mn in FY3/25 (24.0%) and ¥190,558mn in FY3/26 (22.6%). The margin path is the central financial fact of the recent history: gross margin fell from 51.1% in FY3/23 to 46.7%, 45.8% and 45.3% in FY3/24–26, while the SG&A ratio rose from 19.8% to 22.7%, reflecting headcount growth (period-end employees rose from 21,620 in FY3/22 to 24,773 in FY3/26), direct-sales expansion and the depreciation and running costs of the capacity built through the cycle. Ordinary profit is consistently above operating profit because of interest and dividend income and, in strong-yen-reversal years, FX gains: ¥272,981mn / ¥305,980mn / ¥251,008mn / ¥209,921mn / ¥235,591mn for FY3/22–26. Net income attributable to owners of the parent was ¥192,991mn / ¥224,609mn / ¥178,321mn / ¥156,344mn / ¥167,302mn; EPS was ¥2,923.76 / ¥3,444.55 / ¥2,766.92 / ¥2,444.61 / ¥2,640.04 (FY3/23 and FY3/24 calculated from reported net income and weighted shares in the sheet; FY3/22, FY3/25 and FY3/26 as reported in the tanshin headers). ROE as reported was 8.2% in FY3/25 and 8.3% in FY3/26 — modest for a 22.6% operating margin, because the equity base is exceptionally large (equity ratio 91.5%).
+
+The balance sheet is a fortress. Total assets were ¥2,311,835mn and net assets ¥2,115,240mn at 31 March 2026 (equity attributable to parent ¥2,115,090mn; book value per share ¥33,498.92). Cash and equivalents ended FY3/26 at ¥573,769mn against borrowings of only ¥5,092mn. Operating cash flow was ¥156,093mn / ¥101,617mn / ¥98,207mn / ¥196,656mn / ¥188,917mn (FY3/22–26) — the FY3/23–24 dip was an inventory event, not an earnings event: inventory rose from ¥303,544mn at end-FY3/22 to ¥519,557mn at end-FY3/24 (about 14.4 months of cost of sales on the sheet's calculation) as the company stocked through the demand spike and correction, before easing to ¥506,697mn (12.9 months) at end-FY3/26. Company-defined capital expenditure (tanshin supplement basis) rose from ¥83,499mn in FY3/22 to ¥150,254mn in FY3/26, and depreciation and amortisation from ¥20,557mn to ¥44,846mn over the same period — the cost of the capacity that the FY3/27 demand surge is now absorbing. R&D expenditure, disclosed in the supplement, rose from ¥23,457mn (3.2% of sales) in FY3/22 to ¥39,986mn (4.7%) in FY3/26. The full KPI table, including FY3/27 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26; FY3/26 tanshin header indicators, 14 May 2026.
+
+**Figure: SMC Corporation — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 487625 |
+
+| FY3/18 | 591035 |
+
+| FY3/19 | 576948 |
+
+| FY3/20 | 526000 |
+
+| FY3/21 | 552178 |
+
+| FY3/22 | 727397 |
+
+| FY3/23 | 824772 |
+
+| FY3/24 | 776873 |
+
+| FY3/25 | 792108 |
+
+| FY3/26 | 842541 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: SMC Corporation — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 141107 |
+
+| FY3/18 | 192428 |
+
+| FY3/19 | 180203 |
+
+| FY3/20 | 146254 |
+
+| FY3/21 | 153355 |
+
+| FY3/22 | 227857 |
+
+| FY3/23 | 258200 |
+
+| FY3/24 | 196226 |
+
+| FY3/25 | 190244 |
+
+| FY3/26 | 190558 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: SMC Corporation — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 28.9 |
+
+| FY3/18 | 32.6 |
+
+| FY3/19 | 31.2 |
+
+| FY3/20 | 27.8 |
+
+| FY3/21 | 27.8 |
+
+| FY3/22 | 31.3 |
+
+| FY3/23 | 31.3 |
+
+| FY3/24 | 25.3 |
+
+| FY3/25 | 24 |
+
+| FY3/26 | 22.6 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: SMC Corporation — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q2 FY3/27 results and guidance
+
+SMC reported Q2 FY3/27 (H1, April–September 2026) results on 13 November 2026, with a large upward revision to full-year guidance and a new share-buyback authorisation. This chapter summarises the release; regional detail is in Chapter 5.
+
+## H1 FY3/27 results (cumulative, as reported)
+
+Revenue was ¥553,636mn (+38.3% YoY), operating profit ¥157,945mn (+74.0%), ordinary profit ¥173,206mn (+60.5%) and net income attributable to owners of the parent ¥128,979mn (+62.9%); H1 EPS was ¥2,053.49. **The operating margin recovered to 28.5% (prior-year H1: 22.7%)** as volume absorbed the higher personnel and depreciation costs management cites; ordinary profit grew more slowly than operating profit because FX gains swung to FX losses, partly offset by higher gains on sales of securities. Standalone Q1 FY3/27 (April–June 2026) had revenue of ¥270,987mn (+35.4% YoY) and operating profit of ¥73,986mn (+66.4%), so standalone Q2 contributed about ¥282,649mn of revenue and ¥83,959mn of operating profit (derived as H1 minus Q1, both as reported) — growth accelerated through the half.
+
+By end-market, the company states that semiconductor and electrical-equipment demand held at high levels in Greater China across semiconductors, LCD and solar, and expanded in Japan, North America and Asia; automotive demand remained firm in China for EV batteries, with hybrid-related investment showing recovery elsewhere; machine-tool demand was strong, centred on Japan and Greater China, helped by data-centre investment; and medical, food-machinery and other demand was firm on labour-shortage-driven automation. The group response was production and procurement reinforcement, direct-sales hiring, development productivity and cost-down. Regional sales detail (Chapter 5) shows China by customer location at ¥178,115mn in H1, 32.2% of revenue.
+
+The balance sheet at 30 September 2026: total assets ¥2,360,190mn (+¥48,354mn vs March 2026), net assets ¥2,151,386mn, equity ratio 91.1%. Receivables rose ¥53,690mn with the sales surge; investment securities fell as holdings were sold. H1 operating cash flow was ¥110,449mn (prior-year H1: ¥118,658mn — lower despite record profit, on the receivables build and ¥40,994mn of tax payments); investing cash flow was +¥6,057mn (capex on tangible assets of ¥29,721mn against ¥48,901mn of securities sales/redemptions and net time-deposit movements); financing outflow was ¥93,401mn, comprising ¥56,656mn of share buybacks and ¥31,576mn of dividends. Treasury shares rose to 1,534,226 of 63,869,359 issued shares. Two Benelux distributors (SMC Nederland B.V. and SMC Belgium BV) were consolidated from July 2026 after share acquisitions, and a new manufacturing subsidiary, SMC (Jiangsu) Manufacturing Co., Ltd., was established and consolidated. Source: Q2 FY3/27 tanshin, 13 November 2026 (JPX archive, TDnet 140120261112575619 as recorded in the PL/segment sheet register).
+
+## Guidance: raised sharply at Q2; new ¥50bn buyback
+
+Full-year FY3/27 guidance, as revised in the Q2 release of 13 November 2026, is revenue ¥1,073,000mn (+27.4% YoY), operating profit ¥294,000mn (+54.3%), ordinary profit ¥325,000mn (+38.0%), net income to parent ¥238,000mn (+42.3%) and EPS ¥3,789.21 — company guidance, not a J-Core Fundamental Research forecast. The revision from the initial guidance published on 14 May 2026 (revenue ¥1,000,000mn, operating profit ¥219,000mn, ordinary profit ¥239,000mn, net income ¥170,000mn, EPS ¥2,692.46) is +¥73,000mn on revenue (+7.3%) but **+¥75,000mn on operating profit (+34.2%)**: management is guiding to a 27.4% full-year operating margin, versus 22.6% in FY3/26 and 28.5% in H1 FY3/27. Assumed average FX rates were revised to USD/JPY 158 (from 155), EUR/JPY 181 (from 183) and CNY/JPY 23.60 (from 22.70); H1 actual average rates were USD/JPY 159.48, EUR/JPY 184.42 and CNY/JPY 23.53. H1 progress against the revised guidance is 51.6% on revenue and 53.7% on operating profit, so the guidance does not require a straight-line H2 acceleration on profit — but it does require the current order environment, which the tanshin describes qualitatively only (no order figures are disclosed), to hold through the seasonally important second half.
+
+The dividend forecast was left unchanged at ¥1,000 per share (interim ¥500, year-end ¥500), an implied payout ratio of 26.4% on revised guidance EPS (the FY3/26 tanshin had shown 37.1% on the initial EPS forecast). Separately, the board resolved on 13 November 2026 **a further buyback of up to 1,000,000 shares for up to ¥50,000mn**, by market purchase on the Tokyo Stock Exchange between 25 November 2026 and 24 March 2027, for shareholder returns, capital efficiency and use as substitute treasury shares. The same supplement gives company forecasts for FY3/27 of capex ¥100,000mn (−33.4% YoY), depreciation ¥62,300mn (+38.9%) and R&D ¥47,000mn (+17.5%). Source: Q2 FY3/27 tanshin, 13 November 2026, sections 2–3 and supplement (3)–(4) and subsequent-events note.
+
+## 3. Business description
+
+SMC is a specialist manufacturer of automatic control equipment, headquartered in Kyobashi, Chuo-ku, Tokyo. It designs, manufactures and sells pneumatic control equipment and related products worldwide under a single reportable segment; overseas sales were 81.1% of revenue in FY3/26 by customer location (Chapter 5). Because the company discloses no product-line sales split, this chapter is built from the company's product materials rather than from segment disclosure, and no product revenue shares are stated.
+
+## Product portfolio: the full pneumatic system, plus adjacent lines
+
+The core is the complete pneumatic system used to automate factory equipment. Actuators — principally air cylinders (including compact, guided, rodless and rotary types) — convert compressed air into linear or rotary motion. Directional control valves (solenoid valves and manifolds, increasingly serial-transmission and IO-Link connected) switch and route that air. Air preparation equipment (filter/regulator/lubricator combinations, dryers and filters — the company's original sintered-filter technology) cleans and conditions the supply, and fittings, tubing, flow controls and vacuum equipment (ejectors, pads) complete the circuit. Around this core, SMC has built adjacencies that matter for the current cycle: electric actuators (slider, rod and gripper types) for applications where air is unsuitable or precise positioning is required; temperature-control equipment (thermo-chillers and heat exchangers) used to stabilise semiconductor and laser processes; static-control, sensing, fluid-control and process-gas components; and filtration products descended from the founding technology. The catalogue runs to hundreds of thousands of variations (the company cites around 700,000 product variations in its European corporate materials, accessed November 2026), and the commercial model is to be specified once into a machine design and then supplied — components, spares and replacements — for the life of that machine. No sales split by any of these categories is disclosed in the tanshin, and none is estimated here. Source: SMC product and corporate materials (smcworld.com), accessed November 2026; Q2 FY3/27 tanshin segment note (single segment).
+
+## How SMC competes: breadth, direct sales, availability and energy saving
+
+Four mutually reinforcing elements constitute the moat as the company presents it and as third-party holders describe it. First, breadth and specification-in: with the widest catalogue in the industry, SMC is the default design-in choice for machine builders, and **a designed-in component position is sticky** — requalifying a substitute cylinder or valve on a production machine costs the customer engineering time and downtime risk that dwarf the component price. Second, a direct sales force: SMC sells predominantly through its own engineers rather than distributors in more than 80 countries, which captures the specification conversation, the aftermarket and the pricing. Third, availability: the company holds deep finished-goods and materials inventory (¥506,697mn at March 2026, roughly 60% of a year's cost of sales) so that standard products ship immediately — a service level smaller rivals cannot fund, and one reason inventory months (Chapter 1) should be read as strategy as well as cycle. Fourth, an energy-saving proposition: pneumatic systems leak and waste air, and SMC's recent product strategy (low-power valves, air-management systems that cut air consumption, and monitoring) sells reduced compressed-air energy cost to customers under decarbonisation pressure — the same pitch that defends pneumatics against full electrification (Chapter 4). The costs of this model are visible in the P&L: the direct sales force and inventory sit behind the rising SG&A ratio and the inventory build of FY3/23–24. Source: company corporate materials, accessed November 2026; Harris Associates and Brandes holder commentary as summarised by Buyside Digest (third-party, 2025).
+
+## The semiconductor and data-centre linkage
+
+SMC's exposure to the semiconductor cycle is broader than 'factory automation' suggests, and it is the linkage the current results turn on. Pneumatic components are consumed throughout wafer fabrication and back-end plants — in wafer-handling, chemical and gas delivery support, vacuum processes, temperature control and cleanroom automation — and SMC additionally sells the thermo-chillers that hold process temperatures stable in lithography and etch, a category in which third-party and activist materials describe SMC as a leading, in some accounts the preferred, supplier to major semiconductor-equipment makers (Palliser value-enhancement materials, April 2026, third-party). The demand chain into AI data centres is indirect but real, as management's own H1 commentary makes explicit: data-centre investment drives orders for the machine tools and semiconductor equipment that themselves consume SMC components, and for the electrical equipment built on automated lines. The financial footprint is visible in the regional data: Greater China entity-location sales — the region where semiconductor, LCD and solar capex is concentrated — reached ¥255,690mn in FY3/26 (30.3% of group revenue on that basis) and ¥195,460mn in H1 FY3/27 alone (35.3%). The corollary is concentration risk: **the same linkage that produced +38.3% H1 revenue growth will transmit any semiconductor or data-centre capex pause directly**, with no backlog disclosure to give advance warning. Source: Q2 FY3/27 tanshin qualitative section and supplement, 13 November 2026; company product materials, accessed November 2026.
+
+## Production system: global plants, built ahead of demand
+
+Production is organised as a global network of mass-production bases — principally in Japan (including the Kamaishi and other domestic plants), China (Beijing and, from 2026, the newly established SMC (Jiangsu) Manufacturing), Vietnam, and further plants and technical centres in North America and Europe — supplying the direct-sales network. The FY3/22–26 investment cycle was explicitly anticipatory: company-defined capex of ¥83,499mn / ¥81,592mn / ¥105,522mn / ¥107,803mn / ¥150,254mn built capacity through a demand correction (revenue fell in FY3/24) so that supply capability, a stated long-term-management priority alongside business-continuity (BCP) duplication across blocs, would not constrain the next upcycle. The FY3/27 company capex forecast steps down to ¥100,000mn while depreciation rises to a forecast ¥62,300mn, i.e. the build phase is giving way to an absorption phase. Headcount is the other capacity gauge the company discloses: consolidated employees (excluding temporary staff) were 24,773 at March 2026 and 26,924 at September 2026 (+2,151 in six months, with temporary employees averaging 6,075 in H1), the fastest hiring in the five-year window. Unit production volumes, capacity and utilisation are not disclosed and are not quantified here. Source: company results via PL/segment sheet (tanshin supplements (3) and (5), JPX archive); Q2 FY3/27 tanshin, 13 November 2026.
+
+## 4. Market and value chain
+
+Pneumatic control equipment is a component layer of factory automation: demand is a derived function of manufacturing capex across semiconductors, electrical/electronics, automotive (increasingly EV batteries), machine tools, food, medical and general machinery — the end-markets SMC's own commentary enumerates. The market's structure favours the leader. ==SMC estimates its global share of pneumatic equipment at 36% and its Japan share at 62%== (company Integrated Report 2025; SMC Guide CAT.E01-12F gives the same 36% global figure — both are the company's own estimates, methodology not stated, and third-party estimates vary widely by market definition, from about 12% for narrowly defined pneumatic component categories to around 40% in holder materials). The competitive set is: Festo (Germany, unlisted) — the global number two and the closest full-range rival, strong in Europe and in electric automation; CKD Corporation (6407) — the principal Japanese rival, smaller and also semiconductor-exposed; Airtac International (Taiwan) — the low-cost volume challenger, strongest in China, where it competes on price in exactly the market that is now 32.2% of SMC's H1 sales; and the pneumatics divisions of diversified groups (Parker Hannifin, Emerson (Aventics), IMI (Norgren), Bosch Rexroth), for none of which pneumatics is the core business. Entry barriers are the catalogue, the qualification/specification-in cycle, the direct-service network and the inventory commitment described in Chapter 3 — a challenger must fund all four before it can contest an installed design, which is why share shifts in this industry are measured in points per decade rather than per cycle.
+
+The value chain runs from materials and machined components (much of it in-house at SMC, including its sintered-filter origins) through component manufacture and assembly to direct sale, with machine builders (OEMs) and end-user factories as the two customer types and a long aftermarket tail of replacement components. Two structural debates frame the market chapter. First, substitution: electric actuators are replacing pneumatics at the precision end, and every major supplier, SMC included, now sells both; the offsetting defence is that pneumatics remains cheaper, simpler, faster and more robust for the high-count, short-stroke motions that dominate production lines, and that air-efficiency products reduce its energy disadvantage. Second, China localisation: Chinese capex increasingly sources from Airtac and domestic makers at the standard end, while SMC's China position is defended by its local production (Beijing; Jiangsu from 2026), its direct network and the high-end semiconductor categories where qualification barriers are highest. SMC's disclosed numbers frame both debates: China destination sales grew +12.6% in FY3/26 to ¥234,939mn and accelerated in H1 FY3/27, while group gross margin — the line where price competition would appear first — has compressed 5.8 points from the FY3/23 peak for reasons management attributes mainly to cost, not price. Sources: SMC Integrated Report 2025 and SMC Guide (company materials, accessed November 2026); competitor descriptions from company materials; Q2 FY3/27 tanshin, 13 November 2026.
+
+**Figure: SMC in the fluid-power value chain**
+
+**Raw Materials**
+
+- Castings, forged stock, special steel
+- Seal rubber & resins: NOK
+- Hydraulic oil: ENEOS
+- Copper wire, magnets (electrification)
+
+**Component Processing**
+
+- Precision grinding, honing, lapping
+- Heat treatment, surface treatment
+- Coil winding, sintering
+- Mostly in-house at makers
+
+**SMC Corporation (6273)**
+
+- Pneumatic actuators — air cylinders, rotary actuators
+- Directional control valves & manifolds (IO-Link)
+- Air preparation — FRL units, dryers, filters
+- Electric actuators, thermo-chillers, vacuum equipment
+- Direct sales in 80+ countries; from-stock supply
+
+**Units & Systems**
+
+- Hydraulic power units (HPU)
+- Valve terminals + I/O: SMC
+- Servo-pump units: Daikin
+- Vacuum, air-oil conversion units
+
+**Distribution & Integration**
+
+- Direct sales: SMC network
+- Distributors, regional agents
+- EC: Misumi, MonotaRO, Trusco
+- System integrators, selection support
+
+**End Users & Service**
+
+- Construction machinery: Komatsu, Caterpillar
+- Machine tools, semiconductor equipment
+- Automotive, food, medical equipment
+- Overhaul, leak & energy diagnostics
+
+*Source: FIELDNOTES sector report §4 (hydraulics & pneumatics value chain); company product lines from §3 of this report.*
+
+## 5. Regional sales — the only segment disclosure
+
+SMC is a single-segment company (automatic control equipment) by its own statement, and omits segment information in every tanshin. In its place, the tanshin supplement discloses sales on two regional bases for every period, and these two cuts — presented in Exhibits 2 and 3 — are the finest demand visibility the company provides. No regional profit is disclosed on either basis.
+
+**Figure: SMC Corporation — regional revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
+
+## Sales by destination (customer location): China is the growth engine
+
+The destination basis allocates sales to where the customer is: Japan, USA, China (including Hong Kong), Asia excluding China, Europe and other. In FY3/26 the split was Japan ¥158,823mn (18.8% of revenue), USA ¥83,708mn (9.9%), China ¥234,939mn (27.9%), Asia ex-China ¥158,955mn (18.9%), Europe ¥162,250mn (19.3%) and other ¥43,864mn (5.2%) — an overseas ratio of 81.1%. The five-year pattern (Exhibit 2) is a rotation toward China and Asia: **China destination sales rose from ¥188,522mn in FY3/22 to ¥234,939mn in FY3/26** (+12.6% in FY3/26 alone, the fastest of any region that year), Asia ex-China rose from ¥130,668mn to ¥158,955mn, and Europe from ¥122,282mn to ¥162,250mn, while Japan was essentially flat (¥173,232mn → ¥158,823mn, and only +0.4% in FY3/26) and the USA declined from its FY3/23 peak of ¥100,135mn to ¥83,708mn. In H1 FY3/27 the rotation intensified: China ¥178,115mn (32.2% of H1 revenue), Asia ex-China ¥111,270mn (20.1%), Japan ¥94,763mn (17.1%), Europe ¥87,364mn (15.8%), USA ¥53,495mn (9.7%) and other ¥28,627mn (5.2%). Readers should treat the China line as the single most important demand series in SMC's disclosure: it is simultaneously the semiconductor-capex proxy, the CNY-translation exposure and the competitive front line against Airtac and local makers. Source: company results via PL/segment sheet (tanshin supplement (1), JPX archive); Q2 FY3/27 tanshin supplement (1), 13 November 2026.
+
+**Exhibit 2. Sales by destination (customer location), as disclosed**
+
+| ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|
+| Japan | 173232 | 176302 | 159172 | 158116 | 158823 |
+| USA | 82648 | 100135 | 93200 | 88937 | 83708 |
+| China (incl. Hong Kong) | 188522 | 223612 | 195218 | 208690 | 234939 |
+| Asia ex-China | 130668 | 144562 | 136726 | 151612 | 158955 |
+| Europe | 122282 | 143362 | 149487 | 144414 | 162250 |
+| Other | 30042 | 36796 | 43068 | 40336 | 43864 |
+| Consolidated revenue | 727397 | 824772 | 776873 | 792108 | 842541 |
+
+*Source: Company results via PL/segment sheet (tanshin supplement (1), JPX archive). China includes Hong Kong. Regional totals reconcile to consolidated revenue within ¥3mn of tanshin rounding in each year.*
+
+## Sales by entity location: where the group's companies book the revenue
+
+The entity-location basis allocates sales to where the selling SMC group company sits: Japan, North America (USA, Canada, Mexico), Greater China (China, Hong Kong, Taiwan), other Asia, Europe and other. It differs from the destination basis in economically meaningful ways: Greater China includes Taiwan (a semiconductor centre in its own right) and captures sales booked by the group's large China production-and-sales companies, while destination 'China' counts only customers in China/Hong Kong; conversely, Japan entity sales include product manufactured and booked in Japan for export. In FY3/26 the entity split was Japan ¥162,956mn (19.3%), North America ¥106,331mn (12.6%), Greater China ¥255,690mn (30.3%), other Asia ¥133,251mn (15.8%), Europe ¥159,689mn (19.0%) and other ¥24,621mn (2.9%). Greater China is the fastest-compounding entity region across the window (¥202,280mn in FY3/22 to ¥255,690mn in FY3/26, on the corrected primary-source figures — see Basis of preparation) and reached ¥195,460mn in H1 FY3/27 (35.3% of H1 revenue), ahead of Japan entity sales of ¥96,446mn. North America entity sales have declined from ¥128,649mn in FY3/23 to ¥106,331mn in FY3/26 even as US end-demand recovered — consistent with more US demand being supplied and booked through other group entities — but the company provides no bridge between the two bases and no profit by either, so margin geography cannot be analysed from the tanshin. Exhibit 3 gives the five-year history on the corrected basis. Source: company results via PL/segment sheet (tanshin supplement (2), JPX archive), FY3/22–23 entity figures as reported in the FY3/22 and FY3/23 annual tanshin (see Basis of preparation); Q2 FY3/27 tanshin supplement (2), 13 November 2026.
+
+**Exhibit 3. Sales by entity location, as disclosed (FY3/22–23 corrected to the primary source — see Basis of preparation)**
+
+| ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|
+| Japan | 180463 | 184016 | 165618 | 163832 | 162956 |
+| North America | 105225 | 128649 | 128402 | 119533 | 106331 |
+| Greater China | 202280 | 235316 | 200580 | 222017 | 255690 |
+| Other Asia | 108180 | 121702 | 119347 | 127208 | 133251 |
+| Europe | 118475 | 138574 | 143774 | 140052 | 159689 |
+| Other | 12771 | 16513 | 19150 | 19463 | 24621 |
+| Consolidated revenue | 727397 | 824772 | 776873 | 792108 | 842541 |
+
+*Source: Company results via PL/segment sheet (tanshin supplement (2), JPX archive) for FY3/24–26; FY3/22–23 as reported in the FY3/22 and FY3/23 annual tanshin (the sheet's supplementary rows mislabel Europe / Greater China / other Asia for those years because the tanshin column order changed in FY3/24). North America = USA, Canada, Mexico; Greater China = China, Hong Kong, Taiwan.*
+
+**Exhibit 3A. Sales and operating profit by entity location — former five-region basis (as reported in those years)**
+
+| ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 |
+|---|---|---|---|---|---|
+| Japan — sales (entity location, old basis) | 159706 | 188205 | 188895 | 163069 | 151680 |
+| North America — sales (entity location, old basis) | 75781 | 87036 | 82681 | 76684 | 74826 |
+| Europe — sales (entity location, old basis) | 75311 | 90183 | 95897 | 90672 | 90984 |
+| Asia — sales (entity location, old basis) | 166339 | 213952 | 197620 | 184709 | 224711 |
+| Other — sales (entity location, old basis) | 10486 | 11657 | 11852 | 10865 | 9975 |
+| Consolidated revenue | 487625 | 591035 | 576948 | 526000 | 552178 |
+| Japan — operating profit (entity location, old basis) | 88603 | 134194 | 117439 | 102100 | 93030 |
+| North America — operating profit (entity location, old basis) | 12912 | 16612 | 10188 | 4584 | 11578 |
+| Europe — operating profit (entity location, old basis) | 6711 | 8361 | 9100 | 7247 | 10574 |
+| Asia — operating profit (entity location, old basis) | 31296 | 47830 | 39916 | 34478 | 41078 |
+| Other — operating profit (entity location, old basis) | 238 | 928 | 1645 | 1189 | 966 |
+| Eliminations / corporate — operating profit (as reported) | 1343 | -15500 | 1912 | -3344 | -3872 |
+| Consolidated operating profit | 141107 | 192428 | 180203 | 146254 | 153355 |
+
+*Source: Company tanshin segment information (entity location, former basis) via PL/segment sheet History block. This presentation was replaced by the six-region basis in Exhibit 3 from FY3/22; the two bases are shown separately and are not restated into one another. Destination-basis regional sales (Exhibit 2) are not disclosed before FY3/22.*
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: revenue ¥727,397mn / ¥824,772mn / ¥776,873mn / ¥792,108mn / ¥842,541mn for FY3/22–FY3/26; cost of sales ¥363,545mn / ¥403,613mn / ¥413,796mn / ¥429,069mn / ¥461,089mn; gross profit ¥363,852mn / ¥421,159mn / ¥363,077mn / ¥363,039mn / ¥381,452mn (margins 50.0% / 51.1% / 46.7% / 45.8% / 45.3%); SG&A ¥135,995mn / ¥162,959mn / ¥166,851mn / ¥172,795mn / ¥190,894mn; operating profit ¥227,857mn / ¥258,200mn / ¥196,226mn / ¥190,244mn / ¥190,558mn. Non-operating income (¥45,626mn in FY3/22 rising to ¥54,963mn in FY3/24, then ¥24,388mn in FY3/25 as FX gains faded, and ¥45,886mn in FY3/26) consistently exceeds small non-operating expenses, giving ordinary profit of ¥272,981mn / ¥305,980mn / ¥251,008mn / ¥209,921mn / ¥235,591mn. Extraordinary items are immaterial in all five years (FY3/26: income ¥4,439mn, losses ¥3,041mn). Profit before tax was ¥236,989mn in FY3/26; total income taxes ¥69,678mn (effective rate 29.4%); net income ¥167,311mn, of which ¥167,302mn to owners of the parent and ¥9mn to non-controlling interests.
+
+Balance sheet (31 March 2026): total assets ¥2,311,835mn; net assets ¥2,115,240mn; equity ratio 91.5% (FY3/25: 91.8%; third-party compilations of the securities reports put the ratio at 87.9% / 88.1% / 89.8% for FY3/22–24). The asset side is dominated by liquidity and working capital: cash and deposits ¥663,870mn, receivables ¥235,325mn, securities ¥47,832mn and inventory ¥506,697mn (finished goods ¥198,419mn, work in progress ¥33,289mn, raw materials and supplies ¥274,989mn), against tangible fixed assets of ¥618,009mn and investment securities of ¥121,714mn. **Liabilities totalled only ¥196,595mn, including borrowings of ¥5,092mn** and payables of ¥31,822mn — payables have fallen every year since FY3/23 (¥73,636mn) while receivables and inventory remain elevated, a working-capital posture consistent with the availability-first model. Cash flow: operating cash flow ¥156,093mn / ¥101,617mn / ¥98,207mn / ¥196,656mn / ¥188,917mn (FY3/22–26); FY3/26 investing outflow was ¥107,511mn and financing outflow ¥94,119mn (dividends and buybacks), after an investing inflow of ¥35,234mn in FY3/25; cash and equivalents were ¥531,649mn at end-FY3/25 and ¥573,769mn at end-FY3/26. Per-share data: EPS ¥2,923.76 / ¥3,444.55 / ¥2,766.92 / ¥2,444.61 / ¥2,640.04; book value per share ¥33,498.92 at FY3/26 (¥30,255.22 at FY3/25). Dividends were ¥1,000 per share in both FY3/25 (total ¥63,865mn; payout 40.9% as reported) and FY3/26 (total ¥63,228mn; payout 37.9%), and the FY3/27 forecast is ¥1,000. Exhibit 4 collects the operating metrics the tanshin supplements disclose. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin headers, 14 May 2026.
+
+**Exhibit 4. Operating metrics disclosed in the tanshin supplements**
+
+| ¥mn unless stated | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. forecast) |
+|---|---|---|---|---|---|---|
+| Capital expenditure (company definition) | 83499 | 81592 | 105522 | 107803 | 150254 | 100000 |
+| Capital expenditure (CF-statement basis, sheet) | 80931 | 74377 | 104308 | 107802 | 154385 | — |
+| Depreciation & amortisation | 20557 | 25767 | 33355 | 34308 | 44846 | 62300 |
+| R&D expenditure | 23457 | 27361 | 31141 | 33351 | 39986 | 47000 |
+| Inventory at period end | 303544 | 418601 | 519557 | 489660 | 506697 | — |
+| Employees at period end (persons) | 21620 | 22988 | 23127 | 23114 | 24773 | — |
+
+*Source: Company results via PL/segment sheet (tanshin supplements (3) and (5) and financial statements, JPX archive). Capex (company definition) is the supplement total; CF-statement capex is purchases of tangible/intangible fixed assets as captured in the sheet. FY3/27E capex, D&A and R&D are company forecasts (Q2 FY3/27 tanshin supplement, 13 Nov 2026).*
+
+## 7. Strategy and mid-term plan
+
+SMC does not publish a medium-term management plan, and this chapter records that as a fact of the company's disclosure policy rather than filling the gap. In its Integrated Report the company states the position explicitly: instead of formulating a medium-term management plan, it sets out a long-term management vision — centred on stable global product supply, production-capacity expansion, sales-force strengthening and BCP-resilient global production — and had adopted 'net sales of one trillion yen in FY2026' as a medium-term goal (SMC Integrated Report 2023). Measured against that goal, FY3/26 revenue of ¥842,541mn fell short; the revised FY3/27 company guidance of ¥1,073,000mn would cross ¥1tn a year late, on the semiconductor/AI capex cycle rather than on a published plan trajectory. No successor numeric medium-term target had been published in the materials reviewed for this report as of November 2026.
+
+What the company does publish, every period, functions as a one-year operating plan: full-year guidance for revenue, operating profit, ordinary profit, net income and EPS with stated FX assumptions (Chapter 2), and supplement forecasts for capex, depreciation and R&D (FY3/27: ¥100,000mn / ¥62,300mn / ¥47,000mn). Strategy execution is therefore tracked in this report through those disclosed dials: (1) capacity — the FY3/22–26 build (company capex peaking at ¥150,254mn) and its absorption, with new capacity still being added where demand is (SMC (Jiangsu) Manufacturing established in 2026) and distribution being bought in where it is not (the Dutch and Belgian distributors consolidated in July 2026); (2) people — direct-sales and group headcount, +2,151 employees in H1 FY3/27 to 26,924; (3) product — energy-saving pneumatics and the semiconductor-adjacent lines (chillers, process components) described in Chapter 3; and (4) capital policy — a ¥1,000 dividend held flat through the cycle (payout 37.9% in FY3/26) supplemented by opportunistic buybacks, of which ¥56,656mn was executed in H1 FY3/27 and a further ¥50,000mn authorised on 13 November 2026, alongside cancellation of 3,500,000 shares during FY3/26 (issued shares fell from 67,369,359 to 63,869,359). The tension in that capital policy — **a 91.5% equity ratio, about ¥568.7bn of net cash and an 8.3% ROE** — is the subject of an activist value-enhancement campaign by Palliser Capital (materials published April 2026, third-party), which argues for higher returns and portfolio focus; the stepped-up buyback cadence in FY3/27 is the visible company response to date. All forward figures in this chapter are company guidance or forecasts as labelled; the Palliser material is third-party and is cited as such. Source: SMC Integrated Report 2023 (company); FY3/26 and Q2 FY3/27 tanshin, 14 May 2026 and 13 November 2026; Palliser Capital value-enhancement presentation via Business Wire, April 2026.
+
+## 8. Other information
+
+History. SMC was founded in April 1959 in Tokyo as Shoketsu Kinzoku Kogyo K.K. (Sintered Metal Corporation — the origin of the name SMC), a maker of sintered-metal filters for air-line equipment. It began F.R.L. (filter/regulator/lubricator) production in 1961, entered automatic control equipment in the 1960s, added air cylinders in 1970 and solenoid valves in 1971, renamed itself SMC Corporation in 1986, listed on the Tokyo Stock Exchange in 1987 (moving to the First Section in 1989; now the Prime Market), and built its overseas production and direct-sales network — the Americas, Europe and then China and Asia — through the 1990s and 2000s into today's presence in more than 80 countries. The Takada family has led the company for most of its history: Yoshiyuki Takada, a founding director, served as president from 1989 and later chairman; the current president is his successor from the same family line. Source: company history materials and corporate profiles (smcworld.com; SMC Europe heritage pages), accessed November 2026.
+
+Management. Representative Director and President: Yoshiki Takada (髙田 芳樹), in office since April 2021, as named on the cover of the FY3/26 tanshin (14 May 2026) and the Q2 FY3/27 tanshin (13 November 2026), where the disclosure contact is Kyoichi Miyazaki, Director and Executive Officer, General Manager of Administration HQ and Accounting. Head office: Kyobashi, Chuo-ku, Tokyo. Shares issued: 63,869,359, of which 1,534,226 were held in treasury at 30 September 2026 (Q2 FY3/27 tanshin).
+
+Major shareholders. Third-party compilations of the shareholder register (Simply Wall St, data updated August 2026) show no controlling holder: BlackRock 6.42%, Takada International Limited Company 6.03% (3,793,000 shares — a Takada-family vehicle), Ton Finance B.V. 5.48%, Capital Research and Management 4.89% and Nomura Asset Management 4.76%, with institutions in aggregate holding roughly half the register. These are third-party figures, not company-disclosed in the tanshin, and are flagged accordingly; the official top-holder table is in the annual securities report, which was not the source used here.
+
+Employees. Consolidated employees at period end (excluding temporary staff): 21,620 / 22,988 / 23,127 / 23,114 / 24,773 for FY3/22–FY3/26 year-ends, and 26,924 at 30 September 2026, with temporary employees averaging 5,616 in FY3/26 and 6,075 in H1 FY3/27 (tanshin supplement (5)).
+
+Shareholder returns. FY3/26 dividend ¥1,000 per share (payout ratio 37.9% as reported); FY3/27 forecast ¥1,000 (26.4% of revised guidance EPS). Buybacks: ¥56,656mn executed in H1 FY3/27 (H1 financing cash flow), following the FY3/26 cancellation of 3,500,000 shares; a further authorisation of up to 1,000,000 shares / ¥50,000mn was resolved on 13 November 2026 for execution by 24 March 2027 (Chapter 2).
+
+Market data. The shares closed at ¥62,320 on 13 November 2026 (StockAnalysis.com, 13 November 2026) — the results-day close, +3.87% on the day — giving a market capitalisation of about ¥3.88tn (StockAnalysis.com). The 52-week range was ¥50,560 (21 November 2025) to ¥86,800 (14 May 2026) (Finnhub): the stock remains about 28% below its May 2026 high despite the record H1 and the guidance raise. At ¥62,320 the shares trade at 23.6x FY3/26 EPS of ¥2,640.04, 16.4x FY3/27 company-guidance EPS of ¥3,789.21, 1.86x FY3/26 book value per share of ¥33,498.92 and a 1.6% forecast dividend yield (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, expected in early February 2027 (third-party calendar estimate).
+
+## 9. Basis of preparation
+
+Sources. Historical financials and regional data are taken from the PL/segment sheet for SMC (6273) (J-GAAP template; FY3/22–FY3/26 annual and 20 quarters; ¥mn), which was built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (rollout log and sheet register S1–S10, 2026-11-16). Q2 FY3/27 figures are from the Q2 FY3/27 tanshin dated 13 November 2026. Market data are from Finnhub and StockAnalysis.com as returned by web search on 16 November 2026 and are cited with dates in the text; shareholder data are third-party (Simply Wall St, August 2026) and flagged as such; market-share figures are the company's own estimates (Integrated Report 2025) and are labelled as such wherever used.
+
+Discrepancy flagged — entity-location sales, FY3/22–FY3/23. In the FY3/22 and FY3/23 annual tanshin the entity-location table's column order was Japan / North America / Europe / Greater China / other Asia / other; from FY3/24 the order changed to Japan / North America / Greater China / other Asia / Europe / other. The PL/segment sheet's supplementary entity-location rows for FY3/22–FY3/23 carry the values mapped by column position under the later order, which mislabels three regions for those two years (for example, FY3/23 Greater China is shown as ¥138,574mn in the sheet but is ¥235,316mn as reported in the FY3/23 tanshin; the sheet's ¥138,574mn is the Europe figure). In accordance with the programme rule, this report uses the primary source: FY3/22 entity sales of Japan ¥180,463mn, North America ¥105,225mn, Greater China ¥202,280mn, other Asia ¥108,180mn, Europe ¥118,475mn, other ¥12,771mn, and FY3/23 of Japan ¥184,016mn, North America ¥128,649mn, Greater China ¥235,316mn, other Asia ¥121,702mn, Europe ¥138,574mn, other ¥16,513mn (FY3/22 and FY3/23 annual tanshin, supplement (2)). FY3/24–FY3/26 sheet values agree with the tanshin and are used as compiled. The destination-basis data agree with the tanshin for all five years. Two smaller definitional notes: (1) 'capital expenditure' appears on two bases — the company-defined supplement total (FY3/26: ¥150,254mn) used in the text, and the cash-flow-statement purchases of tangible and intangible fixed assets captured in the sheet's main capex row (FY3/26: ¥154,385mn) — and the two are not interchangeable; (2) the sheet's SG&A and certain subtotal lines absorb tanshin rounding differences of at most ¥6mn per period (register S10); headline lines are always as reported.
+
+Conventions. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'Company guidance' means SMC's published forecasts; this report contains no J-Core Fundamental Research forecasts. The KPI history now covers ten years (FY3/17–FY3/26) from the PL/segment sheet, including its supplementary History block (FY3/17–FY3/21, each year as reported in its own tanshin); for the added years, regional sales exist only on the entity-location basis then disclosed, and destination-basis regional sales remain not disclosed before FY3/22. Items the company does not disclose — product/segment sales, regional profit, order intake, order backlog, unit volumes, capacity, utilisation and company-reported inventory months — are described as not disclosed rather than estimated.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; regional discussion; financial statements; strategy/plan; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

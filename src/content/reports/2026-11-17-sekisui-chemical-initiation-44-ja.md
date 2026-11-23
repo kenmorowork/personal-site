@@ -1,0 +1,434 @@
+---
+title: "A spread-defending materials compounder at a record half: initiation on Sekisui Chemical as High Performance Plastics rides AI-electronics demand — and the guided H2 payback decides whether the FY3/27 raise is real"
+company: "Sekisui Chemical Co., Ltd."
+ticker: "4204"
+sector: "Chemicals & Housing"
+date: 2026-11-17
+type: initiation
+externalUrl: "/ja/reports/2026-11-17-sekisui-chemical-initiation-44/"
+lang: ja
+---
+
+Housing cash flows, pipes that price, and a plastics arm compounding into the AI supply chain: Sekisui Chemical Co., Ltd. (4204, TSE Prime) is the Osaka-founded resin-processing group (established 1947) organised as three divisional companies plus a medical business: Housing (unit housing — Sekisui Heim — plus renovation and residential services), Urban Infrastructure & Environmental Products (UIEP; PVC and polyethylene pipe, pipe-rehabilitation, CPVC compounds, building materials and synthetic wood — renamed Environment & Lifeline in the company's own company-level presentation), High Performance Plastics (HPP; interlayer film for automotive and architectural glass, foamed polyolefin, tapes, LCD and semiconductor materials, medical-adjacent fine particles) and Medical (diagnostics reagents and pharmaceutical intermediates/APIs). The initiation question is durability: Sekisui has compounded sales to a fourth consecutive record in FY3/26 (¥1,309,281mn) while operating profit has gone sideways for a decade (¥96,476mn in FY3/17; ¥106,477mn in FY3/26), and **H1 FY3/27 then printed a record half — sales ¥701,706mn (+11.4% YoY), operating profit ¥60,439mn (+33.0%)** — strong enough for the company to raise full-year guidance on 30 October 2026 to sales of ¥1,491,000mn and operating profit of ¥123,000mn (company guidance). Strengths: (1) HPP, the profit engine — ¥59,325mn of segment profit in FY3/26 at a 13.1% margin, and ¥38,313mn in H1 FY3/27 (+35.1% YoY) on semiconductor-related and other non-LCD electronics demand, HUD interlayer film and aircraft materials; (2) demonstrated spread defence — in both UIEP and HPP the company passed raw-material inflation into prices fast enough in H1 FY3/27 to expand profit while competitors' customers were stockpiling ahead of supply risk; (3) a disclosure and balance-sheet package that is unusually complete for a J-GAAP reporter — a segment × region sales matrix in every tanshin, a 59.6% equity ratio at March 2026, and a formalised return policy under the new mid-term plan (payout ≥40%, DOE ≥3.5%, progressive dividend; FY3/27 forecast ¥82, the 17th consecutive annual increase). Weaknesses: (1) the raise is partly borrowed demand — management itself assumes an H2 payback from H1 pull-forward and stockpiling, and **the implied H2 operating profit of ¥62,561mn (calculated) is about ¥6.0bn below the original April H2 plan**, so the 'raise' is H1 capture, not a higher run-rate; (2) below-the-line noise is chronic — FY3/22 owners' net income fell to ¥37,067mn on ¥53,051mn of extraordinary losses, FY3/26 carried ¥27,140mn (including a ¥14,891mn impairment on the Kuji biorefinery plant), and H1 FY3/27 booked ¥7,747mn of stationary-battery (LB) defect and exit costs, which is precisely why net-income guidance was left unchanged at ¥76,000mn when operating guidance was raised; (3) Housing, still 41% of sales, is structurally shrinking at the unit level (H1 order volume 98% YoY) and is being defended with price, renovation, residential services and M&A rather than volume. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (J-GAAP, March year-end, ten annual years FY3/17–FY3/26); the only forward figures are company guidance and mid-term plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and FY3/27E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 1065776 | 1107429 | 1142713 | 1129254 | 1056560 | 1157945 | 1242521 | 1256538 | 1297754 | 1309281 | 1491000 |
+| Revenue growth (%) | — | 3.9 | 3.2 | -1.2 | -6.4 | 9.6 | 7.3 | 1.1 | 3.3 | 0.9 | 13.9 |
+| Operating profit | 96476 | 99231 | 95686 | 87768 | 67300 | 88879 | 91666 | 94399 | 107951 | 106477 | 123000 |
+| Operating margin (%) | 9.1 | 9 | 8.4 | 7.8 | 6.4 | 7.7 | 7.4 | 7.5 | 8.3 | 8.1 | 8.2 |
+| Ordinary income | 91513 | 93929 | 93146 | 86996 | 62649 | 97001 | 104241 | 105921 | 110958 | 117215 | 122000 |
+| Net income to owners | 60850 | 63459 | 66093 | 58931 | 41544 | 37067 | 69263 | 77930 | 81925 | 75174 | 76000 |
+| Basic EPS (¥) | 126.1 | 133.8 | 141.7 | 128.3 | 91.9 | 83.2 | 159.2 | 183.5 | 195.9 | 182.7 | 188.2 |
+| Dividend per share (¥) | 35 | 40 | 44 | 46 | 47 | 49 | 59 | 74 | 79 | 80 | 82 |
+| ROE (%) | 11.3 | 11.2 | 11.1 | 9.7 | 6.5 | 5.5 | 10 | 10.4 | 10.2 | 9.1 | — |
+| Operating cash flow | 108229 | 82272 | 85213 | 92647 | 75271 | 105023 | 71543 | 106632 | 119231 | 78301 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive): main window FY3/22–FY3/26 and supplementary history block FY3/17–FY3/21, each year as originally reported in its own tanshin (FY3/20 as originally reported — the FY3/21 tanshin's restated comparatives differ; see Basis of preparation). EPS is basic EPS as reported. ROE as reported in the tanshin headers. FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 30 Oct 2026 (initial guidance 28 Apr 2026: sales ¥1,408,400mn, operating profit ¥115,000mn, owners' net income ¥76,000mn, EPS ¥188.26).*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥1.07tn |
+| 52-week range | ¥2,248 – ¥3,065 |
+| P/E (FY3/26 basic EPS ¥182.70, J-GAAP) | 14.1x |
+| P/E (FY3/27E co. guidance EPS ¥188.17) | 13.7x |
+| FY3/27E dividend (company forecast) | ¥82 / share (3.0% yield) |
+| Next event | Q3 FY3/27 results, late Jan–early Feb 2027 |
+
+## Key points
+- **H1 FY3/27: a record half, led by plastics.** For the six months to 30 September 2026 (J-GAAP), sales were ¥701,706mn (+11.4% YoY), operating profit ¥60,439mn (+33.0%; margin 8.6% vs 7.2%), ordinary income ¥61,418mn (+25.5%) and net income attributable to owners ¥34,791mn (+9.7%); sales, operating profit and ordinary income were all interim-period records, per the company. **HPP external sales rose 18.1% to ¥261,252mn and segment profit 35.1% to ¥38,313mn**; UIEP profit rose 63.2% to ¥13,157mn on spread maintenance and distributor stockpiling; Housing profit rose only 3.0% to ¥16,791mn as unit volumes fell. The half also absorbed ¥9,718mn of extraordinary losses, including ¥5,143mn of specific-product (stationary battery) exchange costs and ¥2,604mn of business-structure improvement costs for the LB exit. Source: Q2 FY3/27 tanshin, 30 October 2026.
+- **Guidance raised — but the H2 plan was cut to pay for it.** Full-year FY3/27 company guidance was raised on 30 October 2026 to sales ¥1,491,000mn (initial, 28 April 2026: ¥1,408,400mn), operating profit ¥123,000mn (initial ¥115,000mn, +7.0%), ordinary income ¥122,000mn (initial ¥114,000mn) and owners' net income unchanged at ¥76,000mn, with EPS of ¥188.17 (initial ¥188.26). At Q1 (31 July 2026) only the H1 forecast was revised (to sales ¥690,500mn / operating profit ¥48,000mn); the full-year forecast was expressly not revised. H1 delivered 47.1% of guided sales and 49.1% of guided operating profit, so **the guide implies H2 operating profit of ¥62,561mn (calculated) — about ¥6.0bn below the H2 implied by the April plan** — because the company assumes a payback from H1 demand pull-forward. The dividend forecast was raised ¥1 to ¥82 (interim ¥41). Source: Q2 FY3/27 tanshin revision table, 30 October 2026; guidance tracker cross-check; Q1 FY3/27 tanshin, 31 July 2026.
+- **Strength — HPP is a genuine AI-chain compounder inside a housing group.** HPP earned ¥42,351mn / ¥40,091mn / ¥50,931mn / ¥61,235mn / ¥59,325mn of segment profit across FY3/22–26 (margins 12.0% / 10.3% / 12.5% / 13.8% / 13.1%) on interlayer film (including HUD film, volumes above 130% YoY in H1 FY3/26 per the company Q&A record), foams, tapes and electronics materials; in H1 FY3/27 the company cites robust semiconductor-related demand in the non-LCD electronics field, smartphone-material shipments for new-model launches, and aircraft (Aerosec) growth. **HPP is 34.5% of FY3/26 external sales, and its ¥59,325mn of segment profit is equivalent to 55.7% of consolidated operating profit of ¥106,477mn** — the group's equity story is written in this segment. Source: company results via PL/segment sheet (tanshin, JPX archive); company-published Q&A summaries, 30 Oct 2025 and 30 Oct 2026 (transcript library).
+- **Weakness — a decade of operating-profit stagnation and recurring 'one-offs'.** Operating profit was ¥96,476mn in FY3/17 and ¥106,477mn in FY3/26 — a 1.1% nine-year CAGR (calculated) — while sales grew 22.8% cumulatively; ROE fell from 11.3% (FY3/17) to 9.1% (FY3/26) and printed 5.5% in FY3/22, when ¥53,051mn of extraordinary losses (including investment-securities valuation losses in the COVID-era portfolio clean-up, as reported) cut owners' net income to ¥37,067mn despite operating profit of ¥88,879mn. FY3/26 extraordinary losses of ¥27,140mn included ¥14,891mn on the Kuji ethanol-from-waste plant (commercialisation shelved after technical demonstration), ¥3,871mn on US diagnostics intangibles and ¥2,420mn on UK businesses; H1 FY3/27 added the ¥7,747mn LB items. **The pattern — a new below-the-line charge most years — is the single largest discount factor in the story**. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin impairment note.
+- **Portfolio: perovskite is the option, LB is the exit, housing M&A is the defence.** With the Q2 print the company added ¥9,500mn of production-technology investment for film-type perovskite solar cells (Sakai 100MW first line: production scheduled to start April 2027, commercial sales already begun in March 2026; 8 installations delivered in H1 FY3/27 across 4 municipalities; 'Triple 20' targets of 20% conversion efficiency, 20-year durability and ¥20/kWh generation cost), decided to withdraw from the stationary lithium-ion battery business (the 'Other' segment's main activity), and continued housing M&A — Noble Home and Mirai Toshi Kaihatsu agreed domestically and a 51% stake in Australia's Ausbuild Group agreed in September 2026. Against the long-term Vision 2030 sales ambition of ¥2tn and a ¥400bn-plus M&A envelope of which only about 10% was spent by FY3/26 (interview pack), **capital deployment pace — not opportunity — is the open question**. Source: Q2 FY3/27 tanshin qualitative section, 30 October 2026; company Q&A summaries (transcript library); interview pack, 16 November 2026.
+
+## 1. Key indicators and financial history
+
+Sekisui Chemical reports under Japanese GAAP with a March year-end. The history in this chapter and in Exhibit 1 covers ten annual years, FY3/17–FY3/26, compiled in the PL/segment sheet for 4204: the main window (FY3/22–FY3/26, plus 20 quarters) and the supplementary history block (FY3/17–FY3/21, annual only), both built from each year's own tanshin in the JPX disclosure archive, with all template checks equal to zero. Every year is as originally reported in its own tanshin; restated comparatives printed in later documents are not spliced in (the one material case, FY3/20, is flagged in Chapter 9). Figures are ¥mn unless stated.
+
+The ten-year shape is a flat-profit compounder. Sales rose from ¥1,065,776mn (FY3/17) to a then-record ¥1,142,713mn (FY3/19), fell through the COVID years to ¥1,056,560mn (FY3/21), then climbed for five consecutive years to ¥1,309,281mn in FY3/26 (+0.9% YoY) — a fourth consecutive record, per the company. **Operating profit, by contrast, peaked early in the window at ¥99,231mn (FY3/18, a 9.0% margin)**, slid to ¥67,300mn in FY3/21 (6.4%) as COVID hit housing, pipes and aircraft materials simultaneously, and has since rebuilt only to ¥107,951mn (FY3/25, 8.3%) and ¥106,477mn (FY3/26, 8.1%) — barely above the FY3/18 level in nominal terms. The margin anatomy explains the stall: the gross margin compressed from 33.2% in FY3/17 to 30.4% in FY3/23 as naphtha-linked raw-material costs outran price pass-through, then recovered to 32.4% in FY3/25–26 as selling-price revisions caught up; the SG&A ratio drifted the other way, from 24.1% of sales in FY3/17 to 24.3% in FY3/26 with no sustained leverage. Ordinary income set a record in FY3/26 at ¥117,215mn (+5.6%), helped by FX gains in non-operating income — the company itself attributes the record to foreign-exchange gains — which is why this report anchors on the operating line.
+
+Below ordinary income, extraordinary items decide the net result in most years. Extraordinary losses were ¥53,051mn in FY3/22 (impairment of ¥51,508mn, dominated by ¥37,419mn of goodwill and ¥12,128mn of intangible assets on the US mobility/aerospace business acquired before COVID, written down as the aircraft-market recovery was pushed out), ¥27,140mn in FY3/26 (Chapter 6 itemises the Kuji biorefinery and diagnostics impairments), and were partly offset in FY3/22 by ¥25,909mn of extraordinary income. Owners' net income therefore traces a different path from operating profit: ¥60,850mn / ¥63,459mn / ¥66,093mn / ¥58,931mn / ¥41,544mn across FY3/17–21, a trough of ¥37,067mn in FY3/22, then ¥69,263mn / ¥77,930mn / ¥81,925mn / ¥75,174mn across FY3/23–26. Basic EPS (no dilutive securities are presented in FY3/22 onward; diluted EPS was presented in the earlier years and is not used here) was ¥126.13 / ¥133.80 / ¥141.74 / ¥128.25 / ¥91.92 / ¥83.17 / ¥159.19 / ¥183.48 / ¥195.93 / ¥182.70. ROE compressed from 11.3% in FY3/17 to 5.5% in FY3/22 and has recovered only to the 9–10% band (10.4% in FY3/24, 10.2% in FY3/25, 9.1% in FY3/26) — the gap the new mid-term plan's 11% FY3/29 ROE target is aimed at (Chapter 7).
+
+The balance sheet never strained. Total assets grew from ¥943,640mn (FY3/17) to ¥1,427,933mn (FY3/26); net assets from ¥570,549mn to ¥881,125mn, of which owners' equity ¥851,190mn (equity ratio 59.6%; book value per share ¥2,108.44). Operating cash flow was ¥108,229mn / ¥82,272mn / ¥85,213mn / ¥92,647mn / ¥75,271mn / ¥105,023mn / ¥71,543mn / ¥106,632mn / ¥119,231mn / ¥78,301mn across the ten years — the FY3/26 dip reflects working-capital build and the year's investment pace (cash capex on the sheet's CF definition jumped to ¥100,781mn from ¥58,104mn, including perovskite-related spend), not margin failure. Interest-bearing debt on the sheet's definition (borrowings and bonds as presented) was ¥101,362mn at March 2026 against cash and equivalents of ¥92,444mn — effectively ungeared before the H1 FY3/27 borrowing described in Chapter 2. Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header and notes, 28 April 2026.
+
+**Figure: Sekisui Chemical Co., Ltd. — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 1065776 |
+
+| FY3/18 | 1107429 |
+
+| FY3/19 | 1142713 |
+
+| FY3/20 | 1129254 |
+
+| FY3/21 | 1056560 |
+
+| FY3/22 | 1157945 |
+
+| FY3/23 | 1242521 |
+
+| FY3/24 | 1256538 |
+
+| FY3/25 | 1297754 |
+
+| FY3/26 | 1309281 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sekisui Chemical Co., Ltd. — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 96476 |
+
+| FY3/18 | 99231 |
+
+| FY3/19 | 95686 |
+
+| FY3/20 | 87768 |
+
+| FY3/21 | 67300 |
+
+| FY3/22 | 88879 |
+
+| FY3/23 | 91666 |
+
+| FY3/24 | 94399 |
+
+| FY3/25 | 107951 |
+
+| FY3/26 | 106477 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sekisui Chemical Co., Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 9.1 |
+
+| FY3/18 | 9 |
+
+| FY3/19 | 8.4 |
+
+| FY3/20 | 7.8 |
+
+| FY3/21 | 6.4 |
+
+| FY3/22 | 7.7 |
+
+| FY3/23 | 7.4 |
+
+| FY3/24 | 7.5 |
+
+| FY3/25 | 8.3 |
+
+| FY3/26 | 8.1 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sekisui Chemical Co., Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q2 FY3/27 results and revised guidance
+
+Sekisui Chemical reported Q2 FY3/27 (H1, 1 April–30 September 2026) results on 30 October 2026, raised full-year guidance, raised the dividend forecast, added ¥9,500mn of perovskite investment and decided to exit the stationary lithium-ion battery business. President Ikusuke Shimizu — in the role since March 2026, succeeding Keita Kato — presented the briefing the same day; the company publishes an edited Q&A summary (in the programme's transcript library) but no verbatim presentation record, and this chapter cites only what that record and the tanshin contain. Segment detail is in Chapter 5; the segment × region matrix for the half is in Chapter 5 as well.
+
+## H1 FY3/27 results (cumulative, as reported, J-GAAP)
+
+Sales were ¥701,706mn (+11.4% YoY), gross profit ¥228,069mn (a 32.5% gross margin, +0.3pt), operating profit ¥60,439mn (+33.0%; margin 8.6%), ordinary income ¥61,418mn (+25.5%), profit before tax ¥52,311mn, interim net income ¥35,645mn and net income attributable to owners ¥34,791mn (+9.7%); basic EPS was ¥86.16. Sales, operating profit and ordinary income were interim records, per the company, which attributes the half to three things: it worked through Middle-East-driven raw-material and component inflation and procurement constraints; it captured demand pull-forward and distributor stockpiling triggered by supply anxiety; and it took growth-market demand, notably electronics. The quarterly split shows acceleration into Q2 rather than a single strong quarter: Q1 FY3/27 standalone printed sales of ¥332,970mn (+9.1%) and operating profit of ¥25,479mn (+20.1%), so **Q2 standalone (derived as H1 minus Q1, both as reported) contributed sales of ¥368,736mn (+13.6%) and operating profit of ¥34,960mn (+44.2%)**.
+
+By segment (external sales / segment profit, J-GAAP segment note): Housing ¥278,724mn / ¥16,791mn (+7.9% / +3.0% YoY — unit sales fell on a weak new-housing market, but higher unit prices on high-price products such as apartment buildings, renovation growth and residential services carried the segment); UIEP ¥115,333mn / ¥13,157mn (+10.3% / +63.2% — spread maintenance plus stockpiling-driven shipments in pipe systems, fire-resistant materials growth and European F FU synthetic-wood sleeper adoption, partly offset by delays in some overseas infrastructure-renewal projects); HPP ¥261,252mn / ¥38,313mn (+18.1% / +35.1% — all three fields grew: electronics on LCD and, above all, non-LCD semiconductor-related demand, mobility on HUD interlayer film and aircraft demand including air mobility, and industrial/social-infrastructure on labour-saving and environmental products, price revisions and some Middle-East pull-forward); Medical ¥45,229mn / ¥4,936mn (+2.2% / +9.5% — domestic and China diagnostics markets were soft, overseas pull-forward demand and profitability measures carried the segment, while part of the pharmaceutical (medical) field was delayed). The non-reportable Other segment (film-type lithium-ion batteries and sundries) lost ¥6,800mn on sales of ¥1,166mn; eliminations and corporate costs were −¥5,960mn combined, reconciling to consolidated operating profit of ¥60,439mn. Note that the company's qualitative text quotes segment sales including intersegment transfers (Housing ¥278,757mn, UIEP ¥123,231mn, HPP ¥264,199mn, Medical ¥45,233mn); the external-sales basis above is the segment note's and is used throughout this report (Chapter 9 flags the difference).
+
+Below the operating line, H1 carried the LB charges: extraordinary losses of ¥9,718mn included specific-product exchange costs of ¥5,143mn (provision for exchanging a previously sold stationary storage battery found to be defective) and business-structure improvement costs of ¥2,604mn (mainly an inventory write-down on withdrawal from the stationary battery business), partly offset by ¥612mn of extraordinary income — the reason owners' net income grew only 9.7% on a 33.0% operating-profit increase, and the context for unchanged full-year net-income guidance (Chapter 2b). The balance sheet at 30 September 2026: total assets ¥1,505,547mn, net assets ¥895,021mn, owners' equity ¥864,883mn, equity ratio 57.4%. H1 operating cash flow was ¥35,126mn (prior-year H1: ¥49,833mn), absorbed by a ¥34,430mn inventory build; investing outflow was ¥58,465mn (PP&E purchases ¥53,204mn, including perovskite and capacity spend); financing inflow was ¥33,171mn as the company raised ¥46,012mn of long-term borrowings and ¥10,000mn of commercial paper while repaying bonds — gross funding raised ahead of the investment programme rather than from cash strain, with cash and equivalents ending at ¥103,760mn. The share count moved materially: issued shares fell from 430,507,285 at March 2026 to 405,507,285 (a 25,000,000-share cancellation) and treasury shares from 26,801,299 to 1,610,938, following the FY3/26 buyback programme (¥36,751mn of repurchases in FY3/26 per the FY3/26 tanshin equity note); the H1 weighted average was 403,794,681 shares. The interim dividend was set at ¥41. Source: Q2 FY3/27 tanshin, 30 October 2026; Q1 FY3/27 tanshin, 31 July 2026; company Q&A summary, 30 October 2026 (transcript library).
+
+## Guidance: raised on 30 October 2026 — sales ¥1,491,000mn, operating profit ¥123,000mn (company guidance)
+
+Full-year FY3/27 guidance, as revised in the Q2 release of 30 October 2026, is sales ¥1,491,000mn (+13.9% YoY), operating profit ¥123,000mn (+15.5%), ordinary income ¥122,000mn (+4.1%), net income attributable to owners ¥76,000mn (+1.1%) and basic EPS of ¥188.17 — company guidance (会社計画), J-GAAP, not a J-Core Fundamental Research forecast. The full revision chain, with dates, is: initial guidance in the FY3/26 tanshin of 28 April 2026 — sales ¥1,408,400mn, operating profit ¥115,000mn, ordinary income ¥114,000mn, owners' net income ¥76,000mn, EPS ¥188.26, dividend ¥81; Q1, 31 July 2026 — the H1 forecast only was revised up (to sales ¥690,500mn and operating profit ¥48,000mn, from ¥676,800mn and ¥46,400mn) and the full-year forecast was expressly left unchanged; Q2, 30 October 2026 — full-year sales raised by ¥82,600mn (+5.9% vs initial) and operating profit by ¥8,000mn (+7.0%), ordinary income by ¥8,000mn, owners' net income left at ¥76,000mn, EPS marginally lower at ¥188.17 on the changed share-count basis, and the dividend forecast raised to ¥82 (interim ¥41 decided, year-end ¥41). The company's stated reasoning is that, despite an opaque market and an assumed payback from the interim demand pull-forward, spread maintenance and high-value-added product expansion should lift profitability above the initial forecast. The initial plan's raw-material assumption was about ¥14,000mn of cost increase to be covered by price pass-through, calculated at a naphtha price of roughly ¥120,000/kl (company Q&A record, 28 April 2026).
+
+The arithmetic the guide embeds deserves emphasis, because it is the crux of the FY3/27 debate. H1 actuals are 47.1% of guided sales and 49.1% of guided operating profit, implying H2 sales of ¥789,294mn and H2 operating profit of ¥62,561mn (calculated; the company's own H2 plan figures in the briefing materials are ¥789.3bn and ¥62.6bn). Against the April plan's implied H2 operating profit of ¥68,600mn (initial full-year ¥115,000mn less initial H1 guidance ¥46,400mn), the new H2 plan is about ¥6,000mn lower — **the entire ¥8,000mn full-year raise is H1 pull-forward capture, and management is explicitly guiding H2 profit down year-on-year in plan terms to absorb the payback**. Segment-level guidance is not disclosed in the tanshin and is not estimated here (未取得); nor does the tanshin state FX assumptions for the guide. The open questions the print leaves — the size of the pull-forward by segment, whether HPP's semiconductor demand is volume or stockpiling, what further below-the-line items H2 carries after the LB charges, and perovskite unit economics — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Exhibit 3 sets out the H1 segment actuals against the consolidated guidance. Source: Q2 FY3/27 tanshin (section 3 and revision table), 30 October 2026; FY3/26 tanshin (section 3), 28 April 2026; Q1 FY3/27 tanshin, 31 July 2026; guidance tracker cross-check, 17 November 2026.
+
+**Exhibit 3. H1 FY3/27 segment results vs prior-year half, and FY3/27 company guidance (consolidated)**
+
+| ¥mn | H1 FY3/27 sales | H1 FY3/27 profit | H1 FY3/26 sales | H1 FY3/26 profit |
+|---|---|---|---|---|
+| Housing | 278724 | 16791 | 258369 | 16304 |
+| UIEP (Environment & Lifeline) | 115333 | 13157 | 104533 | 8059 |
+| High Performance Plastics | 261252 | 38313 | 221151 | 28351 |
+| Medical | 45229 | 4936 | 44257 | 4507 |
+| Other (non-reportable) | 1166 | -6800 | 1485 | -6241 |
+| Adjustment / corporate | — | -5960 | — | -5533 |
+| Consolidated (H1 actual) | 701706 | 60439 | 629797 | 45447 |
+| Supplementary: FY3/27E sales / operating profit (co. guidance) | 1491000 | 123000 | — | — |
+| Supplementary: H1 progress vs guidance (%) | 47.1 | 49.1 | — | — |
+| Supplementary: implied H2 (guidance − H1, calculated) | 789294 | 62561 | — | — |
+
+*Source: H1 results: Q2 FY3/27 tanshin segment note, 30 Oct 2026 (external sales basis; prior-year half as reported in the same document). FY3/27E: company guidance as revised in the Q2 FY3/27 tanshin, 30 Oct 2026 — segment-level guidance is not disclosed in the tanshin (未取得). H1 progress and implied H2 are calculated from the tanshin figures.*
+
+## 3. Business description
+
+Sekisui Chemical organises itself as divisional companies (カンパニー) under a 'three-company' structure plus Medical: the Housing Company, the Environment & Lifeline Company — presented in the segment note as Urban Infrastructure & Environmental Products (UIEP) — the High Performance Plastics Company (HPP), and the Medical business, plus a non-reportable 'Other' (film-type lithium-ion batteries and products not in the reportable segments). The segment definitions below are the company's own (FY3/26 tanshin, segment note): Housing manufactures, constructs and sells unit housing and runs renovation and residential businesses; UIEP manufactures, sells and installs PVC and polyethylene pipe and fittings, pipe-rehabilitation materials and methods, FRP composite pipe, chlorinated PVC (CPVC) compounds, building materials and synthetic wood; HPP manufactures and sells interlayer film for laminated glass, foamed polyolefin, tapes, liquid-crystal fine particles and photosensitive materials; Medical manufactures and sells clinical diagnostics reagents and pharmaceutical APIs and intermediates. Segment profit is operating-profit basis. In FY3/26 (external sales basis) the mix was Housing 40.9%, HPP 34.5%, UIEP 17.2%, Medical 7.2% and Other 0.2%; of segment profit before Other and adjustments, HPP contributed 45.3%, Housing 28.4%, UIEP 17.8% and Medical 8.5% (calculated).
+
+## Housing: unit housing defended by price, renovation and residential services
+
+Housing is built on the Sekisui Heim unit-housing system — factory-produced steel or wooden units delivered and assembled on site, sold as detached houses and apartment buildings — extended into renovation (Sekisui FamiS), rental management and buy-and-resell residential services, and overseas housing (including, from FY3/27, Australia's Ausbuild Group). The structural problem is stated plainly in the company's own H1 text: the new-housing market is deteriorating and unit sales fell; H1 FY3/27 orders were 98% YoY in units but 102% in value as mix shifted to high-price products. The financial record matches a managed-decline-with-pricing model: external sales of ¥515,038mn / ¥537,067mn / ¥529,416mn / ¥523,912mn / ¥535,944mn across FY3/22–26 with segment profit of ¥35,318mn / ¥32,831mn / ¥27,729mn / ¥31,498mn / ¥37,150mn — margins of 6.9% / 6.1% / 5.2% / 6.0% / 6.9%, recovering in FY3/26 on price and services mix rather than volume. The growth levers the company names are renovation (exterior-wall coating and LDK kitchen refurbishment grew in H1 FY3/27, plus air-conditioner replacement demand), residential services (rental-management units and resale transactions both increasing), the capital-area expansion ambition in the interview pack ('2030首都圏1.5x'), and M&A — Noble Home (North-Kanto wooden housing) and Mirai Toshi Kaihatsu agreed in H1 FY3/27, and Ausbuild (Queensland land development and housing; 51% stake, board decision 10 September 2026). Order intake and backlog in monetary terms are not disclosed in the tanshin (未取得) — only the YoY indices above — which limits visibility on the segment that is still 41% of group sales. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin qualitative section; interview pack, 16 November 2026.
+
+## UIEP (Environment & Lifeline): pipes, spreads and infrastructure renewal
+
+UIEP sells the group's original pipe franchise — PVC and polyethylene pipe and fittings for water, sewerage and housing — and has broadened into pipe rehabilitation (SPR method and related materials for ageing sewer networks), FRP composite pipe, CPVC compounds (sold substantially to overseas pipe makers), fire-resistant and non-combustible materials, and FFU synthetic wood (railway sleepers in Europe are a cited growth niche). Demand is Japanese public and housing infrastructure plus replacement cycles; pricing power over naphtha-linked resin costs — the 'spread' — is the segment's core economic variable, and the tanshin language returns to it every period. The record: external sales of ¥198,840mn / ¥221,305mn / ¥221,949mn / ¥227,401mn / ¥225,061mn across FY3/22–26 with segment profit of ¥14,061mn / ¥21,192mn / ¥22,129mn / ¥22,958mn / ¥23,247mn — margins rising from 7.1% to 10.3% as price revisions stuck. H1 FY3/27 was the segment's best half on record per the company (profit +63.2% YoY), but its composition demands care: pipe-systems shipments rose on distributor stockpiling amid supply anxiety (a pull-forward the company expects to reverse), housing/infrastructure composites faced weak domestic housing and non-housing markets with growth carried by priority products and European sleeper adoption, and infrastructure renewal captured demand from the national priority survey of sewer pipelines while some overseas projects slipped. The segment is also where the Q3 FY3/23 basis change landed (Chapter 5): fire-resistant materials, CPVC-related and Crosswave moved into UIEP from HPP, and Sekisui Kogyo / SEKISUI KYDEX moved the other way. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin qualitative section and segment note.
+
+## HPP (High Performance Plastics): the profit engine — film, foam, tape and electronics materials
+
+HPP is organised in three fields. Electronics: fine particles for LCD spacers and conductive particles, photosensitive materials, and — the current growth driver — non-LCD products for semiconductors and smartphones, where the company cites robust AI-related semiconductor demand (company Q&A record: shipments of smartphone materials for new-model launches were large in Q2 FY3/27, and its SELFA-related products benefit from AI semiconductor demand). Mobility: interlayer film for automotive laminated glass — including the fast-growing HUD (head-up display) film niche, where volumes exceeded 130% YoY in H1 FY3/26 — architectural film, and aircraft interior materials through the US aerospace business (Aerosec), whose goodwill was impaired in FY3/22 (Chapter 6) and which is now cited as a growth contributor again, including air-mobility applications. Industrial (renamed the Social Infrastructure field from October 2026): foamed polyolefin, tapes, and labour-saving and environmental products. External sales were ¥352,365mn / ¥390,812mn / ¥407,894mn / ¥442,366mn / ¥451,722mn across FY3/22–26 with segment profit of ¥42,351mn / ¥40,091mn / ¥50,931mn / ¥61,235mn / ¥59,325mn — the FY3/23 dip is the China/consumer-electronics downturn, the FY3/25 step-up is electronics recovery plus price revisions, and FY3/26's slight profit decline on higher sales is the base against which H1 FY3/27's +35.1% profit jump should be read. HPP is also the group's geographic engine: of its FY3/26 external sales, only ¥116,540mn was in Japan — North America contributed ¥118,076mn, Europe ¥81,050mn, China ¥76,026mn and Asia ¥52,403mn (segment × region matrix, Chapter 5). Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin segment note; company Q&A summaries, 30 Oct 2025 / 30 Oct 2026 (transcript library).
+
+## Medical, 'Other' (LB exit), and the technology frame: resin processing into perovskite
+
+Medical combines clinical diagnostics (reagents, centred on Sekisui Medical, with US and China exposure) and the pharmaceutical business (APIs and intermediates, including enzyme and pharma-development activities in the UK). External sales were ¥88,516mn / ¥89,680mn / ¥92,620mn / ¥99,175mn / ¥93,721mn across FY3/22–26 with segment profit of ¥11,180mn / ¥12,511mn / ¥10,952mn / ¥12,788mn / ¥11,130mn (margins 11.9–14.0%) — a steady, mid-teens-return business whose FY3/26 decline (sales −5.5%, profit −13.0%) reflects soft domestic and China diagnostics markets; it was split out of HPP as a fourth reportable segment only in FY3/20, and FY3/17–19 figures on the Medical basis do not exist (Chapter 5). Medical also carries the group's recent impairment tail: ¥3,871mn on US diagnostics intangibles and ¥1,023mn on a UK pharma-development business in FY3/26 (tanshin note).
+
+'Other' is small in sales (¥2,831mn in FY3/26) but large in losses (−¥12,710mn in FY3/26; −¥6,800mn in H1 FY3/27) because it houses the film-type lithium-ion (stationary storage) battery business and unallocated new-business costs. The H1 FY3/27 decisions close that chapter: a defect in previously sold stationary batteries produced the ¥5,143mn exchange-cost provision, and the company decided to withdraw from the business, booking ¥2,604mn of structure-improvement costs (mainly inventory write-down). The replacement option in the same 'Other'-adjacent space is film-type perovskite solar cells — the technology frame that connects the group's resin/film processing competence to energy: Sekisui acquired Sharp's Sakai plant (completed October 2025), started commercial sales in March 2026, is ramping a 100MW first line for production start in April 2027, added a ¥9,500mn production-technology investment in October 2026, and targets 'Triple 20' performance (20% conversion efficiency, 20-year durability, ¥20/kWh); a second 100MW line (¥43,000mn per the FY3/26 Q&A record) is to be decided on demand trends, and the interview pack frames total programme spend at roughly ¥90bn — the two figures have different scopes and are both flagged in Chapter 9. Production and capacity data beyond the perovskite line (sites, utilisation, unit volumes) are not disclosed in the tanshin and are not quantified in this report. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin notes ※1/※2; company Q&A summaries (transcript library); interview pack, 16 November 2026.
+
+## 4. Market and value chain
+
+Sekisui sits at the processing layer of the resin value chain: it buys petrochemical feedstocks (naphtha-linked PVC resin, polyolefin and speciality chemicals) and converts them, through formulation, film, foam and moulding technology, into specified components and systems that are designed into houses, infrastructure, vehicles, displays and medical supply chains. The economic consequences follow from that position. ==First, the spread is the P&L: raw-material inflation arrives with a lag and must be recovered through selling-price revisions, which the company has repeatedly demonstrated it can push through in pipes and films (the FY3/23 gross-margin trough of 30.4% and the recovery to 32.4% by FY3/25 is the quantified record of one full cycle)==, but the lag is real — the Q1 FY3/27 Q&A record notes the H1 price/raw-material balance deteriorating by about ¥3,000mn versus the initial plan precisely because purchase-price increases reach cost of sales with a delay. Second, specification is the moat: an interlayer film qualified into a carmaker's windshield programme, a spacer particle qualified into a display maker's process, or a pipe system specified into public-works standards is sticky for the life of the platform, and competition is on performance (HUD optical quality, heat and sound insulation, fire resistance, rehabilitation speed) more than on resin price. Domestic competition in pipes is against other resin-pipe and materials makers on specification and distribution; in housing, against the other factory-housing and major house builders on brand, energy performance and services; in films and electronics materials, against global speciality-film and chemical makers, with the contested frontier in China, where local materials makers climb the specification ladder.
+
+Demand exposure divides cleanly by segment. Housing and UIEP are Japanese-cycle businesses — new housing starts, public infrastructure budgets and the replacement cycle for ageing water and sewer networks (the national priority sewer survey is a current, policy-driven demand source the company cites by name). HPP is a global-cycle business tied to vehicle production, display and semiconductor capex and aircraft build rates — which is why the group's growth and its volatility both now come from HPP. Medical is a healthcare-volume business with regulatory and reimbursement exposure in Japan, the US and China. No company-disclosed market-size or share figure for these categories is carried in the sources used here, and none is substituted; the verifiable demand evidence is the company's own segment disclosure and Q&A colour. The two sensitivities that follow for the equity: first, naphtha — the FY3/27 plan assumes roughly ¥14,000mn of raw-material cost increase at a naphtha price near ¥120,000/kl, to be covered by price pass-through (company Q&A record), so a faster crude move tests the spread mechanism again in H2; second, concentration of the current upswing — H1 FY3/27 growth leaned on pull-forward and stockpiling in exactly the product groups (tapes, foams, pipe materials) where raw-material content is high, so the H2 payback the company guides to is a demand-visibility question, not a margin question. Sources: Q2 FY3/27 tanshin; company Q&A summaries, 28 Apr 2026 and 31 Jul 2026 (transcript library); PL/segment sheet (tanshin, JPX archive).
+
+**Figure: Sekisui Chemical in the resin-processing value chain**
+
+**Raw Materials & Energy**
+
+- Air & electricity (gas feedstock)
+- Natural gas, naphtha
+- Iron ore & coking coal, copper concentrate
+- Helium sources, high-purity tungsten powder
+
+**Sekisui Chemical Co., Ltd. (4204)**
+
+- Housing — Sekisui Heim unit housing, renovation & residential services (40.9% of FY3/26 sales)
+- UIEP — PVC/PE pipe, pipe rehabilitation, CPVC compounds (17.2%)
+- HPP — interlayer film, foams, tapes, electronics materials (34.5% of sales; 55.7% of OP equivalent)
+- Medical — diagnostics reagents, pharmaceutical APIs (7.2%)
+
+**Equipment & Engineering**
+
+- ASU / HyCO plant EPC
+- Linde Engineering
+- Air Liquide, Air Products, Nippon Sanso equipment divisions
+- Chinese ASU makers — Hangyang
+
+**Supply Forms & Electronic Materials**
+
+- Onsite / pipeline supply (15–20 yr take-or-pay)
+- Bulk (merchant) & packaged cylinders
+- Specialty gases — SK Specialty, Kanto Denka, Central Glass
+- Electronic materials — JSR, TOK, Resonac, Fujifilm
+
+**Distribution & Integration**
+
+- Filling & tanker / cylinder logistics
+- Iwatani (distributor + machinery)
+- Air Water (domestic density + medical)
+- Dealer & agent networks
+
+**End Users, Service & Recycling**
+
+- Steel & chemical complexes
+- Semiconductor fabs — Samsung
+- Hospitals, food & beverage (CO2)
+- ASU operation contracts, scrap & copper recycling — JX Metals
+
+*Source: FIELDNOTES sector report §4 (materials & industrial gases value chain); company segments from §3 of this report.*
+
+## 5. Segments and regions
+
+Sekisui's tanshin disclosure is two distinct views, kept separate and labelled throughout this chapter. The divisional-company view: four reportable segments (Housing / UIEP / HPP / Medical) plus non-reportable Other, with external sales and operating-profit-basis segment profit. The regional view: sales only (regional profit is not disclosed on any basis — 未取得), and since FY3/22 it is published as a segment × region matrix in the segment note of every tanshin, annual and quarterly — a distinctive disclosure strength that lets the reader see, for example, that Housing is entirely domestic while HPP is majority-overseas. For FY3/17–FY3/21 the matrix does not exist: the era's regional disclosure is the related-information table of sales by customer location (Japan / United States / Europe / Asia / Other, with China inside Asia), entered in the sheet's history block on that basis and never spliced with the matrix basis.
+
+**Figure: Sekisui Chemical Co., Ltd. — segment revenue, FY3/26**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Housing — external sales | 535944 |
+
+| UIEP — external sales | 225061 |
+
+| High Performance Plastics — external sales | 451722 |
+
+| Medical — external sales | 93721 |
+
+| Other (non-reportable) — external sales | 2831 |
+
+| Japan — sales (matrix) | 891457 |
+
+| North America — sales (matrix) | 143737 |
+
+| Europe — sales (matrix) | 98633 |
+
+| China — sales (matrix) | 90732 |
+
+| Asia — sales (matrix) | 73926 |
+
+| Other regions — sales (matrix) | 10792 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Sekisui Chemical Co., Ltd. — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Sekisui Chemical Co., Ltd. — segment revenue mix, FY3/26**
+
+**Japan**
+
+- ¥891,457mn
+- 34.0% of revenue
+
+**Housing**
+
+- ¥535,944mn
+- 20.5% of revenue
+
+**High Performance Plastics**
+
+- ¥451,722mn
+- 17.3% of revenue
+
+**UIEP**
+
+- ¥225,061mn
+- 8.6% of revenue
+
+**North America**
+
+- ¥143,737mn
+- 5.5% of revenue
+
+**Europe**
+
+- ¥98,633mn
+- 3.8% of revenue
+
+**Medical**
+
+- ¥93,721mn
+- 3.6% of revenue
+
+**China**
+
+- ¥90,732mn
+- 3.5% of revenue
+
+**Asia**
+
+- ¥73,926mn
+- 2.8% of revenue
+
+**Other regions**
+
+- ¥10,792mn
+- 0.4% of revenue
+
+**Other (non-reportable)**
+
+- ¥2,831mn
+- 0.1% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## Divisional segments: HPP carries profit; Housing carries sales
+
+Exhibit 2 gives the five-year main-window history on the basis disclosed in each year's own tanshin. Three facts organise it. First, **the profit/sales inversion: in FY3/26 Housing was 40.9% of external sales but earned ¥37,150mn of segment profit (6.9% margin), while HPP was 34.5% of sales and earned ¥59,325mn (13.1%)** — and HPP's profit exceeded Housing's in every year of the window, by ¥22,175mn in FY3/26. The group's incremental profit therefore depends on HPP's electronics and mobility cycle, while its revenue stability depends on Housing's domestic base. Second, UIEP is the quiet margin story: segment profit rose from ¥14,061mn (FY3/22, 7.1% margin) to ¥23,247mn (FY3/26, 10.3%) on spread recovery — but the basis changed mid-window (from Q3 FY3/23, fire-resistant materials, CPVC-related and Crosswave moved from HPP to UIEP, and Sekisui Kogyo / SEKISUI KYDEX moved from UIEP to HPP; FY3/22 and FY3/23 Q1/Q2 are on the old basis as originally disclosed, FY3/23 Q3-cumulative and annual on the new basis, and the derived Q3 FY3/23 standalone quarter therefore mixes bases for the two segments — sheet register S3; the figures are presented as disclosed, never restated or spliced). Third, the drag is below the reportable line: Other lost ¥10,316mn / ¥10,894mn / ¥10,821mn / ¥11,589mn / ¥12,710mn across FY3/22–26 and corporate/elimination adjustments took a further ¥3,715mn / ¥4,065mn / ¥6,521mn / ¥8,939mn / ¥11,665mn — a combined ¥24,375mn leakage in FY3/26 between the reportable segments' ¥130,854mn and consolidated operating profit of ¥106,477mn. The LB exit removes part of the Other drag prospectively; the rising corporate-cost line is the part to watch.
+
+The history block extends the segment view to FY3/17 on the era's own bases (three reportable segments plus Other in FY3/17–19; Medical split out from FY3/20, with FY3/19 not restated): Housing sales ¥484,668mn / ¥497,320mn / ¥506,614mn / ¥512,836mn / ¥485,124mn and profit ¥37,549mn / ¥37,935mn / ¥39,002mn / ¥37,792mn / ¥30,546mn; UIEP sales ¥227,180mn / ¥225,753mn / ¥226,112mn / ¥223,707mn / ¥192,069mn and profit ¥12,827mn / ¥14,791mn / ¥15,007mn / ¥15,480mn / ¥11,251mn; HPP sales ¥351,234mn / ¥378,676mn / ¥404,134mn / ¥315,294mn / ¥303,559mn and profit ¥54,537mn / ¥57,821mn / ¥54,478mn / ¥37,169mn / ¥28,935mn (the FY3/20–21 HPP figures include Medical, which was not yet separated, and the FY3/20 sales drop reflects the reclassification as well as COVID — the two effects are not separable from the tanshin and are not estimated); Medical, from FY3/20 only, sales ¥72,587mn / ¥72,341mn and profit ¥9,204mn / ¥7,010mn. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note and history block registers S3/S10–S11.
+
+**Exhibit 2. Divisional segments and regions — external sales and segment profit (operating-profit basis), FY3/22–FY3/26**
+
+| ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|
+| Housing — external sales | 515038 | 537067 | 529416 | 523912 | 535944 |
+| Housing — segment profit | 35318 | 32831 | 27729 | 31498 | 37150 |
+| UIEP — external sales | 198840 | 221305 | 221949 | 227401 | 225061 |
+| UIEP — segment profit | 14061 | 21192 | 22129 | 22958 | 23247 |
+| High Performance Plastics — external sales | 352365 | 390812 | 407894 | 442366 | 451722 |
+| High Performance Plastics — segment profit | 42351 | 40091 | 50931 | 61235 | 59325 |
+| Medical — external sales | 88516 | 89680 | 92620 | 99175 | 93721 |
+| Medical — segment profit | 11180 | 12511 | 10952 | 12788 | 11130 |
+| Other (non-reportable) — external sales | 3183 | 3654 | 4657 | 4897 | 2831 |
+| Other (non-reportable) — segment profit | -10316 | -10894 | -10821 | -11589 | -12710 |
+| Adjustment / corporate — profit | -3715 | -4065 | -6521 | -8939 | -11665 |
+| Consolidated operating profit | 88879 | 91666 | 94399 | 107951 | 106477 |
+| Japan — sales (matrix) | 830607 | 867456 | 869781 | 874625 | 891457 |
+| North America — sales (matrix) | 95377 | 123601 | 125478 | 141299 | 143737 |
+| Europe — sales (matrix) | 85148 | 86026 | 90332 | 103754 | 98633 |
+| China — sales (matrix) | 76112 | 82356 | 89355 | 89983 | 90732 |
+| Asia — sales (matrix) | 56892 | 70798 | 71282 | 78245 | 73926 |
+| Other regions — sales (matrix) | 13807 | 12282 | 10308 | 9845 | 10792 |
+| Consolidated sales | 1157945 | 1242521 | 1256538 | 1297754 | 1309281 |
+
+*Source: Company results via PL/segment sheet (tanshin segment note, JPX archive), as reported in each year's own tanshin. Segment basis change from Q3 FY3/23 (fire-resistant materials / CPVC-related / Crosswave: HPP → UIEP; Sekisui Kogyo / SEKISUI KYDEX: UIEP → HPP) — FY3/22 is on the old basis, FY3/24 onward on the new basis; see Basis of preparation. Regional sales are the segment × region matrix totals (six regions as disclosed); regional profit is not disclosed. Segment sales are external sales.*
+
+## Regions and the segment × region matrix: Japan is two-thirds of sales; HPP is the overseas business
+
+Regional sales on the matrix basis (six regions as disclosed) were as follows. FY3/22: Japan ¥830,607mn (71.7% of sales), North America ¥95,377mn, Europe ¥85,148mn, China ¥76,112mn, Asia ¥56,892mn, Other ¥13,807mn — an overseas ratio of 28.3%. FY3/23: Japan ¥867,456mn, North America ¥123,601mn, Europe ¥86,026mn, China ¥82,356mn, Asia ¥70,798mn, Other ¥12,282mn. FY3/24: Japan ¥869,781mn, North America ¥125,478mn, Europe ¥90,332mn, China ¥89,355mn, Asia ¥71,282mn, Other ¥10,308mn. FY3/25: Japan ¥874,625mn, North America ¥141,299mn, Europe ¥103,754mn, China ¥89,983mn, Asia ¥78,245mn, Other ¥9,845mn. FY3/26: Japan ¥891,457mn (68.1%), North America ¥143,737mn (11.0%), Europe ¥98,633mn (7.5%), China ¥90,732mn (6.9%), Asia ¥73,926mn (5.6%), Other ¥10,792mn (0.8%) — overseas ratio 31.9%. The drift is steady internationalisation of the mix, driven by HPP and Medical, against a flat domestic base.
+
+The FY3/26 matrix itself (external sales, ¥mn; segment note) shows how the two views interlock. Housing: Japan 534,583, Asia 1,361, all other regions nil — a purely domestic segment (its Japan figure includes ¥46,538mn of revenue not arising from contracts with customers, principally lease-type income, per the note). UIEP: Japan 189,090, North America 3,468, Europe 8,614, China 3,290, Asia 17,718, Other 2,879. HPP: Japan 116,540, North America 118,076, Europe 81,050, China 76,026, Asia 52,403, Other 7,625 — the only segment where overseas sales (¥335,180mn, calculated) exceed domestic. Medical: Japan 48,767, North America 22,192, Europe 8,969, China 11,122, Asia 2,381, Other 287. Other: Japan 2,476, China 292, Asia 61. In H1 FY3/27 the matrix shows the same structure at higher velocity: Japan ¥464,540mn (66.2% of H1 sales), North America ¥87,098mn, Europe ¥52,999mn, China ¥47,964mn, Asia ¥42,668mn, Other ¥6,435mn, with HPP's North America sales of ¥74,733mn in the half already at 63% of its FY3/26 full-year regional figure (calculated). On the era basis for FY3/17–21 (related-information table; China inside Asia): Japan ¥813,930mn / ¥832,441mn / ¥852,543mn / ¥854,600mn / ¥790,537mn; United States ¥73,872mn / ¥77,535mn / ¥82,898mn / ¥81,312mn / ¥76,359mn; Europe ¥55,796mn / ¥60,582mn / ¥63,044mn / ¥57,508mn / ¥57,673mn; Asia ¥110,430mn / ¥124,393mn / ¥129,873mn / ¥121,161mn / ¥119,359mn; Other ¥11,747mn / ¥12,475mn / ¥14,352mn / ¥14,672mn / ¥12,630mn. Regional profit is not disclosed in any period (未取得). Source: company results via PL/segment sheet (tanshin segment note matrix and history block, JPX archive); FY3/26 tanshin segment note c.; Q2 FY3/27 tanshin segment note.
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: sales ¥1,157,945mn / ¥1,242,521mn / ¥1,256,538mn / ¥1,297,754mn / ¥1,309,281mn for FY3/22–FY3/26; cost of sales ¥801,994mn / ¥865,281mn / ¥864,343mn / ¥877,147mn / ¥885,102mn; gross profit ¥355,951mn / ¥377,240mn / ¥392,195mn / ¥420,607mn / ¥424,179mn (margins 30.7% / 30.4% / 31.2% / 32.4% / 32.4%); SG&A ¥267,072mn / ¥285,574mn / ¥297,796mn / ¥312,656mn / ¥317,702mn (no separate R&D line is presented — R&D is inside SG&A and cost of sales and is not disclosed as a tanshin line; 未取得); operating profit ¥88,879mn / ¥91,666mn / ¥94,399mn / ¥107,951mn / ¥106,477mn. Non-operating income was ¥13,999mn / ¥16,915mn / ¥16,733mn / ¥10,683mn / ¥16,525mn and non-operating expenses ¥5,877mn / ¥4,340mn / ¥5,211mn / ¥7,676mn / ¥5,787mn, giving ordinary income of ¥97,001mn / ¥104,241mn / ¥105,921mn / ¥110,958mn / ¥117,215mn. Extraordinary income was ¥25,909mn / ¥1,189mn / ¥14,242mn / ¥14,567mn / ¥14,948mn and extraordinary losses ¥53,051mn / ¥5,936mn / ¥8,684mn / ¥5,552mn / ¥27,140mn; profit before tax ¥69,859mn / ¥99,494mn / ¥111,479mn / ¥119,973mn / ¥105,023mn; income taxes (current plus deferred) ¥31,099mn / ¥28,727mn / ¥32,425mn / ¥35,867mn / ¥27,672mn; net income (total) ¥38,760mn / ¥70,767mn / ¥79,054mn / ¥84,106mn / ¥77,351mn; non-controlling interests ¥1,693mn / ¥1,504mn / ¥1,124mn / ¥2,181mn / ¥2,177mn; owners' net income ¥37,067mn / ¥69,263mn / ¥77,930mn / ¥81,925mn / ¥75,174mn. Depreciation and amortisation was ¥45,912mn / ¥48,995mn / ¥51,195mn / ¥52,361mn / ¥56,872mn, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥134,791mn / ¥140,661mn / ¥145,594mn / ¥160,312mn / ¥163,349mn.
+
+Earnings quality — three items must be normalised before any trend is read. (1) FY3/22: the ¥51,508mn impairment inside extraordinary losses is the US mobility/aerospace acquisition (goodwill ¥37,419mn and intangibles ¥12,128mn on the tanshin note's main items) written down on the prolonged COVID aircraft downturn; extraordinary income of ¥25,909mn in the same year (including fixed-asset and securities gains as reported) cushioned it, and the effective tax rate printed 44.5% (sheet Drivers) as the impairment met deferred-tax effects. (2) FY3/26: extraordinary losses of ¥27,140mn comprise impairment of ¥14,891mn on the Kuji biorefinery plant (waste-to-ethanol demonstration completed, commercialisation shelved, plant to be dismantled), ¥3,871mn on US diagnostics intangibles, ¥1,397mn on a UK enzyme business and ¥1,023mn on a UK pharma-development business (tanshin note; total impairment reflected in tangible fixed assets of ¥23,300mn per the company Q&A record), partly offset by ¥14,948mn of extraordinary income, including gains on sale of policy shareholdings (company Q&A record). (3) FY3/25's clean print (extraordinary losses only ¥5,552mn) is the exception in the window, not the rule — owners' net income of ¥81,925mn that year is the closest to an underlying figure, and even it sits on ordinary income flattered by non-operating items.
+
+Balance sheet (31 March 2026, J-GAAP): total assets ¥1,427,933mn; total liabilities ¥546,808mn (calculated as total assets less net assets); net assets ¥881,125mn, of which owners' equity ¥851,190mn (equity ratio 59.6%; book value per share ¥2,108.44) and non-controlling interests ¥29,935mn (calculated). Capital was ¥100,002mn. Cash and deposits on the balance sheet were ¥97,192mn (cash and equivalents per the cash-flow statement ¥92,444mn); receivables (notes and accounts receivable, per the sheet as fixed by the programme's receivables batch) ¥213,491mn; inventory on the sheet's definition (finished goods, work in process and raw materials, excluding land for sale) ¥267,772mn — about 3.6 months of cost of sales (calculated) — with land for sale of ¥86,144mn held separately in Housing; interest-bearing debt on the sheet's definition (borrowings and bonds as presented) ¥101,362mn. Segment assets are disclosed (FY3/26: Housing ¥480,322mn, UIEP ¥280,173mn, HPP ¥520,480mn, Medical ¥157,639mn, Other ¥69,287mn, before eliminations and corporate assets of ¥426,257mn). Cash flow: operating cash flow ¥105,023mn / ¥71,543mn / ¥106,632mn / ¥119,231mn / ¥78,301mn (FY3/22–26); investing cash flow was +¥2,694mn / −¥59,430mn / −¥18,515mn / −¥61,508mn / −¥69,103mn and financing cash flow −¥54,729mn / −¥62,906mn / −¥53,023mn / −¥61,200mn / −¥46,546mn. Cash capex on the sheet's CF definition (purchases of PP&E and intangible assets) was ¥36,997mn / ¥44,674mn / ¥46,070mn / ¥58,104mn / ¥100,781mn — the FY3/26 jump is the investment programme (perovskite Sakai plant and capacity); the segment note's accrual-basis additions to PP&E and intangibles for FY3/26 are ¥114,368mn, a different definition, flagged in Chapter 9. Per-share data (basic, as reported): EPS ¥83.17 / ¥159.19 / ¥183.48 / ¥195.93 / ¥182.70; dividends per share ¥49 / ¥59 / ¥74 / ¥79 / ¥80 (payout ratios as reported 58.9% / 37.0% / 40.3% / 40.4% / 43.6%; DOE 3.3% / 3.7% / 4.2% / 4.1% / 4.0%). Shares issued: 430,507,285 at 31 March 2026, of which 26,801,299 in treasury; weighted average shares 411,458,747. Not disclosed in the tanshin and therefore not presented as history here: order intake and backlog in monetary terms, R&D expenditure, employees, unit volumes, capacity and utilisation. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 28 April 2026.
+
+## 7. Strategy and shareholder returns — Vision 2030, Drive 2.0 and Accelerate 2028
+
+Sekisui's long-term frame is 'Vision 2030' (from FY3/21), whose statement — 'Innovation for the Earth' — commits the group to supporting the foundations of life and creating 'future peace of mind' through continued innovation, with a sales ambition of ¥2tn by FY3/31 (interview pack). The second mid-term plan under the vision, 'Drive 2.0 — The 2nd phase for 2030' (FY3/24–FY3/26), closed with FY3/26 sales of ¥1,309,281mn and operating profit of ¥106,477mn: record sales, but an operating margin of 8.1% that leaves the group well short of the profitability the vision implies, and the FY3/26 tanshin itself frames the period as 'sustained growth' plus 'preparation' (仕込み) for the next phase. The successor plan, 'Accelerate 2028' (FY3/27–FY3/29, announced May 2026), sets FY3/29 targets of sales ¥1,600,000mn, operating profit ¥150,000mn (a 9.4% margin) and ROE of 11% (company mid-term plan, via the interview pack) — against FY3/26 actuals of ¥1,309,281mn / ¥106,477mn / 9.1%, **that is a required operating-profit CAGR of about 12% for three years (calculated)**, to be carried by HPP growth fields, UIEP spread and priority products, housing services and M&A, and the perovskite ramp. The M&A envelope associated with the vision period is ¥400bn-plus, of which only about 10% had been spent by FY3/26 (interview pack); H1 FY3/27 deployment (Noble Home, Mirai Toshi Kaihatsu, Ausbuild 51%) is the first visible acceleration, and the interview pack's question — whether deployment pace or discipline is the bigger ROE risk — is the right one.
+
+Shareholder returns were formalised and strengthened in Accelerate 2028, as stated in the Q2 FY3/27 tanshin: payout ratio of 40% or more; DOE of 3.5% or more; a total return ratio of 50% or more while D/E is 0.5x or below, with additional returns considered in light of investment progress, cash position and the share price; treasury shares to be held only at the minimum necessary (i.e. cancellation of the surplus); and a progressive dividend. The record already runs that way: dividends per share rose every year from ¥35 (FY3/17) to ¥80 (FY3/26), the FY3/27 forecast of ¥82 is the 17th consecutive annual increase (company Q&A record), and buybacks have been material — in FY3/26 the company repurchased shares (¥36,751mn of treasury-share acquisition in the equity statement; the FY3/26 H1 record shows 4.0mn shares bought for ¥10,000mn and cancelled, with a further frame of 10.0mn shares / ¥30,000mn decided, per the company Q&A summary), and 25,000,000 shares were cancelled in H1 FY3/27, cutting issued shares to 405,507,285. At ¥2,696 the FY3/27 forecast dividend yields 3.0% (calculated).
+
+The monitoring set, in the order the data arrives: Q3 FY3/27 (late January–early February 2027) HPP standalone operating profit — does semiconductor-related demand hold after the pull-forward, and how large is the UIEP pipe payback; cumulative operating-profit progress against the ¥123,000mn guide (H1: 49.1%) and any change to the H2 payback language; Housing order value (the only order disclosure) against the 102% H1 index; perovskite — committed spend against the ¥9,500mn addition and the ~¥90bn programme frame, installations delivered against the 8 in H1, and any second-line decision; the 'Other' segment loss run-rate now that LB is exiting, and the corporate-cost line (¥11,665mn in FY3/26 and rising); and any further extraordinary items, which would confirm or break the 'one-off every year' pattern. All plan figures above are company targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY3/26 tanshin qualitative section, 28 April 2026; Q2 FY3/27 tanshin (dividend-policy statement), 30 October 2026; company Q&A summaries (transcript library); interview pack, 16 November 2026.
+
+## 8. Other information
+
+History. Sekisui Chemical was established on 3 March 1947 (as Sekisui Sangyo) in Osaka, in the first wave of Japan's post-war plastics industry, and built its positions sequentially: PVC pipe and agricultural film in the early decades, the Sekisui Heim unit-housing system from the 1970s, and — through formulation and film technology — the interlayer-film, foam, tape and electronics-materials franchises that now produce most of its profit, plus diagnostics through Sekisui Medical. The registered head office is in Kita-ku, Osaka (Nishitenma), with a dual Tokyo head office in Minato-ku (company filings; the tanshin inquiry contact is the Tokyo office). Capital: ¥100,002mn at 31 March 2026 (FY3/26 tanshin balance sheet). The shares are listed on the Tokyo Stock Exchange Prime Market.
+
+Management. Representative Director, President and Chief Executive Officer: Ikusuke Shimizu — confirmed in the FY3/26 and Q2 FY3/27 tanshin headers and in EDINET filings, and the presenter of the Q2 FY3/27 briefing. Shimizu, who previously ran the HPP company, took the role in March 2026, succeeding Keita Kato (president in the tanshin headers through Q3 FY3/26; Kato remains a director and became chairman in March 2026 per officer records returned by web search). The inquiry contact in the tanshin is Tatsuya Nishida, Representative Director and Senior Managing Executive Officer. Divisional presidents named in the company's Q&A records include Yo Asano (HPP), Masahide Yoshida (Housing) and Yoshiyuki Hirai (Environment & Lifeline). Shares issued: 405,507,285 at 30 September 2026, with treasury shares of 1,610,938 (Q2 FY3/27 tanshin).
+
+Major shareholders are not disclosed in the tanshin and are not presented here (未取得 — they are disclosed in the securities report, which is outside the sources used for this report). Employees are likewise not disclosed in the tanshin (sheet register S7) and are shown as not disclosed / 未取得 rather than taken from third-party profiles.
+
+Shareholder returns. Dividends per share rose from ¥35 (FY3/17) through ¥49 (FY3/22), ¥59, ¥74, ¥79 and ¥80 (FY3/26) to a forecast ¥82 in FY3/27 (interim ¥41 decided; the 17th consecutive annual increase, per the company), under the Accelerate 2028 policy of payout ≥40%, DOE ≥3.5%, total return ratio ≥50% while D/E ≤0.5x, progressive dividends and minimum treasury holdings (Chapter 7). The FY3/27 forecast implies a 3.0% yield at ¥2,696 (calculated).
+
+Market data. The shares closed at ¥2,696 on 16 November 2026 (Finnhub via web search; corroborated by TipRanks and StockInvest historical tables), giving a market capitalisation of about ¥1,088.9bn (calculated from the cited price and the 403.90mn shares excluding treasury at September 2026; Finnhub shows ¥1.09tn). The 52-week range was ¥2,248 (2 June 2026) to ¥3,065 (18 February 2026) (Finnhub). At ¥2,696 the shares trade at 14.8x FY3/26 basic EPS of ¥182.70, 14.3x FY3/27 company-guidance EPS of ¥188.17, and 1.28x FY3/26 book value per share of ¥2,108.44 (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, expected in late January–early February 2027 (third-party calendar estimates; one calendar shows 1 February 2027).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Sekisui Chemical (4204) (J-GAAP template; March year-end; ¥mn), in its deepest-history recalculated copy — work/sekisui/hist7/recalc_hist3/base_work.xlsx, the LibreOffice-recalculated copy of the history-deepened sheet carrying ten annual years (main window FY3/22–FY3/26 plus 20 quarters, and the supplementary history block FY3/17–FY3/21 in 'Reported inputs' rows 121–181) — built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (rollout log batch 6a, 2026-11-16, and history wave H7, 2026-11-17; sheet registers S1–S13). The plain recalc/ copy of the sheet carries only the five-year main window and was not used for the history. Q1 and Q2 FY3/27 figures are from the Q1 FY3/27 tanshin dated 31 July 2026 and the Q2 FY3/27 tanshin dated 30 October 2026 (local copies in the sheet work folder). The company's published Q&A summaries for the briefings of 30 October 2025, 29 January 2026, 28 April 2026, 31 July 2026 and 30 October 2026 (English translations in the programme's transcript library; the company publishes no verbatim presentation record) are used for the LB charge composition, perovskite milestones, buyback detail and plan colour, and are cited as Q&A records at each use. The guidance chain was cross-checked against the programme's guidance tracker of 17 November 2026 and agrees with the sheet register S8 and the tanshin revision table. Strategy text is from the FY3/26 tanshin qualitative section and the Q2 FY3/27 tanshin dividend-policy statement; mid-term plan targets (Accelerate 2028) are as summarised in the interview pack of 16 November 2026 from the company's May 2026 plan. Market data are from Finnhub as returned by web search on 17 November 2026, corroborated as noted; the president's name and role were confirmed against the tanshin headers and EDINET filings returned by the same search. GAAP basis: Japanese GAAP (J-GAAP) consolidated throughout, confirmed in every tanshin title and in sheet register S1; fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027).
+
+Discrepancies and basis breaks flagged (not silently resolved). (1) FY3/26 owners' net income: the rollout log's batch-6a read-back line labels ¥77,351mn as owners' net income; the FY3/26 tanshin shows ¥77,351mn as total net income and ¥75,174mn as net income attributable to owners of the parent. This report follows the tanshin (and the sheet's own rows, which carry both lines correctly). (2) FY3/20 restatement: the FY3/21 tanshin restates FY3/20 on finalisation of provisional accounting for a business combination (operating profit ¥87,974mn, owners' net income ¥59,181mn, EPS ¥128.80, total assets ¥1,105,781mn) against the as-originally-reported FY3/20 figures used in the sheet's history block and in this report (¥87,768mn / ¥58,931mn / ¥128.25 / ¥1,102,352mn). Similarly, FY3/18 total assets are ¥999,114mn in the FY3/18 tanshin but ¥994,137mn in the FY3/19 tanshin's comparative column (net assets and equity agree in both); the as-reported figure is used. (3) Segment basis change, Q3 FY3/23 (register S3): fire-resistant materials, CPVC-related and Crosswave moved from HPP to UIEP and Sekisui Kogyo / SEKISUI KYDEX from UIEP to HPP; FY3/22 and FY3/23 Q1/Q2 are on the old basis as originally disclosed, FY3/23 Q3-cumulative and annual on the new basis, and the derived Q3 FY3/23 standalone quarter mixes bases for UIEP/HPP. Figures are presented as disclosed and never spliced. (4) Medical segment era: Medical was split out of HPP as a fourth reportable segment from FY3/20 and FY3/19 was not restated; the Medical rows are therefore blank for FY3/17–19 and HPP's history-block figures for those years include Medical. (5) Regional bases: the segment × region matrix exists only from FY3/22 (it begins with the revenue-recognition disaggregation note); for FY3/17–21 the sheet carries the related-information customer-location table instead (Japan / United States / Europe / Asia / Other), in which China is not split out (it is inside Asia) — the two regional bases are labelled separately wherever they appear, and regional profit is not disclosed in any period. (6) Segment sales basis: the company's qualitative text and briefing materials quote segment sales including intersegment transfers (H1 FY3/27 HPP ¥264,199mn; Housing ¥278,757mn), while the segment note's external-sales basis (HPP ¥261,252mn; Housing ¥278,724mn) is used in this report; the interview pack's HPP figure of ¥264.2bn is the including-internal figure. (7) Balance-sheet definitions in the sheet: the main block's payables row captured only electronically recorded obligations (¥13,498mn at FY3/26) rather than the full register-S5 definition (notes and accounts payable plus electronically recorded obligations) used in the history block — flagged in register S13 and left as-is in the sheet; the main block's receivables row was blank at build and was filled by the programme's later receivables fix batch (FY3/26 ¥213,491mn, notes and accounts receivable; contract assets excluded per that batch's register note). The balance-sheet chapter therefore cites receivables as fixed and does not present a main-block payables figure. (8) LB charge quantum: the Q1 FY3/27 briefing record describes a one-off of about ¥6.7bn (product preservation costs and an inventory write-down on the specific product); the H1 tanshin's extraordinary lines for the battery items total ¥7,747mn (specific-product exchange costs ¥5,143mn plus business-structure improvement costs ¥2,604mn). The tanshin lines are used; the Q1 figure is approximate and its scope differs (part of the Q1 amount appears to sit in cost of sales). (9) Guidance EPS: the initial FY3/27 guidance EPS of ¥188.26 and the revised ¥188.17 attach to the same owners' net income of ¥76,000mn; the difference is the share-count basis after buybacks and the 25,000,000-share cancellation, as reported. (10) Perovskite spend: the interview pack frames the 100MW-line programme at roughly ¥90bn in total, while the company Q&A record prices a second 100MW line at ¥43,000mn; the figures have different scopes (programme versus second line) and both are cited as sourced, not reconciled. (11) Capex definitions: FY3/26 cash purchases of PP&E and intangibles (cash-flow statement basis, sheet) are ¥100,781mn, while the segment note's accrual-basis additions are ¥114,368mn; both are labelled where used. (12) Rounding plugs of at most ¥4mn per period sit in the sheet's SG&A, non-operating-expense, extraordinary-loss and deferred-tax rows so that every template check is exactly zero (register S9); headline lines are always as reported. Small (¥1–4mn) rounding differences between matrix cells and printed totals in the segment note are as disclosed.
+
+Conventions and gaps. 'Company guidance' means Sekisui's published forecasts (会社計画) and 'plan targets' means Vision 2030 / Accelerate 2028 targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — order intake and order backlog in monetary terms (Housing orders are given only as YoY indices), R&D expenditure, employees, production/sales units, capacity, utilisation, regional profit, segment-level guidance, and major shareholders — are described as not disclosed / 未取得 rather than estimated. Quarterly operating cash flow and capex are unavailable for Q1 and Q3 (those tanshin carry no cash-flow statement; annual figures are entered, register S2). Diluted EPS is not consistently presented in the tanshin (register S6), so basic EPS is used throughout; FY3/17–19 diluted EPS exists in those documents and is not used. KPI history in this report covers ten years (FY3/17–FY3/26) from the PL/segment sheet, matching the Shared Research reference span.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; strategy and shareholder returns; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

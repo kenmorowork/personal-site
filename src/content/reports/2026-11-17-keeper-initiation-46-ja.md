@@ -1,0 +1,325 @@
+---
+title: "Japan's car-coating category creator at an inflection: initiation on Keeper Giken as LABO franchising accelerates, the founder returns, and Idemitsu takes a strategic stake"
+company: "Keeper Co., Ltd."
+ticker: "6036"
+sector: "Consumer Services"
+date: 2026-11-17
+type: initiation
+externalUrl: "/ja/reports/2026-11-17-keeper-initiation-46/"
+lang: ja
+---
+
+A founder-led category creator converting a one-off securities gain into store growth: Keeper Co., Ltd. (6036, TSE Prime and Nagoya; listed company name KeePer技研株式会社, English name KeePer Technical Laboratory Co., Ltd.) is the Aichi-based creator of the KeePer car-coating category in Japan. It reports on a NON-CONSOLIDATED (単体) basis only — there are no consolidated financial statements — under Japanese GAAP, with a June fiscal year-end (FY6/27 = the year ending 30 June 2027). Two reportable segments cover one integrated model: Keeper Products etc. develops, manufactures and sells coating chemicals and tools to businesses (the KeePer PRO SHOP network, new-car dealers under OEM genuine-adoption programmes, and non-car applications), and Keeper LABO operations runs the KeePer LABO car-beauty stores (directly operated and franchised) that apply the coatings to consumers' cars. The ten-year record is one of uninterrupted sales growth — **sales rose from ¥6,999mn in FY6/17 to ¥25,960mn in FY6/26, a 15.7% CAGR (calculated)** — with operating profit rising from ¥1,015mn to a peak of ¥7,099mn in FY6/25 before easing to ¥6,915mn in FY6/26. FY6/27 company guidance, set on 14 August 2026 and confirmed unchanged at Q1 on 16 November 2026 (zero revisions), is sales of ¥29,380mn (+13.2%) and operating profit of ¥9,012mn (+30.3%), and Q1 FY6/27 (July–September 2026) printed record first-quarter sales of ¥6,639mn (+15.0% YoY) and operating profit of ¥1,789mn (+29.6%). Strengths: (1) a vertically integrated, self-reinforcing model — **the Products segment earns a 39.8% segment margin (FY6/26) selling chemicals, training and certification into a PRO SHOP network the company puts at 6,679 stores (August 2025)**, while LABO stores prove the product to consumers and feed applications data back; (2) balance-sheet strength that funds expansion without leverage — cash of ¥14,277mn against borrowings of ¥943mn at June 2026 and an equity ratio of 74.8% (79.8% at September 2026); (3) a step-change in the store engine — 28 LABO openings in FY6/26 (franchise openings exceeded direct openings for the first time) and a plan for 50 more in FY6/27 (20 direct, 30 franchise) toward 234 stores, with the dividend forecast held at the equivalent of ¥100 per share (¥50 post-split) for a guided payout of 43.9%, close to the company's stated medium-term payout target of about 45%. Weaknesses: (1) FY6/26 operating profit fell 2.6% despite 12.4% sales growth — LABO segment profit fell 20.2% on new-store and personnel costs, and the company's own bridge says ¥1,093mn of growth investment funded by a ¥6,762mn extraordinary gain on selling investment securities sits inside the FY6/26 cost base, so the underlying margin path is obscured by a one-off; reported net income of ¥9,830mn (+101.1%) is not an operating number; (2) demand is hostage to factors the company does not control — new-car supply and deliveries (a stated drag through much of FY6/26), weather (the September 2026 Kanto floods cut store visits in Q1 FY6/27), and a shrinking gasoline-station channel that anchors the PRO SHOP network; (3) disclosure and governance concentration — reporting is non-consolidated with no regional split, no order or backlog data and no quantified mid-term plan beyond the current year in the sources used, the founder's asset-management company is raising its stake to 29.27% (announced 16 November 2026), and the register is being reshaped by the Idemitsu alliance announced the same day, so outside shareholders are pricing a controlled, thinly disclosed small cap. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY6/17–FY6/26 actuals (J-GAAP, NON-consolidated, as reported) and FY6/27E company guidance**
+
+| ¥mn unless stated | FY6/17 | FY6/18 | FY6/19 | FY6/20 | FY6/21 | FY6/22 | FY6/23 | FY6/24 | FY6/25 | FY6/26 | FY6/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 6999 | 7314 | 8321 | 8700 | 11801 | 14358 | 17043 | 20575 | 23093 | 25960 | 29380 |
+| Revenue growth (%) | — | 4.5 | 13.8 | 4.6 | 35.7 | 21.7 | 18.7 | 20.7 | 12.2 | 12.4 | 13.2 |
+| Operating profit | 1015 | 872 | 1287 | 1367 | 3021 | 4327 | 5475 | 6101 | 7099 | 6915 | 9012 |
+| Operating margin (%) | 14.5 | 11.9 | 15.5 | 15.7 | 25.6 | 30.1 | 32.1 | 29.7 | 30.7 | 26.6 | 30.7 |
+| Ordinary income | 1017 | 890 | 1302 | 1374 | 3023 | 4326 | 5471 | 6075 | 7132 | 6931 | 9012 |
+| Net income | 649 | 583 | 846 | 913 | 2133 | 3094 | 3957 | 4421 | 4889 | 9830 | 6222 |
+| Basic EPS (¥, calc., own split basis) | 45.7 | 41.3 | 60 | 64.6 | 75.6 | 113.4 | 145 | 162 | 179.1 | 360.2 | — |
+| Dividend per share (¥, as reported) | 19 | 9 | 12 | 15 | 20 | 31 | 43 | 50 | 60 | 100 | — |
+| Operating cash flow | 976 | 795 | 1372 | 1072 | 3094 | 3221 | 3664 | 5345 | 5855 | 4393 | — |
+| KeePer LABO stores (period-end) | — | — | — | — | — | — | 150 | — | 156 | 184 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive): FY6/22–26 main window and FY6/17–21 supplementary history block. Non-consolidated in all years; net income is the company's own (no minority interests). EPS is calculated (net income ÷ weighted-average shares as reported in each year's tanshin; no dilutive securities) on each document's own split basis — splits on 1 Jul 2017, 1 Oct 2020 and 1 Nov 2026 make the series non-comparable across those dates (FY6/26 EPS is ¥180.10 on the current post-split basis). DPS as reported in each year's own tanshin (own split basis). FY6/26 net income includes a ¥6,762mn extraordinary gain on sale of investment securities. FY6/27E = company guidance set 14 Aug 2026, confirmed unchanged 16 Nov 2026 (EPS ¥113.99 and DPS ¥50 on the post-split basis). LABO stores as stated in tanshin texts; '—' = not disclosed.*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥92.7bn |
+| 52-week range | ¥1,239 – ¥2,005 |
+| P/E (FY6/26 EPS ¥180.10, split-adjusted) | 8.9x |
+| P/E (FY6/27E co. guidance EPS ¥113.99) | 14.1x |
+| FY6/27E dividend (company forecast) | ¥50 / share (2.8% yield) |
+| Next event | Q2 FY6/27 results (H1 cumulative), ~Feb 2027 |
+
+## Key points
+- **Q1 FY6/27: a record first quarter, on a non-consolidated basis.** For the three months to 30 September 2026 (J-GAAP, non-consolidated), sales were ¥6,639mn (+15.0% YoY), operating profit ¥1,789mn (+29.6%), ordinary income ¥1,832mn (+35.4%) and quarterly net income ¥1,233mn (+35.5%); basic EPS was ¥22.59 on the post-split basis. Both segments grew profit: Products sales ¥3,050mn (+19.3%) with segment profit ¥1,237mn (+24.4%), and LABO sales ¥3,589mn (+11.6%) with segment profit ¥552mn (+42.7%) — LABO profit recovering off a weak prior-year quarter despite record heat, Kanto flooding that closed stores temporarily, and total store visits down 1.2% YoY to 193,196 vehicles, because **average spend per visit rose 11.4% to ¥17,919 on Diamond-series mix**. Source: Q1 FY6/27 tanshin [J-GAAP, non-consolidated], 16 November 2026.
+- **Guidance unchanged all year — the whole FY6/27 story is H2 operating leverage.** Full-year FY6/27 company guidance (会社計画) was set with the FY6/26 annual tanshin on 14 August 2026 — sales ¥29,380mn, operating profit ¥9,012mn, ordinary income ¥9,012mn, net income ¥6,222mn, EPS ¥227.98 pre-split (¥113.99 on the post-split basis in the Q1 tanshin) — and was confirmed unchanged (修正の有無：無) in the Q1 FY6/27 tanshin of 16 November 2026; the guidance tracker records zero revisions. Q1 delivered 44.6% of the H1 sales guide (¥14,900mn) but only 36.8% of H1 guided operating profit (¥4,866mn), so **the guide requires Q2 standalone operating profit of about ¥3,077mn (calculated) in the December peak quarter**, and H2 operating profit of ¥4,146mn (calculated). The guided net income decline of 36.7% is purely the lap of the FY6/26 securities-sale gain. Source: FY6/26 tanshin, 14 August 2026; Q1 FY6/27 tanshin, 16 November 2026; guidance tracker, 17 November 2026.
+- **Strength — Products is a high-margin B2B engine; LABO is the brand and demand engine.** In FY6/26, **Products earned segment profit of ¥4,744mn on sales of ¥11,932mn (a 39.8% margin, calculated) — 68.6% of the two segments' combined profit** — by selling chemicals, tools, training and certification to PRO SHOPs, new-car dealers (genuine-adoption programmes with Subaru, Toyota, Honda, Mitsubishi, Volvo, Suzuki and Mercedes-Benz, per the FY6/26 tanshin) and non-car channels. LABO earned ¥2,170mn on ¥14,028mn (15.5%) as reported, or ¥3,263mn (23.3%) excluding the ¥1,093mn of securities-gain-funded growth investment the company allocates to it (company-stated adjustment). The two segments sell to each other (intersegment sales of ¥185mn in Q1 FY6/27, Products to LABO), and LABO's 906,083 store visits in FY6/26 (+12.5%) are the consumer proof-point that pulls Products demand. Source: company results via PL/segment sheet (tanshin, JPX archive); FY6/26 tanshin qualitative section, 14 August 2026.
+- **Weakness — FY6/26 shows the cost of the store offensive, and the profit optics are distorted.** FY6/26 operating profit fell to ¥6,915mn (−2.6% YoY) on sales up 12.4%: LABO segment profit fell 20.2% to ¥2,170mn as 28 stores opened (13 direct, 15 franchise — the first year franchise openings exceeded direct), personnel and heat-countermeasure costs rose, and the company booked ¥1,093mn of growth investment funded by the ¥6,762mn extraordinary gain on investment-securities sales (total extraordinary income ¥6,794mn). **Excluding that investment, the company states operating profit would have been ¥8,007mn (+12.8%) — a company-stated underlying figure, not a reported one**. Reported net income of ¥9,830mn (+101.1%, ROE 45.6% as printed in the tanshin header) is dominated by the gain and the ¥3,881mn total tax charge it carried, and must not be annualised. Source: FY6/26 tanshin, 14 August 2026; PL/segment sheet register S11.
+- **Register and board reshaped on results day: founder back as president, Idemitsu in, VT Holdings out.** On 16 November 2026 the company announced a capital and business alliance with Idemitsu Kosan: **Idemitsu acquires about 7.31mn shares (13.39% of shares excluding treasury, per the announcement coverage; 12.92% of issued shares per Idemitsu's large-shareholding report of the same date) from VT Holdings for about ¥13.7bn, becoming the second-largest shareholder**, while VT Holdings disposes of its entire holding of about 9.32mn shares — the balance of about 2.0mn shares going to Tani, the founder's asset-management company, whose stake rises from 21.27% to 29.27% after also acquiring about 2.36mn shares from former president Sosuke Kaku. Founder Yoshimichi Tani （谷 好通） returned as Representative Director, Chairman, President and CEO on 28 September 2026 after Kaku's retirement — he is named in that combined role in the Q1 FY6/27 tanshin. Sources: company alliance announcement as reported by Nikkei-group and automotive press, 16 November 2026; Idemitsu Kosan large-shareholding report, 16 November 2026; Q1 FY6/27 tanshin header, 16 November 2026 (third-party and filing sources as flagged in Chapter 8).
+
+## 1. Key indicators and financial history
+
+Keeper reports with a June year-end (FY6/27 = the year ending 30 June 2027), under Japanese GAAP, on a NON-CONSOLIDATED (単体) basis in every period covered — there are no consolidated statements, no minority interests, and net income is the company's own net income throughout. The history in this chapter and in Exhibit 1 combines the PL/segment sheet's main window (FY6/22–FY6/26) with its supplementary history block (FY6/17–FY6/21), each year as originally reported in its own annual tanshin (all template and history-block checks equal zero; statements are printed in ¥ thousands and converted to ¥mn, so sheet values carry decimals). Two presentation breaks sit inside the ten years and are flagged wherever they bite: from FY6/25 the company reclassified part of LABO personnel and operating costs from SG&A into cost of sales (表示方法の変更; ¥5,920mn was reclassified in the restated FY6/24 comparative inside the FY6/25 tanshin), so gross margin and the SG&A ratio are not comparable across FY6/24/FY6/25 on the as-reported basis preserved here — operating profit is unaffected; and per-share figures cross three 2-for-1 stock splits (1 July 2017, 1 October 2020, 1 November 2026), each year's tanshin restating only its own comparatives. Figures are ¥mn unless stated.
+
+Sales have grown every year of the ten: ¥6,999mn (FY6/17), ¥7,314mn, ¥8,321mn, ¥8,700mn, ¥11,801mn (FY6/21, +35.7% as new-car and used-car coating demand surged), ¥14,358mn, ¥17,043mn, ¥20,575mn, ¥23,093mn and ¥25,960mn (FY6/26) — a 15.7% nine-year CAGR (calculated). Operating profit grew faster but not smoothly: ¥1,015mn (14.5% margin) in FY6/17, a dip to ¥872mn in FY6/18, then ¥1,287mn, ¥1,367mn, ¥3,021mn (25.6% margin, FY6/21), ¥4,327mn (30.1%), ¥5,475mn (32.1%), ¥6,101mn (29.7%), a peak of ¥7,099mn (30.7%) in FY6/25, and ¥6,915mn (26.6%) in FY6/26. **The FY6/21 step-up is the record's hinge: LABO segment profit jumped from ¥374mn to ¥1,283mn as store economics scaled**, and the operating margin roughly doubled from its FY6/17–20 range of 12–16% to the 26–32% range it has held since. Ordinary income tracks operating profit closely in every year (non-operating items are small: FY6/26 non-operating income ¥106mn, expenses ¥90mn), and net income was ¥649mn / ¥583mn / ¥846mn / ¥913mn / ¥2,133mn / ¥3,094mn / ¥3,957mn / ¥4,421mn / ¥4,889mn / ¥9,830mn — the FY6/26 figure roughly doubling on the ¥6,794mn of extraordinary income (a ¥6,762mn gain on selling investment securities) and is not an operating result. Basic EPS (calculated as net income over each year's reported weighted-average shares; no dilutive securities exist in any year) was ¥45.67 / ¥41.33 / ¥59.97 / ¥64.61 / ¥75.65 / ¥113.42 / ¥145.03 / ¥162.03 / ¥179.14 / ¥360.20 on each document's own split basis — the FY6/25 and FY6/26 values agree with the printed tanshin EPS; the series must not be read across the splits without adjustment (on the current post-November-2026 basis, FY6/26 EPS is ¥180.10).
+
+Returns and cash generation are strong throughout. Operating cash flow was ¥976mn / ¥795mn / ¥1,372mn / ¥1,072mn / ¥3,094mn / ¥3,221mn / ¥3,664mn / ¥5,345mn / ¥5,855mn / ¥4,393mn; the FY6/26 decline despite record pre-tax profit reflects ¥2,642mn of tax payments on the securities gain (FY6/26 tanshin). The balance sheet strengthened every year: total assets rose from ¥5,789mn (FY6/17) to ¥33,521mn (FY6/26) and net assets from ¥3,918mn to ¥25,090mn, with the equity ratio between 60.6% and 79.8% across the decade (74.8% at June 2026). Cash and equivalents reached ¥14,277mn at June 2026 — swollen by ¥11,063mn of proceeds from the investment-securities sale (investing cash flow was an inflow of ¥8,946mn in FY6/26) — against borrowings of just ¥943mn. Dividends per share as reported in each year's own tanshin rose from ¥19 (FY6/17, that document's basis) through ¥60 (FY6/25) to ¥100 in FY6/26 (interim ¥40, final ¥60), a 27.8% payout on the gain-inflated FY6/26 EPS and a 12.7% dividend-on-equity ratio as printed. The KeePer LABO store count — the single operating metric the tanshin text states — was 150 at FY6/23-end, 156 at FY6/25-end and 184 at FY6/26-end on the sheet's record (other year-ends are not stated in the era tanshin texts and are shown as not disclosed). Exhibit 1 (page 1) gives the full KPI table including FY6/27 company guidance. Source for this chapter: company results via PL/segment sheet for 6036 (main window and supplementary history block; tanshin, JPX archive), FY6/17–FY6/26; FY6/26 tanshin header, 14 August 2026.
+
+**Figure: Keeper Co., Ltd. — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY6/17 | 6999 |
+
+| FY6/18 | 7314 |
+
+| FY6/19 | 8321 |
+
+| FY6/20 | 8700 |
+
+| FY6/21 | 11801 |
+
+| FY6/22 | 14358 |
+
+| FY6/23 | 17043 |
+
+| FY6/24 | 20575 |
+
+| FY6/25 | 23093 |
+
+| FY6/26 | 25960 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Keeper Co., Ltd. — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY6/17 | 1015 |
+
+| FY6/18 | 872 |
+
+| FY6/19 | 1287 |
+
+| FY6/20 | 1367 |
+
+| FY6/21 | 3021 |
+
+| FY6/22 | 4327 |
+
+| FY6/23 | 5475 |
+
+| FY6/24 | 6101 |
+
+| FY6/25 | 7099 |
+
+| FY6/26 | 6915 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Keeper Co., Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY6/17 | 14.5 |
+
+| FY6/18 | 11.9 |
+
+| FY6/19 | 15.5 |
+
+| FY6/20 | 15.7 |
+
+| FY6/21 | 25.6 |
+
+| FY6/22 | 30.1 |
+
+| FY6/23 | 32.1 |
+
+| FY6/24 | 29.7 |
+
+| FY6/25 | 30.7 |
+
+| FY6/26 | 26.6 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Keeper Co., Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q1 FY6/27 results, unchanged guidance, and the Idemitsu alliance
+
+Keeper reported Q1 FY6/27 (1 July–30 September 2026) results on 16 November 2026 — a non-consolidated J-GAAP tanshin, with supplementary briefing materials published but no earnings briefing held (the tanshin states 決算説明会：無) and no English transcript for 6036 in the programme's transcript library, so no Q&A is cited anywhere in this report. The same day brought two announcements that matter as much as the print: a capital and business alliance with Idemitsu Kosan that reshapes the register (Chapter 8), and confirmation that full-year guidance is unchanged. This chapter summarises the quarter and the guidance chain; segment detail is in Chapter 5.
+
+## Q1 FY6/27 results (standalone quarter, as reported)
+
+Sales were ¥6,639mn (+15.0% YoY), gross profit is not split out in the quarterly header, operating profit was ¥1,789mn (+29.6%), ordinary income ¥1,832mn (+35.4%) and quarterly net income ¥1,233mn (+35.5%); basic EPS was ¥22.59 (post-split basis; the tanshin restates share counts as if the 1 November 2026 2-for-1 split had occurred at the start of FY6/26). The company states sales and every profit line were first-quarter records. The quarter's operating colour is unusually well documented in the tanshin's qualitative section. Weather was a headwind twice over: disaster-level heat in July (managed with heat countermeasures; labour productivity held at ¥6,913 per hour in July, and a three-day-weekend rota introduced in June cut overtime while technician headcount rose about 7% and total personnel cost stayed roughly flat YoY despite a base-pay increase), then prolonged rain from mid-August and exceptional September flooding in Kanto (Chiba floods; 35 consecutive rainy days in Tokyo; one-day closures at typhoon-affected stores including Sakura) cut car-wash visits — total visits fell 1.2% YoY to 193,196 vehicles. **Mix more than offset volume: EX KeePer applications fell 8.1% to 3,565 units on flood-related new-car delivery delays in Kanto, but the Diamond series (now centred on DIA II KeePer, launched in Q2 FY6/26) rose 6.7% to 13,774 units** — above the prior-year total for the three predecessor Diamond products — Fresh/Crystal rose 4.3% to 21,545 units, maintenance work fell 0.4%, and average spend per visit rose 11.4% to ¥17,919 as low-ticket wash visits dropped out.
+
+By segment (external sales / segment profit, operating-profit basis): Products ¥3,050mn / ¥1,237mn (+19.3% / +24.4% YoY) — the new-car market within Products rose 41.8% to ¥1,289mn (42.3% of segment sales, from 35.6%) on OEM genuine-adoption dealer activity, the aftermarket (PRO SHOP) channel fell 2.2% to ¥1,535mn on the heat, non-car applications rose to ¥191mn (2.7x) on Mobile KeePer smartphone coating, Glasses KeePer and bath-coating services, and overseas sales rose to ¥33mn (6.6x) including a new Toyota-dealer adoption in Sri Lanka; LABO ¥3,589mn / ¥552mn (+11.6% / +42.7%), its margin recovering to 15.4% (calculated) from 12.0% in the prior-year quarter. Intersegment sales were ¥185mn (Products to LABO), eliminated in full; segment profit sums exactly to operating profit with no adjustment. The balance sheet at 30 September 2026: total assets ¥30,936mn, net assets ¥24,684mn, equity ratio 79.8% — assets fell ¥2,585mn from June 2026 as cash fell ¥2,508mn (the FY6/26 final dividend of ¥1,637mn was paid and ¥2,377mn of accrued income taxes settled), partly offset by a ¥295mn rise in tangible fixed assets as new stores opened. Six stores opened in the quarter (three direct, three franchise on the cumulative count) and the network reached 190 stores (153 direct, 37 franchise) at end-October 2026. No quarterly cash-flow statement is prepared (tanshin note); Q1 depreciation was ¥178mn. Source: Q1 FY6/27 tanshin [J-GAAP, non-consolidated], 16 November 2026, including its segment note and qualitative section.
+
+## Guidance: set once, on 14 August 2026, and never revised — sales ¥29,380mn, operating profit ¥9,012mn (company guidance)
+
+Full-year FY6/27 guidance, as published with the FY6/26 annual tanshin on 14 August 2026 and confirmed unchanged (業績予想の修正の有無：無) in the Q1 FY6/27 tanshin of 16 November 2026, is sales ¥29,380mn (+13.2% YoY), operating profit ¥9,012mn (+30.3%), ordinary income ¥9,012mn (+30.0%), net income ¥6,222mn (−36.7%) and EPS of ¥227.98 on the pre-split basis used in August, restated to ¥113.99 post-split in the Q1 document — company guidance (会社計画), non-consolidated J-GAAP, not a J-Core Fundamental Research forecast. The guidance tracker (17 November 2026) records the chain precisely: initial guidance 14 August 2026 (sales ¥29,380mn / operating profit ¥9,012mn / net income ¥6,222mn); no revision notice at any point since; current guidance identical, confirmed at Q1 FY6/27 — zero revisions, unchanged all year. Half-year guidance (cumulative to December 2026) is sales ¥14,900mn (+15.2%), operating profit ¥4,866mn (+32.0%), ordinary income ¥4,866mn (+32.1%) and net income ¥3,485mn (−51.8%); the H1 net-income decline, like the full-year one, is the arithmetic lap of the FY6/26 securities gain, not an operating assumption. The dividend forecast is unchanged: ¥100 per share for FY6/27 on the pre-split basis (interim ¥0, year-end ¥100), stated as ¥50 post-split (interim ¥0, year-end ¥50) in the Q1 tanshin — a guided payout ratio of 43.9% against the company's stated medium-term payout target of about 45% (securities report dividend policy, as compiled in third-party summaries; see Chapter 7).
+
+Progress and implied path. Q1 delivered 44.6% of H1 guided sales and 36.8% of H1 guided operating profit — a normal shape for this business, since Q1 (July–September) is seasonally the weakest quarter and Q2 contains the December peak (in FY6/26, Q2 standalone operating profit of ¥2,305mn was 1.7x Q1's ¥1,381mn, per the sheet's quarterly build). The guide therefore implies Q2 standalone operating profit of about ¥3,077mn (calculated: ¥4,866mn − ¥1,789mn), 33% above the prior-year Q2 standalone print, and H2 operating profit of ¥4,146mn (calculated), below H1's guided ¥4,866mn despite 50 planned store openings — the guide is, in effect, a December-quarter delivery test followed by a softer second half, and it embeds no repeat of the FY6/26 ¥1,093mn securities-funded investment bulge. The operating assumptions the company itself names are the store plan (50 openings: 20 direct, 30 franchise, to 234 stores; 33 sites already identified at July 2026-end per the FY6/26 tanshin, and openings 'on plan' at Q1 with 190 stores reached by end-October), continued Diamond-series mix shift after the June 2026 service price revision, and recovery in new-car deliveries. The interview pack's open questions — the personnel/advertising cost bridge to +30.3% operating profit growth, franchise-versus-direct per-store economics, and the new-car volume assumption inside the guide — remain unanswered in published materials and are carried into Chapter 7's monitoring list. Exhibit 3 sets out Q1 actuals against H1 and full-year guidance. Source: FY6/26 tanshin section 3, 14 August 2026; Q1 FY6/27 tanshin section 3, 16 November 2026; guidance tracker, 17 November 2026.
+
+**Exhibit 3. Q1 FY6/27 results vs H1 and full-year FY6/27 company guidance (non-consolidated)**
+
+| ¥mn | Q1 FY6/27 actual | H1 FY6/27E (co. guidance) | FY6/27E (co. guidance) |
+|---|---|---|---|
+| Sales | 6639 | 14900 | 29380 |
+| Operating profit | 1789 | 4866 | 9012 |
+| Ordinary income | 1832 | 4866 | 9012 |
+| Net income | 1233 | 3485 | 6222 |
+| Memo: Products — sales (Q1 actual only) | 3050 | — | — |
+| Memo: Products — segment profit (Q1 actual only) | 1237 | — | — |
+| Memo: LABO — sales (Q1 actual only) | 3589 | — | — |
+| Memo: LABO — segment profit (Q1 actual only) | 552 | — | — |
+
+*Source: Q1 FY6/27 actuals: Q1 FY6/27 tanshin [J-GAAP, non-consolidated], 16 Nov 2026 (segment note for the segment rows). Guidance: FY6/26 tanshin section 3, 14 Aug 2026, confirmed unchanged in the Q1 FY6/27 tanshin (修正の有無：無) — company guidance, not a J-Core Fundamental Research forecast. No segment-level guidance is published. Q1 is seasonally the weakest quarter (December peak falls in Q2).*
+
+## 3. Business description
+
+Keeper's own framing (FY6/26 securities report, as quoted in third-party summaries) is a corporate philosophy of 'creating a new car-washing culture in Japan' （日本に新しい洗車文化を） through high-quality car washing and coating. The company is organised, by customer type (tanshin segment note), into two reportable segments: Keeper Products etc. （キーパー製品等関連事業）, which develops, manufactures and sells coating chemicals, tools and equipment to businesses, and Keeper LABO operations （キーパーLABO運営事業）, which operates KeePer LABO stores offering car-beauty services centred on coating to general consumers. Segment profit is operating profit; intersegment sales (chemicals supplied from Products to LABO) are priced on segment cost and eliminated. In FY6/26 the mix was Products 46.0% of external sales and LABO 54.0%; a decade earlier (FY6/17) it was Products 63.1% and LABO 36.9% — the store business is the growth engine, the products business the margin engine. Head office is in Obu, Aichi Prefecture; the Products sales organisation runs eight sales offices (Sapporo, Sendai, Tokyo, Yokohama, Nagoya, Osaka, Hiroshima, Fukuoka, per the Q1 FY6/27 segment note's revenue decomposition) and 22 training centres nationwide (Q1 FY6/27 tanshin).
+
+## Keeper Products etc.: chemicals, training and certification sold into three channels
+
+Products sells the KeePer coating system — proprietary chemicals (developed from the company's patented paint-surface technology), application tools and equipment — together with the technician training and certification that make the brand enforceable at the point of application. The Q1 FY6/27 tanshin decomposes the segment into four channels, and the full-year picture follows the same structure. (1) Aftermarket (¥1,535mn in Q1 FY6/27, 50.3% of segment sales, −2.2% YoY in the heat-affected quarter): the KeePer PRO SHOP network of certified installers, historically anchored on gasoline stations — the company states 6,679 PRO SHOPs nationwide as of August 2025 (president's published history column; a company-stated figure outside the tanshin). PRO SHOP per-store sales are rising, per the FY6/26 tanshin, even as the gasoline-station population shrinks structurally — the channel's central tension (Chapter 4). (2) New-car market (¥1,289mn, 42.3%, +41.8%): sales through new-car dealers where KeePer is adopted as a genuine (OEM-approved) coating — the FY6/26 tanshin names Subaru, Toyota, Honda, Mitsubishi, Volvo, Suzuki and Mercedes-Benz dealer networks — with per-maker sales teams and in-dealer application drives; this is the fastest-growing and most strategically prized channel, and the one most exposed to new-car supply. (3) Non-car （車以外） (¥191mn, 6.3%, 2.7x): Mobile KeePer smartphone coating, Glasses KeePer eyewear coating, and bath-coating services for homes and hotels, distributed through the same training-centre infrastructure. (4) Overseas (¥33mn, 1.1%, 6.6x): still negligible in size — Taiwan PRO SHOPs whose per-store sales the company says now rival domestic LABO stores, and a newly decided Toyota-dealer adoption in Sri Lanka with technician training begun in Japan. Financially the segment compounds steadily: external sales of ¥4,419mn / ¥4,281mn / ¥4,671mn / ¥4,647mn / ¥5,823mn / ¥6,437mn / ¥7,384mn / ¥9,393mn / ¥10,401mn / ¥11,932mn across FY6/17–26, with segment profit of ¥894mn / ¥840mn / ¥1,216mn / ¥1,234mn / ¥2,125mn / ¥2,119mn / ¥2,890mn / ¥3,829mn / ¥4,382mn / ¥4,744mn — **a margin that widened from 20.2% to 39.8% (calculated) as the new-car channel and training-linked chemical pull-through scaled**. Source: company results via PL/segment sheet (tanshin, JPX archive); Q1 FY6/27 tanshin qualitative section and segment-note decomposition, 16 November 2026; FY6/26 tanshin, 14 August 2026.
+
+## Keeper LABO operations: the directly operated and franchised store network
+
+LABO operates the KeePer LABO stores — purpose-built car-beauty shops (wash bays, coating booths, guest rooms) selling KeePer coatings (EX KeePer / TREX at the top, the Diamond series — now DIA II KeePer — in the middle, Fresh and Crystal as annual-repeat products), maintenance services and car washing, increasingly extended into 'mobility base' services (heat-shield window film, window and paint repair, a used-car marketplace, tyre services — FY6/26 tanshin). The demand unit is the store visit: FY6/26 visits were 906,083 (+12.5% YoY) at an average spend of ¥16,863 (−0.5%, diluted by a higher wash mix as the company accepted more low-ticket visits); application volumes were EX/TREX 15,757 units (+3.8%), Diamond series 65,416 (+12.4%), Fresh/Crystal 104,759 (+4.7%) and maintenance up 7.2% — the recurring-maintenance tail lengthening as the coated car parc ages. The store base is the segment's capacity: 184 stores at June 2026 (28 opened in FY6/26 — 13 direct, 15 franchise, the first franchise-majority year), 190 at end-October 2026 (153 direct, 37 franchise), with a published pipeline of named openings through June 2027 and booth-expansion/refurbishment works (including all-weather wash bays and heat countermeasures) across the existing estate. Financially LABO is the volatile segment: external sales of ¥2,580mn / ¥3,034mn / ¥3,650mn / ¥4,052mn / ¥5,978mn / ¥7,922mn / ¥9,659mn / ¥11,181mn / ¥12,693mn / ¥14,028mn across FY6/17–26, with segment profit of ¥277mn / ¥191mn / ¥257mn / ¥374mn / ¥1,283mn / ¥2,208mn / ¥2,585mn / ¥2,273mn / ¥2,717mn / ¥2,170mn — margins of 10.7% / 6.3% / 7.0% / 9.2% / 21.5% / 27.9% / 26.8% / 20.3% / 21.4% / 15.5% (calculated). The FY6/24 margin dip (new-store and cost pressure), the FY6/26 fall (Chapter 2, bullet b4) and the franchise shift — franchise stores convert would-be direct-store capex and personnel cost into royalty-linked, capital-light growth at the price of per-store revenue and direct quality control — are the segment's three recurring debates. The company also discloses an East Japan / West Japan sales split for LABO in the segment note (Q1 FY6/27: East ¥1,776mn, West ¥1,813mn) — a reference decomposition, not a regional segment. Source: company results via PL/segment sheet (tanshin, JPX archive); FY6/26 and Q1 FY6/27 tanshin qualitative sections.
+
+## The integrated model and its operating metrics
+
+The two segments are one flywheel. Products develops the chemistry and trains and certifies the technicians; LABO stores and PRO SHOPs apply it; application volumes pull chemical sales; the visible finish quality in LABO showrooms and dealer lots recruits the next PRO SHOP, dealer programme and franchisee. The disclosed operating metrics that track the flywheel are few and are used in this report only as disclosed: LABO store count (150 at FY6/23-end, 156 at FY6/25-end, 184 at FY6/26-end, 190 at end-October 2026 — tanshin texts; other period-ends not disclosed / 未取得）, store visits and average spend (FY6/26 and Q1 figures above), application units by coating family (FY6/26 and Q1 figures above), and Products channel mix (quarterly, from Q1 FY6/27 materials). R&D is minimal and expensed inside SG&A （試験研究費 ¥42mn in FY6/26, per the sheet's IS breakdown) — the technology effort is application engineering, training content and store-format development rather than laboratory research, and capex is store-led (FY6/26 tangible-fixed-asset purchases of ¥1,682mn per the cash-flow statement; sheet capex line ¥1,709mn including intangibles). Not disclosed in the tanshin and not estimated here: same-store sales, per-store revenue or profit split by direct versus franchise, royalty rates, order intake, backlog, unit chemical volumes, capacity utilisation and employee counts. Source: PL/segment sheet register S7/S8 and operating disclosures; FY6/26 tanshin cash-flow section.
+
+## 4. Market and value chain
+
+Keeper competes in Japanese car-beauty services and aftermarket chemicals — a market created, to a significant degree, by the company itself: glass-type body coatings applied by trained technicians, sold as a branded, warranted service rather than a commodity chemical. The value chain runs from chemical formulation (in-house development; the Diamond Keeper line originated with Germany's SONAX in 2006 per the founder's published history) through distribution and training (eight sales offices, 22 training centres, an annual national technician contest — the 11th, held November 2026, drew record entries per the Q1 tanshin) to application points (LABO stores, 6,679 PRO SHOPs, new-car dealers) and the car owner. ==Entry barriers are the brand and the certification system: a coating's quality is invisible at purchase and revealed over years, so the trademark, the trained-technician network and OEM genuine-adoption approvals are the moat==, and substitutes — dealer in-house coatings, rival coating brands, DIY ceramic sprays, and doing nothing — compete on price against that trust. No company-disclosed market-size or market-share figure is carried in the sources used here, and none is substituted: the verifiable demand evidence is the company's own application volumes and channel growth (Chapter 3).
+
+Three structural currents decide the market's direction, all named by the company itself. First, the gasoline-station channel is in long decline as fuel volumes fall (FY6/26 tanshin outlook section) — PRO SHOP economics per store are improving, and some station operators are converting to LABO stores, but the network's host population shrinks every year. Second, new-car supply is the swing factor for the highest-value applications: FY6/26 was marked by makers diverting supply to exports under the weak yen, then a delivery surge before Golden Week after the environmental-performance tax （環境性能割） was abolished; Q1 FY6/27 EX KeePer volumes fell 8.1% on flood-delayed deliveries in Kanto — coating demand is a derivative of car deliveries and of owners keeping cars longer (the maintenance tail growing at 7.2% in FY6/26 is the offset). Third, labour: stores are technician-intensive, heat-exposed workplaces — the company's responses (all-weather and indoor work environments, booth expansion, the June 2026 three-day-weekend rota, base-pay increases absorbed with flat total personnel cost in Q1 FY6/27) are operating strategy, not welfare colour, because technician supply gates store throughput. The franchise shift and the Idemitsu alliance both read against this map: franchising recruits capital and local operators faster than direct hiring allows, and Idemitsu's service-station network is the largest single pool of potential PRO SHOP and LABO sites in the country — the alliance's stated aim (press coverage, 16 November 2026) is expanding station-attached stores and developing automotive services, with overseas joint ventures under consideration. Sources: FY6/26 tanshin outlook section, 14 August 2026; Q1 FY6/27 tanshin, 16 November 2026; alliance coverage, 16 November 2026 (third-party reporting, flagged).
+
+**Figure: Keeper in the car-coating value chain**
+
+**Chemical Formulation & Suppliers**
+
+- Coating chemicals — Diamond line originated with SONAX (2006)
+- Application tools & equipment
+- Patented paint-surface technology (in-house)
+
+**Keeper Co., Ltd. (6036)**
+
+- Keeper Products etc. — coating chemicals, tools, technician training & certification (46.0% of FY6/26 sales; 39.8% segment margin)
+- Keeper LABO operations — directly operated & franchised car-beauty stores (54.0% of sales)
+
+**Application Network**
+
+- KeePer LABO stores — 184 at Jun 2026, 50 more planned FY6/27
+- PRO SHOP network — 6,679 stores (Aug 2025)
+- New-car dealers — OEM genuine-adoption programmes (Subaru, Toyota, Honda et al.)
+
+**Car Owners**
+
+- Coating applications — EX/TREX, Diamond series, Fresh/Crystal
+- Store visits — 906,083 in FY6/26
+- Average spend ¥17,919 in Q1 FY6/27 (+11.4%)
+
+**Recurring Services**
+
+- Maintenance & annual-repeat coatings
+- Non-car applications — smartphone, eyewear, bath coatings
+- Franchise royalties & chemical pull-through
+
+*Source: Company business description in §3–§4 of this report (no FIELDNOTES car-coating sector template).*
+
+## 5. Segments and regions
+
+Keeper is a non-consolidated, domestic reporter: the tanshin discloses two business segments with sales and operating-profit-basis profit in every period (including, from FY6/26, every quarter), and no regional sales or profit split of any kind (PL/segment sheet register S4: regions block empty, not disclosed). This chapter therefore covers the business segments in full and states the regional position as it is — not disclosed / 未取得 — rather than substituting the segment note's reference decompositions (Products by sales office; LABO East/West), which are reproduced in Chapter 3 for colour and are not regional segments.
+
+**Figure: Keeper Co., Ltd. — segment revenue, FY6/26**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Keeper Products etc. — external sales | 11932 |
+
+| Keeper LABO operations — external sales | 14028 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Keeper Co., Ltd. — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Keeper Co., Ltd. — segment revenue mix, FY6/26**
+
+**Keeper LABO operations**
+
+- ¥14,028mn
+- 54.0% of revenue
+
+**Keeper Products etc.**
+
+- ¥11,932mn
+- 46.0% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## Business segments: Products carries profit; LABO carries growth
+
+Exhibit 2 gives the ten-year history as disclosed. Three facts organise it. First, profit leadership has never changed hands: **Products earned more segment profit than LABO in every year except FY6/22 (¥2,119mn vs ¥2,208mn), and by FY6/26 the gap was ¥4,744mn vs ¥2,170mn** — Products' margin widened from 20.2% (FY6/17) to 39.8% (FY6/26) while LABO's compressed from its FY6/22 peak of 27.9% to 15.5%, so group margin direction is now a LABO cost-absorption question even though Products sets the profit level. Second, LABO is the growth and the volatility: its sales multiplied 5.4x over the decade (Products 2.7x) and it supplied most of the FY6/21 margin step-up, but its profit fell in FY6/18, FY6/24 and FY6/26 — each time on expansion cost (openings, personnel, heat measures) landing ahead of the revenue it creates. The FY6/27 plan (50 openings, 60% franchise) is explicitly designed to break that pattern by shifting opening cost off the company's own P&L; whether franchise stores protect group margin at the cost of slower per-store sales build is the interview pack's central open question and cannot be answered from disclosure, because direct-versus-franchise per-store economics are not disclosed. Third, the accounting joins are clean: external segment sales sum exactly to reported sales in every year (sales adjustment nil), and segment profit sums to operating profit with no adjustment in the main window (the ¥0.001mn residuals are ¥-thousand conversion rounding); in the FY6/17–21 history block the segment note's disclosed intersegment elimination is carried in the adjustment row (−¥155mn / −¥159mn / −¥186mn / −¥240mn / −¥387mn) — a presentation difference between the blocks, flagged in Chapter 9, not spliced. Source: company results via PL/segment sheet (tanshin, JPX archive), segment notes, FY6/17–FY6/26.
+
+**Exhibit 2. Business segments — external sales and segment profit (operating-profit basis), as disclosed**
+
+| ¥mn | FY6/17 | FY6/18 | FY6/19 | FY6/20 | FY6/21 | FY6/22 | FY6/23 | FY6/24 | FY6/25 | FY6/26 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Keeper Products etc. — external sales | 4419 | 4281 | 4671 | 4647 | 5823 | 6437 | 7384 | 9393 | 10401 | 11932 |
+| Keeper Products etc. — segment profit | 894 | 840 | 1216 | 1234 | 2125 | 2119 | 2890 | 3829 | 4382 | 4744 |
+| Keeper LABO operations — external sales | 2580 | 3034 | 3650 | 4052 | 5978 | 7922 | 9659 | 11181 | 12693 | 14028 |
+| Keeper LABO operations — segment profit | 277 | 191 | 257 | 374 | 1283 | 2208 | 2585 | 2273 | 2717 | 2170 |
+| Adjustment / eliminations — profit | -155 | -159 | -186 | -240 | -387 | 0 | 0 | 0 | 0 | 0 |
+| Operating profit (non-consolidated) | 1015 | 872 | 1287 | 1367 | 3021 | 4327 | 5475 | 6101 | 7099 | 6915 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive), segment notes, as reported in each year's own tanshin; FY6/17–21 from the sheet's supplementary history block. Non-consolidated. External sales sum exactly to reported sales in every year. Segment profit adjustment: FY6/17–21 carries the notes' disclosed intersegment eliminations; FY6/22–26 adjustments are nil (¥0.001mn conversion residuals only) — see Basis of preparation. FY6/26 LABO profit is as reported, including the ¥1,093mn of securities-gain-funded growth investment the company allocates to LABO (ex-investment: ¥3,263mn, company-stated).*
+
+## Regions: not disclosed on any basis (未取得)
+
+Regional sales and regional profit are not disclosed in any period: Keeper is a non-consolidated domestic company, its tanshin presents no customer-location or geographic split, and the PL/segment sheet's regions block is empty by design (register S4; Drivers: active regions 0, 'Not disclosed (non-consolidated, domestic)'). Overseas activity exists but is immaterial and is reported only inside the Products channel decomposition — overseas sales of ¥33mn in Q1 FY6/27 (1.1% of Products sales), from Taiwan PRO SHOPs and initial Sri Lanka dealer adoption — with no separate geographic accounting. Any regional exposure analysis would therefore be estimation, and none is presented. The geographic facts that are disclosed are operational, not financial: the LABO network is nationwide (the FY6/27 opening pipeline adds first stores in Shimane and Tottori prefectures), Products sells through eight regional sales offices, and training runs through 22 centres. Source: PL/segment sheet register S4; Q1 FY6/27 tanshin, 16 November 2026.
+
+## 6. Financial statements summary
+
+Condensed NON-CONSOLIDATED statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive); there are no consolidated statements. Income statement: sales ¥6,999mn / ¥7,314mn / ¥8,321mn / ¥8,700mn / ¥11,801mn / ¥14,358mn / ¥17,043mn / ¥20,575mn / ¥23,093mn / ¥25,960mn for FY6/17–FY6/26. Cost of sales and SG&A must be read with the FY6/25 presentation change in view (part of LABO's personnel and operating costs moved from SG&A to cost of sales; the sheet preserves each year as originally reported): cost of sales was ¥2,003mn / ¥1,969mn / ¥2,112mn / ¥2,061mn / ¥2,512mn / ¥2,722mn / ¥3,127mn / ¥3,758mn on the old basis (FY6/17–24) and ¥11,013mn / ¥13,387mn on the new basis (FY6/25–26), with SG&A the mirror image (¥10,715mn in FY6/24 on the old basis; ¥4,981mn and ¥5,659mn in FY6/25–26) — gross margin prints 71–82% before the break and 52.3% / 48.4% after it, a presentational artefact only. Operating profit (unaffected) was ¥1,015mn / ¥872mn / ¥1,287mn / ¥1,367mn / ¥3,021mn / ¥4,327mn / ¥5,475mn / ¥6,101mn / ¥7,099mn / ¥6,915mn. Non-operating items are negligible throughout (FY6/26: income ¥106mn, expenses ¥90mn), so ordinary income tracks operating profit (FY6/26 ¥6,931mn). Extraordinary items were small until FY6/26, when extraordinary income of ¥6,794mn (a ¥6,762mn gain on selling investment securities, plus ¥30mn in Q4) against losses of ¥13mn lifted profit before tax to ¥13,711mn from an ordinary base of ¥6,931mn; total income taxes were ¥3,881mn (current ¥3,964mn, deferred −¥84mn) and net income ¥9,830mn. In normal years the effective tax rate ran at 28–31% (FY6/25: 31.5%, calculated). Depreciation was ¥719mn in FY6/26, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥7,634mn.
+
+Balance sheet (30 June 2026, non-consolidated): total assets ¥33,521mn — current assets ¥18,661mn (cash and deposits ¥14,277mn, notes and accounts receivable ¥2,416mn including electronically recorded claims, merchandise inventory ¥1,390mn, supplies ¥95mn) and fixed assets ¥14,860mn (buildings ¥8,512mn, land ¥2,017mn, lease assets ¥354mn, construction in progress ¥84mn; investment securities ¥57mn after the sale, related-company shares ¥281mn, related-company long-term loans ¥859mn including the current portion, deposits and guarantees ¥750mn, deferred tax assets ¥615mn). Total liabilities were ¥8,430mn (including borrowings of ¥943mn on the sheet's definition and accrued income taxes swollen by the gain), leaving net assets of ¥25,090mn — equity ratio 74.8%, book value per share ¥919.37 (pre-split basis). The ten-year balance-sheet trajectory (total assets / net assets, tanshin headers): ¥5,789mn / ¥3,918mn (FY6/17), ¥6,953mn / ¥4,368mn, ¥7,838mn / ¥5,086mn, ¥8,554mn / ¥5,832mn, ¥9,186mn / ¥5,566mn, ¥11,858mn / ¥8,039mn, ¥15,079mn / ¥11,151mn, ¥19,284mn / ¥14,466mn, ¥24,826mn / ¥18,042mn, ¥33,521mn / ¥25,090mn (FY6/26) — the FY6/21 net-assets dip reflects the October 2020 split-era payout and investment phase as reported, and the FY6/26 step-up is the retained securities gain. Cash flow: operating cash flow ¥976mn / ¥795mn / ¥1,372mn / ¥1,072mn / ¥3,094mn / ¥3,221mn / ¥3,664mn / ¥5,345mn / ¥5,855mn / ¥4,393mn (FY6/17–26); FY6/26 investing inflow ¥8,946mn (securities-sale proceeds ¥11,063mn less ¥1,682mn of tangible-asset purchases) and financing outflow ¥3,235mn (dividends ¥2,729mn the main item). Capital was ¥1,347mn at June 2026 (Nikkei company profile, third-party compilation). Shares issued: 28,280,840 at June 2026 (56,561,680 post-split), of which 989,726 in treasury (1,979,516 post-split); weighted-average shares 27,291,154 in FY6/26 (54,582,199 post-split basis in Q1 FY6/27). Not disclosed in the tanshin and therefore not presented here: order intake and backlog, employees, unit chemical volumes, capacity and utilisation. Source: company results via PL/segment sheet (tanshin, JPX archive); FY6/26 tanshin balance-sheet, cash-flow and header sections, 14 August 2026.
+
+## 7. Strategy and shareholder returns
+
+Keeper's strategy, as stated in its tanshin outlook sections, has three moving parts. (1) Store expansion with a franchise tilt: 28 LABO openings in FY6/26 took the network to 184; FY6/27 plans 50 (20 direct, 30 franchise) to 234, with 33 sites already identified at July 2026-end and progress 'on plan' at Q1 (190 stores at end-October 2026, with a named pipeline of about 30 further openings through June 2027 in the Q1 tanshin) — alongside booth expansion and all-weather/indoor refurbishment of existing stores (21 stores planned for indoor-work conversion at about ¥20mn per store, FY6/26 tanshin) to lift throughput and technician retention. (2) Mix shift to high-value coatings: DIA II KeePer (launched Q2 FY6/26) as the new Diamond-series core, EX/TREX at the top, service price revisions implemented June 2026, and 'mobility base' service additions (films, repairs, tyre services) to raise spend per visit — **Q1 FY6/27 average spend of ¥17,919 (+11.4%) is the early evidence**. (3) Channel expansion in Products: new-car genuine-adoption programmes as the main axis, non-car applications (smartphone, eyewear, bath) and first overseas steps (Taiwan, Sri Lanka). No quantified mid-term plan beyond FY6/27 guidance was found in the sources used （未取得） — the interview pack flags this as a question for management — so this report sets no plan targets of its own. The Idemitsu capital and business alliance (announced 16 November 2026) adds a fourth, externally supplied leg: service-station-attached store expansion and joint automotive-service development with the country's largest fuel retailer, whose network overlaps the PRO SHOP heartland (alliance aims as reported in press coverage; the company's own detailed plan is not in the sources used).
+
+Shareholder returns. The dividend has risen every year of the record on each document's own basis — ¥19 (FY6/17), ¥9 and ¥12 and ¥15 around the split era, ¥20, ¥31, ¥43, ¥50, ¥60 and ¥100 in FY6/26 (interim ¥40, final ¥60) — with payout ratios of 20–34% and dividend-on-equity reaching 12.7% in FY6/26 (tanshin headers). For FY6/27 the forecast is held at the ¥100 equivalent (¥50 post-split, year-end only), which on the guided EPS of ¥113.99 (post-split) is a 43.9% payout — consistent with the dividend policy stated in the securities report (shareholder returns as a top management priority; a medium-term payout target of about 45% per the policy as compiled by third-party summaries of the FY6/26 securities report). No buyback is recorded in the periods covered here; treasury shares were essentially flat at 989,726 (pre-split) across FY6/25–26. The monitoring set, in the order the data arrives: Q2 FY6/27 (H1 cumulative, ~February 2027) operating profit against the ¥4,866mn H1 guide — the December quarter is the guide's fulcrum (implied Q2 standalone ¥3,077mn, calculated); LABO segment margin in H1 against Q1's recovered 15.4% and the prior-year H1 base; store count against the 234-store plan pace (about +25 net by end-Q2 on a straight-line path) and the direct/franchise mix; Products new-car channel growth against new-car delivery conditions; and any quantified alliance plan or mid-term targets accompanying the H1 briefing materials. All forward figures above are company guidance or company plan statements, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY6/26 tanshin outlook and dividend sections, 14 August 2026; Q1 FY6/27 tanshin, 16 November 2026; interview pack, 16 November 2026.
+
+## 8. Other information
+
+History. The company's roots are a gasoline business: founder Yoshimichi Tani （谷 好通） established Kabushiki Kaisha Tani in Kariya, Aichi, in August 1985 to sell gasoline, and the car-wash and coating activity that became KeePer began as a side business of the service station (company securities report history section, FY6/26, filed 25 September 2026). In February 1993 the coating business was separated as I-TAC Giken Co., Ltd. (capital ¥10mn), which later took the name KeePer Giken (KeePer技研株式会社）; the KeePer brand and its patented paint-surface technology date from the mid-1990s, Diamond Keeper (with SONAX) from 2006, the PRO SHOP certification network from 2008, and the LABO store format (renamed from Kaisentai) from 2011 (founder's published company history). The shares listed on TSE Mothers in 2015 and now trade on the Tokyo and Nagoya exchanges (tanshin header: 東・名； TSE Prime per third-party market data). Head office: Yoshikawa-cho, Obu, Aichi. Capital: ¥1,347mn at June 2026 (Nikkei company profile — third-party compilation). The current fiscal year is the 34th term (securities report).
+
+Management. Representative Director, Chairman, President and CEO: Yoshimichi Tani （谷 好通） — founder; he moved from Chairman and CEO to the combined Chairman, President and CEO role on 28 September 2026, returning to the presidency after about seven years, on the retirement of President Sosuke Kaku （賀来 聡介） at the 28 September 2026 annual shareholders' meeting (press coverage, November 2026; the Q1 FY6/27 tanshin names Tani as 代表取締役会長兼社長CEO and the FY6/26 tanshin, under the prior structure, as 代表取締役会長兼CEO）. The inquiry contact is Senior Managing Director and Co-COO Rikichika Suzuoki （鈴置 力親）. Shares issued: 56,561,680 (post-split) at September 2026, treasury 1,979,516.
+
+Major shareholders — a register in motion. As of the FY6/26 securities report the register was headed by the founder's interests and VT Holdings (the dealer-group holder that took a capital stake in 2019); the precise pre-transaction table is not reproduced here because it was superseded on 16 November 2026 （未取得 in the sources used for the full table). The announced post-transaction shape (company alliance announcement as reported 16 November 2026): Tani, the founder's asset-management company, rises from 21.27% to 29.27% (acquiring about 2.0mn shares from VT Holdings and about 2.36mn from former president Kaku); Idemitsu Kosan becomes the second-largest holder with about 7.31mn shares acquired from VT Holdings for about ¥13.7bn (stated as 13.39% of shares excluding treasury in announcement coverage; Idemitsu's large-shareholding report of 16 November 2026 states 7,309,096 shares and 12.92% of issued shares — the two percentages use different denominators and are both shown, not reconciled); VT Holdings exits entirely (about 9.32mn shares disposed). Percentages are as reported in those sources, on the post-split share base where applicable, and the completed register should be verified against the next securities report.
+
+Employees and other data. Employee numbers are not disclosed in the tanshin (PL/segment sheet: employees blank in every period) and are not presented as company disclosure here; third-party profiles put employees at about 1,230 (TradingView company data, October 2026) — a third-party figure, flagged accordingly, and not comparable to a non-consolidated headcount without verification.
+
+Market data. The shares closed at ¥1,768 on 16 November 2026 (StockAnalysis.com; Finnhub records the same ¥1,768 as the previous close into 17 November), on the post-split basis (the 2-for-1 split took effect 1 November 2026), giving a market capitalisation of about ¥96.5bn (calculated from the cited price and the 54.58mn shares excluding treasury at September 2026; third-party compilations show about ¥100.0bn — see Basis of preparation). The 52-week range was ¥1,239 to ¥2,005 (StockAnalysis.com). At ¥1,768 the shares trade at 9.8x FY6/26 EPS on the split-adjusted basis (¥180.10), 15.5x FY6/27 company-guidance EPS of ¥113.99, 3.8x book value per share on the split-adjusted FY6/26 BPS (¥459.69, calculated), and a 2.8% yield on the FY6/27 forecast dividend of ¥50 (all calculated from the cited price and company-reported per-share data). The Q1 results and the Idemitsu alliance were announced after the close on 16 November 2026; the shares were quoted lower in early trading on 17 November (¥1,759, −0.5%, in intraday third-party coverage). The next scheduled disclosure is the Q2 FY6/27 tanshin (H1 cumulative), expected around February 2027 by the company's past pattern (Q2 FY6/26 was released 16 February 2026).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and operating metrics are taken from the PL/segment sheet for Keeper (6036) (J-GAAP template; June year-end; FY6/22–FY6/26 main window plus 20 quarters, and the supplementary history block at Reported inputs rows 114–160 carrying FY6/17–FY6/21 annuals — the copy used is the H7-deepened read-back of the sheet, ~/workspace/pl-segment/work/keeper/hist7/readback.xlsx, whose main window agrees with the LibreOffice-recalculated copy in the sheet's recalc/ folder; all template checks and history-block tie checks equal zero), built from the company's tanshin in the JPX disclosure archive (sheet register S1–S15; rollout log batch 6b and history wave H7, 2026-11-16/17). Q1 FY6/27 figures are from the primary Q1 FY6/27 tanshin [J-GAAP, non-consolidated] dated 16 November 2026 (local file; TDnet 140120261116581145), including its segment note — this verifies the quarter against the primary document, one step beyond the guidance tracker's IRBANK-compilation check. Guidance is from the FY6/26 tanshin (14 August 2026) and the Q1 FY6/27 tanshin (16 November 2026), cross-checked against the guidance tracker of 17 November 2026 and the interview pack of 16 November 2026. There is no English transcript for 6036 in the programme's transcript library and no Q&A record is cited; the company held no Q1 briefing （決算説明会：無）. Market data are from StockAnalysis.com and Finnhub as returned by web search on 17 November 2026 and are cited with dates in the text; the Idemitsu alliance, the presidential change and shareholder percentages are from the company's 16 November 2026 announcement as reported by Nikkei-group/automotive press and from Idemitsu's large-shareholding report of the same date, flagged as such at each use; history and capital are from the FY6/26 securities report (filed 25 September 2026) as surfaced in search results and the Nikkei company profile.
+
+Discrepancies and basis breaks flagged (not silently resolved). (1) NON-CONSOLIDATED basis: every figure in this report is non-consolidated (単体) J-GAAP — Keeper publishes no consolidated statements — and the lede, Chapters 1 and 6 and this chapter state the basis; any third-party database presenting 'consolidated' Keeper figures is presenting the same non-consolidated accounts under a different label. (2) Cost presentation change: from FY6/25, part of LABO personnel/operating costs moved from SG&A to cost of sales (FY6/25 tanshin note; ¥5,920mn reclassified in the restated FY6/24 comparative within that document). The sheet preserves each year as originally reported, so this report's gross margins (81.7% in FY6/24 vs 52.3% in FY6/25) and SG&A ratios straddle a presentational break; operating profit, ordinary income and net income are unaffected, and the restated FY6/24 figures in the FY6/25 tanshin (cost of sales ¥9,679mn) differ from the as-reported FY6/24 figures used here (¥3,758mn) — both are identified where relevant. (3) Stock splits: 2-for-1 splits on 1 July 2017, 1 October 2020 and 1 November 2026. Each tanshin restates only its own comparatives, so printed EPS/BPS/DPS differ in basis across documents (e.g. FY6/20 DPS of ¥15 in its own tanshin is ¥7.50 split-adjusted per the FY6/21 tanshin; FY6/26 EPS of ¥360.20 pre-split is ¥180.10 on the current basis; the FY6/27 guidance EPS appears as ¥227.98 in the August 2026 tanshin and ¥113.99 in the November 2026 tanshin). This report uses each document's own basis and labels every conversion. (4) FY6/26 earnings quality: reported net income (¥9,830mn) and the printed ROE (45.6%) are dominated by the ¥6,762mn extraordinary securities-sale gain (register S11); the company's 'excluding ¥1,093mn growth investment' operating profit of ¥8,007mn is a company-stated adjustment quoted as such, never as a reported figure. (5) Segment adjustment presentation: the FY6/17–21 history block carries the segment note's disclosed intersegment eliminations in the profit adjustment row (−¥155mn to −¥387mn), while the FY6/22–26 main window and the Q1 FY6/27 note show segment profit summing to operating profit with nil adjustment — the difference is in the source notes' presentation across eras and is preserved, not harmonised. (6) Interview pack vs primary tanshin: the pack (written 16 November 2026 from IRBANK's compilation) marks the Q1 FY6/27 segment split as 未取得； the primary Q1 tanshin's segment note, used here, discloses it in full (Products ¥3,050mn / ¥1,237mn; LABO ¥3,589mn / ¥552mn) — the pack's gap is superseded by the primary source. The pack's H1 progress ratios (44.5% / 36.8%) agree with the primary figures within rounding (44.6% / 36.8% as calculated here). (7) Shareholder percentages: the Idemitsu stake is 13.39% of shares excluding treasury (announcement coverage) and 12.92% of issued shares (large-shareholding report) — different denominators, both reported. (8) Market capitalisation: the calculated ¥96.5bn (price × shares ex-treasury at September 2026) differs from third-party compilations of about ¥100.0bn, which appear to use the full issued count; the calculated figure and its share base are stated wherever used. (9) Quarterly history: the company published no Q1 tanshin for FY6/22–25 and no Q3 tanshin for FY6/22/FY6/25 (register S2); the sheet recovers H1/9M cumulatives from later comparatives, leaves the pre-FY6/26 Q1/Q2 standalone split undisclosed (Q2 columns carry H1 cumulatives), and this report makes no use of standalone quarters before FY6/26.
+
+Conventions and gaps. Fiscal years are labelled by the June year-end (FY6/27 = year ending 30 June 2027). 'Company guidance' means Keeper's published forecasts （会社計画）; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — regional sales and profit (domestic, non-consolidated; 未取得）, order intake and backlog, employees, unit chemical volumes, capacity and utilisation, same-store sales, direct-versus-franchise per-store economics, a quantified mid-term plan beyond FY6/27, the full pre-transaction major-shareholder table, and LABO store counts at most period-ends other than FY6/23, FY6/25 and FY6/26 — are described as not disclosed rather than estimated. KPI history in this report covers ten years (FY6/17–FY6/26) from the PL/segment sheet's main window plus supplementary history block, matching the Shared Research reference span.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; strategy and shareholder returns; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

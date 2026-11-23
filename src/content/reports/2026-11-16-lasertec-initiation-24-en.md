@@ -1,0 +1,342 @@
+---
+title: "The world's only actinic EUV mask-inspection supplier: initiation on a 45.7% operating-margin monopoly whose earnings lag its orders by 1.5–2 years"
+company: "Lasertec Corporation"
+ticker: "6920"
+sector: "Semiconductors"
+date: 2026-11-16
+type: initiation
+externalUrl: "/en/reports/2026-11-16-lasertec-initiation-24/"
+lang: en
+---
+
+A monopoly at the bottleneck of EUV lithography: Lasertec Corporation (6920, TSE Prime) is, as of 2026, the only company in the world shipping actinic EUV patterned-mask inspection systems — the ACTIS series, which inspects photomasks at the 13.5nm wavelength used for exposure itself. The investment case at initiation is a timing case, not a demand-discovery case. FY6/26 (year ended 30 June 2026) revenue fell 8.3% to ¥230,485mn and operating profit fell 14.3% to ¥105,259mn (45.7% margin) because revenue recognised in FY6/26 was determined by the order collapse of FY6/25 (orders ¥105,226mn, −61% YoY). **Orders then recovered to ¥237,504mn in FY6/26 (+125.7%)**, the year-end backlog reached ¥322,964mn, and at Q1 FY6/27 (30 October 2026) the company raised its FY6/27 order-intake forecast from ¥300–400bn to ¥400–500bn (midpoint ¥450bn, which would be a record) while leaving full-year guidance unchanged at revenue ¥290,000mn and operating profit ¥125,000mn. Strengths: (1) a genuine monopoly in actinic EUV mask inspection (ACTIS A150, 2019; A300 for High-NA, November 2023, with the in-house URASHIMA EUV light source; A200HiT, October 2025, at roughly 3x the A150's throughput), with no competitor shipping an EUV tool as of 2026, and an estimated 50–70% share in DUV mask inspection; (2) economics few equipment makers match — a 45.7% operating margin in a down year, 48.8% in FY6/25, ROE of 33.9% in FY6/26, no interest-bearing debt at year-end and cash and deposits of ¥91,503mn; (3) a services business that grew 36.5% to ¥58,646mn in FY6/26 (25.4% of revenue) on the installed base, dampening the equipment cycle. Weaknesses: (1) extreme customer and cycle concentration — in FY6/25 **three customers (Intel 33.3%, TSMC 26.3%, Samsung 19.9%) were 79.5% of revenue**, and orders can halve or double in a year (¥323.7bn in FY6/23 on third-party compilations, ¥105.2bn in FY6/25, a guided ¥400–500bn in FY6/27); (2) working capital absorbs the monopoly rent in time rather than price — inventory was ¥142,404mn at end-FY6/26, the cash conversion cycle was about 651.8 days and inventory days 653.9 days (Shared Research calculation, FY6/26), because tools are built over 1.5–2-year lead times against customer acceptance; (3) disclosure has thinned precisely where the cycle turns — quarterly order and backlog disclosure was abolished from FY6/25, so orders and backlog are now disclosed only at the year-end, and Q1 FY6/27 itself printed revenue of ¥40,369mn (−25.5% YoY) and operating profit of ¥15,769mn (−41.0%), leaving FY6/27 guidance heavily second-half weighted. All historical figures are as reported by the company (Japanese GAAP); the only forward figures are company guidance and the company's order-intake forecast range, labelled as such. No rating or price target is assigned at initiation (Under Review). Sources: company tanshin and securities reports via EDINET compilations (the-shashi / EDINET DB, retrieved November 2026); Shared Research report on 6920 dated 30 October 2026 for market-share, customer-concentration and working-capital calculations, as flagged in the text and in the Basis of preparation.
+
+**Exhibit 1. Key indicators — FY6/17–FY6/26 actuals and FY6/27E company guidance**
+
+| ¥mn unless stated | FY6/17 | FY6/18 | FY6/19 | FY6/20 | FY6/21 | FY6/22 | FY6/23 | FY6/24 | FY6/25 | FY6/26 | FY6/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 17369 | 21253 | 28770 | 42573 | 70248 | 90379 | 152832 | 213506 | 251477 | 230485 | 290000 |
+| Revenue growth (%) | — | 22.4 | 35.4 | 48 | 65 | 28.7 | 69.1 | 39.7 | 17.8 | -8.3 | 25.8 |
+| Operating profit | 4961 | 5685 | 7941 | 15063 | 26074 | 32493 | 62287 | 81375 | 122843 | 105259 | 125000 |
+| Operating margin (%) | 28.6 | 26.7 | 27.6 | 35.4 | 37.1 | 36 | 40.8 | 38.1 | 48.8 | 45.7 | 43.1 |
+| Ordinary profit | 4989 | 5707 | 7834 | 15115 | 26439 | 33582 | 63668 | 82021 | 119444 | 107895 | 125000 |
+| Net income to parent | 3555 | 4366 | 5934 | 10824 | 19250 | 24851 | 46164 | 59076 | 84652 | 77485 | 90000 |
+| EPS (¥, split-adjusted) | 39.2 | 48.4 | 65.8 | 120 | 213.5 | 275.6 | 511.9 | 655.1 | 938.6 | 863 | 1003.3 |
+| Dividend per share (¥) | 28 | 34 | 47 | 58 | 75 | 97 | 180 | 230 | 329 | 329 | 351 |
+| Order intake | — | — | — | — | — | 186500 | 323700 | 272800 | 105226 | 237504 | 400000–500000 (co. forecast range) |
+| Period-end order backlog | — | — | — | — | — | — | — | 462200 | 315900 | 322964 | — |
+| Operating cash flow | 3549 | 2917 | 5800 | 16487 | 10489 | -3464 | 40548 | 33317 | 77874 | 48540 | — |
+| Total assets | 33019 | 38122 | 50056 | 81794 | 118725 | 178630 | 271574 | 271288 | 329601 | 336650 | — |
+| Equity ratio (%) | 74.1 | 71 | 62.1 | 47.9 | 46.5 | 40.7 | 40.2 | 55.8 | 63.7 | 73.3 | — |
+
+*Source: Company securities reports via EDINET XBRL compilation (the-shashi, retrieved 16 Nov 2026); FY6/27E = company guidance (FY6/26 tanshin, 6 Aug 2026; unchanged at Q1, 30 Oct 2026). EPS split-adjusted basis as compiled by providers (FY6/26: EDINET DB ¥862.99). Dividend FY6/17 ¥28 per company-history compilations; FY6/18–26 as compiled from securities reports.*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥2.92tn |
+| 52-week range | ¥25,590 – ¥58,580 |
+| P/E (FY6/26 EPS ¥862.99) | 35.1x |
+| P/E (FY6/27E co. guidance EPS ¥1,003.27) | 30.2x |
+| FY6/27E dividend (company forecast) | ¥351 / share (1.0% yield at ¥36,130) |
+| Next event | Q2 FY6/27 results, expected late Jan / 1 Feb 2027 |
+
+## Key points
+- **Orders lead earnings by 1.5–2 years — and orders have turned.** Order intake was ¥105,226mn in FY6/25, ¥237,504mn in FY6/26 (+125.7% YoY), and **the FY6/27 order forecast was raised on 30 October 2026 to ¥400–500bn from ¥300–400bn (midpoint ¥450bn)**. The year-end backlog was ¥322,964mn at 30 June 2026. Because revenue is recognised on customer acceptance after long lead times, the FY6/25 order trough produced the FY6/26 revenue decline, and the current order recovery is principally an FY6/28-and-later revenue event. Source: FY6/26 tanshin / securities report via company business report, September 2026; Q1 FY6/27 presentation materials, 30 October 2026 (via Shared Research teardown and press summaries).
+- **Guidance is unchanged — and heavily back-loaded.** FY6/27 company guidance (unchanged at Q1) is revenue ¥290,000mn (+25.8% YoY), operating profit ¥125,000mn (+18.8%), ordinary profit ¥125,000mn, net income to parent ¥90,000mn (+16.2%) and a dividend of ¥351. **Q1 delivered only 13.9% of guided revenue and 12.6% of guided operating profit** (revenue ¥40,369mn, −25.5% YoY; operating profit ¥15,769mn, −41.0%; net income to parent ¥10,734mn, −43.7%), so delivery depends on acceptances concentrated in the remainder of the year. Source: Q1 FY6/27 tanshin, 30 October 2026.
+- **Strength — the actinic monopoly and its margin.** ACTIS is the world's only actinic (same-wavelength) EUV patterned-mask inspection platform: A150 (2019), A300 for High-NA EUV (November 2023, in-house URASHIMA source) and A200HiT (October 2025, roughly 3x A150 throughput). **No competitor ships an EUV inspection tool as of 2026**. The mask-inspection market is estimated at ¥300–400bn, about 90% held by Lasertec, KLA and Applied Materials combined, with Lasertec at an estimated 50–70% in DUV. Operating margin was 48.8% in FY6/25 and 45.7% in FY6/26, versus 29.2% for Applied Materials and 25.6% for Tokyo Electron on Shared Research's comparison. Source: Shared Research report on 6920, 30 October 2026 (teardown notes).
+- **Weakness — concentration and a 652-day cash cycle.** **Three customers were 79.5% of FY6/25 revenue** (Intel 33.3%, TSMC 26.3%, Samsung 19.9%; Shared Research, from the securities report — see Basis of preparation). Inventory reached ¥142,404mn at end-FY6/26 (work in process ¥122,449mn), inventory days were 653.9 and the cash conversion cycle about 651.8 days (Shared Research, FY6/26). Advances received fell from ¥95,155mn at end-FY6/23 to ¥44,284mn at end-FY6/26 as the FY6/25 order trough worked through, so the balance sheet, not the P&L, is where the cycle shows first. Source: company securities reports via the-shashi compilation, retrieved November 2026; Shared Research teardown.
+- **Services are the structural offset management is targeting.** **Services revenue rose 36.5% to ¥58,646mn in FY6/26 (25.4% of revenue**, from 17.1% in FY6/25) and grew about 31% YoY in Q1 FY6/27 to about ¥16.0bn on third-party summaries of the Q1 release. The new mid-term plan targets services at 20% or more of revenue by FY6/30 — a level FY6/26 already exceeded on the equipment trough, which readers should note when judging the target. Source: FY6/26 company business report, September 2026; Q1 FY6/27 tanshin summaries, 30 October 2026; mid-term plan via Shared Research teardown.
+
+## 1. Key indicators and financial history
+
+Lasertec reports under Japanese GAAP with a June year-end (FY6/26 = year ended 30 June 2026) and as a single segment. The ten-year record below is as reported in the company's annual securities reports, compiled from EDINET XBRL data (the-shashi 10-year summary, retrieved 16 November 2026) and cross-checked against the company's FY6/25 results presentation (7 August 2025) and FY6/26 business report (September 2026). Figures are ¥mn unless stated; EPS is shown on the split-adjusted basis used by data providers following the 2-for-1 stock split (shares issued rose from 47,143k to 94,286k in FY6/20 in the securities-report share count).
+
+The decade divides into a pre-EUV business and an EUV business. Revenue was ¥17,369mn in FY6/17, ¥21,253mn in FY6/18 and ¥28,770mn in FY6/19, with operating profit of ¥4,961mn, ¥5,685mn and ¥7,941mn (margins of 28.6%, 26.7% and 27.6%). The ACTIS A150's 2019 launch and the industry's EUV ramp then compounded revenue at extraordinary rates: ¥42,573mn in FY6/20 (+48.0%), ¥70,248mn in FY6/21 (+65.0%), ¥90,379mn in FY6/22 (+28.7%), ¥152,832mn in FY6/23 (+69.1%), ¥213,506mn in FY6/24 (+39.7%) and a record ¥251,477mn in FY6/25 (+17.8%), before the first decline of the EUV era in FY6/26, to ¥230,485mn (−8.3%). **That is a FY6/17–FY6/26 revenue CAGR of about 33%.** Operating profit rose from ¥15,063mn in FY6/20 (35.4% margin) to ¥122,843mn in FY6/25 (48.8% margin) and eased to ¥105,259mn in FY6/26 (45.7%). Gross margin reached 59.0% in FY6/25 and 59.2% in FY6/26 (gross profit ¥148,256mn and ¥136,479mn), so the FY6/26 operating-margin decline came below the gross line: SG&A rose 22.9% to ¥31,220mn, including R&D that data providers put at ¥16,292mn in FY6/25 (FY6/24: ¥11,677mn; FY6/23: ¥12,165mn) — R&D is lumpy by quarter because much development work is outsourced (Shared Research).
+
+Net income attributable to owners of the parent tracked operating profit closely (there are no non-controlling interests of consequence): ¥3,555mn (FY6/17), ¥4,366mn, ¥5,934mn, ¥10,824mn, ¥19,250mn, ¥24,851mn, ¥46,164mn, ¥59,076mn, ¥84,652mn (FY6/25) and ¥77,485mn (FY6/26). Split-adjusted EPS was ¥39.20 in FY6/17, ¥48.42, ¥65.80, ¥120.02, ¥213.47, ¥275.57, ¥511.89, ¥655.05, ¥938.61 and ¥862.99 (providers differ by ¥0.01 on FY6/26 — see Basis of preparation). ROE was 50.8% in FY6/23, 45.4% in FY6/24, 46.9% in FY6/25 and 33.9% in FY6/26 (EDINET DB / securities-report compilations). Dividends per share rose from ¥28 in FY6/17 to ¥329 in both FY6/25 and FY6/26; the FY6/27 forecast is ¥351.
+
+The balance sheet is unlevered and inventory-heavy. Total assets were ¥336,650mn at 30 June 2026 (¥329,601mn a year earlier), net assets ¥246,850mn and the equity ratio 73.3% (63.7% at end-FY6/25, 40.2% at end-FY6/23 — the ratio troughed when advances and payables ballooned with the order peak). Cash and deposits were ¥91,503mn and there was no short- or long-term borrowing at end-FY6/26 (a ¥10,000mn short-term borrowing appeared in FY6/22 and was repaid by FY6/24). Operating cash flow was ¥48,540mn in FY6/26 (FY6/25: ¥77,874mn; FY6/24: ¥33,317mn; FY6/23: ¥40,548mn; FY6/22: −¥3,464mn — negative in a record-profit trajectory because inventory absorbed cash). FY6/26 financing outflow of ¥43,181mn comprised ¥31,131mn of dividends and ¥12,003mn of share buybacks, the first buyback outflow in the ten-year compilation. Consolidated headcount was 1,335 at end-FY6/26 (1,163 in FY6/25; 1,017 in FY6/24; 859 in FY6/23). The full KPI table, including FY6/27 company guidance, is Exhibit 1 (page 1).
+
+**Figure: Lasertec Corporation — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY6/17 | 17369 |
+
+| FY6/18 | 21253 |
+
+| FY6/19 | 28770 |
+
+| FY6/20 | 42573 |
+
+| FY6/21 | 70248 |
+
+| FY6/22 | 90379 |
+
+| FY6/23 | 152832 |
+
+| FY6/24 | 213506 |
+
+| FY6/25 | 251477 |
+
+| FY6/26 | 230485 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Lasertec Corporation — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY6/17 | 4961 |
+
+| FY6/18 | 5685 |
+
+| FY6/19 | 7941 |
+
+| FY6/20 | 15063 |
+
+| FY6/21 | 26074 |
+
+| FY6/22 | 32493 |
+
+| FY6/23 | 62287 |
+
+| FY6/24 | 81375 |
+
+| FY6/25 | 122843 |
+
+| FY6/26 | 105259 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Lasertec Corporation — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY6/17 | 28.6 |
+
+| FY6/18 | 26.7 |
+
+| FY6/19 | 27.6 |
+
+| FY6/20 | 35.4 |
+
+| FY6/21 | 37.1 |
+
+| FY6/22 | 36 |
+
+| FY6/23 | 40.8 |
+
+| FY6/24 | 38.1 |
+
+| FY6/25 | 48.8 |
+
+| FY6/26 | 45.7 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Lasertec Corporation — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Lasertec Corporation — revenue vs operating profit**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q1 FY6/27 results, FY6/26 full year and guidance
+
+Lasertec reported Q1 FY6/27 (July–September 2026) results on 30 October 2026, on the Q1 FY6/27 basis of the Shared Research report of the same date. This chapter summarises that release and the FY6/26 full-year result (6 August 2026) that preceded it; order and product detail is in Chapter 5.
+
+## Q1 FY6/27 results (as reported)
+
+Revenue was ¥40,369mn (−25.5% YoY, versus ¥54,171mn in Q1 FY6/26), operating profit ¥15,769mn (−41.0%; margin 39.1%, versus 49.3% a year earlier on the derived prior-year figure), ordinary profit ¥14,711mn (−45.8%) and net income attributable to owners of the parent ¥10,734mn (−43.7%); Q1 EPS was ¥119.72 (Finnhub earnings calendar). By category, semiconductor-related equipment sales were ¥23,849mn (59.1% of revenue, down sharply YoY) and services revenue was about ¥16.0bn (about +31% YoY), with other products the small remainder (Q1 tanshin via Japan IR / FilingReader summaries, 30 October 2026; the services split is as summarised from the tanshin's category note — see Basis of preparation). Management attributed the demand backdrop to continued AI data-centre investment and high demand for advanced semiconductors (CPUs, GPUs, high-bandwidth memory), with **the revenue decline a function of acceptance timing against the FY6/25 order trough rather than end-demand**. At 30 September 2026 total assets had risen versus June 2026 and cash and deposits had increased significantly, with a reported equity ratio of 65.4% in one AI-generated filing summary — a figure this report does not rely on without the primary tanshin table (see Basis of preparation). Source: Q1 FY6/27 tanshin, 30 October 2026 (via Japan IR, FilingReader and Dow Jones summaries).
+
+## Guidance unchanged; order-intake forecast raised to ¥400–500bn
+
+Full-year FY6/27 guidance was left unchanged at Q1 — company guidance, not a J-Core Fundamental Research forecast: revenue ¥290,000mn (+25.8% YoY), operating profit ¥125,000mn (+18.8%; 43.1% margin), ordinary profit ¥125,000mn (+15.9%), net income to parent ¥90,000mn (+16.2%), guidance EPS of ¥1,003.27 as compiled by IR Bank, and a dividend of ¥351 (interim ¥140, year-end ¥211, as summarised from the FY6/26 release). The consequential change at Q1 was outside the P&L forecast: the FY6/27 order-intake forecast was raised from ¥300–400bn to ¥400–500bn (midpoint ¥450bn, +¥100bn at the midpoint), which the company and Shared Research describe as a record level if achieved. Press and presentation summaries attribute more than 60% of the increase to the ACTIS A200HiT for logic fabs, with customers reportedly placing volume forecasts before A200HiT evaluations had completed, and DUV MATRICS demand — including from China — also stronger than assumed three months earlier (company Q1 presentation and briefing summaries, 30 October 2026, via third-party reports; flagged as summarised, not verbatim company text). Two precision points matter. First, quarterly order and backlog actuals are no longer disclosed: quarterly disclosure was abolished from FY6/25 and orders/backlog are published only at the fiscal year-end, so ==the ¥400–500bn is a full-year forecast range, not a Q1 actual==, and no Q1 backlog figure exists in company disclosure. Second, with lead times of 1.5–2 years (mid-term plan target: 0.5–1.5 years), FY6/27 orders convert principally into FY6/28–29 revenue; they do not de-risk the back-loaded FY6/27 P&L guidance, whose delivery rests on the ¥322,964mn backlog carried in at June 2026. Source: Q1 FY6/27 tanshin and presentation materials, 30 October 2026; Shared Research report, 30 October 2026.
+
+## FY6/26 full year in brief
+
+FY6/26 (reported 6 August 2026): revenue ¥230,485mn (−8.3%), operating profit ¥105,259mn (−14.3%), ordinary profit ¥107,895mn (−9.7%) and net income to parent ¥77,485mn (−8.5%). Semiconductor-related equipment sales fell 17.2% to ¥168,090mn (72.9% of revenue), services rose 36.5% to ¥58,646mn (25.4%) and other products fell 32.5% to ¥3,747mn (1.6%). Orders recovered 125.7% to ¥237,504mn (book-to-bill 1.03x, versus 0.42x in FY6/25) and the backlog rose to ¥322,964mn. Quarterly revenue through FY6/26 shows the acceptance lumpiness readers must expect: FY6/26 quarters were ¥54,171mn / ¥74,087mn / ¥41,281mn / ¥60,946mn, against FY6/25's ¥36,737mn / ¥92,231mn / ¥39,867mn / ¥82,642mn (Roic AI quarterly compilation of company filings). Source: FY6/26 tanshin via company business report, September 2026, and Gyokai Digest summary of the release, 6 August 2026.
+
+## 3. Business description
+
+Lasertec, headquartered in Kohoku-ku, Yokohama, designs, manufactures and sells inspection and measurement systems, overwhelmingly for semiconductor photomask and wafer-related applications, and reports as a single segment. Its disclosed revenue categories are semiconductor-related equipment, services, and other products (principally flat-panel-display inspection and laser microscopes). Overseas sales are the large majority of revenue (third-party estimates put them at about 92% in FY6/25 — an estimate, not a company-disclosed ratio in the sources used here). The group's model is asset-light at the factory and heavy at the workbench: precision parts production is substantially outsourced, with final assembly, adjustment and inspection in Yokohama — including at the Lasertec Innovation Park (InnoPa, in operation since July 2023; Fab-4A/4B in production per Shared Research) — which is one structural reason gross margins near 60% are possible, and why work in process, not fixed assets, dominates the balance sheet.
+
+## ACTIS: actinic EUV patterned-mask inspection
+
+A photomask is the template from which circuits are printed; a defect on the mask repeats on every wafer. For EUV lithography, only inspection at the exposure wavelength itself (13.5nm, 'actinic' inspection) can detect the phase and multilayer defects that matter, because a DUV-wavelength image does not reproduce how the mask behaves in the scanner. Lasertec's ACTIS A150, launched in 2019, was the world's first actinic EUV patterned-mask inspection system, and the franchise has since extended in two directions: the ACTIS A300 (November 2023), supporting High-NA EUV and using Lasertec's in-house URASHIMA EUV light source, and the ACTIS A200HiT (October 2025), at roughly three times the A150's throughput. The company also supplies EUV mask-blank inspection (the ABICS / MAGICS lineage for blanks). As of 2026 no competitor ships an EUV mask-inspection tool (Shared Research) — KLA and Applied Materials compete in DUV mask inspection, e-beam and optical wafer inspection, but the actinic position is Lasertec's alone, which is why a company of ¥230bn revenue can sustain a 45–49% operating margin: **it prices a bottleneck, not a commodity tool**. The corollary is binary exposure: the franchise's value rests on EUV (and High-NA) remaining the industry's patterning path and on Lasertec remaining sole supplier. Source: Shared Research report on 6920, 30 October 2026; company product materials.
+
+## DUV mask inspection, wafer and SiC: MATRICS, MAGICS and new products
+
+Below EUV, Lasertec's MATRICS series inspects DUV (and earlier-generation) photomasks, where its share is estimated at 50–70% (Shared Research); the MAGICS series (including the M9750/M9751 mask-blank systems cited by Shared Research as new products) covers mask blanks, and the company has extended into wafer-edge / bare-wafer and compound-semiconductor inspection, including the SICA108 for silicon-carbide (SiC) wafers and the MATRICS X712 cited as a new product in the Shared Research notes. These lines matter for two reasons: they address the much larger installed base of mature-node fabs — including the China DUV demand management cited as strengthening at Q1 FY6/27 — and they diversify a revenue base otherwise tied to the handful of leading-edge EUV fabs. Their individual revenue contributions are not disclosed; semiconductor-related equipment is reported as one category (¥168,090mn in FY6/26), within which Shared Research notes mask inspection is the overwhelming majority (a third-party summary of a company FAQ puts mask inspection at just under 95% of semiconductor-related sales — flagged as summarised). Source: Shared Research teardown; Q1 FY6/27 briefing summaries, October–November 2026.
+
+## Services: the installed-base annuity
+
+Services — maintenance, parts, upgrades and support for the installed base — were ¥42,959mn in FY6/25 (17.1% of revenue, derived from the FY6/26 growth rate) and ¥58,646mn in FY6/26 (25.4%), and about ¥16.0bn in Q1 FY6/27 alone. EUV tools require continuing light-source and optics support, so service attach is structural rather than discretionary. Strategically, **services are the only revenue line that grew through the FY6/25 order trough**, and the mid-term plan's target of lifting services to 20% or more of revenue by FY6/30 (from about 10% in the plan's base framing) is the plan's main cyclicality hedge — although, as noted in the bullets, FY6/26's 25.4% already exceeds that mix target because equipment revenue fell, not because the target was met early in a normal year. Service backlog at end-FY6/26 was ¥17,349mn within the total backlog (Shared Research split; see Chapter 5). Source: FY6/26 company business report; Shared Research teardown.
+
+## 4. Market and value chain
+
+Lasertec sits in the mask-shop and fab value chain between the mask makers and lithography: blank suppliers (HOYA and AGC dominate EUV blanks) → mask patterning and inspection (Lasertec, KLA, Applied Materials) → mask shops and captive fab mask operations (including Photronics, Toppan / Tekscend and the captive shops of TSMC, Samsung and Intel) → wafer fabs running ASML EUV scanners. Every EUV layer requires a mask, every mask requires qualification, and the number of EUV layers per device rises with each node (and with High-NA adoption), so mask-inspection demand grows with both fab count and layer count — but the buyer set remains a handful of leading-edge logic and memory makers plus their mask suppliers, which is the structural source of the customer concentration in Chapter 5.
+
+Shared Research sizes the mask-inspection market at ¥300–400bn, about 90% held by Lasertec, KLA and Applied Materials combined; within it, **actinic EUV inspection is Lasertec's alone, and its DUV share is estimated at 50–70%**. Demand drivers for the next cycle, as framed at Q1 FY6/27, are AI data-centre capex (advanced logic, GPU/CPU and HBM), the 2nm/GAA ramp and the A16/A14 and High-NA roadmap, plus mature-node DUV demand in China. The competitive question is therefore less 'who takes share this year' than three longer fuses: whether KLA or another supplier eventually fields an actinic tool; whether multi-beam e-beam or other inspection approaches substitute at the margin; and whether EUV layer growth offsets any pause in leading-edge fab construction. None of these is quantified in company disclosure; market size and shares in this chapter are Shared Research estimates, labelled as such, not company-disclosed figures. Sources: Shared Research report on 6920, 30 October 2026; company Q1 FY6/27 materials summaries.
+
+**Figure: Lasertec in the measurement & inspection value chain**
+
+**Raw materials**
+
+- Compound semiconductors (lasers)
+- Optical glass
+- PFA / sapphire, PSL particles
+- Sumitomo Electric, HOYA, Ohara
+
+**Components**
+
+- Photodiodes, CMOS image sensors
+- Laser diodes
+- Flow / pressure sensor elements
+- Hamamatsu Photonics, Sony Semiconductor, TDK
+
+**Sensor & measurement principles**
+
+- Light scattering, CPC particle counting
+- AMC chemical sensing
+- Displacement / length, image processing
+- Rion, PMS, TSI, Keyence
+
+**Lasertec Corporation (6920)**
+
+- ACTIS — actinic EUV patterned-mask inspection (A150 / A300 / A200HiT)
+- MATRICS — DUV mask inspection (est. 50–70% share)
+- MAGICS / ABICS — EUV mask-blank inspection
+- SICA — SiC wafer inspection; laser microscopes
+- Services — maintenance, parts, upgrades (25.4% of FY6/26 revenue)
+
+**End customers**
+
+- Semiconductor fabs
+- Pharma aseptic plants
+- Auto / electronics factories, logistics
+- TSMC, Samsung, Takeda, Amazon
+
+**Calibration & service**
+
+- Annual calibration (ISO 21501-4)
+- Repair & maintenance contracts
+- On-site IQ / OQ support
+- Rion, PMS, Beckman Coulter, TSI
+
+*Source: FIELDNOTES sector report §4 (measurement & inspection value chain); company product lines from §3 of this report.*
+
+## 5. Segments, products, customers and orders
+
+Lasertec reports a single operating segment (inspection and measurement equipment). The informative cuts are the revenue categories in the tanshin / securities report, the named-customer disclosure in the securities report, and the year-end order and backlog disclosure. All three are covered here; none should be read as a geographic segment — no regional profit is disclosed.
+
+## Revenue by category: equipment fell, services compounded
+
+FY6/26 category revenue was: semiconductor-related equipment ¥168,090mn (−17.2% YoY; 72.9% of revenue), services ¥58,646mn (+36.5%; 25.4%) and other products ¥3,747mn (−32.5%; 1.6%). The implied FY6/25 split (derived from the FY6/26 growth rates and cross-checked to the FY6/25 total of ¥251,477mn) is equipment about ¥203,007mn (80.7%), services ¥42,959mn (17.1%) and other about ¥5,511mn (2.2%) — derived figures, flagged as such. The two-year swing captures the model: **equipment revenue is the acceptance of orders placed 1.5–2 years earlier, while services compound with the installed base regardless of the order year**. Exhibit 2 sets out the split. Source: FY6/26 tanshin / business report, September 2026; FY6/25 derivation as described.
+
+**Exhibit 2. Revenue by category — semiconductor equipment, services and other products**
+
+| ¥mn | FY6/25 (derived split) | FY6/26 | YoY (%) | Share FY6/26 (%) |
+|---|---|---|---|---|
+| Semiconductor-related equipment | 203007 | 168090 | -17.2 | 72.9 |
+| Services | 42959 | 58646 | 36.5 | 25.4 |
+| Other products | 5511 | 3747 | -32.5 | 1.6 |
+| Total revenue | 251477 | 230485 | -8.3 | 100 |
+
+*Source: FY6/26 tanshin / company business report (Sep 2026). FY6/25 category values derived from FY6/26 YoY growth rates and the reported FY6/25 total (¥251,477mn) — derived, not directly tabulated in the retrieved FY6/25 release text.*
+
+## Customer concentration: three buyers, 79.5% of FY6/25 revenue
+
+The securities-report named-customer disclosure for FY6/25, as compiled by Shared Research, is: Intel 33.3% of revenue, TSMC 26.3% and Samsung 19.9% — 79.5% combined. **This is the single most important risk datum in the report**: a capex pause, insourcing decision or qualification change at any one of three counterparties moves group revenue by a fifth to a third, and the FY6/25 order collapse (orders −61% in a record revenue year) is that concentration expressing itself. The FY6/26 named-customer percentages were not verified from the primary securities report in the sources retrieved for this initiation and are therefore not presented — marked as not verified rather than estimated (see Basis of preparation). Source: Shared Research report on 6920, 30 October 2026 (teardown notes), citing the FY6/25 securities report.
+
+## Orders and backlog: year-end disclosure only since FY6/25
+
+Order intake and backlog (¥mn) were: orders ¥186,500mn in FY6/22, ¥323,700mn in FY6/23, ¥272,800mn in FY6/24, ¥105,226mn in FY6/25 and ¥237,504mn in FY6/26 (FY6/22–24 as compiled by third-party summaries of company presentations — IR Bank-based tables — and FY6/25–26 as reported by the company; see Basis of preparation for the precision of the earlier years, which are shown rounded to ¥100mn). Backlog was ¥462,200mn at end-FY6/24, ¥315,900mn at end-FY6/25 and ¥322,964mn at end-FY6/26 on the same compilations; Shared Research splits the end-FY6/26 backlog into ¥301,303mn of semiconductor equipment and ¥17,349mn of services, which sum to ¥318,652mn — ¥4,312mn below the ¥322,964mn total, the difference being attributable to other products on this report's reading, flagged in the Basis of preparation. Book-to-bill was 0.42x in FY6/25 and 1.03x in FY6/26, against the FY6/27 order forecast of ¥400–500bn (Chapter 2). Disclosure discipline is part of the investment case to monitor: **quarterly order/backlog disclosure was abolished from FY6/25**, so between year-ends the only order visibility is the company's forecast range and its revisions — the Q1 FY6/27 raise is an example of information arriving as a range revision, not as actuals. Exhibit 3 sets out the series. Source: company FY6/26 business report; Shared Research teardown; third-party presentation compilations as flagged.
+
+**Exhibit 3. Order intake, backlog and book-to-bill**
+
+| ¥mn | FY6/22 | FY6/23 | FY6/24 | FY6/25 | FY6/26 | FY6/27E (co. forecast) |
+|---|---|---|---|---|---|---|
+| Order intake | 186500 | 323700 | 272800 | 105226 | 237504 | 400000–500000 |
+| Order growth (%) | — | 73.6 | -15.7 | -61.4 | 125.7 | — |
+| Revenue | 90379 | 152832 | 213506 | 251477 | 230485 | 290000 |
+| Book-to-bill (x) | 2.06 | 2.12 | 1.28 | 0.42 | 1.03 | — |
+| Period-end backlog | — | — | — | 462200 | 315900 | 322964 |
+
+*Source: Company FY6/26 business report (orders/backlog FY6/25–26); FY6/22–24 orders and FY6/24–25 backlog from third-party compilations of company presentations (IR Bank-based), rounded to ¥100mn. Quarterly order/backlog disclosure abolished from FY6/25 — year-end only. Backlog split at end-FY6/26 (Shared Research): equipment ¥301,303mn + services ¥17,349mn = ¥318,652mn vs total ¥322,964mn (difference ¥4,312mn, see Basis of preparation).*
+
+## 6. Profitability and working capital
+
+Shared Research gives Lasertec a standalone profitability chapter, and this initiation follows it, because the P&L and the cash cycle tell opposite stories. On profitability: operating margin was 48.8% in FY6/25 and 45.7% in FY6/26, against Shared Research's peer comparison of 29.2% (Applied Materials) and 25.6% (Tokyo Electron); the three-year average net margin was 30.5% for Lasertec versus 31.3% for KLA on the same comparison — i.e., Lasertec's operating superiority is partly taxed and partly absorbed below the operating line, and its net-margin standing is 'best-in-class, shared with KLA' rather than singular. **Gross margin actually rose in FY6/26 (59.2%, from 59.0%)** as services mix and product mix offset volume; the operating deleverage came from SG&A (+22.9% to ¥31,220mn) against falling revenue, consistent with a company staffing and spending for the next order wave (headcount +172 in FY6/26; mid-term plan to 1,650 by FY6/27) while the current one ships.
+
+On working capital, the monopoly is paid for in time. Inventories were ¥142,404mn at end-FY6/26 — work in process ¥122,449mn, raw materials and supplies ¥45,342mn on the balance-sheet compilation (the two lines overlap in presentation in the source compilation; the inventory total used here is the ¥142,404mn cited in FY6/26 analyses — see Basis of preparation) — against cost of sales of ¥94,005mn. Shared Research calculates inventory days of 653.9 and a cash conversion cycle of about 651.8 days for FY6/26: receivables are collected quickly (receivables and contract assets were only ¥26,963mn) and payables are modest (¥12,534mn), so the cycle is almost entirely inventory — tools in build awaiting shipment and acceptance. Advances received, the customers' contribution to funding that build, fell from ¥95,155mn (end-FY6/23) to ¥74,426mn, ¥64,388mn and ¥44,284mn over FY6/24–26 as orders troughed. The analytical consequence: operating cash flow will lag any order recovery by the length of the build, and FY6/22 already showed the pattern (operating cash flow −¥3,464mn in a ¥32,493mn operating-profit year). Exhibit 4 summarises the working-capital position. Sources: securities-report compilations (the-shashi), retrieved November 2026; Shared Research teardown (CCC and inventory days are Shared Research calculations).
+
+**Exhibit 4. Profitability and working capital — FY6/24–FY6/26**
+
+| ¥mn unless stated | FY6/24 | FY6/25 | FY6/26 |
+|---|---|---|---|
+| Gross profit | 107479 | 148256 | 136479 |
+| Gross margin (%) | 50.3 | 59 | 59.2 |
+| SG&A | 26103 | 25413 | 31220 |
+| Operating margin (%) | 38.1 | 48.8 | 45.7 |
+| ROE (%) | 45.4 | 46.9 | 33.9 |
+| Inventories (total, as cited) | — | — | 142404 |
+| Work in process | 126087 | 123672 | 122449 |
+| Advances received | 74426 | 64388 | 44284 |
+| Cash and deposits | 38152 | 86087 | 91503 |
+| Interest-bearing debt | 0 | 0 | 0 |
+| Inventory days (SR calc., FY6/26) | — | — | 653.9 |
+| Cash conversion cycle, days (SR calc., FY6/26) | — | — | 651.8 |
+
+*Source: Company securities reports via the-shashi compilation (retrieved 16 Nov 2026); CCC and inventory days are Shared Research calculations (FY6/26). Peer margins: Shared Research comparison (FY6/26 basis as compiled in its 30 Oct 2026 report).*
+
+## 7. Financial statements summary
+
+Condensed consolidated statements (Japanese GAAP, ¥mn), as reported via securities-report compilations. Income statement (FY6/24 / FY6/25 / FY6/26): revenue ¥213,506mn / ¥251,477mn / ¥230,485mn; cost of sales ¥106,026mn / ¥103,220mn / ¥94,005mn; gross profit ¥107,479mn / ¥148,256mn / ¥136,479mn; SG&A ¥26,103mn / ¥25,413mn / ¥31,220mn; operating profit ¥81,375mn / ¥122,843mn / ¥105,259mn. Non-operating items are normally small but were not in FY6/25–26: FY6/25 carried a ¥3,676mn foreign-exchange loss (non-operating expenses ¥3,723mn), while FY6/26 recorded ¥2,068mn of FX gains within non-operating income of ¥2,659mn — ordinary profit of ¥82,021mn / ¥119,444mn / ¥107,895mn. There were no extraordinary items in the compilation for these years; pre-tax profit equalled ordinary profit. Total income taxes were ¥22,945mn / ¥34,791mn / ¥30,409mn (effective rates of 28.0% / 29.1% / 28.2% on the derived pre-tax figures), giving net income to parent of ¥59,076mn / ¥84,652mn / ¥77,485mn.
+
+Balance sheet (30 June 2026): total assets ¥336,650mn; current assets ¥295,082mn, including cash and deposits ¥91,503mn, receivables and contract assets ¥26,963mn and work in process ¥122,449mn; fixed assets ¥41,568mn (tangible ¥29,255mn, including the InnoPa site; intangible ¥1,251mn). Total liabilities were ¥89,800mn, almost entirely current (¥86,368mn), including payables ¥12,534mn, advances received ¥44,284mn, deferred revenue ¥7,794mn and accrued income taxes ¥12,767mn; there was no interest-bearing debt. Net assets were ¥246,850mn (shareholders' equity ¥242,310mn, including retained earnings ¥252,975mn and treasury shares of −¥12,977mn after the FY6/26 buyback; accumulated other comprehensive income ¥4,518mn). Capital was ¥931mn; shares issued 94,286k, with about 89.7mn shares outstanding on third-party counts after treasury shares.
+
+Cash flow: operating cash flow ¥33,317mn / ¥77,874mn / ¥48,540mn (FY6/24–26); investing outflow was small in each year (¥3,571mn / ¥2,420mn / ¥1,883mn — capex of ¥5,037mn in FY6/24 on the securities-report facilities note, with later-year capex of ¥2,361mn cited for FY6/26 in the same note's summary) because the production model is outsourced and InnoPa was built principally in FY6/23 (tangible-asset purchases of ¥18,752mn that year); financing outflow was ¥23,145mn / ¥24,568mn / ¥43,181mn, comprising dividends paid of ¥18,127mn / ¥24,531mn / ¥31,131mn and, in FY6/26, ¥12,003mn of buybacks. Cash and equivalents ended FY6/26 at ¥91,503mn. Depreciation was ¥4,674mn in FY6/26, giving an EBITDA proxy (operating profit + depreciation) of about ¥109,933mn. Source: securities-report compilations (the-shashi 10-year summary; facilities-note summary), retrieved 16 November 2026.
+
+## 8. Strategy and mid-term plan
+
+The operative plan is the new mid-term plan covering FY6/26–FY6/30, as compiled by Shared Research from company materials (the plan's Phase 0–3+ long-term retrospective is tabulated in the Shared Research report; this initiation uses the headline targets only). For FY6/30 the plan targets revenue of ¥400–500bn and an operating margin of 35% or more — note the margin target is a floor well below the 45.7–48.8% printed in FY6/25–26, framing 35% as a through-cycle commitment rather than a peak aspiration — on assumptions of USD/JPY 140 and R&D at 10% of revenue. Operational targets: lead times shortened from 1.5–2 years to 0.5–1.5 years; services lifted to 20% or more of revenue (from about 10% in the plan's base framing; FY6/26 printed 25.4% on trough equipment revenue, as discussed in Chapter 3); and headcount raised from 1,017 (FY6/24) to 1,650 by FY6/27 — against 1,335 actually in place at end-FY6/26, implying about 315 additions in FY6/27, the plan's most immediately testable commitment. Against the FY6/30 revenue range, the FY6/27 order forecast of ¥400–500bn is the bridge: at the plan's shortened lead times, a sustained ¥450bn order year is roughly the intake required to support ¥400–500bn of revenue by FY6/30, which is why **the order range — not the FY6/27 P&L — is the number to monitor**. All figures in this chapter are company plan targets and assumptions, not J-Core Fundamental Research estimates. Source: mid-term plan via Shared Research report on 6920, 30 October 2026 (teardown notes); headcount actuals from securities reports.
+
+## 9. Other information
+
+History. Lasertec was founded in 1960 as Tokyo ITV Laboratory, developing X-ray and industrial television equipment, and built its position successively in laser measurement, mask inspection for the DUV era, and — decisively — EUV mask-blank inspection development (an EUV mask-blank defect inspection/review system using 13.5nm light was developed in April 2017, per company history compilations) ahead of the ACTIS A150 patterned-mask launch in 2019. Lasertec Innovation Park (InnoPa), the Yokohama R&D and production site, began operation in July 2023. The shares are listed on the Tokyo Stock Exchange Prime Market and are a Nikkei 225 constituent; the original listing dates to December 1990 (data-provider records). Source: company history via securities-report compilations (corpolog / the-shashi), accessed November 2026; Wikipedia / data providers for listing details, flagged as third-party.
+
+Management. Representative Director, President and Chief Executive Officer: Tetsuya Sendoda, who succeeded Osamu Okabayashi on 1 July 2024 (Okabayashi moved to Chairman); Hisashi Yokokawa is Executive Officer and CFO. Sendoda's presidency is verified from the company's Corporate Governance Report last updated 28 September 2026, which names him as Representative Director, President & CEO. Head office: Kohoku-ku, Yokohama, Kanagawa. Capital: ¥931mn (securities report). Shares issued: 94,286k; shares outstanding about 89.7mn (third-party counts, November 2026).
+
+Major shareholders. The securities-report major-shareholder table for FY6/26 was not retrieved in full from a primary source for this initiation, so no named register percentages are presented as company-disclosed. Third-party ownership compilations (Simply Wall St, updated August–September 2026) put institutions at about 54–56% of shares, with the largest beneficial holders including BlackRock (about 8.6%) and Nomura Asset Management (about 7.3%), and individuals including Hiroshi Uchiyama (about 3.1%) and Setsuko Maeda (about 3.1%) — third-party estimates of beneficial ownership, not the securities-report register, and flagged accordingly.
+
+Employees and returns. Consolidated employees: 1,335 at end-FY6/26; parent-company average annual salary was ¥18,811k (securities-report compilation). Shareholder returns: dividend ¥329 per share in FY6/26 (payout ratio 43.5% on the single-company basis in the compilation; FY6/25: 35.5%), forecast ¥351 for FY6/27; buybacks of ¥12,003mn were executed in FY6/26, the first in the ten-year record compiled here.
+
+Market data and the short-seller episode. The shares closed at ¥36,130 on 13 November 2026 (Finnhub), giving a calculated market capitalisation of about ¥3.24tn (36,130 × about 89.7mn shares); StockAnalysis.com showed a market cap of ¥2.83tn labelled as of 13 November 2026, which arithmetically corresponds to its 16 November price of about ¥31,500 — a source discrepancy flagged in the Basis of preparation, where this report uses the Finnhub price and the calculated capitalisation. The 52-week range was ¥25,590 (19 November 2025) to ¥58,580 (19 June 2026) (Finnhub). At ¥36,130 the shares trade at 41.9x FY6/26 EPS of ¥862.99, 36.0x FY6/27 company-guidance EPS of ¥1,003.27, and about 13.1x FY6/26 book value per share (derived: net assets ¥246,850mn over about 89.7mn shares, about ¥2,752 per share) — all calculated. The stock fell 12.8% on 16 November 2026 to ¥31,490 (Finnhub) — after the pricing date of this report; no company announcement explaining the move had been identified at the time of writing. For completeness of the record: in 2024 a short-seller (Scorpion Capital) published allegations against the company, which the company addressed through a special-committee process as reported at the time; the episode is noted here as history, with no new assessment offered in this initiation (third-party summaries). The next scheduled disclosure is the Q2 FY6/27 tanshin, expected in late January / on 1 February 2027 on third-party calendars (not company-confirmed).
+
+## 10. Basis of preparation
+
+Sources and their weight. (1) Primary company disclosure as compiled from EDINET XBRL: the ten-year PL/BS/CF history, per-share and employee data are from the securities-report compilation at the-shashi (retrieved 16 November 2026), cross-checked for FY6/25 against the company's results presentation of 7 August 2025 (revenue ¥251,477mn, operating profit ¥122,843mn, net income ¥84,652mn — agreeing) and for FY6/26 against the company's business report of September 2026 (revenue ¥230,485mn, operating profit ¥105,259mn, ordinary profit ¥107,895mn, net income ¥77,485mn; category split and orders ¥237,504mn — agreeing). No PL/segment sheet exists for Lasertec in the programme, and Lasertec is a single-segment company, so no sheet was used. (2) Q1 FY6/27 figures are from the tanshin of 30 October 2026 as carried by Japan IR, FilingReader and Dow Jones summaries (revenue, operating, ordinary and net profit and the equipment category agree across summaries; the services figure of about ¥16.0bn and the Q1 equity ratio of 65.4% in one AI-generated summary were not verified against the primary tanshin table and are flagged in the text where used / not relied on). (3) Shared Research report on 6920 dated 30 October 2026 (teardown notes, ~/workspace/research-report-editor-ref/sharedresearch-6324-teardown.md) is the source for: EUV/DUV market shares and the ¥300–400bn market size, the FY6/25 customer concentrations (Intel/TSMC/Samsung), the peer margin comparison, the cash-conversion-cycle (651.8 days) and inventory-days (653.9) calculations, the backlog split (¥301,303mn equipment / ¥17,349mn services), the mid-term plan targets, and the abolition of quarterly order disclosure from FY6/25. These are Shared Research compilations and estimates, not company-disclosed figures, and are labelled as such in the text. (4) Market data are from Finnhub and StockAnalysis.com as returned by web search on 16 November 2026.
+
+Discrepancies and gaps flagged. (a) Backlog: the FY6/26 total of ¥322,964mn exceeds the Shared Research equipment-plus-services split (¥318,652mn) by ¥4,312mn, attributed in this report to other products — not confirmed in a primary breakdown. Earlier-year backlog totals (¥462,200mn / ¥315,900mn) and FY6/22–24 order totals are third-party presentation compilations shown rounded to ¥100mn; the FY6/25–26 order totals (¥105,226mn / ¥237,504mn) are company-reported. One third-party FY6/26 summary mislabels the ¥301,303mn equipment backlog as the group backlog — not used. (b) Market capitalisation: Finnhub's ¥3.26tn and the calculated ¥3.24tn (at the 13 November close) versus StockAnalysis.com's ¥2.83tn labelled 13 November but matching its 16 November price — this report uses price ¥36,130 (13 November, Finnhub) and the calculated capitalisation, and notes the stock's 12.8% fall on 16 November as a post-pricing-date event. (c) EPS FY6/26: ¥862.99 (EDINET DB) versus ¥862.98 (Roic AI) — a ¥0.01 rounding difference; ¥862.99 is used. FY6/17 revenue differs by ¥91mn between compilations (¥17,369mn, the-shashi, used here; ¥17,278mn, Roic AI). (d) Inventory: the balance-sheet compilation lists work in process of ¥122,449mn and raw materials of ¥45,342mn, which sum above the ¥142,404mn total inventory cited in FY6/26 analyses; the total is used for the working-capital discussion and the component presentation in the source could not be fully reconciled from the retrieved text. (e) Not verified / not disclosed in the sources retrieved: FY6/26 named-customer percentages; the securities-report major-shareholder register percentages (third-party beneficial-ownership estimates are given instead, flagged); a company-disclosed overseas-sales ratio for FY6/26 (the about-92% figure is a third-party FY6/25 estimate); and Q1 FY6/27 order/backlog actuals, which the company no longer discloses quarterly. (f) History shortfall: the KPI history presented is ten fiscal years (FY6/17–FY6/26) plus FY6/27 company guidance — meeting the programme's 10–11-year standard on the guidance-inclusive basis used by Shared Research; an eleventh actual year (FY6/16: revenue ¥15,292mn, net income ¥3,228mn on Roic AI data) was available only from a single third-party provider and is noted here rather than tabulated.
+
+Conventions. Fiscal years are labelled by the June year-end (FY6/27 = year ending 30 June 2027). 'Company guidance' means Lasertec's published forecasts; the ¥400–500bn order figure is the company's order-intake forecast range for FY6/27, not guidance for revenue or profit and not a J-Core Fundamental Research forecast. This report contains no J-Core Fundamental Research forecasts and no invented buy/sell judgement. Items the company does not disclose are described as not disclosed / not verified rather than estimated.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention — Ken has set neither — and are not an investment recommendation. This report follows the Shared Research depth skeleton for 6920 (summary with strengths and weaknesses; KPI history; latest update; business description; profitability analysis; SW analysis — folded into the lede and Chapters 4–6; market and value chain; management strategy / mid-term plan; past results and financial statements; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

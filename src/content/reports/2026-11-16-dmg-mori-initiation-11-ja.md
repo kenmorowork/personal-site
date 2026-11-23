@@ -1,0 +1,329 @@
+---
+title: "Initiation: the world's largest machine-tool builder at an order-cycle inflection — record intake, a rebuilt backlog, and a margin-recovery plan that FY2026 only starts to deliver"
+company: "DMG Mori Co., Ltd."
+ticker: "6141"
+sector: "Machine Tools"
+date: 2026-11-16
+type: initiation
+externalUrl: "/ja/reports/2026-11-16-dmg-mori-initiation-11/"
+lang: ja
+---
+
+Record orders, thin current margins. DMG Mori is the world's largest machine-tool builder by revenue — FY2025 sales of ¥515.0bn (Company results via PL/segment sheet (tanshin), FY2025 results announced 10 February 2026) — formed by the 2009–2016 integration of Japan's Mori Seiki (founded 1948) and Germany's Gildemeister (founded 1870). The investment question at initiation is timing, not franchise quality. Strengths: **order intake is at a record — ¥522.0bn in January–September 2026, +36.7% year on year**, with three successive quarterly records (Q3 2026 tanshin, 30 October 2026) — the machine order backlog has rebuilt to ¥328.0bn (September 2026) from ¥240.0bn (December 2025), and the Industrial Services segment earns a structurally higher margin (13.6% in FY2025; 16.3% in 9M 2026) on repair, parts and engineering tied to the installed base. Weaknesses: consolidated profitability is currently poor — **the FY2025 operating margin was 3.7% and the 9M 2026 margin 4.0%** — the Machine Tool segment margin fell to 2.5% in FY2025, reported net income has been dominated for two years by the discontinued Russian operation (a ¥15.1bn post-tax loss in FY2024 and a ¥17.2bn insurance gain in FY2025), and the equity base was diluted in August 2026 by an overseas offering of about ¥48bn. Company guidance for FY2026 (revised up on 4 August 2026 and confirmed on 30 October 2026) is sales of ¥580,000mn and operating profit of ¥30,000mn — a 5.2% margin that still sits well below the FY2023 peak of 10.0% and below the company's own FY2027 plan (EBIT margin 8.1%) and FY2028 plan (10.1%). The rating and price target are Under Review at initiation; this report establishes the factual base — five years of reported financials, segment economics, the order cycle and the company's published plan — on which a valuation will be set.
+
+**Exhibit 1 — Key indicators, FY2016–FY2025 actuals and FY2026E company guidance (¥mn unless stated)**
+
+| Item | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E (company guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sales revenue | 376631 | 429664 | 501248 | 485778 | 328283 | 396011 | 474771 | 539450 | 540945 | 514976 | 580000 |
+| Operating profit | 1961 | 29391 | 36261 | 37339 | 10674 | 23067 | 41213 | 54150 | 43726 | 18974 | 30000 |
+| Operating margin (%) | 0.5 | 6.8 | 7.2 | 7.7 | 3.3 | 5.8 | 8.7 | 10 | 8.1 | 3.7 | 5.2 |
+| Net income to owners | -7826 | 15263 | 18517 | 17995 | 1745 | 13460 | 25406 | 33944 | 7700 | 24033 | 15500 |
+| EPS, diluted (¥) | -65.2 | 124.3 | 152 | 147.1 | 14.1 | 108 | 202.7 | 270.6 | 54.4 | 170.1 | 89.1 |
+| Order intake | — | 448300 | 497000 | 409400 | 279700 | 456000 | 542400 | 520000 | 496000 | 523400 | 650000 |
+| Dividend per share (¥) | — | — | — | — | — | 40 | 70 | 90 | 100 | 105 | 105 |
+| Total assets (year-end) | — | — | — | — | — | 597117 | 680334 | 765806 | 797567 | 868965 | — |
+| Owners' equity (year-end) | — | — | — | — | — | 213139 | 245897 | 267990 | 314522 | 340484 | — |
+| Operating cash flow | 18237 | 31423 | 49398 | 43647 | 13647 | 49733 | 69749 | 51608 | 44579 | 25984 | — |
+
+*Source: Company results via PL/segment sheet (tanshin), FY2021–FY2025; FY2026E: company guidance revised 4 Aug 2026, confirmed in Q3 2026 tanshin, 30 Oct 2026 History for FY2016–FY2020 is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥397.6bn |
+| 52-week range | ¥2,307.5 – ¥3,980 |
+| P/E (FY26E, company guidance EPS ¥89.12) | 26.5x |
+| P/B (BPS ¥2,282.25 at Sep-26) | 1.15x |
+| Dividend (FY26E, company forecast) | ¥105/share (yield 4.0%) |
+| Next event | FY2026 full-year results (expected early Feb 2027, based on prior-year timing) |
+
+## Key points
+- **Orders are the story.** **Consolidated order intake was ¥522.0bn in 9M 2026 (+36.7% YoY)**, with quarterly intake rising through the year — ¥155.4bn (Q1), ¥179.8bn (Q2), ¥186.8bn (Q3, an all-time quarterly high). The company raised its FY2026 order outlook to more than ¥650bn from ¥630bn (Q3 2026 tanshin, 30 October 2026). Against FY2025 intake of ¥523.4bn (Company results via PL/segment sheet (tanshin)), the order book — not current shipments — is what supports the FY2027–28 plan.
+- **Backlog rebuilt.** **The machine order backlog reached ¥328.0bn at end-September 2026**, up 36.7% from ¥240.0bn at end-December 2025, with a rising share of long-lead-time orders. Management states the backlog supports revenue growth in FY2027 and FY2028 as well as Q4 2026 (Q3 2026 tanshin, 30 October 2026). Backlog is not disclosed in the tanshin financial statements themselves; the figure comes from the qualitative section of the Q3 release.
+- **Two-speed segment economics.** In FY2025, **Machine Tool earned a 2.5% segment margin** on sales of ¥343,277mn, while **Industrial Services earned 13.6%** on ¥171,652mn (Company results via PL/segment sheet (tanshin)). In 9M 2026 the gap persisted: 3.0% versus 16.3%. Consolidated margin recovery therefore depends mainly on Machine Tool volume and mix — 5-axis and multitasking 'MX' machines and automation — not on services, which are already performing.
+- **Guidance was raised once already.** FY2026 company guidance was lifted at Q2 (4 August 2026) from the initial February plan (sales ¥535,000mn, operating profit ¥22,500mn) to **sales ¥580,000mn (+12.6% YoY) and operating profit ¥30,000mn (+58.1%)**, with net income to owners of ¥15,500mn and basic EPS of ¥89.12 (FX assumptions USD/JPY 157.7, EUR/JPY 181.8); it was confirmed unchanged at Q3 (30 October 2026). The FY2027 company plan — sales ¥630bn, EBIT ¥51.0bn (8.1% margin), EBITDA ¥88bn, net income ¥30.5bn — was published alongside the Q3 release.
+- **Clean-up items are ending, dilution is done.** The Russian Ulyanovsk operation, classified as discontinued since Q1 FY2024, produced **a ¥17,228mn pre-tax insurance gain in FY2025** (Company results via PL/segment sheet (tanshin)); the German domination-agreement litigation over DMG MORI AG minority compensation concluded on 25 September 2026 with no material P&L impact (Q3 2026 tanshin). Separately, the August 2026 overseas share offering raised about ¥48bn and took issued shares from 142,325,934 to 157,325,934 — funding Nagaoka (Japan), Poland and Chicago capacity and R&D, at the cost of near-term per-share dilution.
+
+## 1. Key indicators and financial history
+
+DMG Mori reports under IFRS with a December year-end. The ten-year record below is taken from the company's tanshin (earnings releases) as compiled in the PL/segment sheet (Company results via PL/segment sheet (tanshin); annual tanshin dated 10 February 2022, 8 February 2023, 5 February 2024, 5 February 2025 and 10 February 2026 for FY2021–FY2025 respectively).
+
+The five years before that window contain both the weakest result in the ten-year record and the pre-2020 peak. In CY2016 revenue was ¥376,631mn but **operating profit was only ¥1,961mn (a 0.5% margin)**, profit before tax was negative at −¥1,064mn and the net result attributable to owners was a loss of ¥7,826mn. Profitability then rebuilt over three years: operating profit rose to ¥29,391mn in CY2017 (6.8%) and ¥36,261mn in CY2018 (7.2%), and reached ¥37,339mn in CY2019 (7.7%), the highest operating profit of the decade, on revenue that peaked a year earlier at ¥501,248mn in CY2018. CY2020 broke the run: revenue fell 32.4% to ¥328,283mn — the lowest of the ten years — operating profit fell to ¥10,674mn (3.3%), net income to owners fell to ¥1,745mn, and order intake, which had peaked at ¥497,000mn in CY2018, fell to ¥279,700mn.
+
+Revenue rose from ¥396,011mn in FY2021 to a peak of ¥540,945mn in FY2024, before falling 4.8% to ¥514,976mn in FY2025 as machine shipments normalised after the post-pandemic order boom. Operating profit peaked earlier and higher-quality: ¥54,150mn in FY2023, a 10.0% margin, then fell to ¥43,726mn in FY2024 (8.1%) and ¥18,974mn in FY2025 (3.7%). The FY2025 margin compression is the central fact of the recent history: personnel expenses (by nature) rose to ¥189,371mn in FY2025 from ¥179,487mn in FY2024 even as revenue fell, and depreciation rose to ¥34,614mn as new capacity (notably the Nagaoka plant in Japan and European facilities) came on stream ahead of volume.
+
+Reported net income to owners — ¥13,460mn (FY2021), ¥25,406mn (FY2022), ¥33,944mn (FY2023), ¥7,700mn (FY2024) and ¥24,033mn (FY2025) — is not a clean earnings series. From Q1 FY2024 the Russian subsidiary Ulyanovsk Machine Tools has been classified as a discontinued operation: FY2024 owners' profit absorbed a ¥15,069mn post-tax discontinued loss, while FY2025 owners' profit includes a ¥17,228mn pre-tax insurance receipt (€102mn) booked in the discontinued line. On a continuing-operations basis, FY2025 net income was ¥6,969mn in total (Company results via PL/segment sheet (tanshin)). Any P/E computed on reported FY2024 or FY2025 EPS (¥54.4 and ¥170.1 respectively, diluted, per the sheet) is therefore distorted in opposite directions in the two years.
+
+Order intake (disclosed in the qualitative section of each tanshin, rounded to ¥0.1bn) was ¥456.0bn in FY2021, ¥542.4bn in FY2022, ¥520.0bn in FY2023, ¥496.0bn in FY2024 and ¥523.4bn in FY2025 — intake exceeded revenue in four of the five years, which is why the balance sheet carries a large contract-liability balance (¥90,795mn at end-FY2025, rising to ¥116,941mn at September 2026; Q3 2026 tanshin, 30 October 2026). Exhibit 3 sets out the order series alongside revenue.
+
+The balance sheet expanded steadily: total assets of ¥597,117mn (FY2021), ¥680,334mn (FY2022), ¥765,806mn (FY2023), ¥797,567mn (FY2024) and ¥868,965mn (FY2025), with equity attributable to owners of ¥213,139mn, ¥245,897mn, ¥267,990mn, ¥314,522mn and ¥340,484mn respectively (owners' equity ratio 35.7%, 36.1%, 35.0%, 39.4%, 39.2%; Company results via PL/segment sheet (tanshin)). Goodwill of ¥100,100mn at end-FY2025 — a legacy of the German consolidation — is the single largest intangible exposure. Operating cash flow was positive in all five years (¥49,733mn, ¥69,749mn, ¥51,608mn, ¥44,579mn, ¥25,984mn) but weakened in FY2025 as inventories rose to ¥201,821mn. Capital expenditure (purchases of property, plant and equipment plus intangibles, per the sheet) was ¥23,251mn, ¥41,112mn, ¥42,472mn, ¥43,805mn and ¥29,519mn across FY2021–FY2025.
+
+**Figure: DMG Mori Co., Ltd. — revenue by year**
+
+| Item | Value (¥mn) |
+
+|---|---|
+
+| FY2016 | 376631 |
+
+| FY2017 | 429664 |
+
+| FY2018 | 501248 |
+
+| FY2019 | 485778 |
+
+| FY2020 | 328283 |
+
+| FY2021 | 396011 |
+
+| FY2022 | 474771 |
+
+| FY2023 | 539450 |
+
+| FY2024 | 540945 |
+
+| FY2025 | 514976 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: DMG Mori Co., Ltd. — operating profit by year**
+
+| Item | Value (¥mn) |
+
+|---|---|
+
+| FY2016 | 1961 |
+
+| FY2017 | 29391 |
+
+| FY2018 | 36261 |
+
+| FY2019 | 37339 |
+
+| FY2020 | 10674 |
+
+| FY2021 | 23067 |
+
+| FY2022 | 41213 |
+
+| FY2023 | 54150 |
+
+| FY2024 | 43726 |
+
+| FY2025 | 18974 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: DMG Mori Co., Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY2016 | 0.5 |
+
+| FY2017 | 6.8 |
+
+| FY2018 | 7.2 |
+
+| FY2019 | 7.7 |
+
+| FY2020 | 3.3 |
+
+| FY2021 | 5.8 |
+
+| FY2022 | 8.7 |
+
+| FY2023 | 10 |
+
+| FY2024 | 8.1 |
+
+| FY2025 | 3.7 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: DMG Mori Co., Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q3 2026 results and guidance
+
+DMG Mori reported Q3 FY2026 results on 30 October 2026 (Q3 2026 tanshin, 30 October 2026). For the nine months to 30 September 2026, **sales revenue was ¥422,706mn, up 23.2% year on year; operating profit was ¥16,876mn, up 46.3%, a 4.0% margin** (9M 2025: 3.4%); profit before tax was ¥11,939mn, down 49.6% — the comparison is against a 9M 2025 figure that included ¥16,875mn of insurance income in the discontinued Russian line; net income attributable to owners was ¥8,668mn, down 58.7%, with basic EPS of ¥48.04. On continuing operations the direction is unambiguous: revenue and operating profit both grew strongly, and the operating bridge is volume- and mix-led rather than one-off-led.
+
+Orders were the headline. Consolidated intake of ¥522.0bn in 9M 2026 was up 36.7% year on year, and the quarterly path — ¥155.4bn in Q1, ¥179.8bn in Q2, ¥186.8bn in Q3 — ==set a new all-time quarterly record in each successive quarter of 2026==. Management attributed demand to 5-axis and multitasking machines (its 'MX' — Machining Transformation — range), automation, and a recovery in basic ('BX') machines; the average order price per machine rose to ¥80.6mn from a FY2025 average of ¥79.6mn. Orders for MRO (maintenance, repair and overhaul), spare parts and engineering were ¥107.3bn, up 15.6%, and group companies Magnescale (ultra-high-resolution linear scales for semiconductor equipment) and Saki Corporation (automated inspection systems) also grew orders strongly. By region, order growth was in double digits in every region; by industry, aerospace, space, defence, medical, power/energy, shipbuilding and semiconductor-related demand were cited as strong (all Q3 2026 tanshin, 30 October 2026).
+
+Full-year FY2026 guidance — first raised at the Q2 release on 4 August 2026 and confirmed unchanged at Q3 — is sales revenue of ¥580,000mn (+12.6% year on year), operating profit of ¥30,000mn (+58.1%, a 5.2% margin), net income to owners of ¥15,500mn (−35.5%, against the insurance-flattered FY2025 base) and basic EPS of ¥89.12, on FX assumptions of USD/JPY 157.7 and EUR/JPY 181.8. The implied Q4 requirement is sales of about ¥157.3bn and operating profit of about ¥13.1bn — a steep Q4, consistent with the company's historical Q4-weighted shipment pattern (Q4 was 33% of FY2025 revenue) and with the rebuilt backlog, but it leaves little room for shipment slippage. The FY2026 order outlook was raised at Q3 to more than ¥650bn from ¥630bn (+24.2% versus FY2025 intake of ¥523.4bn). The dividend forecast was left unchanged at ¥105 per share (¥50 interim paid, ¥55 year-end forecast), the same total as FY2025 (Q3 2026 tanshin, 30 October 2026).
+
+Two balance-sheet events in the period matter for per-share analysis. First, in August 2026 the company issued new shares by overseas offering, raising about ¥48bn (capital and capital surplus rose ¥47,781mn in the quarter); issued shares increased from 142,325,934 at end-FY2025 to 157,325,934 at end-September 2026. Proceeds are earmarked for the Nagaoka plant, the Poland plant and a Chicago R&D/solutions centre, for in-house production of key components, and for future M&A and alliances. Second, total assets reached ¥877,625mn and the owners' equity ratio 40.6% at end-September 2026, with inventories up to ¥220,055mn and contract liabilities of ¥116,941mn reflecting the order book (Q3 2026 tanshin, 30 October 2026).
+
+**Exhibit 3 — Order intake versus revenue, FY2021–FY2025 and FY2026 (¥mn)**
+
+| Item | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E |
+|---|---|---|---|---|---|---|
+| Order intake | 456000 | 542400 | 520000 | 496000 | 523400 | 650000 |
+| Sales revenue | 396011 | 474771 | 539450 | 540945 | 514976 | 580000 |
+| Book-to-bill (x) | 1.2 | 1.1 | 1 | 0.9 | 1 | 1.1 |
+
+*Source: Company results via PL/segment sheet (tanshin) — order intake from tanshin qualitative text (¥0.1bn rounding); FY2026 orders: company outlook of more than ¥650bn (Q3 2026 tanshin, 30 Oct 2026); 9M 2026 intake ¥522,000mn (+36.7% YoY). Machine order backlog ¥240,000mn at Dec-2025 and ¥328,000mn at Sep-2026 (Q3 2026 tanshin).*
+
+## 3. Business description
+
+DMG Mori is a Japanese-German machine-tool group headquartered in Nagoya, Japan, and listed on the Tokyo Stock Exchange (6141). It manufactures and sells CNC machine tools and provides the services around them — repair and restoration, spare parts, engineering, automation systems and software — through two reportable segments, Machine Tool and Industrial Services (segment definitions per the Q3 2026 tanshin, 30 October 2026; see Section 5).
+
+The product range spans the core cutting-machine categories: machining centres (including 5-axis and horizontal models such as the INH series, extended in 2026 with the INH 63 FD turning-capable variant offered with either FANUC or Siemens controls), turning centres and multitasking (mill-turn) machines, additive manufacturing machines, and ultrasonic/laser machines, together with automation (pallet and robot systems), measuring technology and digital products. Group companies extend the range into adjacent precision equipment: Magnescale (linear scales), Saki Corporation (inspection systems for electronics mounting), Taiyo Koki (grinding machines) and DMG Mori Precision Boring (horizontal boring machining centres, which launched the PBN 200|1250 in 2026). The company's current product strategy, branded MX (Machining Transformation), pushes process integration — combining operations on one machine — plus automation and digitalisation (including its CELOS control interface and, from 2026, 'manufacturing physical AI' work selected under METI/NEDO's GENIAC programme, with an investment in the Japanese AI developer Noetra; Q3 2026 tanshin, 30 October 2026).
+
+## Group structure: one brand, two heritages
+
+The group combines Mori Seiki, founded in October 1948 in Yamato-Koriyama, Nara, by the three Mori brothers — initially a textile-machinery maker, entering machine tools in 1958 and NC lathes in 1968 — with Gildemeister, founded in 1870 in Bielefeld, Germany, whose DMG brand combined Deckel and Maho. The two entered a capital and business alliance in 2009, unified the DMG MORI brand and names in 2013, renamed the Japanese parent DMG MORI Co., Ltd. in June 2015, and completed ownership consolidation in 2015–2016, when the Japanese company took a majority (subsequently about 87.4%, per the company's Wikipedia summary of filings) of DMG MORI AG and a domination and profit-and-loss transfer agreement took effect in August 2016. Production is split between Japan (including Iga and Nagaoka) and Europe (including Pfronten and Bielefeld in Germany and Tortona in Italy, plus Poland), with additional plants in China (Tianjin), India and the United States — a footprint that localises production in each major demand region and partly insulates the group from tariffs and currency moves, at the cost of a heavy fixed-cost base (see Section 4).
+
+The Russian operation — Ulyanovsk Machine Tools — has been classified as a discontinued operation since Q1 FY2024 following Russia's invasion of Ukraine; its FY2025 result included a ¥17,228mn insurance receipt (Company results via PL/segment sheet (tanshin)). The group no longer counts Russia in continuing revenue or operating profit.
+
+## 4. Market and value chain
+
+Machine tools are among the most cyclical of capital goods: demand follows manufacturing capex with a lag, orders lead shipments by roughly two to four quarters for complex machines, and the industry's profit pool concentrates in high-end 5-axis, multitasking and automated systems where DMG Mori, Mazak, Makino, Okuma, Haas and Hermle compete, with controls (FANUC, Siemens, Mitsubishi Electric, Heidenhain) as the critical purchased technology in the value chain.
+
+The current cycle is exceptionally strong in Japan. Japan Machine Tool Builders' Association (JMTBA) orders for January–October 2026 totalled about ¥1.87tn on preliminary data published 11 November 2026 — **already above the previous full-year record of ¥1.816tn set in 2018** — with August 2026 orders of ¥197.8bn up 64.7% year on year, and the industry's annual outlook raised toward ¥2.0tn (JMTBA data as reported November 2026). Demand drivers cited across the industry in 2026 include AI data-centre cooling and power equipment, optical-communications components, semiconductor manufacturing equipment, aerospace and defence. DMG Mori's own order commentary (Q3 2026 tanshin, 30 October 2026) names the same industries, plus medical and shipbuilding, and reports double-digit order growth in every region, with particular strength at the September AMB show in Germany, the Chicago Innovation Days, and JIMTOF in late October 2026.
+
+Within that market DMG Mori is the revenue leader among listed builders — FY2025 revenue of ¥515.0bn compares with Makino and Okuma at roughly half that scale (company filings; figures for competitors are as reported in their own tanshin and are not restated here) — but not the margin leader: domestic rival FANUC (a controls and factory-automation company rather than a pure machine builder) earns structurally higher margins, and DMG Mori's FY2025 operating margin of 3.7% was below those of its closest Japanese machine-tool peers in the same year. The structural debate is whether the group's global full-line model — own production on three continents, a large direct service network, and the services annuity of Industrial Services (33% of FY2025 external revenue) — can convert scale into FANUC-like returns, or whether the fixed-cost base caps margins in the high single digits, as the company's own FY2028 plan target of a 10.1% EBIT margin implicitly concedes is the realistic ceiling for this plan period.
+
+Value-chain position: DMG Mori buys castings, ball screws, spindles, linear scales (partly in-house via Magnescale) and CNC controls, and sells increasingly complete production systems — machine plus automation plus software plus service contract — which raises revenue per installation (the average order price per machine of ¥80.6mn in 9M 2026 versus ¥79.6mn average in FY2025; Q3 2026 tanshin) and lengthens lead times, feeding the backlog discussed in Section 2.
+
+**Figure: DMG Mori in the machine-tool value chain**
+
+**Materials & Machine Structures**
+
+- Castings: beds, columns
+- Structural steel
+- In-house: DMG Mori, Okuma
+- In-house: Yamazaki Mazak
+
+**Precision Components**
+
+- Ball screws, linear guides: THK
+- Spindles, bearings: NSK, JTEKT
+- Measurement: Renishaw, HEIDENHAIN
+- Taiwan: HIWIN
+
+**Control & Drive Systems**
+
+- CNC: Fanuc, Mitsubishi Electric, Siemens
+- Servo, spindle drives: Yaskawa
+- PLC, motion, safety control
+- Sensors, machine vision: Keyence, Omron
+
+**DMG Mori Co., Ltd. (6141)**
+
+- Machine Tool — 5-axis, multitasking 'MX', machining centres, lathes
+- Industrial Services — repair, parts, engineering
+- Magnescale & Saki — semiconductor-related equipment
+- Production: Japan, Germany, Poland, US, China, India
+
+**Distribution, Integration & Service**
+
+- Trading houses: Yamazen
+- Automation cells, system integrators
+- CAD/CAM, monitoring software
+- Maintenance, retrofit, used machines
+
+**End Customers**
+
+- Automotive OEMs, Tier 1s
+- Semiconductor equipment makers
+- Aerospace & defence
+- AI data centres, medical, general machinery
+
+*Source: FIELDNOTES sector report §4 (machine tools & FA value chain); company segments from §5 of this report.*
+
+## 5. Segments
+
+DMG Mori has two reportable segments. Machine Tool manufactures and sells machine tools. Industrial Services provides repair and restoration, spare parts, engineering and solutions related to machine tools. Segment profit is defined by the company as operating profit plus the share of profit of associates and joint ventures; the adjustment column (corporate functions and eliminations) reconciles the segment total to consolidated operating profit (definitions per the Q3 2026 tanshin, 30 October 2026, and Company results via PL/segment sheet (tanshin)).
+
+The five-year segment record (Exhibit 2) shows the two businesses moving differently through the cycle. Machine Tool external sales rose from ¥266,662mn (FY2021) to ¥363,158mn (FY2024) before falling to ¥343,277mn in FY2025; its segment profit peaked at ¥40,142mn in FY2023 (an 11.2% margin) and **collapsed to ¥8,612mn in FY2025 (2.5%)** as volumes fell against a cost base expanded for higher volume. **Industrial Services is the stabiliser**: sales of ¥129,321mn, ¥157,725mn, ¥181,639mn, ¥177,742mn and ¥171,652mn across FY2021–FY2025, with segment profit of ¥16,829mn, ¥30,119mn, ¥37,969mn, ¥42,846mn and ¥23,283mn — margins of 13.0%, 19.1%, 20.9%, 24.1% and 13.6%. Even in the weak FY2025, Industrial Services supplied about 73% of the two segments' combined profit on 33% of external sales. In 9M 2026 the pattern repeated: Machine Tool sales of ¥277,510mn (+26.4% year on year) with profit of ¥8,390mn (3.0%), Industrial Services sales of ¥145,157mn (+17.4%) with profit of ¥23,630mn (16.3%) (Q3 2026 tanshin, 30 October 2026).
+
+Geographic split: the company does not disclose revenue or profit by region (customer location) in its tanshin, and the PL/segment sheet therefore carries no regional block — regional sales and profit are not disclosed on that basis. Qualitatively, the group sells worldwide through direct sales and service companies in the Americas (Chicago technology centre and US production), Europe (the German AG organisation is the largest single operating block), Japan and the rest of Asia, and its order commentary for 9M 2026 reports double-digit order growth in every region without quantifying the split (Q3 2026 tanshin, 30 October 2026). Investors should treat any third-party regional revenue split for DMG Mori as an estimate, not a disclosure.
+
+**Exhibit 2 — Segment sales (external) and segment profit, FY2021–FY2025 (¥mn)**
+
+| Segment | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Machine Tool — sales | 267873 | 312073 | 373348 | 341911 | 228201 | 266662 | 317015 | 357774 | 363158 | 343277 |
+| Machine Tool — profit | 11669 | 31407 | 40163 | 34391 | 16944 | 19404 | 24053 | 40142 | 18759 | 8612 |
+| Machine Tool — margin (%) | 4.4 | 10.1 | 10.8 | 10.1 | 7.4 | 7.3 | 7.6 | 11.2 | 5.2 | 2.5 |
+| Industrial Services — sales | 108731 | 117556 | 127875 | 143845 | 100061 | 129321 | 157725 | 181639 | 177742 | 171652 |
+| Industrial Services — profit | 1777 | 9087 | 12938 | 19701 | 9949 | 16829 | 30119 | 37969 | 42846 | 23283 |
+| Industrial Services — margin (%) | 1.6 | 7.7 | 10.1 | 13.7 | 9.9 | 13 | 19.1 | 20.9 | 24.1 | 13.6 |
+| Adjustments — profit | -11289 | -11041 | -16673 | -16703 | -16745 | -13166 | -12959 | -23961 | -17879 | -12921 |
+| Consolidated operating profit | 1961 | 29391 | 36261 | 37339 | 10674 | 23067 | 41213 | 54150 | 43726 | 18974 |
+
+*Source: Company results via PL/segment sheet (tanshin). Segment profit = operating profit + share of profit of associates, per company definition; adjustments are corporate functions and eliminations. History for FY2016–FY2020 is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
+
+**Figure: DMG Mori Co., Ltd. — segment revenue, FY2025**
+
+| Item | Value (¥mn) |
+
+|---|---|
+
+| Machine Tool — sales | 343277 |
+
+| Industrial Services — sales | 171652 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: DMG Mori Co., Ltd. — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: DMG Mori Co., Ltd. — segment revenue mix, FY2025**
+
+**Machine Tool**
+
+- 343,277 Segment
+- 66.7% of revenue
+
+**Industrial Services**
+
+- 171,652 Segment
+- 33.3% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## 6. Financial statements summary
+
+Income statement (IFRS, by nature; Company results via PL/segment sheet (tanshin)). DMG Mori presents expenses by nature, so the sheet carries cost of sales and SG&A as a single net operating-expense line. For FY2025: total revenue (sales plus other revenue) was ¥527,196mn; materials ¥193,504mn; personnel ¥189,371mn; depreciation and amortisation ¥34,614mn; other expenses ¥89,767mn; total operating expenses ¥508,221mn; operating profit ¥18,974mn. Below operating profit, FY2025 financing was a net expense of ¥7,739mn and the share of associates a loss of ¥304mn; continuing profit before tax was ¥10,930mn, to which the discontinued Russian line added ¥17,228mn pre-tax (the insurance receipt), giving total profit before tax of ¥28,158mn, tax of ¥3,961mn and net income of ¥24,197mn (owners ¥24,033mn). The equivalent by-nature detail for FY2021–FY2024 is in the sheet; the pattern to note is **personnel cost rising every year of the five** (¥119,327mn → ¥138,882mn → ¥168,736mn → ¥179,487mn → ¥189,371mn) while materials tracked volume — the operating leverage that cut both ways in FY2025.
+
+Balance sheet (Company results via PL/segment sheet (tanshin)). At end-FY2025: total assets ¥868,965mn; cash ¥39,859mn; trade and other receivables ¥80,729mn; inventories ¥201,821mn; goodwill ¥100,100mn; other intangible assets ¥117,179mn; property, plant and equipment ¥223,573mn; interest-bearing debt per the sheet's definition ¥125,676mn (bonds and borrowings of ¥65,676mn current plus ¥60,000mn non-current per the parsed statements); contract liabilities ¥90,795mn; total equity ¥342,155mn, of which owners' equity ¥340,484mn (ratio 39.2%, BPS ¥2,444.41). At end-September 2026, after the August equity offering: total assets ¥877,625mn, owners' equity ¥356,247mn (ratio 40.6%, BPS ¥2,282.25 — BPS fell despite the raise because the new shares were issued below the then-prevailing book value per share on the expanded count) (Q3 2026 tanshin, 30 October 2026).
+
+Cash flow (Company results via PL/segment sheet (tanshin)). Operating cash flow was ¥49,733mn (FY2021), ¥69,749mn (FY2022), ¥51,608mn (FY2023), ¥44,579mn (FY2024) and ¥25,984mn (FY2025); FY2025 investing outflow was ¥11,214mn net (the sheet records capex of ¥29,519mn — ¥16,634mn of PP&E and ¥12,885mn of intangibles — partly offset by other investing flows) and financing outflow ¥20,355mn, including dividends. Returns: reported ROE (owners' profit over average owners' equity) was about 13.2% in FY2023, about 2.5% in FY2024 (discontinued-loss year) and about 7.3% in FY2025 — the FY2025 figure flattered by the insurance gain; on continuing operations alone it was roughly 2%. Dividend per share rose through the period — ¥40 (FY2021), ¥70 (FY2022), ¥90 (FY2023), ¥100 (FY2024), ¥105 (FY2025) — and the payout was maintained in FY2025 despite the weak continuing result, which is a policy statement in itself (dividend data per each year's tanshin; Company results via PL/segment sheet (tanshin)).
+
+## 7. Strategy and mid-term plan
+
+The company's strategy, as presented in its 2026 releases, has four planks: (1) MX (Machining Transformation) — selling process-integrated, automated production systems (5-axis, multitasking, automation, digital) rather than standalone machines, which lifts revenue per installation and the attached services stream; (2) capacity and component investment — the Nagaoka plant, the Poland plant, the Chicago R&D and solutions centre, and in-house production of key components, funded in part by the August 2026 ¥48bn equity offering; (3) growth adjacencies — semiconductor-related group companies (Magnescale, Saki), additive manufacturing, and 'manufacturing physical AI' (GENIAC programme selection and the Noetra investment in 2026); and (4) sustainability — the company reports CDP 'A List' status for climate change for a second consecutive year and, newly, for water security (Q3 2026 tanshin, 30 October 2026).
+
+Published plan numbers (company guidance and company plan only — no J-Core Fundamental Research forecasts are used in this report). FY2026 guidance: sales ¥580,000mn, operating profit ¥30,000mn (5.2% margin), owners' net income ¥15,500mn, orders above ¥650bn (revised 4 August 2026; confirmed 30 October 2026). FY2027 plan, published with the Q3 2026 release: sales ¥630,000mn (+8.6% versus the FY2026 forecast), **EBIT ¥51,000mn (+70.0%, an 8.1% margin)**, EBITDA ¥88,000mn and net income (EAT) ¥30,500mn (+96.8%) (company Q3 2026 results presentation, 30 October 2026, via the company's IR release). FY2028 plan, as summarised from the company's medium-term plan disclosures: EBIT of ¥68,500mn and net profit of ¥43,000mn, an EBIT margin of 10.1% — i.e., the plan asks investors to underwrite a near-doubling of the margin from the FY2026 guided 5.2% over two years, driven by backlog conversion, MX mix and services growth rather than by revenue (FY2028 revenue is not stated in the summary source and is not disclosed here). The delivery test is sequential: Q4 2026 shipments against the implied ¥13.1bn quarterly operating profit, then FY2027 order intake holding above the FY2026 level long enough to keep the backlog — ¥328.0bn at September 2026 — from unwinding.
+
+## 8. Other information
+
+History. Mori Seiki was founded in October 1948 in Yamato-Koriyama, Nara Prefecture, by the three Mori brothers, initially making textile machinery; it entered machine tools in 1958 and launched NC lathes in 1968. Gildemeister was founded in 1870 in Bielefeld, Germany. Taiyo Koki joined the group in 2001 and Hitachi Seiki's machine-tool business assets were acquired in 2002. The Mori Seiki–Gildemeister capital and business alliance dates to 2009; the DMG MORI brand and company names were unified in 2013; the Japanese parent became DMG MORI Co., Ltd. in June 2015; and the domination agreement with DMG MORI AG took effect in August 2016 (company history as summarised in public sources, November 2026).
+
+DMG MORI AG relationship and litigation close-out. DMG Mori Co., Ltd. holds, through a wholly owned subsidiary, about 87.4% of DMG MORI AG (per the company's Wikipedia summary of filings, accessed November 2026); DMG MORI AG in turn held 9.6% of DMG Mori Co., Ltd. as of 2015 (the cross-holding dates from the integration and has not been re-verified against a November 2026 filing for this report). The long-running German appraisal proceedings (Spruchverfahren) over the domination agreement's cash compensation and annual compensation for AG minorities concluded on 25 September 2026, when the Düsseldorf Higher Regional Court dismissed the appeal: the cash compensation was confirmed at €37.35 per AG share and the annual compensation was set at €1.28 per share (raised from €1.17 at first instance); the company states the conclusion creates no new liability and has no material effect on FY2026 results, and the cash-offer acceptance period runs to 7 December 2026 (Q3 2026 tanshin, additional information, 30 October 2026).
+
+Major shareholders of DMG Mori Co., Ltd. (per the company's Wikipedia summary of shareholder filings, accessed November 2026 — percentages as there reported and not re-verified against the latest quarterly securities report): Baillie Gifford & Co. 10.0%, Global Alpha Capital Management 7.5%, Sumitomo Mitsui Trust Asset Management 3.7%, the DMG Mori employee stock ownership plan 3.6%, Nomura Asset Management 3.2%, Masahiko Mori 2.8%, the Mori Manufacturing Research & Technology Foundation 2.7%, BlackRock Fund Advisors 2.7%, Vanguard 2.1% and Norges Bank Investment Management 1.6%. Management: Dr. Masahiko Mori, of the founding family, is President (Representative Director) — he is named as representative in the Q3 2026 tanshin (30 October 2026), with Keiichi Ota as Director and CFO. DMG MORI AG is led by CEO Alfred Geissler (public sources, November 2026).
+
+Shareholder returns. **The dividend has risen every year of the recent period** — ¥40 (FY2021), ¥70 (FY2022), ¥90 (FY2023), ¥100 (FY2024), ¥105 (FY2025) per share — and the FY2026 forecast is ¥105 (¥50 interim, ¥55 year-end), unchanged at Q3 (dividend data per annual and Q3 2026 tanshin). The FY2025 payout ratio on reported owners' profit was about 62% (¥105 against diluted EPS of ¥170.1), and on continuing operations it exceeded 100% — the company is in effect paying the dividend through the cycle, funded by the balance sheet and, in 2026, by the equity raise. No share buyback was announced in the materials reviewed for this report. Employees, R&D expenditure, production/sales unit volumes and capacity are not disclosed in the tanshin and are therefore not stated in this report (see Section 9).
+
+## 9. Basis of preparation
+
+Sources. Historical financials (FY2021–FY2025 annual and quarterly) are from the company's IFRS tanshin as compiled in the PL/segment sheet (cited as 'Company results via PL/segment sheet (tanshin)'); the underlying tanshin are the annual releases of 10 February 2022, 8 February 2023, 5 February 2024, 5 February 2025 and 10 February 2026 and the quarterly releases listed in the sheet's source register. Q3 FY2026 figures, the FY2026 guidance and the FY2027 plan are from the Q3 2026 tanshin and results release of 30 October 2026. Market data are Finnhub data for 6141.T (close of ¥2,629 on Friday 13 November 2026; 52-week high ¥3,980 on 5 August 2026 and low ¥2,307.5 on 31 March 2026, from Finnhub daily candles); market capitalisation is computed from that price and the 156,094,794 shares outstanding excluding treasury shares at 30 September 2026 per the Q3 tanshin. Industry order data are JMTBA figures as reported in November 2026. One discrepancy is flagged for the record: the PL/segment sheet's guidance register carries the original February 2026 FY2026 guidance (sales ¥535,000mn, operating profit ¥22,500mn); that guidance was superseded by the 4 August 2026 revision (sales ¥580,000mn, operating profit ¥30,000mn) used throughout this report.
+
+Not disclosed / not obtained. The following are not disclosed in the tanshin and are shown as not disclosed rather than estimated: revenue and profit by region (customer location), order backlog in the financial statements (the ¥328.0bn machine backlog in Section 2 is from the Q3 qualitative text), R&D expenditure, employee numbers, production and sales unit volumes, and capacity/utilisation. The Shared Research depth benchmark calls for a 10–11-year KPI history; the PL/segment sheet now covers the full ten years FY2016–FY2025 — FY2021–FY2025 in its main block and CY2016–CY2020 in its supplementary History block, each year as originally reported in its own annual tanshin — plus FY2026 guidance, and this report's KPI table is drawn from that sourced range rather than extended from unverified third-party history. Shareholder percentages in Section 8 are from a secondary summary of filings and are flagged as such.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders pending completion of the valuation work; no investment recommendation is made or implied by this document. All forward-looking figures are company guidance or company plan, labelled as such; this report contains no J-Core Fundamental Research forecasts.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

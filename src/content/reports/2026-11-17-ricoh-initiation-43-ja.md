@@ -1,0 +1,406 @@
+---
+title: "A ¥2.6tn workplace integrator whose profit pool still sits in print hardware: initiation on Ricoh as one-offs flatter H1 FY3/27 and the rolling plan chases ROE of 10%"
+company: "Ricoh Company, Ltd."
+ticker: "7752"
+sector: "Office Equipment / Digital Services"
+date: 2026-11-17
+type: initiation
+externalUrl: "/ja/reports/2026-11-17-ricoh-initiation-43/"
+lang: ja
+---
+
+The office-print cash cow is being asked to fund its own replacement: Ricoh Company, Ltd. (7752, TSE Prime) is the Tokyo-based imaging group founded in 1936 that built its position on copiers and multifunction printers (MFPs) and now presents itself as a digital-services company — an integrator of its own and third-party hardware, software and services into the customer's workplace (はたらく場). The financial reality is more concentrated than the narrative: of FY3/26 revenue of ¥2,608,314mn (IFRS), **the legacy Digital Services field supplied ¥1,988,530mn (76.2%), yet earned segment profit of only ¥27,978mn (a 1.4% margin on external sales)**, while Digital Products — the MFP/printer hardware and device business, much of it sold internally to Digital Services and therefore small on an external-sales basis (¥186,395mn) — earned ¥31,580mn, the group's largest segment profit. The initiation question is whether the services integrator can ever earn a real margin, or whether Ricoh remains a hardware profit pool with a low-margin services wrapper. H1 FY3/27 sharpened rather than answered the question: operating profit more than doubled to ¥73,442mn (+107.2% YoY), but the company's own briefing transcript quantifies ¥17,800mn of that as the gain on transferring Ricoh Asia Industry (Shenzhen) shares and a further ¥12,600mn as US tariff refunds and related items — **together ¥30,400mn, or 41% of H1 operating profit** — and full-year company guidance, raised on 6 November 2026 to operating profit of ¥103,000mn, therefore implies second-half operating profit of only ¥29,558mn (calculated), down 60% half-on-half, as semiconductor-memory cost inflation (a net ¥2,000mn drag already in H1, per the transcript) and other headwinds the company sizes at about ¥20,000mn against its initial H2 plan land in H2. Strengths: (1) a genuine recurring-revenue base — workplace services stock revenue is growing, Graphic Communications swung from a ¥4,936mn H1 loss to ¥4,582mn of profit, and the ETRIA engine joint venture with Toshiba Tec (joined by OKI in October 2025) defends the MFP engine share that underpins the installed base; (2) cash generation and returns are real — operating cash flow of ¥158,120mn in FY3/26, a dividend raised four straight years to a forecast ¥44 for FY3/27, a ¥25,000mn buyback (up to 23,000,000 shares) running to 30 November 2026 with cancellation to follow, and a total-return-ratio target of about 50%; (3) a decade of revenue repair — sales have recovered from the FY3/21 COVID trough of ¥1,682,069mn to a record ¥2,608,314mn. Weaknesses: (1) profitability is structurally thin — the operating margin has not exceeded 4.3% in any of the ten years in Exhibit 1, ROE was 5.1% in FY3/26 against the company's own stated cost of equity of 7.5–8.0% (interview pack), and the Mid-Term Strategy '26 targets (ROE 10%, ROIC above 7%) are long-horizon goals on a new five-year rolling plan, not a bridged commitment; (2) earnings quality in the current year is poor — the two H1 one-offs above, a gross-profit guidance cut (¥920,000mn to ¥915,000mn) delivered in the same release as the operating-profit raise, and a Workplace Service segment that earned a 0.6% margin in H1 on the new segment basis; (3) the core market is shrinking — the A3 colour MFP market fell 4% YoY in H1 FY3/27 (company Q&A), print volumes decline structurally, and the segment basis itself changes from FY3/27, so no clean segment history spans the break. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance, labelled as such with revision dates. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (IFRS, as reported) and FY3/27E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 2028899 | 2063363 | 2013228 | 2008580 | 1682069 | 1758587 | 2134180 | 2348987 | 2527876 | 2608314 | 2700000 |
+| Revenue growth (%) | — | 1.7 | -2.4 | -0.2 | -16.3 | 4.5 | 21.4 | 10.1 | 7.6 | 3.2 | 3.5 |
+| Operating profit | 33880 | -115676 | 86839 | 79040 | -45429 | 40052 | 78740 | 62023 | 63829 | 90713 | 103000 |
+| Operating margin (%) | 1.7 | -5.6 | 4.3 | 3.9 | -2.7 | 2.3 | 3.7 | 2.6 | 2.5 | 3.5 | 3.8 |
+| Profit before tax | 29955 | -124182 | 83964 | 75891 | -41028 | 44388 | 81308 | 68202 | 70067 | 92273 | 103000 |
+| Net income to owners | 3489 | -135372 | 49526 | 39546 | -32730 | 30371 | 54367 | 44176 | 45709 | 55669 | 69500 |
+| EPS (¥, calc. on diluted shares) | 4.8 | -186.8 | 68.3 | 54.6 | -45.2 | 45.3 | 88.1 | 72.5 | 78 | 97.7 | 124.3 |
+| Dividend per share (¥) | — | — | — | — | 15 | 26 | 34 | 36 | 38 | 40 | 44 |
+| ROE (%) | — | — | — | — | — | — | — | — | 4.4 | 5.1 | 6 |
+| Operating cash flow | 88299 | 110288 | 81947 | 116701 | 126962 | 82462 | 66708 | 125617 | 136877 | 158120 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive): main window FY3/22–FY3/26 and supplementary history block FY3/17–FY3/21 (H7 deepening; FY3/17 from the FY3/18 tanshin's comparatives, the sole surviving source). EPS is calculated on diluted weighted shares (sheet convention); reported basic EPS was ¥78.11 (FY3/25) and ¥97.80 (FY3/26). ROE as reported in tanshin headers (FY3/25–26); earlier years not carried in the sources used. DPS as reported in annual tanshin (FY3/21–FY3/26); FY3/17–FY3/20 not extracted from the sources used. FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin [IFRS], 6 Nov 2026 (initial guidance 12 May 2026: revenue ¥2,700,000mn, OP ¥95,000mn, owners' NI ¥62,000mn); guided EPS is basic EPS as published; guided ROE of 6.0% is the company's forecast metric (briefing materials).*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥921.1bn |
+| 52-week range | ¥1,290.5 – ¥1,877 |
+| P/E (FY3/26 basic EPS ¥97.80, IFRS) | 16.2x |
+| P/E (FY3/27E co. guidance basic EPS ¥124.25) | 12.7x |
+| FY3/27E dividend (company forecast) | ¥44 / share (2.6% yield) |
+| Next event | Q3 FY3/27 results, around Feb 2027 |
+
+## Key points
+- **H1 FY3/27: operating profit doubled — and 41% of it is two one-offs.** For the six months to 30 September 2026 (IFRS), revenue was ¥1,294,427mn (+5.9% YoY; +0.2% excluding FX), **operating profit ¥73,442mn (+107.2%)**, profit before tax ¥73,219mn (+95.8%) and net income attributable to owners ¥55,755mn (+126.9%); basic EPS was ¥98.77. The company's published briefing transcript quantifies the one-off content: a ¥17,800mn gain on the transfer of shares in Ricoh Asia Industry (Shenzhen) Ltd. (booked in eliminations/corporate) and ¥12,600mn of US tariff refunds and related items (just under ¥10,000mn of it in Digital Products), partly offset by a net ¥2,000mn drag from semiconductor-memory price inflation. Gross profit was ¥463.0bn and the gross margin 35.8% (vs 34.3%), per the briefing materials. The shares fell about 5.1% against TOPIX on the first session after the print (interview pack, kabuscope summary) — the market read the beat as non-recurring. Source: Q2 FY3/27 tanshin [IFRS], 6 November 2026; company-published English briefing transcript and Q&A, 6 November 2026.
+- **Guidance raised on operating profit, cut on gross profit — and it implies a weak H2.** Full-year FY3/27 company guidance (会社計画) was revised on 6 November 2026 to revenue of ¥2,700,000mn (unchanged from the initial plan of 12 May 2026), operating profit of ¥103,000mn (raised from ¥95,000mn, +8.4%), profit before tax of ¥103,000mn (from ¥95,000mn) and owners' net income of ¥69,500mn (from ¥62,000mn, +12.1%), with basic EPS of ¥124.25 — while the gross-profit forecast was cut from ¥920,000mn to ¥915,000mn. H1 delivered 48.0% of guided revenue but 71.3% of guided operating profit, so **the guide implies H2 operating profit of ¥29,558mn (calculated)**; the company told the Q2 briefing to expect 'around ¥30 billion' in H2, with about ¥20,000mn of additional headwinds versus its initial H2 assumptions (memory costs, Middle East disruption, sales-promotion spending and higher Graphic Communications development costs). Source: Q2 FY3/27 tanshin guidance-revision table, 6 November 2026; guidance tracker 2026-11-17; briefing transcript.
+- **Strength — the profit pool is defended hardware plus a recovering graphics business.** On the new FY3/27 segment basis, Digital Products earned ¥44,388mn of operating profit in H1 (an 8.2% margin on total segment sales) on MFP hardware demand, product sales to OKI via ETRIA and the tariff refund, and **Graphic Communications swung ¥9,518mn YoY to a ¥4,582mn profit as production-printer non-hardware revenue and inkjet-head sales grew**. ETRIA — the MFP development/production joint venture with Toshiba Tec, joined by OKI in October 2025 — is the mechanism: Ricoh states its A3 colour MFP unit sales rose 1% in H1 against a market down 4% (company Q&A), defending the machine-in-field base that generates non-hardware revenue. Source: Q2 FY3/27 tanshin segment note and qualitative section; company Q&A, 6 November 2026.
+- **Weakness — the 'digital services company' earns services margins of about 1%.** **Workplace Service, the renamed core services field, earned ¥3,095mn of operating profit on ¥529,098mn of external sales in H1 FY3/27 — a 0.6% margin** (0.1% a year earlier) — and on the old basis Digital Services earned a 1.4% margin in FY3/26 on ¥1,988,530mn of sales. The ten-year record in Exhibit 1 shows why this matters: group operating margin peaked at 4.3% (FY3/19) in a decade that also contains two operating-loss years (FY3/18, −¥115,676mn on impairments; FY3/21, −¥45,429mn in the COVID print collapse), and ROE of 5.1% in FY3/26 sits below the company's own 7.5–8.0% cost-of-equity estimate. The Mid-Term Strategy '26 answer — ROE of 10% and ROIC above 7% over a rolling five-year horizon — is a direction, not yet a bridge. Source: PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note; FY3/26 tanshin; interview pack.
+- **Returns are the credible leg: ¥44 dividend, ¥25bn buyback, ~50% total-return target.** **The dividend has risen every year from ¥15 (FY3/21) to ¥40 (FY3/26) and a forecast ¥44 for FY3/27** (interim ¥22 decided), under a stated policy of a total return ratio of about 50%. On 12 May 2026 the board authorised repurchases of up to 23,000,000 shares (4.0% of shares excluding treasury) for up to ¥25,000mn between 13 May and 30 November 2026, with all acquired shares to be cancelled (scheduled 11 December 2026); treasury stock on the balance sheet rose from ¥658mn at March 2026 to ¥18,044mn at September 2026 as the programme executed, and the company told the Q2 briefing it expected to complete the programme 'in around a month'. At ¥1,702.5 the forecast dividend yields 2.6% (calculated). Source: FY3/26 tanshin (subsequent-event note; dividend policy section), 12 May 2026; Q2 FY3/27 tanshin balance sheet; briefing transcript.
+
+## 1. Key indicators and financial history
+
+Ricoh reports under IFRS with a March year-end (confirmed in every tanshin title, 〔ＩＦＲＳ〕（連結）, and in the PL/segment sheet register S1). The ten-year history in this chapter and Exhibit 1 is IFRS as reported in each year's own annual tanshin, compiled in the PL/segment sheet for 7752: the main window (FY3/22–FY3/26, plus 20 quarters) from the LibreOffice-recalculated copy at ~/workspace/pl-segment/work/ricoh/recalc/7752_Ricoh_PL.xlsx, and the supplementary history block (FY3/17–FY3/21) from the H7 deepening dataset (work/ricoh/hist_data.json, the parsed source of the block written into the Drive sheet; rollout log historyH7). All template checks equal zero; the H7 block's maximum rounding plug is ¥0mn — every identity held exactly as printed. Figures are ¥mn unless stated.
+
+Revenue describes a decade of shock and repair. Sales were ¥2,028,899mn in FY3/17 and ¥2,063,363mn in FY3/18, drifted down through FY3/19 (¥2,013,228mn) and FY3/20 (¥2,008,580mn), then fell 16.3% to ¥1,682,069mn in FY3/21 as COVID emptied offices and print volumes collapsed. **The recovery since has been steady and, latterly, FX-assisted: ¥1,758,587mn in FY3/22 (+4.5%), ¥2,134,180mn in FY3/23 (+21.4%), ¥2,348,987mn in FY3/24 (+10.1%), ¥2,527,876mn in FY3/25 (+7.6%) and ¥2,608,314mn in FY3/26 (+3.2%) — a record, and 55% above the FY3/21 trough**. Operating profit never recovered its dignity in the same way. The decade contains two loss years — FY3/18 (−¥115,676mn, on impairment-led other operating expenses of ¥128,765mn as entered in the history block) and FY3/21 (−¥45,429mn) — and the best year, FY3/19, printed only ¥86,839mn (a 4.3% margin). The recent sequence is ¥40,052mn (FY3/22, 2.3%), ¥78,740mn (FY3/23, 3.7%), ¥62,023mn (FY3/24, 2.6%), ¥63,829mn (FY3/25, 2.5%) and ¥90,713mn (FY3/26, 3.5%). Gross margin has compressed almost every year of the recovery, from 35.4% in FY3/22 to 34.1% in FY3/26, as mix shifts toward services and hardware costs rise; the SG&A ratio improved from 34.1% to 31.3% over the same span, which is where the operating leverage has come from.
+
+Below operating profit, Ricoh's IFRS presentation places the share of profit of associates and joint ventures (a steady ¥4,969mn–¥6,151mn contributor across FY3/22–26, largely the ETRIA-related and other equity holdings) and net finance costs between operating profit and profit before tax. Profit before tax was ¥44,388mn / ¥81,308mn / ¥68,202mn / ¥70,067mn / ¥92,273mn for FY3/22–26 (and −¥124,182mn in FY3/18, −¥41,028mn in FY3/21). The effective tax rate is high and volatile — 31.0% / 31.6% / 35.1% / 34.2% / 38.1% across FY3/22–26; the FY3/26 tanshin materials attribute part of the FY3/26 rate to a non-deductible goodwill impairment. Net income attributable to owners was ¥30,371mn / ¥54,367mn / ¥44,176mn / ¥45,709mn / ¥55,669mn, and EPS calculated on diluted weighted shares (the sheet's convention) was ¥45.3 / ¥88.1 / ¥72.5 / ¥78.0 / ¥97.7, against reported basic EPS of ¥78.11 (FY3/25) and ¥97.80 (FY3/26). Reported ROE was 4.4% in FY3/25 and 5.1% in FY3/26 (tanshin headers); ROE for FY3/17–FY3/24 is not carried in the sources used and is shown as not disclosed in Exhibit 1 rather than reconstructed. The share count tells the capital-return story: diluted weighted shares fell from 724.9mn in FY3/17–21 to 570.0mn in FY3/26 on repeated buybacks and cancellations.
+
+Cash flow is the strongest part of the record. Operating cash flow was ¥82,462mn / ¥66,708mn / ¥125,617mn / ¥136,877mn / ¥158,120mn across FY3/22–26 — positive in every one of the ten years, including ¥110,288mn in loss-making FY3/18 and ¥126,962mn in FY3/21. Balance-sheet cash (cash and cash equivalents as presented) was ¥204,855mn at 31 March 2026 against bonds and borrowings of ¥432,126mn (current ¥133,996mn plus non-current ¥298,130mn; the sheet's debt definition excludes lease liabilities — register S7), a net debt position of about ¥227,271mn (calculated) that the mid-term plan commits to keep at a net D/E below 0.40 (company materials). The owners' equity ratio was 45.5% at March 2026 (48.7% / 43.3% / 45.4% / 43.7% / 45.5% across FY3/22–26, tanshin CF-indicator table). Exhibit 1 (page 1) gives the full ten-year KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header, 12 May 2026.
+
+**Figure: Ricoh Company, Ltd. — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 2028899 |
+
+| FY3/18 | 2063363 |
+
+| FY3/19 | 2013228 |
+
+| FY3/20 | 2008580 |
+
+| FY3/21 | 1682069 |
+
+| FY3/22 | 1758587 |
+
+| FY3/23 | 2134180 |
+
+| FY3/24 | 2348987 |
+
+| FY3/25 | 2527876 |
+
+| FY3/26 | 2608314 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Ricoh Company, Ltd. — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 33880 |
+
+| FY3/18 | -115676 |
+
+| FY3/19 | 86839 |
+
+| FY3/20 | 79040 |
+
+| FY3/21 | -45429 |
+
+| FY3/22 | 40052 |
+
+| FY3/23 | 78740 |
+
+| FY3/24 | 62023 |
+
+| FY3/25 | 63829 |
+
+| FY3/26 | 90713 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Ricoh Company, Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 1.7 |
+
+| FY3/18 | -5.6 |
+
+| FY3/19 | 4.3 |
+
+| FY3/20 | 3.9 |
+
+| FY3/21 | -2.7 |
+
+| FY3/22 | 2.3 |
+
+| FY3/23 | 3.7 |
+
+| FY3/24 | 2.6 |
+
+| FY3/25 | 2.5 |
+
+| FY3/26 | 3.5 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Ricoh Company, Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q2 FY3/27 results and guidance (first year of Mid-Term Strategy '26; new segment basis)
+
+Ricoh reported Q2 FY3/27 (H1, 1 April–30 September 2026) results on 6 November 2026, the first interim under the new five-field segment structure (Workplace Service / Digital Products / Graphic Communications / Industrial Solutions / Other) that replaces the structure in place since April 2021, with prior periods restated onto the new basis in the Q2 document. President and CEO Akira Oyama and Director/CFO Takashi Kawaguchi presented the results the same day; unusually for a Japanese issuer, Ricoh publishes full English transcripts of the presentation and a Q&A document (15 questions) — both are in the programme's transcript library and are cited here only for what they state. This chapter summarises the release; segment detail is in Chapter 5.
+
+**Figure: Ricoh Company, Ltd. — segment revenue, FY3/26**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Digital Services — external sales | 1988530 |
+
+| Digital Products — external sales | 186395 |
+
+| Graphic Communications — external sales | 284043 |
+
+| Industrial Solutions — external sales | 106232 |
+
+| Other — external sales | 43114 |
+
+| Japan — sales | 1051655 |
+
+| Americas — sales | 654677 |
+
+| Europe, Middle East & Africa — sales | 672620 |
+
+| Other regions — sales | 229362 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Ricoh Company, Ltd. — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Ricoh Company, Ltd. — segment revenue mix, FY3/26**
+
+**Digital Services**
+
+- ¥1,988,530mn
+- 38.1% of revenue
+
+**Japan**
+
+- ¥1,051,655mn
+- 20.2% of revenue
+
+**Europe, Middle East & Africa**
+
+- ¥672,620mn
+- 12.9% of revenue
+
+**Americas**
+
+- ¥654,677mn
+- 12.5% of revenue
+
+**Graphic Communications**
+
+- ¥284,043mn
+- 5.4% of revenue
+
+**Other regions**
+
+- ¥229,362mn
+- 4.4% of revenue
+
+**Digital Products**
+
+- ¥186,395mn
+- 3.6% of revenue
+
+**Industrial Solutions**
+
+- ¥106,232mn
+- 2.0% of revenue
+
+**Other**
+
+- ¥43,114mn
+- 0.8% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## H1 FY3/27 results (cumulative, as reported, IFRS)
+
+Revenue was ¥1,294,427mn (+5.9% YoY; domestic ¥503.0bn, +1.6%, overseas ¥791.4bn, +8.8%, per the interview pack's reading of the release — and only +0.2% excluding FX, per the tanshin), gross profit ¥463.0bn (a 35.8% gross margin, +1.5pt YoY; briefing materials), operating profit ¥73,442mn (+107.2%; margin 5.7%), profit before tax ¥73,219mn (+95.8%), interim net income ¥57,251mn and net income attributable to owners ¥55,755mn (+126.9%); basic EPS was ¥98.77 (diluted ¥98.61). The quarterly split shows the one-offs landing early: Q1 standalone printed revenue of ¥629,812mn (+8.4%) and operating profit of ¥47,762mn (+277.8%), so Q2 standalone (derived as H1 minus Q1, both as reported) contributed revenue of ¥664,615mn (+3.6%) and operating profit of ¥25,680mn — the company told the briefing it had initially forecast Q2 operating profit of about ¥18,000mn and beat it by about ¥8,000mn, of which about ¥5,000mn was better-than-expected business performance (Digital Products and Graphic Communications together beat by more than ¥10,000mn; Workplace Services missed by ¥4,000mn–¥5,000mn) and about ¥2,500mn unanticipated factors including additional tariff refunds and a weaker yen (company Q&A).
+
+Earnings quality is the chapter's central fact, and Ricoh itself provides the numbers. The briefing transcript's operating-profit bridge attributes +¥17,800mn to the gain on transferring the shares of Ricoh Asia Industry (Shenzhen) Ltd. — the asset-light disposal flagged as a subsequent event in the FY3/26 tanshin — and +¥12,600mn to US tariff refunds and related items; the segment note places the Shenzhen gain in eliminations/corporate, whose H1 result swung from −¥845mn to +¥19,040mn. Against those, semiconductor-memory price inflation cost about ¥2,000mn net in H1 after mitigation (procurement, production improvements and price pass-throughs, with a time lag the CFO acknowledged). **Stripping the two gains (calculated) leaves H1 operating profit of about ¥43,000mn — still up about 21% YoY, but a 3.3% margin**, in line with the group's decade-long run-rate rather than a step-change. H1 operating cash flow was ¥44,281mn (prior-year H1: ¥29,441mn). The balance sheet at 30 September 2026: total assets ¥2,511,302mn, total equity ¥1,190,658mn, owners' equity ¥1,158,012mn, owners' equity ratio 46.1%; receivables fell ¥20,997mn from March to ¥567,405mn while inventories rose ¥30,957mn to ¥361,890mn on H2 sales build and production-transfer stocking (tanshin qualitative section); bonds and borrowings totalled ¥438,951mn. The interim dividend was decided at ¥22 per share. Market reaction is part of the record: the shares fell about 5.1% relative to TOPIX on the first session after the print (interview pack, citing kabuscope's summary of TDnet data), and closed at ¥1,702.5 on 16 November 2026, about 9% below the 52-week high of ¥1,877 set on 27 October 2026 (Finnhub). Source: Q2 FY3/27 tanshin [IFRS], 6 November 2026; Q1 FY3/27 tanshin [IFRS], 3 August 2026; company-published English briefing transcript and Q&A, 6 November 2026.
+
+## Guidance: operating profit raised to ¥103,000mn on 6 November 2026 — revenue unchanged, gross profit cut (company guidance)
+
+Full-year FY3/27 guidance, as revised in the Q2 release of 6 November 2026, is revenue ¥2,700,000mn, gross profit ¥915,000mn, operating profit ¥103,000mn, profit before tax ¥103,000mn, net income ¥72,000mn and net income attributable to owners ¥69,500mn with basic EPS of ¥124.25 — company guidance (会社計画), not a J-Core Fundamental Research forecast. The full revision chain, verified against the sheet register (S10), the guidance tracker of 17 November 2026 and the tanshin revision table, has exactly one revision: initial guidance in the FY3/26 tanshin of 12 May 2026 (revenue ¥2,700,000mn, gross profit ¥920,000mn, operating profit ¥95,000mn, profit before tax ¥95,000mn, owners' net income ¥62,000mn), confirmed unchanged at Q1 (3 August 2026), then revised on 6 November 2026 — revenue unchanged, gross profit cut by ¥5,000mn, operating profit raised by ¥8,000mn (+8.4%), owners' net income raised by ¥7,500mn (+12.1%). The odd shape is the story: **the company cut the gross-profit line for higher memory costs (briefing transcript) while raising operating profit on H1's one-off gains and cost control** — which is why the interview pack's first question asks which SG&A or other-income line does the work in H2. The company's own forecast metrics for FY3/27 are ROE of 6.0% and ROIC of 4.9% (briefing materials, via the transcript library). The dividend forecast is unchanged at ¥44 per share (interim ¥22 decided).
+
+Segment sales guidance (分野別売上高見通し, Q2 tanshin; company guidance, new segment basis; segment operating-profit guidance is not disclosed — 未取得) is: Workplace Service ¥1,122,000mn (+1.4% vs the restated FY3/26 figure of ¥1,106,700mn), Digital Products ¥1,107,000mn (+3.6%), Graphic Communications ¥306,000mn (+7.7%), Industrial Solutions ¥119,000mn (+12.0%) and Other ¥46,000mn (+6.7%), with domestic sales of ¥1,067,000mn and overseas ¥1,633,000mn. Against guidance, H1 progress was 48.0% on revenue and 71.3% on operating profit, so delivery requires H2 operating profit of ¥29,558mn (calculated) — management guided the briefing to 'around ¥30 billion' for H2 and itemised about ¥20,000mn of additional H2 headwinds versus its initial forecast (higher memory costs, Middle East disruption, necessary sales-promotion expenses and higher Graphic Communications development costs), to be offset by cost controls and structural reforms. The monitoring yardstick is therefore mechanical: any Q3 cumulative print that leaves more than roughly ¥30,000mn to earn in Q4 alone puts the ¥103,000mn guide out of reach. Exhibit 3 sets out H1 segment actuals against full-year segment sales guidance. Source: Q2 FY3/27 tanshin (section 3 and outlook tables), 6 November 2026; FY3/26 tanshin (initial guidance), 12 May 2026; briefing transcript, 6 November 2026.
+
+**Exhibit 3. H1 FY3/27 results (new segment basis) vs FY3/27 company guidance**
+
+| ¥mn | H1 FY3/27 sales | H1 FY3/27 profit | FY3/27E sales (guidance) | FY3/27E profit (guidance) |
+|---|---|---|---|---|
+| Workplace Service | 529098 | 3095 | 1122000 | — |
+| Digital Products | 538714 | 44388 | 1107000 | — |
+| Graphic Communications | 144425 | 4582 | 306000 | — |
+| Industrial Solutions | 56491 | 1945 | 119000 | — |
+| Other | 25699 | 392 | 46000 | — |
+| Eliminations / corporate | — | 19040 | — | — |
+| Consolidated | 1294427 | 73442 | 2700000 | 103000 |
+
+*Source: H1 FY3/27: Q2 FY3/27 tanshin [IFRS] segment note, 6 Nov 2026 (external sales; prior-year half restated onto the new basis). FY3/27 segment sales guidance: Q2 FY3/27 tanshin outlook table (分野別売上高見通し), company guidance; segment operating-profit guidance is not disclosed (未取得). Consolidated guidance: Q2 FY3/27 tanshin section 3 (revised 6 Nov 2026). Eliminations/corporate H1 profit includes the ¥17,800mn gain on the Ricoh Asia Industry (Shenzhen) share transfer (company briefing transcript).*
+
+## 3. Business description
+
+Ricoh organises itself, from FY3/27, into five fields — Workplace Service, Digital Products, Graphic Communications, Industrial Solutions and Other — replacing the five-field structure introduced on 1 April 2021 (Digital Services / Digital Products / Graphic Communications / Industrial Solutions / Other) under which the FY3/22–FY3/26 history in this report is presented. The reorganisation's substance is the split of the old Digital Services: office-printing hardware and related device sales move into Digital Products, and the services remainder becomes Workplace Service (the arithmetic is visible in the restated FY3/26 figures: new-basis Workplace Service ¥1,106,700mn plus Digital Products ¥1,068,100mn equals ¥2,174,800mn, against old-basis Digital Services plus Digital Products of ¥2,174,925mn — a ¥125mn rounding difference in the company's ¥100mn-unit outlook table). Segment profit is operating profit (Drivers tab: 'segment profit = operating profit basis'); segment sales in the sheet are external sales only, and intersegment sales (mainly Digital Products into the services field) are excluded from the template sales rows (register S3) — a presentation point that matters for Digital Products, whose profit is earned largely on internal volume. In FY3/26 (old basis, external revenue) the mix was Digital Services 76.2%, Digital Products 7.1%, Graphic Communications 10.9%, Industrial Solutions 4.1% and Other 1.7%.
+
+## Workplace Service (formerly the services core of Digital Services): the integrator ambition, at a 1% margin
+
+Workplace Service is the business the strategy is about: office services and IT services, application services, workplace-experience offerings (expanded by the acquisitions of Presentation Products, Inc. in the US and ET Group in Canada), managed print services and the DocuWare document-workflow platform — sold as an integrator combining Ricoh and third-party products, software and services into the customer's workplace, with stock (recurring) revenue as the stated growth engine. On the old basis, Digital Services revenue grew from ¥1,428,192mn in FY3/22 to ¥1,988,530mn in FY3/26, but segment profit went sideways — ¥16,209mn / ¥28,284mn / ¥40,802mn / ¥32,298mn / ¥27,978mn, margins of 1.1% / 1.7% / 2.2% / 1.7% / 1.4% on external sales. H1 FY3/27 on the new basis continued the pattern: revenue ¥529,098mn (+2.5% YoY, but −2.1% excluding FX, as domestic IT-infrastructure demand cooled after the PC replacement cycle and PC/server price inflation suppressed customer investment) and operating profit of ¥3,095mn (0.6% margin), helped by stock-revenue growth, FX and the non-recurrence of prior-year one-off costs for the European core-system integration. ==The gap between this segment's 40.9% share of H1 revenue and its 4.2% share of H1 segment profit (before the corporate gain) is the single most important number in the equity story==. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note and qualitative section, 6 November 2026.
+
+## Digital Products and ETRIA: the hardware profit pool
+
+Digital Products develops and manufactures the group's devices — MFPs, printers and related hardware — selling externally (increasingly including OEM product sales) and internally to the services field. Its external-sales history is distorted by that internal flow and by reclassifications: external sales of ¥13,172mn in FY3/22 and ¥26,702mn in FY3/23 jump to ¥95,943mn / ¥157,065mn / ¥186,395mn in FY3/24–26 as OEM and direct hardware sales were routed through the segment, while segment profit was ¥41,731mn / ¥31,577mn / ¥17,376mn / ¥28,741mn / ¥31,580mn — the group's largest or second-largest profit contributor in every year, earned substantially on intersegment volume that the external-sales denominator does not show (margins on external sales, which print above 100% in FY3/22–23, are therefore not meaningful and are not used in this report; see Basis of preparation). On the new basis (which adds office-printing hardware sales), Digital Products' H1 FY3/27 total segment sales were ¥542,477mn (external ¥538,714mn) with operating profit of ¥44,388mn, an 8.2% margin on total sales, helped by the tariff refund (just under ¥10,000mn, per the CFO's briefing remarks) and ETRIA product sales to OKI, against memory-cost inflation and weaker overseas hardware demand after the prior year's tariff-driven pull-forward.
+
+ETRIA is the structural defence of this profit pool: the joint venture with Toshiba Tec (operating since July 2024) pools MFP development and production, OKI joined in October 2025 bringing LED print technology, and Ricoh's stated aim is to expand 'engine share' — the share of the market's MFP/printer core engines manufactured by ETRIA — including by supplying other brands. Management states A3 colour MFP unit sales rose 1% in H1 FY3/27 against a market down 4%, and that ETRIA's new engine is on schedule (company Q&A); asked whether more partners could join, the company said it is open to various forms of partnership beyond equity participation. The exposure is symmetric: every point of engine share defends the installed base (machine-in-field) that produces non-hardware revenue for Workplace Service and Graphic Communications, and every point of print-volume decline shrinks it. Source: company results via PL/segment sheet; Q2 FY3/27 tanshin; FY3/26 tanshin qualitative section; company Q&A, 6 November 2026.
+
+## Graphic Communications, Industrial Solutions and Other: the second engines
+
+Graphic Communications (commercial and industrial printing: production printers, inkjet heads, and related non-hardware revenue) is the group's most improved business: external sales of ¥187,082mn / ¥234,843mn / ¥262,127mn / ¥292,663mn / ¥284,043mn across FY3/22–26 with segment profit of −¥466mn / ¥14,578mn / ¥15,489mn / ¥23,159mn / ¥18,636mn (margins −0.2% / 6.2% / 5.9% / 7.9% / 6.6%), and in H1 FY3/27 (new basis) sales of ¥144,425mn (+9.1%) with operating profit of ¥4,582mn against a ¥4,936mn loss a year earlier, on firm non-hardware revenue, inkjet-head demand for promotional printing, cost control and FX — against soft European production-printer hardware demand. Guidance asks for ¥306,000mn of FY3/27 sales (+7.7%), with higher development costs flagged as an H2 headwind. Industrial Solutions (thermal media and industrial products) is small and cyclical: sales of ¥110,791mn / ¥113,572mn / ¥111,743mn / ¥112,192mn / ¥106,232mn and profit of ¥1,307mn / ¥3,150mn / −¥322mn / −¥1,821mn / ¥2,463mn; H1 FY3/27 sales rose 10.8% to ¥56,491mn (US e-commerce thermal demand plus European pull-forward buying on materials-shortage concerns — a demand quality caveat) with profit of ¥1,945mn; guidance is ¥119,000mn (+12.0%). Other (cameras centred on the RICOH GR series, and new-business incubation including the perovskite solar-cell project, for which the company plans about ¥30,000mn of investment to build inkjet-based production capability under a government GX supply-chain programme, with upfront costs through FY3/29 and earnings contribution targeted from FY3/30 — company Q&A) lost money in every year FY3/22–26 on the old basis (−¥15,521mn / −¥3,245mn / −¥10,522mn / −¥5,597mn / −¥3,382mn) before a small H1 FY3/27 profit of ¥392mn on camera strength. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note and outlook table; company Q&A, 6 November 2026.
+
+## 4. Market and value chain
+
+Ricoh sits at three points of the office value chain at once: it manufactures the device (Digital Products, increasingly through the ETRIA joint venture that also supplies Toshiba Tec and OKI), it sells and services the device and the surrounding IT estate (Workplace Service), and it sells the high-end print production chain (Graphic Communications). Upstream, the exposed inputs are semiconductors — the current cycle's binding constraint is memory, whose price inflation cost about ¥2,000mn net in H1 FY3/27 after mitigation and forced the FY3/27 gross-profit guidance cut — and petrochemical materials; downstream, demand is derived from office occupancy, print volumes and corporate IT budgets. **The structural facts are not in Ricoh's favour: paper use and print volumes decline gradually (the company's own framing in Q&A), the A3 colour MFP market contracted 4% YoY in H1 FY3/27**, and the profit pool migrates toward whoever owns the customer relationship and the recurring contract — which is precisely the integrator position Workplace Service is trying, so far at a 0.6–1.4% margin, to occupy.
+
+Competition is layered. In MFP hardware, Ricoh competes with Canon, Fujifilm Business Innovation, Konica Minolta, Kyocera Document Solutions, Sharp and HP — a field consolidating around shared engines (ETRIA's premise) as unit volumes shrink. In workplace/IT services it competes with global IT-services firms, systems integrators and the direct sales forces of the same hardware rivals, on local service density and installed-base access rather than on product. In commercial printing it competes with Canon Production Printing, HP, Fujifilm and Konica Minolta, with inkjet technology — where Ricoh's head technology is a genuine asset — taking share from offset in promotional and transactional print. Entry barriers are the installed base itself (machines in field generate annuity-like non-hardware revenue and switching costs), the global service network, and engine manufacturing scale; the substitute risks are paperless workflows (a slow, certain headwind), software-defined document platforms that disintermediate the device vendor, and — for the services ambition — the possibility that customers consolidate IT services with vendors who never made hardware. No company-disclosed market-size figure for Ricoh's categories is carried in the sources used here, and none is substituted; the verifiable demand evidence is the company's own reported unit colour (A3 colour MFP market −4%, Ricoh units +1% in H1) and its segment prints. Sources: Q2 FY3/27 tanshin; company briefing transcript and Q&A, 6 November 2026.
+
+**Figure: Ricoh in the office & workplace value chain**
+
+**Components & Engines**
+
+- Semiconductor memory, sensors & printheads
+- ETRIA JV engines (Toshiba Tec, OKI)
+- Toner, ink & consumable materials
+
+**Ricoh Company, Ltd. (7752)**
+
+- Workplace Service — office & IT services, MPS, DocuWare
+- Digital Products — MFPs, printers & devices (ETRIA)
+- Graphic Communications — production printing, inkjet heads
+- Industrial Solutions — thermal media; Other — cameras (GR), new businesses
+
+**Channels & Service Network**
+
+- Direct sales & service network (global)
+- Dealers & distributors
+- Managed print & workplace contracts
+
+**Workplaces & Print Users**
+
+- Offices & enterprises (workplace IT)
+- Production print shops
+- Logistics & retail (thermal media)
+
+**Recurring & Aftermarket**
+
+- Recurring stock revenue — services & subscriptions
+- Non-hardware — toner, parts, maintenance
+- Buyback-funded capital returns
+
+*Source: Company business description in §3–§4 of this report (no FIELDNOTES office-equipment sector template).*
+
+## 5. Segments and regions
+
+Ricoh's tanshin disclosure gives a complete business-segment history on the basis in force in each period and a domestic/overseas sales split by customer location in every document. Three bases must be kept separate and are never spliced in this report: the six-field structure of FY3/17–FY3/21 (Office Printing / Office Services / Commercial Printing / Industrial Printing / Thermal / Other, from the H7 history block), the five-field structure of FY3/22–FY3/26 (Digital Services / Digital Products / Graphic Communications / Industrial Solutions / Other), and the new five-field structure from FY3/27 (Workplace Service et al.), for which only H1 FY3/27 actuals and full-year sales guidance exist so far. Regional profit is not disclosed on any basis.
+
+## Business segments: profit concentration in hardware; services scale without margin
+
+Exhibit 2 gives the history on both legacy bases plus the consolidated regions. On the FY3/22–26 basis, three facts organise it. First, profit concentration: in FY3/26 the five segments earned ¥77,275mn of segment profit before a +¥13,438mn eliminations/corporate adjustment to consolidated operating profit of ¥90,713mn — Digital Products ¥31,580mn and Digital Services ¥27,978mn together were 77% of segment profit, with Graphic Communications ¥18,636mn, Industrial Solutions ¥2,463mn and Other −¥3,382mn. (The positive corporate adjustment in FY3/26, like the +¥19,040mn in H1 FY3/27, is as disclosed in the segment note's reconciliation — the sheet verifies the residual equals the disclosed eliminations/corporate figure in every period; the H1 FY3/27 content, the Shenzhen gain, is identified by the company, while the FY3/26 adjustment's content is not itemised in the sources used.) Second, **the services margin problem is chronic, not cyclical: Digital Services earned between 1.1% and 2.2% in every year FY3/22–26 while growing revenue by ¥560,338mn** — growth is being bought at roughly ¥50 of incremental revenue per ¥1 of incremental segment profit (calculated). Third, the older six-field history shows the same shape in a different costume: Office Printing earned ¥99,666mn of segment profit in FY3/17 on ¥1,165,979mn of sales (8.5%) — the legacy copier profit pool at its pre-decline scale — while Office Services already lost money (−¥6,653mn) in FY3/17. The decade is one story told three ways: hardware profit defends itself (ETRIA, OEM supply, cost-down) while services revenue grows faster than services profit. Source: company results via PL/segment sheet (tanshin, JPX archive), segment notes FY3/17–FY3/26; register S3/S4; historyH7 log.
+
+**Exhibit 2. Business segments (two legacy bases, never spliced) and regional sales — history**
+
+| ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Digital Services — external sales | — | — | — | — | — | 1428192 | 1650414 | 1852847 | 1930109 | 1988530 |
+| Digital Services — segment profit | — | — | — | — | — | 16209 | 28284 | 40802 | 32298 | 27978 |
+| Digital Products — external sales | — | — | — | — | — | 13172 | 26702 | 95943 | 157065 | 186395 |
+| Digital Products — segment profit | — | — | — | — | — | 41731 | 31577 | 17376 | 28741 | 31580 |
+| Graphic Communications — external sales | — | — | — | — | — | 187082 | 234843 | 262127 | 292663 | 284043 |
+| Graphic Communications — segment profit | — | — | — | — | — | -466 | 14578 | 15489 | 23159 | 18636 |
+| Industrial Solutions — external sales | — | — | — | — | — | 110791 | 113572 | 111743 | 112192 | 106232 |
+| Industrial Solutions — segment profit | — | — | — | — | — | 1307 | 3150 | -322 | -1821 | 2463 |
+| Other — external sales | — | — | — | — | — | 19350 | 108649 | 26327 | 35847 | 43114 |
+| Other — segment profit | — | — | — | — | — | -15521 | -3245 | -10522 | -5597 | -3382 |
+| Adjustment / corporate — profit (five-field basis) | — | — | — | — | — | -3208 | 4396 | -800 | -12951 | 13438 |
+| Office Printing — sales (six-field basis) | 1165979 | 1144053 | 1086428 | 1006274 | 815895 | — | — | — | — | — |
+| Office Printing — profit (six-field basis) | 99666 | -44306 | 117999 | 90343 | 6736 | — | — | — | — | — |
+| Office Services — sales (six-field basis) | 425612 | 447973 | 481392 | 568955 | 532307 | — | — | — | — | — |
+| Office Services — profit (six-field basis) | -6653 | -25617 | 14739 | 29090 | 35405 | — | — | — | — | — |
+| Commercial Printing — sales (six-field basis) | 186110 | 185933 | 185292 | 178396 | 134661 | — | — | — | — | — |
+| Commercial Printing — profit (six-field basis) | 18868 | 25180 | 27223 | 23152 | -14657 | — | — | — | — | — |
+| Industrial Printing — sales (six-field basis) | 11883 | 19200 | 20692 | 23006 | 24689 | — | — | — | — | — |
+| Industrial Printing — profit (six-field basis) | -3435 | -2250 | -7127 | -4950 | -1688 | — | — | — | — | — |
+| Thermal — sales (six-field basis) | 57287 | 61458 | 66368 | 61896 | 56874 | — | — | — | — | — |
+| Thermal — profit (six-field basis) | 5884 | 5016 | 4230 | 3213 | 2691 | — | — | — | — | — |
+| Other (old) — sales (six-field basis) | 182028 | 204746 | 173056 | 170053 | 117643 | — | — | — | — | — |
+| Other (old) — profit (six-field basis) | -2937 | 10032 | 17305 | 2331 | -22456 | — | — | — | — | — |
+| Adjustment / corporate — profit (six-field basis) | -77513 | -83731 | -87530 | -64139 | -51460 | — | — | — | — | — |
+| Consolidated operating profit | 33880 | -115676 | 86839 | 79040 | -45429 | 40052 | 78740 | 62023 | 63829 | 90713 |
+| Japan — sales | 767522 | 799904 | 805799 | 872378 | 753041 | 705242 | 803955 | 865657 | 963276 | 1051655 |
+| Americas — sales | 609098 | 577559 | 567442 | 534181 | 386609 | 443647 | 600836 | 659783 | 687066 | 654677 |
+| Europe, Middle East & Africa — sales | 456471 | 477554 | 458856 | 436458 | 393409 | 450178 | 546462 | 623718 | 648071 | 672620 |
+| Other regions — sales | 195808 | 208346 | 181131 | 165563 | 149010 | 159520 | 182927 | 199829 | 229463 | 229362 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive), segment notes as reported in each period. Upper block: five-field basis introduced 1 Apr 2021 (FY3/22–FY3/26); segment sales are external sales only — Digital Products profit includes intersegment results, so its margin on external sales is not meaningful and is not shown. Lower block: six-field basis of FY3/17–FY3/21 (history block; FY3/17 segments as printed in the FY3/18 tanshin, the sole surviving source). Regions: customer-location sales (domestic/overseas table; history block on the related-information basis). Regional profit not disclosed. The FY3/27 structure (Workplace Service et al.) is not in this exhibit — see Exhibit 3.*
+
+## Regions: overseas at 59.7% of sales; Japan is the growth engine of the recovery
+
+Regional sales by customer location (domestic/overseas sales table in every tanshin; register S5) were as follows. FY3/26: Japan ¥1,051,655mn (40.3% of sales), Americas ¥654,677mn (25.1%), Europe, Middle East & Africa ¥672,620mn (25.8%) and Other (mainly Asia-Pacific and China) ¥229,362mn (8.8%) — an overseas ratio of 59.7%. The five-year drift is a domestic-led recovery: Japan rose from ¥705,242mn (40.1%) in FY3/22 to ¥1,051,655mn, a ¥346,413mn increase that accounts for 41% of the group's ¥849,727mn revenue growth over the period, helped by ETRIA product sales to Toshiba Tec and OKI booked domestically; the Americas peaked in FY3/25 at ¥687,066mn and fell 4.7% in FY3/26, and EMEA has grown every year since FY3/22 (¥450,178mn to ¥672,620mn). The ten-year view (history block, related-information basis) shows the overseas weight was higher a decade ago — FY3/17: Japan ¥767,522mn (37.8%), Americas ¥609,098mn, EMEA ¥456,471mn, Other ¥195,808mn — so the current mix is not a new internationalisation but a partial re-domestication of the revenue base, with the FX translation effect running the other way (H1 FY3/27 revenue growth of +5.9% was +0.2% excluding FX, on average rates of USD/JPY 159.39 and EUR/JPY 184.35). FY3/27 guidance implies overseas sales of ¥1,633,000mn (+4.9%) against domestic ¥1,067,000mn (+1.5%). Regional profit is not disclosed (未取得) in any period, and no segment × region matrix is presented in the tanshin. Source: company results via PL/segment sheet (tanshin, JPX archive), domestic/overseas sales tables; Q2 FY3/27 tanshin outlook table.
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (IFRS, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: sales ¥1,758,587mn / ¥2,134,180mn / ¥2,348,987mn / ¥2,527,876mn / ¥2,608,314mn for FY3/22–FY3/26; cost of sales ¥1,135,920mn / ¥1,388,758mn / ¥1,528,889mn / ¥1,659,268mn / ¥1,719,166mn; gross profit ¥622,667mn / ¥745,422mn / ¥820,098mn / ¥868,608mn / ¥889,148mn (margins 35.4% / 34.9% / 34.9% / 34.4% / 34.1%); SG&A ¥600,269mn / ¥688,156mn / ¥769,810mn / ¥818,945mn / ¥815,166mn; other operating income net of other operating expenses and goodwill impairment (the sheet's row 13 mapping, register S6) contributed +¥17,654mn / +¥21,474mn / +¥11,735mn / +¥14,166mn / +¥16,731mn of net income within operating profit; operating profit ¥40,052mn / ¥78,740mn / ¥62,023mn / ¥63,829mn / ¥90,713mn. Below operating profit: share of profit of associates and JVs ¥5,604mn / ¥6,151mn / ¥5,603mn / ¥5,728mn / ¥4,969mn; profit before financing and income taxes ¥45,656mn / ¥84,891mn / ¥67,626mn / ¥69,557mn / ¥95,682mn; net finance costs −¥1,268mn / −¥3,583mn / +¥576mn / +¥510mn / −¥3,409mn; profit before tax ¥44,388mn / ¥81,308mn / ¥68,202mn / ¥70,067mn / ¥92,273mn; income tax ¥13,763mn / ¥25,667mn / ¥23,960mn / ¥23,984mn / ¥35,162mn; net income (total) ¥30,625mn / ¥55,641mn / ¥44,242mn / ¥46,083mn / ¥57,111mn; non-controlling interests ¥254mn / ¥1,274mn / ¥66mn / ¥374mn / ¥1,442mn; owners' net income ¥30,371mn / ¥54,367mn / ¥44,176mn / ¥45,709mn / ¥55,669mn. Depreciation and amortisation was ¥90,479mn / ¥97,468mn / ¥109,027mn / ¥113,816mn / ¥117,404mn, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥130,531mn / ¥176,208mn / ¥171,050mn / ¥177,645mn / ¥208,117mn.
+
+Balance sheet (31 March 2026, IFRS, from the Q2 FY3/27 tanshin comparative): total assets ¥2,540,181mn; total liabilities ¥1,352,718mn; total equity ¥1,187,463mn, of which owners' equity ¥1,156,141mn (ratio 45.5%; book value per share ¥2,031.06) and non-controlling interests ¥31,322mn. Cash and cash equivalents (balance-sheet presentation) ¥204,855mn plus time deposits of ¥2,216mn; receivables (営業債権及びその他の債権) ¥588,402mn; inventories ¥330,933mn (about 2.3 months of cost of sales, calculated); trade and other payables ¥345,111mn; bonds and borrowings ¥432,126mn (excluding lease liabilities of ¥88,201mn in total); goodwill and intangible assets ¥450,865mn — 17.7% of total assets and the balance sheet's largest single judgement area, against a history that includes impairment-driven loss years in FY3/18 and FY3/21. Capital was ¥135,364mn. Cash flow: operating cash flow ¥82,462mn / ¥66,708mn / ¥125,617mn / ¥136,877mn / ¥158,120mn (FY3/22–26); FY3/26 investing outflow was ¥72,530mn and financing outflow ¥83,093mn (FY3/26 tanshin CF indicators), the latter including ¥52,467mn of treasury-share purchases in FY3/25's comparative equity statement flow and the ongoing return programme — see Chapter 7. Capex (sheet definition) was ¥71,042mn / ¥80,615mn / ¥88,405mn / ¥81,582mn / ¥81,645mn. Per-share data: basic EPS as reported ¥97.80 for FY3/26 (diluted ¥97.66); dividends per share ¥26 / ¥34 / ¥36 / ¥38 / ¥40 across FY3/22–26 (payout ratios as reported 57.3% / 38.6% / 49.6% / 48.6% / 40.9% — the FY3/22 ratio reflects the depressed EPS base). Shares issued: 569,733,178, of which 501,792 in treasury at 31 March 2026; diluted weighted average shares 570.0mn in FY3/26, down from 724.9mn in FY3/17–21 on buybacks and cancellations. Not disclosed in the tanshin and therefore not presented as history here: order intake and backlog, R&D expenditure, employees, unit volumes, capacity and utilisation (register S9) — all 未取得. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 12 May 2026; Q2 FY3/27 tanshin balance sheet, 6 November 2026.
+
+## 7. Strategy and shareholder returns — Mid-Term Strategy '26 and the ROE problem
+
+Mid-Term Strategy '26 (中経'26), which began in April 2026, replaces the fixed three-year plan format with a five-year rolling plan, updated annually — a change the company says it made deliberately, and whose first annual update will reassess strategic direction with input from independent outside directors, after the President acknowledged in the Q2 briefing that 'our ROE and PBR have long fallen short of market expectations' and announced a strategic review from shareholder perspectives (briefing transcript). The strategy's commercial claim is to become the leading global integrator of the customer's workplace: grow Workplace Service stock revenue, keep Office Printing profitable as the earnings base (defending engine share through ETRIA), build commercial/industrial printing into a stable second engine using inkjet technology, and run the portfolio asset-light — the Shenzhen subsidiary disposal that produced H1's ¥17,800mn gain is presented by the company as an instance of that asset-light policy, not as an accident. **The financial frame stated in company materials is: ROE of 10% over the plan horizon (FY3/26 actual: 5.1%; FY3/27 company forecast: 6.0%), ROIC above 7% (FY3/27 forecast: 4.9%)**, net D/E held below 0.40, and a total shareholder return ratio of about 50%. No year-by-year numerical bridge to the ROE target is published in the sources used here, and none is constructed in this report.
+
+Shareholder returns are where the plan is already concrete. Dividend policy targets a total return ratio of about 50% with progressive increases: the dividend has risen from ¥15 (FY3/21) through ¥26 / ¥34 / ¥36 / ¥38 / ¥40 to a forecast ¥44 in FY3/27. The buyback authorised on 12 May 2026 (up to 23,000,000 shares / ¥25,000mn, 13 May–30 November 2026, all acquired shares to be cancelled on 11 December 2026) follows ¥52,467mn of purchases in FY3/25 (equity statement, FY3/26 tanshin) and is the mechanism that has cut the diluted share count by 21% over the decade. The FY3/26 materials projected a total return ratio of about 80% for FY3/27 including this buyback (company briefing, via the transcript library).
+
+The monitoring set, in the order the data arrives: Q3 FY3/27 cumulative operating profit against the implied H2 total of ¥29,558mn (the guide fails arithmetically if Q4 alone must contribute more than about ¥30,000mn); the memory-cost line — whether the H1 net drag of about ¥2,000mn annualises or compounds, and whether price pass-through catches up; Workplace Service's margin on the new basis (H1: 0.6%) as the rolling plan's first annual update approaches; Graphic Communications' H2 delivery against its ¥306,000mn sales guide with development costs rising; completion and cancellation of the buyback (treasury stock was ¥18,044mn at September 2026); and the strategic review's conclusions, which the company has said will feed the annual strategy update. All plan figures above are company targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY3/26 tanshin (strategy and dividend policy sections; subsequent-event note), 12 May 2026; Q2 FY3/27 tanshin, 6 November 2026; company briefing transcripts (Q4 FY3/26 and Q2 FY3/27) in the programme's transcript library.
+
+## 8. Other information
+
+History. Ricoh traces to Riken Kankoshi Co., Ltd., founded in Tokyo in 1936 within the Riken group as a sensitised-paper business; the company built its position on copiers from the 1950s–60s, adopted the Ricoh name, and listed on the Tokyo Stock Exchange (now TSE Prime). The modern group was assembled around the copier/MFP franchise — production printing, thermal media, cameras (including the GR series) and, from the 2010s, IT and office services acquired and built toward the current digital-services framing. Head office: Ota-ku, Tokyo. Capital: ¥135,364mn (Q2 FY3/27 tanshin balance sheet). Source: company history materials (accessed November 2026); Q2 FY3/27 tanshin.
+
+Management. Representative Director, President and CEO: Akira Oyama (大山 晃) — named in that role in every tanshin from FY3/26 through Q2 FY3/27, in office since 1 April 2023 (confirmed by web search of Ricoh's official materials, November 2026; he joined Ricoh in 1986 and previously served as CFO and as president of the Digital Services business unit). The inquiry contact in the tanshin is Takashi Kawaguchi, Director and Corporate Senior Executive Officer (CFO), who co-presented the Q2 FY3/27 briefing. Shares issued: 569,733,178 at FY3/26 year-end, with treasury shares of 501,792 at March 2026 (rising to a carrying value of ¥18,044mn at September 2026 under the current buyback).
+
+Major shareholders: not disclosed in the tanshin or in the PL/segment sheet sources used for this report — 未取得 (the register is published in the company's securities report and corporate-governance report, which are outside the source set for this draft; no third-party compilation is substituted). There is no controlling shareholder known from the sources used.
+
+Employees: consolidated headcount is not disclosed in the tanshin (PL/segment sheet register S9) and is not presented as company disclosure here — 未取得 from the sources used.
+
+Shareholder returns. Dividends per share rose from ¥15 (FY3/21) to ¥40 (FY3/26) and a forecast ¥44 in FY3/27 (interim ¥22 decided), under a total-return-ratio target of about 50%; the FY3/27 forecast implies a 2.6% yield at ¥1,702.5 (calculated). The buyback of up to ¥25,000mn / 23,000,000 shares authorised on 12 May 2026 runs to 30 November 2026 with cancellation of all acquired shares scheduled for 11 December 2026.
+
+Market data. The shares closed at ¥1,702.5 on 16 November 2026 (StockInvest.us via web search, 17 November 2026; Finnhub shows the same ¥1,702.5 as the previous close into 17 November), giving a market capitalisation of about ¥949.8bn (StockInvest.us). The 52-week range was ¥1,290.5 (30 March 2026) to ¥1,877 (27 October 2026) (Finnhub) — the shares therefore trade about 9% below the late-October peak, having fallen about 5.1% relative to TOPIX on the first session after the Q2 print (interview pack). At ¥1,702.5 the shares trade at 17.4x FY3/26 basic EPS of ¥97.80, 13.7x FY3/27 company-guidance basic EPS of ¥124.25, and 0.84x FY3/26 book value per share of ¥2,031.06 (all calculated from the cited price and company-reported per-share data) — a sub-1.0x P/B against a 5.1% ROE and a company-stated cost of equity of 7.5–8.0% is internally consistent, and closing that gap is the mid-term plan's stated purpose. The next scheduled disclosure is the Q3 FY3/27 tanshin, expected around February 2027 (exact date not disclosed — 未取得).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Ricoh (7752) (IFRS template; March year-end; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (rollout log batch 6a and history wave H7; sheet register S1–S15). The copy used is the LibreOffice-recalculated file at ~/workspace/pl-segment/work/ricoh/recalc/7752_Ricoh_PL.xlsx (main window FY3/22–FY3/26 plus 20 quarters), supplemented for FY3/17–FY3/21 by the H7 parsed dataset (work/ricoh/hist_data.json) that populates the supplementary history block (Reported inputs rows 113–170) in the Drive sheet — the local recalculated copy predates the H7 block's insertion, and the Drive sheet (file id as per rollout log) is the deepest copy; no h5out copy exists for Ricoh. Q1 and Q2 FY3/27 figures are from the Q1 FY3/27 tanshin [IFRS] dated 3 August 2026 and the Q2 FY3/27 tanshin [IFRS] dated 6 November 2026 (local copies in the sheet working folder). The company's published English briefing transcripts and Q&A documents (Q4 FY3/26 and Q2 FY3/27, in the programme's transcript library) are used for the one-off quantifications, market colour and plan metrics, and are cited only for what they state. Guidance history is cross-checked against the guidance tracker of 17 November 2026. Market data are from Finnhub and StockInvest.us as returned by web search on 17 November 2026 and are cited with dates in the text; the president's name and tenure were confirmed by web search of Ricoh's official materials. The interview pack for 7752 (data as of 16 November 2026) was used for debate framing and the market-reaction note; where it and the tanshin differ in precision, the tanshin governs.
+
+Discrepancies and basis breaks flagged (not silently resolved). (1) Segment basis changes, kept in separate labelled blocks throughout: the six-field structure (FY3/17–FY3/21), the five-field structure introduced 1 April 2021 (FY3/22–FY3/26) and the new five-field structure from FY3/27 (register S4) are never spliced; FY3/27 figures appear only on the new basis with the company's restated comparatives, and segment operating-profit guidance is not disclosed on the new basis (sales guidance only). (2) FY3/17 segments survive only on the FY3/18 tanshin's restated six-field basis — entered as printed there, the sole surviving source (register S14; historyH7 log); FY3/17 IS/BS/CF and regional sales are the FY3/18 document's prior-year comparatives as originally reported, no FY3/17 annual tanshin having been obtainable. (3) Digital Products margins: segment sales in the sheet are external only while segment profit includes results on intersegment sales (register S3), so margins on external sales exceed 100% in FY3/22–23 and are not presented as meaningful anywhere in this report; H1 FY3/27 margins for Digital Products are computed on total segment sales including intersegment, as labelled. (4) Cash definition: the balance-sheet cash and cash equivalents used in the sheet (¥204,855mn at FY3/26; ¥190,657mn at FY3/25) differ from the cash-flow statement's closing cash balances in the tanshin CF-indicator tables (¥193,468mn and ¥181,862mn respectively); the difference is definitional (scope of cash equivalents) and is flagged here — this report uses the balance-sheet presentation throughout. (5) Receivables: row 41 of the local recalculated copy is empty in all years; the rollout log (Family D fix) records the Drive sheet's row as filled (FY3/22 ¥397,148mn to FY3/26 ¥588,402mn, register S16), and the FY3/26 figure of ¥588,402mn is independently confirmed by the Q2 FY3/27 tanshin balance sheet — the local copy predates that fix, and no receivables history beyond the confirmed FY3/26 point is presented. (6) Guidance labelling: the tracker records 'no company-stated reason' for the 6 November 2026 revision; the reason evidence used here (memory costs for the gross-profit cut; H1 one-offs and cost control for the operating-profit raise) comes from the company's briefing transcript, not from a separate revision notice, and is attributed as such. (7) Rounding: the tanshin outlook tables are presented in ¥100mn units, so restated FY3/26 segment figures on the new basis (e.g. Workplace Service ¥1,106,700mn) carry rounding of up to ¥125mn against the old-basis ¥mn figures; both are shown as printed. (8) Template forecast columns: the sheet's FY3/27 quarterly and total columns beyond the reported periods are template allocations (the PL tab's FY3/27 'Estimate' total of ¥2,691,312mn is a mechanical carry-forward, not guidance) and are not used anywhere in this report; the only FY3/27 forward figures are company guidance.
+
+Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'Company guidance' means Ricoh's published forecasts (会社計画) and 'plan targets' means Mid-Term Strategy '26 targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — order intake and backlog, R&D expenditure, employees, production/sales units, capacity, utilisation, company-reported inventory months and regional profit (register S9) — are described as not disclosed (未取得) rather than estimated; major shareholders are likewise 未取得 from the source set used (securities-report data, outside this draft's sources). ROE history before FY3/25 is not carried in the sources used and is shown as not disclosed in Exhibit 1. KPI history in this report covers ten years (FY3/17–FY3/26) from the PL/segment sheet, matching the Shared Research reference span.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; strategy and shareholder returns; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

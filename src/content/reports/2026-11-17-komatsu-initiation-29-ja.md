@@ -1,0 +1,354 @@
+---
+title: "The world's second construction and mining equipment maker at a tariff-crossed record: initiation on Komatsu as FX and price carry H1 FY3/27 while mining volume ex-FX still lags"
+company: "Komatsu Ltd."
+ticker: "6301"
+sector: "Construction & Mining Equipment"
+date: 2026-11-17
+type: initiation
+externalUrl: "/ja/reports/2026-11-17-komatsu-initiation-29/"
+lang: ja
+---
+
+Record sales, a tariff bill, and a profit bridge carried by yen and price: Komatsu Ltd. (6301, TSE Prime) is Japan's largest and the world's second-largest maker of construction and mining equipment — hydraulic excavators, wheel loaders, dozers and dump trucks for general construction, ultra-large machinery for surface and underground mining — with a captive retail-finance arm and a smaller industrial-machinery business (large presses, machine tools, excimer-laser maintenance for semiconductors). It reports under US GAAP with a March year-end. The ten-year record in this report (FY3/17–FY3/26, from the PL/segment sheet built from the company's own tanshin) is a full cycle: sales rose from ¥1,803.0bn in FY3/17 to a record ¥4,132.8bn in FY3/26, and operating profit peaked at ¥657,125mn (a 16.0% margin) in FY3/25 before falling 13.7% to ¥567,323mn in FY3/26 as volumes fell and costs rose, with price improvement only partly offsetting. H1 FY3/27 (to 30 September 2026) then printed record first-half sales of ¥2,158,639mn (+14.1% YoY) but operating profit of only ¥286,625mn (+3.5%, margin down 1.3pt to 13.3%): **the company's own bridge for the core segment attributes the half to foreign exchange (+¥40.9bn) and price (+¥27.3bn) against cost increases of ¥46.9bn** — of which US tariffs were ¥39.7bn gross, partly offset by ¥12.8bn of refunds — and volume/mix contributed just ¥1.6bn (briefing materials via the interview pack). Full-year FY3/27 company guidance was raised for the second time on 29 October 2026 to sales of ¥4,450,000mn and operating profit of ¥585,000mn, with the dividend held at ¥190. Strengths: (1) the franchise — a global dealer and parts network around the world's #2 equipment installed base, with mining aftermarket and autonomous haulage (AHS trucks reached a cumulative 1,089 units at September 2026; ICT machines were 30.1% of the relevant fleet measure) giving the earnings a recurring layer a pure machine seller lacks; (2) demonstrated pricing power — price contributed positively through the FY3/26 volume decline and again in H1 FY3/27; (3) balance-sheet and returns discipline under the mid-term plan 'Driving value with ambition' (FY3/26–FY3/28): ROE of 11.3% in FY3/26 against a ≥10% plan floor, a payout ratio of 45.9% against a ≥40% policy, and a ¥190 dividend held flat even in the FY3/26 profit decline. Weaknesses: (1) profit quality in the current year is borrowed — FX and price, not volume, are carrying the guide, **mining external sales fell 1.4% ex-FX in Q2 FY3/27 standalone**, and the H2 guide assumes USD/JPY 150 against an H1 average of ¥159.0, i.e. the FX tailwind is guided to fade precisely as ¥14bn of still-unbooked tariff refunds must land; (2) the US tariff exposure is structural, not one-off — ¥44.8bn of gross full-year impact is guided even after localisation, and Komatsu supplies much of its North American demand from outside the US; (3) the shares had already run to a 52-week high of ¥7,980 on 5 October 2026 before the Q2 print and fell about 7.6% on the results day (third-party price history), so the raised guide was, per press reports carried in the interview pack, still below market expectations. All historical figures are as reported by the company via the PL/segment sheet; the only forward figures are company guidance and published mid-term plan targets, labelled as such. An English transcript file for Komatsu in the programme library rests on a third-party transcript of the official webcast and is deliberately NOT used as a source here (see Basis of preparation). No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (US GAAP, as reported) and FY3/27E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 1802989 | 2501107 | 2725243 | 2444870 | 2189512 | 2802323 | 3543475 | 3865122 | 4104395 | 4132751 | 4450000 |
+| Revenue growth (%) | — | 38.7 | 9 | -10.3 | -10.4 | 28 | 26.4 | 9.1 | 6.2 | 0.7 | 7.7 |
+| Operating profit | 174097 | 271581 | 397806 | 250707 | 167328 | 317015 | 490685 | 607194 | 657125 | 567323 | 585000 |
+| Operating margin (%) | 9.7 | 10.9 | 14.6 | 10.3 | 7.6 | 11.3 | 13.8 | 15.7 | 16 | 13.7 | 13.1 |
+| Profit before tax | 166469 | 291807 | 377471 | 223114 | 162775 | 324568 | 476434 | 575663 | 604838 | 537258 | 548000 |
+| Net income to owners | 113381 | 196410 | 256491 | 153844 | 106237 | 224927 | 326398 | 393426 | 439614 | 376391 | 382000 |
+| Diluted EPS (¥) | 120.1 | 208 | 271.5 | 162.8 | 112.4 | 237.9 | 345.2 | 415.9 | 473.4 | 413.9 | 429.6 |
+| Dividend per share (¥) | — | — | 110 | 94 | 55 | 96 | 139 | 167 | 190 | 190 | 190 |
+| ROE (%) | 7.3 | — | 14.7 | 8.6 | 5.8 | 10.9 | 13.7 | 14.1 | 14.2 | 11.3 | — |
+| Operating cash flow | 256126 | 148394 | 202548 | 295181 | 354129 | 300970 | 206474 | 434778 | 517167 | 448963 | — |
+
+*Source: Company results via PL/segment sheet (tanshin [US GAAP], JPX archive; main block FY3/22–26 and history block FY3/17–21, each year as reported in its own tanshin). Profit before tax is the tanshin definition (before post-tax equity earnings; the sheet control line is higher by the equity-earnings amount — see Basis of preparation). EPS is diluted EPS as reported in the tanshin headers. ROE as reported in the tanshin headers (owners' profit / average shareholders' equity); FY3/18 ROE and FY3/17–18 dividends were not extractable from the parsed tanshin text and are shown as —. FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 29 Oct 2026.*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥5.22tn |
+| 52-week range | ¥4,914 – ¥7,980 |
+| P/E (FY3/26 diluted EPS ¥413.90, US GAAP) | 13.5x |
+| P/E (FY3/27E co. guidance EPS ¥429.63) | 13.0x |
+| FY3/27E dividend (company forecast) | ¥190 / share (3.1% yield) |
+| Next event | Q3 FY3/27 results, late Jan–early Feb 2027 |
+
+## Key points
+- **H1 FY3/27: record sales, thin profit growth.** For the six months to 30 September 2026 (US GAAP), sales were ¥2,158,639mn (+14.1% YoY, a first-half record), operating profit ¥286,625mn (+3.5%; margin 13.3%, −1.3pt), profit before tax ¥271,037mn (+4.9%) and net income attributable to shareholders ¥191,916mn (+9.2%); diluted EPS was ¥215.06. The quarterly split deteriorated: Q2 standalone (derived from the interview pack's tanshin-based figures) printed sales of about ¥1,115.5bn (+13.6%) with operating profit of about ¥135.1bn (−1.2% YoY) — **profit fell in the quarter even as sales grew double-digits**. Source: Q2 FY3/27 tanshin, 29 Oct 2026; interview pack, 16 Nov 2026.
+- **Guidance raised twice — sales ¥4,450bn, operating profit ¥585bn (company guidance).** Full-year FY3/27 company guidance (会社計画) was raised on 29 October 2026 to sales ¥4,450,000mn (+7.7% YoY), operating profit ¥585,000mn (+3.1%), profit before tax ¥548,000mn, owners' net income ¥382,000mn and EPS ¥429.63 — **the second raise of the year, from an initial ¥4,118,000mn / ¥508,000mn on 28 April 2026** via ¥4,302,000mn / ¥555,000mn on 29 July 2026 (guidance tracker, verified against each tanshin). H1 delivered 48.5% of guided sales and 49.0% of guided operating profit, so the guide implies H2 operating profit of ¥298,375mn (calculated), on H2 FX assumptions of USD/JPY 150, EUR/JPY 174 and AUD/JPY 106 — a stronger yen than H1's ¥159.0 average. The dividend forecast is unchanged at ¥190. Source: Q2 FY3/27 tanshin, 29 Oct 2026; sheet register S11.
+- **Strength — the core segment still earns a 12–16% margin through the cycle.** **Construction, Mining & Utility Equipment was 91.8% of FY3/26 external sales** (¥3,796,100mn of ¥4,132,751mn) and earned segment profit of ¥491,118mn (a 12.9% margin on the tanshin definition — sales minus cost of sales and SG&A of the segment). Its ten-year margin range is 10.3% (FY3/17) to 16.0% (FY3/24), peaking in yen terms at ¥598,874mn in FY3/25. In H1 FY3/27 the segment grew sales 14.8% to ¥1,999,563mn (pre-elimination basis) but profit only 1.0% to ¥244,472mn — the tariff and cost absorption is visible exactly where the profit pool sits. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment summary.
+- **Weakness — the H1 bridge is FX + price minus tariffs; volume is missing.** The company's H1 FY3/27 profit bridge for the core segment (briefing materials, via the interview pack) is: **FX +¥40.9bn, price +¥27.3bn, volume/mix +¥1.6bn, cost −¥46.9bn** (US tariffs −¥39.7bn, refunds +¥12.8bn) and fixed costs −¥20.4bn. Demand colour matches: in Q2 standalone, general-construction external sales grew 13.7% ex-FX but mining fell 1.4% ex-FX. The full-year guide assumes tariff refunds of ¥27.0bn against ¥12.8bn booked in H1 and a net tariff drag of only ¥17.7bn — execution items, not yet results. Source: Komatsu briefing materials, 29 Oct 2026, via interview pack (the underlying briefing is a company source; the pack is the programme's record of it).
+- **Regions: the FY3/26 accounts change the map — do not splice the two bases.** Through FY3/25 Komatsu disclosed six regions (Japan / Americas / Europe & CIS / China / Asia ex-Japan & Oceania / Middle East & Africa): in FY3/25 the Americas were ¥1,811,209mn (44.1% of sales), Japan ¥436,605mn and **China just ¥106,615mn (2.6%), down from ¥192,660mn in FY3/19**. From FY3/26 the tanshin regroup to four (Americas ¥1,933,671mn; Europe, Africa & Middle East ¥739,087mn; Oceania, Asia ex-Japan & CIS ¥1,035,410mn; Japan ¥424,583mn) which cannot be mapped back onto the six-region basis (China and CIS are not split out). This report presents both bases, labelled, and forces no mapping. Source: PL/segment sheet register S5 and supplementary rows; batch log 3a.
+
+## 1. Key indicators and financial history
+
+Komatsu reports under US GAAP with a March year-end. The PL/segment sheet for 6301 uses the programme's IFRS-template architecture adapted to US-GAAP lines — the adaptation is flagged in the sheet register (S4) and in Chapter 9 of this report; the figures themselves are the company's US-GAAP figures as reported in each year's own tanshin. The main block covers FY3/22–FY3/26 plus 20 quarters, and a supplementary history block in the same sheet carries FY3/17–FY3/21 annual figures as disclosed in each of those years' own annual tanshin; Exhibit 1 (page 1) therefore spans ten years, FY3/17–FY3/26, plus the FY3/27 company-guidance column. Figures are ¥mn unless stated.
+
+The decade is two cycles and a step-change. Sales troughed in the COVID year FY3/21 at ¥2,189,512mn, then rose four consecutive years — ¥2,802,323mn (+28.0%), ¥3,543,475mn (+26.4%), ¥3,865,122mn (+9.1%) and ¥4,104,395mn (+6.2%) — to a record ¥4,132,751mn in FY3/26 (+0.7%), as the post-COVID construction rebound, the mining capex upcycle, price increases and yen depreciation compounded. Operating profit rose faster: from ¥167,328mn in FY3/21 (7.6% margin) to ¥317,015mn, ¥490,685mn, ¥607,194mn and **a record ¥657,125mn in FY3/25 (16.0% margin), before falling to ¥567,323mn in FY3/26 (13.7%)** — the FY3/26 tanshin attributes the decline to lower volumes and higher costs in the core segment, partly offset by price improvement, with Retail Finance and Industrial Machinery & Others both growing profit. Gross margin tells the price/cost story: 27.8% in FY3/22 rising to 32.2% in FY3/25 on price realisation, then compressing to 30.5% in FY3/26 as cost inflation and tariffs bit. Over the full ten years the operating margin ranged from 7.6% (FY3/21) to 16.0% (FY3/25); the earlier peak was FY3/19 (¥397,806mn, 14.6%) before the FY3/20–21 downturn (China demand, then COVID) cut operating profit by 58% peak to trough.
+
+Below operating profit, Komatsu's US-GAAP presentation places other income/(expenses) — interest and dividend income, interest expense and other, net — and then taxes, with equity earnings presented below the tax line. Profit before tax (tanshin definition, before equity earnings) was ¥166,469mn / ¥291,807mn / ¥377,471mn / ¥223,114mn / ¥162,775mn in FY3/17–21 and ¥324,568mn / ¥476,434mn / ¥575,663mn / ¥604,838mn / ¥537,258mn in FY3/22–26 (the sheet's control line adds post-tax equity earnings into its PBT row and is ¥5,258mn–¥10,039mn higher each year — a definitional difference flagged in Chapter 9, not an error). Net income attributable to shareholders was ¥113,381mn / ¥196,410mn / ¥256,491mn / ¥153,844mn / ¥106,237mn / ¥224,927mn / ¥326,398mn / ¥393,426mn / ¥439,614mn / ¥376,391mn; diluted EPS was ¥120.10 / ¥207.97 / ¥271.51 / ¥162.80 / ¥112.39 / ¥237.92 / ¥345.18 / ¥415.93 / ¥473.42 / ¥413.90. ROE (owners' profit over average shareholders' equity, as reported in the tanshin headers) printed 14.7% in FY3/19, 14.1–14.2% in FY3/24–25 and 11.3% in FY3/26 — comfortably above the mid-term plan's ≥10% floor in each of the last four years, but falling. Operating cash flow was ¥256,126mn / ¥148,394mn / ¥202,548mn / ¥295,181mn / ¥354,129mn / ¥300,970mn / ¥206,474mn / ¥434,778mn / ¥517,167mn / ¥448,963mn — the FY3/23 dip (¥206,474mn in a record-profit year) is the working-capital signature of the demand surge, with inventories rising from ¥988,011mn at FY3/22 to ¥1,601,883mn at FY3/26. Exhibit 1 gives the full table. Source: company results via PL/segment sheet (tanshin [US GAAP], JPX archive), main block and history block; tanshin headers for PBT, EPS and ROE.
+
+**Figure: Komatsu Ltd. — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 1802989 |
+
+| FY3/18 | 2501107 |
+
+| FY3/19 | 2725243 |
+
+| FY3/20 | 2444870 |
+
+| FY3/21 | 2189512 |
+
+| FY3/22 | 2802323 |
+
+| FY3/23 | 3543475 |
+
+| FY3/24 | 3865122 |
+
+| FY3/25 | 4104395 |
+
+| FY3/26 | 4132751 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Komatsu Ltd. — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 174097 |
+
+| FY3/18 | 271581 |
+
+| FY3/19 | 397806 |
+
+| FY3/20 | 250707 |
+
+| FY3/21 | 167328 |
+
+| FY3/22 | 317015 |
+
+| FY3/23 | 490685 |
+
+| FY3/24 | 607194 |
+
+| FY3/25 | 657125 |
+
+| FY3/26 | 567323 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Komatsu Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 9.7 |
+
+| FY3/18 | 10.9 |
+
+| FY3/19 | 14.6 |
+
+| FY3/20 | 10.3 |
+
+| FY3/21 | 7.6 |
+
+| FY3/22 | 11.3 |
+
+| FY3/23 | 13.8 |
+
+| FY3/24 | 15.7 |
+
+| FY3/25 | 16 |
+
+| FY3/26 | 13.7 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Komatsu Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q2 FY3/27 results and revised guidance
+
+Komatsu reported Q2 FY3/27 (H1, 1 April–30 September 2026) results on 29 October 2026, raising full-year guidance for the second time in the year. Representative Director and President Takuya Imayoshi heads the company (Q2 FY3/27 tanshin header — verified against the filing for this report). The market's verdict is part of the record: the shares fell about 7.6% on the results day, 29 October 2026 (third-party price history, TipRanks), and press reports carried in the interview pack state the raised guide still missed market expectations. This chapter summarises the release; segment and regional detail is in Chapter 5. Note on sourcing: an English transcript file for Komatsu exists in the programme's library but rests on a third-party (Quartr) transcript of the official webcast; it is not used anywhere in this report — the H1 bridge and demand colour below come from the company's briefing materials as recorded in the interview pack, and all headline figures from the tanshin itself.
+
+## H1 FY3/27 results (cumulative, as reported, US GAAP)
+
+Sales were ¥2,158,639mn (+14.1% YoY, a first-half record), operating profit ¥286,625mn (+3.5%; margin 13.3%, −1.3pt YoY), profit before tax ¥271,037mn (+4.9%), interim net income (total) ¥203,596mn and net income attributable to shareholders ¥191,916mn (+9.2%); basic and diluted EPS were both ¥215.06. Average H1 exchange rates were USD/JPY 159.0, EUR/JPY 184.2 and AUD/JPY 112.4, against ¥146.4 / ¥166.9 / ¥94.3 in the prior-year half — a large translation and transaction tailwind that frames every growth rate in the half. The quarterly split matters more than the cumulative: Q1 standalone (derived as H1 minus Q2 standalone) contributed the profit growth, while Q2 standalone printed sales of about ¥1,115.5bn (+13.6%) and operating profit of about ¥135.1bn (−1.2% YoY) per the interview pack's tanshin-based record — cost and tariff absorption overwhelmed volume and price in the September quarter.
+
+By segment (tanshin summary table; sales on the pre-elimination basis stated in the tanshin note, profit on the segment definition): Construction, Mining & Utility Equipment sales ¥1,999,563mn (+14.8%) and segment profit ¥244,472mn (+1.0%, a 12.2% margin); Retail Finance sales ¥65,437mn (+7.3%) and profit ¥17,372mn (+2.9%); Industrial Machinery & Others sales ¥114,495mn (+7.1%) and profit ¥21,074mn (+27.0%, helped by semiconductor-industry-related business); eliminations/corporate +¥3,913mn, giving total segment profit of ¥286,831mn against consolidated operating profit of ¥286,625mn (the ¥206mn difference is other operating income/(expenses), not allocated to segments). ==The core segment's H1 profit bridge (company briefing materials, via the interview pack) is the single most informative disclosure of the half: FX +¥40.9bn, price +¥27.3bn, volume/mix +¥1.6bn, cost −¥46.9bn== — within which US tariffs were −¥39.7bn and tariff refunds +¥12.8bn — and fixed costs −¥20.4bn. Demand split for Q2 standalone (external sales): general construction +21.9% reported / +13.7% ex-FX; mining +8.5% reported / −1.4% ex-FX. Automation KPIs at end-September 2026: AHS autonomous haulage trucks reached a cumulative 1,089 units and the ICT machine ratio was 30.1% (briefing materials via the interview pack).
+
+The balance sheet at 30 September 2026: total assets ¥6,527,174mn (from ¥6,423,941mn at March 2026), net assets ¥3,666,262mn, shareholders' equity ¥3,469,999mn, shareholders' equity ratio 53.2% and book value per share ¥3,917.09. The interim dividend was ¥95 per share (payment from 1 December 2026). Exhibit 3 sets out the H1 segment actuals against the prior-year half. Source: Q2 FY3/27 tanshin [US GAAP], 29 Oct 2026; interview pack, 16 Nov 2026 (briefing-materials items flagged at each use).
+
+## Guidance: raised twice — sales ¥4,450,000mn, operating profit ¥585,000mn (company guidance)
+
+Full-year FY3/27 guidance, as revised in the Q2 release of 29 October 2026, is sales ¥4,450,000mn, operating profit ¥585,000mn, profit before tax ¥548,000mn, net income attributable to shareholders ¥382,000mn and EPS of ¥429.63 — company guidance (会社計画), US GAAP, not a J-Core Fundamental Research forecast. The revision chain is steep and demand-led: initial guidance at the FY3/26 results on 28 April 2026 was ¥4,118,000mn / ¥508,000mn / ¥466,000mn / ¥318,000mn; the Q1 revision on 29 July 2026 raised it to ¥4,302,000mn / ¥555,000mn / ¥508,000mn / ¥349,000mn; the Q2 revision adds a further ¥148,000mn of sales and ¥30,000mn of operating profit. The company's stated reason (Q2 tanshin, qualitative section on forecasts, via the guidance tracker) is that demand in the core segment ran above the initial assumption in many regions in H1 and is expected to remain above it for the full year, compounded by a weaker yen than assumed in Q2. The full-year demand outlook for the seven major products was raised to +5% to +10% (from 0% to +5% in July). Guidance is NOT given by segment in the tanshin, and none is presented here.
+
+Three assumptions carry the guide, and the interview pack ranks them as the debate. First, FX: H2 is assumed at USD/JPY 150, EUR/JPY 174 and AUD/JPY 106 (unchanged from July) — i.e. the guide already banks a yen roughly ¥9 stronger than the H1 average of ¥159.0, so H2 profit must be made without the H1 translation tailwind. Second, tariffs: the full-year assumption is a gross tariff impact of −¥44.8bn with refunds of +¥27.0bn, a net drag of −¥17.7bn; H1 booked −¥39.7bn of impact and +¥12.8bn of refunds, so **roughly ¥14bn of refunds must still land in H2 while the incremental gross impact slows to about ¥5bn** — a claims-timing assumption the next print can verify directly. Third, delivery: against the guide, H1 progress was 48.5% on sales and 49.0% on operating profit, implying H2 operating profit of ¥298,375mn (calculated), 4.1% above the H1 print, with mining ex-FX demand needing to turn positive. The dividend forecast is unchanged at ¥190 per share for the year (interim ¥95 paid; implied payout on guided EPS is about 44%, inside the ≥40% policy). The monitoring set for Q3 FY3/27 (late January–early February 2027): mining external sales ex-FX (Q2: −1.4%), cumulative tariff impact and refunds against the −¥44.8bn / +¥27.0bn full-year assumptions, and the core segment margin against H1's 12.2%. Source: Q2 FY3/27 tanshin, 29 Oct 2026 (forecast section 3); sheet register S11; guidance tracker, 17 Nov 2026; interview pack, 16 Nov 2026.
+
+**Exhibit 3. H1 segment results — H1 FY3/26 vs H1 FY3/27 (US GAAP)**
+
+| ¥mn | H1 FY3/26 sales | H1 FY3/26 profit | H1 FY3/27 sales | H1 FY3/27 profit |
+|---|---|---|---|---|
+| Construction, Mining & Utility Equipment | 1742195 | 241963 | 1999563 | 244472 |
+| Retail Finance | 60990 | 16887 | 65437 | 17372 |
+| Industrial Machinery & Others | 106921 | 16600 | 114495 | 21074 |
+| Eliminations / corporate | -18519 | 2218 | -20856 | 3913 |
+| Consolidated (sales = revenue; profit = operating profit) | 1891587 | 277061 | 2158639 | 286625 |
+
+*Source: Q2 FY3/27 tanshin summary segment table, 29 Oct 2026 (segment sales on the pre-elimination basis stated in the tanshin note; segment profit on the tanshin segment definition). Consolidated lines are the tanshin header figures. Segment profit total differs from consolidated operating profit by other operating income/(expenses) not allocated to segments (−¥607mn in H1 FY3/26; −¥206mn in H1 FY3/27).*
+
+## 3. Business description
+
+Komatsu organises itself into three reportable segments — Construction, Mining & Utility Equipment (the company's own name for the segment in its English disclosure; the Japanese tanshin label is 建設機械・車両), Retail Finance, and Industrial Machinery & Others — plus eliminations/corporate. Segment profit is defined in the tanshin segment note as the segment's sales minus its cost of sales and SG&A; it therefore excludes impairment of long-lived assets and other operating income/(expenses), which are not allocated to segments (sheet register S3). In FY3/26 the external-sales mix was: core equipment 91.8%, Retail Finance 2.4% and Industrial Machinery & Others 5.7%. The three businesses are described in turn below; production and capacity data (sites, utilisation, unit volumes) are not disclosed in the tanshin and are not quantified in this report.
+
+## Construction, Mining & Utility Equipment: the profit engine
+
+The core segment designs, manufactures and sells construction machinery (hydraulic excavators, wheel loaders, bulldozers, motor graders, dump trucks), mining machinery (ultra-large hydraulic excavators, large wheel loaders, rigid dump trucks for surface mines; underground mining equipment added with the 2017 Joy Global acquisition, now Komatsu Mining), utility equipment (forklifts, mini-excavators) and related parts, attachments and services, distributed overwhelmingly through independent distributors and Komatsu-owned dealers. Two demand engines with different cycles share the segment: general construction, tied to global construction activity and — currently — data-centre (AIDC) earthworks and infrastructure work; and mining, tied to commodity capex at the large miners, where the sale is increasingly a system sale (autonomous haulage systems, tele-remote operation, trolley assist) plus a long aftermarket tail of parts and service contracts on an installed base that runs for decades. The technology layer is the segment's differentiator: Komtrax telematics, ICT intelligent machine control (ICT machine ratio 30.1% at September 2026) and the AHS autonomous fleet (cumulative 1,089 trucks at September 2026) are the disclosed KPIs of that layer (briefing materials via the interview pack).
+
+Financially the segment IS the company: external sales of ¥1,566,340mn / ¥2,267,332mn / ¥2,466,660mn / ¥2,205,976mn / ¥1,961,207mn in FY3/17–21 and ¥2,558,850mn / ¥3,286,723mn / ¥3,591,378mn / ¥3,787,486mn / ¥3,796,100mn in FY3/22–26, with segment profit of ¥161,686mn / ¥275,971mn / ¥365,346mn / ¥227,311mn / ¥143,788mn and ¥275,768mn / ¥443,603mn / ¥573,987mn / ¥598,874mn / ¥491,118mn — margins of 10.3% / 12.2% / 14.8% / 10.3% / 7.3% and 10.8% / 13.5% / 16.0% / 15.8% / 12.9%. The FY3/26 margin compression (−2.9pt) on flat sales is the current debate in one line: price held, volume and cost did not. The segment's disclosed regional detail (qualitative section of the tanshin; Chapter 5) shows **North America as the largest single market (¥1,047,181mn in FY3/26) and China shrunk to ¥75,746mn — under 2% of segment sales** — which is why the equity story is now a North America / mining / tariff story rather than a China story. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note and supplementary CMU regional rows; Q2 FY3/27 briefing materials via the interview pack for AHS/ICT.
+
+## Retail Finance: the captive that funds the fleet
+
+Retail Finance provides equipment financing — retail instalment sales, leases and dealer floor-planning support — principally in North America and other developed markets, through Komatsu's finance subsidiaries. It exists to move machines: financing availability and residual-value management support core-segment volume and lock in the aftermarket relationship, at the cost of putting a leveraged finance balance sheet inside an industrial group (the mid-term plan caps retail-finance net debt-to-equity at ≤6×; the ratio itself is not disclosed in the tanshin and is not presented here). The segment is small in sales but disproportionately profitable per yen of revenue: external sales of ¥46,715mn / ¥49,647mn / ¥57,355mn / ¥62,952mn / ¥58,377mn in FY3/17–21 and ¥57,809mn / ¥67,807mn / ¥80,910mn / ¥96,220mn / ¥100,520mn in FY3/22–26, with segment profit of ¥4,453mn / ¥12,963mn / ¥17,506mn / ¥12,673mn / ¥10,574mn and ¥17,199mn / ¥27,267mn / ¥24,243mn / ¥29,422mn / ¥36,588mn — **margins of 29.8% / 40.2% / 30.0% / 30.6% / 36.4% across FY3/22–26, the highest in the group**, reflecting interest-rate pass-through and asset growth (H1 FY3/27 sales +7.3% on asset expansion and FX, per the Q2 tanshin). The risk to watch is the mirror image: this segment is where a mining or construction downturn would surface as credit cost, and its receivables sit inside the consolidated receivables line (¥1,406,411mn at FY3/26). Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin.
+
+## Industrial Machinery & Others: presses, machine tools and the semiconductor adjacency
+
+The third segment groups the non-construction machinery businesses: large presses and sheet-metal machinery and machine tools for the automotive industry (Komatsu NTC and related units), defence-related equipment, and — the current growth item — excimer-laser-related business for semiconductor lithography (maintenance and services, via Gigaphoton), together with other smaller operations. It is the portfolio's option on non-construction capex: external sales of ¥189,934mn / ¥184,128mn / ¥201,228mn / ¥175,942mn / ¥169,928mn in FY3/17–21 and ¥185,664mn / ¥188,945mn / ¥192,834mn / ¥220,689mn / ¥236,131mn in FY3/22–26, with segment profit of ¥12,464mn / ¥14,459mn / ¥18,637mn / ¥13,703mn / ¥16,342mn and ¥22,595mn / ¥22,586mn / ¥10,279mn / ¥27,391mn / ¥37,937mn — margins recovering from 5.3% in FY3/24 to a ten-year high of 16.1% in FY3/26 on large-press sales to the auto industry and excimer-laser maintenance growth (FY3/26 tanshin qualitative section). H1 FY3/27 continued the pattern: sales ¥114,495mn (+7.1%) and profit ¥21,074mn (+27.0%), with the tanshin citing semiconductor-industry-related sales growth. At 5.7% of group sales the segment cannot move the group result alone, but its margin recovery contributed ¥10,546mn of the FY3/26 profit bridge in a year when the core segment fell ¥107,756mn. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 and Q2 FY3/27 tanshin qualitative sections.
+
+## 4. Market and value chain
+
+Komatsu sits at the manufacturing layer of two value chains. In construction equipment, the chain runs component suppliers (engines and hydraulics — substantially in-house at Komatsu, a vertical-integration point of difference — steel, electronics) → OEM assembly → distribution (independent distributors in most markets, company-owned dealers in mining regions) → contractors, rental companies and owner-operators → and then a decades-long aftermarket of parts, rebuilds and service that the OEM and its dealers share. In mining, the chain compresses: a small number of global miners buy fleets directly, uptime is contracted, and **the OEM's value migrates from the initial machine sale to availability guarantees, autonomous systems and parts throughput** — which is why the disclosed AHS cumulative units (1,089) and ICT ratio (30.1%) matter more as value-chain evidence than as unit trivia. Entry barriers are the dealer/parts network density (a machine down is revenue lost; parts availability within 24–48 hours is the product), residual-value credibility (which underwrites both used prices and the finance arm), installed-base telematics data, and the balance sheet to fund retail finance through a downturn. Substitutes and pressure points: Chinese OEMs (SANY, XCMG and others) pricing aggressively in the mid-size range across Asia, Africa and Latin America — the interview pack's question 5 puts Chinese pricing in overlapping ranges directly to management — electrification of small construction machinery, and rental-fleet consolidation shifting bargaining power to large fleet buyers.
+
+Competitively, Komatsu is the global #2 behind Caterpillar in both construction and mining equipment; the relevant peer set for the equity is Caterpillar (mining and North America exposure, the tariff debate's other protagonist), Hitachi Construction Machinery and Kubota (compact equipment) in Japan, Volvo CE and Sandvik/Epiroc in adjacent mining niches, and the Chinese makers on price. No company-disclosed market-size or market-share figure is carried in the tanshin sources used here, and none is substituted from third parties in this report: the verifiable demand evidence is Komatsu's own disclosures — the FY3/27 demand outlook for its seven major products raised to +5% to +10% (29 October 2026), the Q2 standalone ex-FX split (general construction +13.7%, mining −1.4%), and the regional sales record in Chapter 5. The two sensitivities that follow: first, the Americas were 44.1% of FY3/25 sales on the old regional basis and North America alone is 27.6% of core-segment sales — US trade policy is now a first-order P&L variable (guided net tariff drag ¥17.7bn for FY3/27, about 3.0% of guided operating profit, calculated); second, with no order or backlog disclosure (not disclosed — see Chapter 9), the earliest observable of a demand turn is the quarterly regional and ex-FX disclosure itself. Sources: Q2 FY3/27 tanshin and briefing materials via the interview pack; PL/segment sheet (tanshin, JPX archive).
+
+**Figure: Komatsu in the construction & mining equipment value chain**
+
+**Raw Materials & Steel**
+
+- Steel / special steel
+- Large tyres — Bridgestone, Michelin
+- Copper, aluminium
+- Rubber for tyres
+
+**Components & Hydraulics**
+
+- Engines — Cummins, Caterpillar
+- Hydraulics — Kayaba, Nabtesco, Kawasaki
+- Electronic control units
+- ICT / AHS units
+
+**Komatsu Ltd. (6301)**
+
+- Construction, Mining & Utility Equipment (91.8% of FY3/26 sales)
+- Retail Finance — captive equipment financing
+- Industrial Machinery & Others — presses, machine tools, excimer-laser services
+- AHS autonomous haulage (1,089 units cumulative) & ICT machines (30.1%)
+
+**Dealers & Rental**
+
+- Caterpillar dealer network
+- Komatsu / Hitachi sales networks
+- United Rentals, Sunbelt Rentals
+- Kanamoto, Aktio (Japan)
+
+**End Users**
+
+- Construction contractors
+- Mining companies (copper, gold, coal)
+- Infrastructure & energy operators
+- AIDC developers
+
+**Service, Used & Recycling**
+
+- OEM parts & service departments
+- Dealer maintenance networks
+- Used auctions — Ritchie Bros.
+- OEM finance subsidiaries
+
+*Source: FIELDNOTES sector report §4 (construction machinery value chain); company segments from §3 of this report.*
+
+## 5. Segments and regions
+
+Komatsu's tanshin disclosure gives a complete business-segment history on a single consistent three-segment basis across all ten years, but the regional disclosure changed basis in FY3/26. This chapter keeps the two regional bases separate and labelled, exactly as the PL/segment sheet holds them (main block: six-region basis, FY3/17–FY3/25; supplementary rows: four-group basis, FY3/26 only), and adds the core segment's finer regional split, which is disclosed on a consistent basis in all years. Regional profit is not disclosed on any basis.
+
+**Figure: Komatsu Ltd. — segment revenue, FY3/26**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Construction, Mining & Utility Equipment — external revenue | 3796100 |
+
+| Retail Finance — external revenue | 100520 |
+
+| Industrial Machinery & Others — external revenue | 236131 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Komatsu Ltd. — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Komatsu Ltd. — segment revenue mix, FY3/26**
+
+**Construction, Mining & Utility Equipment**
+
+- ¥3,796,100mn
+- 91.9% of revenue
+
+**Industrial Machinery & Others**
+
+- ¥236,131mn
+- 5.7% of revenue
+
+**Retail Finance**
+
+- ¥100,520mn
+- 2.4% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## Business segments: one segment earns the group
+
+Exhibit 2 gives the ten-year history. Three facts organise it. First, concentration: in FY3/26 the three segments earned ¥565,643mn of segment profit before a +¥1,680mn eliminations/corporate adjustment to consolidated operating profit of ¥567,323mn — **the core equipment segment alone was ¥491,118mn, 87% of segment profit**. The adjustment line is small in every year (between −¥31,812mn in FY3/18, when it absorbed a ¥13,413mn goodwill impairment and other unallocated items, and +¥1,680mn in FY3/26) because segment profit is defined before impairment and other operating items (register S3); the components are in the sheet's supplementary rows (impairment of long-lived assets was ¥3,852mn in FY3/26). Second, the cycle lives in the core segment's margin: 14.8% at the FY3/19 peak, 7.3% at the FY3/21 trough, 16.0% at the FY3/24 print, 12.9% in FY3/26 — a 9-point peak-to-trough range that no other segment approaches, and the reason group operating margin forecasts are, in substance, core-margin forecasts. Third, the two small segments are stabilisers with opposite drivers: Retail Finance profit grew in four of the last five years (¥36,588mn in FY3/26, a record) on asset growth and rate pass-through, and Industrial Machinery & Others recovered from ¥10,279mn (FY3/24) to ¥37,937mn (FY3/26) on presses and semiconductor-adjacent services. Neither can offset a core downturn — in FY3/21, when core profit fell to ¥143,788mn, the two together earned ¥26,916mn — but both reduce the depth of group troughs versus a pure-play equipment maker. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note, main block and history block.
+
+**Exhibit 2. Business segments — external revenue and segment profit (tanshin definition: sales − cost of sales − SG&A of the segment)**
+
+| ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Construction, Mining & Utility Equipment — external revenue | 1566340 | 2267332 | 2466660 | 2205976 | 1961207 | 2558850 | 3286723 | 3591378 | 3787486 | 3796100 |
+| Construction, Mining & Utility Equipment — segment profit | 161686 | 275971 | 365346 | 227311 | 143788 | 275768 | 443603 | 573987 | 598874 | 491118 |
+| Retail Finance — external revenue | 46715 | 49647 | 57355 | 62952 | 58377 | 57809 | 67807 | 80910 | 96220 | 100520 |
+| Retail Finance — segment profit | 4453 | 12963 | 17506 | 12673 | 10574 | 17199 | 27267 | 24243 | 29422 | 36588 |
+| Industrial Machinery & Others — external revenue | 189934 | 184128 | 201228 | 175942 | 169928 | 185664 | 188945 | 192834 | 220689 | 236131 |
+| Industrial Machinery & Others — segment profit | 12464 | 14459 | 18637 | 13703 | 16342 | 22595 | 22586 | 10279 | 27391 | 37937 |
+| Adjustment / corporate (incl. unallocated items) | -4506 | -31812 | -3683 | -2980 | -3376 | 1453 | -2771 | -1315 | 1438 | 1680 |
+| Consolidated operating profit | 174097 | 271581 | 397806 | 250707 | 167328 | 317015 | 490685 | 607194 | 657125 | 567323 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive), segment note, as reported in each year's own tanshin; FY3/17–21 from the sheet history block, FY3/22–26 from the main block. Segment profit excludes impairment of long-lived assets and other operating income/(expenses), which are not allocated to segments; the adjustment line therefore includes those unallocated items together with eliminations/corporate (components in the sheet's supplementary rows).*
+
+## Regions: six-region history (FY3/17–FY3/25) and the new four-group basis (FY3/26) — presented separately
+
+Six-region basis (as disclosed in the FY3/17–FY3/25 tanshin, external sales by customer location). FY3/25, the last year on this basis: Japan ¥436,605mn (10.6% of sales), Americas ¥1,811,209mn (44.1%), Europe & CIS ¥394,622mn (9.6%), China ¥106,615mn (2.6%), Asia ex-Japan & Oceania ¥1,015,843mn (24.8%) and Middle East & Africa ¥339,501mn (8.3%) — an overseas ratio of 89.4%. The nine-year drift is a re-weighting toward the Americas and Oceania mining and away from China and Europe & CIS: from FY3/17 to FY3/25 **the Americas rose from ¥602,818mn to ¥1,811,209mn (33.4% to 44.1% of sales)**, Asia ex-Japan & Oceania from ¥350,804mn to ¥1,015,843mn, while China fell from a FY3/19 peak of ¥192,660mn to ¥106,615mn and Europe & CIS from ¥359,579mn (FY3/20) to ¥394,622mn after a sanctions-era CIS decline visible in the core segment's CIS line (¥134,643mn in FY3/19 to ¥61,517mn in FY3/25). Japan was the stable anchor throughout (¥384,302mn–¥436,649mn, roughly a tenth of sales).
+
+Four-group basis (as disclosed from the FY3/26 tanshin; NOT comparable line-by-line with the six-region basis — China is inside the Asia group and CIS is split, per register S5): FY3/26 — Americas ¥1,933,671mn (46.8% of sales), Europe, Africa & Middle East ¥739,087mn (17.9%), Oceania, Asia ex-Japan & CIS ¥1,035,410mn (25.1%), Japan ¥424,583mn (10.3%). The FY3/26 main-block cells on the old basis are blank in the sheet and are shown as not disclosed on that basis here; no mapping is forced.
+
+Core-segment regional detail (qualitative section, consistent basis, all years; FY3/26): North America ¥1,047,181mn, Latin America ¥776,910mn, Europe ¥343,769mn, Africa ¥256,257mn, Middle East ¥112,672mn, Oceania ¥471,567mn, China ¥75,746mn, CIS ¥62,547mn and Japan ¥314,516mn; the Asia ex-Japan & China line is not entered in the sheet for these years and is therefore not presented (the listed lines sum to less than segment sales — see Chapter 9). The five-year shape inside the segment: North America +43% cumulatively FY3/22–26 (¥590,695mn → ¥1,047,181mn), Latin America +96% (¥395,885mn → ¥776,910mn) on mining, Oceania +79% (¥263,436mn → ¥471,567mn), while CIS fell 66% (¥184,483mn → ¥62,547mn) and China fell 21% (¥96,416mn → ¥75,746mn). Source: company results via PL/segment sheet (tanshin, JPX archive), regional information table, qualitative regional table and register S5.
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (US GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: sales ¥1,802,989mn / ¥2,501,107mn / ¥2,725,243mn / ¥2,444,870mn / ¥2,189,512mn in FY3/17–21 and ¥2,802,323mn / ¥3,543,475mn / ¥3,865,122mn / ¥4,104,395mn / ¥4,132,751mn in FY3/22–26; cost of sales ¥1,286,424mn / ¥1,765,832mn / ¥1,885,163mn / ¥1,749,048mn / ¥1,608,457mn and ¥2,022,747mn / ¥2,504,449mn / ¥2,654,914mn / ¥2,782,012mn / ¥2,872,897mn; gross profit ¥516,565mn / ¥735,275mn / ¥840,080mn / ¥695,822mn / ¥581,055mn and ¥779,576mn / ¥1,039,026mn / ¥1,210,208mn / ¥1,322,383mn / ¥1,259,854mn (margins 28.6% / 29.4% / 30.8% / 28.5% / 26.5% and 27.8% / 29.3% / 31.3% / 32.2% / 30.5%); SG&A ¥339,986mn / ¥432,298mn / ¥440,687mn / ¥440,792mn / ¥408,716mn and ¥464,040mn / ¥545,512mn / ¥604,534mn / ¥658,856mn / ¥688,688mn (16.6% of sales in FY3/26); other operating expense (net) was small in most years (¥2,482mn / ¥31,396mn / ¥1,587mn / ¥4,323mn / ¥5,011mn and −¥1,479mn / ¥2,829mn / −¥1,520mn / ¥6,402mn / ¥3,843mn) — the FY3/18 figure includes a ¥13,413mn goodwill impairment (history supplementary rows). Operating profit: ¥174,097mn / ¥271,581mn / ¥397,806mn / ¥250,707mn / ¥167,328mn and ¥317,015mn / ¥490,685mn / ¥607,194mn / ¥657,125mn / ¥567,323mn. Below the line: other income/(expenses) net (interest & dividend income less interest expense plus other, net, per register S4) was −¥7,628mn / +¥20,226mn / −¥20,335mn / −¥27,593mn / −¥4,553mn and +¥7,553mn / −¥14,251mn / −¥31,531mn / −¥52,287mn / −¥30,065mn — note the FY3/18 gain on sales of investment securities of ¥49,083mn inside that line, and the rising interest-expense load as rates rose (interest expense ¥53,334mn in FY3/26 against ¥12,222mn in FY3/22). Profit before tax (tanshin definition) and equity earnings are as in Chapter 1; income taxes were ¥145,609mn in FY3/26 (an effective rate of 26.6% on the sheet's control definition). R&D expense (segment-note SG&A breakdown, included within SG&A) was ¥110,472mn in FY3/25 and ¥121,177mn in FY3/26 (2.9% of sales). Depreciation and amortisation was ¥161,830mn in FY3/26, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥729,153mn. Capital expenditure (purchases of fixed assets per the cash-flow statement) was ¥212,261mn in FY3/26.
+
+Balance sheet (31 March 2026, US GAAP): total assets ¥6,423,941mn; total liabilities are the residual ¥2,715,514mn (calculated as assets less net assets); net assets ¥3,708,427mn, of which shareholders' equity ¥3,510,768mn (shareholders' equity ratio 54.7%; book value per share ¥3,896.10) and non-controlling interests the balance. Cash and equivalents ¥439,701mn; receivables ¥1,406,411mn (including retail-finance receivables); inventories ¥1,601,883mn (about 6.7 months of cost of sales on the sheet's calculated measure); trade payables ¥355,475mn; interest-bearing debt ¥1,204,981mn on the sheet's definition (short-term plus long-term debt as presented) — a figure that includes the borrowings funding the retail-finance book, so a simple net-debt read (¥765,280mn, calculated) overstates industrial leverage and is flagged as such. The balance sheet has roughly doubled in ten years (total assets ¥2,656,482mn at FY3/17; shareholders' equity ¥1,576,674mn, ratio 59.4%), with the FY3/18 step (debt ¥319,311mn → ¥739,791mn) marking the Joy Global acquisition's consolidation. Shares issued at 31 March 2026: 930,340,620, of which 29,242,594 in treasury; the FY3/26 tanshin notes a board resolution of 28 April 2026 for a further share repurchase and cancellation (its per-share effects are excluded from the FY3/26 figures as reported). Cash flow: operating cash flow as in Chapter 1; FY3/26 investing outflow was ¥199,232mn and financing outflow ¥208,536mn (dividends and buybacks). Per-share: diluted EPS and dividends per share are in Exhibit 1 — the dividend rose from ¥55 in FY3/21 (including a ¥10 commemorative component in the year-end payment) to ¥96 / ¥139 / ¥167 / ¥190 / ¥190 in FY3/22–26, with payout ratios of 40.3% / 40.3% / 40.1% / 40.1% / 45.9% as reported. Not disclosed in the tanshin and therefore not presented as history here: order intake and backlog, employees, unit volumes, capacity, utilisation and regional profit. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 28 Apr 2026.
+
+## 7. Strategy and mid-term plan — 'Driving value with ambition' (FY3/26–FY3/28)
+
+Komatsu's current mid-term management plan, 'Driving value with ambition' (価値創造への挑戦), runs for the three years from April 2025 to the year ending March 2028. Its stated aim is to be a 'solution partner that realises safe, highly productive, clean workplaces', evolving both the machine (モノ) and the service/digital (コト) sides of the offer, under three growth pillars: (1) creating value through innovation (co-creation), (2) pursuing growth and profitability, and (3) reforming the management base (FY3/26 tanshin qualitative section). The published numerical targets carried in the sources used here are financial-discipline targets rather than a sales/profit bridge: **ROE of at least 10%, three-year cumulative free cash flow of ¥1tn**, a retail-finance net debt-to-equity cap of 6× or less, and a dividend payout ratio of at least 40% (mid-term plan as summarised in the FY3/26 securities report, via the interview pack). Against those, year one (FY3/26) printed ROE of 11.3% and a payout of 45.9%; cumulative FCF and the finance leverage ratio are not disclosed in the tanshin and their progress is therefore not scored in this report. No published FY3/28 sales or operating-profit target is carried in the sources used, and none is inferred.
+
+The strategic content behind the discipline targets, as far as the sources support it: autonomy and digital as the differentiation layer (AHS cumulative 1,089 trucks and a 30.1% ICT ratio at September 2026 are the plan's visible KPIs; the open question from the interview pack is whether they monetise as parts and services margin per connected machine or remain a share-defence cost); electrification and clean-workplace offerings under the 'clean GEMBA' framing; and North America capacity/localisation as the tariff variable — the pack's question 8 asks what tariff duration or volume would trigger shifting more North American supply onshore, given the guided net drag is only ¥17.7bn. The monitoring set that substitutes for a fuller published bridge, in the order the data arrives: quarterly mining ex-FX growth (the H2 turn the guide needs); cumulative tariff impact and refunds against the −¥44.8bn / +¥27.0bn full-year assumptions; the core segment margin against the 12.2% H1 print and the 12.9% FY3/26 base; fixed-cost growth (H1: −¥20.4bn in the bridge) split between investment and run-rate; and ROE against the ≥10% floor as the FY3/27 guide (EPS ¥429.63) is delivered. All plan figures above are company targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY3/26 tanshin qualitative section, 28 Apr 2026; mid-term plan summary via the interview pack (source: FY3/26 securities report, filed 18 Jun 2026); Q2 FY3/27 tanshin and briefing materials.
+
+## 8. Other information
+
+History. Komatsu traces to 1917, when Takeuchi Mining Industry established the Komatsu ironworks in Komatsu City, Ishikawa; Komatsu Manufacturing Co. (株式会社小松製作所) was incorporated in 1921, built its position on Japan's first domestically produced bulldozer-class machines and post-war construction mechanisation, and internationalised from the 1950s–60s as Japanese construction demand globalised. The defining modern transactions in the sources' window are the 2017 acquisition of Joy Global (underground and surface mining equipment), whose consolidation steps the balance sheet up in FY3/18, and the build-out of the Smart Construction / ICT and AHS autonomy franchises. Head office: Minato-ku, Tokyo (tanshin header contact: Sustainability Promotion headquarters / Corporate Communication). Capital and listing: TSE Prime, code 6301.
+
+Management. Representative Director and President: Takuya Imayoshi (今吉 琢也) — named in that role in the Q2 FY3/27 tanshin header of 29 October 2026 (verified for this report by web search against the filing). The inquiry contact in the tanshin is Shigeki Yokoyama, head of the Corporate Communication department within the Sustainability Promotion headquarters. Shares issued: 930,340,620 at FY3/26 year-end (950,953,120 a year earlier — the count fell on cancellation), with treasury shares of 29,242,594 at March 2026; weighted average shares for FY3/26 were 908,882,230 (tanshin header), and diluted weighted shares in the sheet are 908,884,901 — the small difference is rounding in the sheet's source note and is flagged in Chapter 9.
+
+Major shareholders and employees. The tanshin does not disclose the shareholder register or consolidated headcount (sheet register S10 lists employees among the not-disclosed items), and no securities-report register was used for this report: both are therefore recorded as not disclosed in the sources used / 未取得 rather than filled from third-party compilations.
+
+Shareholder returns. Dividends per share rose from ¥55 (FY3/21) to ¥96, ¥139, ¥167 and ¥190 (FY3/22–25) and were held at ¥190 in FY3/26 despite the profit decline — a payout of 45.9% against the ≥40% policy — with ¥190 forecast again for FY3/27 (interim ¥95). The FY3/26 year also carried share repurchases and cancellations (issued shares fell by about 20.6mn over the year), and the FY3/26 tanshin notes a further repurchase-and-cancellation resolution dated 28 April 2026 whose per-share effects are not reflected in the FY3/26 reported figures.
+
+Market data. The shares closed at ¥6,159 on 13 November 2026 (Finnhub via web search; corroborated by TipRanks and FISCO price histories returned in the same search), giving a market capitalisation of about ¥5,550bn (calculated from the cited price and the 901.10mn shares excluding treasury at March 2026; Finnhub shows ¥5.47tn on its own share count — third-party figure, flagged). The 52-week range was ¥4,914 (18 December 2025) to ¥7,980 (5 October 2026) (Finnhub): the shares therefore peaked three weeks before the Q2 print, fell about 7.6% on the results day (29 October 2026, TipRanks), and at ¥6,159 stood 22.8% below the October high (calculated). At ¥6,159 the shares trade at 14.9x FY3/26 diluted EPS of ¥413.90, 14.3x FY3/27 company-guidance EPS of ¥429.63, 1.58x FY3/26 book value per share of ¥3,896.10, and a 3.1% yield on the ¥190 dividend forecast (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, expected in late January 2027 (interview pack) with third-party calendars indicating 2 February 2027 (Finnhub).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Komatsu (6301) (¥mn; March year-end), built from the company's tanshin [US GAAP] in the JPX disclosure archive — main block FY3/22–FY3/26 annual plus 20 quarters, and a supplementary history block carrying FY3/17–FY3/21 annual figures as disclosed in each year's own annual tanshin (sheet 'Reported inputs' rows 142+, with its own internal checks all equal to zero) — with all main-block template checks equal to zero (batch log 3a, 17 Nov 2026; sheet register S1–S12). H1 FY3/27 figures are from the Q2 FY3/27 tanshin [US GAAP] dated 29 October 2026. The H1 profit bridge, tariff/refund amounts, demand ex-FX splits and AHS/ICT KPIs are from the company's Q2 FY3/27 briefing materials as recorded in the programme's interview pack for 6301 (16 Nov 2026), and are flagged at each use; the guidance revision chain is cross-checked against the programme's guidance tracker (17 Nov 2026), which verified each step against the tanshin forecast sections. Mid-term plan targets are as summarised in the FY3/26 securities report via the interview pack. Market data are from Finnhub, TipRanks and FISCO as returned by web search on 17 November 2026 and are cited with dates in the text; the president's name and role were verified against the Q2 FY3/27 tanshin header. NOT used: the English transcript file for Komatsu in the programme's transcript library, which rests on a third-party (Quartr) transcript of the official webcast — per programme instruction it is excluded as a source, and no statement in this report relies on it.
+
+Accounting basis — the flagged adaptation. Komatsu reports under US GAAP in every period covered. The PL/segment sheet nevertheless uses the programme's IFRS-template architecture, with US-GAAP lines mapped into it (register S4): sheet row 13 is impairment of long-lived assets minus other operating income/(expenses); row 16 is total other income/(expenses) below operating profit; equity earnings, which US GAAP presents below the tax line, are carried in the investing block, so the sheet's control 'profit before tax' row equals tanshin PBT plus equity earnings (FY3/26: ¥547,297mn sheet vs ¥537,258mn tanshin). This report uses the tanshin definition of profit before tax throughout and flags the difference here rather than mixing the two. The sheet's FY3/27 columns are template model estimates driven off FY3/26 ratios, NOT company guidance and NOT actuals; they are not used anywhere in this report — FY3/27 figures herein are H1 actuals from the tanshin and full-year company guidance only.
+
+Basis breaks and discrepancies flagged (not silently resolved). (1) Regional basis change: FY3/17–FY3/25 tanshin disclose six regions; from FY3/26 they disclose four groups that cannot be mapped onto the six-region basis (China and CIS not split out). The sheet's main block carries the six-region basis for FY3/22–25 (five template slots, the fifth combining Asia ex-Japan & Oceania with Middle East & Africa; full six lines in supplementary rows 135–140, and the same six lines for FY3/17–21 in the history block) and is blank for FY3/26, whose four-group basis sits in supplementary rows 131–134. This report presents both bases, labelled, in Chapter 5. (2) Core-segment regional detail: the 'Asia ex-Japan & China' line of the qualitative regional table is blank in the sheet for all years, so the listed CMU regional lines sum to less than segment sales (by ¥295,431mn in FY3/22 and ¥231,935mn in FY3/26, calculated); the line is shown as not disclosed rather than derived as a residual. (3) Segment profit definition: segment profit excludes impairment and other operating income/(expenses) (register S3); the reconciliation to operating profit therefore runs through the eliminations/corporate line plus those unallocated items, whose components are in supplementary rows 125–126 (and rows 204–206 for the history years, including the FY3/18 goodwill impairment of ¥13,413mn). (4) H1 FY3/27 segment sales in the tanshin summary table are on the pre-elimination basis stated in its note, while annual segment sales in the sheet are external; the two bases are labelled where used and are not mixed within a comparison. (5) Share counts: the sheet's diluted weighted shares for FY3/26 (908,884,901) differ trivially from the tanshin header's weighted average shares (908,882,230); per-share figures in this report are the tanshin's own reported EPS and BPS. (6) Rounding plugs of at most ¥4mn per period sit in the sheet's rows 13/16/20 so that template checks equal exactly zero (register S12); headline lines are always as reported. (7) The tasking for this report described the revised FY3/27 guidance as 'sales ¥4,450bn / OP ¥585bn per the v4-model-matching revision' — verified against the sheet register (S11) and the guidance tracker: the figures match the Q2 FY3/27 tanshin revision of 29 October 2026 exactly, and those are the figures used.
+
+Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'Company guidance' means Komatsu's published forecasts (会社計画) and 'plan targets' means the mid-term plan's published targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — regional profit, order intake, order backlog, employees, production/sales units, capacity, utilisation, company-reported inventory months, and segment-level guidance — are described as not disclosed / 未取得 rather than estimated; the shareholder register was likewise not taken from the sources used. FY3/17 and FY3/18 dividends per share and the FY3/18 ROE were not extractable from the parsed tanshin text used for the history block and are shown as '—' in Exhibit 1 rather than sourced from third parties. KPI history in this report covers ten years (FY3/17–FY3/26), matching the Shared Research reference span.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
