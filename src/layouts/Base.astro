@@ -8,14 +8,14 @@ interface Props {
   description: string;
   /** URL of the same page in the other language. */
   altHref: string;
-  /** Wide container (news-portal pages such as the homepage). */
+  /** Kept for compatibility; every page now uses the one standard container. */
   wide?: boolean;
 }
 
 const { lang, title, description, altHref, wide = false } = Astro.props;
 const isJa = lang === 'ja';
 const base = isJa ? '/ja' : '/en';
-const wrap = wide ? 'max-w-6xl' : 'max-w-3xl';
+const wrap = 'max-w-6xl';
 
 const nav = isJa
   ? [
