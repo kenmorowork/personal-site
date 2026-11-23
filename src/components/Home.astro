@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import { NAME, TAGLINE, CHANNELS, type Lang } from '../data/site';
 
 interface Props {
@@ -6,6 +7,60 @@ interface Props {
 }
 const { lang } = Astro.props;
 const isJa = lang === 'ja';
+const base = isJa ? '/ja' : '/en';
+
+const SUBSTACK_URL = 'https://morokenjp.substack.com/';
+
+const latestNews = (
+  await getCollection('news', ({ data }) => data.lang === lang)
+)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 5);
+
+const featuredReport = (
+  await getCollection('reports', ({ data }) => data.lang === lang)
+).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())[0];
+
+const fmt = (d: Date) =>
+  isJa
+    ? `${d.getFullYear()}/${d.getMonth() + 1}/${d.getDate()}`
+    : d.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
+
+const gateways = isJa
+  ? [
+      {
+        href: `${base}/fieldnotes/`,
+        name: 'FIELDNOTES',
+        detail: '業界統計とバリューチェーンの調査基盤。産業レポート77本を含む242ページ。',
+      },
+      {
+        href: `${base}/reports/`,
+        name: 'リサーチレポート（J-Core）',
+        detail: 'J-Core Fundamental Researchのセクターレポート索引。銘柄・セクター別に引けます。',
+      },
+      {
+        href: `${base}/portfolio/`,
+        name: 'ポートフォリオ',
+        detail: '長編の検証、Valuation DB、ダッシュボードなど、配信以外の成果物。',
+      },
+    ]
+  : [
+      {
+        href: `${base}/fieldnotes/`,
+        name: 'FIELDNOTES',
+        detail: 'The research library of industry statistics and value chains — 242 pages, including 77 sector reports.',
+      },
+      {
+        href: `${base}/reports/`,
+        name: 'Research Reports (J-Core)',
+        detail: 'The J-Core Fundamental Research sector-report index, searchable by company and sector.',
+      },
+      {
+        href: `${base}/portfolio/`,
+        name: 'Portfolio',
+        detail: 'Long-form studies, the Valuation DB, dashboards and other work beyond the daily feed.',
+      },
+    ];
 ---
 
 <section>
@@ -20,6 +75,112 @@ const isJa = lang === 'ja';
         : 'I am a sell-side equity analyst based in Tokyo, covering industrials, materials and energy (IME). I publish short market and industry reports three times a day, and long-form reports three times a week (Mon / Wed / Sat) — reading industries through numbers and primary sources.'
     }
   </p>
+  <p class="mt-6 flex flex-wrap items-center gap-3">
+    <a
+      href={SUBSTACK_URL}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="rounded-full bg-neutral-900 px-5 py-2 text-sm font-medium text-white hover:bg-neutral-700 dark:bg-neutral-100 dark:text-neutral-900 dark:hover:bg-neutral-300"
+    >
+      {isJa ? 'Substackで無料登録' : 'Subscribe free on Substack'}
+    </a>
+    <span class="text-sm text-neutral-500 dark:text-neutral-400">
+      {isJa
+        ? '長文レポートは現在すべて無料公開中です。'
+        : 'All long-form reports are currently published free.'}
+    </span>
+  </p>
+</section>
+
+<section class="mt-14">
+  <div class="flex items-baseline justify-between gap-4">
+    <h2 class="font-display text-xl font-semibold">
+      {isJa ? '最新の業界ニュース' : 'Latest industry news'}
+    </h2>
+    <a href={`${base}/news/`} class="text-sm font-medium underline-offset-4 hover:underline">
+      {isJa ? 'ニュース一覧 →' : 'All news →'}
+    </a>
+  </div>
+  <ul class="mt-5 divide-y divide-neutral-200 dark:divide-neutral-800">
+    {
+      latestNews.map((item) => (
+        <li class="py-4">
+          <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-sm text-neutral-500 dark:text-neutral-400">
+            <time datetime={item.data.date.toISOString()}>{fmt(item.data.date)}</time>
+            <span class="rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:bg-neutral-900 dark:text-neutral-400">
+              {item.data.sector}
+            </span>
+          </div>
+          <a
+            href={item.data.externalUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="mt-1 block font-display text-lg font-semibold leading-snug underline-offset-4 hover:underline"
+          >
+            {item.data.title}
+          </a>
+          <p class="mt-1 max-w-prose text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+            {item.data.summary}
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+</section>
+
+{
+  featuredReport && (
+    <section class="mt-14 rounded-lg border border-neutral-200 p-6 dark:border-neutral-800">
+      <p class="text-xs font-medium tracking-wide text-neutral-500 uppercase dark:text-neutral-400">
+        {isJa ? '注目レポート' : 'Featured report'}
+      </p>
+      <a
+        href={featuredReport.data.externalUrl}
+        class="mt-3 block font-display text-xl font-semibold leading-snug underline-offset-4 hover:underline"
+      >
+        {featuredReport.data.title}
+      </a>
+      <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">
+        {featuredReport.data.company}（{featuredReport.data.ticker}）・
+        {featuredReport.data.sector}・
+        <time datetime={featuredReport.data.date.toISOString()}>
+          {fmt(featuredReport.data.date)}
+        </time>
+      </p>
+      <p class="mt-4">
+        <a
+          href={`${base}/reports/`}
+          class="text-sm font-medium underline-offset-4 hover:underline"
+        >
+          {isJa ? 'レポート索引を見る →' : 'Browse the report index →'}
+        </a>
+      </p>
+    </section>
+  )
+}
+
+<section class="mt-14">
+  <h2 class="font-display text-xl font-semibold">
+    {isJa ? 'アーカイブ' : 'Archives'}
+  </h2>
+  <div class="mt-5 grid gap-4 sm:grid-cols-3">
+    {
+      gateways.map((g) => (
+        <a
+          href={g.href}
+          class="group rounded-lg border border-neutral-200 p-5 transition hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600"
+        >
+          <p class="font-display text-lg font-semibold">{g.name}</p>
+          <p class="mt-2 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+            {g.detail}
+          </p>
+          <p class="mt-3 text-sm font-medium text-neutral-900 group-hover:underline dark:text-neutral-100">
+            {isJa ? '開く →' : 'Open →'}
+          </p>
+        </a>
+      ))
+    }
+  </div>
 </section>
 
 <section class="mt-14">
