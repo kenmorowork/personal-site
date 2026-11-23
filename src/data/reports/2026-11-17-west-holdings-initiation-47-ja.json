@@ -1,0 +1,754 @@
+{
+  "version": 1,
+  "editorReportId": 47,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "2026年11月17日",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "West Holdings Corporation (1407)",
+  "headlineHtml": "From solar flow to storage scale: initiation on West Holdings as <strong>grid-scale batteries become the first profit pillar in only their second year</strong>",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥1,674",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥74.5bn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥1,294 – ¥3,270",
+      "asOf": "16 Nov 2026 (Finnhub via search results; low 21 Nov 2025, high 27 May 2026)"
+    },
+    {
+      "label": "P/E (FY8/26 EPS ¥202.74, J-GAAP)",
+      "value": "8.3x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY8/27E co. guidance EPS ¥236.49)",
+      "value": "7.1x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY8/27E dividend (company forecast)",
+      "value": "¥70 / share (3.6% yield)",
+      "asOf": "FY8/26 tanshin, 15 Oct 2026 (interim ¥35 + year-end ¥35 forecast)"
+    },
+    {
+      "label": "Next event",
+      "value": "Q1 FY8/27 results, ~Jan 2027",
+      "asOf": "Third-party calendar estimates differ (StockInvest.us 8 Jan 2027; Finnhub 12 Jan 2027), Nov 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "A solar developer-operator whose second-year battery business already earns two-thirds of group profit:",
+  "ledeHtml": "West Holdings Corporation (1407, TSE Standard) is a Japanese renewable-energy developer-operator built on solar: it engineers and builds self-consumption solar plants for corporate customers, develops non-FIT solar plants for sale, sells power from plants it owns, and maintains the fleet it has built. In FY8/25 it added a fifth reportable segment — grid-scale battery storage development and sales （蓄電所事業） — and in FY8/26, only its second year, <strong>that segment printed revenue of ¥21,728mn and segment profit of ¥8,419mn at a 38.7% margin, 64.8% of consolidated operating profit of ¥12,992mn (J-GAAP)</strong> on record revenue of ¥56,649mn (+19.9% YoY). The initiation question is whether storage is a durable franchise or a scarce-connection-rights arbitrage that compresses as rivals arrive — and whether <strong>a balance sheet with a 25.3% equity ratio</strong> can fund the land, inventory and connection queue behind it. Strengths: (1) storage scale and economics — grid-connection study applications exceeded 1,600 sites at August 2026, the segment grew revenue +280.4% YoY, and management is layering stock revenue on top (special high-voltage storage on its own solar sites, storage maintenance contracts); (2) a record FY8/26 that beat the company's own initial guidance on every line (operating profit ¥12,992mn vs ¥11,376mn guided) with ROE of 20.7% as reported; (3) a growing recurring base beneath the flow businesses — maintenance contracted capacity rose to 1,579.8MW, own-generation power sales are weather-stable, and the ESCO business earns over 5–12-year contracts. Weaknesses: (1) extreme closing concentration — Q4 FY8/26 alone delivered 48.2% of revenue and 64.5% of operating profit, so the year is made or missed on project handovers in a single quarter; (2) thin capital for a developer — interest-bearing debt of ¥98,265mn against owners' equity of ¥41,342mn, with operating cash flow negative in two of the last five years as development inventory absorbs cash ahead of closings; (3) the legacy core is shrinking — renewable-energy revenue fell 24.4% in FY8/26 as non-FIT deliveries missed the initial plan and some projects' profitability declined, energy-saving revenue has fallen for four straight years, and a rule change effective 1 August 2026 now caps the number of grid-storage connection studies per operator, rationing the very pipeline the growth story runs on. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "FY8/26: a record year, made in Q4.",
+      "html": "For the year to 31 August 2026 (J-GAAP), revenue was ¥56,649mn (+19.9% YoY), operating profit ¥12,992mn (+50.3%; margin 22.9%), ordinary income ¥11,435mn (+43.6%) and net income attributable to owners ¥8,040mn (+50.1%); basic EPS was ¥202.74 and ROE 20.7% as reported. The shape matters more than the totals: <strong>standalone Q4 (June–August 2026) contributed revenue of ¥27,310mn and operating profit of ¥8,378mn — 48.2% and 64.5% of the full year</strong> — as non-FIT solar handovers were accelerated into Q4 and storage closings landed. Source: FY8/26 tanshin [J-GAAP], 15 October 2026; quarterly split via PL/segment sheet."
+    },
+    {
+      "leadHtml": "Guidance set once and unchanged: FY8/27 operating profit ¥15,600mn (company guidance).",
+      "html": "Full-year FY8/27 company guidance (会社計画), published in the FY8/26 tanshin on 15 October 2026 and unchanged since (zero revisions — guidance tracker, verified 17 November 2026; no Q1 FY8/27 filing has yet been published), is revenue ¥70,412mn (+24.3%), operating profit ¥15,600mn (+20.1%), ordinary income ¥13,500mn, owners' net income ¥9,379mn and EPS of ¥236.49, with the dividend forecast held at ¥70. No segment-level guidance is disclosed. <strong>Delivery again depends on H2–Q4 project closings, above all storage connection approvals</strong>. Source: FY8/26 tanshin section 3, 15 October 2026; guidance tracker 2026-11-17."
+    },
+    {
+      "leadHtml": "Strength — storage is already the profit engine, at a 38.7% segment margin.",
+      "html": "Grid storage was split out as a fifth reportable segment from FY8/25 (revenue ¥5,711mn, segment profit ¥1,498mn) and in FY8/26 printed revenue of ¥21,728mn (+280.4%) and segment profit of ¥8,419mn (+462.1%), a 38.7% margin and 64.8% of consolidated operating profit. <strong>Grid-connection study applications exceeded 1,600 sites at August 2026</strong>, with connection studies under way with general transmission and distribution operators nationwide (company, FY8/26 tanshin). The debate — durable margin or connection-rights arbitrage — is the interview pack's first question. Source: FY8/26 tanshin segment note and qualitative section, 15 October 2026."
+    },
+    {
+      "leadHtml": "Weakness — the legacy solar core shrank by a quarter, and the balance sheet is thin.",
+      "html": "Renewable-energy external revenue fell 24.4% to ¥24,689mn and segment profit 52.4% to ¥2,165mn in FY8/26: non-FIT development deliveries through Q3 ran below the initial plan, Q4 handovers were accelerated but still missed the full-year plan, and profitability declined on some projects. At the same time total assets rose ¥15,023mn to ¥163,570mn, <strong>interest-bearing debt reached ¥98,265mn on the sheet's definition, and the equity ratio was 25.3%</strong> — the funding question sits underneath every growth claim. Source: FY8/26 tanshin, 15 October 2026; PL/segment sheet."
+    },
+    {
+      "leadHtml": "The FY8/22–23 reset explains today's mix: the power-retail exit.",
+      "html": "The ten-year history turns on one decision. Electric-power revenue — swollen by electricity retail — peaked at ¥36,743mn in FY8/19 (57.5% of group revenue); gross margin compressed to 19.5–21.5% in FY8/19–22, and <strong>in FY8/22 the company booked a ¥1,500mn provision for losses on withdrawal from the electric-power business inside extraordinary losses of ¥1,529mn</strong>. Power revenue fell to ¥4,739mn in FY8/23 as the retail activity was exited, group revenue fell 34.9%, and the gross margin stepped up permanently (35.1% in FY8/23, 36.7% in FY8/26). What remains in power — green-power wholesale and sales from owned plants — is smaller, stock-like and profitable (FY8/26 segment profit ¥1,623mn, a 21.8% margin). Source: company results via PL/segment sheet (tanshin, JPX archive); FY8/23 tanshin income-statement notes."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY8/17–FY8/26 actuals (J-GAAP, as reported) and FY8/27E company guidance",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive): main window FY8/22–FY8/26 and supplementary history block FY8/17–FY8/21 (FY8/17 from the FY8/18 tanshin's comparatives, sole surviving source). Total assets as reported in each year's own tanshin header (FY8/18 own-year ¥74,134mn; the FY8/19 tanshin comparative shows ¥73,796mn — see Basis of preparation). EPS is shown only from FY8/22 (1.3-for-1 splits in Mar 2020 and Mar 2021 make earlier printed EPS non-comparable); FY8/22–26 EPS as calculated in the sheet (FY8/26 agrees with the tanshin's ¥202.74). DPS as printed in each year's own tanshin (post-split basis where stated). FY8/27E = company guidance in the FY8/26 tanshin, 15 Oct 2026 (guided PBT is not disclosed; ordinary income is ¥13,500mn).",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY8/17",
+          "FY8/18",
+          "FY8/19",
+          "FY8/20",
+          "FY8/21",
+          "FY8/22",
+          "FY8/23",
+          "FY8/24",
+          "FY8/25",
+          "FY8/26",
+          "FY8/27E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "32753",
+            "52509",
+            "63904",
+            "61947",
+            "67938",
+            "67169",
+            "43734",
+            "50390",
+            "47250",
+            "56649",
+            "70412"
+          ],
+          [
+            "Revenue growth (%)",
+            "—",
+            "60.3",
+            "21.7",
+            "-3.1",
+            "9.7",
+            "-1.1",
+            "-34.9",
+            "15.2",
+            "-6.2",
+            "19.9",
+            "24.3"
+          ],
+          [
+            "Operating profit",
+            "2685",
+            "4974",
+            "5864",
+            "7180",
+            "10148",
+            "7770",
+            "8499",
+            "10597",
+            "8646",
+            "12992",
+            "15600"
+          ],
+          [
+            "Operating margin (%)",
+            "8.2",
+            "9.5",
+            "9.2",
+            "11.6",
+            "14.9",
+            "11.6",
+            "19.4",
+            "21",
+            "18.3",
+            "22.9",
+            "22.2"
+          ],
+          [
+            "Ordinary income",
+            "2323",
+            "4557",
+            "5425",
+            "6615",
+            "9648",
+            "7293",
+            "7972",
+            "9956",
+            "7961",
+            "11435",
+            "13500"
+          ],
+          [
+            "Profit before tax",
+            "2296",
+            "4526",
+            "5350",
+            "6598",
+            "9472",
+            "5764",
+            "8198",
+            "9866",
+            "7767",
+            "11329",
+            "—"
+          ],
+          [
+            "Net income to owners",
+            "1507",
+            "2667",
+            "3632",
+            "4417",
+            "6495",
+            "4257",
+            "6016",
+            "6757",
+            "5357",
+            "8040",
+            "9379"
+          ],
+          [
+            "Basic EPS (¥)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "104.7",
+            "148",
+            "167.4",
+            "135.1",
+            "202.7",
+            "236.5"
+          ],
+          [
+            "Dividend per share (¥)",
+            "—",
+            "35",
+            "45",
+            "45",
+            "50",
+            "55",
+            "55",
+            "65",
+            "65",
+            "70",
+            "70"
+          ],
+          [
+            "Operating cash flow",
+            "-1448",
+            "5344",
+            "-7436",
+            "1333",
+            "5127",
+            "-6756",
+            "7445",
+            "246",
+            "3263",
+            "7234",
+            "—"
+          ],
+          [
+            "Total assets",
+            "64483",
+            "74134",
+            "82162",
+            "82299",
+            "97278",
+            "101418",
+            "123802",
+            "125897",
+            "148546",
+            "163570",
+            "—"
+          ],
+          [
+            "Equity ratio (%)",
+            "—",
+            "—",
+            "21.4",
+            "24.7",
+            "26",
+            "27.2",
+            "25.4",
+            "26.4",
+            "24.4",
+            "25.3",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>West Holdings reports under Japanese GAAP (J-GAAP) with an August year-end: FY8/26 is the year ended 31 August 2026. The history in this chapter and in Exhibit 1 combines the PL/segment sheet's main window (FY8/22–FY8/26, annual and 20 quarters) with its supplementary history block (FY8/17–FY8/21, annual only), both built from each year's own annual tanshin in the JPX disclosure archive, as originally reported; FY8/17 is taken from the FY8/18 tanshin's comparative columns, the sole surviving source (sheet register S11). All template checks equal zero on historical columns. Figures are ¥mn unless stated.</p>\n<p>The ten years divide into three eras. In the first (FY8/17–FY8/19), revenue more than doubled, from ¥32,753mn to ¥63,904mn, driven by electricity retail inside the electric-power segment (power revenue ¥9,059mn → ¥36,743mn, 57.5% of FY8/19 revenue) alongside FIT-era solar development; operating profit rose from ¥2,685mn to ¥5,864mn but the gross margin compressed from 27.8% to 19.5% as low-margin retail power outgrew everything else. In the second era (FY8/20–FY8/23), COVID-era disruption and then the power-market squeeze cut the gross margin to 21.5% in FY8/22 and operating profit to ¥7,770mn despite revenue of ¥67,169mn; the company provided ¥1,500mn for losses on withdrawal from the electric-power business (extraordinary losses ¥1,529mn in FY8/22; ¥265mn of the provision was reversed into FY8/23 extraordinary income), exited retail, and FY8/23 revenue fell 34.9% to ¥43,734mn while the gross margin stepped up to 35.1% and the operating margin to 19.4%. In the third era (FY8/24–FY8/26), the rebuilt portfolio — solar EPC and non-FIT development, owned-generation power sales, maintenance, and from FY8/25 grid-scale storage — produced operating profit of ¥10,597mn, ¥8,646mn and a record ¥12,992mn; the FY8/25 dip (−18.4%) was a non-FIT delivery-timing year, and FY8/26's record was storage-led (Chapter 5).</p>\n<p>Profitability below the operating line is dominated by financing costs and the tokumei-kumiai (silent-partnership) distribution: non-operating expenses rose from ¥440mn in FY8/17 to ¥1,931mn in FY8/26 as debt funded development inventory, so ordinary income (¥11,435mn in FY8/26) runs persistently below operating profit, and ROE — 20.7% in FY8/26 and 15.4% in FY8/25 as reported in the tanshin headers — is flattered by the thin equity base (equity ratio 21.4–27.2% across the decade, 25.3% at FY8/26). Cash conversion is the weak line of the record: <strong>operating cash flow was −¥7,436mn in FY8/19, −¥6,756mn in FY8/22 and only ¥246mn in FY8/24 against operating profit of ¥5,864mn, ¥7,770mn and ¥10,597mn respectively</strong>, because development inventory (¥13,067mn at FY8/26 on the sheet's definition, and far larger intra-year — ¥26,623mn at FY8/23 Q2) absorbs cash quarters before closings release it. Dividends rose steadily through all three eras — ¥35 (FY8/18) to ¥70 (FY8/26) per share as printed in each year's tanshin (post-split basis where the document states it; 1.3-for-1 splits took effect in March 2020 and March 2021) — with payout ratios of 31–52%. Exhibit 1 (page 1) gives the full KPI table including FY8/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY8/17–FY8/26; FY8/26 tanshin header, 15 October 2026.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "West Holdings Corporation — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/c1.svg",
+          "alt": "West Holdings Corporation — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "West Holdings Corporation — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/c2.svg",
+          "alt": "West Holdings Corporation — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "West Holdings Corporation — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/c3.svg",
+          "alt": "West Holdings Corporation — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "West Holdings Corporation — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/v1.svg",
+          "alt": "West Holdings Corporation — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — FY8/26 results (15 October 2026) and FY8/27 guidance",
+      "level": "part",
+      "html": "<p>West Holdings reported full-year FY8/26 results (1 September 2025–31 August 2026) on 15 October 2026. FY8/27 Q1 (September–November 2026) had not been reported as of this report's date — the Q1 tanshin is expected around January 2027 (third-party calendar estimates differ) — so FY8/26 is the latest completed period and FY8/27 guidance, set in the same release, is the only forward statement. The company publishes no English transcript of its results briefing, and no Q&amp;A record is cited anywhere in this report (see Basis of preparation). This chapter summarises the release; segment detail is in Chapter 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "FY8/26 results (full year, as reported, J-GAAP)",
+      "level": "section",
+      "html": "<p>Revenue was ¥56,649mn (+19.9% YoY), gross profit ¥20,780mn (a 36.7% gross margin, +2.2pt), operating profit ¥12,992mn (+50.3%; margin 22.9%), ordinary income ¥11,435mn (+43.6%), profit before tax ¥11,329mn and net income attributable to owners ¥8,040mn (+50.1%); basic EPS was ¥202.74 (no dilutive securities are presented). Against the company's own initial FY8/26 guidance (FY8/25 tanshin, October 2025: revenue ¥54,460mn, operating profit ¥11,376mn, ordinary income ¥9,676mn, owners' net income ¥6,602mn), <strong>the year beat on every line — revenue +4.0%, operating profit +14.2%, ordinary income +18.2%, owners' profit +21.8% (calculated)</strong>. No revision to FY8/26 guidance is recorded in the sources used for this report (see Basis of preparation).</p>\n<p>The quarterly shape is the single most important fact about this P&amp;L. Standalone quarters (PL/segment sheet, derived as cumulative differences as reported) were: Q1 revenue ¥5,847mn / operating profit ¥137mn; Q2 ¥9,333mn / ¥1,164mn; Q3 ¥14,159mn / ¥3,313mn; Q4 ¥27,310mn / ¥8,378mn. Q4 therefore carried 48.2% of revenue and 64.5% of operating profit, and 70.3% of ordinary income (¥8,036mn of ¥11,435mn). The company states that non-FIT solar projects scheduled for power-supply start from April 2026 slipped past Q3, handovers were accelerated in Q4, and the full year still missed the initial delivery plan (Chapter 3). Any single-quarter read of this company — annualising H1 or Q3 in either direction — is meaningless, a point the interview pack makes its standing warning.</p>\n<p>By segment (external revenue / segment profit, segment note basis — see Chapter 5 for the two-basis warning): renewable energy ¥24,689mn / ¥2,165mn (−24.4% / −52.4% YoY); grid storage ¥21,728mn / ¥8,419mn (+280.4% / +462.1%); energy saving ¥1,007mn / ¥165mn; electric power ¥7,443mn / ¥1,623mn (+20.8% / +2.8%); maintenance ¥1,620mn / ¥358mn. The balance sheet at 31 August 2026: total assets ¥163,570mn (+¥15,023mn YoY), liabilities ¥121,817mn, net assets ¥41,752mn, owners' equity ¥41,342mn, equity ratio 25.3%, book value per share ¥1,042.46. The company attributes the asset growth mainly to cash and deposits (+¥1,795mn), completed-construction receivables (+¥6,707mn), advances paid (+¥3,858mn), land (+¥1,376mn) and investment securities (+¥1,350mn), and the liability growth to borrowings (+¥4,193mn), taxes payable (+¥1,382mn), advances received (+¥1,784mn) and lease obligations (+¥1,140mn). FY8/26 cash flow: operating +¥7,234mn, investing −¥4,533mn, financing −¥1,021mn, closing cash ¥37,502mn. The FY8/26 dividend was ¥70 per share (interim ¥35 + year-end ¥35), a 34.5% payout and 7.2% DOE as reported. During the year the group excluded two subsidiaries, including West O&amp;M, from consolidation (tanshin notes). Source: FY8/26 tanshin [J-GAAP], 15 October 2026; PL/segment sheet (tanshin, JPX archive).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance: set once, on 15 October 2026, and unchanged since — FY8/27 revenue ¥70,412mn, operating profit ¥15,600mn (company guidance)",
+      "level": "section",
+      "html": "<p>Full-year FY8/27 guidance, as published in section 3 of the FY8/26 tanshin on 15 October 2026, is revenue ¥70,412mn (+24.3%), operating profit ¥15,600mn (+20.1%), ordinary income ¥13,500mn (+18.0%), net income attributable to owners ¥9,379mn (+16.6%) and EPS of ¥236.49, with the annual dividend forecast held at ¥70 (interim ¥35 + year-end ¥35; forecast payout 29.6%) — company guidance (会社計画), not a J-Core Fundamental Research forecast. The chain is short and is stated precisely: this is the initial and only setting of FY8/27 guidance; the guidance tracker records zero revisions (verified 17 November 2026), and no subsequent filing has been published — the next print is Q1 FY8/27, expected around January 2027, which for this company is a seasonally tiny quarter whose P&amp;L will say little about the full year. The interview pack notes, as third-party context and not as company disclosure, that analyst consensus operating profit (¥15,850mn, IFIS, 16 October 2026) sits slightly above the guide.</p>\n<p>What the guide requires is visible in Exhibit 3. Segment-level guidance is not disclosed, so the ¥2,608mn of incremental operating profit must be inferred from the company's stated FY8/27 priorities (FY8/26 tanshin outlook section): continued priority allocation of resources to grid-storage development and sales, steady self-consumption EPC order growth, non-FIT development held at a maintained scale under stricter project selection (no new ground-mounted mega-solar development), green-power procurement expansion, and maintenance contract growth including storage O&amp;M. The gating items are the same as FY8/26's: grid-connection study outcomes on the 1,600-plus applied storage sites — now under the per-operator application cap in force since 1 August 2026 — and the Q4-weighted closing calendar. The monitoring questions the print leaves open — what share of guided operating profit is already contracted, the margin on the FY8/27 closing cohort versus FY8/26's 38.7%, and the funding plan against a 25.3% equity ratio — are the interview pack's live debates and are carried into Chapter 7. Exhibit 3 sets out FY8/26 actuals against FY8/27 company guidance. Source: FY8/26 tanshin, 15 October 2026 (section 3 and outlook section); guidance tracker, 17 November 2026.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. FY8/26 results vs FY8/27 company guidance (consolidated and by segment)",
+          "sourceHtml": "FY8/26 actuals: FY8/26 tanshin [J-GAAP], 15 Oct 2026 (segment note, external-revenue basis). FY8/27E: company guidance in the FY8/26 tanshin section 3, 15 Oct 2026 — initial setting, unchanged since (zero revisions; guidance tracker, 17 Nov 2026). Segment-level guidance is not disclosed. Q4 FY8/26 standalone is derived as full year minus 9M cumulative, as reported via the PL/segment sheet.",
+          "kind": "table",
+          "columns": [
+            "¥mn unless stated",
+            "FY8/26 actual",
+            "FY8/27E (co. guidance)",
+            "Implied growth (%)"
+          ],
+          "rows": [
+            [
+              "Revenue",
+              "56649",
+              "70412",
+              "24.3"
+            ],
+            [
+              "Operating profit",
+              "12992",
+              "15600",
+              "20.1"
+            ],
+            [
+              "Ordinary income",
+              "11435",
+              "13500",
+              "18"
+            ],
+            [
+              "Net income to owners",
+              "8040",
+              "9379",
+              "16.6"
+            ],
+            [
+              "Basic EPS (¥)",
+              "202.7",
+              "236.5",
+              "16.6"
+            ],
+            [
+              "Dividend per share (¥)",
+              "70",
+              "70",
+              "0"
+            ],
+            [
+              "Renewable energy — external revenue",
+              "24689",
+              "—",
+              "—"
+            ],
+            [
+              "Renewable energy — segment profit",
+              "2165",
+              "—",
+              "—"
+            ],
+            [
+              "Grid storage — external revenue",
+              "21728",
+              "—",
+              "—"
+            ],
+            [
+              "Grid storage — segment profit",
+              "8419",
+              "—",
+              "—"
+            ],
+            [
+              "Energy saving — external revenue",
+              "1007",
+              "—",
+              "—"
+            ],
+            [
+              "Energy saving — segment profit",
+              "165",
+              "—",
+              "—"
+            ],
+            [
+              "Electric power — external revenue",
+              "7443",
+              "—",
+              "—"
+            ],
+            [
+              "Electric power — segment profit",
+              "1623",
+              "—",
+              "—"
+            ],
+            [
+              "Maintenance — external revenue",
+              "1620",
+              "—",
+              "—"
+            ],
+            [
+              "Maintenance — segment profit",
+              "358",
+              "—",
+              "—"
+            ],
+            [
+              "Memo: Q4 FY8/26 standalone revenue",
+              "27310",
+              "—",
+              "—"
+            ],
+            [
+              "Memo: Q4 FY8/26 standalone operating profit",
+              "8378",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>West Holdings is a solar-centred developer-operator: it develops, designs, builds, owns, operates and maintains renewable-energy plants, and since FY8/25 develops and sells grid-scale battery storage. The group reports five segments from FY8/25 — renewable energy, grid storage, energy saving, electric power and maintenance — plus a small 'Other' (environmental-value/J-credit trading, placed in Other from FY8/26). Segment profit is operating profit before corporate adjustments. The FY8/25 revenue decomposition in the segment note shows the business model concretely: renewable energy = industrial solar EPC ¥12,644mn + non-FIT plant development ¥17,402mn + mega-solar (WEST FIT) ¥1,491mn + other revenue ¥1,130mn; electric power = green-power wholesale ¥1,547mn + sales from owned plants ¥4,613mn; maintenance = comprehensive management and O&amp;M contracts ¥1,551mn (external basis). Flow revenue (EPC, development sales, storage sales) dominates; stock revenue (own-generation sales, ESCO, maintenance) is the smaller, steadier base the strategy aims to grow.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Renewable energy: self-consumption EPC and non-FIT development",
+      "level": "section",
+      "html": "<p>The legacy core has two engines. The industrial solar EPC business builds self-consumption plants for corporate customers — a model that does not depend on FIT tariffs or subsidies — sold on decarbonisation and power-cost savings; the company reports orders and completions both firm in FY8/26 as carbon-neutral programmes spread from TSE Prime customers into their supply chains, widening the prospect base. The non-FIT development business develops ground-mounted plants whose power is sold under corporate PPA-type arrangements: FY8/26 deliveries concentrated on projects supplying power from April 2026, ran below plan through Q3, were accelerated in Q4, and still missed the initial full-year plan, with profitability down on some projects; the company states development requirements are tightening (hazard conditions, local-environment consideration, municipal consultation as extreme weather intensifies), that it now selects projects more cautiously, and that ground-mounted mega-solar is handled only for already-prepared projects — no new development. External revenue was ¥35,963mn / ¥35,605mn / ¥41,949mn / ¥32,668mn / ¥24,689mn across FY8/22–FY8/26 with segment profit of ¥5,318mn / ¥8,284mn / ¥4,546mn / ¥2,165mn in FY8/23–26 (FY8/22 annual segment profit is not carried in the PL/segment sheet — see Basis of preparation); the margin compressed from 19.7% in FY8/24 to 8.8% in FY8/26 as development mix and project profitability deteriorated. Source: FY8/26 tanshin qualitative section and segment note, 15 October 2026; PL/segment sheet.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Grid storage (from FY8/25): the new first pillar",
+      "level": "section",
+      "html": "<p>The grid-storage business develops and sells grid-scale battery storage plants （系統用蓄電所） — the assets that absorb renewable output variability and stabilise supply and demand. It was launched in earnest in FY8/25 ('本格着手', company wording) and split out as a reportable segment in the FY8/25 annual tanshin; there is no FY8/24 comparative (the FY8/25 document's comparative column is nil — the business began in FY8/25). FY8/25: revenue ¥5,711mn, segment profit ¥1,498mn (26.2% margin). FY8/26: revenue ¥21,728mn (+280.4%), segment profit ¥8,419mn (+462.1%), a 38.7% margin — the group's largest profit source in its second year. <strong>The scarce input is not batteries but grid access: connection-study applications exceeded 1,600 sites at August 2026</strong>, with studies progressing with general transmission and distribution operators in every utility region. Two qualifications frame the growth: from 1 August 2026 a new operating rule caps the number of connection studies per operator, so the company says it will now scrutinise the existing pipeline for connectability and project viability rather than simply add applications; and the company is extending the model from pure flow (develop and sell) toward stock — special high-voltage storage developed on land of its own solar plants, held and operated, plus post-sale maintenance contracts. No order, backlog or per-project margin disclosure exists for the segment (未取得). Source: FY8/26 tanshin qualitative section and segment note, 15 October 2026; PL/segment sheet register S3.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Energy saving, electric power and maintenance: the stock-revenue base",
+      "level": "section",
+      "html": "<p>Energy saving is the ESCO business: total energy services to commercial facilities, factories and hospitals, financed through partner financial institutions so customers bear no upfront cost (the 'West ESCO' model) — LED lighting contracts earn over 5–7 years and air-conditioning over 10–12 years, a stock-type model whose revenue is now declining as earlier LED contracts reach maturity (revenue ¥2,214mn in FY8/21 → ¥1,007mn in FY8/26; segment profit ¥165mn, a 16.4% margin). The company is preparing new energy-saving products and cross-selling to its solar customer base. Electric power, rebuilt after the FY8/22–23 retail exit, comprises green-power wholesale (procurement from non-FIT plants, ¥1,547mn in FY8/25; some non-FIT plants face grid-connection delays that shift procurement growth) and sales of power from the group's own plants (¥4,613mn in FY8/25; FY8/26 generation ran broadly to plan with no major weather impact): revenue ¥7,443mn and segment profit ¥1,623mn in FY8/26 (+20.8% / +2.8% — volume growth without margin growth is an interview-pack question). Maintenance provides O&amp;M for solar plants the group has built: contracted capacity rose from 1,417.5MW at FY8/25-end to 1,579.8MW at FY8/26-end, and storage O&amp;M contracts are being added after storage sales — the cleanest observable of the stock-revenue build. Its external revenue was ¥1,620mn with segment profit of ¥358mn in FY8/26 (the tanshin's qualitative section states ¥1,891mn including intersegment transactions — see Basis of preparation). Source: FY8/26 tanshin qualitative section and segment note, 15 October 2026; PL/segment sheet.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>West Holdings sits in the development layer of Japan's renewable-energy value chain: it originates sites and grid-connection rights, designs and procures (panels, PCS, batteries), builds, and then either sells the plant (flow revenue: EPC for self-consumption customers, non-FIT development sales, storage sales) or holds and operates it (stock revenue: power sales, ESCO, O&amp;M). <strong>Its scarce assets are development know-how, the connection queue, and the installed base it maintains</strong>. Demand drivers are policy- and grid-shaped rather than GDP-shaped: the 2050 carbon-neutral commitment and renewables' promotion to main-power-source status, corporate decarbonisation and green-power procurement (including AI-driven demand growth from data centres and semiconductor plants, which the company cites in its FY8/27 outlook), and — for storage — the grid-stability need created by renewables penetration itself, including output-curtailment absorption. The FIT era that built the industry is over; growth is in non-FIT self-consumption, corporate PPAs and storage, which is exactly where the company has repositioned.</p>\n<p>Competition and barriers follow the same logic. In development, the binding constraint is grid connection: the queue position embodied in 1,600-plus study applications is a real, time-built asset, and the August 2026 per-operator cap on new studies raises the value of incumbents' pipelines while capping their growth — a two-sided rule change this report flags rather than resolves. In self-consumption EPC, competition is against other solar EPC and energy-service providers for corporate customers, where West's installed base and maintenance relationship support cross-selling (ESCO, storage). In storage development and sales, the buyers are funds and operators assembling storage portfolios; the interview pack's open question — who else is winning connection slots in West's regions and whether storage-site land prices are inflating — is the right competitive test, and no company-disclosed market-size or market-share figure for any of these markets is carried in the sources used here, so none is substituted (未取得). The substitute risks are margin compression as storage developers multiply, battery-cell price and procurement shifts, and policy or grid-rule changes of the August 2026 type. What can be verified from disclosure is narrower and is what this report relies on: segment revenue and profit as reported, the application count, contracted maintenance capacity, and the company's own statements of pipeline scrutiny. Sources: FY8/26 tanshin qualitative and outlook sections, 15 October 2026; interview pack, 16 November 2026.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "West Holdings in the renewable-energy value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (renewable generation equipment value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/d1.svg",
+          "alt": "West Holdings in the renewable-energy value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Segment disclosure is the heart of this equity story, and it comes in two bases that this report never splices: four reportable segments through FY8/24, and five from FY8/25 when grid storage was split out. A second basis warning applies inside the FY8/26 tanshin itself: the qualitative section's segment revenue includes intersegment transactions, while the segment note's external-revenue basis is what the PL/segment sheet carries and what Exhibit 2 uses (differences flagged in Chapter 9). Regional disclosure does not exist: the group operates domestically and presents no regional breakdown in the tanshin (sheet register S4).</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 6",
+          "titleHtml": "West Holdings Corporation — segment revenue, FY8/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/c4.svg",
+          "alt": "West Holdings Corporation — segment revenue, FY8/26"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 7",
+          "titleHtml": "West Holdings Corporation — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/v2.svg",
+          "alt": "West Holdings Corporation — segment revenue by year"
+        },
+        {
+          "id": "v3",
+          "number": "Figure 8",
+          "titleHtml": "West Holdings Corporation — segment revenue mix, FY8/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-west-holdings-initiation-47/v3.svg",
+          "alt": "West Holdings Corporation — segment revenue mix, FY8/26"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Business segments: two bases, never spliced — four segments to FY8/24, five from FY8/25",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the history on each period's own disclosed basis. On the four-segment basis (FY8/17–FY8/24; history block FY8/17–21 plus main window FY8/22–24), the story is the power segment's rise and removal: power revenue of ¥36,743mn in FY8/19 (segment profit ¥1,856mn, a 5.1% margin — retail volume at thin margin) against renewable energy's ¥24,578mn (¥2,945mn, 12.0%); by FY8/24, post-exit, renewable earned ¥8,284mn at a 19.7% margin and power, rebuilt around owned generation, ¥1,668mn at 32.1%. Energy saving peaked in FY8/21 (¥2,214mn / ¥926mn) and has shrunk since; maintenance grew steadily from ¥722mn (FY8/17) to ¥1,616mn (FY8/24). FY8/22 annual segment profit by segment is not carried in the PL/segment sheet (shown as not disclosed / — in Exhibit 2; see Basis of preparation).</p>\n<p>On the five-segment basis (FY8/25–FY8/26), profit concentration flipped in one year. In FY8/25 the five segments earned ¥8,562mn before Other and adjustments: renewable ¥4,546mn, power ¥1,579mn, storage ¥1,498mn, maintenance ¥622mn, energy saving ¥316mn. In FY8/26 they earned ¥12,730mn, of which storage alone was ¥8,419mn (66.1% of the five-segment total; 64.8% of consolidated operating profit of ¥12,992mn after Other — J-credit trading of ¥160mn, new in FY8/26 — and adjustments). <mark>Storage's 38.7% margin against renewable's 8.8% is the whole investment debate in two numbers: if storage margins are a scarcity rent on connection rights, group profitability mean-reverts as the queue clears and rivals connect; if they are a development-capability rent, the pipeline (1,600-plus applications) is a multi-year earnings base</mark>. The disclosed evidence cannot yet distinguish the two — the FY8/27 closing cohort's margin, asked for directly in the interview pack, is the first discriminating data point. Source: company results via PL/segment sheet (tanshin, JPX archive), segment notes; FY8/26 tanshin segment note, 15 October 2026.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Business segments — external revenue and segment profit (operating-profit basis), on each period's own disclosed basis",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), segment note, external-revenue basis. Four-segment basis FY8/17–FY8/24 (history block FY8/17–21; main window FY8/22–24): grid storage is inside the era's renewable-energy presentation and is not separated. Five-segment basis from FY8/25: grid storage split out (no FY8/24 comparative — the business began in FY8/25). The two bases are never spliced. FY8/22 annual segment profit by segment is not carried in the sheet (n.a.) — see Basis of preparation. Other (non-reportable) sales were ¥1mn / ¥4mn / ¥2mn / ¥0mn / ¥1mn in FY8/17–21 and ¥160mn (J-credit trading) in FY8/26, inside the adjustment rows of the sheet.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY8/17",
+            "FY8/18",
+            "FY8/19",
+            "FY8/20",
+            "FY8/21",
+            "FY8/22",
+            "FY8/23",
+            "FY8/24",
+            "FY8/25",
+            "FY8/26"
+          ],
+          "rows": [
+            [
+              "Renewable energy — external revenue",
+              "22280",
+              "24130",
+              "24578",
+              "28094",
+              "34314",
+              "35963",
+              "35605",
+              "41949",
+              "32668",
+              "24689"
+            ],
+            [
+              "Renewable energy — segment profit",
+              "2061",
+              "4248",
+              "2945",
+              "3400",
+              "4877",
+              "—",
+              "5318",
+              "8284",
+              "4546",
+              "2165"
+            ],
+            [
+              "Energy saving — external revenue",
+              "689",
+              "1232",
+              "1641",
+              "1972",
+              "2214",
+              "1945",
+              "1831",
+              "1622",
+              "1156",
+              "1007"
+            ],
+            [
+              "Energy saving — segment profit",
+              "-439",
+              "40",
+              "513",
+              "627",
+              "926",
+              "—",
+              "532",
+              "385",
+              "316",
+              "165"
+            ],
+            [
+              "Electric power — external revenue",
+              "9059",
+              "26357",
+              "36743",
+              "30766",
+              "30208",
+              "27854",
+              "4739",
+              "5199",
+              "6161",
+              "7443"
+            ],
+            [
+              "Electric power — segment profit",
+              "730",
+              "370",
+              "1856",
+              "2070",
+              "2762",
+              "—",
+              "2005",
+              "1668",
+              "1579",
+              "1623"
+            ],
+            [
+              "Maintenance — external revenue",
+              "722",
+              "784",
+              "938",
+              "1113",
+              "1200",
+              "1404",
+              "1556",
+              "1616",
+              "1551",
+              "1620"
+            ],
+            [
+              "Maintenance — segment profit",
+              "276",
+              "320",
+              "317",
+              "396",
+              "291",
+              "—",
+              "492",
+              "633",
+              "622",
+              "358"
+            ],
+            [
+              "Grid storage — external revenue (from FY8/25)",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "5711",
+              "21728"
+            ],
+            [
+              "Grid storage — segment profit (from FY8/25)",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "1498",
+              "8419"
+            ],
+            [
+              "Consolidated operating profit",
+              "2685",
+              "4974",
+              "5864",
+              "7180",
+              "10148",
+              "7770",
+              "8499",
+              "10597",
+              "8646",
+              "12992"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions: domestic only — no regional disclosure (未取得)",
+      "level": "section",
+      "html": "<p>West Holdings operates in Japan only and discloses no regional sales or profit split in the tanshin; the PL/segment sheet's regions block is empty by design (register S4) and this report presents no regional figures. The only geographic colour in the sources is operational: grid-connection studies for storage are progressing with general transmission and distribution operators in every utility service area nationwide (FY8/26 tanshin), and maintenance and development activity follows the group's solar installed base across Japan. Regional profit is not disclosed on any basis. Source: PL/segment sheet register S4; FY8/26 tanshin, 15 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive); FY8/17–FY8/21 from the sheet's supplementary history block. Income statement: sales ¥32,753mn / ¥52,509mn / ¥63,904mn / ¥61,947mn / ¥67,938mn / ¥67,169mn / ¥43,734mn / ¥50,390mn / ¥47,250mn / ¥56,649mn for FY8/17–FY8/26; cost of sales ¥23,664mn / ¥40,653mn / ¥51,413mn / ¥48,256mn / ¥51,278mn / ¥52,725mn / ¥28,378mn / ¥31,868mn / ¥30,958mn / ¥35,869mn; gross profit ¥9,089mn / ¥11,856mn / ¥12,491mn / ¥13,691mn / ¥16,660mn / ¥14,444mn / ¥15,356mn / ¥18,522mn / ¥16,292mn / ¥20,780mn (margins 27.8% / 22.6% / 19.5% / 22.1% / 24.5% / 21.5% / 35.1% / 36.8% / 34.5% / 36.7% — the FY8/23 step-up is the power-retail exit, not pricing); SG&amp;A ¥6,404mn / ¥6,882mn / ¥6,627mn / ¥6,511mn / ¥6,512mn / ¥6,674mn / ¥6,857mn / ¥7,925mn / ¥7,646mn / ¥7,788mn (a remarkably flat line — SG&amp;A was lower in FY8/26 than in FY8/24 despite revenue 12% higher); operating profit ¥2,685mn / ¥4,974mn / ¥5,864mn / ¥7,180mn / ¥10,148mn / ¥7,770mn / ¥8,499mn / ¥10,597mn / ¥8,646mn / ¥12,992mn. Below operating profit: net non-operating expense widened from −¥362mn (FY8/17) to −¥1,557mn (FY8/26) on interest as debt grew; ordinary income ¥2,323mn / ¥4,557mn / ¥5,425mn / ¥6,615mn / ¥9,648mn / ¥7,293mn / ¥7,972mn / ¥9,956mn / ¥7,961mn / ¥11,435mn. Extraordinary items are episodic and informative: FY8/22 losses of ¥1,529mn are dominated by the ¥1,500mn electric-power-business withdrawal provision; FY8/23 income of ¥265mn is that provision's partial reversal. The tokumei-kumiai profit distribution (¥38–40mn a year) is presented between ordinary income and pre-tax income in the tanshin and is mapped into the sheet's extraordinary-losses row so identities hold (register S6) — it is not an extraordinary loss in substance. Profit before tax ¥2,296mn / ¥4,526mn / ¥5,350mn / ¥6,598mn / ¥9,472mn / ¥5,764mn / ¥8,198mn / ¥9,866mn / ¥7,767mn / ¥11,329mn; net income attributable to owners ¥1,507mn / ¥2,667mn / ¥3,632mn / ¥4,417mn / ¥6,495mn / ¥4,257mn / ¥6,016mn / ¥6,757mn / ¥5,357mn / ¥8,040mn. Depreciation was ¥1,432mn / ¥2,168mn / ¥2,093mn / ¥2,576mn / ¥2,832mn in FY8/22–26, giving an EBITDA proxy (operating profit + D&amp;A, calculated) of ¥9,202mn / ¥10,667mn / ¥12,690mn / ¥11,222mn / ¥15,824mn.</p>\n<p>Balance sheet (31 August 2026, J-GAAP): total assets ¥163,570mn; total liabilities ¥121,817mn; net assets ¥41,752mn, of which owners' equity ¥41,342mn (equity ratio 25.3%; book value per share ¥1,042.46). Total assets grew from ¥64,483mn (FY8/17) through ¥101,418mn (FY8/22) and ¥148,546mn (FY8/25) — growth funded mainly by debt: interest-bearing debt on the sheet's definition (borrowings and bonds as presented) was ¥38,456mn / ¥53,774mn / ¥59,065mn / ¥78,254mn / ¥75,335mn / ¥94,121mn / ¥98,265mn at FY8/17 / FY8/21 / FY8/22 / FY8/23 / FY8/24 / FY8/25 / FY8/26, against cash and equivalents of ¥37,502mn at FY8/26 — net debt of about ¥60,763mn (calculated), 1.47x owners' equity. Inventory (development assets and merchandise as presented) was ¥13,067mn at FY8/26 year-end but is violently seasonal (¥18,525mn at FY8/26 Q2; ¥32,871mn at FY8/22 Q3). Cash flow: operating cash flow −¥1,448mn / +¥5,344mn / −¥7,436mn / +¥1,333mn / +¥5,127mn / −¥6,756mn / +¥7,445mn / +¥246mn / +¥3,263mn / +¥7,234mn across FY8/17–FY8/26 (own-year basis — later documents' comparatives reclassify operating/investing amounts; see Basis of preparation); FY8/26 investing outflow was ¥4,533mn and financing outflow ¥1,021mn; capex (PP&amp;E + intangibles per the CF statement) was ¥3,967mn in FY8/26. Per-share data: basic EPS (as calculated in the sheet from reported owners' profit and weighted shares; FY8/26 agrees with the tanshin's ¥202.74) ¥104.69 / ¥147.95 / ¥167.44 / ¥135.08 / ¥202.73 for FY8/22–26; dividends per share ¥55 / ¥55 / ¥65 / ¥65 / ¥70 (payout 52.5% / 37.2% / 38.8% / 48.1% / 34.5% as reported). Shares issued: 46,027,488, of which 6,368,438 in treasury at 31 August 2026; weighted average shares 39,659,137. Not disclosed in the tanshin and therefore not presented here: order intake and backlog, R&amp;D expenditure, employees, unit volumes, capacity and utilisation (register S8). Source: company results via PL/segment sheet (tanshin, JPX archive); FY8/26 tanshin, 15 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and shareholder returns",
+      "level": "part",
+      "html": "<p>The company's stated strategy (FY8/26 tanshin outlook section) is to concentrate management resources on grid-storage development and sales as the growth driver — positioned as the group's 'third pillar' alongside self-consumption EPC and non-FIT development — while converting part of the flow model into stock revenue: special high-voltage storage developed on its own solar-plant land and held for operation, storage maintenance contracts after sale, green-power procurement and own-generation sales in electric power, ESCO cross-selling in energy saving, and maintenance capacity growth. Non-FIT development is explicitly capped in ambition: projects are selected cautiously for long-term stability and community coexistence, at a maintained scale, and no new ground-mounted mega-solar development is undertaken. No dated, quantified mid-term plan was located in the sources used (未取得) — FY8/27 company guidance is the only quantified forward statement, and this report does not embellish it. Shareholder returns: the dividend has risen from ¥35 (FY8/18) to ¥70 (FY8/26) and is forecast at ¥70 for FY8/27 (company forecast; payout 29.6% on guided EPS, DOE 7.2% in FY8/26 as reported); no buyback is recorded in the periods covered here.</p>\n<p>The monitoring set, in the order the data arrives: Q1 FY8/27 (around January 2027) — read the pipeline, not the P&amp;L: storage segment cumulative revenue/profit, any disclosure of contracted-but-unclosed projects, development inventory and debt versus FY8/26-end, and maintenance contracted capacity versus 1,579.8MW; H1 FY8/27 (around April 2027) — connection-study progress on the 1,600-plus applications under the per-operator cap, and whether the company begins quantifying the storage pipeline funnel (applications → approvals → closings); the FY8/27 closing calendar — whether Q4 concentration worsens or eases versus FY8/26's 64.5% of operating profit; the storage margin on the FY8/27 closing cohort versus 38.7%; and the funding line — equity ratio and net debt against the build-out, including any equity raise, which the interview pack puts to management directly. All forward figures in this chapter are company guidance or company-stated direction, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY8/26 tanshin outlook section, 15 October 2026; interview pack, 16 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>Company and listing. West Holdings Corporation (株式会社ウエストホールディングス), TSE Standard (third-party listing data; the tanshin header states Tokyo Stock Exchange), code 1407; company URL www.west-gr.co.jp as printed in the tanshin. The group's history is not set out in the tanshin used for this report and a founding history is therefore not presented (not disclosed in the sources used); the operating history visible in the financial record is the three-era arc of Chapter 1 — FIT-era solar and electricity-retail expansion to FY8/19, the FY8/22–23 power-retail exit, and the FY8/25 storage launch. In FY8/26 two subsidiaries, including West O&amp;M, were excluded from the scope of consolidation (FY8/26 tanshin notes).</p>\n<p>Management. Representative Director and President: Eiichiro Egashira (江頭 栄一郎) — named in that role in the FY8/26 tanshin header, 15 October 2026. The inquiry contact in the tanshin is Kenji Araki (荒木 健二), Representative Director and Senior Managing Director. Shares issued: 46,027,488 at FY8/26 year-end, with treasury shares of 6,368,438.</p>\n<p>Major shareholders. Not disclosed in the tanshin and not carried in the sources used for this report — 未取得 (the register is disclosed in the securities report, which is outside this report's source set); no third-party register is substituted.</p>\n<p>Employees and other data. Consolidated headcount is not disclosed in the tanshin (PL/segment sheet register S8) and is not presented — 未取得. Maintenance contracted capacity, the closest disclosed operating stock, was 1,579.8MW at 31 August 2026 (1,417.5MW a year earlier).</p>\n<p>Shareholder returns. Dividends per share rose from ¥35 (FY8/18) to ¥45 (FY8/19–20), ¥50 (FY8/21), ¥55 (FY8/22–23), ¥65 (FY8/24–25) and ¥70 (FY8/26), and the FY8/27 forecast is ¥70 (interim ¥35 + year-end ¥35) — company forecast; payout ratios as reported were 52.5% in FY8/22, 48.1% in FY8/25 and 34.5% in FY8/26, with DOE of 7.2% in FY8/26. The FY8/27 forecast dividend implies a 3.6% yield at ¥1,919 (calculated).</p>\n<p>Market data. The shares closed at ¥1,919 on 16 November 2026 (Finnhub; corroborated by StockAnalysis.com), giving a market capitalisation of about ¥76.1bn (calculated from the cited price and the 39.66mn shares excluding treasury at August 2026; StockInvest.us shows ¥76.106bn). The 52-week range was ¥1,294 (21 November 2025) to ¥3,270 (27 May 2026) (Finnhub) — the shares had therefore fallen about 41% from the May 2026 peak into mid-November, including a sharp fall around the FY8/26 release (the stock closed at ¥2,263 on 15 October 2026, the results day, after intraday volatility — third-party price history). At ¥1,919 the shares trade at 9.5x FY8/26 basic EPS of ¥202.74, 8.1x FY8/27 company-guidance EPS of ¥236.49, and 1.84x FY8/26 book value per share of ¥1,042.46 (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q1 FY8/27 tanshin, expected around January 2027 (third-party calendar estimates differ: StockInvest.us 8 January 2027, Finnhub 12 January 2027).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials and segment data are taken from the PL/segment sheet for West Holdings (1407) (J-GAAP template; August year-end; main window FY8/22–FY8/26 annual plus 20 quarters, and supplementary history block FY8/17–FY8/21 annual; ¥mn), built from the company's tanshin in the JPX disclosure archive with all historical template checks equal to zero (rollout log batch 6b, history wave H7, and the two 2026-11-17 corrections below; sheet register S1–S16). The folder's final sheet (MD5 f2a214cc…, incorporating the history deepening and both corrections) was used, with values recalculated via LibreOffice for this report; the older recalc copy in the sheet folder's recalc/ subfolder predates the corrections and was not used for figures. FY8/26 detail (guidance, balance-sheet commentary, segment qualitative text, per-share and dividend data) is from the FY8/26 tanshin [J-GAAP] dated 15 October 2026; FY8/26 initial guidance for the beat/miss comparison is from the FY8/25 tanshin (October 2025). The interview pack for 1407 (16 November 2026) is used for the debate framing and monitoring questions; its segment figures derive from a secondary (Minkabu) summary of the tanshin and differ from the segment note on the two lines flagged below. The guidance tracker (17 November 2026) verifies the FY8/27 guidance chain. Market data are from Finnhub and StockAnalysis.com as returned by web search on 17 November 2026 and are cited with dates in the text. The company publishes no English transcript for 1407 in the programme's transcript library, and no Q&amp;A is cited. GAAP basis: J-GAAP (Japanese GAAP) throughout — every tanshin used is 〔日本基準〕（連結）, and the FY8/26 tanshin states the group's policy of preparing consolidated statements under Japanese GAAP for the time being.</p>\n<p>Discrepancies and basis breaks flagged (not silently resolved). (1) Segment basis change: four reportable segments through FY8/24; grid storage （蓄電所事業） split out as a fifth from FY8/25, with no FY8/24 comparative (nil in the FY8/25 document — the business began in FY8/25). The two bases are presented in separate labelled blocks in Exhibit 2 and Chapter 5 and are never spliced; in the deepened years the storage business is inside the era's renewable-energy presentation and is not separated. (2) Segment revenue basis inside the FY8/26 tanshin: the qualitative section's segment revenue includes intersegment transactions (renewable energy ¥24,756mn; maintenance ¥1,891mn), while the segment note's external-revenue basis — used by the sheet and this report — is ¥24,689mn and ¥1,620mn; segment profit is identical on both bases. The interview pack follows the qualitative basis (via its secondary source) and therefore differs from this report on those two revenue lines only. (3) Operating cash flow restatements: later tanshin comparatives reclassify amounts between operating and investing cash flow (FY8/22 OCF is −¥6,756mn in its own tanshin but −¥4,858mn in the FY8/23 document; FY8/23 ¥7,445mn vs ¥7,345mn; FY8/24 ¥246mn vs ¥495mn; FY8/18 ¥5,344mn vs ¥5,225mn). This report uses each year's own-tanshin figure throughout (sheet register S15). (4) Sheet corrections applied 2026-11-17 and incorporated in the figures used here: the main block's operating-cash-flow row originally held CF-statement page numbers (11 for every annual year) due to a parser defect — corrected from each year's own CF statement (register S15); receivables and payables rows held exactly 2x the balance-sheet line in 35 cells (overlapping pattern match) — corrected to the reported line (register S16). (5) FY8/22 annual segment profit by segment is not carried in the PL/segment sheet (the Segments tab shows n.a.; only fragmentary quarterly cells exist) although the FY8/22 tanshin segment note is the underlying source — a programme data gap, flagged here and shown as — in Exhibit 2, not a company non-disclosure. (6) FY8/18 total assets: ¥74,134mn as reported in the FY8/18 tanshin's balance sheet, versus ¥73,796mn as the comparative in the FY8/19 tanshin header; the own-year figure is used and the ¥338mn difference is not explained in the sources used. (7) Per-share history: 1.3-for-1 stock splits took effect on 1 March 2020 and 1 March 2021; later documents restate comparative per-share figures onto the post-split basis while earlier documents do not, so EPS is shown in Exhibit 1 only from FY8/22 (where the basis is consistent) and earlier years' printed EPS is not spliced into the series; dividend-per-share figures are as printed in each year's own tanshin, which the documents state are on the post-split basis for the affected years. (8) FY8/26 'Other': environmental-value (J-credit) trading was placed in the non-reportable Other category from FY8/26 (sales and profit of ¥160mn each per the qualitative section); in the sheet it sits inside the adjustment rows, which is why FY8/26's sales adjustment (¥162mn) is larger than the ≤¥4mn rounding residuals of earlier years. (9) FY8/26 guidance revisions during FY8/26: no revision is recorded in the sources used (interview pack and sheet register), and the beat/miss comparison in Chapter 2 is made against the initial guidance in the FY8/25 tanshin — flagged as 未検証 beyond those sources. (10) Interview pack versus tanshin on operating stocks: the pack's maintenance capacity (1,497.1MW) is the H1 FY8/26 figure and its storage application count ('exceeded 1,000 sites') is H1 colour; the FY8/26 tanshin's year-end figures (1,579.8MW; over 1,600 applications) are used in this report.</p>\n<p>Conventions and gaps. Fiscal years are labelled by the August year-end (FY8/27 = year ending 31 August 2027). 'Company guidance' means the company's published forecasts (会社計画); this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — regional sales and profit (domestic only), order intake and backlog, R&amp;D expenditure, employees, unit volumes, production capacity and utilisation, segment-level guidance, and a dated quantified mid-term plan — are described as not disclosed / 未取得 rather than estimated; major shareholders and founding history are likewise not in this report's source set and are marked 未取得 in Chapter 8. KPI history in this report covers ten years (FY8/17–FY8/26) from the PL/segment sheet, matching the Shared Research reference span.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; strategy and shareholder returns; other information) and adds the Editor's rating rail.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
