@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "editorReportId": 58,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Results Review",
+  "dateDisplay": "2026年11月18日",
+  "dateISO": "2026-11-18",
+  "sectorLine": "Global Equity Research",
+  "companyName": "NVIDIA Corporation (NVDA)",
+  "headlineHtml": "Q3 FY27: <strong>revenue US$115.8bn beats the guide by 7%; Q4 guided to US$130bn as Vera Rubin ships</strong> — margins step down, China stays at zero",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "US$125.5",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "US$3.52tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "Q3 FY27 revenue",
+      "value": "US$115.8bn, +103% YoY",
+      "asOf": ""
+    },
+    {
+      "label": "Data Center revenue",
+      "value": "US$107.6bn (93% of sales)",
+      "asOf": ""
+    },
+    {
+      "label": "GAAP gross margin",
+      "value": "74.8%",
+      "asOf": ""
+    },
+    {
+      "label": "Non-GAAP EPS",
+      "value": "US$2.68",
+      "asOf": ""
+    },
+    {
+      "label": "Q4 FY27 guidance",
+      "value": "Revenue US$130bn ±3%",
+      "asOf": ""
+    },
+    {
+      "label": "Next event",
+      "value": "Permanent CEO search — no date set",
+      "asOf": ""
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Under review:",
+  "ledeHtml": "We keep our rating and price target for NVIDIA under review, as set on 12 Nov following the resignation of founder-CEO Jensen Huang. The Q3 FY27 print re-anchors the story on fundamentals — <strong>a 7% revenue beat against the company's own guide and a Q4 outlook above consensus</strong> — but the succession question is untouched by it, and the first formal outlook under interim CEO Colette Kress carries a gross-margin step-down that the market will interrogate.",
+  "bullets": [
+    {
+      "leadHtml": "Beat on every line.",
+      "html": "<strong>Q3 FY27 revenue was US$115.8bn (+103% YoY, +20% QoQ) against company guidance of US$108.0bn ±2%</strong> and Bloomberg consensus of ~US$109.1bn. GAAP gross margin of 74.8% beat the 74.0% ±50bp guide; non-GAAP EPS of US$2.68 compares with US$2.47 expected; GAAP net income was US$65.3bn."
+    },
+    {
+      "leadHtml": "Data Center did the work — and the mix broadened.",
+      "html": "Data Center revenue reached US$107.6bn (+110% YoY), 93% of total sales. Within it, Hyperscale was US$60.1bn (+71% YoY) while <strong>AI Clouds, Industrial and Enterprise reached US$47.5bn (+195% YoY) — the non-hyperscaler book is now growing nearly three times as fast</strong>. Edge Computing contributed US$8.2bn (+42%)."
+    },
+    {
+      "leadHtml": "Q4 guided up on revenue, down on margin.",
+      "html": "Q4 FY27 revenue is guided to US$130.0bn ±3% versus ~US$125.3bn LSEG consensus, helped by an additional week in the quarter. <strong>GAAP and non-GAAP gross margin are guided to 71.0–72.0%, a step-down of roughly 3 points from Q3's 74.8%</strong> as Vera Rubin systems ramp. The outlook again assumes zero Data Center compute revenue from China; Q3 itself included US$2.4bn of Hopper shipments to China."
+    },
+    {
+      "leadHtml": "Rubin is shipping; commitments jumped.",
+      "html": "Vera Rubin NVL72 systems began shipping in the quarter, which management called the fastest product ramp in the company's history. <strong>Supply commitments rose to US$390bn from US$279bn in Q2</strong>, mainly multi-year memory procurement; total future commitments stood at US$518bn at quarter end."
+    },
+    {
+      "leadHtml": "First print under Kress; succession still open.",
+      "html": "This was the first earnings release under interim CEO Colette Kress, who also remains CFO. <strong>The release refers to an ongoing search and names no candidate</strong>. Shares rose briefly by more than 4% in after-hours trade."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Q3 FY27 results and Q4 outlook versus guide and consensus",
+        "sourceHtml": "Company release, 17 Nov 2026; consensus: Bloomberg via Yahoo Finance (revenue, EPS), LSEG via Reuters (Q4 revenue).",
+        "kind": "table",
+        "columns": [
+          "US$bn unless stated",
+          "Guide / consensus",
+          "Actual / guide"
+        ],
+        "rows": [
+          [
+            "Q3 revenue",
+            "108.0 ±2% / ~109.1 cons.",
+            "115.8"
+          ],
+          [
+            "Q3 Data Center revenue",
+            "—",
+            "107.6"
+          ],
+          [
+            "Q3 GAAP gross margin",
+            "74.0% ±50bp",
+            "74.8%"
+          ],
+          [
+            "Q3 non-GAAP EPS (US$)",
+            "2.47 cons.",
+            "2.68"
+          ],
+          [
+            "Q4 revenue",
+            "~125.3 cons.",
+            "130.0 ±3%"
+          ],
+          [
+            "Q4 gross margin",
+            "—",
+            "71.0–72.0%"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "Results versus guidance and consensus",
+      "level": "section",
+      "html": "<p>NVIDIA reported Q3 FY27 (quarter ended 25 Oct 2026) after the US close on Tue 17 Nov. <strong>Revenue of US$115.8bn came in 7.2% above the midpoint of the company's own guidance and about 6% above Bloomberg consensus</strong>; the beat was broad, with gross margin and EPS also ahead (Figure 1). Sequential growth of 20% on a US$96.2bn base quarter is, in absolute terms, an increment of roughly US$19.6bn in one quarter.</p>\n<p>The quality of the beat matters more than its size. Gross margin expanded to 74.8% GAAP (74.9% non-GAAP) against a 74.0% ±50bp guide, which management attributed to Blackwell Ultra mix. Nothing in the release suggests the beat was bought with price or pulled forward from Q4: the Q4 guide itself was raised above consensus.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Figure 1",
+          "titleHtml": "Revenue trajectory — actuals and Q4 guide",
+          "sourceHtml": "Company releases; Q4 FY27 is company guidance midpoint.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-18-nvidia-results-58/f2.svg",
+          "alt": "Revenue trajectory — actuals and Q4 guide"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Data Center: hyperscale is no longer the only engine",
+      "level": "section",
+      "html": "<p>Data Center revenue of US$107.6bn (+110% YoY, +21% QoQ) crossed US$100bn for the first time. The disclosure split is the story within the story: <strong>Hyperscale revenue of US$60.1bn grew 71% YoY, while AI Clouds, Industrial and Enterprise revenue of US$47.5bn grew 195% YoY</strong>. Sovereign, neocloud and enterprise demand is compounding faster than the hyperscaler book, which widens the customer base that the Vera Rubin ramp sells into.</p>\n<p>Vera Rubin NVL72 systems began shipping after production ramped, alongside continued Blackwell Ultra growth and initial standalone Vera CPU deployments. Supply commitments of US$390bn (from US$279bn) — primarily multi-year memory — and US$518bn of total future commitments describe a company locking in HBM and capacity well into the Rubin cycle. For the supply chain, that commitment stack is the closest thing to forward order visibility NVIDIA publishes.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Q4 guidance: growth with a margin step-down",
+      "level": "section",
+      "html": "<p>Q4 FY27 revenue guidance of US$130.0bn ±3% sits about 4% above LSEG consensus of ~US$125.3bn and implies +12% QoQ — with the caveat that Q4 contains an additional (14th) week, so the underlying weekly run-rate growth is lower than the headline.</p>\n<p>The offset is margin: GAAP and non-GAAP gross margin are guided to 71.0–72.0%, roughly 3 points below Q3's print. Rack-scale systems carry more pass-through content (memory, networking, assembly) per revenue dollar than board-level product, so a Rubin-led mix mechanically dilutes percentage margin even as gross profit dollars grow — at the guide midpoint, Q4 gross profit would be ~US$93bn versus US$86.6bn in Q3. <mark>Whether 71–72% is a ramp trough or the new Rubin-era level is the single most important question on the call</mark>.</p>\n<p>China remains excluded: the outlook assumes no Data Center compute revenue from China, even though Q3 included US$2.4bn of Hopper shipments there. Any licensed China compute revenue is therefore pure upside to the guide — and, after the 17 Nov BIS interim final rule closed the cloud-access loophole, also the least predictable line in the model.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Governance: a clean first print does not settle succession",
+      "level": "section",
+      "html": "<p>The print was delivered under interim CEO Colette Kress, five days after Jensen Huang's resignation took effect. Operationally, nothing slipped: the guide was beaten, the Rubin ramp started on schedule, and the outlook was raised. That supports the view that near-term execution is institutional rather than personal.</p>\n<p>What the print does not do is name a permanent CEO, set a timetable, or close the governance file — a closed-door congressional briefing connected to the circumstances of the departure was scheduled for 18 Nov (US). <strong>Until a permanent appointment is made, a key-man discount can re-attach to the shares on any headline, regardless of fundamentals</strong>. We therefore keep the rating under review.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Read-across to the AIDC complex",
+      "level": "section",
+      "html": "<p>For the Industrials, Materials and Energy complex this desk covers, the print is confirmatory rather than new information — but it is strong confirmation. A US$130bn revenue quarter guided with zero China compute, US$518bn of total commitments and a rack-scale platform ramping at record speed all point the same way: <strong>data-centre power, cooling and grid equipment order books (transformers, switchgear, UPS, CDU/liquid cooling) face demand visibility extending well beyond 2026</strong>, and HBM procurement locked in multi-year supports the memory and semiconductor-equipment chain.</p>\n<p>The margin guide cuts the other way for one part of the chain: if rack-scale mix dilutes NVIDIA's own percentage margin, value is shifting toward the system level — assembly, power delivery and cooling content per rack — rather than accruing solely to the accelerator. That is consistent with what server and power-equipment makers in our coverage have been reporting.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "What we monitor next",
+      "level": "section",
+      "html": "<p>Three things. First, the permanent CEO appointment — any name, timetable or further board change re-prices the governance discount immediately. Second, Q4 gross margin delivery against the 71–72% guide, and the first FY28 margin framing: trough or new level decides how the Rubin cycle is valued. Third, China: Hopper shipments under licence, and any licensing practice under the BIS cloud rule, are unmodelled upside with binary timing.</p>\n<p>On the demand side, <strong>hyperscaler capex guides in January will either validate the US$518bn commitment stack or mark its peak</strong>. We will revisit the rating once succession is resolved.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

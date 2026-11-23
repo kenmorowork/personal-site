@@ -1,0 +1,851 @@
+{
+  "version": 1,
+  "editorReportId": 53,
+  "lang": "en",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation",
+  "dateDisplay": "17 November 2026",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Industrials — Bearings & constant-velocity joints",
+  "companyName": "NTN Corporation",
+  "headlineHtml": "The beat was real, the guide didn't move: <strong>¥4.4bn of integration costs is the price of the NSK merger</strong> — on a 4% margin base",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥311",
+  "targetLabel": "Price target",
+  "targetValue": "Under review",
+  "upside": "—",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Share price (16 Nov 2026)",
+      "value": "¥345.3",
+      "asOf": "16 Nov 2026"
+    },
+    {
+      "label": "Market capitalisation",
+      "value": "¥197.7bn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "FY3/26 net sales",
+      "value": "¥826,344mn",
+      "asOf": "FY ended Mar 2026"
+    },
+    {
+      "label": "FY3/26 operating profit",
+      "value": "¥31,034mn (3.8%)",
+      "asOf": "FY ended Mar 2026"
+    },
+    {
+      "label": "FY3/27E guidance (Rev.1, 30 Oct 2026)",
+      "value": "Sales ¥825,000mn / OP ¥33,000mn",
+      "asOf": "Incl. ¥4,400mn integration costs"
+    },
+    {
+      "label": "H1 FY3/27 operating profit",
+      "value": "¥17,400mn (+35.0% YoY)",
+      "asOf": "Apr–Sep 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "NTN is Japan's third-largest bearing maker and the world's leading supplier of constant-velocity joints (CVJ) and axles, reporting by entity-location region (Japan / Americas / Europe / Asia &amp; other) and, since FY3/2025, by product (Bearings &amp; others / CVJ &amp; Axle). On 12 May 2026 it agreed with NSK to integrate under a joint holding company — a merger that would create the world's largest bearing group by sales.",
+  "ledeHtml": "In FY3/2026 net sales were ¥826,344mn, operating profit ¥31,034mn (3.8% margin), ordinary profit ¥23,484mn and owners' net income ¥12,871mn (EPS ¥23.40). FY3/2027 guidance was revised on 30 October 2026: sales raised to ¥825,000mn, but OP held at ¥33,000mn and owners' net income at ¥15,000mn because ¥4,400mn of NSK-integration costs are now factored in (revision notice). Strengths: (1) the underlying H1 beat was genuine — <strong>ex-integration OP margin reached ~4.5% on price increases (+¥4.0bn), structural reform (+¥2.4bn) and FX (+¥4.2bn)</strong>, against a volume decline the headline sales growth conceals; (2) Asia &amp; other is a real profit pool (¥17,573mn, 11.4% margin in FY3/2026) and Japan earns steadily; (3) the aftermarket engine is working — 19.1% of H1 sales, guided to 19.6%, with the FIRST immediate-delivery system deployed at all target sales companies and lifting covered part numbers; (4) cash discipline in H1: inventories cut ¥8.2bn to ¥237.7bn, free cash flow +¥24.7bn; (5) niche technology positions with disclosed share — fluid dynamic bearings for notebook cooling fans at a claimed 40% world share (president), directly exposed to AI-PC demand; (6) the NSK integration addresses the industry's core problem — two sub-scale, 4–5%-margin domestic players — with a defined timetable (definitive agreement targeted around November 2026, June 2027 AGM approvals, joint holding company in October 2027). Weaknesses: (1) a brutal decade in the P&amp;L — owners' net losses in three of the ten years (FY3/2019 −¥6,958mn; FY3/2020 −¥43,992mn; FY3/2021 −¥11,641mn) plus FY3/2025's −¥23,801mn, when ¥19,815mn of extraordinary losses and a deferred-tax charge hit a profitable operating year; (2) Europe has lost money for years on the disclosed figures (FY3/2026 −¥1,061mn; FY3/2025 −¥4,163mn) and the Americas earned 2.1%; (3) <strong>the mid-term plan 'DRIVE NTN100 Final' ends in explicit failure</strong> — final-year targets of OP ¥50bn / 6.0% margin / ROE 8.0% against a guide of ¥33bn / ~4.0%, with ROE (4.9% at FY3/2026-end) pushed to the next plan; (4) leverage: interest-bearing debt of ¥319,172mn against cash of ¥131,255mn at FY3/2026-end (net debt ¥187,917mn, calculated, tanshin definition), with subordinated bonds issued in December 2025; (5) the integration bill is large and front-loaded — ¥4.4bn for NTN and ~¥5.0bn for NSK this year (NTN CFO), ~¥9.4bn combined (calculated), including an SEC F-4 filing that forces NTN (J-GAAP) through an IFRS conversion and re-audits — before any synergy is disclosed, let alone booked; (6) H1 sales volume actually fell ¥14.2bn YoY — reported growth is FX, price and tariffs, and Americas CVJ volume fell ¥8.8bn as mass-production projects ended. Rating and price target are Under Review placeholders (see Basis of preparation).",
+  "bullets": [
+    {
+      "leadHtml": "Revenue guide up, profit guide deliberately flat",
+      "html": "The 30 October 2026 revision raised FY3/2027 sales from ¥810,000mn to ¥825,000mn on volume and FX, but held OP at ¥33,000mn, ordinary profit at ¥21,000mn and owners' NI at ¥15,000mn: <strong>the notice states the forecast now includes ¥4,400mn of NSK-integration-related costs, absorbed by scale and other profit gains</strong>. Ex-integration, OP margin would be ~4.5% (company briefing). The dividend guide is ¥13 (¥6.5 + ¥6.5), unchanged."
+    },
+    {
+      "leadHtml": "What the ¥4.4bn buys",
+      "html": "Per the CFO (Q&amp;A, 5 November 2026): financial-adviser fees, antitrust response in Japan, the US and Europe, and the SEC F-4 filing — larger than expected because both companies' US shareholding exceeds 10%, requiring IFRS conversion of NTN's J-GAAP accounts and audits redone to US/international independence standards. <strong>Only ¥0.4bn was spent in H1; ~¥4.0bn lands in H2 (calculated). NSK's parallel bill is ~¥5.0bn — ~¥9.4bn combined before any synergy disclosure</strong>."
+    },
+    {
+      "leadHtml": "H1: price and reform beat volume",
+      "html": "H1 FY3/2027 sales ¥413.6bn (+2.8%) but volume −¥14.2bn YoY — growth was FX, selling price and tariffs. <strong>OP ¥17.4bn (+35.0%): scale −¥6.1bn, personnel/other −¥0.9bn, tariffs −¥0.6bn, offset by price +¥4.0bn, structural reform +¥2.4bn, variable costs +¥1.5bn, FX +¥4.2bn (CFO bridge)</strong>. By product: Bearings &amp; others OP ¥6.5bn (3.6%); CVJ &amp; Axle OP ¥10.9bn residual (4.7%). Europe stayed loss-making (−¥0.9bn); Asia &amp; others earned ¥8.7bn."
+    },
+    {
+      "leadHtml": "The mid-term plan ends in a declared miss",
+      "html": "'DRIVE NTN100 Final' (FY3/2025–27) targeted OP ¥50bn, a 6.0% margin and 8.0% ROE in its final year. <strong>The FY3/2027 guide delivers roughly two-thirds of the OP target</strong>; the CFO concedes sales are running ~¥100bn below plan assumptions and ROE (from −9.6% at FY3/2024-end to 4.9% at FY3/2026-end) reaches 8% only in the next plan. The plan's ¥35bn three-year extraordinary-loss budget for structural reform is the bridge between the FY3/2025 net loss and today's cleaner cost base."
+    },
+    {
+      "leadHtml": "Aftermarket is the 2035 story",
+      "html": "The president's long view: <strong>a 40% aftermarket ratio on ¥800bn of sales by 2035 = ¥320bn of aftermarket sales at a 15%+ margin — just under ¥50bn of OP from aftermarket alone</strong>, against 19.1% mix today. It is the only disclosed path to a structurally higher margin that does not depend on the NSK merger — and by the company's own admission it 'takes a certain amount of time'."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)",
+        "sourceHtml": "Company tanshin via PL/segment sheet (register S1, S13–S15). J-GAAP as originally reported. EPS calculated in the sheet on diluted weighted shares (FY26: 550.1mn after convertible-bond conversion). Margins calculated.",
+        "kind": "table",
+        "columns": [
+          "",
+          "FY17",
+          "FY18",
+          "FY19",
+          "FY20",
+          "FY21",
+          "FY22",
+          "FY23",
+          "FY24",
+          "FY25",
+          "FY26"
+        ],
+        "rows": [
+          [
+            "Net sales",
+            "683,328",
+            "744,372",
+            "733,569",
+            "651,495",
+            "562,847",
+            "642,023",
+            "773,960",
+            "836,285",
+            "825,587",
+            "826,344"
+          ],
+          [
+            "Operating profit",
+            "35,622",
+            "39,608",
+            "26,945",
+            "7,056",
+            "−3,138",
+            "6,880",
+            "17,145",
+            "28,149",
+            "22,959",
+            "31,034"
+          ],
+          [
+            "OP margin (%)",
+            "5.2",
+            "5.3",
+            "3.7",
+            "1.1",
+            "−0.6",
+            "1.1",
+            "2.2",
+            "3.4",
+            "2.8",
+            "3.8"
+          ],
+          [
+            "Net income (owners)",
+            "2,830",
+            "20,373",
+            "−6,958",
+            "−43,992",
+            "−11,641",
+            "7,341",
+            "10,367",
+            "10,568",
+            "−23,801",
+            "12,871"
+          ],
+          [
+            "EPS (¥)",
+            "5.3",
+            "38.4",
+            "−13.1",
+            "−82.8",
+            "−21.9",
+            "13.8",
+            "19.5",
+            "19.9",
+            "−44.9",
+            "23.4"
+          ],
+          [
+            "Operating cash flow",
+            "62,387",
+            "61,799",
+            "43,224",
+            "43,749",
+            "36,473",
+            "8,956",
+            "34,219",
+            "65,103",
+            "45,623",
+            "57,179"
+          ],
+          [
+            "Gross profit",
+            "127,606",
+            "140,760",
+            "130,487",
+            "102,098",
+            "85,181",
+            "105,953",
+            "125,913",
+            "145,277",
+            "141,366",
+            "151,775"
+          ],
+          [
+            "Gross margin (%)",
+            "18.7",
+            "18.9",
+            "17.8",
+            "15.7",
+            "15.1",
+            "16.5",
+            "16.3",
+            "17.4",
+            "17.1",
+            "18.4"
+          ],
+          [
+            "Ordinary profit",
+            "29,604",
+            "31,250",
+            "22,231",
+            "−1,698",
+            "−5,742",
+            "6,815",
+            "12,047",
+            "20,001",
+            "10,475",
+            "23,484"
+          ],
+          [
+            "Profit before income taxes",
+            "14,889",
+            "26,905",
+            "2,938",
+            "−33,949",
+            "−1,256",
+            "17,619",
+            "10,807",
+            "16,551",
+            "−8,593",
+            "15,202"
+          ],
+          [
+            "D&A",
+            "36,629",
+            "37,505",
+            "38,926",
+            "37,306",
+            "35,478",
+            "37,898",
+            "42,048",
+            "41,802",
+            "42,379",
+            "40,493"
+          ],
+          [
+            "Capital expenditure",
+            "35,272",
+            "36,457",
+            "42,380",
+            "59,009",
+            "21,900",
+            "16,336",
+            "19,705",
+            "24,725",
+            "23,535",
+            "29,118"
+          ],
+          [
+            "Inventories (period-end)",
+            "171,480",
+            "179,737",
+            "194,504",
+            "182,922",
+            "176,845",
+            "214,842",
+            "239,385",
+            "264,794",
+            "244,366",
+            "245,848"
+          ],
+          [
+            "Cash and equivalents (period-end)",
+            "79,284",
+            "86,087",
+            "83,474",
+            "71,165",
+            "147,249",
+            "121,460",
+            "110,675",
+            "127,266",
+            "127,712",
+            "131,255"
+          ],
+          [
+            "Interest-bearing debt (period-end)",
+            "320,169",
+            "320,832",
+            "350,343",
+            "362,416",
+            "422,803",
+            "394,031",
+            "371,292",
+            "362,062",
+            "353,992",
+            "319,172"
+          ],
+          [
+            "R&D expenditure",
+            "19,196",
+            "21,007",
+            "21,661",
+            "19,961",
+            "17,485",
+            "17,444",
+            "18,678",
+            "18,234",
+            "19,656",
+            "19,950"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Exhibit 1 (page 1) summarises ten fiscal years, FY3/2017–FY3/2026, all J-GAAP as originally reported. NTN's history is a study in below-the-line damage: operating profit was positive in nine of the ten years, yet owners' net income was negative in four (FY3/2019, FY3/2020, FY3/2021, FY3/2025) because extraordinary losses and tax charges overwhelmed thin operating margins. <strong>FY3/2020 is the extreme: OP of ¥7,056mn, extraordinary losses of ¥34,231mn (impairments and restructuring in the COVID break), PBT −¥33,949mn and an owners' net loss of ¥43,992mn</strong>. FY3/2025 repeated the pattern in miniature — OP ¥22,959mn, extraordinary losses ¥19,815mn (¥13,580mn in Q4 alone, structural reform), a ¥14,188mn tax charge on a pre-tax loss (deferred-tax valuation effects) and a net loss of ¥23,801mn (EPS −¥44.90).</p>\n<p>Scale recovered faster than profit: sales troughed at ¥562,847mn in FY3/2021 and reached ¥836,285mn by FY3/2024, but OP margin has never exceeded 5.3% in the window (FY3/2018) and printed 3.8% in FY3/2026 — the best since FY3/2018 despite being only ¥31,034mn on ¥826,344mn. Operating cash flow was positive in all ten years (¥8,956mn at the FY3/2022 low; ¥65,103mn in FY3/2024). Two structural notes: (i) diluted share count jumps to 550.1mn in FY3/2026 from ~531mn because dilutive convertible bonds were exercised/converted during the year (register S8); (ii) NTN does not disclose order intake or backlog (ND throughout) — machine-tool unit demand is the company's own cited leading indicator.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "NTN Corporation — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ntn-initiation-53/c1.svg",
+          "alt": "NTN Corporation — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "NTN Corporation — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ntn-initiation-53/c2.svg",
+          "alt": "NTN Corporation — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "NTN Corporation — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ntn-initiation-53/c3.svg",
+          "alt": "NTN Corporation — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "NTN Corporation — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ntn-initiation-53/v1.svg",
+          "alt": "NTN Corporation — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — H1 FY3/2027 results and the guidance revision",
+      "level": "part",
+      "html": "<p>Q2 FY3/2027 results and the forecast revision were published on 30 October 2026, with the briefing (full transcript in the interview pack) on 5 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY3/2027 results",
+      "level": "section",
+      "html": "<p>H1 (April–September 2026): net sales ¥413.6bn (+2.8% YoY), OP ¥17.4bn (+35.0%; 4.2% margin, calculated), ordinary profit ¥12.2bn, owners' net profit ¥5.5bn (+¥2.4bn YoY). The composition matters more than the headline: in volume terms sales fell ¥14.2bn YoY; the reported increase is FX, selling-price and tariff effects (CFO). The OP bridge (CFO): scale −¥6.1bn, personnel/other −¥0.9bn, tariffs −¥0.6bn; selling price +¥4.0bn, structural reform +¥2.4bn, variable costs +¥1.5bn, FX +¥4.2bn. By product (briefing; segment revenue derived from guidance arithmetic in the pack): Bearings &amp; others OP ¥6.5bn on ~¥179.3bn (3.6%, calculated), CVJ &amp; Axle OP ¥10.9bn residual on ~¥234.3bn (4.7%, calculated); integration costs of ¥0.4bn sat ¥0.2bn in each. By region (company basis, incl. internal sales): Japan ¥177.1bn / OP ¥7.2bn; Americas ¥132.0bn / ¥1.8bn (mass-production project endings); Europe ¥96.0bn / −¥0.9bn (loss narrowed); Asia &amp; others ¥86.1bn / ¥8.7bn. Balance-sheet motion: inventories ¥237.7bn (−¥8.2bn vs March 2026), free cash flow +¥24.7bn, capex ¥14.4bn vs depreciation ¥19.8bn; gross debt ¥277.4bn and net debt ¥168.3bn on the CFO's briefing basis. Demand colour: machine-tool unit demand (including small machines) is rising — 'precisely a leading indicator' for bearings (president); construction machinery is lifted by data-centre construction; agriculture is weak.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance chain (Exhibit 3)",
+      "level": "section",
+      "html": "<p>Initial (14 May 2026, FY2026 tanshin): sales ¥810,000mn, OP ¥33,000mn, owners' NI ¥15,000mn — confirmed unchanged at Q1 (4 August 2026). Revision 1 (30 October 2026): sales ¥825,000mn; OP ¥33,000mn, ordinary profit ¥21,000mn and NI ¥15,000mn all unchanged; EPS guide ¥25.23; dividend ¥13 unchanged. The notice's stated logic: sales will exceed the previous forecast on volume growth and FX, and although the forecast now includes ¥4,400mn of NSK-integration-related costs, <strong>profit lines are held on scale and other gains (tracker extract of the notice)</strong>. Full-year product guides: Bearings &amp; others sales ¥364.5bn / OP ¥14.9bn (4.1%); CVJ &amp; Axle ¥460.5bn / ¥18.1bn (3.9%); implied H2 margins are 4.6% and 3.2% respectively (5.5% / 4.1% ex-integration). Cash guides: operating cash flow ¥63.0bn, free cash flow ¥36.0bn, year-end inventories ¥225.0bn (a further ¥7.0bn volume reduction needed in H2). Discrepancy flagged: the guide EPS of ¥25.23 against owners' NI of ¥15,000mn implies ~594.5mn shares, versus the sheet's FY3/2026 diluted count of 550.1mn (which would give ¥27.27) — the basis of the tanshin's forecast EPS is not reconciled in the sources read.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3: FY3/2027 guidance chain (¥mn)",
+          "sourceHtml": "Company tanshin and revision notice via the guidance tracker (17 Nov 2026) and sheet register S9. Rev.1 includes ¥4,400mn of NSK-integration costs in the profit lines.",
+          "kind": "table",
+          "columns": [
+            "Step",
+            "Net sales",
+            "OP",
+            "Ordinary profit",
+            "Owners' NI",
+            "EPS (¥)"
+          ],
+          "rows": [
+            [
+              "Initial (14 May 2026)",
+              "810,000",
+              "33,000",
+              "—",
+              "15,000",
+              "—"
+            ],
+            [
+              "Q1 (4 Aug 2026)",
+              "Unchanged",
+              "Unchanged",
+              "Unchanged",
+              "Unchanged",
+              "Unchanged"
+            ],
+            [
+              "Rev.1 (30 Oct 2026)",
+              "825,000",
+              "33,000",
+              "21,000",
+              "15,000",
+              "25.23"
+            ],
+            [
+              "FY3/26 actual",
+              "826,344",
+              "31,034",
+              "23,484",
+              "12,871",
+              "23.40"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>NTN (founded 1918; headquartered in Nishi-ku, Osaka) manufactures bearings, constant-velocity joints and axles, and precision equipment. Its reportable segments are entity-location regions — Japan, Americas, Europe, Asia &amp; other — while its product disclosure (from the FY3/2025 tanshin) splits sales into Bearings &amp; others (¥348,890mn in FY3/2026) and CVJ / Axle (¥477,453mn). The earlier market-basis split (aftermarket / industrial machinery / automotive) was disclosed through FY3/2024 and is kept on its own basis in this report. President, Executive Officer &amp; CEO is Eiichi Ukai (in the role since April 2021); Masaaki Yamamoto is CFO. NTN is a company with a nominating committee. On 12 May 2026 NTN and NSK announced a business integration via a joint holding company (joint share transfer) — Chapter 8.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Bearings & others",
+      "level": "section",
+      "html": "<p>Ball and roller bearings for automotive, industrial machinery and aftermarket, plus precision products — including fluid dynamic bearings for notebook-PC cooling-fan motors, where the president claims a 40% world share and AI-equipped notebooks are a demand tailwind. FY3/2026 sales ¥348,890mn; H1 FY3/2027 OP ¥6.5bn (3.6%); FY3/2027 guide ¥364.5bn / ¥14.9bn (4.1%). The aftermarket sits inside this product line and is the group's margin engine (Chapter 7).</p>\n<p>The demand signal management itself watches is unit volume in machine tools. At the 5 November 2026 briefing the president described industrial-machinery demand as recovering 'not only for AI and data centres but also in actual demand for machine tools', with machine-tool unit numbers — including small machines — now rising, which he called 'precisely a leading indicator' for bearing volumes. Construction-machinery demand is rising on data-centre construction and mining repair parts are increasing, while agricultural machinery is weak on falling grain prices and tariffs, and aerospace is strong but supply-chain-constrained. Within precision products, fluid dynamic bearings for notebook-PC cooling-fan motors carry a claimed 40% world share, with AI-equipped notebooks expected to support demand.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "CVJ & Axle",
+      "level": "section",
+      "html": "<p>Constant-velocity joints and axle assemblies for drivetrains — NTN's largest product line (¥477,453mn in FY3/2026, 58% of sales) and its most exposed: H1 Americas CVJ volume fell ¥8.8bn YoY as mass-production projects ended, and the CFO guides Americas demand 'flat at this level until about 2029' (per the pack's interview framing). H1 OP ¥10.9bn (4.7%, residual calculation); FY3/2027 guide ¥460.5bn / ¥18.1bn (3.9%), with H2 at 3.2% — management calls H2 'roughly the bottom', with recovery from FY3/2028 on new CVJ projects.</p>\n<p>Two working-capital facts now sit inside the CVJ margin. First, US tariffs are no longer recovered in cash but as credits, and the time until recovery has lengthened: ¥1.3bn of recovery timing had already slipped from the initial FY3/2027 assumption by the Q2 revision, and the H2 CVJ margin guide of 3.2% (4.1% excluding integration costs) assumes recovery is delayed, not lost. Second, the volume hole is concentrated: Americas CVJ volume fell ¥8.8bn year on year in H1 as mass-production projects ended, the single largest regional drag in the half, and the CFO guides Americas demand 'flat at this level until about 2029' before new projects support a counteroffensive.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Reporting segments are regions",
+      "level": "section",
+      "html": "<p>Because NTN's statutory segments are regions, the segment P&amp;L reads as a geographic cost map: Asia &amp; other (China/ASEAN production) earns double-digit margins, Japan mid-single digits, the Americas low-single digits and Europe losses. Chapter 5 uses this basis, with the customer-location regional sales shown separately — the two bases differ (e.g. FY3/2026 Japan: ¥216,392mn entity vs ¥211,591mn customer) and are never mixed.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>NTN sells into the same bearing oligopoly as NSK (SKF, Schaeffler, Timken, JTEKT) plus a CVJ market dominated by NTN and GKN. Demand drivers diverge by line: industrial bearings follow machine-tool and factory-automation capex (now AI/data-centre-led, with unit volumes — the president's leading indicator — rising); automotive bearings and CVJs follow vehicle production and platform cycles, where NTN's exposure is to specific programme endings (Americas) rather than the market rate; aftermarket demand follows the installed base and is the least cyclical and highest-margin pool. <mark>The NSK integration would combine the #2 and #3 Japanese makers into the world's largest bearing group by sales (combined revenue ~¥1.74tn on FY3/2026 figures, calculated)</mark> — the strategic answer to sub-scale cost positions on both sides, at a combined FY3/2027 integration cost of ~¥9.4bn (calculated from the two CFOs' figures).</p>\n<p>The market NTN sells into is mature in units and supported in value by mix and price pass-through. FIELDNOTES' bearings industry report (16 November 2026) records that no official global market-size statistic exists and that research-firm estimates differ by definition — a narrow rolling-bearing definition of US$58.6bn in 2024 growing at a 9.0% CAGR to 2034 (Global Market Insights series), ball/roller bearings only at US$29.5bn in 2024 at a 2.5% CAGR (WiseGuy Reports), and a broad definition of US$154.4bn in 2025 at a 4.5% CAGR (Reports and Data) — with automotive the largest application (about 40% on the broad definition) and Asia-Pacific the largest region. Japanese bearing production volumes fell from 2.84bn units in 2021 to 2.31bn in 2025, while the EV-bearing niche is estimated at about US$2.94bn in 2025 rising to about US$5.87bn by 2030 (a 14.9% CAGR, research-firm estimates), where electrical-erosion protection — NTN's resin-moulded insulated bearings for 800V systems among them — is becoming a qualification requirement rather than an option.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "NTN in the bearings value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (bearings value chain); company product lines from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ntn-initiation-53/d1.svg",
+          "alt": "NTN in the bearings value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Segment profit is operating profit. The sheet carries segment profit for FY3/2025–26 only (FY3/2022–24 segment profit is not in the sheet's main block — see Basis); segment sales are complete for all years, and the history block carries segment profit for FY3/2017–21.</p>",
+      "figures": [
+        {
+          "id": "v2",
+          "number": "Figure 6",
+          "titleHtml": "NTN Corporation — regional revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ntn-initiation-53/v2.svg",
+          "alt": "NTN Corporation — regional revenue by year"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Segments — entity location (Exhibit 2)",
+      "level": "section",
+      "html": "<p>FY3/2026: Japan sales ¥216,392mn / profit ¥9,192mn (4.2%); Americas ¥262,523mn / ¥5,469mn (2.1%); Europe ¥193,562mn / −¥1,061mn (−0.5%); Asia &amp; other ¥153,866mn / ¥17,573mn (11.4%); adjustment −¥139mn. FY3/2025: Japan ¥215,245mn / ¥11,207mn (5.2%); Americas ¥269,503mn / −¥395mn (−0.1%); Europe ¥186,328mn / −¥4,163mn (−2.2%); Asia &amp; other ¥154,510mn / ¥14,757mn (9.6%); adjustment +¥1,553mn. The pattern is stable and stark: <strong>Asia &amp; other — the smallest sales base — produces over half of segment profit, while Europe has been loss-making in both disclosed years</strong> and across the history block's later years (FY3/2020 +¥402mn; FY3/2021 −¥2,427mn; Japan itself lost ¥10,792mn in FY3/2021). Product view (separate basis): FY3/2026 Bearings &amp; others ¥348,890mn, CVJ &amp; Axle ¥477,453mn; on the discontinued market basis, FY3/2024 was aftermarket ¥138,946mn (16.6% of sales), industrial machinery ¥126,544mn, automotive ¥570,794mn.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2: Segments by entity location (¥mn)",
+          "sourceHtml": "Company tanshin via PL/segment sheet (register S3). Segment profit = operating profit; FY22–24 segment profit not carried in the sheet's main block.",
+          "kind": "table",
+          "columns": [
+            "Region (entity)",
+            "FY22 sales",
+            "FY23 sales",
+            "FY24 sales",
+            "FY25 sales",
+            "FY26 sales",
+            "FY25 profit",
+            "FY26 profit",
+            "FY26 margin %"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "186,854",
+              "209,132",
+              "216,076",
+              "215,245",
+              "216,392",
+              "11,207",
+              "9,192",
+              "4.2"
+            ],
+            [
+              "Americas",
+              "177,563",
+              "241,672",
+              "272,254",
+              "269,503",
+              "262,523",
+              "−395",
+              "5,469",
+              "2.1"
+            ],
+            [
+              "Europe",
+              "139,236",
+              "167,426",
+              "187,981",
+              "186,328",
+              "193,562",
+              "−4,163",
+              "−1,061",
+              "−0.5"
+            ],
+            [
+              "Asia & other",
+              "138,369",
+              "155,728",
+              "159,972",
+              "154,510",
+              "153,866",
+              "14,757",
+              "17,573",
+              "11.4"
+            ],
+            [
+              "Adjustments",
+              "1",
+              "2",
+              "2",
+              "1",
+              "1",
+              "1,553",
+              "−139",
+              "—"
+            ],
+            [
+              "Consolidated",
+              "642,023",
+              "773,960",
+              "836,285",
+              "825,587",
+              "826,344",
+              "22,959",
+              "31,034",
+              "3.8"
+            ]
+          ]
+        },
+        {
+          "id": "f4",
+          "number": "Table 4",
+          "titleHtml": "Exhibit 2A. Segments by entity location — FY3/17–FY3/21, as reported",
+          "sourceHtml": "PL/segment workbook — History block, same entity-location basis as Exhibit 2, J-GAAP as originally reported; shown as a separate block, not spliced into the main-window table.",
+          "kind": "table",
+          "columns": [
+            "Region (entity)",
+            "FY17 sales",
+            "FY17 profit",
+            "FY18 sales",
+            "FY18 profit",
+            "FY19 sales",
+            "FY19 profit",
+            "FY20 sales",
+            "FY20 profit",
+            "FY21 sales",
+            "FY21 profit"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "200,955",
+              "4,461",
+              "213,976",
+              "8,015",
+              "216,267",
+              "681",
+              "205,371",
+              "−1,282",
+              "168,280",
+              "−10,792"
+            ],
+            [
+              "Americas",
+              "187,787",
+              "8,286",
+              "194,277",
+              "7,091",
+              "194,668",
+              "4,344",
+              "169,879",
+              "−6,438",
+              "142,228",
+              "−2,803"
+            ],
+            [
+              "Europe",
+              "165,262",
+              "3,310",
+              "188,224",
+              "2,800",
+              "179,827",
+              "954",
+              "152,581",
+              "402",
+              "126,777",
+              "−2,427"
+            ],
+            [
+              "Asia & other",
+              "129,323",
+              "14,522",
+              "147,894",
+              "19,600",
+              "142,806",
+              "17,218",
+              "123,663",
+              "11,418",
+              "125,560",
+              "12,305"
+            ],
+            [
+              "Adjustments (printed)",
+              "—",
+              "5,041",
+              "—",
+              "2,100",
+              "—",
+              "3,745",
+              "—",
+              "2,955",
+              "—",
+              "579"
+            ],
+            [
+              "Consolidated OP",
+              "—",
+              "35,622",
+              "—",
+              "39,608",
+              "—",
+              "26,945",
+              "—",
+              "7,056",
+              "—",
+              "−3,138"
+            ]
+          ]
+        },
+        {
+          "id": "f5",
+          "number": "Table 5",
+          "titleHtml": "Exhibit 2B. Regional sales (customer location)",
+          "sourceHtml": "PL/segment workbook — Customer-location regional sales, a separate basis from the entity-location segments; regional profit is not disclosed in any year.",
+          "kind": "table",
+          "columns": [
+            "Region (customer)",
+            "FY22",
+            "FY23",
+            "FY24",
+            "FY25",
+            "FY26"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "180,756",
+              "201,602",
+              "210,025",
+              "210,675",
+              "211,591"
+            ],
+            [
+              "Americas",
+              "181,214",
+              "246,246",
+              "274,726",
+              "273,407",
+              "267,200"
+            ],
+            [
+              "Europe",
+              "127,056",
+              "155,174",
+              "171,460",
+              "167,265",
+              "173,583"
+            ],
+            [
+              "Asia & other",
+              "152,996",
+              "170,937",
+              "180,074",
+              "174,239",
+              "173,969"
+            ],
+            [
+              "Adjustments",
+              "1",
+              "1",
+              "0",
+              "1",
+              "1"
+            ],
+            [
+              "Consolidated",
+              "642,023",
+              "773,960",
+              "836,285",
+              "825,587",
+              "826,344"
+            ]
+          ]
+        },
+        {
+          "id": "f6",
+          "number": "Table 6",
+          "titleHtml": "Exhibit 2C. Sales by market (as disclosed in those years)",
+          "sourceHtml": "PL/segment workbook — Market basis as disclosed in those years (history block rows 163–165 + main supplementary rows 114–116). The basis was discontinued after FY3/2024 and replaced by the product basis (Bearings &amp; others / CVJ &amp; Axle) from FY3/2025 — the two bases are never spliced.",
+          "kind": "table",
+          "columns": [
+            "Market",
+            "FY17",
+            "FY18",
+            "FY19",
+            "FY20",
+            "FY21",
+            "FY22",
+            "FY23",
+            "FY24"
+          ],
+          "rows": [
+            [
+              "Aftermarket",
+              "104,500",
+              "116,695",
+              "118,849",
+              "109,416",
+              "91,492",
+              "112,196",
+              "134,039",
+              "138,946"
+            ],
+            [
+              "Industrial machinery",
+              "98,611",
+              "119,085",
+              "123,397",
+              "105,071",
+              "101,853",
+              "126,104",
+              "139,499",
+              "126,544"
+            ],
+            [
+              "Automotive",
+              "480,216",
+              "508,592",
+              "491,322",
+              "437,006",
+              "369,501",
+              "403,722",
+              "500,421",
+              "570,794"
+            ],
+            [
+              "Consolidated",
+              "683,328",
+              "744,372",
+              "733,569",
+              "651,495",
+              "562,847",
+              "642,023",
+              "773,960",
+              "836,285"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions — customer location",
+      "level": "section",
+      "html": "<p>FY3/2026 customer-location sales: Americas ¥267,200mn (32.3%), Japan ¥211,591mn (25.6%), Europe ¥173,583mn (21.0%), Asia &amp; other ¥173,969mn (21.1%). Against FY3/2017 (Japan ¥191,466mn; Americas ¥194,765mn; Europe ¥154,989mn; Asia &amp; other ¥142,107mn) the centre of gravity has moved to the Americas — the same region whose CVJ volumes are now rolling over. Regional profit on the customer basis is not disclosed.</p>\n<p>The customer-location history underlines how complete the rotation has been. In FY3/2017 the Americas took ¥194,765mn (28.5% of sales) and Japan ¥191,466mn (28.0%); by FY3/2026 the Americas were ¥267,200mn (32.3%) and Japan ¥211,591mn (25.6%), with Asia &amp; other rising from ¥142,107mn to ¥173,969mn. The region that gained most share over the decade is therefore the same region — the Americas — whose CVJ programme endings are now the group's largest volume headwind, which is why the customer-basis mix and the entity-basis profit map (Asia &amp; other earning 11.4% while the Americas earn 2.1% in FY3/2026) have to be read together.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>FY3/2026 (J-GAAP): sales ¥826,344mn, gross profit ¥151,775mn (18.4% — the best gross margin of the window), SG&amp;A ¥120,741mn (14.6%), OP ¥31,034mn. Non-operating expenses exceeded income by ¥7,550mn (interest and FX), giving ordinary profit ¥23,484mn; extraordinary income ¥3,074mn vs losses ¥11,356mn (the structural-reform programme still running) left PBT of ¥15,202mn; a low ¥1,218mn total tax charge (deferred-tax credit of ¥7,716mn) produced owners' net income of ¥12,871mn, EPS ¥23.40 (diluted count 550.1mn after CB conversion). Operating cash flow ¥57,179mn; capex ¥29,118mn. Balance sheet at FY3/2026-end: cash ¥131,255mn; interest-bearing debt ¥319,172mn (register S6 definition) — net debt ¥187,917mn (calculated); receivables ¥130,659mn; inventories ¥245,848mn (4.43 months of cost of sales, calculated); payables ¥129,311mn. Subordinated bonds were issued in December 2025 (company notice) as part of liability management. R&amp;D: the history block shows ¥17,485mn–¥21,661mn for FY3/2017–21; the main window's R&amp;D row in the sheet is fragmentary (quarterly chains only) and is not used — see Basis. Employees are not presented in the tanshin text (ND).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan",
+      "level": "part",
+      "html": "<p>'DRIVE NTN100 Final' (FY3/2025–FY3/2027, announced May 2024, company plan) targeted, for its final year, OP ¥50.0bn, an OP margin of 6.0% and ROE of 8.0%, with structural reform funded by ¥35.0bn of extraordinary losses over three years (fixed-cost reduction of ¥10.4bn this year vs FY3/2024). <strong>The plan will be missed on every headline: the FY3/2027 guide is OP ¥33.0bn at a ~4.0% margin</strong>, and the CFO (September 2026) concedes sales are running nearly ¥100bn below plan assumptions, with the 8% ROE target deferred to the next mid-term plan (ROE: −9.6% at FY3/2024-end → 4.9% at FY3/2026-end). The forward strategy has two legs: (i) the aftermarket build-out — mix 19.1% in H1 FY3/2027, guided 19.6% for the year, against a 2035 vision of 40% of ¥800bn sales at a 15%+ margin (≈¥50bn of OP); the FIRST immediate-delivery system is now at all target sales companies; (ii) the NSK integration, which supersedes standalone strategy from October 2027 if the timetable holds. A new standalone mid-term plan is being drawn up in parallel (president) — its targets, and whether they survive contact with the integration, are a monitoring item.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>Business integration with NSK (6471): announced 12 May 2026 as a joint holding company via joint share transfer (company releases; register S10). Disclosed timetable: definitive agreement targeted within ~six months (around November 2026); shareholder approval at the June 2027 AGMs; holding-company establishment and listing planned for October 2027. At the 5 November 2026 briefing the president said the parties are 'in the midst of vigorous debate' within the May schedule and that the schedule 'has not changed'; no definitive agreement had been disclosed as of 16 November 2026. The FY3/2027 guidance is NTN standalone and includes ¥4,400mn of integration costs (Chapter 2); the SEC F-4 process requires NTN to convert to IFRS for the filing — a fact with obvious implications for the combined group's reporting basis. Major shareholders are 未取得 in the sources used. Next results: Q3 FY3/2027, expected early February 2027.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources: the PL/segment sheet for NTN (6472) — main window FY3/2022–FY3/2026 plus the FY3/2017–FY3/2021 history block, built from the annual and quarterly tanshin [J-GAAP] with register S1–S16 — the guidance tracker (56-company edition, 17 November 2026), and the interview pack for 6472 (Q2 FY3/2027 briefing transcript, 5 November 2026; several H1 segment figures are pack calculations from guidance arithmetic and are labelled as such where used). Segments are entity-location regions (register S3); customer-location regional sales are a separate basis (S4) and are never mixed with segment figures. Product sales changed basis in FY3/2025 (market basis to FY3/2024; product basis from FY3/2025) and the two are kept separate (S5). The sheet's template 'Estimate' columns were not used. Calculated figures are labelled as such. Discrepancy flagged: the FY3/2027 guide EPS of ¥25.23 implies ~594.5mn shares against the sheet's 550.1mn diluted count (register S8–S9) — unresolved in the sources read. Gaps （未取得 / not disclosed): order intake and backlog (not disclosed by NTN); units, capacity and utilisation; regional profit on the customer basis; segment profit for FY3/2022–24 in the sheet's main block (history-block values used for FY3/2017–21); total R&amp;D for FY3/2022–26 (the sheet's row is fragmentary; history-block values used for FY3/2017–21); employees (not presented in the tanshin); total assets, equity and ROE from the sheet (the CFO's ROE figures are quoted from the pack); the synergy case for the NSK integration; major shareholders. The share price is the 16 November 2026 close (StockAnalysis / Finnhub previous close); market capitalisation is Finnhub's figure. Rating and price target are 'Under Review' placeholders — no rating or target has been set by the analyst for this coverage, and nothing in this report is a forecast or a recommendation.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
