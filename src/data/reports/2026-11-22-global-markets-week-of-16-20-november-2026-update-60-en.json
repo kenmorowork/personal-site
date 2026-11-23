@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "editorReportId": 60,
+  "lang": "en",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Weekly Market Report",
+  "dateDisplay": "22 November 2026",
+  "dateISO": "2026-11-22",
+  "sectorLine": "Global Equity Research",
+  "companyName": "Global Markets — Week of 16–20 November 2026",
+  "headlineHtml": "The print was fine, the price was not: <strong>Nvidia beat and guided up, Anthropic priced the largest IPO on record — and the AI complex still fell into correction</strong>",
+  "rating": "Not Rated",
+  "priceLabel": "Nikkei 225 (20 Nov close)",
+  "priceValue": "56,436.65 (−7.70% w/w)",
+  "targetLabel": "Next catalyst",
+  "targetValue": "Tokyo reopen — Tue 24 Nov",
+  "upside": "",
+  "priceAsOf": "",
+  "keyData": [],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "A correction week that the volumes did not cause:",
+  "ledeHtml": "Nikkei −7.70% to 56,436.65; S&amp;P 500 −8.50% to 6,918.45 (correction, seventh straight fall); Nasdaq −9.88%; TAIEX −17.50%. Yet Nvidia Q3 revenue was $115.8bn (+103% YoY) vs ~$109.1bn consensus with a $130.0bn ±3% Q4 guide, Anthropic raised $81.3bn at $83 in the largest IPO on record, Japan October exports hit a record ¥11.768tn (+20.5%) and September core machinery orders rose +13.4% YoY. <strong>Friday's driver was a Reuters report that the SEC is examining potential Nvidia accounting issues (sources, unproven): the shares fell −13.8% to $125.84, −22.7% on the week</strong>. Full report text is in the Markdown copy weekly-market-report-2026-11-22.md saved alongside this report.",
+  "bullets": [
+    {
+      "leadHtml": "Correction week, led by the AI complex.",
+      "html": "<strong>Nikkei −7.70% w/w (Friday −5.06%, fifth-largest fall on record)</strong>; SOX −9.2% Friday; APAC ex-Japan −8.5% w/w, worst since March 2020 (Reuters)."
+    },
+    {
+      "leadHtml": "Nvidia beat, then a new risk arrived.",
+      "html": "Q3 $115.8bn, DC $107.6bn (+110%), GM 74.8%; Q4 guide $130.0bn ±3%, GM 71–72%; <strong>shares −22.7% w/w to $125.84 on the reported SEC examination</strong>."
+    },
+    {
+      "leadHtml": "Anthropic's record IPO did not lift the complex.",
+      "html": "<strong>$83 pricing, $81.3bn raised, ~$1.5tn valuation</strong>; listed 19 Nov as ANT; −9.1% on day two at $88.30."
+    },
+    {
+      "leadHtml": "Japan's hard data held up.",
+      "html": "GDP −0.1% annualised but capex +1.6%; <strong>exports a record ¥11.768tn (+20.5%); core machinery orders +13.4% YoY</strong>, Q4 outlook +4.3%; core CPI +2.2% vs +2.3% consensus."
+    },
+    {
+      "leadHtml": "Capex rose; funding terms hardened.",
+      "html": "Alibaba capex +60% to RMB 50.5bn, FCF −RMB 34.5bn; TSMC approved $40.93bn; <strong>FRB advanced-compute debt issuance &gt;$680bn, debt &gt;$1.1tn</strong>."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Fixed tracker — the week's key prints",
+        "sourceHtml": "Company results, official statistics and market closes via the daily packets, 16–21 Nov 2026.",
+        "kind": "table",
+        "columns": [
+          "Tracker",
+          "This week",
+          "Reference"
+        ],
+        "rows": [
+          [
+            "Nvidia Q3 revenue",
+            "$115.8bn, +103% YoY; DC $107.6bn",
+            "vs ~$109.1bn consensus"
+          ],
+          [
+            "Nvidia Q4 guidance",
+            "$130.0bn ±3%; GM 71–72%",
+            "Zero China DC compute"
+          ],
+          [
+            "Anthropic IPO",
+            "$83; $81.3bn raised; ~$1.5tn",
+            "Largest IPO on record"
+          ],
+          [
+            "JP Oct exports",
+            "¥11.768tn, +20.5%, record",
+            "Deficit ¥476.5bn"
+          ],
+          [
+            "JP Sep core machinery orders",
+            "¥1,066.2bn, +13.4% YoY",
+            "Q4 outlook +4.3%"
+          ],
+          [
+            "Nikkei 225",
+            "56,436.65, −7.70% w/w",
+            "Fri −5.06%"
+          ],
+          [
+            "NVDA",
+            "$125.84, −22.7% w/w",
+            "Fri −13.80%"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "Part 1 — Market performance",
+      "level": "part",
+      "html": "",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "1. Week in numbers",
+      "level": "section",
+      "html": "<p>Fri 13 to Fri 20 Nov closes (Figure 2): <strong>TAIEX −17.50% to 36,033.29, Nasdaq −9.88% to 22,654.15, S&amp;P 500 −8.50% to 6,918.45</strong>, Dow −7.93% to 48,188.18, Nikkei −7.70% to 56,436.65, TOPIX −6.78% to 3,674.22. S&amp;P/Dow in correction; VIX 30 Friday. KOSPI, Hang Seng, SOX weekly closes and USD/JPY, US 10Y, JGB 10Y weekly closes: 未取得 as consistent series (markers: SOX −9.2% Friday; WTI $83.84 on 19 Nov). Nikkei futures ¥54,600 Saturday; Mon 23 Nov Tokyo holiday. Sold: semis first, &gt;90% of Prime issues down Friday. Bought: little; Walmart the defensive marker. Pattern: positioning and the discount rate, not orders. Full text in the Markdown copy.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Figure 1",
+          "titleHtml": "Index performance, week to 20 Nov 2026 (% w/w)",
+          "sourceHtml": "Exchange closes Fri 13 to Fri 20 Nov 2026: Nikkei; Reuters via Investors.com (US); packets (Taiwan).",
+          "kind": "image",
+          "src": "/report-assets/2026-11-22-global-markets-week-of-16-20-november-2026-update-60/f2.svg",
+          "alt": "Index performance, week to 20 Nov 2026 (% w/w)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Market performance pack",
+      "level": "section",
+      "html": "<p>TradingView taxonomy as reference; full weekly sector matrix by country 未取得. Bottom: Nvidia −22.7% w/w, Anthropic −9.1% day two, TSMC −4.76% Friday. Top: no large coverage gainer in the packets; SambaNova SN50 and Jereh PowerVEGA SST were theme positives. Movers tied to catalysts in Figure 7.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Part 2 — Coverage recap",
+      "level": "part",
+      "html": "",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "3a. Semiconductors and AIDC",
+      "level": "section",
+      "html": "<p><strong>Nvidia Q3 FY27: revenue $115.8bn (+103%), DC $107.6bn (+110%), GAAP GM 74.8%</strong>, EPS $2.70, net income $65.3bn, Q4 guide $130.0bn ±3% (GM 71–72%, zero China DC compute), buyback +$150bn, Vera Rubin NVL72 shipping (ASUS in volume). TSMC $40.93bn approved. DRAM antitrust suit survived dismissal (unproven). Anthropic IPO $81.3bn. Alibaba AI cloud +53%, capex +60%. Oracle OpenAI contracts fully funded. FRB: AI top risk at 87%.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "3b. Power, cooling, machinery, components, humanoids",
+      "level": "section",
+      "html": "<p>Hitachi Energy 400kV TCSC Ireland; SK Telecom × Hyosung 345kV; ROHM × Delta 800VDC; Jereh PowerVEGA SST. NSK × NTN final integration agreement. Mitsubishi Electric humanoid × CNC at JIMTOF. Hyundai completed Boston Dynamics buyout; LG × KIRIA CLOiD certification. Bridge Data $6.6bn loan with chip-curbs clause.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Statistics tracker",
+      "level": "section",
+      "html": "<p>Figure 6 is the fixed panel. Trends: capex rising in prints, funding terms hardening; Japan's real economy firmer than its market; US retail +0.2% and claims 203k intact; memory pricing is the swing factor in Nvidia's Q4 GM guide; transformer lead times 未取得.</p>",
+      "figures": [
+        {
+          "id": "f6",
+          "number": "Table 2",
+          "titleHtml": "Statistics tracker — capex, trade, shipments, demand",
+          "sourceHtml": "Official statistics and company guidance via the daily packets, 16–21 Nov 2026.",
+          "kind": "table",
+          "columns": [
+            "Indicator",
+            "Latest",
+            "Source / date"
+          ],
+          "rows": [
+            [
+              "JP Q3 GDP",
+              "−0.1% ann.; capex +1.6%",
+              "Cabinet Office, 16 Nov"
+            ],
+            [
+              "JP Oct trade",
+              "Exports ¥11.768tn (+20.5%)",
+              "MOF, 18 Nov"
+            ],
+            [
+              "JP Sep core machinery orders",
+              "¥1,066.2bn, +13.4% YoY",
+              "Cabinet Office, 19 Nov"
+            ],
+            [
+              "JP Oct core CPI",
+              "+2.2% YoY",
+              "MIC, 20 Nov"
+            ],
+            [
+              "US Oct retail sales",
+              "+0.2% MoM",
+              "Census, 18 Nov packet"
+            ],
+            [
+              "US jobless claims",
+              "203k",
+              "DOL, 19 Nov packet"
+            ],
+            [
+              "Alibaba capex",
+              "+60% to RMB 50.5bn; FCF −RMB 34.5bn",
+              "Company, 19 Nov"
+            ],
+            [
+              "Advanced-compute debt",
+              "Issuance >$680bn; debt >$1.1tn",
+              "FRB, 13 Nov"
+            ],
+            [
+              "Sector matrix / lead times",
+              "未取得",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Part 3 — Catalysts, ideas and the week ahead",
+      "level": "part",
+      "html": "",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "5. Catalyst attribution",
+      "level": "section",
+      "html": "<p>Figure 7 is the attribution table. <mark>The largest driver was not a demand miss: Nvidia beat by ~$6.7bn and guided up, yet sellers priced governance, a lower guided GM, then a reported accounting probe</mark>. Index falls were positioning events until proven otherwise — no coverage guidance cut or capex cut in the week's packets, while Japan's volume statistics pointed the other way.</p>",
+      "figures": [
+        {
+          "id": "f7",
+          "number": "Table 3",
+          "titleHtml": "Catalyst attribution — the week's drivers",
+          "sourceHtml": "Daily packets and market closes, 16–20 Nov 2026.",
+          "kind": "table",
+          "columns": [
+            "Date",
+            "Company / sector",
+            "Event",
+            "Numbers",
+            "Why it moved",
+            "Watch next"
+          ],
+          "rows": [
+            [
+              "18 Nov",
+              "Nvidia",
+              "Print",
+              "Revenue $115.8bn vs ~$109.1bn cons.; Q4 guide $130.0bn",
+              "Beat sold: GM guide 71–72%, governance",
+              "SEC/company statement"
+            ],
+            [
+              "19 Nov",
+              "Anthropic",
+              "IPO debut",
+              "$83; $81.3bn raised",
+              "No AI buying follow-through; −9.1% day 2",
+              "Lock-up news"
+            ],
+            [
+              "19 Nov",
+              "US rates",
+              "Minutes",
+              "Hawkish FOMC minutes; Dec +25bp near-priced",
+              "Discount-rate headwind",
+              "December FOMC"
+            ],
+            [
+              "20 Nov",
+              "Tokyo",
+              "Market event",
+              "Nikkei −5.06%, 5th-largest fall on record",
+              ">90% of Prime issues fell",
+              "Tue 24 Nov reopen"
+            ],
+            [
+              "20 Nov",
+              "Nvidia",
+              "Regulatory report",
+              "SEC examining potential accounting issues (Reuters); −13.8% Fri",
+              "New non-earnings risk",
+              "Company comment"
+            ],
+            [
+              "20 Nov",
+              "US",
+              "Market event",
+              "S&P −8.50% w/w; correction; VIX 30",
+              "Seventh straight fall",
+              "Guidance-cut evidence"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "6. Idea candidates — candidates only",
+      "level": "section",
+      "html": "<p>1) Japan machinery/FA price-volume gap: orders +13.4% YoY vs AI-beta pricing; catalyst 24 Nov reopen and 16 Dec October orders; kill on cancellations/weak print; valuation 未取得. 2) Power equipment as the non-GPU leg: 800VDC/345kV/TCSC/SST flow vs chip-derivative pricing; kill on a hyperscaler capex cut; valuation 未取得. 3) <strong>Nvidia probe discount vs demand case: $125.84, −47% from the October high, on an unproven reported examination</strong>; monitoring candidate only until facts change; kill on a formal order or restatement; valuation 未取得. Full PM-frame text in the Markdown copy.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Week ahead — 23 to 27 November (JST)",
+      "level": "section",
+      "html": "<p>Mon 23 Nov Tokyo closed (Labour Thanksgiving Day); futures ¥54,600 is Tuesday's reference. <strong>Tue 24 Nov Tokyo reopen</strong>. US data/Fed speakers into the December FOMC (Dec +25bp near-priced). Thu 26 Nov US Thanksgiving, US closed. Fri 27 Nov month-end positioning; watch for Nvidia company comment and Anthropic follow-through.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": false,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution."
+}

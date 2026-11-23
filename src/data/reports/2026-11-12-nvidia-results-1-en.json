@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "editorReportId": 1,
+  "lang": "en",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Event Flash",
+  "dateDisplay": "12 November 2026",
+  "dateISO": "2026-11-12",
+  "sectorLine": "Global Equity Research",
+  "companyName": "NVIDIA Corporation (NVDA)",
+  "headlineHtml": "End of the Huang era: <strong>founder-CEO resigns with immediate effect</strong>; CFO Kress steps in as interim CEO five days before earnings",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "US$125.5",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "US$3.52tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "US$164 – 243",
+      "asOf": ""
+    },
+    {
+      "label": "Avg daily value",
+      "value": "≈US$31bn",
+      "asOf": ""
+    },
+    {
+      "label": "Shares out",
+      "value": "≈23.4bn",
+      "asOf": ""
+    },
+    {
+      "label": "P/E",
+      "value": "21.1x",
+      "asOf": ""
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY27 earnings — Tue 17 Nov",
+      "asOf": ""
+    },
+    {
+      "label": "Q3 FY27 guidance",
+      "value": "Revenue US$108bn ±2%",
+      "asOf": ""
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Under review:",
+  "ledeHtml": "We place our rating and price target for NVIDIA under review following the resignation of founder-CEO Jensen Huang, effective immediately, five days before Q3 FY27 results. <strong>The investment case now turns on succession and on whether the 17 Nov print can re-anchor the story on fundamentals</strong>.",
+  "bullets": [
+    {
+      "leadHtml": "Huang out, effective immediately.",
+      "html": "Jensen Huang has resigned as President, CEO and director with immediate effect; the board accepted the resignation on Wed 11 Nov (US) and announced it on Thu 12 Nov. Huang, 63, co-founded NVIDIA in 1993 and led it for 33 years; <strong>there is no designated successor</strong>."
+    },
+    {
+      "leadHtml": "Kress interim CEO; Jones first chair.",
+      "html": "CFO Colette Kress becomes interim CEO while retaining the CFO role. <strong>Harvey C. Jones has been appointed the company's first-ever board chair</strong>, separating the chair and CEO roles for the first time."
+    },
+    {
+      "leadHtml": "The tape is pricing a leadership vacuum.",
+      "html": "The stock fell 4.3% on Mon 9 Nov as the board investigation became public, a further 8.6% in Wednesday after-hours trade, and 12.9% in Thursday pre-market to US$151.38 — <strong>roughly US$600bn of market value erased this week</strong>."
+    },
+    {
+      "leadHtml": "Earnings in five days are the next catalyst.",
+      "html": "Q3 FY27 results remain scheduled for Tue 17 Nov. Company guidance is revenue of US$108bn ±2%; consensus stands near US$111.4bn revenue and US$2.53 EPS. <strong>Delivery against guidance, and any succession update on the call, will decide whether the de-rating stops here</strong>."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Financial summary — NVIDIA (fiscal year ends January)",
+        "sourceHtml": "Company reports. FY26A diluted EPS as reported; Q2 FY27 as reported.",
+        "kind": "table",
+        "columns": [
+          "US$ unless stated",
+          "FY26A",
+          "Q2 FY27"
+        ],
+        "rows": [
+          [
+            "Revenue (US$bn)",
+            "—",
+            "96.2"
+          ],
+          [
+            "EPS, diluted (US$)",
+            "4.90",
+            "2.22"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "What happened — facts and timeline",
+      "level": "section",
+      "html": "<p>NVIDIA announced on Thursday 12 November that Jensen Huang had resigned as President, Chief Executive Officer and director, effective immediately. The board had accepted the resignation the previous day. The departure follows a board investigation, opened on 8 Nov, and governance allegations reported in the US press; <strong>the company's announcement does not state a reason for the resignation</strong>.</p>\n<p>CFO Colette Kress was named interim CEO and keeps the CFO portfolio. Harvey C. Jones, a long-standing independent director, becomes the company's first board chair. The board will consider internal and external candidates for a permanent CEO.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Market impact and read-across",
+      "level": "section",
+      "html": "<p>The pre-market fall of 12.9% to US$151.38 takes the shares below the bottom of their recent range and roughly 23% below the level of a month ago. <strong>The move is, in our view, a key-man and governance de-rating rather than a revision to near-term fundamentals: no guidance change accompanied the announcement</strong>.</p>\n<p>Read-across runs in two directions. AI-accelerator peers and the Philadelphia Semiconductor Index will trade on sympathy and on any sign of order or roadmap slippage; NVIDIA's supply chain — foundry, HBM and server assembly, including the Japan equipment and materials names — will be watched for comments at the 17 Nov print.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Figure 1",
+          "titleHtml": "NVDA share price moves around the announcement",
+          "sourceHtml": "Market reports, 9–12 Nov 2026 (pre-market for 12 Nov).",
+          "kind": "image",
+          "src": "/report-assets/2026-11-12-nvidia-results-1/f2.svg",
+          "alt": "NVDA share price moves around the announcement"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Outlook for the next quarter — what we watch on 17 Nov",
+      "level": "section",
+      "html": "<p>Three questions decide the next quarter. First, the print itself: revenue against the US$108bn ±2% guide and the first formal outlook under the interim CEO. Second, succession: any timetable, candidate framing, or further board change. Third, governance process: Huang has been asked to give a closed-door congressional briefing on 18 Nov, which keeps headline risk alive into the print.</p>\n<p>Until at least the first two are answered, we keep the rating and price target under review. <mark>A clean print with credible succession language would, in our view, mark the de-rating as event-driven; a guidance cut or a contested succession would not</mark>.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

@@ -1,0 +1,645 @@
+{
+  "version": 1,
+  "editorReportId": 23,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "2026年11月16日",
+  "dateISO": "2026-11-16",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "SCREEN Holdings Co., Ltd. (7735)",
+  "headlineHtml": "<strong>World No.1 in wafer cleaning, guiding to a record year</strong>: initiation on the SPE leader whose BEOL share loss and H2 execution are the tests",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥7,121",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥1.46tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥5,825 – ¥19,770",
+      "asOf": "13 Nov 2026 (Finnhub; high on 1 Jul 2026)"
+    },
+    {
+      "label": "P/E (FY3/26 EPS ¥486.63)",
+      "value": "14.6x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY3/27E co. guidance EPS ¥607.72)",
+      "value": "11.7x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY3/27E dividend (company forecast)",
+      "value": "¥183 / share, post-split (2.1% yield)",
+      "asOf": "Q2 FY3/27 tanshin, 30 Oct 2026"
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY3/27 results, late Jan 2027 (est.)",
+      "asOf": "Third-party calendar estimate, Nov 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "The wafer-cleaning franchise at a WFE upcycle peak:",
+  "ledeHtml": "SCREEN Holdings Co., Ltd. (7735, TSE Prime) is the Kyoto-based holding company whose Semiconductor Production Equipment (SPE) business is the world No.1 supplier of wafer cleaning systems — single-wafer share of 34% and batch share of 43% in 2025 (Gartner, via Shared Research) — and which also operates Graphic Arts Equipment (GA), Display Production Equipment and Coater (FT) and PCB-Related Equipment (PE) businesses. SPE was 80.2% of revenue in FY3/26. The initiation case is a guidance case, not a forecast of our own: after FY3/26 revenue of ¥605,748mn (−3.1% YoY) and operating profit of ¥122,522mn (−9.7%), the company guides FY3/27 (guidance unchanged at Q2, 30 October 2026) to <strong>record revenue of ¥743,000mn (+22.7%), operating profit of ¥156,500mn (+27.7%, 21.1% margin)</strong> and profit attributable to owners of parent of ¥115,000mn (+25.0%), on its own view that the wafer fab equipment (WFE) market grows about 25% in calendar 2026 to $155bn and about 30% in 2027 to $200bn. Strengths: (1) a defensible cleaning franchise — cleaning is roughly 30% of wafer process steps and 5–10% of WFE, and within SPE single-wafer systems are about 75% of cleaning sales and batch about 20%; (2) profitability and balance-sheet strength unusual for a mid-cap equipment maker — SPE operating margin of 25.2% in FY3/26, group ROE of 20.3% and an equity ratio of 67.4%; (3) a growing post-sales (after-sales) base — 24.6% of SPE sales in H1 FY3/27 on the Shared Research summary — which dampens the equipment cycle. Weaknesses: (1) share has been lost and not yet recovered — <strong>cleaning share fell from 54% in 2013 to 33% in 2022 (capacity shortage) and, after recovering to 42% in 2024, fell again to 34% in 2025</strong>, with a dedicated Shared Research section on back-end-of-line (BEOL) share loss; (2) concentration — China was 38.4% of FY3/26 revenue, Taiwan 22.4% and a single customer, TSMC, 14.6% (Shared Research summary of company disclosure; see Basis of preparation); (3) governance and execution overhangs — the SPE subsidiary side-letter revenue-recognition misconduct (FY3/24 revenue overstated by ¥5,967mn; Chapter 3) and an H2-weighted FY3/27 plan that requires SPE sales of about ¥368.7bn and operating profit of about ¥101.5bn in H2 alone after an H1 that printed ¥8.6bn below the company's own H1 plan on installation timing. Historical figures are as reported under Japanese GAAP in the company's tanshin and IR highlights unless a source is named otherwise; the only forward figures are company guidance and company mid-term targets, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "Record guidance, H2-loaded.",
+      "html": "FY3/27 company guidance — revenue ¥743,000mn, operating profit ¥156,500mn, ordinary profit ¥156,500mn, net to parent ¥115,000mn, EPS ¥607.72 — was left unchanged at Q2 (30 October 2026), but H1 delivered only 41.5% of guided revenue and 34.8% of guided operating profit, so <strong>about ¥434.6bn of sales and ¥102.0bn of operating profit must land in H2</strong>. Source: Q2 FY3/27 tanshin, 30 October 2026."
+    },
+    {
+      "leadHtml": "Cleaning leadership, with a share problem to explain.",
+      "html": "SCREEN is world No.1 in both single-wafer (34%) and batch (43%) cleaning in 2025 (Gartner, via Shared Research), yet <strong>total cleaning share was 34% in 2025 versus 42% in 2024 and 54% in 2013</strong>; Shared Research devotes a section to BEOL share loss. Recovering BEOL and holding front-end share as WFE rises to a company-estimated $200bn in 2027 is the central operating question. Source: Shared Research report on 7735, 30 October 2026 (teardown notes)."
+    },
+    {
+      "leadHtml": "Strength — SPE economics and the post-sales ballast.",
+      "html": "<strong>SPE earned a 25.2% operating margin in FY3/26</strong> on sales of ¥485,982mn, and post-sales reached ¥61,800mn in H1 FY3/27 (+39.5% YoY), 24.6% of SPE sales (Shared Research). Group ROE was 20.3% in FY3/26 and the equity ratio 67.4% (company IR highlights, as of 30 October 2026). Source: FY3/26 tanshin, 13 May 2026; company IR highlights."
+    },
+    {
+      "leadHtml": "Weakness — concentration and the side-letter record.",
+      "html": "China was 38.4% of FY3/26 revenue and Taiwan 22.4%, with TSMC at 14.6% (Shared Research summary). Separately, a Special Investigation Committee found 23 SPE transactions in FY3/24 recognised on side letters (SLs) with undisclosed free-installation side agreements (SSLs), <strong>overstating FY3/24 revenue by ¥5,967mn</strong>; SLs have been abolished and recurrence measures and disciplinary action were announced on 28 February 2025. Source: company notices, 14 January 2025 and 28 February 2025; Shared Research."
+    },
+    {
+      "leadHtml": "Mid-term targets are effectively guided to be met — the next plan is the catalyst.",
+      "html": "Under 'Value Up Further 2026' (FY3/25–27) the company targets cumulative revenue of ¥1.8tn or more, a cumulative operating margin of 19% or more, ROIC of 15% or more and a payout ratio of 30% or more; management stated at the FY3/26 results (May 2026) that the three-year totals — about ¥1.956tn of revenue and a 20.9% average operating margin on actuals plus the FY3/27 forecast — would achieve all aspects. <strong>The next mid-term plan outline is due in late March 2027</strong>, with full figures in May 2027. The long-term target is revenue of ¥1tn or more by FY3/33. Source: company mid-term plan materials; Q2 FY3/27 earnings call, 30 October 2026."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance",
+        "sourceHtml": "FY3/22–FY3/27E: company IR highlights (as of 30 Oct 2026) and FY3/26 / Q2 FY3/27 tanshin. FY3/17–FY3/21: third-party compilations of company filings (TradingView via GlobalBankingAndFinance, Nov 2026) — see Basis of preparation. EPS/dividends on company restated split basis, shown from FY3/22 only. FY3/26 net to parent ¥92,003mn (tanshin basis; IR highlights print ¥92,033mn).",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY3/17",
+          "FY3/18",
+          "FY3/19",
+          "FY3/20",
+          "FY3/21",
+          "FY3/22",
+          "FY3/23",
+          "FY3/24",
+          "FY3/25",
+          "FY3/26",
+          "FY3/27E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "300230",
+            "339370",
+            "364230",
+            "323250",
+            "320320",
+            "411865",
+            "460834",
+            "504916",
+            "625269",
+            "605748",
+            "743000"
+          ],
+          [
+            "Revenue growth (%)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "28.6",
+            "11.9",
+            "9.6",
+            "23.8",
+            "-3.1",
+            "22.7"
+          ],
+          [
+            "Operating profit",
+            "33730",
+            "42730",
+            "29650",
+            "13030",
+            "24490",
+            "61273",
+            "76452",
+            "94164",
+            "135683",
+            "122522",
+            "156500"
+          ],
+          [
+            "Operating margin (%)",
+            "11.2",
+            "12.6",
+            "8.1",
+            "4",
+            "7.6",
+            "14.9",
+            "16.6",
+            "18.6",
+            "21.7",
+            "20.2",
+            "21.1"
+          ],
+          [
+            "Net income to parent",
+            "24170",
+            "28510",
+            "18060",
+            "5010",
+            "15160",
+            "45481",
+            "57491",
+            "70579",
+            "99467",
+            "92003",
+            "115000"
+          ],
+          [
+            "EPS (¥, restated split basis)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "244.1",
+            "304.1",
+            "371.1",
+            "511.8",
+            "486.6",
+            "607.7"
+          ],
+          [
+            "Dividend per share (¥, restated)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "73.3",
+            "91.3",
+            "111.8",
+            "154",
+            "146.5",
+            "183"
+          ],
+          [
+            "R&D expenses",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "24035",
+            "24760",
+            "27025",
+            "31705",
+            "37777",
+            "43000"
+          ],
+          [
+            "Total assets",
+            "301490",
+            "365870",
+            "380920",
+            "347960",
+            "382630",
+            "459305",
+            "562816",
+            "676808",
+            "671287",
+            "722421",
+            "—"
+          ],
+          [
+            "Equity ratio (%)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "53.9",
+            "53.3",
+            "54.9",
+            "62.7",
+            "67.4",
+            "—"
+          ],
+          [
+            "ROE (%)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "19.9",
+            "21",
+            "21",
+            "25.1",
+            "20.3",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>SCREEN reports under Japanese GAAP with a March year-end. Exhibit 1 (page 1) presents the longest verified history assembled for this initiation: FY3/22–FY3/26 and the FY3/27 forecast are taken from the company's own IR highlights table (as of 30 October 2026), which is stated on a consistent basis; FY3/17–FY3/21 revenue, operating profit, net income, total assets and equity are taken from third-party compilations of the company's filings (TradingView data via GlobalBankingAndFinance, retrieved November 2026) and are therefore one verification grade below the company table — see the Basis of preparation. No PL/segment sheet exists for this company in the programme, so no figure in this report rests on that route.</p>\n<p>The shape of the decade is a step-change after FY3/21. Revenue was ¥300.2bn in FY3/17, ¥339.4bn in FY3/18 and ¥364.2bn in FY3/19, fell to ¥323.2bn in FY3/20 and ¥320.3bn in FY3/21, then rose every year to a peak of ¥625,269mn in FY3/25 before easing to ¥605,748mn in FY3/26 (−3.1%). Operating profit tells the leverage story: ¥33.7bn (FY3/17), ¥42.7bn (FY3/18), ¥29.7bn (FY3/19), ¥13.0bn (FY3/20), ¥24.5bn (FY3/21), then ¥61,273mn, ¥76,452mn, ¥94,164mn, <strong>a record ¥135,683mn (21.7% margin) in FY3/25</strong> and ¥122,522mn (20.2%) in FY3/26. Profit attributable to owners of parent was ¥92,003mn in FY3/26 (company tanshin basis; the IR highlights table prints ¥92,033mn — a ¥30mn discrepancy flagged in the Basis of preparation), versus ¥99,467mn in FY3/25 and ¥70,579mn in FY3/24.</p>\n<p>Returns and investment intensity rose with the cycle. ROE (company definition: profit to parent divided by average equity) was 19.9% in FY3/22, 21.0% in FY3/23, 21.0% in FY3/24, 25.1% in FY3/25 and 20.3% in FY3/26. R&amp;D expenses rose from ¥24,035mn in FY3/22 to ¥37,777mn in FY3/26 (6.2% of revenue), with ¥43,000mn planned for FY3/27; capital expenditures were ¥27,710mn in FY3/26, with the FY3/27 plan raised to ¥58,000mn at Q2 FY3/27 (from ¥47,000mn in one summary and ¥43,000mn in another — see Basis of preparation) for Nagaokakyo capacity and the US ATCA R&amp;D centre. Depreciation and amortisation was ¥14,575mn in FY3/26. The balance sheet strengthened through the upcycle: total assets of ¥722,421mn and net assets of ¥486,684mn at 31 March 2026, an equity ratio of 67.4%, up from 53.9% in FY3/22. Per-share figures require care: the company split its shares 2-for-1 on 1 October 2023 and again on 1 April 2026, and its highlights table restates EPS and dividends on the hypothesis of a 1-to-4 split at the start of FY3/17 — on that basis basic EPS was ¥486.63 in FY3/26 and the annual dividend ¥146.50, against a FY3/27 forecast dividend of ¥183.00. Source: company IR highlights (as of 30 October 2026); FY3/26 tanshin, 13 May 2026; third-party filing compilations for FY3/17–21.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "SCREEN Holdings Co., Ltd. — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/c1.svg",
+          "alt": "SCREEN Holdings Co., Ltd. — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "SCREEN Holdings Co., Ltd. — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/c2.svg",
+          "alt": "SCREEN Holdings Co., Ltd. — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "SCREEN Holdings Co., Ltd. — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/c3.svg",
+          "alt": "SCREEN Holdings Co., Ltd. — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "SCREEN Holdings Co., Ltd. — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/v1.svg",
+          "alt": "SCREEN Holdings Co., Ltd. — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — Q2 FY3/27 results and guidance",
+      "level": "part",
+      "html": "<p>SCREEN reported Q2 FY3/27 (H1, April–September 2026) results on 30 October 2026. This chapter summarises the release; segment detail is in Chapter 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY3/27 results (cumulative, as reported)",
+      "level": "section",
+      "html": "<p>Revenue was ¥308,453mn (+12.5% YoY), operating profit ¥54,523mn (+17.4%, 17.7% margin), ordinary profit ¥55,977mn (+19.5%) and profit attributable to owners of parent ¥37,656mn (+18.2%); H1 EPS was ¥199.06 on the post-April-2026-split basis (Q2 FY3/27 tanshin, 30 October 2026). The half was back-loaded within itself: standalone Q1 (April–June 2026) contributed revenue of ¥121,775mn and operating profit of ¥14,369mn, and standalone Q2 (July–September 2026) revenue of ¥186,678mn and operating profit of ¥40,154mn (StockAnalysis quarterly compilation of company releases; the Q2 standalone operating profit of about ¥40.2bn was also the figure discussed in post-results coverage). Management attributed the Q1 softness and the H1 shortfall versus its own H1 plan — <strong>sales ¥8.6bn below plan and operating profit ¥1.5bn below plan</strong> — to installation timing: SPE revenue is recognised on an installation-completion basis, and delayed projects were fully posted in Q2 (Q2 FY3/27 earnings presentation and call, 30 October 2026).</p>\n<p>By segment in H1 (company presentation, as summarised by Shared Research and call summaries): SPE sales were about ¥251bn (+15% YoY; ¥251,300mn in one summary) with operating profit of ¥57.5bn (+18.2%, 22.9% margin); GA sales were ¥29.1bn with operating profit of ¥1.7bn; FT sales were ¥19.0bn (−18.9% YoY); PE sales were ¥7.0bn with a small operating loss of about ¥0.1bn. The company described order intake in H1 as a record high, driven by AI-related leading-edge logic and memory demand, with equipment lead times of generally four to five months. The mix inside SPE was memory-led: Shared Research records H1 SPE sales by application including DRAM-related new tools of ¥65,437mn (+97.8% YoY), foundry of ¥83,615mn (−19.4%) and post-sales of ¥61,800mn (+39.5%), the latter 24.6% of SPE sales. Cash flow was the weak line: operating cash flow was negative in H1 (about −¥10.9bn for the half on the company's presentation) as working capital absorbed cash against the record orders and higher inventories — the mirror image of the installation-basis revenue model. The balance sheet at 30 September 2026: total assets ¥792,505mn (+9.7% vs March 2026), net assets ¥522,016mn and an equity ratio of 65.9% (Q2 FY3/27 tanshin). The interim dividend was confirmed at ¥60 per share (post-split), payable from 1 December 2026. Source: Q2 FY3/27 tanshin, 30 October 2026; Q2 FY3/27 earnings presentation/call summaries, 30 October 2026; Shared Research report, 30 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance and the WFE view: unchanged totals, one segment cut",
+      "level": "section",
+      "html": "<p>Full-year FY3/27 guidance was left unchanged from the 28 July 2026 announcement: revenue ¥743,000mn (+22.7% YoY), operating profit ¥156,500mn (+27.7%), ordinary profit ¥156,500mn (+25.9%), profit to parent ¥115,000mn (+25.0%) and EPS ¥607.72, on FX assumptions from Q3 onward of USD/JPY 150 and EUR/JPY 175 (Q2 FY3/27 tanshin). By segment, the forecast is SPE sales of ¥620,000mn, GA ¥60,000mn, FT ¥42,000mn and PE ¥16,500mn; the only change at Q2 was FT, cut by ¥1,000mn of sales with FT operating profit cut to ¥1,000mn, while SPE, GA and PE forecasts were unchanged (Q2 call summaries, 30 October 2026). One post-results summary records SPE operating profit guidance of ¥159,000mn, which with H1 SPE operating profit of ¥57,500mn implies H2 SPE operating profit of about ¥101,500mn on H2 SPE sales of about ¥368,700mn — a 27.5% H2 SPE margin, above both the FY3/26 SPE margin (25.2%) and the H1 print (22.9%). <mark>That H2 step-up, dependent on installations completing on schedule, is the single largest execution risk in the guidance</mark> and should be tracked against Q3 orders and installation commentary. Note the guidance history: at the FY3/26 results in May 2026 the initial FY3/27 outlook was revenue of ¥725,000mn and operating profit of ¥150,000mn (company FY3/26 presentation); the current ¥743,000mn / ¥156,500mn figures date from the July 2026 revision and were maintained at Q2.</p>\n<p>The market assumption underneath guidance was raised at Q2. The company now expects the calendar-2026 WFE market to grow about 25% to $155bn (from an expectation of 15–20% growth to $134–140bn given at the May 2026 FY3/26 results) and calendar-2027 WFE to reach about $200bn, roughly +30% (Q2 FY3/27 presentation, 30 October 2026; Shared Research). These are the company's market views, not J-Core Fundamental Research estimates, and they frame both the opportunity (Chapter 4) and the cyclicality: SCREEN's own FY3/26 showed revenue falling even in a growing market when foundry and China equipment sales declined. The next scheduled disclosures are the Q3 FY3/27 tanshin in late January 2027 (third-party estimate: 28–29 January 2027) and the next mid-term plan outline in late March 2027. Source: Q2 FY3/27 tanshin and presentation, 30 October 2026; FY3/26 earnings presentation, 13 May 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>SCREEN Holdings, headquartered in Kyoto, is the holding company for operating companies organised by product and service into four reportable segments: SPE (semiconductor production equipment), GA (graphic arts equipment), FT (display production equipment and coater, including — from 1 April 2026 — the advanced-packaging business transferred into FT) and PE (PCB-related equipment). The group's stated core technologies are surface processing, direct imaging and image processing, and its corporate purpose, revised in 2023, is 'Innovation for a Sustainable World'. SPE is operated by SCREEN Semiconductor Solutions Co., Ltd. Revenue is recognised for SPE equipment, in principle, on completion of installation at the customer-specified location — the policy at the centre of the misconduct case in Section 3d. Source: FY3/26 tanshin segment note, 13 May 2026; company corporate materials, accessed November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "SPE — wafer cleaning is the franchise",
+      "level": "section",
+      "html": "<p>SPE develops, manufactures and markets semiconductor production equipment and provides maintenance (post-sales) services. Its centre of gravity is wafer cleaning. <strong>Cleaning accounts for roughly 30% of all wafer process steps and for about 5–10% of total WFE spending</strong>, so the addressable niche is large, recurring at every node and — because contamination control tightens as geometries shrink and structures become three-dimensional (HBM stacks, gate-all-around, advanced packaging) — technically demanding (Shared Research, 30 October 2026). Within SPE's cleaning sales, single-wafer systems are about 75% and batch (wet-station) systems about 20%, with the balance in related cleaning formats (Shared Research).</p>\n<p>The product families named in company materials include: single-wafer cleaning systems in the SU series (the SU-3200 and its successor SU-3300, a stacked-tower platform expandable to 24 chambers with the proprietary APAC/APAC2 atmosphere-control technology); scrubber-type single-wafer systems in the SS series (the SS-3200, described by the company as the de facto standard for spin scrubbers with over 500 systems shipped by 2020, and the SS-3300S at up to 1,000 wafers per hour; a 200mm SS-3200 variant was launched in November 2024 for power devices and other 200mm applications); the SB-3300 hybrid back-side cleaning system; batch wet stations; spin processors; and, outside cleaning, coat/develop tracks and advanced-packaging lithography equipment (company product releases: SU-3300, September 2016; SS-3300S and SB-3300, December 2020; SS-3200 for 200mm, November 2024). The commercial logic of the range is breadth across front-end-of-line (FEOL), middle- and back-end-of-line (BEOL) cleans plus a 200mm/legacy and power-device tail — which is precisely why the BEOL share loss discussed in Chapter 4 matters: it is a hole in the middle of the range, not at its edge.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "SPE beyond new tools: post-sales, and the R&D-efficiency claim",
+      "level": "section",
+      "html": "<p>Post-sales — maintenance, parts and services on the installed base — is the second leg of SPE. It was ¥61,800mn in H1 FY3/27 (+39.5% YoY), 24.6% of SPE sales (Shared Research), and management credited post-sales profitability with cushioning the FY3/26 SPE margin (25.2%) when equipment sales fell (FY3/26 tanshin). A rising installed base through the 2024–27 WFE upcycle mechanically grows this stream, but its margin and growth are not disclosed as a separate segment line in the tanshin and are tracked here only as disclosed in presentations and the Shared Research summary.</p>\n<p>Shared Research also publishes an R&amp;D-efficiency comparison (five-year cumulative operating profit divided by the prior five years' cumulative R&amp;D): SCREEN group 469.0%, <strong>SPE alone 817.0%</strong>, versus Tokyo Electron 542.9%, Disco 855.7% and Advantest 588.9% (Shared Research, 30 October 2026). The metric is Shared Research's construction, not a company disclosure; it is included because it frames the debate fairly — SCREEN converts R&amp;D into profit at roughly the peer rate at group level and at a high rate inside SPE, which sits awkwardly with a narrative of chronic under-investment, and points the share-loss question back toward capacity (2022) and BEOL product/competitiveness specifics rather than R&amp;D volume alone. Group R&amp;D was ¥37,777mn in FY3/26 and is planned at ¥43,000mn in FY3/27 (company IR highlights).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "GA, FT and PE — the non-SPE quarter of the group",
+      "level": "section",
+      "html": "<p>GA (SCREEN Graphic Solutions) sells graphic-arts equipment — principally digital inkjet printing systems — plus recurring business, mainly ink, which management describes as about half of GA sales and stable. GA sales were ¥57,494mn in FY3/26 (+8.5% YoY) with operating profit of ¥3,602mn (−16.1%; 6.3% margin), the profit decline attributed to higher fixed costs and US tariff effects (FY3/26 tanshin). FT (SCREEN Finetech Solutions) sells display production equipment and coaters; FY3/26 sales were ¥44,755mn (+24.9%) with operating profit of ¥8,605mn (+181.8%; 19.2% margin, described by the company as a record margin) on OLED equipment sales — a sharp recovery from operating losses in FY3/23 (−¥1.8bn) and FY3/24 (−¥0.4bn). From 1 April 2026 the advanced-packaging business was transferred into FT from the new-business segment, and FT comparatives are presented on that basis in FY3/27 materials; the FY3/27 FT forecast was nevertheless cut at Q2 to sales of ¥42,000mn and operating profit of ¥1,000mn, so the FY3/26 FT margin should not be extrapolated. PE (SCREEN PE Solutions) sells PCB-related equipment, including direct-imaging systems; FY3/26 sales were ¥14,545mn (+2.6%) with operating profit of ¥372mn on the tanshin segment note (2.6% margin; the IR highlights table rounds segment operating profit to ¥0.3bn), down on higher fixed costs, partly offset by post-sales growth. Together GA, FT and PE were 19.8% of FY3/26 revenue but only about 10% of segment operating profit before corporate adjustments — <strong>the group is, economically, SPE plus options</strong>. Source: FY3/26 tanshin, 13 May 2026; company IR highlights; Q2 FY3/27 presentation.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Governance: the SPE side-letter revenue-recognition misconduct",
+      "level": "section",
+      "html": "<p>This section states the facts as disclosed by the company; it is not a J-Core Fundamental Research allegation. SCREEN's SPE equipment revenue is recognised, in principle, when installation is completed. The company's Special Investigation Committee (established 14 November 2024 after the accounting auditor, KPMG AZSA LLC, questioned revenue-recognition timing for shipped equipment; the FY3/25 interim securities report deadline was extended to 14 January 2025) found the following, summarised in the company's timely disclosure of 14 January 2025 and its recurrence-prevention notice of 28 February 2025: for equipment stored long-term in customer warehouses and not installed because customer investment plans had changed, SCREEN Semiconductor Solutions (SCREEN SPE) recognised revenue on delivery where it had received a side letter (SL) from the customer stating installation was unnecessary; separately, emails and documents (SSLs) evidenced agreements to perform installation free of charge if the customer later requested it, notwithstanding the SLs. The committee determined that all 23 such transactions recorded in FY3/24 constituted improper conduct. The quantified effect recorded in the Shared Research summary is that FY3/24 revenue was overstated by ¥5,967mn (about 1.2% of FY3/24 revenue of ¥504,916mn). Installation work was in fact performed in FY3/25 on some equipment for which SL-based sales had been recorded in FY3/24.</p>\n<p>Remediation as disclosed: the use of SLs has been abolished; the company resolved recurrence-prevention measures and disciplinary action for those involved at its 28 February 2025 board meeting, and compliance training based on the case was delivered to the operating company directly involved and related group companies during FY3/25 (company notices, 28 February 2025; company compliance disclosure). Two implications are stated without embellishment. First, the episode concerned timing of revenue recognition on delivered equipment, not fictitious sales — but it directly involved the installation-basis policy that still governs SPE revenue and that caused the H1 FY3/27 plan miss on timing, so installation and acceptance discipline remains a live monitoring item. Second, any recurrence, or any restatement of the FY3/24 correction, would be a kill-condition event for the credibility of SPE reported sales; none is disclosed in the materials used for this report. Source: company notices, 14 November 2024, 14 January 2025 and 28 February 2025; Shared Research report, 30 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>SCREEN sells into the front end of the semiconductor value chain: wafer fab equipment makers supply fabs run by foundries (TSMC and others), logic IDMs, memory makers (DRAM including HBM, and NAND flash) and image-sensor, power-device and other specialty makers, with demand ultimately derived from AI data-centre investment, consumer electronics and automotive/industrial demand. The company's market frame at Q2 FY3/27 is WFE of $155bn in calendar 2026 (+25% YoY) rising to about $200bn in 2027 (+30%) (company presentation, 30 October 2026). Within WFE, cleaning is about 5–10% of spending but about 30% of process steps — a high-frequency, yield-critical step where process know-how, chemical handling and installed-base trust compound, and where a supplier is qualified tool-by-tool and fab-by-fab (Shared Research).</p>\n<p>Competitive position. <strong>SCREEN is the cleaning leader: 34% of single-wafer cleaning and 43% of batch cleaning in 2025</strong> (Gartner, via Shared Research). Competitors in cleaning and adjacent wet processing include Tokyo Electron, Lam Research, Applied Materials, ACM Research and SEMES (the Korean maker originally established as a SCREEN joint venture, now without a capital relationship but still using SCREEN technology under licence, per public company histories) — third-party estimates put SCREEN, Tokyo Electron, Applied Materials, ACM Research and Lam Research together at about 65% of wafer-cleaning revenue in 2024. The share history is the caution: SCREEN's overall cleaning share was 54% in 2013, fell to 33% in 2022 — a decline Shared Research attributes in part to capacity shortage during the demand surge, i.e., share lost by inability to supply rather than by losing qualifications — recovered to 42% in 2024, then fell to 34% in 2025, with Shared Research carrying a dedicated section on BEOL share loss. Read together, the two declines have different causes and different remedies: capacity (addressed by the Nagaokakyo investment and the FY3/27 capex plan of ¥58,000mn) and BEOL competitiveness (a product and process-support question). A WFE market growing to $200bn forgives many sins — even a flat 34% share implies a materially larger cleaning market in 2027 than in 2025 — but a further share step-down would convert a market-growth story into a share-recovery story, and the two should not be confused.</p>\n<p>Sensitivities follow from the mix. By application, H1 FY3/27 SPE momentum was DRAM-led (+97.8% for DRAM new tools on the Shared Research summary) with foundry down year on year in H1 but forecast to rise for the full year alongside DRAM and NAND; by destination, China and Taiwan dominate (Chapter 5), exposing SCREEN to Chinese fab capex, export-control policy and cross-strait risk in a way a revenue line alone understates. Post-sales (24.6% of H1 SPE sales) is the partial hedge: it follows the installed base, not the order cycle. Sources: company Q2 FY3/27 presentation, 30 October 2026; Shared Research report, 30 October 2026; Gartner shares via Shared Research.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "SCREEN in the semiconductor-equipment value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (semiconductor equipment &amp; materials value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/d1.svg",
+          "alt": "SCREEN in the semiconductor-equipment value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments",
+      "level": "part",
+      "html": "<p>SCREEN reports four segments — SPE, GA, FT and PE — with segment profit on an operating-profit basis and a corporate/eliminations adjustment reconciling to consolidated operating profit. Exhibit 2 gives the FY3/22–FY3/26 history from the company's IR highlights and tanshin.</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 6",
+          "titleHtml": "SCREEN Holdings Co., Ltd. — segment revenue, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/c4.svg",
+          "alt": "SCREEN Holdings Co., Ltd. — segment revenue, FY3/26"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 7",
+          "titleHtml": "SCREEN Holdings Co., Ltd. — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/v2.svg",
+          "alt": "SCREEN Holdings Co., Ltd. — segment revenue by year"
+        },
+        {
+          "id": "v3",
+          "number": "Figure 8",
+          "titleHtml": "SCREEN Holdings Co., Ltd. — segment revenue mix, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-screen-holdings-initiation-23/v3.svg",
+          "alt": "SCREEN Holdings Co., Ltd. — segment revenue mix, FY3/26"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Segment profit and loss: SPE carries the group",
+      "level": "section",
+      "html": "<p>FY3/26 segment results (FY3/26 tanshin, 13 May 2026): <strong>SPE sales ¥485,982mn (−6.5% YoY) and operating profit ¥122,707mn (−10.4%; 25.2% margin)</strong> — the decline attributed to lower sales and higher fixed costs, partly offset by improved post-sales profitability, with equipment sales for DRAM and post-sales up but foundry equipment down, and sales to China and the US down against Taiwan up. GA sales ¥57,494mn (+8.5%) and operating profit ¥3,602mn (−16.1%; 6.3%). FT sales ¥44,755mn (+24.9%) and operating profit ¥8,605mn (+181.8%; 19.2%). PE sales ¥14,545mn (+2.6%) and operating profit of ¥372mn (tanshin segment note; 2.6% margin). Segment operating profits sum to more than consolidated operating profit of ¥122,522mn; the difference is the corporate and eliminations adjustment (about −¥12.8bn implied), which readers should keep in view before capitalising segment margins.</p>\n<p>The five-year pattern (Exhibit 2) is one of SPE margin expansion through the upcycle — 19.7% (FY3/22), 20.7%, 23.2%, 26.4% (FY3/25), 25.2% (FY3/26) — alongside chronic thinness elsewhere: GA margins of 3.8–9.0%, FT swinging from loss to a 19.2% spike, and PE compressing from 19.9% in FY3/23 to 2.6% in FY3/26. The FY3/27 segment forecasts (sales: SPE ¥620,000mn, GA ¥60,000mn, FT ¥42,000mn, PE ¥16,500mn; FT operating profit cut to ¥1,000mn at Q2) imply that essentially all of the guided ¥34.0bn operating-profit increase must come from SPE volume and mix. Source: FY3/26 tanshin, 13 May 2026; company IR highlights; Q2 FY3/27 tanshin and call summaries, 30 October 2026.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 2. Segment sales and operating profit — FY3/22–FY3/26",
+          "sourceHtml": "Company IR highlights segment trends (¥bn, rounded) and FY3/26 tanshin segment note (¥mn): FY3/26 SPE sales ¥485,982mn / OP ¥122,707mn; GA ¥57,494mn / ¥3,602mn; FT ¥44,755mn / ¥8,605mn; PE ¥14,545mn / ¥372mn. Segment OP sums exceed consolidated OP by the corporate/eliminations adjustment.",
+          "kind": "table",
+          "columns": [
+            "¥bn",
+            "FY3/22",
+            "FY3/23",
+            "FY3/24",
+            "FY3/25",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "SPE — sales",
+              "319.3",
+              "370.9",
+              "417.6",
+              "519.5",
+              "485.9"
+            ],
+            [
+              "SPE — operating profit",
+              "62.8",
+              "76.9",
+              "97",
+              "136.9",
+              "122.7"
+            ],
+            [
+              "SPE — OP margin (%)",
+              "19.7",
+              "20.7",
+              "23.2",
+              "26.4",
+              "25.2"
+            ],
+            [
+              "GA — sales",
+              "43.3",
+              "45.6",
+              "47.7",
+              "53",
+              "57.4"
+            ],
+            [
+              "GA — operating profit",
+              "1.6",
+              "3.3",
+              "4.2",
+              "4.2",
+              "3.6"
+            ],
+            [
+              "FT — sales",
+              "33.2",
+              "26.1",
+              "23.2",
+              "35.8",
+              "44.7"
+            ],
+            [
+              "FT — operating profit",
+              "0.5",
+              "-1.8",
+              "-0.4",
+              "3",
+              "8.6"
+            ],
+            [
+              "PE — sales",
+              "13.3",
+              "16.8",
+              "14.6",
+              "14.1",
+              "14.5"
+            ],
+            [
+              "PE — operating profit",
+              "2",
+              "3.3",
+              "1.8",
+              "1",
+              "0.3"
+            ],
+            [
+              "Consolidated revenue",
+              "411.8",
+              "460.8",
+              "504.9",
+              "625.2",
+              "605.7"
+            ],
+            [
+              "Consolidated operating profit",
+              "61.2",
+              "76.4",
+              "94.1",
+              "135.6",
+              "122.5"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "SPE by application and destination; customer concentration",
+      "level": "section",
+      "html": "<p>Application mix. Shared Research's summary of company disclosure for H1 FY3/27 records SPE sales by application including: foundry ¥83,615mn (−19.4% YoY), DRAM new tools ¥65,437mn (+97.8%) and post-sales ¥61,800mn (+39.5%), the latter 24.6% of SPE sales of about ¥251bn. For the full-year FY3/27 forecast, management expects DRAM, foundry and NAND equipment sales all to increase year on year (Q2 FY3/27 summaries). An earlier company forecast split for SPE (given for a ¥502bn SPE sales year in FY3/26 planning materials) illustrates the normal shape of the mix — foundry about 45%, post-sales about 18%, DRAM about 16%, logic about 7%, flash about 4%, imaging devices about 2%, power devices about 2% and other about 5% — and is included as shape only, not as an FY3/27 forecast.</p>\n<p>Destination and concentration. For FY3/26, <strong>China accounted for 38.4% of consolidated revenue and Taiwan for 22.4%, and TSMC alone for 14.6%</strong> (Shared Research summary of company disclosure; the underlying customer-share table was not independently re-verified against the FY3/26 securities report in the sources used here — see Basis of preparation). In H1 FY3/27, management commentary records SPE sales to North America and Korea increasing, with memory-led growth. The concentration cuts both ways and should be stated plainly: the two largest destinations are also the two most policy-exposed (US export controls on advanced equipment to China; Taiwan concentration in a single foundry ecosystem), and the largest single customer is also the industry's most demanding qualifier — TSMC qualification is a credential that supports share elsewhere, while TSMC capex timing directly moves SCREEN's installation schedule, as the H1 timing miss showed. Orders are the forward indicator management emphasises — record-high orders in H1 FY3/27 — but SCREEN does not disclose a yen order-intake or backlog total for SPE in the Q2 tanshin itself; the record-orders statement rests on the earnings presentation and call, and no backlog figure is presented in this report as a result. Source: Shared Research report, 30 October 2026; Q2 FY3/27 earnings call summaries, 30 October 2026; FY3/26 tanshin.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (Japanese GAAP, ¥mn), as reported. Income statement, FY3/26 (FY3/26 tanshin, 13 May 2026): revenue ¥605,748mn; operating profit ¥122,522mn (20.2% margin); ordinary profit ¥124,323mn (−10.1% YoY); profit attributable to owners of parent ¥92,003mn (−7.5%) on the tanshin/StockAnalysis basis (IR highlights: ¥92,033mn — see Basis of preparation). Gross profit was ¥233,175mn (38.5% gross margin) on the StockAnalysis compilation of the filing. The five-year income-statement path is in Exhibit 1: revenue ¥411,865mn / ¥460,834mn / ¥504,916mn / ¥625,269mn / ¥605,748mn and operating profit ¥61,273mn / ¥76,452mn / ¥94,164mn / ¥135,683mn / ¥122,522mn for FY3/22–FY3/26, with ordinary profit of ¥124,323mn in FY3/26 against operating profit of ¥122,522mn (small net non-operating income).</p>\n<p>Balance sheet: total assets ¥459,305mn / ¥562,816mn / ¥676,808mn / ¥671,287mn / ¥722,421mn and net assets ¥247,788mn / ¥299,926mn / ¥371,911mn / ¥420,694mn / ¥486,684mn at each March year-end FY3/22–FY3/26 (company IR highlights); equity (parent) was ¥486,570mn at 31 March 2026 and the equity ratio 67.4% (Q2 FY3/27 tanshin comparative). At 30 September 2026 total assets were ¥792,505mn, net assets ¥522,016mn, equity ¥521,903mn and the equity ratio 65.9%. The group is in a substantial net-cash position on third-party balance-sheet compilations (cash and investments of ¥227,370mn against total debt of ¥6,091mn at March 2026, StockAnalysis) — a third-party aggregation, flagged as such, but consistent with the equity-ratio trajectory. Cash flow: operating cash flow was ¥92,707mn in FY3/26 (StockAnalysis compilation; FY3/25: ¥71,234mn; FY3/24: ¥96,255mn; FY3/23: ¥73,906mn; FY3/22: ¥81,752mn), free cash flow ¥67,200mn in FY3/26, turning negative at the operating level in H1 FY3/27 (about −¥10.9bn for the half, company presentation) on working capital for record orders. The company's own quarterly cash-flow summary (IR highlights) shows the same lumpiness within FY3/26 — operating cash flow by quarter of ¥6.9bn, ¥23.8bn, ¥9.6bn and ¥52.1bn — a reminder that SCREEN's cash conversion is installation- and acceptance-driven and should be judged on full years. Per-share data (restated 1-to-4 split hypothesis, company highlights): basic EPS ¥244.14 / ¥304.08 / ¥371.05 / ¥511.77 / ¥486.63 for FY3/22–FY3/26; dividends per share ¥73.25 / ¥91.25 / ¥111.75 / ¥154.00 / ¥146.50, implying a FY3/26 payout ratio of about 30.1% (calculated: ¥146.50 / ¥486.63), consistent with the 30%-or-more policy. Source: FY3/26 and Q2 FY3/27 tanshin; company IR highlights; StockAnalysis compilation, retrieved November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — 'Value Up Further 2026' versus targets",
+      "level": "part",
+      "html": "<p>The operative plan is the mid-term management plan 'Value Up Further 2026', covering FY3/25–FY3/27 as a period to build the management foundation for long-term growth. Its financial targets, as disclosed by the company and summarised by Shared Research, are: three-year cumulative revenue of ¥1.8tn or more; a cumulative operating margin of 19% or more; ROIC of 15% or more; and a consolidated dividend payout ratio of 30% or more. The long-term target beyond the plan is revenue of ¥1tn or more by FY3/33 (with an operating margin of 20% or more cited in plan summaries).</p>\n<p>Assessment against actuals plus company guidance (all figures company-reported or company guidance; no J-Core Fundamental Research forecast is involved): cumulative FY3/25–26 actual revenue was ¥1,231,017mn; <strong>adding FY3/27 guidance of ¥743,000mn gives ¥1,974,017mn — above the ¥1.8tn floor</strong>. Management's own three-year total given at the FY3/26 results was ¥1.956tn of revenue with a 20.9% average operating margin, and management stated confidence that all aspects of the plan would be achieved (FY3/26 earnings call, 13 May 2026; the small difference from the ¥1.974tn sum above reflects the guidance vintage used in May — ¥725,000mn for FY3/27 at that date versus ¥743,000mn after the July revision — see Basis of preparation). On the same basis the cumulative operating margin exceeds the 19% floor (FY3/25: 21.7%; FY3/26: 20.2%; FY3/27E: 21.1%). The payout test is met on FY3/26 alone at about 30.1% (calculated). ROIC against the 15% target is not independently calculated in this report: the company does not publish a single ROIC print in the tanshin or highlights used here, so ROIC achievement is recorded as company-asserted, not verified.</p>\n<p>Cash allocation over the plan (company FY3/26 call, 13 May 2026): cumulative three-year R&amp;D of ¥112.4bn, capital expenditures of ¥100.4bn and strategic investment of ¥80.0bn, all described as within expectations, with dividends of ¥89bn exceeding the original expectation. The FY3/27 capex step-up to ¥58,000mn (Nagaokakyo capacity; the US ATCA R&amp;D centre) is the capacity answer to the 2022 share-loss lesson. The next mid-term plan — outline in late March 2027, full figures at the May 2027 FY3/28 results — must bridge from a guided ¥743,000mn revenue year toward the ¥1tn FY3/33 target, which requires roughly 5% compound growth over six years on guided numbers (calculated) but at WFE levels the company itself frames as cyclical peaks; the credibility test for that plan will be its through-cycle margin and ROIC assumptions, not its revenue line. Source: company mid-term plan materials and FY3/26 earnings call, 13 May 2026; Shared Research, 30 October 2026; Q2 FY3/27 call, 30 October 2026.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 3. Mid-term plan 'Value Up Further 2026' — targets vs actuals plus company guidance",
+          "sourceHtml": "Targets: company mid-term plan materials via Shared Research (30 Oct 2026). Actuals: company tanshin / IR highlights. FY3/27 column is company guidance (Q2 FY3/27 tanshin, 30 Oct 2026), not a J-Core Fundamental Research forecast. Cash allocation: company FY3/26 earnings call, 13 May 2026.",
+          "kind": "table",
+          "columns": [
+            "Item",
+            "Target (plan)",
+            "FY3/25A",
+            "FY3/26A",
+            "FY3/27E (co. guidance)",
+            "Cumulative / assessment"
+          ],
+          "rows": [
+            [
+              "Revenue (¥mn)",
+              "≥1,800,000 cumulative (FY3/25–27)",
+              "625269",
+              "605748",
+              "743000",
+              "1974017"
+            ],
+            [
+              "Operating margin (%)",
+              "≥19 cumulative",
+              "21.7",
+              "20.2",
+              "21.1",
+              "Above floor on actuals + guidance"
+            ],
+            [
+              "ROIC (%)",
+              "≥15",
+              "—",
+              "—",
+              "—",
+              "Company-asserted; no print verified"
+            ],
+            [
+              "Payout ratio (%)",
+              "≥30",
+              "—",
+              "30.1",
+              "—",
+              "FY3/26 calculated: ¥146.50 / ¥486.63"
+            ],
+            [
+              "R&D — 3-yr cumulative (¥bn)",
+              "112.4",
+              "—",
+              "—",
+              "—",
+              "Per company cash-allocation report"
+            ],
+            [
+              "Capex — 3-yr cumulative (¥bn)",
+              "100.4",
+              "—",
+              "—",
+              "—",
+              "Per company cash-allocation report"
+            ],
+            [
+              "Strategic investment — 3-yr (¥bn)",
+              "80",
+              "—",
+              "—",
+              "—",
+              "Per company cash-allocation report"
+            ],
+            [
+              "Revenue FY3/33 (¥mn)",
+              "≥1,000,000",
+              "—",
+              "—",
+              "—",
+              "Long-term target"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History. The group traces its origin to Ishida Kyokuzan Printing Works, founded in Kyoto in 1868 for copperplate and lithographic printing. In 1934 it produced Japan's first glass screens for photographic reproduction — the 'screen' that still names the group — leading to the establishment of Dainippon Screen Mfg. Co., Ltd. on 11 October 1943. The electronics entry built on imaging and surface-processing technology: a full-scale move into semiconductor manufacturing began in 1978 with photoresist coating equipment (the Spinner series). In 2014 the group adopted a holding-company structure and renamed itself SCREEN Holdings Co., Ltd., with operating companies for SPE, graphic solutions, finetech and PE solutions. The shares have been listed in Tokyo since 1967 (third-party company data) and are now on the TSE Prime Market. Source: company history and management-message pages, accessed November 2026; company securities disclosures.</p>\n<p>Management. Representative Director, President and Chief Executive Officer: Masato Goto, appointed in June 2025 (company leadership pages as of October 2026; Q2 FY3/27 earnings call introduction, 30 October 2026). Representative Director and Chairman of the Board: Toshio Hiroe, president and CEO from June 2019 until becoming chairman in June 2025. Director and Vice Chairman: Yoichi Kondo (CFO until March 2026). Managing Executive Officer and CFO from April 2026: Manabu Ishimura. Head office: Kyoto, Japan. Note for the record: some third-party profiles still name Eiji Kakiuchi as CEO — that is stale data; the company's own leadership page and its October 2026 earnings calls name Goto, and this report follows the company.</p>\n<p>Major shareholders. The register is institution-dominated. Third-party compilations of company disclosure record The Master Trust Bank of Japan at 19.58% and the Custody Bank of Japan at 9.05% as the largest (custodial) holders, with Nippon Life at 3.85% and substantial asset-manager holdings (Capital Group about 6.3%, BlackRock about 5.1%, Nomura Asset Management about 3.8% in one compilation; Simply Wall St's holder table, on post-split share counts, records Nomura Asset Management 7.47% and BlackRock 6.61% among direct holders, plus MUFG Bank 3.32%, Kyoto Financial Group 2.85% and the SCREEN Business Partner Shareholding Association 1.98%). These compilations differ in date and in whether custodial trust accounts are shown, and the FY3/26 securities-report top-ten table was not re-verified line-by-line for this report — the ownership picture (trust-bank custody on top, no controlling shareholder, a business-partner association stake of about 2%) is reliable; individual percentages should be taken from the latest securities report before any use beyond this summary. Shares issued were 95,379,986 before the 1 April 2026 2-for-1 split (about 189m shares outstanding after the split, third-party data, November 2026). Employees: 7,240 as of 30 September 2026 (StockAnalysis, +4.79% YoY) — a third-party figure; consolidated headcount is disclosed in the securities report, not the tanshin.</p>\n<p>Shareholder returns. The policy under the mid-term plan is a consolidated payout ratio of 30% or more. Dividends (restated split basis): ¥146.50 for FY3/26 (interim ¥61.50, year-end ¥85.00 post-split equivalents; as-recorded pre-split total ¥293) and a FY3/27 forecast of ¥183.00 (interim ¥60 paid from 1 December 2026; year-end ¥123 forecast), a 2.1% yield on the 13 November 2026 price (calculated). No buyback total is stated in the sources used here and none is asserted.</p>\n<p>Market data. The shares closed at ¥8,564 on 13 November 2026 (Finnhub), giving a calculated market capitalisation of about ¥1.62tn on about 189m shares; StockAnalysis showed ¥7,938 on 16 November 2026 (−7.31% on the day) with a market capitalisation of ¥1.51tn — the two market-cap prints differ because they are struck on different days, and Finnhub's standing 'market cap 1.61T' field is consistent with the 13 November price, not the 16 November price (see Basis of preparation). The 52-week range was ¥5,825 to ¥19,770, the high on 1 July 2026 (Finnhub) — i.e., the shares had already fallen by more than half from the July peak before the pricing date of this report, a volatility fact (beta 2.72, Finnhub) that any reader should weigh alongside the guidance story. At ¥8,564 the shares trade at 17.6x FY3/26 EPS of ¥486.63, 14.1x FY3/27 company-guidance EPS of ¥607.72 and about 3.1x book value per share implied by equity of ¥521,903mn over about 189m shares (all calculated). The next scheduled disclosure is the Q3 FY3/27 tanshin in late January 2027 (third-party estimate).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources and their grades. (i) Primary company filings: FY3/26 tanshin (13 May 2026) and Q2 FY3/27 tanshin (30 October 2026) via TDnet/company release, and the company's IR highlights table (as of 30 October 2026) for FY3/22–FY3/26 history, segment trends, R&amp;D, capex, ROE, equity ratio, EPS and dividends. The president's name (Masato Goto) is verified from the company's own leadership pages and its October 2026 earnings calls. (ii) Shared Research report on 7735 dated 30 October 2026 (coverage started 30 July 2026), used via the programme teardown notes for: Gartner cleaning shares (single-wafer 34%, batch 43%, 2025) and the share path (54% in 2013, 33% in 2022, 42% in 2024, 34% in 2025); the single-wafer/batch mix within SPE (about 75%/20%); cleaning's weight in process steps and WFE (about 30% / 5–10%); H1 FY3/27 SPE sales by application (foundry ¥83,615mn, DRAM new tools ¥65,437mn, post-sales ¥61,800mn / 24.6%); FY3/26 destination and customer shares (China 38.4%, Taiwan 22.4%, TSMC 14.6%); the R&amp;D-efficiency comparison; the ¥5,967mn FY3/24 overstatement quantification; and the mid-term plan target set. These figures rest on the Shared Research summary of company disclosure, not on a line-by-line re-verification against the securities report, and are attributed as such wherever they appear. (iii) Company notices on the misconduct (14 November 2024; 14 January 2025; 28 February 2025) for the side-letter facts and remediation. (iv) Third-party compilations (StockAnalysis.com, Finnhub, TradingView data via GlobalBankingAndFinance, Simply Wall St, DCF-analysis) for FY3/17–FY3/21 history, quarterly splits, market data, employee and shareholder compilations — each attributed in the text. No PL/segment sheet exists for SCREEN in this programme; unlike sibling reports, no figure here is sourced to one.</p>\n<p>History shortfall. The Shared Research standard is a 10–11-year KPI history. Exhibit 1 presents FY3/17–FY3/27E (eleven fiscal years plus the forecast year), meeting the standard in span, but the FY3/17–FY3/21 block rests on third-party compilations rather than primary tanshin, EPS and dividends are shown on the company's restated basis only from FY3/22 (earlier per-share data on a consistent post-split basis was not verified), and ordinary profit, BPS and operating cash flow are not presented for the full eleven years. That is the verified-history shortfall, stated rather than filled by estimation.</p>\n<p>Discrepancies flagged (none silently resolved). (1) FY3/26 profit to parent: ¥92,003mn (tanshin header basis as compiled by StockAnalysis; also the teardown anchor) versus ¥92,033mn (company IR highlights table) — a ¥30mn difference; this report uses ¥92,003mn and flags the highlights print. (2) FY3/20 operating profit: ¥13,030mn (TradingView compilation) versus about ¥12.6bn in an AlphaSpread compilation; the higher-grade compilation is used and the difference flagged. (3) FY3/27 guidance vintage: ¥725,000mn revenue / ¥150,000mn operating profit at the May 2026 FY3/26 results versus ¥743,000mn / ¥156,500mn from July 2026 and maintained at Q2 — both are genuine company figures of different dates; the current guidance is used throughout. (4) FY3/27 capex plan before the Q2 raise: ¥47,000mn in one Q2 summary versus ¥43,000mn in another; the raised figure of ¥58,000mn is consistent across summaries and is used. (5) Mid-term three-year revenue total: ¥1.956tn (management, May 2026, on the then-current ¥725,000mn FY3/27 outlook) versus ¥1.974tn calculated from actuals plus current guidance — a vintage difference, not an error. (6) Market capitalisation: about ¥1.62tn calculated at the 13 November 2026 close versus ¥1.51tn shown by StockAnalysis struck at the 16 November close; 52-week high/low also differ slightly across providers (Finnhub ¥19,770 / ¥5,825 used). (7) PE FY3/26 operating profit: ¥372mn implied by the tanshin segment note margin versus ¥0.3bn rounded in IR highlights — rounding only. (8) Segment sales totals in third-party compilations differ from consolidated revenue by ¥1–2mn (rounding/eliminations), as in the tanshin itself.</p>\n<p>Conventions. Fiscal years are labelled by March year-end (FY3/27 = year ending 31 March 2027). EPS and dividends are on the company's restated basis (2-for-1 splits of 1 October 2023 and 1 April 2026; highlights restated as a 1-to-4 split from FY3/17) unless a figure is explicitly described as as-recorded pre-split. 'Company guidance' means SCREEN's published forecasts; this report contains no J-Core Fundamental Research forecasts and no invented buy/sell judgement. Items not disclosed in the sources used — a yen SPE order backlog, ROIC prints, unit volumes, capacity and utilisation — are described as not disclosed rather than estimated.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments; financial statements; mid-term plan versus targets; other information) and adds the Editor's rating rail and issuance evidence.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

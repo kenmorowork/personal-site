@@ -1,0 +1,865 @@
+{
+  "version": 1,
+  "editorReportId": 13,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "2026年11月16日",
+  "dateISO": "2026-11-16",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Amada Co., Ltd. (6113)",
+  "headlineHtml": "<strong>Record orders and a five-BU reset</strong>: the broadest metalworking portfolio in Japan, priced for a margin recovery",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥2,079",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥680.5bn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥1,741 – ¥3,224",
+      "asOf": "Finnhub, retrieved 16 Nov 2026"
+    },
+    {
+      "label": "P/E (FY3/26 EPS ¥96.7)",
+      "value": "21.5x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "Dividend FY3/27E (company forecast)",
+      "value": "¥64 / share",
+      "asOf": "Q2 FY3/27 tanshin, 12 Nov 2026"
+    },
+    {
+      "label": "FY3/27E (company guidance)",
+      "value": "Sales ¥490.0bn / OP ¥58.0bn",
+      "asOf": "Revised up 12 Nov 2026"
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY3/27 results",
+      "asOf": "Expected Feb 2027"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Initiation: scale, breadth and balance sheet — against a five-year margin slide",
+  "ledeHtml": "Amada is Japan's most comprehensive metalworking machinery maker: fibre-laser cutting, press brakes, turret punch presses, precision welding, cutting and grinding machines, presses and — since 2025 — PCB drilling machines, sold in more than 100 countries from a fortress balance sheet (owners' equity ratio 69.4% at end-FY3/26; company results via PL/segment sheet, tanshin, JPX archive). Strengths are structural: the widest product portfolio among global peers, a direct sales and service network with the Amada School and solution centres that lock in a large installed base, full order-intake and backlog disclosure by department that few machinery peers match, and a step-change in capital returns under the Medium-term Business Plan 2030 (over ¥250bn of returns over five years; company release, 14 May 2026). The weakness is equally clear in the numbers: revenue rose from ¥312.7bn in FY3/22 to a record ¥437.4bn in FY3/26, yet <strong>operating profit fell from a ¥56.5bn peak in FY3/24 to ¥44.8bn and the operating margin compressed from 14.0% to 10.2%</strong> over the same two years, as costs, scope changes and a loss-making new electronics business absorbed the growth. H1 FY3/27 (sales ¥230.4bn, +25.0% YoY; operating profit ¥28.0bn, +91.6% YoY; Q2 FY3/27 tanshin, 12 Nov 2026) and the upward guidance revision to ¥490.0bn / ¥58.0bn mark the first hard evidence of repair — the question this initiation frames is whether the new five-business-unit structure can convert <strong>record orders (FY3/26 intake ¥457.0bn; backlog ¥211.4bn, +56.7% YoY)</strong> into the FY2030 targets of ¥520bn sales, ¥73bn operating profit and ROE of 10% or more.",
+  "bullets": [
+    {
+      "leadHtml": "Record top line, fading margin.",
+      "html": "FY3/26 revenue of ¥437,372mn was a record (+10.3% YoY), but <strong>operating profit fell for a second year to ¥44,798mn (margin 10.2%, vs 14.0% in FY3/24)</strong> and net income to owners fell 5.7% to ¥30,554mn (EPS ¥96.7). Gross margin dropped 2.9pt to 40.6% in FY3/26. Source: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26."
+    },
+    {
+      "leadHtml": "Orders are the differentiator.",
+      "html": "Amada discloses order intake and period-end backlog by department in every tanshin. FY3/26 intake was ¥456,993mn (book-to-bill 1.04x) and <strong>backlog closed at ¥211,433mn, +56.7% YoY</strong>, after H&amp;F (presses, consolidated May 2025) and Via Mechanics (PCB drilling, July 2025) entered the scope. By end-H1 FY3/27 backlog had risen further to ¥333,366mn on the new business-unit basis. Source: orders note (受注及び販売の状況) in FY3/26 and Q2 FY3/27 tanshin."
+    },
+    {
+      "leadHtml": "H1 FY3/27 inflects — with a caveat.",
+      "html": "H1 FY3/27 sales rose 25.0% YoY to ¥230,406mn and <strong>operating profit 91.6% to ¥28,023mn (margin 12.2%)</strong>, helped by AI/data-centre demand, US tariff refunds, price pass-through and a weak yen (company commentary, Q2 FY3/27 tanshin, 12 Nov 2026). Full-year guidance was raised to sales ¥490,000mn / OP ¥58,000mn / net to owners ¥40,000mn (company guidance). The caveat: <strong>the new Electronics Process BU (Via Mechanics) lost ¥3,588mn in H1</strong> on ¥17,274mn of sales despite a ¥119,957mn backlog."
+    },
+    {
+      "leadHtml": "A new segment map from April 2026.",
+      "html": "With the business-unit system introduced on 1 April 2026, the two legacy reportable segments became five: Sheet Metal Solutions, Joining Technologies, Cutting Fabricator &amp; Grinding Technologies, Advanced Forming Solutions and Electronics Process, plus Other (real-estate leasing). History in this report is on the legacy basis disclosed through FY3/26; H1 FY3/27 is shown on both bases where the company restated comparatives. Source: Q2 FY3/27 tanshin, segment note."
+    },
+    {
+      "leadHtml": "Capital policy is now a pillar.",
+      "html": "The Medium-term Business Plan 2030 (14 May 2026) targets FY2030 sales of ¥520bn, operating profit of ¥73bn and ROE of 10% or more, with ¥150bn of growth investment and <strong>more than ¥250bn of shareholder returns over five years</strong> (a ¥150bn buyback envelope within it), a 50% payout-ratio target plus a DOE of 3–5%. A ¥50bn buyback (up to 25.0mn shares, 8.05% of issued shares) runs in FY3/27 with cancellation intended; the FY3/27 dividend forecast is ¥64 per share (company forecast, Q2 FY3/27 tanshin)."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Figure 1. Key indicators and financial history (¥mn, except per-share and %)",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26; FY3/27E is company guidance (Q2 FY3/27 tanshin, 12 Nov 2026) History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).",
+        "kind": "table",
+        "columns": [
+          "",
+          "FY3/17",
+          "FY3/18",
+          "FY3/19",
+          "FY3/20",
+          "FY3/21",
+          "FY3/22",
+          "FY3/23",
+          "FY3/24",
+          "FY3/25",
+          "FY3/26",
+          "FY3/27E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Sales",
+            "278,840",
+            "300,655",
+            "338,175",
+            "320,112",
+            "250,448",
+            "312,658",
+            "365,687",
+            "403,500",
+            "396,670",
+            "437,372",
+            "490,000"
+          ],
+          [
+            "Sales growth (%)",
+            "—",
+            "7.8",
+            "12.5",
+            "-5.3",
+            "-21.8",
+            "24.8",
+            "17.0",
+            "10.3",
+            "-1.7",
+            "10.3",
+            "12.0"
+          ],
+          [
+            "Gross profit",
+            "122,924",
+            "130,784",
+            "147,127",
+            "133,462",
+            "99,202",
+            "133,643",
+            "159,355",
+            "175,181",
+            "172,388",
+            "177,541",
+            "—"
+          ],
+          [
+            "Gross margin (%)",
+            "44.1",
+            "43.5",
+            "43.5",
+            "41.7",
+            "39.6",
+            "42.7",
+            "43.6",
+            "43.4",
+            "43.5",
+            "40.6",
+            "—"
+          ],
+          [
+            "Operating profit",
+            "33,030",
+            "37,965",
+            "45,316",
+            "34,682",
+            "26,705",
+            "38,538",
+            "49,867",
+            "56,507",
+            "49,076",
+            "44,798",
+            "58,000"
+          ],
+          [
+            "Operating margin (%)",
+            "11.8",
+            "12.6",
+            "13.4",
+            "10.8",
+            "10.7",
+            "12.3",
+            "13.6",
+            "14.0",
+            "12.4",
+            "10.2",
+            "11.8"
+          ],
+          [
+            "Profit before tax",
+            "36,219",
+            "43,271",
+            "47,913",
+            "33,789",
+            "28,818",
+            "40,496",
+            "49,608",
+            "58,066",
+            "49,157",
+            "45,706",
+            "—"
+          ],
+          [
+            "Net income to owners",
+            "25,894",
+            "29,856",
+            "33,420",
+            "23,390",
+            "18,564",
+            "27,769",
+            "34,158",
+            "40,638",
+            "32,386",
+            "30,554",
+            "40,000"
+          ],
+          [
+            "EPS (¥)",
+            "70.9",
+            "81.6",
+            "91.8",
+            "65.9",
+            "53.4",
+            "79.9",
+            "98.2",
+            "118.9",
+            "98.7",
+            "96.7",
+            "131.99"
+          ],
+          [
+            "Dividend per share (¥)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "62.0",
+            "64.0"
+          ],
+          [
+            "Order intake",
+            "275,881",
+            "322,482",
+            "335,196",
+            "303,179",
+            "255,190",
+            "375,040",
+            "394,808",
+            "381,281",
+            "372,869",
+            "456,993",
+            "—"
+          ],
+          [
+            "Order backlog (period-end)",
+            "45,089",
+            "66,917",
+            "80,887",
+            "63,954",
+            "68,697",
+            "138,005",
+            "172,152",
+            "159,688",
+            "134,916",
+            "211,433",
+            "—"
+          ],
+          [
+            "Operating cash flow",
+            "26,023",
+            "32,406",
+            "39,982",
+            "32,455",
+            "57,579",
+            "56,865",
+            "24,949",
+            "47,595",
+            "46,192",
+            "58,065",
+            "—"
+          ],
+          [
+            "Cash and equivalents (period-end)",
+            "76,723",
+            "78,239",
+            "56,295",
+            "47,167",
+            "75,868",
+            "106,791",
+            "98,556",
+            "93,420",
+            "104,841",
+            "153,626",
+            "—"
+          ],
+          [
+            "Owners' equity ratio (%)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "69.4",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Amada reports under IFRS with a March year-end. All historical figures in this report are taken from the company's tanshin (earnings releases) as compiled in the PL/segment sheet — cited throughout as &quot;Company results via PL/segment sheet (tanshin, JPX archive)&quot; — covering FY3/22 to FY3/26 annually and 20 quarters. The five-year arc is one of scale without profit conversion. Revenue grew at a 8.7% CAGR from ¥312,658mn (FY3/22) to ¥437,372mn (FY3/26), helped by the post-Covid capital-expenditure cycle, a weak yen and, in FY3/26, two acquisitions. <strong>Operating profit, however, peaked in FY3/24 at ¥56,507mn and declined for two consecutive years</strong> to ¥44,798mn in FY3/26, even as revenue set records in both years.</p>\n<p>The preceding five years, FY3/17–FY3/21, are held in the sheet's supplementary History block, each year as originally reported in its own annual tanshin — FY3/17 and FY3/18 under Japanese GAAP and FY3/19–FY3/21 under IFRS. Revenue rose from ¥278,840mn in FY3/17 to a peak of ¥338,175mn in FY3/19, eased to ¥320,112mn in FY3/20 and fell to ¥250,448mn in FY3/21 (−21.8% YoY). Operating profit followed the same arc, rising from ¥33,030mn (11.8% margin) in FY3/17 to ¥45,316mn (13.4%) in FY3/19, then declining to ¥34,682mn in FY3/20 and ¥26,705mn (10.7%) in FY3/21; gross margin narrowed from 44.1% in FY3/17 to 39.6% in FY3/21. Order intake peaked at ¥335,196mn in FY3/19 and fell to ¥255,190mn in FY3/21, while operating cash flow was positive in every year and reached its period high of ¥57,579mn in FY3/21, the weakest profit year, as receivables and inventories contracted with revenue.</p>\n<p>The KPI table on page 1 (Figure 1) summarises the record. Three features stand out. First, margin: gross margin held a narrow 43–44% band through FY3/25, then fell to 40.6% in FY3/26 as cost of sales rose 15.9% against 10.3% sales growth; SG&amp;A grew every year of the period, from ¥94,432mn to ¥134,177mn. Second, mix and scope: the metal-cutting machinery segment jumped 35.5% in FY3/26 on the H&amp;F press consolidation, while the core metalworking (sheet-metal) segment's sales actually declined for a second year (¥334,617mn in FY3/24 to ¥326,485mn in FY3/26) and its profit fell from ¥48,430mn to ¥37,333mn. Third, the balance sheet absorbed the expansion: borrowings rose from ¥10,954mn at end-FY3/25 to ¥80,800mn at end-FY3/26 (funding the Via Mechanics acquisition, per the sheet's source register), inventories rose to ¥157,746mn, and yet the owners' equity ratio stayed at 69.4% and cash rose to ¥153,626mn on operating cash flow of ¥58,065mn.</p>\n<p>Orders tell the forward story the P&amp;L has not yet delivered: intake recovered to ¥456,993mn in FY3/26 (book-to-bill 1.04x) after two soft years, and backlog rebuilt to ¥211,433mn — the base from which the FY3/27 guidance (sales ¥490,000mn, company guidance) is built. Per-share data reflect steady buybacks: weighted shares fell from 347.7mn (FY3/22) to about 316mn (FY3/26), so EPS of ¥96.7 in FY3/26 fell less than net income. Amada has no dilutive securities; diluted EPS equals basic (company disclosure, all periods). Data not disclosed in the tanshin — R&amp;D expenditure, period-end employees, unit volumes, capacity and utilisation — are left blank in the sheet and are not estimated here.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Amada Co., Ltd. — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/c1.svg",
+          "alt": "Amada Co., Ltd. — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Amada Co., Ltd. — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/c2.svg",
+          "alt": "Amada Co., Ltd. — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Amada Co., Ltd. — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/c3.svg",
+          "alt": "Amada Co., Ltd. — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Amada Co., Ltd. — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/v1.svg",
+          "alt": "Amada Co., Ltd. — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Five-year record in detail",
+      "level": "section",
+      "html": "<p>Revenue by year (¥mn): FY3/22 312,658; FY3/23 365,687 (+17.0%); FY3/24 403,500 (+10.3%); FY3/25 396,670 (−1.7%); FY3/26 437,372 (+10.3%). Operating profit (¥mn): 38,538; 49,867; 56,507; 49,076; 44,798 — margins of 12.3%, 13.6%, 14.0%, 12.4% and 10.2%. Profit before tax followed the same path (¥40,496mn; ¥49,608mn; ¥58,066mn; ¥49,157mn; ¥45,706mn), with the effective tax rate between 29.7% and 33.6%. Net income attributable to owners was ¥27,769mn, ¥34,158mn, ¥40,638mn, ¥32,386mn and ¥30,554mn, giving EPS of ¥79.9, ¥98.2, ¥118.9, ¥98.7 and ¥96.7 (calculated from reported net income and weighted shares in the PL/segment sheet; FY3/26 EPS of ¥96.67 is also the figure carried by Finnhub, retrieved 16 Nov 2026).</p>\n<p>Cash generation remained solid throughout: operating cash flow was ¥56,865mn (FY3/22), ¥24,949mn (FY3/23), ¥47,595mn (FY3/24), ¥46,192mn (FY3/25) and ¥58,065mn (FY3/26), against capex of ¥15,271mn, ¥24,949mn, ¥16,045mn, ¥11,201mn and ¥9,599mn, and D&amp;A of ¥17,609mn to ¥22,843mn. The FY3/23 operating cash flow dip coincides with the inventory build (¥101,885mn to ¥134,536mn) that accompanied the order surge of that year — a recurring pattern in this business: backlog, inventory and receivables (¥158,052mn at end-FY3/26) all expand ahead of revenue. Source for all figures in this section: company results via PL/segment sheet (tanshin, JPX archive).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — Q2 FY3/27 results and guidance",
+      "level": "part",
+      "html": "<p>Amada reported H1 FY3/27 (April–September 2026) results on 12 November 2026 (Q2 FY3/27 tanshin). Sales were ¥230,406mn, +25.0% YoY; <strong>operating profit ¥28,023mn, +91.6% YoY (margin 12.2%, vs 7.9% in H1 FY3/26)</strong>; profit before tax ¥27,022mn; net income attributable to owners ¥18,183mn, +83.4% YoY; basic EPS ¥59.04 (no diluted EPS — no potential shares). Comprehensive income fell 24.2% YoY to ¥15,317mn on currency-translation effects. The company attributes the profit jump to volume growth, yen weakness, refunds of US tariffs, manufacturing rationalisation and price pass-through (company commentary, Q2 FY3/27 tanshin).</p>\n<p>Demand colour was explicitly AI-led. Domestic sales rose 8.8% YoY to ¥74,642mn on automation and labour-saving demand, semiconductor-equipment, data-centre, medical and logistics capex. Overseas sales rose 34.6% to ¥155,763mn: North America ¥68,927mn (+33.3%) on data-centre demand at a high level plus heavy-machinery and defence demand; Europe ¥38,340mn (+12.5%) including defence and aerospace; Asia and others ¥48,495mn (+62.1%) on data-centre demand and production relocation (all figures: Q2 FY3/27 tanshin, qualitative section; the H1 regional split combines China within Asia and others).</p>\n<p>Guidance was revised up at the same announcement. Full-year FY3/27 company guidance is now sales ¥490,000mn (+12.0% YoY), operating profit ¥58,000mn (+29.5%), net income to owners ¥40,000mn (+30.9%) and basic EPS ¥131.99 — raised from the initial May 2026 guidance of ¥460,000mn / ¥48,000mn / ¥34,000mn (source register S10 in the PL/segment sheet; Q2 FY3/27 tanshin, section 3). H1 progress against the revised guide is 47.0% on sales and 48.3% on operating profit, a normal seasonal position for a business whose Q4 is seasonally largest (Q4 was 32.6% of FY3/26 sales). The interim dividend was set at ¥32 per share and the full-year dividend forecast is ¥64 (¥32 interim + ¥32 year-end forecast), versus ¥62 paid for FY3/26 (Q2 FY3/27 tanshin, dividend section). The share price responded: the stock closed at ¥2,468 on 13 November 2026, +7.59% on the day (StockAnalysis price history, retrieved Nov 2026), before falling 7.50% to ¥2,283 on 16 November (Finnhub / StockAnalysis) — a reminder that the recovery is being priced in real time.</p>\n<p>Balance sheet at end-H1 FY3/27: total assets ¥749,435mn, equity attributable to owners ¥520,721mn, owners' equity ratio 69.5% (Q2 FY3/27 tanshin). Issued shares are unchanged at 317,451,417; treasury shares rose to 14,392,778 (from 6,918,530 at end-FY3/26) as the FY3/27 buyback progressed — in October 2026 alone the company acquired 2,529,300 shares for ¥6,308mn by market purchase (company buyback status notice, via Japan IR listing, Nov 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "New five-business-unit disclosure — and what it reveals",
+      "level": "section",
+      "html": "<p>From Q1 FY3/27 (1 April 2026) Amada replaced its two reportable segments with five business units (BUs), restating H1 FY3/26 comparatives (Q2 FY3/27 tanshin, segment note). H1 FY3/27 by BU — sales / operating profit (¥mn): Sheet Metal Solutions 149,763 / 22,566 (margin 15.1%; sales +18.8% YoY, profit +110.2%); Joining Technologies 18,561 / 2,657 (+35.7% / +210.9%) on data-centre, optical-communications and EV-related welding demand; Cutting Fabricator &amp; Grinding Technologies 21,989 / 2,909 (+4.9% / +36.3%), held back by a stagnant domestic construction market for cutting machines; Advanced Forming Solutions 22,233 / 2,994 (+11.9% / +53.7%), including H&amp;F synergy on large automotive press lines; Electronics Process 17,274 / −3,588 (sales +450.1% YoY, but the loss widened from −¥1,486mn in H1 FY3/26, which included only three months of Via Mechanics); Other (real-estate leasing) 583 / 484. Segment profit reconciles directly to consolidated operating profit with no adjustment column.</p>\n<p>Two judgements follow. First, the core is healthier than the FY3/26 consolidated print suggested: <strong>Sheet Metal Solutions earned a 15.1% margin in H1 FY3/27</strong>, above any full-year margin the legacy metalworking segment printed in FY3/22–26. Second, <mark>Electronics Process is the swing factor</mark>: it carries the largest backlog of any BU (¥119,957mn at end-H1, 36.0% of the group total; orders note, Q2 FY3/27 tanshin) on surging AI/package-substrate drilling demand, yet loses money at the operating line. Whether that reflects integration costs, purchase-price allocation amortisation or underlying economics is not broken out in the tanshin — it is the single most important disclosure to press for at the next briefing. This report makes no forecast of our own; the only forward figures used are company guidance.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Amada Co., Ltd., headquartered in Isehara, Kanagawa, is a comprehensive manufacturer of metalworking machinery — it develops, manufactures, sells, leases and services the machines, tooling, software and automation that turn sheet metal and metal stock into finished parts. Its customers are job shops and OEMs across automotive, electronics, construction machinery, aerospace, medical, energy and general fabrication. The group's own description of its two legacy businesses (FY3/26 tanshin) frames the portfolio: metalworking machinery (sheet-metal products and precision welding) and metal-cutting machinery (cutting, grinding and press products) — now reorganised into the five BUs described in section 2.</p>\n<p>The core franchise is sheet metal. Flagship lines include fibre-laser cutting machines (the ENSIS series, using Amada's own fibre-laser oscillator with beam-control technology that processes thin and thick material from a single resonator; the REGIUS series at the high end), NC turret punch presses (EM Z series), press brakes and bending robots (EGB series and automated bending cells), shearing machines and combination punch-laser machines. Around the machines sits the automation layer — loaders, storage towers and sorting systems — and the software layer: VPSS 3i (Virtual Prototyping Simulation System), which simulates the full production process from 3D data before metal is cut, and SheetWorks 3D CAD. Joining Technologies covers fibre-laser and resistance welding, including precision (micro) welding for electronic components, batteries and medical devices. Cutting Fabricator &amp; Grinding covers band saws and cutting machines (the group's founding product), carbide blades and profile grinders. Advanced Forming covers mechanical and servo presses, from Amada Press System's small and mid-size machines to H&amp;F's large presses for automotive lines. Electronics Process is Via Mechanics' PCB drilling machines (mechanical and laser), aimed at package-substrate production for AI servers.</p>\n<p>Service and support are integral, not ancillary. The V-factory IoT service connects installed machines to Amada's support centre for operating-status visualisation, predictive maintenance and remote support; the AMNC 3i control is the on-machine interface. The Amada School provides operator and programmer training (for example at Haan in Germany and the Schaumburg Solution Center and Los Angeles Technical Center in the US; Amada America / Amada EU training pages, retrieved Nov 2026), and solution/technical centres let customers test-produce their own parts on Amada equipment before purchase — a direct descendant of the demonstration-car sales method Amada pioneered in 1960 (company history, amada.co.jp). The Amada Global Innovation Center (AGIC) at the Isehara head office, opened in February 2023, is the group's customer co-creation hub (company history page, retrieved Nov 2026). Manufacturing is centred on the Fujinomiya Works (fabricating equipment) and Isehara, with overseas production including North Carolina in the US.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Products and technology",
+      "level": "section",
+      "html": "<p>Amada's technology claims rest on three in-house assets. (1) Its own fibre-laser oscillator: unlike assemblers who buy laser sources, <strong>Amada designs its oscillator and beam-control (ENSIS technology varies beam shape by material and thickness)</strong>, which it positions as the source of its cutting quality across thin-to-thick ranges. (2) Process breadth: cutting, punching, bending, welding and pressing under one roof lets Amada sell process chains and automation cells rather than stand-alone machines — the practical basis of the mid-term plan's shift from &quot;selling products&quot; (モノ売り) to &quot;selling products × solutions&quot; (モノ×コト売り). (3) Data: VPSS 3i digital prototyping plus V-factory machine data give Amada a claim on the customer's production data layer, which the 2030 plan intends to monetise with AI-based optimisation (company release, 14 May 2026).</p>\n<p>The portfolio also carries technology risk the other way: the highest-growth product of the last two years is one Amada bought, not built — Via Mechanics' drilling machines for AI package substrates — and the highest-power end of laser cutting is contested by Chinese makers (Han's Laser, Bodor, HSG) at materially lower prices (see section 4). R&amp;D expenditure is not disclosed in the tanshin and is therefore not quantified in this report; it is disclosed in the annual securities report, which is outside the sources used here.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Software, service and the installed base",
+      "level": "section",
+      "html": "<p>The recurring layer matters for earnings quality. Every machine sale seeds tooling, spare parts, maintenance contracts, software licences and eventual replacement demand, and Amada's direct-sales model (demonstration cars in 1960; solution centres today) keeps that relationship in-house rather than with dealers. The company does not disclose a service-revenue split in the tanshin, so this report does not estimate one — a genuine gap, because the stability of the FY3/22–26 profit base through the FY3/25 downturn (operating margin held at 12.4% in a down-revenue year) is consistent with a meaningful recurring base. Installed-base units are likewise not disclosed (PL/segment sheet, register S9). What can be verified is the physical network: solution centres and technical centres across Japan, North America (Schaumburg; Los Angeles; High Point, North Carolina — where a Welding Technology Zone opened in July 2026), Europe (Haan, Landshut, Reutlingen) and Asia, plus the AGIC in Isehara (company sources, retrieved Nov 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Sheet-metal machinery is a mid-single-digit-growth global market with premium and value tiers separating. One recent industry study sizes the sheet-metal cutting machine market at US$5.57bn in 2025, growing at a 6.85% CAGR to US$8.86bn by 2032, with laser cutting at 51.6% of revenue and Asia-Pacific at 40.9% of demand (PW Consulting, 2025; retrieved Nov 2026); a second sizes basic sheet-metal equipment at US$9.86bn in 2025 growing at 5.2% to 2034 (Dataintelo, 2026). Such third-party sizings vary by definition and are indicative only. The demand drivers visible in Amada's own disclosures are more concrete: data-centre construction and AI-server supply chains (electrical enclosures, busbar and power equipment, optical-communication parts, package substrates), defence and aerospace work in North America and Europe, labour-shortage-driven automation in Japan, and EV-related welding and forming. The offsetting drags named by the company in H1 FY3/27 were domestic construction stagnation and high materials costs, against a backdrop of geopolitical risk and high interest rates (Q2 FY3/27 tanshin).</p>\n<p>The competitive set is global and tiered. TRUMPF (Germany, private) is the scale and brand leader in laser cutting and connected manufacturing; Bystronic (Switzerland) is a premium laser-and-bending specialist that agreed in February 2026 to acquire Coherent's tools-for-materials-processing business (company announcement, cited in PW Consulting research); Prima Power (Italy) and Salvagnini compete on automated cells; LVD (Belgium) on press brakes; in Japan, Mazak Optonics (Yamazaki Mazak) and Mitsubishi Electric contest laser cutting; Chinese makers — Han's Laser (2025 revenue of about US$2.67bn), Bodor and HSG — press the standard-power segment on price (industry sources retrieved Nov 2026). Amada's differentiation, on the evidence of its own results, is breadth plus service density: it is <strong>the only player offering the full chain from cutting through pressing and drilling</strong> with a proprietary software and IoT layer, and its FY3/26 North America sales of ¥120,592mn (27.6% of group sales) show the model travels. The value-chain risk is symmetric: the same breadth exposes Amada to every capex pocket at once, and its FY3/25 revenue decline (−1.7%) came despite record industry conditions in some niches.</p>\n<p>Upstream, Amada depends on laser components, CNC controls, servo systems and steel; downstream, its customers' capex is financed against end-demand in construction, autos and electronics, which is why orders (section 5) lead revenue by two to four quarters in this industry. Entry barriers are the installed base, service network and process know-how rather than patents alone — a new entrant can sell a laser cutter, but replicating Amada's response-time service across rural Japan, the US Midwest and provincial Europe is a decades-long project. That moat is real but not costless: it is carried in the SG&amp;A line, which has grown from 30.2% of sales (FY3/22) to 30.7% (FY3/26) on the PL/segment sheet's figures, and is a central reason margin recovery requires volume, not just price.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "Amada in the machine-tool value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (machine tools &amp; FA value chain); company business units from §2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/d1.svg",
+          "alt": "Amada in the machine-tool value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>On the legacy basis disclosed through FY3/26, Amada had two reportable segments plus Other (Figure 2). Metalworking machinery (金属加工機械 — sheet metal and micro-welding) is the group: <strong>¥326,485mn of FY3/26 sales (74.6%) and ¥37,333mn of segment profit (margin 11.4%)</strong>, down from ¥48,430mn and 14.5% in FY3/24. Metal-cutting machinery (金属工作機械 — cutting, grinding and presses) grew sales 35.5% to ¥88,345mn in FY3/26 on the H&amp;F consolidation, but profit rose only to ¥9,161mn (margin 10.4%, vs 10.9% in FY3/24). Other — historically real-estate leasing of idle land — jumped from ¥1,255mn to ¥22,541mn of sales in FY3/26 as Via Mechanics was booked there from July 2025, and swung to a ¥1,696mn segment loss (from +¥1,780mn), the arithmetic signature of acquisition costs and a partial year. Segment profit is operating profit by the company's definition, with a nil adjustment column in all periods, so the three columns sum exactly to consolidated operating profit (PL/segment sheet, register S3).</p>\n<p>Regions are disclosed annually by customer location (Figure 2, lower panel; no regional profit is disclosed). Japan remains the largest market but is shrinking as a share: ¥126,954mn (40.6% of sales) in FY3/22 to ¥156,078mn (35.7%) in FY3/26. North America is the growth engine — ¥72,709mn to ¥120,592mn over the same period (+65.9% cumulative), reaching 27.6% of sales. Europe grew to ¥84,688mn in FY3/24 then stalled (¥82,383mn in FY3/26). China troughed at ¥13,296mn in FY3/24 and recovered 47.5% to ¥20,875mn in FY3/26; Asia and others jumped 40.0% to ¥57,441mn in FY3/26, helped by Via Mechanics' Asian exposure. The structural read: more than 64% of sales are now overseas, so yen translation and US tariff policy are first-order P&amp;L variables — H1 FY3/27 explicitly benefited from both yen weakness and US tariff refunds (company commentary).</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 2",
+          "titleHtml": "Figure 2. Segment and regional sales and profit (¥mn) — legacy disclosure basis",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive). Segment profit = operating profit (company definition); regional profit not disclosed. Other sales/profit include Via Mechanics from Jul 2025 History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).",
+          "kind": "table",
+          "columns": [
+            "",
+            "FY3/17",
+            "FY3/18",
+            "FY3/19",
+            "FY3/20",
+            "FY3/21",
+            "FY3/22",
+            "FY3/23",
+            "FY3/24",
+            "FY3/25",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "Metalworking machinery — sales",
+              "229,492",
+              "249,214",
+              "272,872",
+              "257,126",
+              "203,087",
+              "255,892",
+              "301,371",
+              "334,617",
+              "330,201",
+              "326,485"
+            ],
+            [
+              "Metalworking machinery — profit",
+              "25,007",
+              "29,218",
+              "35,691",
+              "27,537",
+              "21,440",
+              "31,176",
+              "41,513",
+              "48,430",
+              "40,396",
+              "37,333"
+            ],
+            [
+              "Metalworking margin (%)",
+              "10.9",
+              "11.7",
+              "13.1",
+              "10.7",
+              "10.6",
+              "12.2",
+              "13.8",
+              "14.5",
+              "12.2",
+              "11.4"
+            ],
+            [
+              "Metal-cutting machinery — sales",
+              "48,056",
+              "50,118",
+              "64,269",
+              "61,744",
+              "46,176",
+              "55,513",
+              "63,028",
+              "67,582",
+              "65,213",
+              "88,345"
+            ],
+            [
+              "Metal-cutting machinery — profit",
+              "7,607",
+              "8,329",
+              "9,277",
+              "6,510",
+              "3,608",
+              "6,676",
+              "7,632",
+              "7,353",
+              "6,899",
+              "9,161"
+            ],
+            [
+              "Metal-cutting margin (%)",
+              "15.8",
+              "16.6",
+              "14.4",
+              "10.5",
+              "7.8",
+              "12.0",
+              "12.1",
+              "10.9",
+              "10.6",
+              "10.4"
+            ],
+            [
+              "Other — sales",
+              "1,291",
+              "1,322",
+              "1,033",
+              "1,240",
+              "1,184",
+              "1,252",
+              "1,286",
+              "1,301",
+              "1,255",
+              "22,541"
+            ],
+            [
+              "Other — profit",
+              "415",
+              "417",
+              "347",
+              "633",
+              "1,656",
+              "685",
+              "721",
+              "722",
+              "1,780",
+              "-1,696"
+            ],
+            [
+              "Japan — sales",
+              "—",
+              "—",
+              "148,992",
+              "145,668",
+              "112,848",
+              "126,954",
+              "141,769",
+              "149,024",
+              "144,313",
+              "156,078"
+            ],
+            [
+              "North America — sales",
+              "—",
+              "—",
+              "67,535",
+              "69,233",
+              "55,921",
+              "72,709",
+              "96,260",
+              "113,112",
+              "113,559",
+              "120,592"
+            ],
+            [
+              "Europe — sales",
+              "—",
+              "—",
+              "63,073",
+              "59,781",
+              "44,866",
+              "63,382",
+              "71,840",
+              "84,688",
+              "83,609",
+              "82,383"
+            ],
+            [
+              "China — sales",
+              "—",
+              "—",
+              "20,575",
+              "13,020",
+              "12,407",
+              "15,557",
+              "15,502",
+              "13,296",
+              "14,152",
+              "20,875"
+            ],
+            [
+              "Asia & others — sales",
+              "—",
+              "—",
+              "37,997",
+              "32,408",
+              "24,404",
+              "34,055",
+              "40,315",
+              "43,378",
+              "41,035",
+              "57,441"
+            ]
+          ]
+        },
+        {
+          "id": "f2a",
+          "number": "Table 3",
+          "titleHtml": "Figure 2A. Regional sales — J-GAAP basis (Asia includes China)",
+          "sourceHtml": "Company tanshin (J-GAAP) via PL/segment sheet History block. On this basis Asia includes China; it is not restated into the IFRS regional presentation in Figure 2.",
+          "kind": "table",
+          "columns": [
+            "",
+            "FY3/17",
+            "FY3/18"
+          ],
+          "rows": [
+            [
+              "Japan — sales (J-GAAP basis, Asia includes China)",
+              "131,203",
+              "130,662"
+            ],
+            [
+              "North America — sales (J-GAAP basis, Asia includes China)",
+              "51,810",
+              "57,860"
+            ],
+            [
+              "Europe — sales (J-GAAP basis, Asia includes China)",
+              "49,205",
+              "58,857"
+            ],
+            [
+              "Asia incl. China — sales (J-GAAP basis only)",
+              "43,390",
+              "48,864"
+            ],
+            [
+              "Other — sales (J-GAAP basis only)",
+              "3,230",
+              "4,411"
+            ]
+          ]
+        },
+        {
+          "id": "c4",
+          "number": "Figure 6",
+          "titleHtml": "Amada Co., Ltd. — segment revenue, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/c4.svg",
+          "alt": "Amada Co., Ltd. — segment revenue, FY3/26"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 7",
+          "titleHtml": "Amada Co., Ltd. — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/v2.svg",
+          "alt": "Amada Co., Ltd. — segment revenue by year"
+        },
+        {
+          "id": "v3",
+          "number": "Figure 8",
+          "titleHtml": "Amada Co., Ltd. — segment revenue mix, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-amada-initiation-13/v3.svg",
+          "alt": "Amada Co., Ltd. — segment revenue mix, FY3/26"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Order intake and backlog by department — the differentiator",
+      "level": "section",
+      "html": "<p>Amada's orders note (受注及び販売の状況), published in every tanshin, is <strong>the most decision-useful disclosure in the stock</strong> (Figure 3). On the legacy department basis: total intake was ¥375,040mn (FY3/22), ¥394,808mn (FY3/23), ¥381,281mn (FY3/24), ¥372,869mn (FY3/25) and ¥456,993mn (FY3/26); period-end backlog was ¥138,005mn, ¥172,152mn, ¥159,688mn, ¥134,916mn and ¥211,433mn. The FY3/26 intake surge (+22.6%) is partly scope — H&amp;F added a full press order book (press intake ¥49,037mn vs ¥20,134mn; press backlog ¥42,581mn vs ¥9,845mn) and Via Mechanics added ¥35,590mn of intake and ¥38,379mn of backlog within Other — but the core sheet-metal department also grew intake 5.8% to ¥297,675mn with backlog of ¥109,995mn, and micro-welding intake recovered 10.3% to ¥30,992mn. Cutting &amp; grinding was the soft spot: intake ¥43,697mn (+3.8%) against sales of ¥45,403mn, and backlog fell to ¥9,037mn — the department with the thinnest forward cover entering FY3/27.</p>\n<p>On the new BU basis, H1 FY3/27 intake totalled ¥353,703mn and <strong>backlog reached ¥333,366mn at end-September 2026</strong> (Q2 FY3/27 tanshin, orders note): Sheet Metal Solutions ¥180,453mn / ¥137,882mn; Joining Technologies ¥21,788mn / ¥16,400mn; Cutting Fabricator &amp; Grinding ¥25,812mn / ¥12,789mn; Advanced Forming ¥26,111mn / ¥46,335mn; Electronics Process ¥98,954mn / ¥119,957mn. Electronics Process alone took orders equal to 28.0% of the group total in H1 — the AI package-substrate cycle arriving in Amada's P&amp;L through an acquisition. Backlog cover for the group is roughly eight months of sales at the FY3/27 guidance run-rate, concentrated in exactly the two BUs (Electronics Process, Advanced Forming) with the least disclosure history. Monitoring these two backlog lines, and Electronics Process's margin, is the highest-frequency check on the investment case this initiation can offer.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 4",
+          "titleHtml": "Figure 3. Order intake and period-end backlog by department (¥mn) — legacy department basis",
+          "sourceHtml": "Orders note (受注及び販売の状況) in company tanshin via PL/segment sheet (JPX archive); FY3/26 press/Other from FY3/26 tanshin orders note (see Basis of preparation). Other intake FY3/22–24 not separately disclosed in the sheet (n.d.); Other backlog nil through FY3/25",
+          "kind": "table",
+          "columns": [
+            "",
+            "FY3/22",
+            "FY3/23",
+            "FY3/24",
+            "FY3/25",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "Total order intake",
+              "375,040",
+              "394,808",
+              "381,281",
+              "372,869",
+              "456,993"
+            ],
+            [
+              "Sheet metal — intake",
+              "278,313",
+              "288,522",
+              "284,520",
+              "281,292",
+              "297,675"
+            ],
+            [
+              "Micro welding — intake",
+              "30,387",
+              "34,225",
+              "32,890",
+              "28,100",
+              "30,992"
+            ],
+            [
+              "Cutting & grinding — intake",
+              "43,781",
+              "51,148",
+              "43,226",
+              "42,086",
+              "43,697"
+            ],
+            [
+              "Press — intake",
+              "21,305",
+              "19,625",
+              "19,343",
+              "20,134",
+              "49,037"
+            ],
+            [
+              "Other — intake",
+              "n.d.",
+              "n.d.",
+              "n.d.",
+              "1,255",
+              "35,590"
+            ],
+            [
+              "Total backlog (period-end)",
+              "138,005",
+              "172,152",
+              "159,688",
+              "134,916",
+              "211,433"
+            ],
+            [
+              "Sheet metal — backlog",
+              "108,371",
+              "130,596",
+              "122,656",
+              "105,088",
+              "109,995"
+            ],
+            [
+              "Micro welding — backlog",
+              "9,864",
+              "13,700",
+              "13,676",
+              "9,479",
+              "11,439"
+            ],
+            [
+              "Cutting & grinding — backlog",
+              "9,691",
+              "17,609",
+              "14,180",
+              "10,502",
+              "9,037"
+            ],
+            [
+              "Press — backlog",
+              "10,077",
+              "10,246",
+              "9,174",
+              "9,845",
+              "42,581"
+            ],
+            [
+              "Other — backlog",
+              "—",
+              "—",
+              "—",
+              "—",
+              "38,379"
+            ],
+            [
+              "Book-to-bill (x)",
+              "1.20",
+              "1.08",
+              "0.95",
+              "0.94",
+              "1.04"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions in H1 FY3/27",
+      "level": "section",
+      "html": "<p>The H1 FY3/27 qualitative disclosure (Q2 FY3/27 tanshin) gives the current regional texture behind the annual history. Within Sheet Metal Solutions, North America sales rose 41.3% YoY to ¥55,597mn (37.1% of the BU) on data-centre, heavy-machinery and defence demand, while Japan rose 11.5% to ¥47,391mn. Within Joining Technologies, Asia and others rose 63.3% to ¥7,616mn (China AI-related equipment and Indian e-motorcycle investment) and North America 15.4% to ¥4,355mn on resistance welders for data-centre power equipment and high-speed optical-communication parts. Electronics Process is 90.4% overseas (¥15,624mn of ¥17,274mn). Advanced Forming's overseas sales rose 31.7% to ¥9,697mn on China AI/communications and ASEAN/India auto parts. The pattern is consistent: the marginal growth yen is earned outside Japan, in AI-adjacent supply chains — which raises both the quality (structural demand) and the volatility (single-theme concentration, tariff and export-control exposure) of the order book.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed IFRS results (¥mn; company results via PL/segment sheet, tanshin, JPX archive). FY3/26: sales 437,372; cost of sales 259,831; gross profit 177,541 (40.6%); SG&amp;A 134,177; operating profit 44,798 (10.2%); share of profit of associates 209; profit before financing and tax 45,007; net financing income 699; profit before tax 45,706; income tax 14,949 (effective rate 32.7%); net income 30,757, of which to owners 30,554 and non-controlling interests 203. FY3/24, the profit peak, for contrast: sales 403,500; gross profit 175,181 (43.4%); operating profit 56,507 (14.0%); profit before tax 58,066; net to owners 40,638. The two-year bridge is therefore: <strong>+¥33.9bn of sales produced −¥11.7bn of operating profit</strong> — negative operating leverage driven by the gross-margin fall and SG&amp;A growth, the central fact any FY3/27 recovery must reverse. H1 FY3/27 (sales 230,406; operating profit 28,023; net to owners 18,183) is the first period to do so.</p>\n<p>Balance sheet (end-FY3/26): total assets ¥772,109mn; equity attributable to owners ¥535,467mn (ratio 69.4%); cash and equivalents ¥153,626mn; borrowings ¥80,800mn (current plus non-current, excluding lease liabilities — sheet register S7); inventories ¥157,746mn; trade receivables ¥158,052mn; trade payables ¥51,809mn. Net cash on this narrow definition (cash less borrowings) was ¥72,826mn. Cash flow (FY3/26): operating ¥58,065mn; capex ¥9,599mn; D&amp;A ¥22,843mn — capex runs well below D&amp;A, consistent with an assembly-and-integration production model rather than heavy machining in-house. Dividend cover: the FY3/26 dividend of ¥62 per share on EPS of ¥96.7 is a 64% payout — above the new 50% target, because the DOE floor (3–5% under the 2030 plan) supports the dividend when earnings dip. Full balance-sheet and cash-flow detail beyond the tanshin summary lines is not reproduced in the PL/segment sheet and is not estimated here.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan",
+      "level": "part",
+      "html": "<p>The Medium-term Business Plan 2030, announced 14 May 2026 alongside FY3/26 results, covers fiscal 2026–2030 under the slogan &quot;Transform to AMADA 2030 &gt;&gt; For Growth Acceleration&quot; (company release, 14 May 2026). It is explicitly a response to the previous plan's scorecard: in FY3/23–25, growth investment funded two large acquisitions (a semiconductor-substrate drilling maker — Via Mechanics — and a comprehensive press maker — H&amp;F) and sales beat the ¥400bn target at ¥437.3bn, but profitability lagged on higher costs and structural inefficiencies (company release). The new plan splits five years into a two-year &quot;Transformation and Growth Phase&quot; (structural reform) and a three-year &quot;Growth Acceleration Phase&quot;, with six basic policies: (1) structural reform to strengthen earning power; (2) a stronger management base; (3) business-portfolio management under the new BU system; (4) new-product development supporting growth; (5) the shift from selling products to selling products × solutions, optimising customers' operations with accumulated data and AI; and (6) creating and strengthening new businesses (policies as listed in the Q2 FY3/27 tanshin).</p>\n<p>Targets for FY2030: <strong>revenue ¥520bn, operating profit ¥73bn (a 14.0% margin — back to the FY3/24 level, on ¥83bn more sales) and ROE of 10% or more</strong>. Cash allocation over the five years: about ¥150bn of growth investment (M&amp;A and R&amp;D) and more than ¥250bn of shareholder returns — dividends at a 50% consolidated payout target with a DOE of 3–5% for stability, plus an aggressive ¥150bn buyback envelope within the return total, implying a total payout ratio of about 120% (company release, 14 May 2026). Management has framed the equity base itself as the constraint: the FY3/26 briefing set a direction of controlling owners' equity below ¥500bn (from ¥535,467mn at end-FY3/26), per briefing coverage (BigGo Finance, 1 Jun 2026). Execution markers so far: the BU reorganisation (April 2026), the ¥50bn FY3/27 buyback (below), and the H1 FY3/27 margin recovery. The honest gap in the plan's disclosure is the bridge: no BU-level profit targets are published, and the FY2030 operating-profit target requires roughly ¥28bn of profit improvement from FY3/26 — more than the entire FY3/26 profit of the metal-cutting segment — with Electronics Process's path from a ¥3,588mn H1 loss to group-average margins the largest single unknown.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>Listing and scale: Amada is listed on the Tokyo Stock Exchange Prime Market (code 6113; ISIN JP3122800000). At the 13 November 2026 close of ¥2,468, market capitalisation was about ¥748bn (StockAnalysis / Beluuga, 13 Nov 2026); third-party data put employees at about 9,870 (TradingView / StockAnalysis, Nov 2026) — headcount is not disclosed in the tanshin and is shown here as third-party data only. The 52-week range was ¥1,741–¥3,224 (Finnhub, retrieved 16 Nov 2026); trailing P/E on Finnhub's stored data was 21.1x, while the price equals 25.5x FY3/26 EPS and 18.7x FY3/27E guidance EPS of ¥131.99 (calculated from company figures). Average daily traded value was about ¥4.88bn (Finnhub).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "History",
+      "level": "section",
+      "html": "<p>Amada was founded in 1946 by Isamu Amada, who opened a small machine-repair shop (Amada Works) in Takadaminamimachi, Toshima-ku, Tokyo, starting with a single fire-charred lathe (company history, amada.co.jp, retrieved Nov 2026). The first vertical band saw followed in 1955 — the ancestor of today's cutting business. In 1960 Amada pioneered direct sales by demonstration car, taking machines to customers rather than waiting for orders, a model whose modern form is the solution centre. Press brakes date from 1965 and punch presses from 1971 (company 80th-anniversary materials, Oct 2026); in 1980 Amada commercialised Japan's first stand-alone laser machine, the LASMAC-644, beginning the laser franchise that now dominates the portfolio; automated bending cells followed in 1988, laser welding in 1995 and precision welding in 2013. The Fujinomiya Works (fabricating equipment) and the 2007 dedicated laser factory consolidated production; the Amada Global Innovation Center opened at Isehara in February 2023. The group marked its 80th anniversary in 2026. Recent corporate moves define the current perimeter: H&amp;F (large presses) was consolidated on 1 May 2025 and Via Mechanics (PCB drilling) on 1 July 2025 (FY3/26 tanshin, orders note), and the holding structure was simplified in 2020 when Amada Holdings and the operating company merged into today's Amada Co., Ltd.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Shareholders, management and shareholder returns",
+      "level": "section",
+      "html": "<p>Management: Representative Director, President and Executive Officer Takaaki Yamanashi leads the group (Q2 FY3/27 tanshin header, 12 Nov 2026); Tsutomu Isobe is Chairman (company interview, Seisanzai Japan, retrieved Nov 2026). The Q2 tanshin's investor contact is the head of the Corporate Finance division, Koji Tsuchimoto. A detailed major-shareholder register is not reproduced in the tanshin or the PL/segment sheet; third-party holder data (Japan IR, Nov 2026) shows institutional index and global funds among the largest holders (for example SmallCap World Fund at 1.78% and Vanguard international index funds at 1.39% and 0.90%) — treat as indicative, not as the official register, which appears in the securities report.</p>\n<p>Shareholder returns are the clearest change in the equity story. Dividends: ¥62 per share for FY3/26 (¥31 interim + ¥31 final); ¥64 forecast for FY3/27 (¥32 + ¥32), a 48% payout on guidance EPS (company forecast, Q2 FY3/27 tanshin). Policy under the 2030 plan: 50% payout target plus DOE of 3–5%. Buybacks: the May 2025 programme (up to 18.0mn shares / ¥20bn) repurchased 10,437,200 shares for about ¥19.28bn by end-February 2026, and the shares were cancelled (company notices, via AInvest, May 2026). The current programme, authorised 14 May 2026, allows up to 25,000,000 shares (8.05% of issued shares) for ¥50,000mn through March 2027, with cancellation of repurchased shares decided at the same board meeting (company notice, via Simply Wall St news summary, 24 May 2026); ¥6,308mn was executed in October 2026 alone, taking treasury shares to 14,392,778 at end-H1 FY3/27 (company notices). Weighted share count has fallen from 347.7mn (FY3/22) to about 316mn (FY3/26) — buybacks are already a material EPS lever, and the 2030 plan's ¥150bn buyback envelope against a ¥748bn market cap says management intends that to continue.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials, segments, regions and orders: company tanshin (IFRS, consolidated) for FY3/17–FY3/26 and the intervening quarters (FY3/17–FY3/21 via the sheet’s supplementary History block; FY3/17–FY3/18 regional data on the J-GAAP basis, Figure 2A), via the JPX disclosure archive, as compiled and reconciled in the PL/segment sheet (6113_Amada_PL.xlsx; all template checks equal zero; rounding plugs of at most ¥4mn sit in other-operating, investing and tax lines, never in headline lines — sheet register S11). Latest results and guidance: Q2 FY3/27 tanshin dated 12 Nov 2026 (the sheet's register dates the guidance revision 11 Nov 2026; the tanshin itself is dated 12 Nov 2026, and this report uses the tanshin date). One correction to the sheet is applied in this report: the sheet's supplementary FY3/26 department cells for press and Other held composition percentages; the FY3/26 tanshin orders note gives press sales of ¥42,942mn, Other sales of ¥22,541mn, press intake of ¥49,037mn, Other intake of ¥35,590mn, press backlog of ¥42,581mn and Other backlog of ¥38,379mn, and those primary-source figures are used in Figure 3. Mid-term plan: company news release and plan notice of 14 May 2026, and the President's message (amada.co.jp, June 2026). Market data: Finnhub, StockAnalysis and Beluuga snapshots retrieved 13–16 Nov 2026, each cited inline; market data are third-party and may differ from exchange official closes. Market-size figures are third-party estimates (PW Consulting 2025; Dataintelo 2026) and are indicative only.</p>\n<p>Conventions. &quot;FY3/26&quot; means the fiscal year ended 31 March 2026; company guidance is labelled as such wherever used, and no analyst forecasts are presented. The rating (&quot;Under Review&quot;) and price target (&quot;Under review&quot;) are placeholders pending the analyst's valuation work; nothing in this report is a buy or sell recommendation. Not disclosed in the sources used, and therefore not estimated: R&amp;D expenditure, period-end employees (tanshin basis), unit volumes, production capacity and utilisation, regional profit, service-revenue split, and the official major-shareholder register. Segment history is on the basis disclosed in each period: legacy two-segment disclosure through FY3/26, and the five-BU basis from Q1 FY3/27 with H1 FY3/26 restated by the company.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

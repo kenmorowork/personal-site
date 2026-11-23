@@ -1,0 +1,716 @@
+{
+  "version": 1,
+  "editorReportId": 40,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "2026年11月17日",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Horiba, Ltd. (6856)",
+  "headlineHtml": "A semiconductor process-measurement company in an analyser conglomerate's clothes: initiation on Horiba as <strong>Advanced Materials &amp; Semiconductor takes over the P&amp;L</strong>",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥17,350",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥766.3bn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥12,970 – ¥30,100",
+      "asOf": "16 Nov 2026 (Finnhub via search results; high on 19 Jun 2026)"
+    },
+    {
+      "label": "P/E (FY2025 basic EPS ¥883.50, J-GAAP)",
+      "value": "19.6x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY2026E co. guidance EPS ¥1,225.56)",
+      "value": "14.2x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY2026E dividend (company forecast, pre-split basis)",
+      "value": "¥790 / share (4.3% yield)",
+      "asOf": "Q3 FY2026 tanshin, 13 Nov 2026 (interim ¥150 paid; year-end ¥640 forecast incl. ¥190 special + ¥240 market-cap commemorative); 1-for-5 split effective 1 Jan 2027"
+    },
+    {
+      "label": "Next event",
+      "value": "FY2026 results, mid-Feb 2027 (expected)",
+      "asOf": "Third-party calendar estimate (StockAnalysis/Finnhub), Nov 2026; company has not announced the date in the sources used"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Measure what matters — and right now what matters is the semiconductor fab:",
+  "ledeHtml": "Horiba, Ltd. (6856, TSE Prime) is the Kyoto-based measurement and analysis group whose analysers sit inside car-engine test cells, environmental monitoring networks, hospital laboratories and — decisively for the current P&amp;L — semiconductor fabs, where its mass-flow controllers and process-measurement tools meter the gases and liquids from which chips are made. The initiation question is whether Horiba is still the diversified analyser conglomerate its history describes, or has become a semiconductor process-measurement company with two smaller fields attached. The nine months to September 2026 answer it numerically: group revenue was ¥281,659mn (+22.3% YoY) and operating profit ¥50,673mn (+51.2%), of which <strong>the Advanced Materials &amp; Semiconductor field alone contributed ¥161,189mn of revenue (+40.4%) and ¥50,224mn of operating profit (+53.1%) — 99% of the group total (calculated)</strong>. Full-year FY2026 company guidance was raised for the third time on 13 November 2026, to revenue of ¥392,500mn and operating profit of ¥73,000mn (company guidance). Strengths: (1) a genuine niche moat in measurement — a decade of reported figures shows the old Semiconductor segment earning a 36.7% segment margin in FY2024 (¥44,178mn on ¥120,466mn) and the new semiconductor field printing a 31.2% margin in 9M FY2026 (calculated), on products (mass-flow control, process measurement) that are specified into fab tools and hard to displace; (2) a fortress balance sheet — owners' equity ratio 67.1% at December 2025, cash of ¥162,471mn against interest-bearing debt of ¥66,483mn (sheet definition, corrected — see Basis of preparation), and operating cash flow of ¥54,383mn in FY2025; (3) guidance momentum with unusual candour about its mix — <strong>three upward revisions in FY2026 (February ¥56,000mn operating profit → November ¥73,000mn)</strong>, each attributed by the company to semiconductor demand and recent order trends, with the offsetting cuts (Energy &amp; Environment, Bio &amp; Healthcare) disclosed in the same documents. Weaknesses: (1) concentration is now the risk, not the remedy — one field is effectively the whole profit pool, Bio &amp; Healthcare has lost money for two consecutive years (operating loss of ¥894mn in FY2025 and ¥1,263mn in 9M FY2026), and Energy &amp; Environment operating profit fell 15.4% in 9M FY2026 on European hydrogen-market stagnation; (2) the guidance is back-end loaded — 9M delivered 69.4% of guided operating profit, so Q4 must print ¥22,327mn (calculated), above any quarter of 9M, on semiconductor order conversion the company does not quantify (order intake and backlog are not disclosed in the tanshin — 未取得); (3) comparability and capital-return optics need care — the FY2025 segment reorganisation (five segments into three fields) breaks the segment series (FY2024 quarters were never restated onto the new basis), and the FY2026 dividend forecast of ¥790 includes ¥430 of special and commemorative dividends that are explicitly one-off in character, ahead of a 1-for-5 stock split effective 1 January 2027. All historical figures are J-GAAP as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (FY2016–FY2025, ten years); the only forward figures are company guidance and the company's MLMAP2028 plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "9M FY2026: semiconductor did all of it.",
+      "html": "For the nine months to 30 September 2026 (J-GAAP), revenue was ¥281,659mn (+22.3% YoY), operating profit ¥50,673mn (+51.2%; 18.0% margin), ordinary profit ¥52,172mn (+51.8%) and net income attributable to owners ¥36,345mn (+50.8%); basic EPS was ¥865.18. By field: <strong>Advanced Materials &amp; Semiconductor revenue ¥161,189mn (+40.4%) and operating profit ¥50,224mn (+53.1%)</strong>; Energy &amp; Environment revenue ¥88,319mn (+2.7%) and operating profit ¥1,712mn (−15.4%); Bio &amp; Healthcare revenue ¥32,150mn (+9.0%) and an operating loss of ¥1,263mn. Source: Q3 FY2026 tanshin, 13 November 2026."
+    },
+    {
+      "leadHtml": "Guidance raised three times — and Q4 has to be the biggest quarter of the year.",
+      "html": "Full-year FY2026 company guidance (会社計画) was raised on 13 November 2026 to revenue ¥392,500mn, operating profit ¥73,000mn, ordinary profit ¥74,000mn and owners' net income ¥51,500mn (EPS ¥1,225.56), from an initial ¥345,000mn / ¥56,000mn / ¥56,500mn / ¥40,500mn on 12 February 2026, via ¥373,000mn / ¥68,000mn on 14 May and ¥382,000mn / ¥70,000mn on 7 August 2026 (guidance tracker, verified against the tanshin chain). The FX assumptions were left unchanged at USD/JPY 155 and EUR/JPY 180. With 9M operating profit at ¥50,673mn, <strong>the guide implies Q4 operating profit of ¥22,327mn (calculated) — above the strongest 9M quarter (Q3: ¥20,185mn, tanshin supplement)</strong> — predicated on semiconductor shipments the company supports by reference to 'recent order trends' it does not disclose numerically. Source: Q3 FY2026 tanshin, 13 November 2026; guidance tracker 2026-11-17."
+    },
+    {
+      "leadHtml": "Strength — the moat shows up in the segment margin, for a decade.",
+      "html": "On the old basis in force through FY2024, <strong>the Semiconductor segment's margin rose from 24.9% in FY2016 (¥9,678mn on ¥38,828mn) to 36.7% in FY2024 (¥44,178mn on ¥120,466mn)</strong>, and it was the group's largest profit contributor in every one of the ten years in Exhibit 2. On the new basis, Advanced Materials &amp; Semiconductor earned ¥44,517mn on ¥156,500mn in FY2025 (28.4% margin) and ¥50,224mn on ¥161,189mn in 9M FY2026 (31.2%, calculated). Full-year FY2026 segment guidance is revenue ¥215,500mn and operating profit ¥66,000mn (company guidance, revised 13 November 2026) — a 30.6% guided margin. Source: company results via PL/segment sheet (tanshin, JPX archive); Q3 FY2026 tanshin segment guidance table."
+    },
+    {
+      "leadHtml": "Weakness — the other two fields do not currently pay for themselves.",
+      "html": "<strong>Bio &amp; Healthcare has printed an operating loss in FY2024 (restated new basis: −¥890mn), FY2025 (−¥894mn) and 9M FY2026 (−¥1,263mn)</strong>, and its full-year FY2026 guided loss was widened on 13 November 2026 from −¥500mn to −¥1,000mn, which the company attributes to investment in the life-science field amid intensifying competition. Energy &amp; Environment is profitable but shrinking at the margin: 9M FY2026 operating profit of ¥1,712mn was −15.4% YoY (a 1.9% margin, calculated), its FY2026 guided operating profit was cut from ¥9,000mn to ¥8,000mn on European hydrogen-market stagnation, and its Q4-weighted seasonality (Q4 FY2025 standalone operating profit was ¥7,393mn of the field's ¥9,417mn full-year total, tanshin supplement) makes the full-year print hard to read until it lands. Source: Q3 FY2026 tanshin and supplement, 13 November 2026; PL/segment sheet."
+    },
+    {
+      "leadHtml": "Capital returns are generous — and explicitly laced with one-offs.",
+      "html": "The FY2025 dividend was ¥450 per share (interim ¥80 + year-end ¥370, the latter including a ¥160 special dividend; payout ratio 50.9% as reported). The FY2026 forecast is ¥790 (interim ¥150 paid + year-end ¥640 comprising ¥210 ordinary + ¥190 special + ¥240 'market-capitalisation ¥1tn commemorative' dividend) — a 4.3% yield at ¥18,265 (calculated) but <strong>with ¥430 of the ¥790 labelled special/commemorative by the company itself</strong>. Separately, on 13 November 2026 the board resolved a 1-for-5 stock split effective 1 January 2027 (post-period event in the Q3 tanshin); all per-share figures in this report are on the pre-split basis unless stated. Source: FY2025 tanshin, 12 February 2026; Q3 FY2026 tanshin, 13 November 2026."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY2016–FY2025 actuals (J-GAAP, as reported) and FY2026E company guidance",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive). EPS is basic EPS as reported in each year's tanshin header; ROE as reported in the tanshin headers (FY2017 not carried in the sources used). Dividends per share as reported (FY2016–FY2017 totals not carried in the sources used). FY2026E = company guidance as revised in the Q3 FY2026 tanshin, 13 Nov 2026 (guidance EPS ¥1,225.56). All per-share figures are pre-split (1-for-5 split effective 1 Jan 2027).",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY2016",
+          "FY2017",
+          "FY2018",
+          "FY2019",
+          "FY2020",
+          "FY2021",
+          "FY2022",
+          "FY2023",
+          "FY2024",
+          "FY2025",
+          "FY2026E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "170093",
+            "195399",
+            "210570",
+            "200241",
+            "187080",
+            "224314",
+            "270133",
+            "290558",
+            "317369",
+            "333081",
+            "392500"
+          ],
+          [
+            "Revenue growth (%)",
+            "—",
+            "14.9",
+            "7.8",
+            "-4.9",
+            "-6.6",
+            "19.9",
+            "20.4",
+            "7.6",
+            "9.2",
+            "5",
+            "17.8"
+          ],
+          [
+            "Operating profit",
+            "18499",
+            "26834",
+            "28838",
+            "20916",
+            "19694",
+            "32046",
+            "45843",
+            "47296",
+            "48340",
+            "53040",
+            "73000"
+          ],
+          [
+            "Operating margin (%)",
+            "10.9",
+            "13.7",
+            "13.7",
+            "10.4",
+            "10.5",
+            "14.3",
+            "17",
+            "16.3",
+            "15.2",
+            "15.9",
+            "18.6"
+          ],
+          [
+            "Ordinary profit",
+            "18279",
+            "26608",
+            "28316",
+            "20518",
+            "19399",
+            "32038",
+            "46860",
+            "48251",
+            "50170",
+            "54226",
+            "74000"
+          ],
+          [
+            "Net income to owners",
+            "12962",
+            "16281",
+            "22313",
+            "15481",
+            "13188",
+            "21311",
+            "34072",
+            "40302",
+            "33591",
+            "37090",
+            "51500"
+          ],
+          [
+            "Basic EPS (¥)",
+            "307.7",
+            "386.3",
+            "529.2",
+            "367.1",
+            "312.6",
+            "505.1",
+            "807.1",
+            "953.7",
+            "799.4",
+            "883.5",
+            "1225.6"
+          ],
+          [
+            "Dividend per share (¥)",
+            "—",
+            "—",
+            "145",
+            "130",
+            "90",
+            "150",
+            "245",
+            "290",
+            "270",
+            "450",
+            "790"
+          ],
+          [
+            "ROE (%)",
+            "10",
+            "—",
+            "14.3",
+            "9.3",
+            "7.6",
+            "11.2",
+            "15.4",
+            "15.4",
+            "11.3",
+            "11.2",
+            "—"
+          ],
+          [
+            "Operating cash flow",
+            "15871",
+            "28287",
+            "19536",
+            "26638",
+            "32253",
+            "35268",
+            "33966",
+            "16652",
+            "40335",
+            "54383",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Horiba reports with a December year-end under J-GAAP. The history in this chapter and in Exhibit 1 is as reported in each year's own annual tanshin, compiled in the PL/segment sheet for 6856: the main window covers FY2021–FY2025 and a supplementary history block adds FY2016–FY2020, giving the ten annual years the Shared Research depth standard calls for (all template checks equal zero; register S1–S19). Figures are ¥mn unless stated.</p>\n<p>Revenue describes a company that compounded quietly, then stepped up twice. Sales were ¥170,093mn in FY2016, rose through the semiconductor and emissions-regulation cycle to ¥210,570mn in FY2018, fell for two years (¥200,241mn in FY2019, ¥187,080mn in FY2020) as semiconductor capex corrected and COVID hit the automotive and medical lines, then inflected: ¥224,314mn in FY2021 (+19.9%), ¥270,133mn in FY2022 (+20.4%), ¥290,558mn in FY2023 (+7.6%), ¥317,369mn in FY2024 (+9.2%) and ¥333,081mn in FY2025 (+5.0%) — a ten-year revenue CAGR of 7.7% (calculated). Operating profit is more cyclical than revenue: ¥18,499mn (10.9% margin) in FY2016, ¥26,834mn in FY2017, a then-peak ¥28,838mn (13.7%) in FY2018, down to ¥20,916mn and ¥19,694mn in FY2019–20, then ¥32,046mn (14.3%) in FY2021, ¥45,843mn (17.0%) in FY2022, ¥47,296mn (16.3%) in FY2023, ¥48,340mn (15.2%) in FY2024 and ¥53,040mn (15.9%) in FY2025. The margin structure is the story: gross margin expanded from 41.0% in FY2016 (calculated) to 43.9% in FY2025 as the mix shifted toward semiconductor process measurement, while the SG&amp;A ratio was held in a 27–31% band (30.1% in FY2016; 28.0% in FY2025, calculated from the sheet).</p>\n<p>Below operating profit, J-GAAP's ordinary-profit line is clean for Horiba — non-operating items are small (net +¥1,186mn in FY2025) and there is no equity-method result in any year (the tanshin report equity-method income of nil throughout). Ordinary profit was ¥18,279mn / ¥26,608mn / ¥28,316mn / ¥20,518mn / ¥19,399mn / ¥32,038mn / ¥46,860mn / ¥48,251mn / ¥50,170mn / ¥54,226mn across FY2016–25. Extraordinary items are episodic rather than structural: the largest are FY2023 extraordinary income of ¥6,653mn (which lifted FY2023 owners' net income to a record ¥40,302mn despite operating profit growth of only 3.2%) and FY2025 extraordinary losses of ¥3,217mn against income of ¥72mn, which the FY2025 tanshin attributes to structural-reform-related special losses and which explain why FY2025 owners' net income grew only 10.4% to ¥37,090mn on operating profit growth of 9.7% with a lighter tax burden. Net income attributable to owners was ¥12,962mn / ¥16,281mn / ¥22,313mn / ¥15,481mn / ¥13,188mn / ¥21,311mn / ¥34,072mn / ¥40,302mn / ¥33,591mn / ¥37,090mn; basic EPS as reported was ¥307.74 / ¥386.30 / ¥529.24 / ¥367.09 / ¥312.58 / ¥505.05 / ¥807.06 / ¥953.71 / ¥799.44 / ¥883.50 (diluted EPS exists and is close: ¥879.27 in FY2025). ROE as reported in the tanshin headers was 14.3% in FY2018, 9.3% in FY2019, 7.6% in FY2020, 11.2% in FY2021, 15.4% in FY2022 and FY2023, 11.3% in FY2024 and 11.2% in FY2025 (FY2016: 10.0%; FY2017 not carried in the sources used).</p>\n<p>Cash generation tracked the profit build with one working-capital interruption. Operating cash flow was ¥15,871mn / ¥28,287mn / ¥19,536mn / ¥26,638mn / ¥32,253mn / ¥35,268mn / ¥33,966mn / ¥16,652mn / ¥40,335mn / ¥54,383mn; the FY2023 dip to ¥16,652mn coincides with inventory rising to ¥99,473mn (from ¥75,271mn) as the group stocked through the semiconductor upcycle — inventory has since been worked down to ¥94,742mn at FY2025 even as sales grew. The balance sheet strengthened throughout: the owners' equity ratio rose from 55.4% in FY2016 to 67.1% at December 2025 (total assets ¥518,279mn; net assets ¥348,640mn; book value per share ¥8,286.08). Dividends per share were ¥145 (FY2018), ¥130, ¥90, ¥150, ¥245, ¥290, ¥270 and ¥450 (FY2025, including a ¥160 special dividend) — a payout policy the company states as targeting about 30% of consolidated net income, supplemented flexibly by special dividends and buybacks; the FY2025 payout printed 50.9% on the special. Exhibit 1 (page 1) gives the full ten-year KPI table including FY2026 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY2016–FY2025; FY2025 tanshin header, 12 February 2026.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Horiba, Ltd. — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-horiba-initiation-40/c1.svg",
+          "alt": "Horiba, Ltd. — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Horiba, Ltd. — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-horiba-initiation-40/c2.svg",
+          "alt": "Horiba, Ltd. — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Horiba, Ltd. — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-horiba-initiation-40/c3.svg",
+          "alt": "Horiba, Ltd. — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Horiba, Ltd. — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-horiba-initiation-40/v1.svg",
+          "alt": "Horiba, Ltd. — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — Q3 FY2026 results and guidance",
+      "level": "part",
+      "html": "<p>Horiba reported Q3 FY2026 (nine months, 1 January–30 September 2026) results on 13 November 2026, together with the third upward revision to full-year guidance, a widened Bio &amp; Healthcare loss guide, and the resolution of a 1-for-5 stock split effective 1 January 2027. The company holds an analyst/institutional briefing for the period (tanshin header), but as of 16 November 2026 no briefing record or Q&amp;A summary for Q3 FY2026 is published in the programme's transcript library — the library's index notes that Horiba's Q1/Q2 FY2026 Q&amp;A summaries followed their briefings by 8–12 days and flags a re-check for late November (see Basis of preparation). The debate framing in this chapter therefore relies on the tanshin, its supplement and the interview pack's open questions. This chapter summarises the release; segment detail is in Chapter 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9M FY2026 results (cumulative, as reported)",
+      "level": "section",
+      "html": "<p>Revenue was ¥281,659mn (+22.3% YoY), operating profit ¥50,673mn (+51.2%; margin 18.0%, +3.4pt), ordinary profit ¥52,172mn (+51.8%), net income attributable to owners ¥36,345mn (+50.8%) and basic EPS ¥865.18 (diluted ¥861.33). The quarterly split (tanshin supplement, standalone quarters) shows the acceleration is semiconductor-led and Q3-weighted: group revenue by quarter was ¥84,529mn / ¥95,323mn / ¥101,806mn with operating profit of ¥12,480mn / ¥18,007mn / ¥20,185mn (margins 14.8% / 18.9% / 19.8%), against prior-year quarters of ¥71,877mn / ¥77,066mn / ¥81,301mn and ¥11,755mn / ¥10,137mn / ¥11,622mn. <strong>In Q3 standalone, Advanced Materials &amp; Semiconductor revenue was ¥61,232mn of the group's ¥101,806mn and its operating profit ¥20,047mn of ¥20,185mn — the other two fields netted to approximately zero in the quarter</strong> (Energy &amp; Environment +¥633mn, Bio &amp; Healthcare −¥496mn; supplement figures, components as printed).</p>\n<p>By field (9M, external revenue / operating profit): Advanced Materials &amp; Semiconductor ¥161,189mn / ¥50,224mn (+40.4% / +53.1% YoY) on sales to semiconductor-equipment makers, mainly in Asia, driven by advanced-semiconductor demand including generative AI (company qualitative text); Energy &amp; Environment ¥88,319mn / ¥1,712mn (+2.7% / −15.4%), where automotive-related sales rose on hybrid-vehicle development demand as the EV shift slowed, but European hydrogen-related weakness cut profitability; Bio &amp; Healthcare ¥32,150mn / −¥1,263mn (+9.0% revenue; loss narrowed ¥56mn YoY), on higher blood-cell-counter sales mainly in Europe, offset by competition and continued life-science investment. Segment profit sums to consolidated operating profit with no adjustment column on the new basis (tanshin segment note).</p>\n<p>The balance sheet at 30 September 2026: total assets ¥552,322mn (up ¥34,043mn from December 2025, on cash and deposits, buildings and work-in-process), total liabilities ¥184,729mn (contract liabilities and payables up), net assets ¥367,593mn and an owners' equity ratio of 66.4% (owners' equity ¥366,961mn). Shares issued were unchanged at 42,233,252, with 211,720 in treasury. The interim dividend was ¥150 per share. Market reaction is part of the record: the interview pack notes the shares fell about 10% versus TOPIX on the first trading day after the print despite the operating-profit raise (kabuscope, via the interview pack), and the shares fell a further 11.3% to ¥18,265 on 16 November 2026 (third-party price data — see Chapter 8). Source: Q3 FY2026 tanshin and supplement, 13 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance: raised three times since February — revenue ¥392,500mn, operating profit ¥73,000mn (company guidance)",
+      "level": "section",
+      "html": "<p>Full-year FY2026 guidance, as revised in the Q3 release of 13 November 2026, is revenue ¥392,500mn (+17.8% YoY), operating profit ¥73,000mn (+37.6%), ordinary profit ¥74,000mn (+36.5%) and net income attributable to owners ¥51,500mn (+38.8%) with basic EPS of ¥1,225.56 — company guidance (会社計画), J-GAAP, not a J-Core Fundamental Research forecast. The revision chain is verified in the programme's guidance tracker against the primary tanshin: initial guidance on 12 February 2026 (FY2025 tanshin) of ¥345,000mn / ¥56,000mn / ¥56,500mn / ¥40,500mn (EPS ¥964.38); revision 1 on 14 May 2026 (Q1 tanshin) to ¥373,000mn / ¥68,000mn / owners' net income ¥48,500mn; revision 2 on 7 August 2026 (Q2 tanshin) to ¥382,000mn / ¥70,000mn / ¥50,000mn; revision 3 on 13 November 2026 (Q3 tanshin) to the current figures. <strong>Cumulative revision since February: +¥47,500mn of revenue (+13.8%) and +¥17,000mn of operating profit (+30.4%)</strong>. The stated FX assumptions are unchanged throughout at USD/JPY 155 and EUR/JPY 180 (Q3 tanshin) — the raises are volume/mix, not currency, and by the same token carry no FX buffer if the yen strengthens (9M actual average rates were USD/JPY 158.67 and EUR/JPY 184.18, per the Q3 supplement).</p>\n<p>Segment guidance (Q3 tanshin guidance table) shows the raise is a semiconductor raise with two disclosed offsets: Advanced Materials &amp; Semiconductor revenue was raised ¥10,500mn to ¥215,500mn and operating profit ¥4,500mn to ¥66,000mn, 'taking into account results through Q3 and recent order trends' (company text, paraphrased); Energy &amp; Environment revenue was held at ¥134,000mn but operating profit was cut ¥1,000mn to ¥8,000mn on lower profitability from falling sales amid European hydrogen-market stagnation; Bio &amp; Healthcare revenue was held at ¥43,000mn and its guided operating loss widened ¥500mn to −¥1,000mn on the cost burden of increased investment in the life-science field. Against guidance, 9M progress was 71.8% on revenue and 69.4% on operating profit, so delivery requires Q4 revenue of ¥110,841mn and Q4 operating profit of ¥22,327mn (both calculated) — the supplement's own Q4 forecast column prints exactly ¥110,840mn / ¥22,326mn (¥1mn rounding), with a guided Q4 operating margin of 20.1%. The Q4 load is partly seasonal (Q4 is structurally the largest quarter — Q4 FY2025 delivered ¥102,835mn of revenue and ¥19,524mn of operating profit, including ¥7,393mn from Energy &amp; Environment alone), but the FY2026 Q4 ask is 14.4% above the Q4 FY2025 operating print and rests on semiconductor order conversion that is not disclosed numerically. The dividend forecast is unchanged at ¥790 for the year (Chapter 8). Exhibit 3 sets out 9M segment actuals and full-year segment guidance. Source: Q3 FY2026 tanshin, 13 November 2026 (section 3 and segment guidance table); guidance tracker 2026-11-17 (verified).</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. 9M FY2026 segment results and FY2026 company guidance by segment",
+          "sourceHtml": "9M FY2026: Q3 FY2026 tanshin segment note and supplement, 13 Nov 2026 (external revenue basis). FY2026 guidance by segment: Q3 FY2026 tanshin segment guidance table, 13 Nov 2026 (company guidance). Consolidated guidance per tanshin section 3. Segment profit is operating profit; no adjustment column on the new basis.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "9M FY2026 revenue",
+            "9M FY2026 profit",
+            "FY2026E revenue (guidance)",
+            "FY2026E profit (guidance)"
+          ],
+          "rows": [
+            [
+              "Energy & Environment",
+              "88319",
+              "1712",
+              "134000",
+              "8000"
+            ],
+            [
+              "Bio & Healthcare",
+              "32150",
+              "-1263",
+              "43000",
+              "-1000"
+            ],
+            [
+              "Advanced Materials & Semiconductor",
+              "161189",
+              "50224",
+              "215500",
+              "66000"
+            ],
+            [
+              "Consolidated",
+              "281659",
+              "50673",
+              "392500",
+              "73000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Horiba is headquartered in Kyoto and organises itself, since the FY2025 reorganisation under the MLMAP2028 plan, into three reportable fields — Energy &amp; Environment (エネルギー・環境), Bio &amp; Healthcare (バイオ・ヘルスケア) and Advanced Materials &amp; Semiconductor (先端材料・半導体) — replacing the five segments (Automotive, Process &amp; Environmental, Medical-Diagnostic, Semiconductor, Scientific) in force through FY2024. The field definitions below follow the company's own presentation (FY2025 and Q3 FY2026 tanshin qualitative sections and segment notes): the fields are application groupings that cut across the old product segments — Scientific (analytical instruments) products, for example, are distributed across all three fields — which is precisely why the old and new bases are never spliced in this report. Segment profit is operating profit, and on the new basis the disclosed adjustment column is nil, so field profits sum to consolidated operating profit. In FY2025 the mix was Advanced Materials &amp; Semiconductor 47.0% of external revenue, Energy &amp; Environment 40.4% and Bio &amp; Healthcare 12.7%; in 9M FY2026 the semiconductor field reached 57.2% of revenue (calculated).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Advanced Materials & Semiconductor: the mass-flow and process-measurement core",
+      "level": "section",
+      "html": "<p>This field sells the measurement and control layer of the semiconductor fab and of advanced-materials production: mass-flow controllers that meter process gases with precision, liquid and gas concentration monitors, wafer and reticle inspection and measurement, and related process-measurement instruments sold to semiconductor-equipment makers and device makers, principally in Asia. Demand is derived from wafer-fab equipment (WFE) spending with an advanced-node tilt — the company attributes FY2025 and 9M FY2026 growth to generative-AI-driven advanced-semiconductor demand and to higher sales to equipment makers in Asia. The financial profile is that of a high-share niche supplier: on the old basis the Semiconductor segment (the closest ancestor, though not identical in scope) grew revenue from ¥38,828mn in FY2016 to ¥120,466mn in FY2024 — a 15.2% CAGR (calculated) — at segment margins rising from 24.9% to 36.7%; <strong>on the new basis the field printed ¥156,500mn / ¥44,517mn in FY2025 (28.4% margin</strong>; the company notes profit fell 1.0% YoY despite +4.5% revenue growth because new-product and technology development investment was accelerated) and ¥161,189mn / ¥50,224mn in 9M FY2026 (31.2% margin, calculated). Full-year FY2026 guidance is ¥215,500mn / ¥66,000mn (company guidance). The open product question — how much of the growth is mass-flow controllers versus other process measurement, and whose share is being taken — is question 3 of the interview pack and is not answered in the tanshin disclosure. Source: company results via PL/segment sheet (tanshin, JPX archive); FY2025 tanshin qualitative section; Q3 FY2026 tanshin.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Energy & Environment: automotive test, process and environmental measurement",
+      "level": "section",
+      "html": "<p>Energy &amp; Environment combines the group's original automotive franchise (engine and driveline test systems, emissions measurement, combustion measurement for hybrid-vehicle development), process measurement for industry, and environmental monitoring (air, water) — the businesses carried in the old Automotive, Process &amp; Environmental and parts of Scientific segments. FY2025 revenue was ¥134,407mn (+5.5% YoY on the restated FY2024 figure of ¥127,422mn) and operating profit ¥9,417mn (+120.9% on ¥4,262mn), as a slower EV shift lifted hybrid-development combustion-measurement demand in Europe and the Americas (company text). The field's earnings are, however, the group's most seasonal and most policy-exposed: quarterly operating profit in FY2025 ran ¥754mn / −¥243mn / ¥1,513mn / ¥7,393mn (tanshin supplement) — Q4 delivers the year — and in 9M FY2026 revenue grew only 2.7% to ¥88,319mn while operating profit fell 15.4% to ¥1,712mn, with European destination sales in the field down 13.5% YoY in 9M (supplement destination table) as the hydrogen-related market stagnated; the company cut the field's FY2026 operating-profit guidance to ¥8,000mn (from ¥9,000mn) on 13 November 2026 while holding revenue at ¥134,000mn — i.e. guiding the field to a full-year revenue decline of 0.3% versus FY2025. Whether the drag is hydrogen timing, automotive measurement or price is interview-pack question 5; the tanshin names hydrogen-market stagnation in Europe as the guidance-cut reason. Source: FY2025 tanshin qualitative section; Q3 FY2026 tanshin and supplement.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Bio & Healthcare: diagnostics with a life-science investment drag",
+      "level": "section",
+      "html": "<p>Bio &amp; Healthcare is the medical-diagnostics business (blood-cell counters / haematology analysers, clinical chemistry and related diagnostic instruments, centred on Europe) extended toward life-science applications — the old Medical-Diagnostic segment plus the life-science parts of Scientific. It is the smallest field and currently loss-making: revenue of ¥40,155mn (FY2024, restated) and ¥42,173mn (FY2025, +5.0%) with operating losses of ¥890mn and ¥894mn in both years; 9M FY2026 revenue rose 9.0% to ¥32,150mn on higher blood-cell-counter sales mainly in Europe, but the operating loss was ¥1,263mn and the full-year guided loss was widened to ¥1,000mn (from ¥500mn) on 13 November 2026, which the company attributes to the cost burden of increased investment in the life-science field amid intensifying competition. On the old basis, Medical-Diagnostic was profitable in most years (segment profit of ¥2,806mn in FY2016 on ¥26,564mn; ¥638mn in FY2023; −¥150mn in FY2024), so the field's current losses are a mix of scope change (life-science investment now sits inside the field) and competitive pressure — the two cannot be separated from tanshin disclosure alone, and the interview pack carries the field's MLMAP2028 target arithmetic as a live debate. No order, unit or installed-base disclosure exists for the field (未取得). Source: company results via PL/segment sheet (tanshin, JPX archive); FY2025 tanshin qualitative section; Q3 FY2026 tanshin.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Horiba sells instruments, not commodities: in each field it sits at the measurement layer of a customer's process — the fab tool, the engine test cell, the emissions-monitoring station, the hospital laboratory — between component suppliers (precision fluidics, optics, detectors, electronics) and equipment makers, laboratories and regulators who specify its products into their own systems. That position explains both the moat and the cyclicality. <mark>Entry barriers are qualification and installed-base trust: a mass-flow controller or emissions analyser written into a customer's tool or regulatory method is re-ordered and serviced for years, and switching requires re-qualification</mark>; application know-how accumulated over decades of measurement science is the company's stated core competence. The substitute risk is integration — equipment makers internalising measurement, or general-purpose sensing commoditising a niche — which is why the product split of semiconductor-field growth (interview-pack question 3) matters more than the growth rate itself.</p>\n<p>Demand drivers differ by field and are currently moving in opposite directions. Advanced Materials &amp; Semiconductor rides WFE and advanced-node capex: the company cites generative-AI-driven advanced-semiconductor demand and Asian equipment-maker sales as its 9M FY2026 driver, and FIELDNOTES' Measurement &amp; Inspection sector report (2026-11-16) identifies Horiba's Q3 as the sector's strongest print, driven by mass-flow controllers and semiconductor process measurement. Energy &amp; Environment rides vehicle-development spending (currently hybrid-led as the EV shift slows), industrial process investment and environmental regulation — with hydrogen-related demand, an expected growth leg, stagnating in Europe on the company's own account. Bio &amp; Healthcare rides hospital and laboratory diagnostics demand in Europe, with a competitive pricing environment the company flags explicitly. No company-disclosed market-size or market-share figure for Horiba's categories is carried in the sources used here, and none is substituted: the verifiable demand evidence is Horiba's own reported field growth, its destination sales (Chapter 5) and the guidance language on order trends. The two sensitivities that follow for the equity: first, Asia (including China) was 41.7% of FY2025 destination sales (supplement basis, calculated) and is the semiconductor field's centre of gravity, so China exposure inside that field — revenue share and export-control sensitivity — is a first-order unknown (interview-pack question 8); second, with no order-intake or backlog disclosure in the tanshin, the earliest observable of a semiconductor pause is the quarterly field print itself, one quarter late. Sources: Q3 FY2026 tanshin and supplement; FY2025 tanshin; FIELDNOTES Measurement &amp; Inspection report (2026-11-16) via the interview pack.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "Horiba in the measurement &amp; inspection value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (measurement &amp; inspection value chain); company fields from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-horiba-initiation-40/d1.svg",
+          "alt": "Horiba in the measurement & inspection value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Horiba's disclosure carries two segment bases and two regional bases, and this chapter keeps all four separate and labelled, per the sheet register. Segments: the OLD five-segment basis as originally reported in each year's own tanshin (FY2016–FY2024), and the NEW three-field basis (FY2024 annual restated in the FY2025 tanshin, FY2025, and FY2026 periods). Regions: the formal related-information note (six regions, annual only) in the main block, and the tanshin supplement's four-destination sales (all periods). Regional profit is not disclosed on any basis.</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 6",
+          "titleHtml": "Horiba, Ltd. — segment revenue, FY2025",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-horiba-initiation-40/c4.svg",
+          "alt": "Horiba, Ltd. — segment revenue, FY2025"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 7",
+          "titleHtml": "Horiba, Ltd. — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-horiba-initiation-40/v2.svg",
+          "alt": "Horiba, Ltd. — segment revenue by year"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Business segments: one field now earns the group profit",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the ten-year history on the old basis (FY2016–FY2024) with the new-basis FY2024–FY2025 figures shown as separate labelled rows — never spliced. Three facts organise it. First, the profit pool was always semiconductor-led: the old Semiconductor segment was the largest profit contributor in all nine old-basis years, and its profit rose from ¥9,678mn (FY2016) to ¥44,178mn (FY2024) while Automotive profit collapsed from ¥7,680mn (FY2017) to −¥13mn (FY2021) and recovered only to ¥1,493mn by FY2024 — the emissions-regulation and EV-transition cycle written into one segment. Second, the new basis makes the concentration explicit and adds a loss-maker: in FY2025 the three fields earned ¥9,417mn (Energy &amp; Environment), −¥894mn (Bio &amp; Healthcare) and ¥44,517mn (Advanced Materials &amp; Semiconductor), summing to the ¥53,040mn consolidated operating profit; <strong>in 9M FY2026 the semiconductor field's ¥50,224mn was 99.1% of the group total (calculated)</strong>. Third, the basis break is real: FY2024 on the new basis (Energy &amp; Environment ¥127,422mn / ¥4,262mn; Bio &amp; Healthcare ¥40,155mn / −¥890mn; Advanced Materials &amp; Semiconductor ¥149,791mn / ¥44,968mn) cannot be derived from the old-basis FY2024 figures, because the fields cut across the old segments by application; FY2024 quarters were never restated onto the new basis and are blank in the sheet. Cross-basis growth comparisons are flagged wherever they occur in this report. Source: company results via PL/segment sheet (tanshin, JPX archive), register S3/S4; FY2025 tanshin segment note.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Business segments — external revenue and segment profit, old 5-segment basis (FY2016–FY2024) and new 3-field basis (FY2024–FY2025, separate block)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), segment note, as reported in each year's own tanshin. Old basis (through FY2024): Automotive / Process &amp; Environmental / Medical-Diagnostic / Semiconductor / Scientific. New basis (from FY2025, register S3): Energy &amp; Environment / Bio &amp; Healthcare / Advanced Materials &amp; Semiconductor — FY2024 figures are the restated annuals from the FY2025 tanshin; the two bases cut across each other by application and are never spliced. Segment profit is operating profit; on the new basis the adjustment column is nil.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY2016",
+            "FY2017",
+            "FY2018",
+            "FY2019",
+            "FY2020",
+            "FY2021",
+            "FY2022",
+            "FY2023",
+            "FY2024",
+            "FY2025"
+          ],
+          "rows": [
+            [
+              "[Old basis] Automotive — revenue",
+              "62207",
+              "73360",
+              "79656",
+              "81042",
+              "63913",
+              "61249",
+              "67524",
+              "80406",
+              "93498",
+              "—"
+            ],
+            [
+              "[Old basis] Automotive — profit",
+              "3529",
+              "7680",
+              "7702",
+              "6454",
+              "2465",
+              "-13",
+              "-667",
+              "1209",
+              "1493",
+              "—"
+            ],
+            [
+              "[Old basis] Process & Environmental — revenue",
+              "16753",
+              "17433",
+              "19361",
+              "19500",
+              "18337",
+              "20217",
+              "22541",
+              "24959",
+              "28194",
+              "—"
+            ],
+            [
+              "[Old basis] Process & Environmental — profit",
+              "1540",
+              "1094",
+              "2027",
+              "1697",
+              "1639",
+              "1947",
+              "2101",
+              "2412",
+              "1835",
+              "—"
+            ],
+            [
+              "[Old basis] Medical-Diagnostic — revenue",
+              "26564",
+              "25187",
+              "26012",
+              "25335",
+              "21035",
+              "25882",
+              "29753",
+              "32678",
+              "33706",
+              "—"
+            ],
+            [
+              "[Old basis] Medical-Diagnostic — profit",
+              "2806",
+              "1918",
+              "1823",
+              "1302",
+              "-426",
+              "148",
+              "-99",
+              "638",
+              "-150",
+              "—"
+            ],
+            [
+              "[Old basis] Semiconductor — revenue",
+              "38828",
+              "53300",
+              "57785",
+              "47191",
+              "56967",
+              "87004",
+              "114075",
+              "112872",
+              "120466",
+              "—"
+            ],
+            [
+              "[Old basis] Semiconductor — profit",
+              "9678",
+              "15642",
+              "17063",
+              "10727",
+              "14052",
+              "28006",
+              "42005",
+              "40580",
+              "44178",
+              "—"
+            ],
+            [
+              "[Old basis] Scientific — revenue",
+              "25738",
+              "26117",
+              "27754",
+              "27170",
+              "26825",
+              "29958",
+              "36239",
+              "39641",
+              "41503",
+              "—"
+            ],
+            [
+              "[Old basis] Scientific — profit",
+              "944",
+              "498",
+              "221",
+              "734",
+              "1963",
+              "1957",
+              "2503",
+              "2456",
+              "982",
+              "—"
+            ],
+            [
+              "[New basis] Energy & Environment — revenue",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "127422",
+              "134407"
+            ],
+            [
+              "[New basis] Energy & Environment — profit",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "4262",
+              "9417"
+            ],
+            [
+              "[New basis] Bio & Healthcare — revenue",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "40155",
+              "42173"
+            ],
+            [
+              "[New basis] Bio & Healthcare — profit",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "-890",
+              "-894"
+            ],
+            [
+              "[New basis] Advanced Materials & Semiconductor — revenue",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "149791",
+              "156500"
+            ],
+            [
+              "[New basis] Advanced Materials & Semiconductor — profit",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "44968",
+              "44517"
+            ],
+            [
+              "Consolidated operating profit",
+              "18499",
+              "26834",
+              "28838",
+              "20916",
+              "19694",
+              "32046",
+              "45843",
+              "47296",
+              "48340",
+              "53040"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions: Asia is the growth engine; two regional bases, kept separate",
+      "level": "section",
+      "html": "<p>Regional sales by customer location from the formal note (annual tanshin only; main-block mapping Japan / China / Asia ex-China / Americas / Europe &amp; other, with the full six-region detail — Japan, Americas, China, Europe, Asia ex-China, Other — in the sheet's supplementary rows) were as follows. FY2021: Japan ¥66,414mn (29.6% of sales), China ¥30,074mn (13.4%), Asia ex-China ¥49,443mn (22.0%), Americas ¥28,682mn, Europe ¥45,002mn and Other ¥4,696mn — an overseas ratio of 70.4% (calculated). FY2025: Japan ¥76,650mn (23.0%), China ¥59,513mn (17.9%), Asia ex-China ¥79,486mn (23.9%), Americas ¥37,580mn, Europe ¥72,055mn and Other ¥7,794mn — overseas 77.0% (calculated). The five-year drift is the semiconductor cycle written geographically: China sales roughly doubled from FY2021 (¥30,074mn → ¥59,513mn, peaking at ¥65,619mn in FY2023), Asia ex-China rose 60.8%, while Japan grew only 15.4% — group growth is now made in Asia. On the separate destination basis of the tanshin supplement (Japan / Asia including China / Americas / Europe; all periods, never mixed with the formal note — register S6), FY2025 sales were Japan ¥76,650mn, Asia ¥138,999mn (41.7%), Americas ¥45,375mn and Europe ¥72,055mn; the Americas figure differs from the formal note (¥37,580mn) because the two bases split the Americas/Other boundary differently, a definitional difference flagged in the register and preserved here. The supplement also gives destination sales by field for 9M FY2026: within Energy &amp; Environment, Europe fell 13.5% YoY to ¥27,374mn while Japan rose 16.5% to ¥29,861mn — the geographic fingerprint of the hydrogen drag. Quarterly regional sales exist only on the destination basis; regional profit is not disclosed (未取得). Source: company results via PL/segment sheet (tanshin, JPX archive), register S5/S6; Q3 FY2026 tanshin supplement.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: sales ¥170,093mn / ¥195,399mn / ¥210,570mn / ¥200,241mn / ¥187,080mn / ¥224,314mn / ¥270,133mn / ¥290,558mn / ¥317,369mn / ¥333,081mn for FY2016–FY2025; cost of sales ¥100,339mn / ¥112,107mn / ¥120,630mn / ¥117,624mn / ¥110,648mn / ¥131,091mn / ¥153,459mn / ¥163,174mn / ¥180,514mn / ¥186,722mn; gross profit (calculated as sales − cost of sales) ¥69,754mn / ¥83,292mn / ¥89,940mn / ¥82,617mn / ¥76,432mn / ¥93,223mn / ¥116,674mn / ¥127,384mn / ¥136,855mn / ¥146,359mn (margins 41.0% / 42.6% / 42.7% / 41.3% / 40.9% / 41.6% / 43.2% / 43.8% / 43.1% / 43.9%); SG&amp;A ¥51,255mn / ¥56,458mn / ¥61,102mn / ¥61,701mn / ¥56,738mn / ¥61,177mn / ¥70,831mn / ¥80,088mn / ¥88,515mn / ¥93,319mn (R&amp;D is inside SG&amp;A as reported; the tanshin supplement's R&amp;D-expenditure line exists only for FY2024–FY2025: ¥22,980mn and ¥24,688mn — earlier years are not disclosed on that basis, 未取得); operating profit ¥18,499mn / ¥26,834mn / ¥28,838mn / ¥20,916mn / ¥19,694mn / ¥32,046mn / ¥45,843mn / ¥47,296mn / ¥48,340mn / ¥53,040mn. Non-operating income was ¥655mn / ¥604mn / ¥552mn / ¥827mn / ¥838mn / ¥850mn / ¥1,836mn / ¥2,723mn / ¥3,663mn / ¥3,218mn against expenses of ¥875mn / ¥830mn / ¥1,074mn / ¥1,225mn / ¥1,133mn / ¥858mn / ¥819mn / ¥1,768mn / ¥1,833mn / ¥2,032mn, giving ordinary profit of ¥18,279mn / ¥26,608mn / ¥28,316mn / ¥20,518mn / ¥19,399mn / ¥32,038mn / ¥46,860mn / ¥48,251mn / ¥50,170mn / ¥54,226mn. Extraordinary income/losses were small except FY2023 (income ¥6,653mn, losses ¥1,201mn) and FY2025 (income ¥72mn, losses ¥3,217mn, structural-reform-related per the tanshin). Profit before tax was ¥17,243mn / ¥24,385mn / ¥28,917mn / ¥20,734mn / ¥18,821mn / ¥30,204mn / ¥47,272mn / ¥53,703mn / ¥48,832mn / ¥51,081mn; total income taxes ¥4,279mn / ¥8,087mn / ¥6,579mn / ¥5,226mn / ¥5,634mn / ¥8,892mn / ¥13,200mn / ¥13,401mn / ¥15,234mn / ¥13,970mn (effective rates as implied, calculated, ranging from 24.8% to 33.2% — the FY2025 rate fell even as pre-tax profit rose, which the tanshin cites as a lighter tax burden supporting net income growth); net income (total) ¥12,964mn / ¥16,298mn / ¥22,338mn / ¥15,508mn / ¥13,187mn / ¥21,312mn / ¥34,072mn / ¥40,302mn / ¥33,598mn / ¥37,111mn, of which attributable to owners ¥12,962mn / ¥16,281mn / ¥22,313mn / ¥15,481mn / ¥13,188mn / ¥21,311mn / ¥34,072mn / ¥40,302mn / ¥33,591mn / ¥37,090mn (non-controlling interests are negligible — ¥21mn in FY2025). Depreciation and amortisation (CF-statement basis in the sheet) was ¥6,676mn / ¥7,387mn / ¥7,120mn / ¥8,485mn / ¥9,296mn / ¥10,063mn / ¥10,911mn / ¥12,097mn / ¥12,653mn / ¥13,180mn, giving an EBITDA proxy (operating profit + D&amp;A, calculated) of ¥66,220mn in FY2025.</p>\n<p>Balance sheet (31 December 2025, J-GAAP, tanshin): total assets ¥518,279mn; net assets ¥348,640mn, of which owners' equity ¥347,981mn (ratio 67.1%; book value per share ¥8,286.08). Cash and equivalents ¥162,471mn (sheet row 40); receivables ¥82,192mn (combined line: notes, accounts receivable and contract assets — the corrected FY2024/FY2025 figures, see Basis of preparation); inventory ¥94,742mn (about 6.1 months of cost of sales, calculated); trade payables ¥19,595mn; interest-bearing debt ¥66,483mn on the sheet's S8 definition (borrowings and bonds as presented — the corrected figure including ¥12,189mn of short-term borrowings; see Basis of preparation) — a net cash position of about ¥95,988mn (calculated). Cash flow: operating cash flow as listed in Chapter 1; FY2025 investing outflow was ¥24,923mn and financing outflow ¥11,993mn (tanshin header). Capital expenditure on the CF-statement basis (sheet row 37) was ¥13,374mn / ¥12,018mn / ¥10,278mn / ¥12,934mn / ¥15,045mn / ¥12,572mn / ¥12,083mn / ¥9,171mn / ¥19,447mn / ¥26,142mn — the FY2024–25 step-up coincides with capacity investment ahead of the semiconductor upcycle and, from December 2025, construction of the new global headquarters in Kyoto (company announcement, February 2026 — see Chapter 8); company-defined capex (tangible + intangible investment, supplement basis) was ¥19,392mn in FY2024 and ¥27,451mn in FY2025 and is not disclosed for earlier years. Per-share data (basic, as reported): EPS as listed in Chapter 1; dividends per share ¥145 / ¥130 / ¥90 / ¥150 / ¥245 / ¥290 / ¥270 / ¥450 for FY2018–FY2025 (FY2016–FY2017 dividend totals are not carried in the sources used and are shown as not disclosed in Exhibit 1). Shares issued: 42,233,252, of which 237,318 in treasury at 31 December 2025; weighted average shares 41,981,773. Not disclosed in the tanshin and therefore not presented here: order intake and backlog, employees, unit volumes, capacity and utilisation. Source: company results via PL/segment sheet (tanshin, JPX archive); FY2025 tanshin, 12 February 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — MLMAP2028",
+      "level": "part",
+      "html": "<p>Horiba's mid- to long-term management plan 'MLMAP2028' (announced 14 February 2024) reorganised the group around the three fields that became the FY2025 reportable segments, and set FY2028 targets of revenue ¥450,000mn, operating profit ¥80,000mn and ROE of at least 12% (company plan targets, as summarised in the interview pack from the company's plan materials). The 'MLMAP2028 Update' briefing of 10 August 2026 raised the FY2028 targets to revenue ¥460,000mn, operating profit ¥90,000mn, net income ¥62,000mn and ROE of 14.0%, with new-business sales of ¥35,000mn (company plan targets, company briefing material via the interview pack) — while cutting field-level targets for Energy (on the changed hydrogen market) and partly for semiconductor solutions and life science in the same update, so the group raise leans on mix rather than uniform growth. That internal tension is the plan's central credibility question, and it is interview-pack question 6: <strong>the FY2028 group operating-profit target of ¥90,000mn sits 23.3% above even the raised FY2026 guidance of ¥73,000mn (calculated)</strong>, and on the FY2026 segment guide the semiconductor field alone would supply ¥66,000mn of it. The FY2026 trajectory check is therefore mechanical: a FY2027 initial guide (due February 2027) with operating profit well below roughly ¥80,000mn would break the MLMAP2028 path (interview-pack yardstick); the plan's own arithmetic requires the semiconductor field to keep compounding while Energy &amp; Environment recovers from a guided revenue decline and Bio &amp; Healthcare returns from losses to its field target.</p>\n<p>Capital allocation under the plan, as evidenced rather than as promised: the stated dividend policy targets a payout of about 30% of consolidated net income, applied flexibly with special dividends and buybacks (FY2025 tanshin); delivery has run ahead of the target — payout ratios of 33.8% (FY2024) and 50.9% (FY2025) as reported, and a FY2026 forecast of ¥790 per share including ¥430 of special/commemorative dividends, alongside a 1-for-5 stock split effective 1 January 2027 that the company frames in its separate split notice (referenced in the Q3 tanshin). Investment is rising into the cycle: CF-basis capex of ¥26,142mn in FY2025 (from ¥9,171mn in FY2023), company-defined capex of ¥27,451mn, and the HORIBA World Headquarters Project — a new global headquarters on the current Kyoto head-office site, construction begun December 2025 with completion planned for January 2028 (company announcement, February 2026).</p>\n<p>The monitoring set, in the order the data arrives: Q4 FY2026 standalone operating profit against the ¥22,327mn implied by guidance (calculated) — the raise lives or dies there; the semiconductor field's full-year revenue/operating profit against its ¥215,500mn / ¥66,000mn guide and any first disclosure of order intake or backlog by field; Energy &amp; Environment's Q4 (its seasonally decisive quarter) against the cut ¥8,000mn guide; Bio &amp; Healthcare's loss trajectory against the widened −¥1,000mn guide; FY2027 initial guidance against the MLMAP2028 path; and working capital — receivables and inventory growth versus the +22.3% 9M revenue growth (interview-pack question 9). All plan figures above are company plan targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY2025 tanshin (MLMAP2028 and dividend policy), 12 February 2026; MLMAP2028 Update briefing, 10 August 2026 (via the interview pack); Q3 FY2026 tanshin, 13 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History and headquarters. Horiba is a Kyoto-based measurement and analysis instruments group with more than 70 years of operating history (company profile, 2026); its head office is in Kisshoin, Minami-ku, Kyoto, where a new global headquarters is under construction on the current head-office site (construction begun December 2025, completion planned January 2028 — the 'HORIBA World Headquarters Project', company announcement, February 2026). The tanshin contact is Toyota Uenaka, Department Manager, Finance and Accounting Department (tel. 075-313-8121, as printed in the FY2025 tanshin). A fuller corporate history is not carried in the sources used for this report and is not reconstructed here.</p>\n<p>Management. Representative Director and President: Masayuki Adachi (足立 正之) — named in that role in every tanshin from FY2023 through Q3 FY2026 and confirmed in the company's English FY2025 results summary (12 February 2026) and in company announcements through 2026. The representative in earlier documents differs: the FY2019–FY2022 tanshin name Atsushi Horiba as Representative Director, Chairman and Group CEO, with the presidency passing to Adachi by the FY2023 tanshin (February 2024). Shares issued: 42,233,252 at September 2026, with treasury shares of 211,720.</p>\n<p>Major shareholders. Not carried in the tanshin or the PL/segment sheet and not verified from the securities report in the sources used for this report — shown as 未取得 rather than substituted from third-party compilations.</p>\n<p>Employees and other data. Consolidated headcount is not disclosed in the tanshin (PL/segment sheet register S10) and is not presented as company disclosure here.</p>\n<p>Shareholder returns. Dividends per share rose from ¥90 (FY2020) to ¥450 in FY2025 (including a ¥160 special dividend in the year-end ¥370) and a forecast ¥790 in FY2026 (interim ¥150; year-end ¥640 = ¥210 ordinary + ¥190 special + ¥240 market-capitalisation-¥1tn commemorative dividend, per the Q3 FY2026 tanshin note) — the FY2026 forecast payout ratio is 50.8% on guided EPS as printed in the FY2025 tanshin's dividend table for the initial plan and is higher on a per-share basis after the guidance raises; the ordinary-dividend core (¥150 + ¥210 = ¥360) is the recurring baseline the special/commemorative ¥430 sits on top of. The 1-for-5 stock split (board resolution 13 November 2026, effective 1 January 2027, disclosed as a post-period event in the Q3 tanshin with a separate split notice the same day) will divide all per-share figures by five from FY2027 presentation; no split-adjusted figures are shown in this report.</p>\n<p>Market data. The shares closed at ¥18,265 on 16 November 2026 (Finnhub previous-close data via web search, corroborated by StockAnalysis/stockinvest.us), giving a market capitalisation of about ¥767.5bn (calculated from the cited price and the 42,021,532 shares excluding treasury at September 2026; Finnhub's own market-cap field shows ¥854.09bn, which does not reconcile with the cited price and share count and is flagged in Basis of preparation). The 52-week range was ¥12,970 to ¥30,100 (high on 19 June 2026) (Finnhub) — the shares had therefore fallen about 39% from the June 2026 peak into mid-November, fell 11.3% on 16 November alone (the first full session after the Q3 print weekend, following the ~10% relative fall the interview pack records), and traded at ¥18,160 intraday on 17 November 2026 (Finnhub, 14:37 JST). At ¥18,265 the shares trade at 20.7x FY2025 basic EPS of ¥883.50, 14.9x FY2026 company-guidance EPS of ¥1,225.56, 2.20x FY2025 book value per share of ¥8,286.08, and a 4.3% yield on the FY2026 forecast dividend of ¥790 (all calculated from the cited price and company-reported per-share data; the yield includes special/commemorative dividends and is not a recurring yield). The next scheduled disclosure is the FY2026 full-year tanshin, expected in mid-February 2027 (third-party calendar estimates; the company has not announced the date in the sources used).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Horiba (6856) (J-GAAP template; December year-end; FY2021–FY2025 main window plus 20 quarters, and a supplementary history block carrying FY2016–FY2020 annuals, giving ten annual years), built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (rollout log batch 5a and history wave H6, 2026-11-16/17; sheet register S1–S19). Figures were read from the LibreOffice-recalculated copy of the corrected sheet (the fix-horiba-fy2425 recalculated output, MD5 69df155a47e962f2ecb86ee3e1cb8ccc lineage — see discrepancies (4) and (5)). Q1–Q3 FY2026 figures are from the FY2026 quarterly tanshin, principally the Q3 tanshin and supplement dated 13 November 2026. The guidance revision chain is from the programme's guidance tracker (2026-11-17, verified against the primary tanshin). Strategy figures are from the FY2025 tanshin (MLMAP2028, dividend policy) and the MLMAP2028 Update briefing of 10 August 2026 as recorded in the interview pack (6856-horiba-interview-pack.md, data as of 2026-11-16). Transcripts: the programme's English transcript library holds no Horiba file — its index (2026-11-16) records that no Q3 FY2026 briefing record was published as of that date (Horiba's Q1/Q2 FY2026 Q&amp;A summaries followed their briefings by 8–12 days; a Q3 Q&amp;A summary may appear in late November and is flagged for re-check) — and no Q&amp;A is cited anywhere in this report. Market data are from Finnhub and StockAnalysis/stockinvest.us as returned by web search on 17 November 2026 and are cited with dates in the text; the president's name was confirmed against the company's English FY2025 results summary and 2026 company announcements.</p>\n<p>Discrepancies and basis breaks flagged (not silently resolved). (1) Segment reorganisation: from FY2025 Horiba replaced its five reportable segments (Automotive / Process &amp; Environmental / Medical-Diagnostic / Semiconductor / Scientific) with three fields (Energy &amp; Environment / Bio &amp; Healthcare / Advanced Materials &amp; Semiconductor) under MLMAP2028. The sheet's main block carries the new basis (FY2025 all periods plus FY2024 annual as restated in the FY2025 tanshin); the old basis is preserved in supplementary rows for FY2016–FY2024. FY2024 quarters were never restated onto the new basis and are blank. The fields cut across the old segments by application and are never force-mapped or spliced in this report. (2) Two regional bases: the formal related-information note (six regions, annual only) and the tanshin supplement's destination sales (four destinations, all periods) differ slightly — e.g. FY2025 Americas ¥37,580mn (formal note) versus ¥45,375mn (destination basis) — and are kept separate throughout (register S5/S6). (3) Interview pack versus tanshin: the pack's 9M segment split gives Energy &amp; Environment operating profit of ¥1.71bn (−15.4%) and leaves Bio &amp; Healthcare's 9M segment profit as 未取得 from its summary sources; the Q3 tanshin segment note itself reports Bio &amp; Healthcare's 9M operating loss as ¥1,263mn, which this report uses. The pack's guidance table likewise shows the August-to-November revision only; the full four-step chain is taken from the guidance tracker, verified against the tanshin. (4) Interest-bearing debt correction (register S17): the sheet's FY2025 debt cell originally omitted ¥12,189mn of short-term borrowings (it held ¥54,295mn); it was corrected in place on 2026-11-17 to ¥66,483mn (= ¥12,189mn short-term borrowings + ¥15,000mn current bonds + ¥15,000mn bonds + ¥24,294mn long-term borrowings, ¥1mn rounding), and the corrected figure is used throughout this report. (5) Receivables corrections (register S18/S19): the FY2022 receivables block had been flat-filled at the FY2021 value of ¥59,877mn and the FY2023 block was blank; both were corrected/filled on 2026-11-17 (FY2022 annual ¥69,818mn; FY2023 annual ¥71,541mn), and the FY2024/FY2025 blank blocks were then filled from each period's own tanshin balance sheet (FY2024 ¥82,582mn; FY2025 ¥82,192mn, combined line: notes, accounts receivable and contract assets). All receivables figures in this report are the corrected ones. An earlier screen's reading of the FY2021 block as a FY2022 error was a column-mapping false positive (December year-end window), verified and documented in the rollout log. (6) Market capitalisation: Finnhub's market-cap field (¥854.09bn) does not reconcile with its own cited price (¥18,265) and the tanshin share count (42,233,252 issued; 211,720 treasury at September 2026), which give about ¥767.5bn; the calculated figure is used and the third-party field is not. (7) Per-share basis: a 1-for-5 stock split is effective 1 January 2027 (board resolution 13 November 2026); every per-share figure, price and multiple in this report is on the pre-split basis of the source documents.</p>\n<p>Conventions and gaps. Fiscal years are labelled by the December year-end (FY2026 = year ending 31 December 2026). 'Company guidance' means Horiba's published forecasts (会社計画) and 'plan targets' means MLMAP2028 targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — order intake and order backlog (all periods), employees, production/sales units, capacity, utilisation and installed base, regional profit, quarterly regional sales on the formal-note basis, FY2024 quarterly segments on the new basis, R&amp;D expenditure for FY2016–FY2023 and FY2021–FY2023 on the supplement basis (R&amp;D is inside SG&amp;A as reported), company-defined capex before FY2024, FY2016–FY2017 dividend totals in the sources used, and the major-shareholder register (not verified from the securities report in this pass) — are described as not disclosed / 未取得 rather than estimated. Rounding plugs of at most ¥4mn per period in the sheet's SG&amp;A/non-operating/extraordinary/tax lines (register S12) leave every headline line exactly as reported.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

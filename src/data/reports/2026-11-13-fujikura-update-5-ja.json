@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "editorReportId": 5,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Company Update",
+  "dateDisplay": "2026年11月13日",
+  "dateISO": "2026-11-13",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Fujikura Ltd. (5803)",
+  "headlineHtml": "H1 FY27: operating profit up 161% on AI data-centre demand; <strong>guidance raised and dividend doubled</strong> — focus shifts to the implied H2 step-down",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥2,252",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥4.57tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥2,623 – 7,933",
+      "asOf": ""
+    },
+    {
+      "label": "Avg daily value",
+      "value": "≈¥244bn",
+      "asOf": ""
+    },
+    {
+      "label": "P/E (TTM)",
+      "value": "26.3x",
+      "asOf": ""
+    },
+    {
+      "label": "FY27E dividend",
+      "value": "¥80 (raised from ¥38)",
+      "asOf": ""
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY27 results — Feb 2027e",
+      "asOf": ""
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "H1 beat; guidance raised:",
+  "ledeHtml": "<sup class=\"rt-ref\"><a href=\"#fig-f1\">Table 1</a></sup> <strong>Fujikura's H1 FY27 operating profit rose 161% YoY to ¥235.0bn on AI data-centre demand for optical fibre and cabling</strong>, and the company raised full-year guidance and doubled the dividend. The debate now moves to the second half: <strong>guidance implies H2 operating profit of ¥194bn, below the H1 print</strong>.",
+  "bullets": [
+    {
+      "leadHtml": "H1 OP +161% YoY.",
+      "html": "H1 FY27 (Apr–Sep 2026) sales were ¥867.4bn (+55.2% YoY), operating profit ¥235.0bn (+160.6%) and net profit ¥180.3bn (+168.5%). <strong>Information &amp; Communications segment OP of ¥217.7bn (+195.0%) did the heavy lifting</strong> — AI data-centre cabling is the P&amp;L."
+    },
+    {
+      "leadHtml": "Guidance raised; dividend doubled.",
+      "html": "FY27 guidance now stands at sales of ¥1,768bn, operating profit of ¥429bn and net profit of ¥326bn. <strong>The annual dividend was raised from ¥38 to ¥80 per share</strong>."
+    },
+    {
+      "leadHtml": "Progress rates are already above 50%.",
+      "html": "Against the raised guide, <strong>H1 delivered 49.1% of full-year sales, 54.8% of operating profit and 55.3% of net profit</strong> — an unusually front-loaded year even for a strong AI-capex cycle."
+    },
+    {
+      "leadHtml": "The implied H2 is the debate.",
+      "html": "<strong>Guidance minus H1 implies H2 operating profit of ¥194bn, a step down from ¥235bn in H1</strong>. Whether that is conservatism or a genuine order slowdown is the question the Q3 print has to answer. The shares closed at ¥2,906 on 13 Nov, roughly 63% below the May 2026 high on a six-month view."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "H1 FY2027 results and full-year guidance — Fujikura (5803)",
+        "sourceHtml": "Company results, 10 Nov 2026. Progress = H1 actual ÷ full-year company guidance (calculated).",
+        "kind": "table",
+        "columns": [
+          "¥bn unless stated",
+          "H1 FY27A",
+          "FY27E (co. guide)",
+          "H1 progress"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "867.4",
+            "1,768",
+            "49.1%"
+          ],
+          [
+            "Operating profit",
+            "235.0",
+            "429",
+            "54.8%"
+          ],
+          [
+            "Net profit",
+            "180.3",
+            "326",
+            "55.3%"
+          ],
+          [
+            "Dividend per share (¥)",
+            "—",
+            "80",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY2027 results — the numbers",
+      "level": "section",
+      "html": "<p>Fujikura reported H1 FY27 results on 10 November. Sales of ¥867.4bn rose 55.2% YoY; operating profit of ¥235.0bn rose 160.6%; net profit of ¥180.3bn rose 168.5%. <strong>The Information &amp; Communications segment — optical fibre, fusion splicers and data-centre cabling — generated ¥217.7bn of operating profit, up 195.0% YoY, and accounts for almost all of the group's profit pool</strong>.</p>\n<p>Standalone Q2 (Jul–Sep) sales were about ¥465bn, up from about ¥402bn in Q1, so momentum was still building into the autumn rather than fading after a single strong quarter. <sup class=\"rt-ref\"><a href=\"#fig-f1\">Table 1</a></sup> <sup class=\"rt-ref\"><a href=\"#fig-f2\">Figure 1</a></sup></p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance and the implied second half",
+      "level": "section",
+      "html": "<p>The raised FY27 guide — sales ¥1,768bn, OP ¥429bn, net ¥326bn — embeds a second half that is weaker than the first: implied H2 sales of about ¥901bn and implied H2 OP of ¥194bn, against ¥235bn achieved in H1. Japanese corporates habitually guide conservatively at the H1 stage, and the dividend doubling to ¥80 signals management confidence in cash generation.</p>\n<p>What would settle the question is order commentary: hyperscaler capex plans for calendar 2027, fibre and cable allocation, and any capacity additions. <strong>A Q3 print that keeps the quarterly OP run-rate near the H1 average would make the implied H2 look like sandbagging; a sequential drop would validate it</strong>.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Figure 1",
+          "titleHtml": "Operating profit: H1 actual vs implied H2",
+          "sourceHtml": "Company results and guidance, 10 Nov 2026. Implied H2 = FY guidance − H1 actual (calculated).",
+          "kind": "image",
+          "src": "/report-assets/2026-11-13-fujikura-update-5/f2.svg",
+          "alt": "Operating profit: H1 actual vs implied H2"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "What we watch next",
+      "level": "section",
+      "html": "<p>Three items. First, the Q3 FY27 print (expected February 2027): quarterly OP against the roughly ¥117bn H1 quarterly average, and any revision to the FY guide. Second, US hyperscaler capex commentary through the December quarter — Fujikura's Information &amp; Communications segment is a direct read-across. Third, the share price itself: <strong>at ¥2,906 the stock trades on 26.3x trailing earnings (Finnhub, 13 Nov) after a six-month fall of about 63%, so expectations have already reset hard</strong>.</p>\n<p>This update is an example note prepared for format purposes; the rating and price target are under review pending a full model update.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

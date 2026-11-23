@@ -1,0 +1,756 @@
+{
+  "version": 1,
+  "editorReportId": 56,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation",
+  "dateDisplay": "2026年11月17日",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Industrials — Optical fibre & cable, copper foil, automotive systems",
+  "companyName": "Furukawa Electric Co., Ltd.",
+  "headlineHtml": "Japan's most leveraged data-centre optics print: <strong>H1 operating profit tripled, and the guide now needs H2 to repeat it</strong> — on price as much as volume",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥1,620",
+  "targetLabel": "Price target",
+  "targetValue": "Under review",
+  "upside": "—",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Share price (16 Nov 2026)",
+      "value": "¥1,982.5 (post-split)",
+      "asOf": "16 Nov 2026; −8.54% on the day"
+    },
+    {
+      "label": "Market capitalisation",
+      "value": "¥1.32tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "FY3/26 net sales",
+      "value": "¥1,307,560mn",
+      "asOf": "FY ended Mar 2026"
+    },
+    {
+      "label": "FY3/26 operating profit",
+      "value": "¥63,856mn (4.9%)",
+      "asOf": "FY ended Mar 2026"
+    },
+    {
+      "label": "FY3/27E guidance (Rev.2, 9 Nov 2026)",
+      "value": "Sales ¥1,570,000mn / OP ¥136,000mn",
+      "asOf": "Raised twice; H2 OP implied ¥78.4bn"
+    },
+    {
+      "label": "H1 FY3/27 operating profit",
+      "value": "¥57,600mn (+201% YoY)",
+      "asOf": "Apr–Sep 2026 (briefing)"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Furukawa Electric is a 140-year-old wire, fibre and metals group — optical fibre and cable (incl. OFS and the Lightera fibre business), energy cable, copper foil and functional products, automotive wiring and batteries — whose legacy four-segment P&amp;L (Electronics &amp; Automotive Systems at 58% of sales) is being repriced by a single business: data-centre optics.",
+  "ledeHtml": "In FY3/2026 net sales were ¥1,307,560mn, operating profit ¥63,856mn (4.9%), ordinary profit ¥75,858mn and owners' net income ¥72,514mn (EPS ¥1,030.2 pre-split; ¥103.02 post-split equivalent — Finnhub's annual EPS agrees), with net income flattered by ¥40,159mn of extraordinary income. FY3/2027 guidance has been raised twice, to sales ¥1,570,000mn / OP ¥136,000mn / owners' NI ¥118,000mn (9 November 2026). Strengths: (1) the optical inflection is extreme — H1 FY3/2027 OP tripled to ¥57.6bn (7.8% margin, an H1 record back to FY2001), with <strong>Optical Solutions OP swinging from ¥0.7bn to ¥23.6bn at an 18.0% margin on fibre/cable (+¥16.0bn of the OP bridge)</strong>, specialty fibre and MT ferrules; (2) pricing power is documented, not hoped for — double-digit price revisions achieved, ~half the Optical full-year upgrade is price, and more than half of FY2028 optical-cable pricing is already effectively decided at revised levels (company Q&amp;A); (3) Functional Products' HVLP copper foil (now over half of high-frequency-substrate foil) gives a second AI-hardware leg — FY3/2026 segment OP ¥15,379mn at 10.2%; (4) the plan is explicit — Vision 2030 targets FY2030 OP of ¥250bn (&gt;10% margin), ¥200bn of it data-centre-related, with ROE 20% / ROIC 15%, and management floated the FY2028 ¥170bn milestone arriving a year early; (5) two guidance raises already this year with segment OP guides raised in Optical (+¥10bn to ¥53.0bn). Weaknesses: (1) the quality of the H1 sales beat is mixed — of the +¥127.0bn YoY sales increase, copper added +¥61.3bn and FX +¥33.0bn while substantive growth was +¥75.1bn (company bridge), and roughly half the Optical OP upgrade is price, partly cost pass-through; (2) the guide back-loads again — implied H2 OP is ¥78.4bn vs ¥57.6bn in H1 (calculated), and full-year free cash flow is guided to roughly zero despite ¥136bn of OP; (3) <strong>leverage is real — net debt of ¥246,188mn (calculated) at FY3/2026-end against a ¥650bn FY2026–30 investment plan</strong> (¥500bn to DC growth areas) that lands before the cash flow; (4) the legacy book is thin — Metal Solutions earned a 1.3% H1 margin, Service &amp; Development has lost money in all ten years shown, and Infrastructure lost ¥11,252mn as recently as FY3/2024; (5) disclosure breaks are stacking up — a NEW five-segment classification applies from April 2026 (no restated history in the materials read), the sheet's regional rows proved positionally inconsistent across the FY2022/23 document-order change (corrected here from the tanshin texts — see Basis), and orders/backlog are not disclosed; (6) the stock has round-tripped violently — ¥1,982.5 on 16 November (−8.54% on the day) against a split-adjusted 52-week high above ¥50,000 pre-split equivalent in June 2026 per secondary data. Rating and price target are Under Review placeholders (see Basis of preparation).",
+  "bullets": [
+    {
+      "leadHtml": "Two raises, H2 still has to be bigger",
+      "html": "FY3/2027 guidance: initial (12 May 2026) sales ¥1,460,000mn / OP ¥95,000mn → Rev.1 (6 August) ¥1,530,000mn / ¥123,000mn → Rev.2 (9 November) ¥1,570,000mn / OP ¥136,000mn / ordinary ¥155,000mn / NI ¥118,000mn, dividend ¥22 post-split. Of the Rev.2 sales raise, ~¥27bn of +¥40bn is copper-price effect (company). <strong>Implied H2 OP of ¥78.4bn (calculated) is 36% above H1 — the delivery question is now H2-weighted</strong>."
+    },
+    {
+      "leadHtml": "Optical Solutions is the whole story",
+      "html": "H1 FY3/2027 (new segment basis): Optical Solutions sales ¥130.9bn, OP ¥23.6bn (18.0%) vs ¥0.7bn a year earlier — fibre/cable +¥16.0bn of the bridge, specialty fibre +¥5.5bn, MT ferrules +¥3.0bn, Broadband &amp; Network −¥1.0bn (company Q&amp;A). <strong>The full-year Optical OP guide was raised ¥10bn to ¥53.0bn, split ~¥4.5bn price / ~¥4.5bn mix</strong>. Multi-year contracts carry volume take-up guarantees and compensation clauses (company) — but locked contracts cannot be repriced, so FY2028 depends on the unlocked remainder."
+    },
+    {
+      "leadHtml": "Copper and FX did half the H1 work",
+      "html": "Of H1's +¥127.0bn sales increase, the company's own bridge attributes +¥61.3bn to copper prices and +¥33.0bn to FX, with consolidation-scope changes (battery deconsolidation) subtracting ¥42.4bn — <strong>substantive growth was +¥75.1bn</strong>. The same pass-through mechanics that flatter the top line will reverse if copper falls; Metal Solutions (¥237.5bn of H1 sales) earned just 1.3%."
+    },
+    {
+      "leadHtml": "¥650bn of investment against ~zero guided FCF",
+      "html": "Vision 2030 (19 May 2026, company plan): FY2030 OP ¥250bn at &gt;10%, ¥200bn from data-centre business, ROE 20%, ROIC 15%; FY2028 milestone OP ¥170bn; total investment FY2026–30 of ¥650bn, ¥500bn to growth areas. Against that: FY3/2027 FCF guided to roughly zero (H1 FCF +¥7.5bn), and net debt was ¥246,188mn (calculated) at FY3/2026-end. <strong>The plan is funded through the cycle it bets on</strong>."
+    },
+    {
+      "leadHtml": "A new segment map with no history",
+      "html": "From April 2026 the group reports five segments — Optical Solutions, Digital Infrastructure Components, Energy Infrastructure, Automotive Systems, Metal Solutions — replacing the four-segment basis of Exhibit 2. No restated history on the new basis was in the materials read, so new-basis segment trends cannot yet be computed; <strong>the FY3/2027 segment OP guides (Optical ¥53.0bn, DIC ¥51.0bn, Energy ¥7.0bn) are the only full-year anchors</strong>."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)",
+        "sourceHtml": "Company tanshin via PL/segment sheet (register S1, S10). J-GAAP as originally reported. EPS calculated on pre-split weighted shares as printed (10-for-1 split 1 Jul 2026; FY26 post-split equivalent ¥103.02). Margins calculated.",
+        "kind": "table",
+        "columns": [
+          "",
+          "FY17",
+          "FY18",
+          "FY19",
+          "FY20",
+          "FY21",
+          "FY22",
+          "FY23",
+          "FY24",
+          "FY25",
+          "FY26"
+        ],
+        "rows": [
+          [
+            "Net sales",
+            "843,344",
+            "967,333",
+            "991,590",
+            "914,439",
+            "811,600",
+            "930,496",
+            "1,066,326",
+            "1,056,528",
+            "1,201,762",
+            "1,307,560"
+          ],
+          [
+            "Operating profit",
+            "38,623",
+            "44,804",
+            "40,842",
+            "23,565",
+            "8,429",
+            "11,428",
+            "15,441",
+            "11,171",
+            "47,097",
+            "63,856"
+          ],
+          [
+            "OP margin (%)",
+            "4.6",
+            "4.6",
+            "4.1",
+            "2.6",
+            "1.0",
+            "1.2",
+            "1.4",
+            "1.1",
+            "3.9",
+            "4.9"
+          ],
+          [
+            "Net income (owners)",
+            "17,570",
+            "28,547",
+            "29,108",
+            "17,639",
+            "10,001",
+            "10,093",
+            "17,911",
+            "6,508",
+            "33,366",
+            "72,514"
+          ],
+          [
+            "EPS (¥, pre-split, calculated)",
+            "249.2",
+            "405.0",
+            "413.0",
+            "250.2",
+            "141.9",
+            "143.4",
+            "254.4",
+            "92.4",
+            "473.5",
+            "1,030.2"
+          ],
+          [
+            "Operating cash flow",
+            "40,402",
+            "38,429",
+            "46,460",
+            "41,942",
+            "-479",
+            "-13,269",
+            "36,516",
+            "31,896",
+            "59,833",
+            "28,116"
+          ],
+          [
+            "Gross profit",
+            "154,184",
+            "165,922",
+            "167,109",
+            "150,239",
+            "129,312",
+            "138,692",
+            "156,704",
+            "158,993",
+            "201,718",
+            "229,814"
+          ],
+          [
+            "Gross margin (%)",
+            "18.3",
+            "17.2",
+            "16.9",
+            "16.4",
+            "15.9",
+            "14.9",
+            "14.7",
+            "15.0",
+            "16.8",
+            "17.6"
+          ],
+          [
+            "Ordinary profit",
+            "36,024",
+            "46,908",
+            "39,078",
+            "22,771",
+            "5,189",
+            "19,666",
+            "19,639",
+            "10,267",
+            "48,571",
+            "75,858"
+          ],
+          [
+            "Profit before income taxes",
+            "27,965",
+            "40,466",
+            "35,757",
+            "30,751",
+            "21,316",
+            "20,430",
+            "30,302",
+            "20,064",
+            "54,089",
+            "104,944"
+          ],
+          [
+            "D&A",
+            "23,370",
+            "25,106",
+            "26,271",
+            "29,423",
+            "32,163",
+            "33,721",
+            "39,098",
+            "38,951",
+            "41,251",
+            "43,218"
+          ],
+          [
+            "Capital expenditure",
+            "30,982",
+            "37,882",
+            "47,050",
+            "53,862",
+            "40,711",
+            "40,014",
+            "39,256",
+            "40,263",
+            "41,527",
+            "52,126"
+          ],
+          [
+            "Inventories (period-end)",
+            "104,354",
+            "113,790",
+            "122,889",
+            "115,861",
+            "120,836",
+            "164,115",
+            "172,296",
+            "183,646",
+            "195,040",
+            "210,896"
+          ],
+          [
+            "Cash and equivalents (period-end)",
+            "46,147",
+            "49,758",
+            "46,838",
+            "55,055",
+            "87,189",
+            "67,632",
+            "51,950",
+            "53,098",
+            "66,092",
+            "70,474"
+          ],
+          [
+            "Interest-bearing debt (period-end)",
+            "172,235",
+            "162,228",
+            "246,008",
+            "251,088",
+            "290,617",
+            "342,120",
+            "323,828",
+            "333,039",
+            "306,150",
+            "316,662"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Exhibit 1 (page 1) summarises ten fiscal years, FY3/2017–FY3/2026, all J-GAAP as originally reported. The decade is a long fade and a sudden repair: OP peaked at ¥44,804mn (4.6%) in FY3/2018, decayed to ¥8,429mn (1.0%) in FY3/2021 and ¥11,171mn (1.1%) in FY3/2024, then jumped to ¥47,097mn (FY3/2025) and ¥63,856mn (4.9%) in FY3/2026 as optics and copper foil inflected. Owners' net income follows the same arc (¥10,001mn in FY3/2021 → ¥72,514mn in FY3/2026), with FY3/2026 including ¥40,159mn of extraordinary income against ¥11,073mn of extraordinary losses. <strong>Operating cash flow was negative in FY3/2022 (−¥13,269mn) and nearly zero in FY3/2021 (−¥479mn)</strong> — the group's cash conversion has historically been as weak as its margins. Per-share figures cross a break: a 10-for-1 split took effect on 1 July 2026 (register S6); Exhibit 1 EPS is calculated on each year's pre-split weighted shares as printed, and FY3/2026 EPS of ¥1,030.2 equals ¥103.02 post-split (Finnhub's annual EPS agrees exactly).</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Furukawa Electric Co., Ltd. — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-furukawa-electric-initiation-56/c1.svg",
+          "alt": "Furukawa Electric Co., Ltd. — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Furukawa Electric Co., Ltd. — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-furukawa-electric-initiation-56/c2.svg",
+          "alt": "Furukawa Electric Co., Ltd. — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Furukawa Electric Co., Ltd. — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-furukawa-electric-initiation-56/c3.svg",
+          "alt": "Furukawa Electric Co., Ltd. — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Furukawa Electric Co., Ltd. — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-furukawa-electric-initiation-56/v1.svg",
+          "alt": "Furukawa Electric Co., Ltd. — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — H1 FY3/2027 results and the second guidance raise",
+      "level": "part",
+      "html": "<p>Q2 FY3/2027 results were published on 9 November 2026 with a full briefing presentation and a company Q&amp;A summary (13 Q&amp;As) — the richest interim disclosure set in this coverage. The print also introduced the new five-segment classification that applies from April 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY3/2027 results",
+      "level": "section",
+      "html": "<p>H1 (April–September 2026) set first-half records at every line (company): sales ¥737.7bn (+20.8%), OP ¥57.6bn (+201.1%; 7.8% margin), ordinary profit ¥64.9bn, owners' net profit ¥58.8bn — the highest H1 since FY2001. The company's bridge decomposes the +¥127.0bn sales increase into copper +¥61.3bn, FX +¥33.0bn, scope changes −¥42.4bn (battery deconsolidation) and substantive growth +¥75.1bn; of the +¥38.5bn OP increase, volume/mix contributed +¥20.9bn (Optical Solutions +¥10.4bn, Digital Infrastructure Components +¥6.9bn), with price revisions on top. New-basis segments (Fact Book): <strong>Optical Solutions ¥130.9bn / ¥23.6bn (18.0%); Digital Infrastructure Components ¥118.9bn / ¥15.2bn (12.8%)</strong>; Energy Infrastructure ¥69.9bn / ¥4.9bn (7.1%); Automotive Systems ¥188.9bn / ¥12.9bn (6.8%); Metal Solutions ¥237.5bn / ¥3.1bn (1.3%); Service &amp; Development/adjustments −¥2.0bn of OP. Free cash flow was +¥7.5bn (OCF +¥28.7bn). Contract colour (Q&amp;A): medium/long-term supply contracts are being written with volume take-up guarantees and monetary compensation; more than half of FY2028 optical-cable pricing is already effectively decided at revised levels; submarine-fibre capacity is planned to 4× the start-of-FY2026 level by FY2029; rollable-ribbon expansion runs FY2026–28.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance chain (Exhibit 3)",
+      "level": "section",
+      "html": "<p>Initial (12 May 2026): sales ¥1,460,000mn, OP ¥95,000mn, owners' NI ¥82,000mn. Revision 1 (6 August 2026): sales ¥1,530,000mn, OP ¥123,000mn, NI ¥105,000mn. Revision 2 (9 November 2026): sales ¥1,570,000mn, OP ¥136,000mn, ordinary profit ¥155,000mn, NI ¥118,000mn; dividend unchanged at ¥22 post-split. (A separate 24 September 2026 notice revised only the H1 forecast.) Company-stated reason for Rev.2 (tracker): mainly data-centre-related product demand growth driving optical-solutions sales expansion; of the +¥40bn sales raise, ~¥27bn is copper-price effect (briefing). Segment OP guides: Optical Solutions raised +¥10bn to ¥53,000mn; Digital Infrastructure Components held at ¥51,000mn (sales cut ¥10bn to ¥315,000mn on a consolidation-elimination review — explicitly not demand); Energy Infrastructure held at ¥7,000mn; Automotive Systems +¥1bn; Metal Solutions +¥2bn. Implied H2 OP is ¥78.4bn (calculated) vs ¥57.6bn in H1, and full-year FCF is guided to roughly zero.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3: FY3/2027 guidance chain (¥mn)",
+          "sourceHtml": "Company tanshin via the guidance tracker (17 Nov 2026) and sheet register S8. Dividend ¥22 post-split, unchanged. A 24 Sep 2026 notice revised only the H1 forecast.",
+          "kind": "table",
+          "columns": [
+            "Step",
+            "Net sales",
+            "OP",
+            "Ordinary profit",
+            "Owners' NI"
+          ],
+          "rows": [
+            [
+              "Initial (12 May 2026)",
+              "1,460,000",
+              "95,000",
+              "—",
+              "82,000"
+            ],
+            [
+              "Rev.1 (6 Aug 2026)",
+              "1,530,000",
+              "123,000",
+              "—",
+              "105,000"
+            ],
+            [
+              "Rev.2 (9 Nov 2026)",
+              "1,570,000",
+              "136,000",
+              "155,000",
+              "118,000"
+            ],
+            [
+              "FY3/26 actual",
+              "1,307,560",
+              "63,856",
+              "75,858",
+              "72,514"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Furukawa Electric (founded 1884; headquartered in Marunouchi, Tokyo) is the Furukawa group's wire, fibre and metals house. President &amp; CEO is Hideya Moridaira. Through FY3/2026 it reported four segments (segment profit = operating profit; register S3); from April 2026 it reports five (see section 5). A 10-for-1 stock split took effect on 1 July 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Electronics & Automotive Systems (legacy) → Automotive Systems / Metal Solutions / DIC (new)",
+      "level": "section",
+      "html": "<p>The legacy segment — automotive wiring harnesses and parts, batteries, electronic components, copper and aluminium wire — was 58% of FY3/2026 sales (¥756,170mn) at a 4.5% OP margin (¥33,887mn), rebuilt from ¥123mn of OP in FY3/2022. On the new basis it splits mainly into Automotive Systems (H1 FY3/2027: ¥188.9bn / ¥12.9bn, 6.8%), Metal Solutions (¥237.5bn / ¥3.1bn, 1.3% — copper products on pass-through pricing) and parts of Digital Infrastructure Components. The battery business was deconsolidated during FY3/2027 (H1 scope effect −¥42.4bn of sales, company bridge).</p>\n<p>Digital Infrastructure Components carries the largest single assumption in the raised FY3/2027 guide. Its full-year operating-profit forecast was held at ¥51.0bn at the 9 November revision (sales were cut ¥10bn to ¥315bn on a consolidation-elimination review, explicitly not demand) after H1 delivered ¥15.2bn — implying ¥35.8bn in H2, a 2.4× half-on-half step-up across DFB laser chips, copper foil, memory disks and semiconductor tape. Within foil, HVLP4 copper foil for high-frequency substrates is now over half of that category (company Q&amp;A). Metal Solutions, by contrast, earned ¥3.1bn on ¥237.5bn of H1 sales (1.3%): of the +¥40bn sales raise at Rev.2, about ¥27bn is copper price, so the segment's sales line inflates with the metal price while its margin remains the group's thinnest.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Infrastructure (legacy) → Optical Solutions / Energy Infrastructure (new)",
+      "level": "section",
+      "html": "<p>Optical fibre and cable (OFS in the US; the Lightera fibre/cable business in Latin America), optical devices and components (MT ferrules, specialty fibre), telecom systems, and energy cable including submarine cable. Legacy FY3/2026: sales ¥363,941mn, OP ¥21,439mn (5.9%) — after a ¥11,252mn loss in FY3/2024. On the new basis, Optical Solutions is the group's profit engine (H1 OP ¥23.6bn at 18.0%; FY guide ¥53.0bn) while Energy Infrastructure runs at ~7% (H1 ¥4.9bn; FY guide ¥7.0bn), with the ¥100bn-class domestic HVDC interconnection opportunity contributing nothing before 2030 by the company's own briefing (pack).</p>\n<p>The company itself decomposed the Optical Solutions swing at the 9 November 2026 Q&amp;A. Of the roughly ¥23bn year-on-year increase in H1 segment operating profit (from ¥0.7bn to ¥23.6bn), optical fibre and cable contributed +¥16.0bn, specialty fibre +¥5.5bn and MT ferrules +¥3.0bn, while Broadband &amp; Network subtracted ¥1.0bn. Of the ¥10.0bn full-year Optical upgrade to ¥53.0bn, about ¥4.5bn is price and about ¥4.5bn mix, with price effects pulled forward from Q4 into Q2; double-digit percentage price revisions were achieved in places, including cost pass-through. Management also stated that medium- to long-term supply contracts are being written with volume take-up guarantees and monetary compensation, and that for FY2028 optical cable pricing, more than half is already effectively decided at revised price levels, with the rest still fluid — the contracted share is the boundary between the durable and the cyclical parts of the 18.0% H1 margin.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Functional Products and Service & Development",
+      "level": "section",
+      "html": "<p>Functional Products — copper foil (incl. HVLP foil for high-frequency substrates, now over half that category per the Q&amp;A), functional plastics, thermal products (liquid cooling; H1 shipments delayed by customer plant start-ups) — earned ¥15,379mn at 10.2% in FY3/2026, the legacy book's best margin. Service &amp; Development etc. has lost money in every year of the ten-year window (−¥6,703mn in FY3/2026 on ¥36,644mn of sales).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Furukawa's value chain runs from materials (copper, glass preforms) through components (fibre, foil, ferrules, harnesses) to systems (submarine cable). Competitive sets: optical fibre/cable against Corning, Sumitomo Electric, YOFC and Prysmian in a documented fibre shortage; copper foil against Mitsui Mining &amp; Smelting and Circuit Foil into AI-server substrates; harnesses against Yazaki and Sumitomo Wiring Systems. <mark>The strategic tension is capital: ¥500bn of the ¥650bn Vision 2030 investment is earmarked for DC growth areas whose returns depend on pricing that is only partly locked, while the legacy metals/automotive book (over half of sales) earns 1–7% and consumes working capital with copper prices</mark>. The company's contract strategy — take-up guarantees and compensation clauses in multi-year supply deals — is the disclosed mechanism for shifting cycle risk to customers; how much of the ¥500bn is covered by such contracts is not disclosed.</p>\n<p>The external market frame is consistent with the company's capacity stance. FIELDNOTES' optical-modules/CPO industry report (16 November 2026), citing Precedence Research (September 2026), puts the global optical-cable market at US$18.5bn in 2025 rising to US$49.76bn by 2035, a 10.4% CAGR, and the broader data-centre cable market (optical, copper, AOC and DAC) at US$13.7bn in 2025 rising to US$37.52bn by 2035. Furukawa's disclosed capacity path is built into that demand: rollable-ribbon cable expansion runs FY2026–28 and submarine-fibre capacity is to reach 4× the start-of-FY2026 level by FY2029 (company Q&amp;A, 9 November 2026). The same report notes the optical-transceiver market reached about US$23.9bn in 2025, up 55% year on year on AI-cluster demand (LightCounting series) — the demand pool to which Furukawa's fibre, ferrule and specialty-fibre lines are the upstream complement.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "Furukawa Electric in the wire &amp; cable value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (wire &amp; cable value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-furukawa-electric-initiation-56/d1.svg",
+          "alt": "Furukawa Electric in the wire & cable value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Segment profit is operating profit. Two bases exist and are never spliced: the legacy four segments (FY3/2017–26, Exhibit 2 and the history block) and the new five segments from April 2026 (H1 FY3/2027 and segment OP guides only — no restated history in the materials read). Regional sales are customer-location, annual only; regional profit is not disclosed (register S4, S7). NOTE — sheet discrepancy: the sheet's main-block regional rows follow each tanshin's printed column order, which changed between the FY2022 and FY2023 documents, so the sheet's second and third regional rows swap identity (Asia ex-China vs North &amp; Central America) between FY3/2022 and FY3/2023 despite register S4's header-mapping note. The regional figures in this report are taken from the tanshin texts directly (see Basis).</p>",
+      "figures": [
+        {
+          "id": "v2",
+          "number": "Figure 6",
+          "titleHtml": "Furukawa Electric Co., Ltd. — regional revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-furukawa-electric-initiation-56/v2.svg",
+          "alt": "Furukawa Electric Co., Ltd. — regional revenue by year"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Segments (Exhibit 2, legacy basis)",
+      "level": "section",
+      "html": "<p>FY3/2026: Electronics &amp; Automotive Systems ¥756,170mn / ¥33,887mn (4.5%); Infrastructure ¥363,941mn / ¥21,439mn (5.9%); Functional Products ¥150,804mn / ¥15,379mn (10.2%); Service &amp; Development ¥36,644mn / −¥6,703mn; adjustment −¥146mn bridges exactly to OP of ¥63,856mn. The five-year rotation: in FY3/2022 E&amp;AS earned ¥123mn (0.0%) and Infrastructure ¥5,184mn; <strong>in FY3/2024 Infrastructure lost ¥11,252mn (fibre-price collapse) while E&amp;AS recovered to ¥18,702mn</strong>. On the history block (same basis), FY3/2017 was Infrastructure ¥257,413mn / ¥14,339mn, E&amp;AS ¥428,298mn / ¥12,793mn, Functional Products ¥124,393mn / ¥11,683mn (9.4%), S&amp;D ¥33,238mn / −¥148mn.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2: Segments, legacy four-segment basis (¥mn)",
+          "sourceHtml": "Company tanshin via PL/segment sheet (register S3). Segment profit = operating profit. The new five-segment basis from April 2026 is not spliced (see section 5).",
+          "kind": "table",
+          "columns": [
+            "Segment",
+            "FY22 sales",
+            "FY22 profit",
+            "FY23 sales",
+            "FY23 profit",
+            "FY24 sales",
+            "FY24 profit",
+            "FY25 sales",
+            "FY25 profit",
+            "FY26 sales",
+            "FY26 profit",
+            "FY26 margin %"
+          ],
+          "rows": [
+            [
+              "Infrastructure",
+              "293,773",
+              "5,184",
+              "320,080",
+              "8,609",
+              "274,455",
+              "−11,252",
+              "304,526",
+              "4,528",
+              "363,941",
+              "21,439",
+              "5.9"
+            ],
+            [
+              "Electronics & Automotive Systems",
+              "488,849",
+              "123",
+              "599,496",
+              "4,694",
+              "644,084",
+              "18,702",
+              "727,694",
+              "32,295",
+              "756,170",
+              "33,887",
+              "4.5"
+            ],
+            [
+              "Functional Products",
+              "123,715",
+              "7,583",
+              "120,289",
+              "4,179",
+              "110,983",
+              "5,509",
+              "140,947",
+              "13,957",
+              "150,804",
+              "15,379",
+              "10.2"
+            ],
+            [
+              "Service & Development etc.",
+              "24,157",
+              "−1,368",
+              "26,459",
+              "−2,109",
+              "27,004",
+              "−1,904",
+              "28,593",
+              "−3,629",
+              "36,644",
+              "−6,703",
+              "-18.3"
+            ],
+            [
+              "Adjustments",
+              "2",
+              "−94",
+              "2",
+              "68",
+              "2",
+              "116",
+              "2",
+              "−54",
+              "1",
+              "−146",
+              "—"
+            ],
+            [
+              "Consolidated OP",
+              "930,496",
+              "11,428",
+              "1,066,326",
+              "15,441",
+              "1,056,528",
+              "11,171",
+              "1,201,762",
+              "47,097",
+              "1,307,560",
+              "63,856",
+              "4.9"
+            ]
+          ]
+        },
+        {
+          "id": "f4",
+          "number": "Table 4",
+          "titleHtml": "Exhibit 2A. Segments, legacy four-segment basis — FY3/17–FY3/21",
+          "sourceHtml": "PL/segment workbook — History block, the same legacy four-segment basis as Exhibit 2, J-GAAP as originally reported; shown separately, not spliced into Exhibit 2.",
+          "kind": "table",
+          "columns": [
+            "Segment",
+            "FY17 sales",
+            "FY17 profit",
+            "FY18 sales",
+            "FY18 profit",
+            "FY19 sales",
+            "FY19 profit",
+            "FY20 sales",
+            "FY20 profit",
+            "FY21 sales",
+            "FY21 profit"
+          ],
+          "rows": [
+            [
+              "Infrastructure",
+              "257,413",
+              "14,339",
+              "284,113",
+              "12,752",
+              "282,250",
+              "7,430",
+              "276,039",
+              "1,710",
+              "255,513",
+              "−2,129"
+            ],
+            [
+              "Electronics & Automotive Systems",
+              "428,298",
+              "12,793",
+              "502,521",
+              "18,210",
+              "536,675",
+              "19,706",
+              "493,734",
+              "14,818",
+              "423,026",
+              "5,858"
+            ],
+            [
+              "Functional Products",
+              "124,393",
+              "11,683",
+              "144,198",
+              "13,992",
+              "140,748",
+              "13,539",
+              "110,478",
+              "7,467",
+              "108,648",
+              "6,298"
+            ],
+            [
+              "Service & Development etc.",
+              "33,238",
+              "−148",
+              "36,501",
+              "−209",
+              "31,916",
+              "55",
+              "34,187",
+              "−349",
+              "24,412",
+              "−1,707"
+            ]
+          ]
+        },
+        {
+          "id": "f5",
+          "number": "Table 5",
+          "titleHtml": "Exhibit 2B. Regional sales (customer location) — FY3/17–FY3/21",
+          "sourceHtml": "PL/segment workbook — History-block regional rows only. The sheet's MAIN-block regional rows were NOT used: they swap Asia ex-China vs North &amp; Central America between FY22 and FY23 (see discrepancies). Regional profit is not disclosed in any year.",
+          "kind": "table",
+          "columns": [
+            "Region (customer)",
+            "FY17",
+            "FY18",
+            "FY19",
+            "FY20",
+            "FY21"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "453,317",
+              "510,663",
+              "521,281",
+              "495,658",
+              "435,195"
+            ],
+            [
+              "Asia ex-China",
+              "155,983",
+              "193,059",
+              "213,260",
+              "183,033",
+              "141,029"
+            ],
+            [
+              "China",
+              "82,039",
+              "96,911",
+              "94,006",
+              "75,059",
+              "82,777"
+            ],
+            [
+              "North & Central America",
+              "82,302",
+              "84,746",
+              "72,677",
+              "78,302",
+              "78,179"
+            ],
+            [
+              "Other",
+              "69,701",
+              "81,952",
+              "90,364",
+              "82,386",
+              "74,418"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions (from the tanshin texts)",
+      "level": "section",
+      "html": "<p>FY3/2026 (customer location): Japan ¥645,598mn (49.4%), Asia ex-China ¥290,197mn (22.2%), North &amp; Central America ¥178,583mn (13.7%), China ¥125,685mn (9.6%), Other ¥67,495mn (5.2%). FY3/2022 on the same identities: Japan ¥461,450mn (49.6%), Asia ex-China ¥190,877mn (20.5%), China ¥100,457mn (10.8%), North &amp; Central America ¥91,716mn (9.9%), Other ¥85,994mn (9.2%) — the Americas share has risen ~4pts on the US fibre business while Japan's share is unchanged at ~49%. History years (FY3/2017): Japan ¥453,317mn, Asia ex-China ¥155,983mn, China ¥82,039mn, North &amp; Central America ¥82,302mn, Other ¥69,701mn. Regional profit is not disclosed in any year.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>FY3/2026 (J-GAAP): sales ¥1,307,560mn, gross profit ¥229,814mn (17.6%, calculated), SG&amp;A ¥165,958mn (12.7%), OP ¥63,856mn. Net non-operating income of ¥12,002mn (incl. equity-method and dividend income) gave ordinary profit of ¥75,858mn; extraordinary income ¥40,159mn less losses ¥11,073mn gave PBT of ¥104,944mn; total taxes of ¥29,047mn (a 27.7% effective rate, calculated) and NCI left owners' net income of ¥72,514mn — EPS ¥1,030.2 pre-split on 70.39mn basic shares (¥103.02 post-split). Operating cash flow was only ¥28,116mn against that profit; capex ¥52,126mn; D&amp;A ¥43,218mn. Balance sheet at FY3/2026-end: cash ¥70,474mn; interest-bearing debt ¥316,662mn (register S5 definition, as corrected by S15) — net debt ¥246,188mn (calculated); receivables ¥266,458mn; inventories ¥210,896mn (as corrected by S16; 2.35 months of cost of sales, calculated); payables ¥140,543mn. R&amp;D and employees are not presented in the tanshin (register S7).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan",
+      "level": "part",
+      "html": "<p>The Management Policy toward Vision 2030 (19 May 2026, company plan) targets FY2030 operating profit of ¥250bn at a margin above 10% — ¥200bn of it from data-centre-related business — with ROE of 20% and ROIC of 15%. The interim milestone is FY2028 OP of ¥170bn at ~9%; at the 9 November 2026 briefing President Moridaira said that if the current pace continues the ¥170bn could 'come into view one year early' — a comment, not a revised plan (pack). <strong>Total investment for FY2026–30 is ¥650bn, of which ¥500bn to growth (DC) areas</strong>: submarine-fibre capacity to 4× by FY2029, rollable-ribbon expansion FY2026–28, foil and device capacity. Capital returns: FY3/2027 dividend guide ¥22 post-split, unchanged through both raises.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>Corporate actions: 10-for-1 stock split effective 1 July 2026 (register S6); battery business deconsolidated during H1 FY3/2027 (scope effect −¥42.4bn of H1 sales, company bridge); new five-segment classification from April 2026. The shares fell 8.54% on 16 November 2026 to ¥1,982.5 (post-split) a week after the raise — secondary data show a split-adjusted 52-week range of ¥879.1 to a June 2026 high an order of magnitude above the current price (Finnhub, pre-split prints) — the market is pricing optical-cycle duration, not the print. Major shareholders are 未取得 in the sources used. Next results: Q3 FY3/2027, expected early February 2027.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources: the PL/segment sheet for Furukawa Electric (5801) in its final audited form (recv-annual-audit copy; register S1–S16, including three 17 November 2026 corrections applied in that copy: S14 history FY2019 debt cell, S15 FY2026 debt double-count in Q2/Q3/annual, S16 inventory double-count across all 30 periods). Main window FY3/2022–FY3/2026 plus the FY3/2017–FY3/2021 history block. Also used: the guidance tracker (56-company edition, 17 November 2026) and the interview pack for 5801 (Q2 FY3/2027 briefing text and Q&amp;A summary, Fact Book, Vision 2030 policy document). REGIONAL FIGURES: the sheet's main-block regional rows are positional by each document's printed column order, which changed between the FY2022 document (Japan/China/Asia ex-China/N&amp;CA/Other) and the FY2023 document onward (Japan/Asia ex-China/N&amp;CA/China/Other); register S4 states the rows were header-mapped, but the stored values follow the printed order, so rows 2–3 swap identity between FY3/2022 and FY3/2023. This report's regional series were re-derived from the tanshin texts in the company folder (2022_FY.txt–2026_FY.txt, related-information notes) and are internally consistent; the discrepancy is flagged for the sheet programme. The new five-segment basis (from April 2026) is presented only where the company discloses it (H1 FY3/2027, segment OP guides); it is not spliced into the legacy series. The sheet's template 'Estimate' columns were not used. Calculated figures are labelled as such. Gaps （未取得 / not disclosed): order intake and backlog (not disclosed as a total); regional profit; units, capacity in physical terms beyond the briefing's multiples, and utilisation; R&amp;D and employees in the tanshin; restated segment history on the new five-segment basis; the share of the ¥500bn growth investment covered by take-or-pay contracts; major shareholders. The share price is the 16 November 2026 close, post-split (StockAnalysis price history; StockInvest); market capitalisation is StockAnalysis's ¥1.35tn. P/E on FY3/2026 post-split EPS is 19.2x and on the Rev.2 guide EPS (¥167.6, calculated) 11.8x (both calculated). Rating and price target are 'Under Review' placeholders — no rating or target has been set by the analyst for this coverage, and nothing in this report is a forecast or a recommendation.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}

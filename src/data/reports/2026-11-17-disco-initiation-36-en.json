@@ -1,0 +1,599 @@
+{
+  "version": 1,
+  "editorReportId": 36,
+  "lang": "en",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "17 November 2026",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Disco Corporation (6146)",
+  "headlineHtml": "<strong>The Kiru–Kezuru–Migaku monopolist at a 42% operating margin</strong>: initiation on Disco as AI demand lifts shipments to records — and the fiscal calendar itself changes underneath the numbers",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥41,350",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥4.82tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥37,150 – ¥91,680",
+      "asOf": "16 Nov 2026 (Finnhub via search results; low 6 Nov 2026, high 23 Jun 2026)"
+    },
+    {
+      "label": "P/E (FY3/26 basic EPS ¥1,249.84, J-GAAP)",
+      "value": "33.1x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (transitional 9M guidance EPS ¥1,123.43 — 9 months only, NOT annualised)",
+      "value": "36.8x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY3/26 dividend / interim FY2027 dividend",
+      "value": "¥505 / share FY3/26 (40.4% payout); ¥186 interim decided for the transitional year; year-end dividend not disclosed (未定)",
+      "asOf": "FY3/26 tanshin, May 2026; Q2 FY2027 tanshin, 22 Oct 2026"
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY2027 results (Oct–Dec 2026 quarter; first December year-end), expected late Jan 2027",
+      "asOf": "Third-party calendar estimate (Finnhub, Nov 2026); company IR calendar not confirmed in sources used"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "One segment, three verbs, and the widest moat in semiconductor equipment:",
+  "ledeHtml": "Disco Corporation (6146, TSE Prime) is the Tokyo-based precision-processing company founded in 1937 whose dicing saws, grinders and polishers — Kiru (cut), Kezuru (grind), Migaku (polish) — sit at the back end of almost every semiconductor fab in the world, alongside the blades, wheels and other precision processing tools those machines consume. It reports as a single segment, carries no borrowings, and converts the silicon cycle into economics no peer matches: in FY3/26 (the year ended 31 March 2026, the last full 12-month year on the old March calendar) <strong>sales were ¥436,889mn, operating profit ¥184,989mn — a 42.3% operating margin — and net income attributable to owners ¥135,521mn, with a 70.1% gross margin and ROE of 25.1%</strong>. The initiation question is not whether Disco is a good business — ten years of history in Chapter 1, through two downturns, settle that — but what the current AI-driven peak is worth when the company's own demand gauge (shipments, 出荷額) is printing records while its guided next quarter steps down, and when the reporting calendar itself is being rebuilt: Disco is changing its fiscal year-end from March to December, so the current fiscal year (labelled FY2027 in the company's new labelling) is a transitional nine months, April–December 2026, and must never be read as a 12-month year. Strengths: (1) a near-monopoly process position — dicing and wafer-thinning grinding are bottleneck steps for HBM, advanced packaging and power semiconductors, and the installed base pulls a growing stream of high-margin consumable tools (23% of Q2 FY2027 shipments, +45% YoY); (2) balance-sheet and cash discipline through the cycle — zero interest-bearing debt in every period of the sheet, ¥184,575mn of cash at March 2026 (about ¥342.4bn including time deposits at September 2026, per the Q2 briefing), and operating cash flow that has exceeded ¥80bn for five straight years; (3) disclosure that, uniquely, separates demand from revenue — shipments lead acceptance-basis revenue, so the cycle is visible a quarter early. Weaknesses: (1) concentration — <strong>China plus Taiwan were 57.8% of FY3/26 sales (Taiwan alone 26.9%, after a +57.8% jump)</strong>, so export controls and cross-strait risk sit directly on the P&amp;L; (2) the equity is priced for the plateau, not the cycle — at ¥44,000 (16 November 2026) the shares trade at 35.2x FY3/26 EPS after falling 52% from the June 2026 high, and the implied October–December operating profit in company guidance (¥58.1bn, calculated) sits about ¥8bn below the consensus the market had priced, which is what produced the October 'Disco shock'; (3) comparability breaks — the FY2023 Q3 tanshin was never published (that quarter does not exist in the archive and is not reconstructed here), the fiscal year-end change truncates the current year to nine months, and a 3-for-1 share split (April 2023) splits the per-share history. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan figures, labelled as such, and the transitional nine-month guidance is never annualised. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "H1 of the transitional year: records on every line.",
+      "html": "For the six months to 30 September 2026 (J-GAAP; the first half of the transitional nine-month year, Apr–Dec 2026), sales were ¥257,058mn (+32.1% YoY), operating profit ¥116,639mn (+47.9%; a 45.4% margin), ordinary profit ¥114,437mn (+44.0%) and owners' net income ¥80,366mn (+43.7%); basic EPS was ¥740.84. Q2 standalone (Jul–Sep 2026) set quarterly records on every line — sales ¥142,750mn, operating profit ¥67.6bn at a 47.4% margin, gross margin 71.7% — and <strong>shipments (the company's demand gauge) were ¥284.5bn in H1 (+37.2% YoY), ¥27.5bn ahead of revenue (calculated)</strong>, i.e. shipped but not yet accepted. Source: Q2 FY2027 tanshin, 22 October 2026; Q2 briefing materials (company scripted notes), 22 October 2026."
+    },
+    {
+      "leadHtml": "Guidance is a nine-month figure — ¥389,500mn of sales for Apr–Dec 2026, never a full year.",
+      "html": "Disco publishes no full-year guidance by policy — only a one-quarter-ahead outlook, expressed cumulatively. At the Q2 print (22 October 2026) it disclosed, for the first time, a cumulative outlook for the full transitional nine-month year (Apr–Dec 2026): sales ¥389,500mn, operating profit ¥174,700mn, ordinary profit ¥173,400mn, owners' net income ¥121,900mn, EPS ¥1,123.43 and shipments ¥434,200mn — company guidance, stated for the Q3-cumulative period, which is the entire transitional year. It is NOT a 12-month figure and is not annualised anywhere in this report. The implied October–December standalone (calculated from company disclosure) is sales ¥132,442mn and operating profit ¥58,061mn on shipments of about ¥149.7bn, at assumed FX of USD/JPY 151.0 and EUR/JPY 173.0 (vs ¥159.4/¥183.0 realised in Q2) — <strong>shipments stay at record pace while guided profit steps down on yen assumptions and acceptance timing</strong>. Source: Q2 FY2027 tanshin section 3 and briefing materials, 22 October 2026; guidance tracker, 17 November 2026."
+    },
+    {
+      "leadHtml": "Strength — the consumables layer is compounding inside the equipment cycle.",
+      "html": "Precision processing tools (blades, wheels and other consumables) <strong>were 23% of Q2 FY2027 shipments and grew 45% YoY (+24% QoQ)</strong> — faster than the group — because every installed dicer and grinder consumes them with wafer volume, not with capex. That mix is the mechanical reason gross margin reached 71.7% in Q2 and the ten-year gross margin has climbed from 55.5% (FY3/17) to 70.1% (FY3/26) even as equipment mix swung with the cycle. The open question — the tools share of profit, which the company does not disclose — is interview question 3 in the programme's pack. Source: company shipment breakdown via the interview pack (press analysis of company disclosure, Oct 2026); PL/segment sheet."
+    },
+    {
+      "leadHtml": "Weakness — geography: China + Taiwan are 57.8% of sales, and Taiwan just jumped 57.8%.",
+      "html": "Regional sales by customer location (annual tanshin note, as disclosed): <strong>in FY3/26 China was ¥134,975mn (30.9% of sales) and Taiwan ¥117,378mn (26.9%, +57.8% YoY on HBM/advanced-packaging demand)</strong>, against Japan ¥45,606mn (10.4%), the Americas ¥34,903mn (8.0%, −27.9% YoY) and Europe ¥26,839mn (6.1%). In Q2 FY2027 China plus Taiwan were close to 60% of revenue (press compilation of company disclosure). No other company in this programme carries this much revenue in two export-control-exposed jurisdictions; the split of China demand between advanced (AI/HBM-linked) and mature-node capacity is not disclosed and is the pack's question 4. Source: PL/segment sheet (annual tanshin related-information note); interview pack, 16 November 2026."
+    },
+    {
+      "leadHtml": "The calendar break is itself an analytical risk: no FY2023 Q3, and a nine-month current year.",
+      "html": "Two gaps must be carried explicitly. First, Disco never published a Q3 FY2023 tanshin (none exists in the JPX/TDnet archive), so FY2023 Q3 and Q4 standalone quarters cannot be derived and are blank in the sheet and in this report — the FY2023 annual figures are complete and as reported. Second, the year-end change (March → December) makes the current year nine months (Apr–Dec 2026): every growth comparison for the transitional year in this report is against the equivalent nine months of the prior year where the company states one (+28.2% on sales, +38.4% on operating profit, per the Q2 tanshin), and no transitional figure is ever compared with a 12-month year without the basis being stated. Source: PL/segment sheet register S2 and S9; batch log 4a, 2026-11-17."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and transitional 9M FY2027 company guidance (Apr–Dec 2026, 9 months — NOT annualised)",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive). FY3/YY = 12 months ended 31 March 20YY. EPS: FY3/22 restated post-split (3-for-1, Apr 2023) as printed in the FY3/23 tanshin; FY3/23–26 as reported; FY3/17–21 pre-split, calculated from reported owners' net income and reported weighted shares — not comparable with the post-split series. ROE as reported in the tanshin. Transitional 9M guidance = company guidance as revised at Q2 FY2027 (22 Oct 2026), stated for the Q3-cumulative period = the full 9-month transitional year (Apr–Dec 2026); it is a 9-month figure and must not be compared with the 12-month columns without the basis label.",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY3/17",
+          "FY3/18",
+          "FY3/19",
+          "FY3/20",
+          "FY3/21",
+          "FY3/22",
+          "FY3/23",
+          "FY3/24",
+          "FY3/25",
+          "FY3/26",
+          "Transitional 9M to Dec 2026 (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Sales",
+            "134204",
+            "167364",
+            "147500",
+            "141083",
+            "182857",
+            "253781",
+            "284135",
+            "307554",
+            "393313",
+            "436889",
+            "389500"
+          ],
+          [
+            "Sales growth (%)",
+            "—",
+            "24.7",
+            "-11.9",
+            "-4.3",
+            "29.6",
+            "38.8",
+            "12",
+            "8.2",
+            "27.9",
+            "11.1",
+            "28.2"
+          ],
+          [
+            "Operating profit",
+            "31341",
+            "50995",
+            "38645",
+            "36451",
+            "53106",
+            "91513",
+            "110413",
+            "121490",
+            "166834",
+            "184989",
+            "174700"
+          ],
+          [
+            "Operating margin (%)",
+            "23.4",
+            "30.5",
+            "26.2",
+            "25.8",
+            "29",
+            "36.1",
+            "38.9",
+            "39.5",
+            "42.4",
+            "42.3",
+            "44.9"
+          ],
+          [
+            "Ordinary profit",
+            "31726",
+            "52690",
+            "38974",
+            "38314",
+            "53629",
+            "92449",
+            "112338",
+            "122393",
+            "168943",
+            "184936",
+            "173400"
+          ],
+          [
+            "Net income to owners",
+            "24203",
+            "37172",
+            "28824",
+            "27653",
+            "39091",
+            "66206",
+            "82891",
+            "84205",
+            "123891",
+            "135521",
+            "121900"
+          ],
+          [
+            "Basic EPS (¥) — see source note on split basis",
+            "675.9",
+            "1035.7",
+            "802.3",
+            "769.5",
+            "1085.5",
+            "611.7",
+            "765.5",
+            "777.3",
+            "1143.3",
+            "1249.8",
+            "1123.4"
+          ],
+          [
+            "ROE (%)",
+            "13.9",
+            "19.3",
+            "13.6",
+            "12.7",
+            "16.4",
+            "24.3",
+            "25.9",
+            "22.4",
+            "27.6",
+            "25.1",
+            "—"
+          ],
+          [
+            "Operating cash flow",
+            "32905",
+            "50731",
+            "27311",
+            "31299",
+            "56709",
+            "83654",
+            "81783",
+            "97524",
+            "120364",
+            "133543",
+            "—"
+          ],
+          [
+            "Cash and equivalents (period-end)",
+            "71690",
+            "85545",
+            "85351",
+            "79782",
+            "109809",
+            "125771",
+            "163053",
+            "215486",
+            "229167",
+            "184575",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Fiscal-year basis used throughout this report: FY3/YY means the 12 months ended 31 March 20YY (so FY3/26 = April 2025–March 2026). The current year breaks the pattern: following the change of fiscal year-end from March to December, the year labelled FY2027 in the company's new labelling is a transitional period of nine months, April–December 2026, ending 31 December 2026; it is always labelled 'transitional 9M' in this report and is never annualised. The ten-year history in this chapter and in Exhibit 1 is J-GAAP as reported in each year's own annual tanshin, compiled in the PL/segment sheet for 6146 (FY3/17–FY3/21 in the sheet's supplementary history block, FY3/22–FY3/26 in the main block, plus quarters; all template checks equal zero). Disco is a single segment by its own statement, so there is no segment history to present; the as-disclosed split is regional sales (Chapter 5, Exhibit 2). Figures are ¥mn unless stated.</p>\n<p>The ten-year arc is a margin story laid over a cyclical top line. Sales were ¥134,204mn in FY3/17, spiked to ¥167,364mn in FY3/18 (+24.7%), fell two years to ¥141,083mn in FY3/20 as the smartphone/memory cycle turned, then compounded through the AI build-out: ¥182,857mn (FY3/21), ¥253,781mn (FY3/22, +38.8%), ¥284,135mn (FY3/23), ¥307,554mn (FY3/24), ¥393,313mn (FY3/25, +27.9%) and ¥436,889mn in FY3/26 (+11.1%) — a nine-year sales CAGR of 14.0% (calculated). Operating profit rose from ¥31,341mn to ¥184,989mn over the same window, but <strong>the operating margin did the remarkable work: 23.4% in FY3/17, a 25.8–30.5% band through FY3/21, then 36.1% / 38.9% / 39.5% / 42.4% / 42.3% across FY3/22–26</strong>. The driver is gross margin — 55.5% in FY3/17 to 70.1% in FY3/26 — as high-value-added grinders (wafer thinning for HBM and advanced packaging), laser and plasma dicing, and the consumable tools stream outgrew commodity dicing, while SG&amp;A was held in a remarkably narrow band of 27.8–32.7% of sales (FY3/26: ¥121,488mn, 27.8%). Even the down years stayed highly profitable by equipment-industry standards: the FY3/20 trough still printed a 25.8% operating margin and ¥27,653mn of owners' net income, and no year in the ten made an operating or net loss.</p>\n<p>Below operating profit the J-GAAP lines are quiet — that is part of the quality of the earnings. Non-operating items are small (FY3/26: income ¥2,143mn, expenses ¥2,196mn, mostly FX), so ordinary profit tracks operating profit closely (¥184,936mn in FY3/26). Extraordinary items are minor except FY3/24, which carried ¥7,828mn of extraordinary losses against ¥11mn of extraordinary income, cutting profit before tax to ¥114,576mn from ordinary profit of ¥122,393mn (the itemisation is in the FY3/24 tanshin; the sheet carries the totals as reported). The effective tax rate has been stable at 26–28% (FY3/26: 26.2%). Owners' net income was ¥24,203mn / ¥37,172mn / ¥28,824mn / ¥27,653mn / ¥39,091mn / ¥66,206mn / ¥82,891mn / ¥84,205mn / ¥123,891mn / ¥135,521mn across FY3/17–26, and reported ROE (tanshin basis) printed 13.9% / 19.3% / 13.6% / 12.7% / 16.4% / 24.3% / 25.9% / 22.4% / 27.6% / 25.1% — a decade averaging above 20% in the second half without financial leverage: interest-bearing debt is zero in every main-block period (the only debt in the window is ¥8,989mn of long-term borrowings at FY3/17 year-end, in the history block).</p>\n<p>Per-share data carry one break: a 3-for-1 share split effective April 2023. Basic EPS as reported on the post-split basis was ¥611.67 in FY3/22 (restated in the FY3/23 tanshin from the originally reported ¥1,835.02), then ¥765.47 / ¥777.29 / ¥1,143.26 / ¥1,249.84 for FY3/23–26; pre-split EPS for FY3/17–21 (calculated from reported owners' net income and reported weighted shares) was ¥675.9 / ¥1,035.7 / ¥802.3 / ¥769.5 / ¥1,085.5 and is not comparable with the post-split series without dividing by three. Cash generation is the other constant: operating cash flow was positive in all ten years and exceeded ¥80bn in each of FY3/22–26 (FY3/26: ¥133,543mn, 98.5% of owners' net income), funding capex that peaked at ¥66,930mn in FY3/25 (capacity expansion) from internal resources while the dividend rose — ¥413 per share in FY3/25 and ¥505 in FY3/26 (payout 40.4%). Exhibit 1 (page 1) gives the full KPI table, with the transitional nine-month guidance shown in its own labelled column. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header, May 2026.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Disco Corporation — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-disco-initiation-36/c1.svg",
+          "alt": "Disco Corporation — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Disco Corporation — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-disco-initiation-36/c2.svg",
+          "alt": "Disco Corporation — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Disco Corporation — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-disco-initiation-36/c3.svg",
+          "alt": "Disco Corporation — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Disco Corporation — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-disco-initiation-36/v1.svg",
+          "alt": "Disco Corporation — revenue and operating margin"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 5",
+          "titleHtml": "Disco Corporation — revenue vs operating profit",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-disco-initiation-36/v2.svg",
+          "alt": "Disco Corporation — revenue vs operating profit"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — H1 of the transitional year (Apr–Sep 2026) and the nine-month outlook",
+      "level": "part",
+      "html": "<p>Disco reported Q2 FY2027 results on 22 October 2026 — the second quarter of the transitional nine-month year that runs April–December 2026 following the fiscal year-end change from March to December. (The tanshin is still titled '2027年３月期' — the March labelling of the documents had not caught up with the new December year-end at the print date; the forecast section nonetheless states the outlook for the Q3-cumulative period, i.e. the nine months to December 2026, which the sheet register S9 and the guidance tracker both treat as the full transitional year. This labelling mismatch is flagged in Chapter 9.) President and Representative Executive Officer Kazuma Sekiya heads the company (named as representative in the tanshin header; confirmed on the company's website, November 2026). The company publishes scripted briefing notes but no Q&amp;A record for this briefing (transcript library check, 16 November 2026), so the debate framing relies on the tanshin, the briefing notes and the interview pack's open questions. Segment detail does not exist (single segment); regional and shipments detail is in Chapter 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY2027 results (cumulative, as reported, J-GAAP)",
+      "level": "section",
+      "html": "<p>For the six months to 30 September 2026, sales were ¥257,058mn (+32.1% YoY), gross profit implied by the Q2 disclosures at a 71%-plus margin, operating profit ¥116,639mn (+47.9%; margin 45.4%, vs 40.5% in H1 FY3/26), ordinary profit ¥114,437mn (+44.0%), owners' net income ¥80,366mn (+43.7%) and basic EPS ¥740.84 (diluted ¥738.72). The quarterly split shows the acceleration: Q1 standalone (Apr–Jun 2026) printed sales of ¥114,308mn (+27.1%) and operating profit of ¥49,033mn (+42.2%), and Q2 standalone (Jul–Sep 2026, as reported in the briefing materials) printed sales of ¥142,750mn (+36.4%), gross profit of ¥102,374mn (a 71.7% gross margin, +2.2pt YoY), <strong>operating profit of ¥67.6bn (+52.3%; a 47.4% margin) and owners' net income of ¥46,144mn (+43.5%) — quarterly records for revenue, operating profit, ordinary profit and net profit, per the company</strong>. The briefing notes attribute Q2 to progress in customer acceptance inspections of equipment plus firm consumables shipments, generative-AI data-centre demand lifting high-performance semiconductor investment, and FX (Q2 realised USD/JPY 159.4 and EUR/JPY 183.0, vs ¥148.4/¥172.2 a year earlier) flattering the gross margin alongside high-value-added mix.</p>\n<p>Shipments (出荷額) — the figure Disco itself designates as the demand gauge, because equipment revenue is recognised on customer acceptance (検収) and therefore lags and lurches — were ¥284.5bn in H1 (+37.2% YoY; Q2 standalone ¥148.6bn, a quarterly record), ¥27.5bn ahead of H1 revenue (calculated). That gap is product shipped but not yet accepted: a built-in revenue pipeline if acceptance proceeds, and the earliest downturn tell if customers slow acceptance — the interview pack's first question. The balance sheet at 30 September 2026: total assets ¥824,584mn, net assets ¥629,013mn, equity ratio 76.1% (vs 78.9% at March 2026); cash and deposits including time deposits were about ¥342.4bn (briefing materials). The interim dividend was decided at ¥186 per share, which the company calculates at a 25% payout linked to H1 results; the year-end dividend is undecided (not disclosed). Market reaction is part of the record: despite the records, the shares fell hard after the print — the 'Disco shock' of late October 2026 — because the implied October–December operating profit in the company's own outlook (next section) sat roughly ¥8bn below the Bloomberg consensus of about ¥66.3bn that the market had priced (press reports, 22–27 October 2026, via the interview pack). Source: Q2 FY2027 tanshin, 22 October 2026; Q1 FY2027 tanshin, 23 July 2026; Q2 briefing materials (scripted notes), 22 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance: a nine-month outlook only — sales ¥389,500mn, operating profit ¥174,700mn for Apr–Dec 2026 (company guidance; transitional basis)",
+      "level": "section",
+      "html": "<p>Disco does not publish full-year guidance or a year-end dividend forecast — its standing practice is a one-quarter-ahead outlook stated as a cumulative figure (guidance tracker, verified 17 November 2026). Because the current year is the transitional nine months April–December 2026, the outlook given at the Q2 print on 22 October 2026 — stated for the Q3-cumulative period — covers the entire transitional year: sales ¥389,500mn (+28.2% YoY against the equivalent nine months of the prior year, per the company), operating profit ¥174,700mn (+38.4%), ordinary profit ¥173,400mn, owners' net income ¥121,900mn, basic EPS ¥1,123.43 and shipments ¥434,200mn. This is company guidance (会社計画) on a nine-month transitional basis. It is not a 12-month figure, it is not annualised anywhere in this report, and comparing it directly with FY3/26's twelve months (sales ¥436,889mn, operating profit ¥184,989mn) without the basis label would understate the run-rate by construction — <strong>the implied nine-month operating margin is 44.9%, above FY3/26's 42.3%</strong>.</p>\n<p>The implied October–December 2026 standalone quarter (calculated from company disclosure: nine-month outlook minus H1 actuals) is sales ¥132,442mn, operating profit ¥58,061mn, ordinary profit ¥58,963mn, owners' net income ¥41,534mn and shipments of about ¥149.7bn — shipments essentially flat at the Q2 record pace, but revenue and profit guided down sequentially. The company's stated bridge is FX and timing, not demand: the October–December outlook assumes USD/JPY 151.0 and EUR/JPY 173.0, materially stronger than Q2's realised ¥159.4/¥183.0, and revenue depends on how much of the shipped-but-unaccepted balance customers accept before 31 December. H1 delivered 66.0% of guided nine-month sales and 66.8% of guided operating profit (calculated). Company plans stated at the same briefing (for the year as labelled in the materials): capex of about ¥33.0bn, depreciation of about ¥16.0bn and R&amp;D of about ¥38.0bn, all unchanged from April. The debate the print leaves — whether the implied Q3 profit step-down is Disco's habitual FX/acceptance prudence or the first sign of an equipment-demand plateau after a +54% shipment quarter in Q2 (YoY, per the interview pack) — is the central question for the January print, and the monitoring set is in Chapter 7. Exhibit 3 sets out the quarterly detail and the nine-month outlook side by side. Source: Q2 FY2027 tanshin (forecast section), 22 October 2026; Q2 briefing materials, 22 October 2026; guidance tracker 2026-11-17 (Disco entry, partially verified — the chain of earlier quarterly outlooks was not reconstructed).</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. Transitional year detail — H1 FY2027 actuals (Apr–Sep 2026) and the nine-month Apr–Dec 2026 company outlook (guidance, NOT annualised)",
+          "sourceHtml": "Q1 FY2027 tanshin (23 Jul 2026) and Q2 FY2027 tanshin + briefing materials (22 Oct 2026). Q2 standalone = as reported in the briefing materials (net income ¥46,144mn as printed there; H1 minus Q1 from the tanshin gives ¥46,145mn — ¥1mn rounding, see Basis of preparation). Implied Q3 standalone = nine-month company outlook minus H1 actuals (calculated from company disclosure). Shipments (出荷額) are the company's demand gauge; equipment revenue is recognised on customer acceptance. FX: Q2 realised USD/JPY 159.4, EUR/JPY 183.0; Oct–Dec outlook assumes USD/JPY 151.0, EUR/JPY 173.0.",
+          "kind": "table",
+          "columns": [
+            "¥mn unless stated",
+            "Q1 FY2027 standalone (Apr–Jun 2026)",
+            "Q2 FY2027 standalone (Jul–Sep 2026)",
+            "H1 FY2027 cumulative (Apr–Sep 2026)",
+            "Transitional 9M outlook (Apr–Dec 2026, co. guidance)",
+            "Implied Q3 standalone (Oct–Dec 2026, calculated)"
+          ],
+          "rows": [
+            [
+              "Sales",
+              "114308",
+              "142750",
+              "257058",
+              "389500",
+              "132442"
+            ],
+            [
+              "Operating profit",
+              "49033",
+              "67606",
+              "116639",
+              "174700",
+              "58061"
+            ],
+            [
+              "Operating margin (%)",
+              "42.9",
+              "47.4",
+              "45.4",
+              "44.9",
+              "43.8"
+            ],
+            [
+              "Ordinary profit",
+              "48441",
+              "65996",
+              "114437",
+              "173400",
+              "58963"
+            ],
+            [
+              "Net income to owners",
+              "34221",
+              "46144",
+              "80366",
+              "121900",
+              "41534"
+            ],
+            [
+              "Shipments (出荷額)",
+              "135900",
+              "148600",
+              "284500",
+              "434200",
+              "149700"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Disco is headquartered in Ota-ku, Tokyo, and organises its entire business around three precision-processing technologies — Kiru (cutting/dicing), Kezuru (grinding) and Migaku (polishing) — applied to semiconductor wafers and advanced electronic materials. It states in every tanshin that it is a single segment and omits segment information; the product/service note is likewise omitted as identical to the segment (sheet register S3). No product-line sales split is disclosed in the tanshin, and none is presented as disclosure in this report; the only product split available is the shipments breakdown in briefing/press materials, used in section 3b and labelled as such. The two halves of the model are equipment (dicing saws, grinders, polishers and laser/plasma processing systems) and precision processing tools — the blades, wheels and related consumables the equipment consumes — sold to the same customers from the same application-engineering base, with revenue on equipment recognised at customer acceptance inspection (a policy in place since April 2019, per the briefing notes).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Precision processing equipment: dicing, grinding and polishing at the back end",
+      "level": "section",
+      "html": "<p>The equipment range covers the back-end steps that turn a finished wafer into packaged devices: dicing saws that singulate wafers into chips; grinders that thin wafers (the enabling step for HBM stacks and thin advanced packages, where Disco's position is at its strongest); polishers and CMP-adjacent finishing; and laser and plasma dicing systems for applications where blade dicing reaches its limits. Demand is derived from wafer-fab and OSAT capex, weighted to leading-edge logic, memory (HBM above all in the current cycle) and power semiconductors. The financial signature of the equipment half is lumpiness by construction: units ship, then wait for customer acceptance, so quarterly revenue can move double digits on acceptance timing alone while shipments — ¥442,824mn in FY3/26, the one year for which the tanshin states a full-year shipments figure (register S5) — track underlying demand more smoothly. Equipment economics also carry the cycle: in the FY3/19–20 downturn, group sales fell 11.9% and then 4.3% and operating profit fell 24.3% and 5.7% — painful, but <strong>the group stayed at a 25%-plus operating margin, because the consumables half (next section) does not stop when capex does</strong>. Capacity is people- and plant-bound in Hiroshima (Kuwabata Works) and Nagano (Chino Works), with the Gohara Plant at Hiroshima Works (decision announced 18 April 2025) and the Haneda R&amp;D Center new building the current expansion projects; capex was ¥35,227mn in FY3/26 after a ¥66,930mn peak in FY3/25. Unit volumes, capacity and utilisation are not disclosed in the tanshin and are not quantified here. Source: PL/segment sheet (tanshin, JPX archive); Q2 FY2027 briefing materials, 22 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Precision processing tools (consumables): the recurring layer",
+      "level": "section",
+      "html": "<p>Blades, grinding wheels and related tools are consumed in proportion to wafers processed, not capex approved, which makes this the group's shock absorber and its margin engine: consumables carry the installed base's economics, are specified into customer processes alongside the machines, and are hard to substitute without requalifying the process. The disclosed colour is shipments-based: tools were 23% of Q2 FY2027 shipments and grew 45% YoY (+24% QoQ) — faster than equipment — per the company shipment breakdown carried in the interview pack (press analysis of company disclosure). No tools sales or profit figure is disclosed in the tanshin for any period (register S3/S8), so this report does not split the P&amp;L; the profit share of tools is an explicit interview question, because the 'recurring revenue dampens the downturn' claim now made for Disco cannot be verified from disclosure until it is answered. What can be verified is the consolidated outcome the mix produces: <strong>a gross margin that has risen through the cycle (55.5% in FY3/17 to 70.1% in FY3/26; 71.7% in Q2 FY2027) and a down-cycle operating-margin floor of about 26% in the FY3/19–20 downturn</strong>. Source: interview pack, 16 November 2026; PL/segment sheet.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Applications, services and the demand map",
+      "level": "section",
+      "html": "<p>By application, the current cycle is led by generative-AI data-centre investment — HBM thinning and grinding, advanced-packaging dicing and polishing — which the company names as the driver of H1 FY2027 equipment shipments, with power semiconductors (including SiC processing, where grinding and laser processes are the contested steps) and conventional logic/memory capacity behind it. The regional footprint of that demand is visible in Chapter 5: Taiwan (TSMC and its packaging chain) jumped to 26.9% of FY3/26 sales, and China — a mix of advanced and mature-node capacity that the company does not split — is the largest single market at 30.9%. Services, application support and process development are integral to the model (acceptance support is part of the sale, and the application-engineering relationship is the moat's maintenance mechanism) but are not separately disclosed. Employees, order intake and backlog are not disclosed in the tanshin — Disco reports shipments instead of orders — and are shown as not disclosed (未取得) in this report. Source: Q2 FY2027 briefing materials; PL/segment sheet register S8.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "The technology frame: process monopoly, acceptance accounting and the WILL culture",
+      "level": "section",
+      "html": "<p>Disco's competitive claim is process depth rather than product breadth: decades of accumulated know-how in cutting, grinding and polishing brittle advanced materials, an applications library built machine by machine at customer sites, and vertical integration into the consumables those processes consume. The substitutes are partial — rival dicing/grinding suppliers exist at the commodity end, and process shifts (panel-level packaging, hybrid bonding preparation, plasma dicing) redraw individual steps — but no competitor replicates the full Kiru–Kezuru–Migaku chain with the same installed base, which is why through-cycle pricing holds: the FY3/24 accounts show a 67.8% gross margin in a year when sales grew only 8.2%. Two structural features follow for the equity. First, acceptance-basis revenue recognition (since April 2019) makes reported revenue a lagging, lumpy series — shipments are the leading indicator and are disclosed quarterly, a transparency gift no peer in this programme matches. Second, management runs the company on through-cycle targets rather than annual budgets (Chapter 7) and a distinctive internal culture (the 'WILL' system of employee-chosen work allocation, widely documented in company materials) aimed at the engineer retention on which the applications moat depends; this report notes the system as company-described culture, not as a verified performance driver. Source: Q2 FY2027 briefing materials (acceptance-basis note); company materials via the interview pack.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>Disco sits at the back end of the semiconductor value chain: it sells capital equipment and consumables to wafer fabs (IDMs and foundries), memory makers and OSATs, downstream of front-end WFE (lithography, etch, deposition) and upstream of packaging and test. Its demand is therefore a derivative of leading-edge capacity additions — today concentrated in AI accelerators and HBM — filtered through two Disco-specific gears: <mark>acceptance timing, which shifts revenue between quarters, and the consumables stream, which follows wafer starts rather than capex</mark>. The verifiable demand evidence in the sources used here is the company's own shipments series (¥442,824mn in FY3/26 as disclosed in that year's tanshin; ¥284.5bn in H1 FY2027, +37.2% YoY) and its regional sales (Chapter 5); no company-disclosed market-size figure for dicing/grinding is carried in the tanshin, and third-party share estimates (Shared Research's teardown of SCREEN's report cites Disco's R&amp;D efficiency — five-year cumulative operating profit divided by prior-five-year R&amp;D — at 855.7%, the highest of the four Japanese SPE majors compared there) are context, not disclosure.</p>\n<p>Competition is asymmetric. In dicing, Disco faces domestic and overseas saw makers at standard specifications; in wafer thinning/grinding for advanced applications, and in the integrated equipment-plus-tools offer, it has no equivalent-scale rival in the sources used here — the moat is the process library, the applications engineers embedded at customers, and the consumables pull-through, and the entry barrier is qualification: a back-end process step written into an HBM production flow is not re-tendered on price. The realistic threats are therefore technological and geopolitical rather than commercial: a process shift that routes around grinding/dicing steps; Chinese domestic equipment makers taking the mature-node China demand (30.9% of FY3/26 sales) under export-control pressure; and customer concentration in the AI capex complex (Taiwan 26.9% of sales). The equity sensitivities follow directly: the yen (a ¥10bn-plus gross-margin swing factor between the Q2 realised rates and the Q3 assumed rates, per the guidance bridge), China/Taiwan demand durability, and the tools mix that decides how much of the 42–47% operating margin survives the next capex pause. Sources: PL/segment sheet (tanshin, JPX archive); Q2 FY2027 briefing materials; Shared Research teardown notes (SCREEN report), programme files.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 6",
+          "titleHtml": "Disco in the semiconductor back-end value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (semiconductor back-end value chain); company product lines from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-disco-initiation-36/d1.svg",
+          "alt": "Disco in the semiconductor back-end value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>Disco has no business segments to report — it is a single-segment company by its own statement in every tanshin (register S3), and the PL/segment sheet's business block is intentionally empty rather than filled with consolidated figures (the Keyence precedent in the programme). What the tanshin does disclose, in the annual document only, is sales by customer location in seven regions; quarterly tanshin carry no regional split. This chapter and Exhibit 2 therefore present the regional history exactly as disclosed, and label the one basis change inside it.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Regions (as disclosed): Taiwan's jump rewrote the mix in two years",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the seven-region history on the current basis (Japan / China / Korea / Taiwan / other Asia / Americas / Europe), which runs unbroken from FY3/19 to FY3/26. The story in one line: Asia ex-Japan is the business. In FY3/26, China was ¥134,975mn (30.9% of sales), Taiwan ¥117,378mn (26.9%), Korea ¥33,069mn (7.6%) and other Asia ¥44,115mn (10.1%) — 75.5% of sales in Asia ex-Japan — against Japan ¥45,606mn (10.4%), the Americas ¥34,903mn (8.0%) and Europe ¥26,839mn (6.1%). <strong>Taiwan is the swing factor of the current cycle: ¥36,616mn in FY3/24 (11.9% of sales) → ¥74,404mn in FY3/25 → ¥117,378mn in FY3/26, a two-year 3.2x increase on HBM and advanced-packaging investment</strong>, while the Americas fell 27.9% in FY3/26 after two strong years (¥48,383mn in FY3/25) and China compounded steadily (¥88,833mn in FY3/23 → ¥134,975mn in FY3/26) through the export-control debate. Korea halved from its FY3/25 level (¥42,341mn → ¥33,069mn, −21.9%) in FY3/26. Regional profit is not disclosed on any basis. Source: company results via PL/segment sheet (annual tanshin related-information note), FY3/19–FY3/26.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Regional sales by customer location, as disclosed (7-region basis, FY3/19–FY3/26) — Disco is a single segment; no product/segment split is disclosed",
+          "sourceHtml": "Annual tanshin related-information note via PL/segment sheet (supplementary rows 116–122 and history block rows 162–168). Annual only — quarterly tanshin carry no regional split. Regional profit is not disclosed. FY3/17–18 were disclosed on an old 4-region basis (Japan / North America / Asia / Europe) and are not mapped onto this table (see Chapter 5). Components sum to ¥2–4mn below reported sales per year (source rounding, carried in the sheet's adjustment row).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY3/19",
+            "FY3/20",
+            "FY3/21",
+            "FY3/22",
+            "FY3/23",
+            "FY3/24",
+            "FY3/25",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "27412",
+              "21712",
+              "24910",
+              "30445",
+              "32773",
+              "37545",
+              "41043",
+              "45606"
+            ],
+            [
+              "China",
+              "31522",
+              "37389",
+              "57138",
+              "94446",
+              "88833",
+              "110545",
+              "125375",
+              "134975"
+            ],
+            [
+              "Korea",
+              "18731",
+              "18725",
+              "19457",
+              "21511",
+              "28205",
+              "27224",
+              "42341",
+              "33069"
+            ],
+            [
+              "Taiwan",
+              "24913",
+              "27721",
+              "36846",
+              "44869",
+              "43841",
+              "36616",
+              "74404",
+              "117378"
+            ],
+            [
+              "Asia (other)",
+              "24495",
+              "15737",
+              "19708",
+              "31010",
+              "32844",
+              "25511",
+              "33888",
+              "44115"
+            ],
+            [
+              "Americas",
+              "10069",
+              "9727",
+              "12452",
+              "16922",
+              "36017",
+              "40418",
+              "48383",
+              "34903"
+            ],
+            [
+              "Europe",
+              "10354",
+              "10068",
+              "12344",
+              "14575",
+              "21620",
+              "29692",
+              "27876",
+              "26839"
+            ],
+            [
+              "Total sales (as reported)",
+              "147500",
+              "141083",
+              "182857",
+              "253781",
+              "284135",
+              "307554",
+              "393313",
+              "436889"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "The earlier basis: FY3/17–18 on four regions, never mapped onto the seven-region series",
+      "level": "section",
+      "html": "<p>For FY3/17 and FY3/18 the annual tanshin disclosed regional sales on the old four-region basis (Japan / North America / Asia / Europe), held in the sheet's history block on separate rows and never mapped onto the seven-region basis (register S13). On that basis: FY3/17 — Japan ¥22,537mn, North America ¥9,141mn, Asia ¥93,707mn, Europe ¥8,818mn (Asia 69.8% of sales of ¥134,204mn); FY3/18 — Japan ¥28,849mn, North America ¥13,074mn, Asia ¥113,505mn, Europe ¥11,935mn (Asia 67.8% of ¥167,364mn). The continuity across the basis change is qualitative only — Asia-dominant then, Asia-dominant now — and this report does not splice the two series. Quarterly regional sales are not disclosed in any period, so no regional read on the current AI cycle exists between annual prints; the Q2 FY2027 colour that China plus Taiwan were close to 60% of revenue comes from press compilation of company disclosure (interview pack), not from a tanshin table, and is labelled as such wherever used. Source: PL/segment sheet history block and register S13 (tanshin related-information notes, FY3/17–FY3/18).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: sales ¥134,204mn / ¥167,364mn / ¥147,500mn / ¥141,083mn / ¥182,857mn / ¥253,781mn / ¥284,135mn / ¥307,554mn / ¥393,313mn / ¥436,889mn for FY3/17–FY3/26; cost of sales ¥59,709mn / ¥68,239mn / ¥60,589mn / ¥56,290mn / ¥75,973mn / ¥99,769mn / ¥99,629mn / ¥98,912mn / ¥115,743mn / ¥130,412mn; gross profit ¥74,495mn / ¥99,125mn / ¥86,911mn / ¥84,793mn / ¥106,884mn / ¥154,012mn / ¥184,506mn / ¥208,642mn / ¥277,570mn / ¥306,477mn (margins 55.5% / 59.2% / 58.9% / 60.1% / 58.4% / 60.7% / 64.9% / 67.8% / 70.6% / 70.1%); SG&amp;A ¥43,154mn / ¥48,130mn / ¥48,266mn / ¥48,342mn / ¥53,778mn / ¥62,499mn / ¥74,093mn / ¥87,152mn / ¥110,736mn / ¥121,488mn; operating profit ¥31,341mn / ¥50,995mn / ¥38,645mn / ¥36,451mn / ¥53,106mn / ¥91,513mn / ¥110,413mn / ¥121,490mn / ¥166,834mn / ¥184,989mn. Below operating profit (FY3/26): non-operating income ¥2,143mn, non-operating expenses ¥2,196mn, ordinary profit ¥184,936mn; extraordinary income ¥10mn, extraordinary losses ¥1,135mn, profit before tax ¥183,811mn; income taxes ¥48,208mn (current ¥46,752mn, deferred ¥1,456mn); net income ¥135,603mn, of which non-controlling interests ¥82mn and owners ¥135,521mn. Depreciation and amortisation was ¥14,821mn in FY3/26, giving an EBITDA proxy (operating profit + D&amp;A, calculated) of ¥199,810mn. Capex (CF basis) was ¥35,227mn in FY3/26 (FY3/25: ¥66,930mn).</p>\n<p>Balance sheet (31 March 2026, J-GAAP): total assets ¥743,410mn; net assets ¥588,125mn, of which equity attributable to owners ¥586,574mn (equity ratio 78.9%; book value per share ¥5,408.11). Cash and equivalents ¥184,575mn (the CF-basis figure in the sheet; cash and deposits including time deposits were about ¥342.4bn at September 2026 per the Q2 briefing); receivables (notes + accounts receivable, as corrected on the Drive sheet — see Chapter 9) ¥57,477mn; inventory ¥141,325mn (about 13.0 months of cost of sales on the sheet's calculated basis — the inventory build is the working-capital price of the shipment pace, with finished units awaiting acceptance); trade payables ¥9,053mn; interest-bearing debt: none (zero in every main-block period). Cash flow: operating cash flow ¥32,905mn / ¥50,731mn / ¥27,311mn / ¥31,299mn / ¥56,709mn / ¥83,654mn / ¥81,783mn / ¥97,524mn / ¥120,364mn / ¥133,543mn across FY3/17–26 — positive in all ten years, including both downturns. Per-share data (basic, as reported; post-split basis from FY3/22 restated): EPS ¥611.67 / ¥765.47 / ¥777.29 / ¥1,143.26 / ¥1,249.84 for FY3/22–26 (pre-split FY3/17–21 EPS is in Chapter 1 and is not on this basis); dividends per share ¥413 (FY3/25) and ¥505 (FY3/26; interim ¥129 + year-end ¥376; payout 40.4%, DOE 10.2%). Shares: weighted average (diluted basis in the sheet) 108.43mn in FY3/26. Not disclosed in the tanshin and therefore not presented here: order intake and backlog (shipments are disclosed instead, and only numerically for FY3/26 among annual periods — register S5), R&amp;D as a tanshin line, employees, unit volumes, capacity and utilisation. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, May 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — DISCO VISION 2030 and the through-cycle targets",
+      "level": "part",
+      "html": "<p>Disco's long-term frame, DISCO VISION 2030, deliberately sets no sales or profit amount targets — a policy choice the company justifies by the silicon cycle: single-year amount targets would mismeasure a business whose quarterly operating margin has ranged from the mid-20s to 47% within this decade. Its only quantitative management targets are through-cycle floors: a four-year cumulative ordinary-profit margin of at least 20% and a four-year cumulative RORA (return on risk assets) of at least 20%. <strong>Both are currently exceeded by roughly double — on the latest four-year window to FY3/26 the figures were 41.4% and 51.2% respectively</strong> (securities-report compilation via the interview pack) — which makes the targets a downside covenant rather than a plan: they bind in the downturn, not at the peak. Dividend policy is results-linked: the interim dividend for the transitional year was set at ¥186 per share, calculated at a 25% payout on H1 results, and the FY3/26 annual dividend of ¥505 represented a 40.4% payout; the year-end dividend for the transitional year is undecided and no forecast is published (company policy). Guidance practice is part of the strategy's conservatism: one quarter ahead only, cumulatively stated, with FX assumptions disclosed (USD/JPY 151.0 / EUR/JPY 173.0 for Oct–Dec 2026) — the market's recurring pattern of pricing more than the guide (the October 2026 'Disco shock' being the latest instance) is the cost of that policy, and management has not changed it.</p>\n<p>Capacity and investment plans, as stated at the Q2 FY2027 briefing: capex of about ¥33.0bn, depreciation of about ¥16.0bn and R&amp;D of about ¥38.0bn for the year as labelled in the materials (unchanged from April), with expenditure continuing on the Haneda R&amp;D Center new building, the new plant at Hiroshima Works (Gohara Plant, decided April 2025) and rationalisation investment — the company states annual capex above ¥30bn is expected to continue. The monitoring set for the transitional year's final quarter (Q3 FY2027 print, expected late January 2027), in the order the data arrives: (1) October–December shipments against the ~¥149.7bn implied by the nine-month outlook of ¥434,200mn — the cleanest demand read, before acceptance and FX noise; (2) October–December operating profit against the ~¥58.1bn implied outlook (calculated) — settles the sandbagging-versus-plateau debate; (3) the shipped-but-unaccepted gap (H1: ¥27.5bn, calculated) and the January–March 2027 one-quarter outlook that will accompany the print, plus the tools share of shipments (Q2: 23%). All plan figures above are company targets, company plans or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: DISCO VISION 2030 / securities-report compilations via the interview pack, 16 November 2026; Q2 FY2027 tanshin and briefing materials, 22 October 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History. Disco traces to Kuwabata Seisakusho, founded in 1937 in Kure, Hiroshima, as a maker of grinding wheels — the origin of the Migaku consumables business that still anchors the model — relocating to Tokyo (Ota-ku) and building the equipment business (dicing saws from the 1970s) on the back of Japan's semiconductor industry; the DISCO name and the Kiru–Kezuru–Migaku frame organise the modern company. Head office: Omori-Kita, Ota-ku, Tokyo. The shares are listed on TSE Prime. (Company history materials, accessed November 2026.)</p>\n<p>Management. Representative Executive Officer, President &amp; CEO: Kazuma Sekiya (関家 一馬) — named as representative (代表執行役社長) in the Q2 FY2027 tanshin header of 22 October 2026 and confirmed in the same role on the company's website (Top Message, June 2026; web search, 17 November 2026); he has led the company since 2009 (third-party profile data, flagged as such). The inquiry contact in the tanshin is Ryūichirō Kiba, head of the IR office. Shares: weighted average shares (diluted basis, sheet) 108.43mn in FY3/26; shares ex-treasury at March 2026 approximately 108.46mn (calculated from tanshin equity and BPS).</p>\n<p>Major shareholders: not compiled from a primary register in the sources used for this report — 未取得, and not substituted from third-party compilations. Employees: not disclosed in the tanshin (register S8) — not presented as company disclosure here.</p>\n<p>Shareholder returns. Dividends per share: ¥413 in FY3/25 (interim ¥124 + year-end ¥289; payout 36.1%) and ¥505 in FY3/26 (interim ¥129 + year-end ¥376; payout 40.4%, DOE 10.2%), under a results-linked policy; the transitional year's interim is ¥186 (25% payout on H1 results, company calculation) with the year-end dividend undecided. The FY3/26 dividend implies a 1.1% yield at ¥44,000 (calculated). No buyback is recorded in the periods covered here.</p>\n<p>Market data. The shares closed at ¥44,000 on 16 November 2026 (StockAnalysis.com; corroborated by TickerLandia), down 7.31% on the day and 52.0% below the 52-week high of ¥91,680 (23 June 2026, Finnhub), giving a market capitalisation of about ¥4.77tn (calculated). At that price the shares trade at 35.2x FY3/26 basic EPS of ¥1,249.84 and 8.1x FY3/26 book value per share of ¥5,408.11 (both calculated). The 52-week low is ¥37,150 (6 November 2026, Finnhub).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials and regional sales are taken from the PL/segment sheet for Disco (6146) (J-GAAP template; March year-end through FY3/26; FY3/22–FY3/26 in the main block plus quarters, FY3/17–FY3/21 annuals in the supplementary history block added in the 2026-11-17 history-deepening wave H2; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (rollout log batch 4a and history wave H2; sheet register S1–S18). The local recalculated copy read for this report is recalc_hist/6146_Disco_PL.xlsx. Q1 and Q2 FY2027 (transitional year) figures are from the Q1 FY2027 tanshin dated 23 July 2026 and the Q2 FY2027 tanshin dated 22 October 2026, held in the sheet programme's work folder. The Q2 briefing materials (company-published scripted speaker notes, 22 October 2026; English translation in the programme's transcript library) are used for the shipments detail, FX rates and assumptions, capex/D&amp;A/R&amp;D plans and the dividend calculation basis; the company publishes no Q&amp;A record for this briefing (verified in the transcript library, 16 November 2026), and none is cited — a third-party call transcript circulating outside the company's IR site was explicitly not used. Guidance was verified against the programme's guidance tracker (17 November 2026), which records Disco as a no-full-year-guidance company whose latest outlook is the nine-month Apr–Dec 2026 cumulative figure. Market data are from Finnhub and StockAnalysis.com as returned by web search on 17 November 2026 and are cited with dates; the president's role was confirmed against the tanshin header and the company's website.</p>\n<p>Fiscal-calendar conventions (the load-bearing definitions of this report). FY3/YY = the 12 months ended 31 March 20YY. The fiscal year-end changes from March to December: the current year — labelled FY2027 in the company's new labelling, and still titled 2027年３月期 in the October 2026 tanshin itself — is a transitional period of nine months, April–December 2026, per sheet register S9 and the guidance tracker. Every transitional figure in this report is labelled with that basis; none is annualised; and the nine-month guidance is compared only with the company's own stated nine-month YoY growth rates or with H1 actuals of the same year. Source documents use three different labels for the current year (2027年３月期 in the tanshin, 'FY2026 / year ending March 2027' in the English briefing materials, FY2027 in the sheet register) — this report uses 'transitional year (Apr–Dec 2026)' throughout to avoid importing any of them silently.</p>\n<p>Discrepancies and gaps flagged (not silently resolved). (1) Missing quarter: the FY2023 Q3 tanshin was never published (register S2; batch log 4a) — FY2023 Q3 and Q4 standalone quarters do not exist and are blank in the sheet; annual FY2023 figures are complete. Any quarterly series for FY2023 in third-party databases that shows Q3/Q4 standalone values has derived them by a method the archive does not support. (2) Receivables basis: the local recalculated sheet copy read for this report still carries accounts-receivable-only values in the annual receivables row for FY3/23–26 (¥38,921mn / ¥43,242mn / ¥39,972mn / ¥52,776mn); the rollout log records a correction merged to the Drive sheet on 17 November 2026 (register S18) to the tanshin balance-sheet sums of notes + accounts receivable — ¥41,355mn / ¥46,807mn / ¥43,177mn / ¥57,477mn — and Chapter 6 uses the corrected FY3/26 figure. The local copy also predates the log's FY2022 receivables corrections (S17). No P&amp;L figure is affected. (3) Shipments rounding: H1 FY2027 shipments are ¥284.5bn in the company's briefing notes and ¥284.6bn in the interview pack's compilation; Q2 standalone shipments are ¥148.6bn (briefing notes) vs ¥148.7bn (interview pack), and Q2 owners' net income is ¥46,144mn in the briefing materials vs ¥46,145mn derived as H1 minus Q1 from the tanshin — ¥0.1bn/¥1mn rounding differences in secondary compilation, flagged; this report uses the briefing-notes/tanshin figures, so the implied Q3 shipments figure is ¥149.7bn here against ¥149.6bn in the guidance tracker. (4) Share split: the 3-for-1 split effective April 2023 breaks per-share comparability — FY3/22 EPS and BPS are used on the post-split restated basis (¥611.67 / ¥2,702.98) as printed in the FY3/23 tanshin, FY3/17–21 EPS is pre-split and labelled calculated, and FY3/22–23 dividends as originally paid were pre-split amounts (¥808 / ¥916) that are not comparable with later years' per-share dividends. (5) FY2026 interim source: the H1 FY3/26 tanshin PDF is glyph-encoded; its figures in the sheet were read from rendered pages and identity-validated (register S11) — the comparative column used for H1 FY2027 YoY growth in this report is the company's own, as printed in the Q2 FY2027 tanshin. (6) Not disclosed (未取得) throughout: segment/product sales and profit (single segment), regional profit, quarterly regional sales, order intake and backlog, R&amp;D in the tanshin, employees, unit volumes, capacity, utilisation, the tools share of profit, the China advanced-vs-mature-node demand split, and the major-shareholder register from a primary source. Forward-looking statements in this report are company guidance, company plan figures or company targets only, each labelled with its date and, for the current year, its nine-month transitional basis.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
