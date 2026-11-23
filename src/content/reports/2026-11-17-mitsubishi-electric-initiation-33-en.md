@@ -1,0 +1,413 @@
+---
+title: "A ¥5.9tn electrical conglomerate at a profit inflection: initiation on Mitsubishi Electric as FA, grid and defence demand lift adjusted operating profit toward the FY3/30 plan"
+company: "Mitsubishi Electric Corporation"
+ticker: "6503"
+sector: "Industrials — Electrical Equipment"
+date: 2026-11-17
+type: initiation
+externalUrl: "/en/reports/2026-11-17-mitsubishi-electric-initiation-33/"
+lang: en
+---
+
+Japan's broadest electrical manufacturer, converting an AI-and-grid demand wave into a step-change in profit: Mitsubishi Electric Corporation (6503, TSE Prime) is the Tokyo-based electrical and electronic equipment group whose five reportable segments on the current basis — Infrastructure (public utility systems, energy systems, defence & space), Industry & Mobility (factory automation and automotive equipment), Life (building systems and air conditioning & home products), Digital Innovation and Semiconductor & Device — span the capital stock of the Japanese economy and, increasingly, the world's data centres and power grids. The initiation question is whether the profit step-up now visible is cyclical volume or a rebuilt earnings base. The evidence for a step-change is strong but not clean: revenue rose from ¥4,238,666mn in FY3/17 to a record ¥5,894,747mn in FY3/26, and operating profit recovered from the FY3/21 trough of ¥230,195mn (5.5% margin) to ¥433,095mn (7.3%) in FY3/26 — a year whose operating profit absorbed a −¥105.3bn impact from the company's 'Next Stage' structural reform programme (company Q&A summary). H1 FY3/27 then printed record first-half revenue of ¥3,125,147mn (+14.4% YoY) and adjusted operating profit of ¥344,778mn (+68.5%), and full-year guidance was raised for the second time on 30 October 2026 to revenue of ¥6,550,000mn and adjusted operating profit of ¥710,000mn (company guidance) — while **owners' net income guidance was cut to ¥465,000mn because of an expected impairment of about ¥100,000mn on selling 50% of the automotive equipment business to the Hon Hai group**. Strengths: (1) breadth into the three demand pools that are actually growing — **FA Systems adjusted operating profit rose 148% YoY in H1 FY3/27 to ¥82.2bn at a 17.1% margin on data-centre and semiconductor capex**, Energy Systems profit rose 83% on North American substation demand, and Semiconductor & Device earns the group's highest margin (20.6% in H1) on power devices; (2) a portfolio that is finally being cut to fit — the automotive-equipment half-sale and the ABB distribution-controls joint venture follow the FY3/26 reform charge rather than precede it; (3) a balance sheet that carries the cycle comfortably (cash ¥731,609mn against debt of ¥363,278mn on the sheet's bonds/borrowings/leases definition at March 2026) and a shareholder-return step-up (a buyback of up to ¥200,000mn decided in October 2026; dividend forecast ¥60). Weaknesses: (1) the ten-year record is one of margin mediocrity — operating margin ranged only between 5.2% and 7.3% across FY3/17–FY3/26, and the FY3/30 plan targets (adjusted operating margin ≥12%, ROE 12%) require a mix and pricing transformation that has not yet been evidenced for a full cycle; (2) earnings quality in the current step-up needs care — a change from declining-balance to straight-line depreciation added about ¥19.7bn to H1 FY3/27 operating profit (secondary analysis of company disclosure, flagged in the interview pack), equity-method income is rising without a tanshin breakdown, and the new headline profit measure is adjusted operating profit, which by construction excludes the portfolio-surgery losses now recurring annually; (3) comparability breaks everywhere — the history spans a US GAAP era (FY3/17–18), two segment reorganisations (1 April 2022 and 1 April 2023) carried in three separate bases in the PL/segment sheet and never spliced in this report, and a segment-profit definition change from operating profit to adjusted operating profit from FY3/27. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (as reported; FY3/17–18 US GAAP, FY3/19+ IFRS) and FY3/27E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 4238666 | 4431198 | 4519921 | 4462509 | 4191433 | 4476758 | 5003694 | 5257914 | 5521711 | 5894747 | 6550000 |
+| Revenue growth (%) | — | 4.5 | 2 | -1.3 | -6.1 | 6.8 | 11.8 | 5.1 | 5 | 6.8 | 11.1 |
+| Operating profit (FY3/27E: adjusted OP) | 270104 | 318637 | 290477 | 259661 | 230195 | 252051 | 262352 | 328525 | 391850 | 433095 | 710000 |
+| Operating margin (%) | 6.4 | 7.2 | 6.4 | 5.8 | 5.5 | 5.6 | 5.2 | 6.2 | 7.1 | 7.3 | 10.8 |
+| Profit before tax | 296249 | 364578 | 315958 | 281986 | 258754 | 279693 | 292179 | 365853 | 437265 | 526077 | 695000 |
+| Net income to owners | 210493 | 271880 | 226648 | 221834 | 193132 | 203482 | 213908 | 284949 | 324084 | 407758 | 465000 |
+| EPS (¥, calculated) | 98.1 | 126.7 | 105.7 | 103.4 | 90 | 95.4 | 101.3 | 135.7 | 155.7 | 198.3 | 227.2 |
+| Operating cash flow | — | — | — | — | — | 282371 | 166711 | 415479 | 455905 | 575993 | — |
+| Capital expenditure | 167165 | 186792 | 188042 | 192833 | 168920 | 168920 | 134337 | 151117 | 193988 | 196160 | — |
+| Employees (period-end) | 138700 | 142340 | 145817 | 146518 | 145653 | 145696 | 149655 | 149134 | 149914 | 150386 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive). EPS is calculated (owners' net income ÷ weighted-average shares; basic = diluted in every period). Operating cash flow is carried in the sheet from FY3/22. Capital expenditure = tangible fixed-asset acquisitions (CF statement). FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 30 Oct 2026 — the guided profit line is ADJUSTED operating profit (the company publishes no IFRS operating-profit forecast); guided EPS ¥227.20.*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥9.62tn |
+| 52-week range | ¥4,002 – ¥6,686 |
+| P/E (FY3/26 EPS ¥198.3, calculated) | 22.0x |
+| P/E (FY3/27E co. guidance EPS ¥227.20) | 19.2x |
+| FY3/27E dividend (company forecast) | ¥60 / share (1.3% yield) |
+| Next event | Q3 FY3/27 results, expected 3 Feb 2027 |
+
+## Key points
+- **H1 FY3/27: a record half, on a new profit definition.** For the six months to 30 September 2026 (IFRS), revenue was ¥3,125,147mn (+14.4% YoY), operating profit ¥358,112mn (+59.6%) and adjusted operating profit — the company's new headline measure, operating profit excluding other income/loss such as impairment and business-sale gains/losses — ¥344,778mn (+68.5%, an 11.0% margin against 7.5% a year earlier); profit before tax was ¥403.5bn and net income attributable to owners ¥297.0bn (+57%), both first-half records per the company. **Q2 standalone adjusted operating profit was ¥202.6bn (+83% YoY, 12.4% margin), so momentum accelerated through the half**. Source: Q2 FY3/27 tanshin and briefing materials, 30 October 2026; company Q&A summary, 6 November 2026 (programme transcript library).
+- **Guidance raised twice on operations, cut once on portfolio surgery.** Full-year FY3/27 company guidance (会社計画) was revised on 30 October 2026 to revenue ¥6,550,000mn, adjusted operating profit ¥710,000mn, profit before tax ¥695,000mn, owners' net income ¥465,000mn and basic EPS of ¥227.20. The revision chain is: initial (28 April 2026) ¥6,200,000mn / ¥590,000mn adjusted operating profit / ¥475,000mn net income; Q1 revision (31 July 2026) ¥6,270,000mn / ¥620,000mn / ¥495,000mn; Q2 revision (30 October 2026) as above. The company publishes no IFRS operating-profit forecast — the guided profit line is adjusted operating profit. **The net-income cut against the operating raise is the expected impairment of about ¥100,000mn on transferring 50% of the automotive equipment business to the Hon Hai group (transfer price ¥115,000mn; decided 16 October 2026)**, booked in other income/loss and therefore outside adjusted operating profit. H1 delivered 47.7% of guided revenue and 48.6% of guided adjusted operating profit. Source: guidance tracker verification against the FY3/26, Q1 FY3/27 and Q2 FY3/27 tanshin; Q2 FY3/27 briefing materials, 30 October 2026.
+- **Strength — FA and grid equipment are doing the heavy lifting.** In H1 FY3/27, FA Systems revenue rose 28% YoY to ¥482.3bn and adjusted operating profit rose 148% to ¥82.2bn (17.1% margin), on orders up 48% (about ¥592.6bn) from China machine-tool demand and Japan/Taiwan semiconductor investment; **Energy Systems revenue rose 16% to ¥236.8bn with profit up 83% to ¥26.1bn (11.0% margin) on North American power-distribution demand**; Semiconductor & Device earned ¥32.9bn at a 20.6% margin. Full-year segment guidance concentrates the year in the same places: Industry & Mobility revenue ¥1,860,000mn and adjusted operating profit ¥242,000mn (of which FA Systems ¥990,000mn / ¥158,000mn), Infrastructure ¥1,720,000mn / ¥196,000mn, Semiconductor & Device ¥330,000mn / ¥66,000mn (company guidance). Source: Q2 FY3/27 briefing materials segment tables, 30 October 2026; interview pack, 16 November 2026.
+- **Weakness — the ten-year record is a 5–7% margin band, and part of the step-up is accounting.** **Operating margin printed 6.4% / 7.2% / 6.4% / 5.8% / 5.5% / 5.6% / 5.2% / 6.2% / 7.1% / 7.3% across FY3/17–FY3/26** — a decade in which revenue grew at a 3.7% CAGR (calculated) but the margin never sustainably left single digits, and FY3/26's 7.3% was itself after a −¥105.3bn 'Next Stage' reform drag inside operating profit. The H1 FY3/27 margin jump to 11.0% (adjusted basis) includes about ¥19.7bn from the switch to straight-line depreciation (secondary analysis of company disclosure, per the interview pack) and price-improvement and support effects the interview pack sizes at about ¥22bn; the clean underlying margin is lower than the headline, and management's own Q&A guides H2 margins down slightly on physical-AI development investment and renminbi assumptions. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 Q&A summary; Q2 FY3/27 Q&A summary (CFO Fujimoto), 6 November 2026.
+- **Portfolio surgery is now the second earnings story.** Three transactions frame the equity case alongside the cycle. (1) Automotive equipment: 50% to the Hon Hai group for ¥115,000mn (decided 16 October 2026), crystallising an expected impairment of about ¥100,000mn in FY3/27 other income/loss — the business earned ¥41.3bn of adjusted operating profit in H1 FY3/27 at a 9.5% margin, so the retained half must clear a return hurdle the company has not disclosed. (2) Low-voltage distribution controls (inside FA Systems): 51% to an ABB joint venture for ¥82,400mn, execution planned 1 October 2027, with a gain of about ¥90,000mn expected in FY3/28 (announced 20 October 2026). (3) The full acquisition of PCI Energy Solutions was decided in the same October 2026 portfolio package (Q2 briefing materials). Each move is defensible alone; **together they shrink the 'Automation' pillar the FY3/30 plan claims to strengthen**, and they make adjusted operating profit — which excludes all of their P&L consequences — a measure to use with its definition attached. Source: interview pack, 16 November 2026 (company announcements, 16–20 October 2026); Q2 FY3/27 briefing materials.
+
+## 1. Key indicators and financial history
+
+Mitsubishi Electric reports with a March year-end under IFRS from FY3/19; FY3/17 and FY3/18 were reported under US GAAP, and each year in this chapter is presented as originally reported in its own tanshin on its own standard — the FY3/19 tanshin's IFRS-restated FY3/18 comparatives (sales ¥4,444,424mn / operating profit ¥327,444mn) were deliberately not used, per the PL/segment sheet's register (history wave H3). The sheet for 6503 carries ten annual years (FY3/17–FY3/26) plus 20 quarters, with all template checks equal to zero. Figures are ¥mn unless stated.
+
+Revenue describes a slow-growth giant that has recently accelerated: ¥4,238,666mn in FY3/17, ¥4,431,198mn in FY3/18, ¥4,519,921mn in FY3/19, then two declines — ¥4,462,509mn in FY3/20 and ¥4,191,433mn in FY3/21 (−6.1%) as COVID hit factory automation and automotive demand — before five consecutive record-setting rises: ¥4,476,758mn (+6.8%), ¥5,003,694mn (+11.8%), ¥5,257,914mn (+5.1%), ¥5,521,711mn (+5.0%) and ¥5,894,747mn (+6.8%) in FY3/26. The ten-year revenue CAGR is 3.7% (calculated), but the last five years compound at 7.3% — the demand mix (data centres, grid equipment, defence, air conditioning) has rotated toward Mitsubishi's strongest franchises. Operating profit tells the harder story: ¥270,104mn (6.4% margin) in FY3/17, a local peak of ¥318,637mn (7.2%) in FY3/18, then erosion to ¥230,195mn (5.5%) in FY3/21, a flat ¥252,051mn / ¥262,352mn in FY3/22–23, and a three-year rebuild to ¥328,525mn (6.2%), ¥391,850mn (7.1%) and ¥433,095mn (7.3%) in FY3/26. Two qualifications belong with the FY3/26 print: it is stated after a −¥105.3bn impact from the 'Next Stage' structural reform programme inside operating profit (company Q&A summary for FY3/26), so the pre-reform run-rate was higher; and from FY3/27 the company steers investors to adjusted operating profit, which excludes such items by definition — the FY3/27 guidance column of Exhibit 1 is therefore on the adjusted basis and is labelled as such wherever it appears.
+
+Below operating profit, the IFRS presentation runs through share of profit of associates and joint ventures — a line that has grown from ¥21,508mn (FY3/17) to ¥69,631mn (FY3/26) and is now 13% of profit before tax, with no investee breakdown in the tanshin (an interview-pack open question) — and financing income/expenses, net, to profit before tax of ¥296,249mn / ¥364,578mn / ¥315,958mn / ¥281,986mn / ¥258,754mn / ¥279,693mn / ¥292,179mn / ¥365,853mn / ¥437,265mn / ¥526,077mn across the ten years. Net income attributable to owners was ¥210,493mn / ¥271,880mn / ¥226,648mn / ¥221,834mn / ¥193,132mn / ¥203,482mn / ¥213,908mn / ¥284,949mn / ¥324,084mn / ¥407,758mn. Basic EPS, calculated as owners' net income over weighted-average shares (basic and diluted EPS are identical throughout — the company has no dilutive securities presented; the FY3/26 figure of ¥198.3 cross-checks exactly against third-party data), was ¥98.1 / ¥126.7 / ¥105.7 / ¥103.4 / ¥90.0 / ¥95.4 / ¥101.3 / ¥135.7 / ¥155.7 / ¥198.3. The share count is itself a slow tailwind: weighted-average shares fell from 2,146.3mn in FY3/17 to 2,056.2mn in FY3/26 on buybacks, and a further repurchase of up to ¥200,000mn was decided in October 2026.
+
+Cash generation and scale: operating cash flow (carried in the sheet for FY3/22–26) rose from ¥282,371mn to ¥575,993mn; capital expenditure (tangible fixed-asset acquisitions, the only capex line the cash-flow statement splits out) ran at ¥134,337mn–¥196,160mn a year across FY3/22–26; consolidated headcount at period-end rose from 138,700 (FY3/17) to 150,386 (FY3/26). Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 Q&A summary, 12 May 2026.
+
+**Figure: Mitsubishi Electric Corporation — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 4238666 |
+
+| FY3/18 | 4431198 |
+
+| FY3/19 | 4519921 |
+
+| FY3/20 | 4462509 |
+
+| FY3/21 | 4191433 |
+
+| FY3/22 | 4476758 |
+
+| FY3/23 | 5003694 |
+
+| FY3/24 | 5257914 |
+
+| FY3/25 | 5521711 |
+
+| FY3/26 | 5894747 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Mitsubishi Electric Corporation — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 270104 |
+
+| FY3/18 | 318637 |
+
+| FY3/19 | 290477 |
+
+| FY3/20 | 259661 |
+
+| FY3/21 | 230195 |
+
+| FY3/22 | 252051 |
+
+| FY3/23 | 262352 |
+
+| FY3/24 | 328525 |
+
+| FY3/25 | 391850 |
+
+| FY3/26 | 433095 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Mitsubishi Electric Corporation — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 6.4 |
+
+| FY3/18 | 7.2 |
+
+| FY3/19 | 6.4 |
+
+| FY3/20 | 5.8 |
+
+| FY3/21 | 5.5 |
+
+| FY3/22 | 5.6 |
+
+| FY3/23 | 5.2 |
+
+| FY3/24 | 6.2 |
+
+| FY3/25 | 7.1 |
+
+| FY3/26 | 7.3 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Mitsubishi Electric Corporation — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q2 FY3/27 results and guidance
+
+Mitsubishi Electric reported Q2 FY3/27 (H1, 1 April–30 September 2026) results on 30 October 2026, the first interim period in which the company reports segment profit as adjusted operating profit and guides on that basis. President & CEO Kei Uruma leads the company; CFO Kenichiro Fujimoto answered the published Q&A (company Q&A summary, 6 November 2026; English translation in the programme's transcript library). This chapter summarises the release; segment detail is in Chapter 5 and Exhibit 3.
+
+## H1 FY3/27 results (cumulative, as reported, IFRS)
+
+Revenue was ¥3,125,147mn (+14.4% YoY; H1 FY3/26: ¥2,732.5bn), operating profit ¥358,112mn (+59.6%), adjusted operating profit ¥344,778mn (+68.5%; margin 11.0% against 7.5% in the prior-year half), profit before tax ¥403.5bn (+¥149.5bn YoY) and net income attributable to owners ¥297.0bn (+57%) — revenue, adjusted operating profit and owners' profit were all first-half records, per the company. The consolidated revenue and operating lines are the exact tanshin figures (cross-checked against the disclosure→transcript automation dataset, which agrees exactly with the Q2 FY3/27 tanshin); segment figures in the briefing materials are disclosed rounded to ¥0.1bn. **The quarterly split shows acceleration, not fade: Q2 standalone adjusted operating profit was ¥202.6bn (+83% YoY) at a 12.4% margin**, against ¥142.1bn implied for Q1 (calculated as H1 minus Q2 standalone, both as reported). The overseas sales ratio rose to 55% and China revenue grew 34% YoY (company briefing reports, via the interview pack). H1 exchange rates were USD/JPY 160, EUR/JPY 185 and CNY/JPY 23.6.
+
+Quality flags, stated once here and carried through the report. First, the switch from declining-balance to straight-line depreciation added about ¥19.7bn to H1 operating profit — roughly 14% of the year-on-year adjusted operating profit increase (secondary analysis of company disclosure, flagged in the interview pack; not a company-stated figure). Second, the interview pack cites price-improvement and 'next-stage support' effects of about ¥22bn inside the H1 profit drivers. Third, equity-method (associates) income rose to about ¥30.1bn in H1 with no breakdown in the tanshin. None of these invalidates the print — volume in FA, energy systems and air conditioning was genuinely strong — but the clean underlying H1 margin is below the reported 11.0%, and the CFO's own Q&A guides H2 margins slightly lower on accelerated physical-AI development investment and a stronger-yen renminbi assumption. Segment detail (revenue / adjusted operating profit, briefing-materials basis): Infrastructure ¥678.3bn / ¥60.5bn (Energy Systems ¥236.8bn / ¥26.1bn; Defence & Space ¥208.4bn / ¥20.2bn; Public Utility ¥233.0bn / ¥14.2bn); Industry & Mobility ¥917.7bn / ¥123.6bn (FA Systems ¥482.3bn / ¥82.2bn; Automotive Equipment ¥435.4bn / ¥41.3bn); Life ¥1,298.9bn / ¥141.4bn (Air Conditioning & Home Products ¥939.8bn / ¥108.9bn; Building Systems ¥359.0bn / ¥32.5bn); Digital Innovation ¥82.0bn / −¥0.3bn (one-time expenses and amortisation from the Nozomi acquisition, per the Q&A); Semiconductor & Device ¥160.2bn / ¥32.9bn. The interim dividend was declared at ¥30 per share (+¥5 YoY), and a share repurchase of up to ¥200,000mn was decided, taking the expected total payout ratio including dividends to 69% (briefing materials). Source: Q2 FY3/27 tanshin, 30 October 2026; Q2 FY3/27 briefing materials; company Q&A summary, 6 November 2026.
+
+## Guidance: raised twice since April — revenue ¥6,550,000mn, adjusted operating profit ¥710,000mn (company guidance)
+
+Full-year FY3/27 guidance, as revised in the Q2 release of 30 October 2026, is revenue ¥6,550,000mn, adjusted operating profit ¥710,000mn (a 10.8% margin), profit before tax ¥695,000mn, net income attributable to owners ¥465,000mn and basic EPS of ¥227.20 — company guidance (会社計画), not a J-Core Fundamental Research forecast. The labelling point is structural: the company does not publish an IFRS operating-profit forecast; the guided profit line is adjusted operating profit, which excludes other income/loss — precisely the line into which the year's largest single item falls. The revision chain, verified in the guidance tracker against each tanshin, is: initial guidance at the FY3/26 results on 28 April 2026 — revenue ¥6,200,000mn, adjusted operating profit ¥590,000mn, profit before tax ¥640,000mn, owners' net income ¥475,000mn; first revision at Q1 on 31 July 2026 — ¥6,270,000mn / ¥620,000mn / ¥670,000mn / ¥495,000mn; second revision at Q2 on 30 October 2026 — ¥6,550,000mn / ¥710,000mn / ¥695,000mn / ¥465,000mn. The Q2 step is therefore +¥280,000mn of revenue and +¥90,000mn of adjusted operating profit against Q1, driven (company-stated) by expanded sales centred on FA systems and air conditioning & home appliances, with the H2 FX assumption revised to USD/JPY 155 (EUR/JPY 175, CNY/JPY 22.0 for Q3 onward) — while owners' net income was cut ¥30,000mn because of the expected impairment of about ¥100,000mn on the automotive-equipment transfer to the Hon Hai group, partly offset by the operating raise. The dividend forecast is ¥60 per share for the year (interim ¥30 declared; year-end ¥30 expected).
+
+Segment guidance (Q2 FY3/27 briefing materials) concentrates the year exactly where H1 printed: Infrastructure revenue ¥1,720,000mn and adjusted operating profit ¥196,000mn (raised ¥70,000mn / ¥25,000mn at Q2); Industry & Mobility ¥1,860,000mn / ¥242,000mn (raised ¥140,000mn / ¥46,000mn), within which FA Systems is guided at ¥990,000mn / ¥158,000mn (16.0% margin) and Automotive Equipment at ¥870,000mn / ¥84,000mn; Life ¥2,510,000mn / ¥232,000mn; Digital Innovation ¥180,000mn / ¥0mn — cut from ¥10,000mn at Q2 on the Nozomi-related one-time costs; Semiconductor & Device ¥330,000mn / ¥66,000mn (raised ¥30,000mn / ¥23,000mn, a 20.0% guided margin); Others ¥820,000mn / ¥39,000mn; eliminations and corporate −¥870,000mn / −¥65,000mn. Against guidance, H1 progress was 47.7% on revenue and 48.6% on adjusted operating profit, so **the guide implies H2 adjusted operating profit of ¥365,222mn (calculated), 6% above the H1 print** — demanding but not heroic, and explicitly predicated on FA and data-centre/semiconductor demand holding at high levels until around FY3/28 (CFO, Q&A) against guided H2 margin dilution from development investment. The open questions the print leaves — how much of FA's +48% orders is one country's capex cycle, the clean FA margin ex-depreciation change, and the return logic of the retained automotive stake — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Exhibit 3 sets out the H1 segment actuals and full-year segment guidance. Source: Q2 FY3/27 tanshin and briefing materials, 30 October 2026; guidance tracker, 17 November 2026.
+
+**Exhibit 3. H1 FY3/27 segment results and FY3/27 company guidance by segment (basis C; profit = adjusted operating profit)**
+
+| ¥mn | H1 FY3/27 revenue | H1 FY3/27 adj. OP | FY3/27E revenue (guidance) | FY3/27E adj. OP (guidance) |
+|---|---|---|---|---|
+| Infrastructure | 678300 | 60500 | 1720000 | 196000 |
+| — Energy Systems | 236800 | 26100 | — | — |
+| — Defense & Space Systems | 208400 | 20200 | — | — |
+| — Public Utility Systems | 233000 | 14200 | — | — |
+| Industry & Mobility | 917700 | 123600 | 1860000 | 242000 |
+| — FA Systems | 482300 | 82200 | 990000 | 158000 |
+| — Automotive Equipment | 435400 | 41300 | 870000 | 84000 |
+| Life | 1298900 | 141400 | 2510000 | 232000 |
+| — Air Conditioning Systems & Home Products | 939800 | 108900 | — | — |
+| — Building Systems | 359000 | 32500 | — | — |
+| Digital Innovation | 82000 | -300 | 180000 | 0 |
+| Semiconductor & Device | 160200 | 32900 | 330000 | 66000 |
+| Others | 417000 | 18200 | 820000 | 39000 |
+| Eliminations and corporate | -429100 | -31700 | -870000 | -65000 |
+| Consolidated | 3125147 | 344778 | 6550000 | 710000 |
+
+*Source: H1 FY3/27 and FY3/27 guidance by segment: Q2 FY3/27 briefing materials, 30 Oct 2026 (segment revenue/profit disclosed rounded to ¥0.1bn; sub-segments as presented). Consolidated H1 revenue ¥3,125,147mn and adjusted operating profit ¥344,778mn are the exact tanshin figures (automation dataset cross-check); consolidated guidance per Q2 FY3/27 tanshin §3. Segment revenue is total segment revenue incl. intersegment sales, consistent with the briefing presentation.*
+
+## 3. Business description
+
+Mitsubishi Electric is headquartered in Chiyoda-ku, Tokyo, and organises itself, on the current (basis C) segment structure, into five reportable segments — Infrastructure, Industry & Mobility, Life, Digital Innovation and Semiconductor & Device — plus an 'Other' category (その他) and eliminations/corporate. Segment sales in the sheet's main block are total segment sales including intersegment sales, as disclosed; external-customer segment sales for FY3/24–26 are carried in supplementary rows of the sheet and are cited where the distinction matters. Segment profit was operating profit in every history period; from FY3/27 it is adjusted operating profit. The business-area (sub-segment) descriptions below follow the company's own structure as presented in the Q2 FY3/27 briefing materials: Infrastructure comprises Public Utility Systems, Energy Systems and Defense & Space Systems; Industry & Mobility comprises Factory Automation (FA) Systems and Automotive Equipment; Life comprises Building Systems and Air Conditioning Systems & Home Products. On the basis-C total-sales measure, FY3/26 segment sales were Infrastructure ¥1,463,400mn, Industry & Mobility ¥1,673,871mn, Life ¥2,318,257mn, Digital Innovation ¥158,021mn, Semiconductor & Device ¥287,148mn and Other ¥823,561mn, less ¥5,950mn of adjustments to consolidated revenue of ¥5,894,747mn (external-customer sales: Infrastructure ¥1,451,423mn, Industry & Mobility ¥1,654,855mn, Life ¥2,286,554mn, Digital Innovation ¥85,258mn, Semiconductor & Device ¥258,927mn, Other ¥157,730mn — the gap between the two measures is mostly internal sales inside Other and Life).
+
+## Infrastructure: public utility, energy systems, defence & space
+
+Infrastructure is the segment most levered to public and utility capital spending. Public Utility Systems supplies transportation systems, social infrastructure and related information systems to railways and public agencies; Energy Systems supplies power generation, transmission and distribution equipment — transformers, switchgear and substation systems — where the current cycle is North American grid investment; Defense & Space Systems supplies defence electronics and satellites to the Japanese government and, within policy limits, export programmes. On basis C, Infrastructure total sales were ¥973,139mn / ¥1,036,613mn / ¥1,224,948mn / ¥1,463,400mn across FY3/23–26 with segment profit of ¥27,543mn / ¥31,442mn / ¥89,467mn / ¥154,731mn — **margins of 2.8% / 3.0% / 7.3% / 10.6%, a step-change driven first by defence & space volume and pricing and then by energy systems**. H1 FY3/27 continued the run: revenue ¥678.3bn (+16% YoY) and adjusted operating profit ¥60.5bn (+50%), with Energy Systems at ¥236.8bn / ¥26.1bn (11.0% margin, profit +83%) on substation equipment for North American power demand and capacity being added, Defence & Space at ¥208.4bn / ¥20.2bn, and Public Utility profit down against a prior-year one-off (interview pack). Full-year guidance is revenue ¥1,720,000mn and adjusted operating profit ¥196,000mn (company guidance) — an 11.4% margin that assumes the grid and defence order books convert on schedule; order backlog by business is not disclosed in monetary terms in the tanshin (the supplement discloses order intake only in rounded ¥100mn units for order-based businesses), so backlog cover cannot be verified from the sources used here. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 briefing materials; interview pack, 16 November 2026.
+
+## Industry & Mobility: FA systems and automotive equipment
+
+Industry & Mobility holds the group's two most cyclical businesses. FA Systems — programmable controllers, servo systems, inverters, CNCs, processing machines and robots, increasingly wrapped in software and solutions — sells into global manufacturing capex, and its current demand drivers are data-centre-related investment (including China machine tools) and semiconductor production equipment in Japan and Taiwan. Automotive Equipment — motors, inverters, electrification components and car multimedia — sells into vehicle production and is the business now being halved (below). On basis C, Industry & Mobility total sales were ¥1,660,296mn / ¥1,710,602mn / ¥1,644,806mn / ¥1,673,871mn across FY3/23–26 with segment profit of ¥95,987mn / ¥120,196mn / ¥82,603mn / ¥131,071mn (margins 5.8% / 7.0% / 5.0% / 7.8%) — the FY3/25 dip is the China FA correction; the segment note does not split FA from automotive annually in the sheet, so sub-segment history is available only from briefing materials for the latest periods. H1 FY3/27: segment revenue ¥917.7bn and adjusted operating profit ¥123.6bn (+130% YoY, 13.5% margin), within which **FA Systems printed revenue of ¥482.3bn (+28%) and adjusted operating profit of ¥82.2bn (+148%) at a 17.1% margin on orders up 48% to about ¥592.6bn**, while Automotive Equipment printed ¥435.4bn / ¥41.3bn (9.5% margin). Guidance asks FA to do even more in H2: full-year FA revenue ¥990,000mn and adjusted operating profit ¥158,000mn (company guidance), with capacity additions for servo and processing machines under way (interview pack). The automotive half-sale — 50% to the Hon Hai group for ¥115,000mn, decided 16 October 2026, with an expected impairment of about ¥100,000mn in FY3/27 — converts the segment's second business into an equity-method stake; what return the retained 50% must clear, and what governs it, is not disclosed. Source: company results via PL/segment sheet; Q2 FY3/27 briefing materials; interview pack.
+
+## Life, Digital Innovation and Semiconductor & Device: the cash engine, the option, and the jewel
+
+Life is the group's largest segment by sales and its steadiest earner. Building Systems (elevators, escalators and building management) is a stock business — installed-base maintenance and renewal smooth its cycle — while Air Conditioning Systems & Home Products (room and packaged air conditioners, heat-pump water heating, refrigerators and other appliances) rides housing, commercial construction and weather, with heat-pump demand in Europe the structural leg. Basis-C total sales were ¥1,947,157mn / ¥2,052,291mn / ¥2,185,168mn / ¥2,318,257mn across FY3/23–26 with segment profit of ¥101,289mn / ¥145,671mn / ¥157,297mn / ¥170,572mn (margins 5.2% / 7.1% / 7.2% / 7.4%). In H1 FY3/27 Life printed revenue of ¥1,298.9bn and adjusted operating profit of ¥141.4bn (+52.5% YoY, a 10.9% margin on the briefing basis): Air Conditioning & Home Products earned ¥108.9bn (11.6% margin) on European heat-wave demand, Air-to-Water heat-pump growth (+20% YoY in local currency, CFO Q&A) and a North America price revision from August plus a larger US tariff refund in Q2 — with the CFO explicitly guiding the H2 margin down on seasonality, operating leverage and FX. Building Systems earned ¥32.5bn (9.1%). Full-year guidance: revenue ¥2,510,000mn, adjusted operating profit ¥232,000mn.
+
+Digital Innovation (renamed from Business Platform in Q1 FY3/26 — a name change only, per the sheet register) is the group's digital-services build-out: IT solutions, software and data services, into which the Nozomi acquisition has been consolidated. It is small (basis-C sales ¥134,724mn–¥158,021mn across FY3/23–26; external sales only ¥82,206mn–¥85,258mn, the difference being internal sales) and currently loss-making at the margin that matters: H1 FY3/27 adjusted operating profit was −¥0.3bn on one-time expenses and amortisation accompanying the Nozomi acquisition, and full-year guidance was cut to ¥0mn of adjusted operating profit on ¥180,000mn of revenue. Semiconductor & Device is the opposite profile: power semiconductors (including SiC devices for rail, industrial, automotive and now data-centre applications), optical and high-frequency devices and TFT-LCD modules, on basis-C sales of ¥281,538mn / ¥289,848mn / ¥286,366mn / ¥287,148mn with segment profit of ¥29,228mn / ¥29,872mn / ¥40,635mn / ¥47,540mn (margins rising 10.4% → 16.6%). H1 FY3/27 printed ¥160.2bn / ¥32.9bn at a 20.6% margin — the group's highest — and guidance is ¥330,000mn / ¥66,000mn (20.0%). The strategic overlay is unresolved: Mitsubishi has agreed with Rohm and Toshiba to discuss integrating the three companies' power-semiconductor businesses into a joint venture (President Uruma, FY3/26 Q&A), and the perimeter and timing remain undisclosed in the sources used. Source: company results via PL/segment sheet; Q2 FY3/27 briefing materials and Q&A summary; FY3/26 Q&A summary.
+
+## The three segment bases — read this before any segment comparison
+
+Mitsubishi Electric has reorganised its reportable segments twice in five years, and the PL/segment sheet — following the company's own disclosure — carries three bases in three separate blocks that are never restated into one another. Basis C (current; sheet main block): Infrastructure / Industry & Mobility / Life / Digital Innovation / Semiconductor & Device, plus Other — applies from FY3/24 (reorganisation on 1 April 2023), with FY3/23 also presented on basis C from the restated prior-period blocks of the FY3/24 tanshin; segment sales are totals including intersegment sales, and segment profit is operating profit (adjusted operating profit from FY3/27). Basis B (sheet supplementary block): the five-unit structure created on 1 April 2022 — Infrastructure / Industry & Mobility / Life / Business Platform / Other — covering FY3/22 (restated) and FY3/23 as disclosed in the FY3/23-era documents. Basis OLD (sheet supplementary block): the six units in force through FY3/22 — Energy Systems （重電システム） / Industrial Mechatronics （産業メカトロニクス） / Information & Communication Systems （情報通信システム） / Electronic Devices （電子デバイス） / Home Appliances （家庭電器） / Other — covering FY3/22 as originally reported, and the same six units are the segment structure of the entire FY3/17–FY3/21 history block. Within basis C there is one rename: Business Platform became Digital Innovation from Q1 FY3/26, a name change only with no restatement. Every segment figure in this report is labelled with its basis and years; no figure from one basis is ever spliced onto another, and growth rates across a basis boundary (for example FY3/23 basis-B Life against FY3/24 basis-C Life) are not computed. Chapter 5 presents each basis in its own exhibit block. Source: PL/segment sheet register S3 and supplementary blocks; batch log 4b, 16 November 2026; history wave H3 log, 17 November 2026.
+
+## 4. Market and value chain
+
+Mitsubishi Electric sells into four distinct value chains that share one installed base of electrical engineering. In factory automation, FA Systems sits at the control and drive layer of the machine — PLCs, servos, CNCs and processing machines — between component suppliers and machine builders, integrators and end factories; demand is derived from manufacturing capex, and the current cycle is led by data centres and semiconductors: the company reports FA orders up 48% YoY in H1 FY3/27 (about ¥592.6bn, per the interview pack's compilation of company disclosure), with China machine-tool demand and Japan/Taiwan semiconductor FA the named drivers, and the CFO expecting high demand to continue until around FY2028. Competition at this layer is against Fanuc and Yaskawa in Japan (CNC/servo and robots respectively), Siemens and Rockwell Automation globally, Keyence in sensing, and a rising tier of Chinese drive/PLC makers on price. In power infrastructure, Energy Systems sits in the grid-equipment layer — transformers, switchgear, substation systems — where the cycle is North American utility capex for data-centre load and grid renewal, against Hitachi Energy, Siemens Energy, GE Vernova and HD Hyundai Electric; the company's H1 evidence is volume-led (+16% revenue, +83% profit) with capacity being added, and the contested variables are backlog quality and tariff exposure on Japan/Asia-made components, neither of which the tanshin quantifies. In defence & space, the customer is effectively the Japanese state: demand follows the defence build-up programme, competition is domestic and programme-based, and the debate is capacity and programme execution rather than share. In air conditioning, Life competes against Daikin — the global leader and the natural comparator — plus Panasonic, Hitachi-Johnson Controls and Chinese makers, in a market where the structural driver is the heat-pump transition in Europe (Air-to-Water +20% YoY in H1, local currency) and the cyclical drivers are weather and housing. In power semiconductors, Semiconductor & Device competes with Infineon, Fuji Electric, Rohm and Toshiba — the last two now its prospective partners in the agreed three-company integration talks for power devices, against the background of SiC capacity races and data-centre power demand. No company-disclosed market-size or share figure for these categories is carried in the sources used here, and none is substituted: the verifiable demand evidence is the company's own reported segment growth, order colour and the Q&A record. ==Entry barriers across the group are application know-how, installed-base trust (a drive, substation or elevator written into a customer's asset base is sticky, and maintenance attaches), global service coverage, and — in defence — security-cleared incumbency==. The substitute risks are platform shifts: software-defined automation and general-purpose motion control in FA, Chinese SiC cost curves in devices, and price-led Chinese competition in appliances. The two sensitivities that follow for the equity: first, China was ¥540,448mn of FY3/26 sales (9.2% of the total) and is simultaneously FA's growth engine and its air-pocket risk; second, the demand now driving guidance — data-centre capex in both FA and grid equipment — is concentrated and lumpy, and with order intake disclosed only in rounded units for part of the group, the earliest observable of a pause is the quarterly segment print itself. Sources: Q2 FY3/27 briefing materials and Q&A summary, 30 October / 6 November 2026; PL/segment sheet (tanshin, JPX archive); interview pack, 16 November 2026.
+
+**Figure: Mitsubishi Electric in the FA & electrical value chain**
+
+**Silicon, Magnets & Materials**
+
+- Control semiconductors: Renesas, TI, NXP
+- AI silicon: NVIDIA, Intel, AMD
+- NdFeB magnets: Shin-Etsu, TDK
+- Copper, aluminium, PCB substrates
+
+**Control & Drive Components**
+
+- Encoders: HEIDENHAIN, Renishaw, Nikon
+- Ball screws, guides: THK, HIWIN
+- Power semiconductors: Mitsubishi, Infineon
+- Power supplies, I/O
+
+**Mitsubishi Electric (6503)**
+
+- Industry & Mobility — FA Systems (PLCs, servo, CNC) & Automotive Equipment
+- Infrastructure — Energy Systems (transformers, switchgear), Defence & Space
+- Life — Building Systems (elevators), Air Conditioning & Home Products
+- Semiconductor & Device — power semiconductors (SiC), optical devices
+
+**Software & Platforms**
+
+- CAM, process planning
+- Digital twin, simulation: Siemens Xcelerator
+- Predictive maintenance, monitoring: Fanuc FIELD
+- MES links, AI optimisation
+
+**OEM Integration & Distribution**
+
+- Machine-tool OEMs: DMG Mori, Okuma
+- Semiconductor, robot, packaging OEMs
+- Trading houses, Misumi, MonotaRO
+- System integrators, direct sales: Keyence
+
+**End Users & Lifecycle Service**
+
+- Automotive, aerospace & defence
+- Semiconductor, battery/EV, medical
+- Food, packaging, general machinery
+- Maintenance, retrofit, long-life supply
+
+*Source: FIELDNOTES sector report §4 (CNC, servo & FA value chain); company segments from §3 of this report.*
+
+## 5. Segments and regions
+
+This chapter presents the segment record basis by basis, as the company disclosed it and as the PL/segment sheet preserves it: basis C (FY3/23–FY3/26) in the main block of Exhibit 2, basis B (FY3/22 restated and FY3/23) and basis OLD (FY3/22 as originally reported) in labelled supplementary blocks, and the FY3/17–FY3/21 history — which sits entirely on the OLD six-unit structure — in the text. Regional sales are disclosed on a single customer-location basis throughout (Japan / North America / Europe / Asia / Other, with a China split of Asia from FY3/19), so the regional series is continuous even where the segment series is not.
+
+**Figure: Mitsubishi Electric Corporation — segment revenue, FY3/26**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Basis C — Infrastructure — sales | 1463400 |
+
+| Basis C — Industry & Mobility — sales | 1673871 |
+
+| Basis C — Life — sales | 2318257 |
+
+| Basis C — Digital Innovation — sales | 158021 |
+
+| Basis C — Semiconductor & Device — sales | 287148 |
+
+| Basis C — Other — sales | 823561 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Mitsubishi Electric Corporation — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Mitsubishi Electric Corporation — segment revenue mix, FY3/26**
+
+**Basis C — Life**
+
+- ¥2,318,257mn
+- 34.5% of revenue
+
+**Basis C — Industry & Mobility**
+
+- ¥1,673,871mn
+- 24.9% of revenue
+
+**Basis C — Infrastructure**
+
+- ¥1,463,400mn
+- 21.8% of revenue
+
+**Basis C — Other**
+
+- ¥823,561mn
+- 12.2% of revenue
+
+**Basis C — Semiconductor & Device**
+
+- ¥287,148mn
+- 4.3% of revenue
+
+**Basis C — Digital Innovation**
+
+- ¥158,021mn
+- 2.4% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## Business segments: three bases, three separate records
+
+Basis C (FY3/23–FY3/26; total sales including intersegment; profit = operating profit). The four-year record shows where the group's profit rebuild came from. **Infrastructure profit rose from ¥27,543mn (2.8% margin) in FY3/23 to ¥154,731mn (10.6%) in FY3/26 — the single largest profit delta in the group, worth ¥127,188mn** — as defence & space volume and energy-systems demand compounded. Life remained the largest profit pool in absolute terms through FY3/25 and the most stable: ¥101,289mn → ¥170,572mn, margin 5.2% → 7.4%. Industry & Mobility was the volatile pool: ¥95,987mn / ¥120,196mn / ¥82,603mn / ¥131,071mn, its FY3/25 dip (−31% YoY) marking the China FA correction that H1 FY3/27 has now reversed violently. Semiconductor & Device quietly re-rated: profit ¥29,228mn → ¥47,540mn, margin 10.4% → 16.6%. Digital Innovation stayed small and thin (¥8,768mn–¥11,957mn of profit). Other earned ¥33,408mn–¥53,173mn, and the adjustment/corporate line swung from −¥463mn in FY3/23 to −¥82,776mn in FY3/26 — the FY3/26 figure is where much of the −¥105.3bn 'Next Stage' reform impact sits relative to segment profit, which is why segment-profit sums and consolidated operating profit diverge that year (calculated: segment and Other profit total ¥569,044mn against consolidated operating profit of ¥433,095mn, with the −¥82,776mn adjustment and the balance in the reform and other items the segment note does not allocate — flagged, not resolved; see Basis of preparation).
+
+Basis B (FY3/22 restated / FY3/23; five units). Infrastructure sales ¥946,106mn / ¥973,139mn with profit ¥41,569mn / ¥27,543mn; Industry & Mobility ¥1,480,831mn / ¥1,660,296mn with profit ¥96,487mn / ¥95,987mn; Life ¥1,673,090mn / ¥1,947,157mn with profit ¥92,687mn / ¥101,289mn; Business Platform ¥382,844mn / ¥429,320mn with profit ¥26,455mn / ¥39,930mn — note that basis-B Business Platform is a much larger unit than basis-C Digital Innovation, because the 1 April 2023 reorganisation moved most of its activities elsewhere and left a small digital core: the two lines must never be compared as a time series; Other ¥737,350mn / ¥836,072mn with profit ¥26,729mn / ¥31,474mn.
+
+Basis OLD (FY3/22 as originally reported; six units). Energy Systems sales ¥1,238,111mn / profit ¥62,170mn; Industrial Mechatronics ¥1,460,368mn / ¥96,839mn; Information & Communication Systems ¥354,128mn / ¥14,727mn; Electronic Devices ¥241,405mn / ¥16,814mn; Home Appliances ¥1,144,788mn / ¥70,960mn; Other ¥676,257mn / ¥21,993mn. The FY3/17–FY3/21 history block is on this same OLD structure: across those five years Energy Systems sales ran ¥1,227,906mn–¥1,307,389mn with profit rising ¥44,319mn → ¥108,944mn; Industrial Mechatronics sales ¥1,248,566mn–¥1,467,633mn with profit collapsing ¥140,073mn (FY3/17) → ¥40,582mn (FY3/21) — the FA cycle of that era written in one line; Home Appliances sales ¥1,004,415mn–¥1,090,248mn with profit ¥56,057mn–¥78,206mn; Information & Communication ¥380,159mn–¥455,596mn / ¥11,987mn–¥26,457mn; Electronic Devices ¥186,554mn–¥208,750mn / ¥1,442mn–¥14,554mn; Other ¥603,089mn–¥764,346mn / ¥13,628mn–¥26,050mn; eliminations and corporate −¥554,238mn to −¥707,759mn of sales and −¥28,280mn to −¥31,448mn of profit. Exhibit 2 sets out basis C with the basis-B and basis-OLD FY3/22–23 blocks as labelled supplementary rows. Source: company results via PL/segment sheet (tanshin, JPX archive), segment notes and supplementary blocks; register S3.
+
+**Exhibit 2. Business segments by basis — total sales incl. intersegment / segment profit (operating profit). Bases are NOT spliced: each block is a separate disclosure basis**
+
+| ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|
+| Basis C — Infrastructure — sales | — | 973139 | 1036613 | 1224948 | 1463400 |
+| Basis C — Infrastructure — profit | — | 27543 | 31442 | 89467 | 154731 |
+| Basis C — Industry & Mobility — sales | — | 1660296 | 1710602 | 1644806 | 1673871 |
+| Basis C — Industry & Mobility — profit | — | 95987 | 120196 | 82603 | 131071 |
+| Basis C — Life — sales | — | 1947157 | 2052291 | 2185168 | 2318257 |
+| Basis C — Life — profit | — | 101289 | 145671 | 157297 | 170572 |
+| Basis C — Digital Innovation — sales | — | 134724 | 142058 | 146850 | 158021 |
+| Basis C — Digital Innovation — profit | — | 8768 | 8327 | 10887 | 11957 |
+| Basis C — Semiconductor & Device — sales | — | 281538 | 289848 | 286366 | 287148 |
+| Basis C — Semiconductor & Device — profit | — | 29228 | 29872 | 40635 | 47540 |
+| Basis C — Other — sales | — | 850505 | 843577 | 852126 | 823561 |
+| Basis C — Other — profit | — | 33408 | 31747 | 51593 | 53173 |
+| Basis C — Adjustments / corporate — profit | — | -463 | -6983 | 10961 | -82776 |
+| Consolidated operating profit | 252051 | 262352 | 328525 | 391850 | 433095 |
+| Basis B — Infrastructure — sales | 946106 | 973139 | — | — | — |
+| Basis B — Infrastructure — profit | 41569 | 27543 | — | — | — |
+| Basis B — Industry & Mobility — sales | 1480831 | 1660296 | — | — | — |
+| Basis B — Industry & Mobility — profit | 96487 | 95987 | — | — | — |
+| Basis B — Life — sales | 1673090 | 1947157 | — | — | — |
+| Basis B — Life — profit | 92687 | 101289 | — | — | — |
+| Basis B — Business Platform — sales | 382844 | 429320 | — | — | — |
+| Basis B — Business Platform — profit | 26455 | 39930 | — | — | — |
+| Basis B — Other — sales | 737350 | 836072 | — | — | — |
+| Basis B — Other — profit | 26729 | 31474 | — | — | — |
+| Basis OLD — Energy Systems — sales (FY3/22 as reported) | 1238111 | — | — | — | — |
+| Basis OLD — Energy Systems — profit | 62170 | — | — | — | — |
+| Basis OLD — Industrial Mechatronics — sales | 1460368 | — | — | — | — |
+| Basis OLD — Industrial Mechatronics — profit | 96839 | — | — | — | — |
+| Basis OLD — Information & Communication — sales | 354128 | — | — | — | — |
+| Basis OLD — Information & Communication — profit | 14727 | — | — | — | — |
+| Basis OLD — Electronic Devices — sales | 241405 | — | — | — | — |
+| Basis OLD — Electronic Devices — profit | 16814 | — | — | — | — |
+| Basis OLD — Home Appliances — sales | 1144788 | — | — | — | — |
+| Basis OLD — Home Appliances — profit | 70960 | — | — | — | — |
+| Basis OLD — Other — sales | 676257 | — | — | — | — |
+| Basis OLD — Other — profit | 21993 | — | — | — | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive), segment notes and supplementary blocks (register S3). Basis C (current, from the 1 Apr 2023 reorganisation): FY3/23 from the restated prior-period blocks of the FY3/24 tanshin. Basis B (1 Apr 2022 reorganisation): FY3/22 restated + FY3/23. Basis OLD (pre-Apr 2022 six units): FY3/22 as originally reported. Business Platform (basis B) and Digital Innovation (basis C) are different perimeters despite the rename chain — do not compare as a series.*
+
+## Regions: overseas ratio above half; China split disclosed from FY3/19
+
+Regional sales by customer location (as disclosed; the China split of Asia exists only from FY3/19 — the US-GAAP-era tables show no China line, so China and Asia ex-China are blank for FY3/17–18 in the sheet and are not estimated here). FY3/17: Japan ¥2,405,552mn (56.7% of sales), North America ¥422,259mn, Europe ¥384,075mn, Asia ¥940,150mn, Other ¥86,630mn. FY3/21 (the trough year): Japan ¥2,430,839mn (58.0%), North America ¥379,253mn, Europe ¥391,618mn, Asia ¥926,540mn (of which China ¥481,882mn), Other ¥63,183mn. FY3/26: Japan ¥2,932,381mn (49.7%), North America ¥852,778mn (14.5%), Europe ¥775,370mn (13.2%), Asia ¥1,223,718mn (20.8%, of which China ¥540,448mn and Asia ex-China ¥683,270mn), Other ¥110,500mn — an overseas ratio of 50.3%, which rose further to 55% in H1 FY3/27 (company briefing reports). The ten-year drift is a North America and Asia story: North America sales doubled from ¥422,259mn to ¥852,778mn (a 8.1% CAGR, calculated) on grid equipment and air conditioning, Europe doubled from ¥384,075mn to ¥775,370mn on heat pumps and FA, while Japan grew only 2.2% a year — the domestic share fell seven points despite absolute growth. China, notably, is not the growth line its FA orders imply at group level: ¥486,405mn in FY3/19, ¥481,882mn in FY3/21, ¥588,864mn in FY3/22, then ¥583,659mn / ¥532,393mn / ¥529,837mn / ¥540,448mn — flat for four years at group level even as the mix inside it rotated toward machine tools and away from general FA, before the +34% YoY China growth reported for H1 FY3/27. Regional profit is not disclosed on any basis. Source: company results via PL/segment sheet (tanshin, JPX archive), regional notes; register S5 and history register S15.
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (¥mn), as reported via the PL/segment sheet (tanshin, JPX archive); FY3/17–18 are US GAAP as originally reported, FY3/19 onward IFRS — each year on its own standard, never spliced. Income statement: sales ¥4,238,666mn / ¥4,431,198mn / ¥4,519,921mn / ¥4,462,509mn / ¥4,191,433mn / ¥4,476,758mn / ¥5,003,694mn / ¥5,257,914mn / ¥5,521,711mn / ¥5,894,747mn for FY3/17–FY3/26; cost of sales in FY3/22–26 was ¥3,212,216mn / ¥3,596,781mn / ¥3,712,065mn / ¥3,829,496mn / ¥4,005,249mn, giving gross profit of ¥1,264,542mn / ¥1,406,913mn / ¥1,545,849mn / ¥1,692,215mn / ¥1,889,498mn (gross margins 28.2% / 28.1% / 29.4% / 30.6% / 32.1% — a four-point structural improvement across the last five years, from mix, pricing and the reform programme); SG&A was ¥1,013,674mn / ¥1,147,981mn / ¥1,237,201mn / ¥1,315,797mn / ¥1,388,289mn (23.5% of FY3/26 sales, down from 24.5% in FY3/22 on the sheet's presentation, in which R&D is carried inside SG&A and other operating items); other operating expense (net) swung from small net income items in FY3/22–25 (−¥1,183mn / −¥3,420mn / −¥19,877mn / −¥15,432mn, expense-positive presentation) to a ¥68,114mn expense in FY3/26 — the reform year. Operating profit: ¥252,051mn / ¥262,352mn / ¥328,525mn / ¥391,850mn / ¥433,095mn (FY3/22–26). Share of profit of associates and JVs added ¥18,434mn / ¥21,821mn / ¥27,815mn / ¥38,979mn / ¥69,631mn — its FY3/26 step-up (+79% YoY) is large, growing and unexplained at investee level in the tanshin, and is flagged as an earnings-quality item. Profit before financing and income taxes was ¥270,485mn / ¥284,173mn / ¥356,340mn / ¥430,829mn / ¥502,726mn; financing income net added ¥9,208mn / ¥8,006mn / ¥9,513mn / ¥6,436mn / ¥23,351mn; profit before tax ¥279,693mn / ¥292,179mn / ¥365,853mn / ¥437,265mn / ¥526,077mn; income taxes ¥61,808mn / ¥67,235mn / ¥68,908mn / ¥90,349mn / ¥92,307mn (effective rates 22.1% / 23.0% / 18.8% / 20.7% / 17.5%); net income (total) ¥217,885mn / ¥224,944mn / ¥296,945mn / ¥346,916mn / ¥433,770mn, of which non-controlling interests took ¥14,403mn / ¥11,036mn / ¥11,996mn / ¥22,832mn / ¥26,012mn, leaving owners' net income of ¥203,482mn / ¥213,908mn / ¥284,949mn / ¥324,084mn / ¥407,758mn.
+
+Balance-sheet items carried in the sheet (31 March 2026): cash and equivalents ¥731,609mn; receivables (trade receivables plus contract assets) ¥1,754,429mn; inventory ¥1,262,131mn (about 3.8 months of cost of sales, calculated); trade payables ¥592,018mn; interest-bearing debt on the sheet's definition (bonds, borrowings and lease liabilities, current plus non-current, as presented) ¥363,278mn — a net cash position of about ¥368,331mn (calculated) before other financial assets. Total assets, total equity, book value per share and ROE are not carried in the PL/segment sheet and are therefore not presented as history here (未取得 from the sheet; the FY3/30 plan's ROE target of 12% is a company plan target, Chapter 7). Cash flow: operating cash flow was ¥282,371mn / ¥166,711mn / ¥415,479mn / ¥455,905mn / ¥575,993mn across FY3/22–26 (the FY3/23 dip is the working-capital build of the +11.8% revenue year: inventory rose ¥249,594mn that year); capital expenditure (PPE acquisitions) was ¥168,920mn / ¥134,337mn / ¥151,117mn / ¥193,988mn / ¥196,160mn; depreciation and amortisation (carried from FY3/25) was ¥221,428mn / ¥233,784mn, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥613,278mn in FY3/25 and ¥666,879mn in FY3/26. Per-share data: EPS (calculated, basic = diluted) as in Chapter 1; the FY3/27 dividend forecast is ¥60 per share and the FY3/26 dividend is not carried in the sources used here. Not disclosed in the tanshin and therefore not presented: order backlog in monetary terms, R&D in exact ¥mn (rounded ¥100mn units in the supplement only), unit volumes, capacity and utilisation. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 28 April 2026.
+
+## 7. Strategy and mid-term plan — the new medium-term strategy to FY3/30
+
+Mitsubishi Electric's frame is a sequence of reform programmes under President & CEO Kei Uruma (in office since July 2021, appointed in the wake of the quality-inspection misconduct that the Nomura Asset Management dialogue and company materials both cite as the trigger for governance reform): rebuild quality and governance, run the 'Next Stage' structural reform (whose −¥105.3bn operating-profit impact landed in FY3/26), and convert the portfolio toward three focus areas — Smart Energy, Automation, and Defence & Space. The current plan is the new medium-term management strategy to FY3/30, announced 29 May 2026 (company plan, as compiled in the interview pack from the company announcement and press reports): FY3/30 targets of an adjusted operating profit margin of at least 12% (from 8.5% in FY3/25), ROE of 12%, and revenue growth at a 3–5% CAGR over FY3/25–30; the three focus areas are targeted at a 15% adjusted operating margin and 9% revenue CAGR; growth investment is doubled to ¥3tn over the plan; total shareholder returns of about ¥1.6tn are planned (a payout ratio above 60%); segment margin targets for FY3/30 include FA Systems above 16% and Semiconductor & Device at 20%; and the plan's exchange-rate assumption is USD/JPY 140 — deliberately yen-strong against spot, which makes the margin targets harder, not easier, than they look. Against those targets, **the FY3/27 guidance already in hand (adjusted operating margin 10.8% guided; FA guided at 16.0%; Semiconductor & Device at 20.0%) puts two of the three FY3/30 margin markers within reach three years early** — which either evidences a genuinely re-rated mix or marks FY3/27 as a cyclical peak the plan will have to defend; the interview pack's debate list is built around exactly that fork.
+
+The portfolio leg is executing faster than the plan's language: automotive equipment 50% to Hon Hai (¥115,000mn; ~¥100,000mn impairment in FY3/27), distribution controls 51% into an ABB joint venture (¥82,400mn; execution 1 October 2027; ~¥90,000mn gain expected in FY3/28), full acquisition of PCI Energy Solutions, and the agreed three-company power-semiconductor integration talks with Rohm and Toshiba. Shareholder returns have stepped up with the October 2026 decision: a buyback of up to ¥200,000mn, an interim dividend of ¥30 (+¥5 YoY), a ¥60 full-year forecast and an expected total payout ratio of 69% for FY3/27 (briefing materials). The monitoring set that substitutes for a fuller bridge, in the order the data arrives: FA orders YoY (H1 FY3/27: +48%) and the FA margin against 17.1% — the first test of plateau versus spike; Energy Systems growth and margin (H1: +16% / +83%, 11.0%) as North American capacity costs land; the adjusted-versus-reported profit gap each period (H1 FY3/27: adjusted ¥344,778mn against reported operating profit ¥358,112mn — the sign and size of 'other income/loss' is now a standing item, with the ~¥100,000mn automotive impairment still to land in H2); associates income, until the company breaks it down; and Q3 FY3/27 progress against the implied H2 adjusted operating profit of ¥365,222mn (calculated from the ¥710,000mn guide). All plan figures above are company targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: medium-term strategy announcement, 29 May 2026 (via interview pack, 16 November 2026); Q2 FY3/27 tanshin and briefing materials, 30 October 2026; FY3/26 Q&A summary.
+
+## 8. Other information
+
+History. Mitsubishi Electric traces to 1921, when Mitsubishi Shipbuilding (now Mitsubishi Heavy Industries) spun off its electrical machinery works in Kobe as Mitsubishi Electric Corporation; the company built its position across heavy electrical equipment, factory automation, elevators, air conditioning and semiconductors over the following century and is listed on the Tokyo Stock Exchange (Prime Market). Head office: Chiyoda-ku, Tokyo (company release, 6 November 2026). Capital and shareholder-register detail are not carried in the sources used for this report and are not presented.
+
+Management. Representative Executive Officer, President & CEO: Kei Uruma — in the role since July 2021 (confirmed November 2026: Keidanren journal, November 2026, lists him as 'Representative Executive Officer, President & CEO, Mitsubishi Electric Corporation'; a company release dated 6 November 2026 names him in the same role). He joined the company in 1982 from the FA systems business (third-party biography, the-shashi.com, updated October 2026). The named attendee at the Q2 FY3/27 briefing was Kenichiro Fujimoto, Executive Officer and CFO. Shares: weighted-average shares were 2,056.2mn in FY3/26 (basic = diluted); the count has declined every year of the ten-year window on buybacks.
+
+Employees. Consolidated headcount at period-end was 150,386 at 31 March 2026 (tanshin supplement 期末人員， via the PL/segment sheet), against 138,700 at FY3/17 — growth of about 8% over a decade in which revenue grew 39%, the productivity arithmetic behind the margin rebuild.
+
+Shareholder returns. The FY3/27 dividend forecast is ¥60 per share (interim ¥30 declared, +¥5 YoY; year-end ¥30 expected), and a share repurchase of up to ¥200,000mn was decided alongside the Q2 results, for an expected total payout ratio of 69% including dividends (briefing materials, 30 October 2026). The medium-term strategy plans about ¥1.6tn of total returns over the plan period at a payout ratio above 60% (company plan).
+
+Market data. The shares closed at ¥4,614 on 16 November 2026 (StockAnalysis.com historical data; corroborated by Finnhub's previous-close field and StockInvest.us), down 3.0% on the day, giving a market capitalisation of ¥9.44tn (StockInvest.us; ¥9.49tn calculated from the cited price and FY3/26 weighted-average shares). The 52-week range was ¥4,002 (19 November 2025) to ¥6,686 (27 May 2026) (Finnhub) — the shares had therefore fallen about 31% from the May 2026 peak into mid-November even as guidance was being raised, the market's own verdict-in-progress on the peak-cycle question. At ¥4,614 the shares trade at 23.3x FY3/26 EPS of ¥198.3 (calculated) and 20.3x FY3/27 company-guidance EPS of ¥227.20, and yield 1.3% on the ¥60 forecast dividend (all calculated from the cited price and company-reported or company-guided per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, expected in early February 2027 (third-party calendar estimate: 3 February 2027, StockInvest.us).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Mitsubishi Electric (6503) (IFRS template; March year-end; FY3/22–FY3/26 main block plus 20 quarters, and a supplementary history block carrying FY3/17–FY3/21; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks equal to zero (batch log 4b, 16 November 2026; history wave H3, 17 November 2026). Q1 and Q2 FY3/27 figures are from the Q1 FY3/27 tanshin dated 31 July 2026 and the Q2 FY3/27 tanshin and briefing materials dated 30 October 2026; the company's published Q&A summaries for FY3/26 (12 May 2026) and Q2 FY3/27 (6 November 2026) are used in English translation from the programme's transcript library, and the consolidated H1 FY3/27 revenue/operating lines were cross-checked against the disclosure→transcript automation dataset, which agrees exactly with the Q2 tanshin. The guidance revision chain is as verified in the programme's guidance tracker (17 November 2026) against each tanshin. The medium-term strategy figures are the company's plan as announced 29 May 2026, compiled in the interview pack from the company announcement and press reports (Nikkei / Nikkan Kogyo) and flagged as such. Market data are from StockAnalysis.com, StockInvest.us and Finnhub as returned by web search on 17 November 2026 and are cited with dates in the text; the president's role was confirmed against the Keidanren journal (November 2026) and a company release dated 6 November 2026.
+
+Discrepancies and basis breaks flagged (not silently resolved). (1) Segment bases: the company reorganised its reportable segments on 1 April 2022 and again on 1 April 2023; the sheet carries basis C (FY3/23–26), basis B (FY3/22 restated + FY3/23) and basis OLD (FY3/22 as reported, and the FY3/17–21 history structure) in separate blocks, and this report presents each separately and labelled, never spliced. Business Platform was renamed Digital Innovation in Q1 FY3/26 (name only), but basis-B Business Platform (FY3/23 sales ¥429,320mn) and basis-C Digital Innovation (FY3/24 sales ¥142,058mn) are different perimeters and are not a time series. (2) Accounting standards: FY3/17–18 are US GAAP as originally reported and FY3/19 onward IFRS; the FY3/19 tanshin's IFRS-restated FY3/18 comparatives were not used (sheet policy, register S14). (3) Profit definition: segment profit and all history-period profit lines are operating profit; from FY3/27 the company reports adjusted operating profit, publishes no IFRS operating-profit forecast, and its guidance profit line is adjusted operating profit — the FY3/27E column of Exhibit 1 and the guidance columns of Exhibit 3 are on that basis and labelled. The sheet's register S11 and Drivers note, in the local copy read for this report, still state initial FY3/27 adjusted operating profit guidance of ¥560,000mn; the guidance tracker and the rollout log's verified correction (against the FY3/26 tanshin §3 and the transcript) establish ¥590,000mn, which this report uses. (4) Local sheet copy versus Drive: the local recalculated copy read here (recalc_hist3) predates two Drive-side fixes of 17 November 2026 — the 90-cell quarterly segment correction (fix-melco-segments; annual columns verified unaffected, and no quarterly segment standalone is relied on in this report) and the history-block share-count correction (fix-6503-shares: FY3/17–21 weighted shares were stored in thousands; the corrected counts, in millions, are used here and are identity-verified against each year's tanshin and against the FY3/26 EPS cross-check). (5) FY3/26 segment-profit arithmetic: basis-C segment profits plus Other total ¥569,044mn against consolidated operating profit of ¥433,095mn with a disclosed adjustment of −¥82,776mn; the residual gap is consistent with the −¥105.3bn 'Next Stage' reform impact sitting outside the segment allocation, but the segment note in the sources used does not itemise it, so the bridge is flagged rather than closed. (6) Capex identity: the sheet's FY3/21 (history block) and FY3/22 (main block) capital expenditure are identical at ¥168,920mn; the coincidence is flagged as unverified against the two tanshin rather than resolved. (7) H1 FY3/27 segment detail: briefing-materials figures are rounded to ¥0.1bn; the interview pack leaves Life H1 revenue as 未取得 where the briefing materials disclose ¥1,298.9bn (used here), and gives Semiconductor & Device H1 adjusted operating profit as ¥33.0bn against the briefing table's ¥32.9bn (used here). The ~¥19.7bn depreciation-method effect is a secondary analysis cited by the interview pack, not a company-stated figure, and is flagged at each use.
+
+Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'Company guidance' means Mitsubishi Electric's published forecasts (会社計画) and 'plan targets' means the medium-term strategy to FY3/30; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — order backlog in monetary terms and order intake beyond the supplement's rounded ¥100mn-unit figures for order-based businesses, R&D in exact ¥mn, unit volumes, capacity, utilisation, regional profit, total assets / equity / BPS / ROE as carried in the sheet, the FY3/26 dividend, the China regional split for FY3/17–18, and the return hurdle and governance terms of the retained automotive stake — are described as not disclosed / 未取得 rather than estimated. KPI history in this report covers ten years (FY3/17–FY3/26) from the PL/segment sheet, matching the Shared Research reference span.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

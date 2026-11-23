@@ -1,0 +1,354 @@
+---
+title: "The world's air-conditioning leader at a margin crossroads: initiation on Daikin as FUSION30 tries to rebuild earning power on data-centre and solutions growth"
+company: "Daikin Industries, Ltd."
+ticker: "6367"
+sector: "Industrials"
+date: 2026-11-17
+type: initiation
+externalUrl: "/ja/reports/2026-11-17-daikin-industries-initiation-35/"
+lang: ja
+---
+
+Air and fluorochemicals at global scale, priced for a margin recovery that has not yet printed: Daikin Industries, Ltd. (6367, TSE Prime) is the Osaka-based air-conditioning group founded in 1924: its Air Conditioning & Refrigeration segment (92.1% of FY3/26 sales) spans residential and commercial air conditioning, applied systems for large buildings and data centres, heat-pump heating, filters and marine refrigeration across six regions, and its Chemicals segment sells fluoropolymers, fluoroelastomers, fine chemicals and fluorocarbon gases into semiconductor and data-centre demand; the non-reportable Other segment (oil hydraulics, defence/special equipment, electronic systems) is 2.2% of sales. The initiation question is whether scale keeps diluting margin or whether the new strategic plan rebuilds it. The record is unambiguous on the problem: sales have compounded from ¥2,043,968mn in FY3/17 to ¥5,015,036mn in FY3/26 (a 10.5% nine-year CAGR, calculated), yet **the operating margin has fallen every year since FY3/19 — 11.1% to 8.3%** — because SG&A grew faster than gross profit and the fastest-growing businesses (Americas applied, data-centre projects) carry structurally lower margins than the Japanese replacement demand they dilute. Management's answer is FUSION30 (announced 12 May 2026, final year FY3/31): operating margin of 10% and ROE of 12% by FY3/29, and above 12% and 15% respectively by FY3/31, with solutions rising from 28% to 40% of air-conditioning sales and Chemicals reaching ¥400,000mn of sales at a 20% margin by FY3/31 — company plan targets, labelled as such. H1 FY3/27 (April–September 2026) printed record first-half sales of ¥2,910,766mn (+17.4% YoY) and operating profit of ¥270,793mn (+9.8%), and full-year guidance was raised on 5 November 2026 to sales of ¥5,440,000mn and operating profit of ¥455,000mn (company guidance). Strengths: (1) disclosure and demand breadth — Daikin is one of the few Japanese industrials whose segment note is itself a full segment × region cross-tab, and H1 growth was broad (Americas ¥1,097,071mn of sales, +23% in the applied/data-centre business per the briefing; Chemicals +25.2% on semiconductor demand); (2) a self-funded balance sheet (owners' equity ratio 55.9% at March 2026) now being actively managed — a ¥349,997mn buyback in May 2026 cut the share count by about 5% and lifted guidance EPS mechanically; (3) Chemicals optionality — a 15.2% H1 margin segment leveraged to semiconductor and data-centre fluoromaterials, with plan targets of a 20% margin by FY3/31. Weaknesses: (1) the margin trend itself — ten years of revenue growth have bought no operating leverage (SG&A ratio 24.5% in FY3/17 to 26.3% in FY3/26, calculated from reported lines), and even the raised FY3/27 guide implies an 8.4% margin, below the H1 print of 9.3%; (2) the guidance shape — **the 5 November raise added ¥290,000mn of revenue but only ¥19,000mn of operating profit**, with tariffs, copper and other raw-material costs cited against H2; (3) the growth engine is also the risk — data-centre-related sales grew to about 1.5× the prior year in H1 (company briefing, via the interview pack) but the absolute amount is not disclosed, and management itself is hedging the exposure (convertible Mexico capacity, leased/phased plant investment). All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and FUSION30 plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and FY3/27E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 2043968 | 2290560 | 2481109 | 2550305 | 2493386 | 3109106 | 3981578 | 4395317 | 4752335 | 5015036 | 5440000 |
+| Revenue growth (%) | — | 12.1 | 8.3 | 2.8 | -2.2 | 24.7 | 28.1 | 10.4 | 8.1 | 5.5 | 8.5 |
+| Operating profit | 230769 | 253739 | 276254 | 265513 | 238623 | 316350 | 377032 | 392137 | 401669 | 414991 | 455000 |
+| Operating margin (%) | 11.3 | 11.1 | 11.1 | 10.4 | 9.6 | 10.2 | 9.5 | 8.9 | 8.5 | 8.3 | 8.4 |
+| Ordinary profit | 231013 | 255019 | 277074 | 269025 | 240248 | 327496 | 366245 | 354492 | 366446 | 408171 | 417000 |
+| Profit before tax | 230609 | 251857 | 275310 | 256180 | 238543 | 328056 | 373384 | 385294 | 376095 | 403628 | — |
+| Net income to owners | 153938 | 189051 | 189048 | 170731 | 156249 | 217709 | 257754 | 260311 | 264757 | 275229 | 280000 |
+| Basic EPS (¥) | 526.8 | 646.5 | 646.4 | 583.6 | 534 | 743.9 | 880.6 | 889.2 | 904.3 | 939.9 | 1006.5 |
+| Dividend per share (¥) | 130 | 140 | 160 | 160 | 160 | 200 | 240 | 250 | 330 | 340 | 370 |
+| ROE (%) | 14.5 | 15.7 | 13.9 | 12 | 10.1 | 12 | 12.3 | 10.7 | 9.7 | 9.1 | — |
+| Operating cash flow | 267663 | 223740 | 250009 | 302166 | 374691 | 245071 | 158896 | 399567 | 514450 | 465848 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive); per-share, ROE and dividend data from each year's own tanshin header. FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 5 Nov 2026 (initial guidance 12 May 2026: sales ¥5,150,000mn, operating profit ¥436,000mn, owners' net income ¥278,000mn, EPS ¥949.32). Profit before tax is not guided and is shown as —. FY3/25 dividend of ¥330 includes a ¥50 centenary commemorative dividend (ordinary course ¥280).*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥6.74tn |
+| 52-week range | ¥17,380 – ¥26,440 |
+| P/E (FY3/26 basic EPS ¥939.92, J-GAAP) | 25.3x |
+| P/E (FY3/27E co. guidance EPS ¥1,006.45) | 23.6x |
+| FY3/27E dividend (company forecast) | ¥370 / share (1.6% yield) |
+| Next event | Q3 FY3/27 results, early Feb 2027 |
+
+## Key points
+- **H1 FY3/27: record sales, margin still falling.** For the six months to 30 September 2026 (J-GAAP), sales were ¥2,910,766mn (+17.4% YoY), **operating profit ¥270,793mn (+9.8%; margin 9.3%, −0.6pt YoY)**, ordinary profit ¥247,188mn (+2.2%) and net income attributable to owners ¥172,959mn (+7.5%); basic EPS was ¥612.34. Sales and operating profit were first-half records (company). The quarterly split shows no fade: Q1 standalone sales ¥1,426,810mn (+17.5%) and operating profit ¥130,560mn (+7.6%), so Q2 standalone (derived as H1 minus Q1, both as reported) contributed sales of ¥1,483,956mn and operating profit of ¥140,233mn (+11.9% YoY). Source: Q2 FY3/27 tanshin, 5 November 2026; Q1 FY3/27 tanshin, 4 August 2026.
+- **Guidance raised once — revenue +¥290bn, operating profit only +¥19bn.** Full-year FY3/27 company guidance (会社計画) was revised on 5 November 2026 to sales ¥5,440,000mn (from an initial ¥5,150,000mn on 12 May 2026; the Q1 release of 4 August 2026 left it unchanged), operating profit ¥455,000mn (from ¥436,000mn), ordinary profit ¥417,000mn (from ¥414,000mn) and owners' net income ¥280,000mn (from ¥278,000mn), with EPS of ¥1,006.45 (from ¥949.32 — the EPS raise is mostly the buyback's share-count effect, not profit). H1 delivered 53.5% of guided sales and 59.5% of guided operating profit, so **the guide implies H2 operating profit of ¥184,207mn (calculated) at a 7.3% margin** — management is explicitly guiding H2 margin down on US tariffs, Middle East logistics and raw-material (copper, naphtha-derived materials) costs, partly offset by price policy, high-value-added mix and cost-down. H2 FX assumptions: USD/JPY 150, EUR/JPY 175. Source: Q2 FY3/27 tanshin revision table, 5 November 2026; guidance tracker, verified 17 November 2026.
+- **Strength — Chemicals is the margin engine this year.** Chemicals earned ¥24,214mn of segment profit in H1 FY3/27 (+77.3% YoY) on sales of ¥158,789mn (+25.2%) — **a 15.2% margin, against Air Conditioning & Refrigeration's 9.1%** (sales ¥2,699,657mn, +17.0%; profit ¥244,364mn, +5.2%). Fluoropolymers and fluoroelastomers rode the semiconductor demand recovery and data-centre-related demand, and fine chemicals grew on semiconductor etchants (company qualitative text). The FUSION30 target — Chemicals sales of ¥400,000mn at a 20% operating margin by FY3/31, with 'essential' semiconductor/data-centre markets at 30% — is a company plan target; the segment printed ¥281,469mn of sales at an 11.8% margin in FY3/26, so the target asks for both scale and a near-doubling of margin. Source: Q2 FY3/27 tanshin segment note, 5 November 2026; interview pack (FUSION30 summary), 16 November 2026.
+- **Weakness — ten years of growth, seven years of margin decline.** **Operating margin has fallen from 11.3% (FY3/17) to 8.3% (FY3/26) while sales rose 2.45×**: gross margin compressed from 35.8% to 34.5% and the SG&A ratio rose from 24.5% to 26.3% (calculated from reported lines via the PL/segment sheet). ROE has slid from 14.5% to 9.1% over the same span even as BPS compounded from ¥3,802.10 to ¥11,097.60. FUSION25, the predecessor plan, closed with exactly this signature — FY3/26 revenue of ¥5,015,036mn beat its ¥4,550,000mn target while the 8.3% operating margin missed the 11% target (interview pack summary of the plan review) — which is why FUSION30 is framed by management itself as a margin-repair plan ('reinforcing earning power' is its stated first priority). Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 briefing transcript, 5 November 2026.
+- **Capital policy has become a live variable: ¥350bn buyback executed.** Under a board resolution of 12 May 2026, Daikin acquired 14,516,700 of its own shares on 13 May 2026 through a Fully Committed Share Repurchase, with small post-adjustment purchases in August–September 2026 taking **the total treasury increase to ¥349,997mn**; treasury shares rose from 272,361 at March 2026 to 14,907,286 at September 2026, and owners' equity fell to ¥2,980,043mn (equity ratio 51.0%) despite record profits. At the Q2 briefing, management stated the ¥700,000mn shareholder-return figure in FUSION30 is not an upper limit and that flexible buybacks — including via asset sales and leverage — will be considered (company-published English transcript). The FY3/27 dividend forecast was also raised, to ¥370 per share (interim ¥185) from ¥360. Source: Q2 FY3/27 tanshin (share-capital-change note; dividend table), 5 November 2026; Q2 FY3/27 briefing transcript (SCRIPTS Asia, company IR library).
+
+## 1. Key indicators and financial history
+
+Daikin reports under Japanese GAAP with a March year-end. The ten-year history in this chapter and in Exhibit 1 is as reported in each year's own annual tanshin, compiled in the PL/segment sheet for 6367 (FY3/22–FY3/26 main block plus 20 quarters, and a supplementary history block for FY3/17–FY3/21 built from those years' own tanshin; all template and history-block internal checks equal zero). Figures are ¥mn unless stated.
+
+The decade splits into three acts. Act one (FY3/17–FY3/19) is the high-margin base: sales of ¥2,043,968mn / ¥2,290,560mn / ¥2,481,109mn and operating profit of ¥230,769mn / ¥253,739mn / ¥276,254mn at margins of 11.3% / 11.1% / 11.1%, with ROE of 14.5% / 15.7% / 13.9%. Act two (FY3/20–FY3/21) is the COVID interruption: sales growth slowed to +2.8% and then turned negative (−2.2% in FY3/21, the only down year of the decade) and operating profit fell to ¥238,623mn (9.6% margin). Act three (FY3/22–FY3/26) is scale without leverage: sales jumped +24.7% in FY3/22 (post-COVID demand, North America strength and yen weakness) and +28.1% in FY3/23 to ¥3,981,578mn, then grew +10.4% / +8.1% / +5.5% to ¥5,015,036mn in FY3/26 — but **operating profit rose only from ¥316,350mn to ¥414,991mn, and the margin fell every single year, 10.2% → 9.5% → 8.9% → 8.5% → 8.3%**. The anatomy is consistent across the five years: gross margin compressed modestly (34.0% in FY3/22 to 34.5% in FY3/26, with a 33.4% trough in FY3/23 on raw-material inflation) while SG&A grew faster than sales in every year — SG&A rose from ¥740,989mn (23.8% of sales) in FY3/22 to ¥1,317,526mn (26.3%) in FY3/26, a 15.5% CAGR against a 13.5% sales CAGR (calculated). Growth was bought with selling capacity, acquisitions and project businesses whose margins sit below the legacy Japanese residential/commercial base.
+
+Below operating profit, the J-GAAP lines are comparatively quiet — Daikin's earnings quality issue is mix, not one-offs. Ordinary profit was ¥327,496mn / ¥366,245mn / ¥354,492mn / ¥366,446mn / ¥408,171mn across FY3/22–26 (the FY3/24 dip reflects ¥67,600mn of non-operating expenses, largely foreign-exchange-related, against ¥29,955mn of non-operating income). Profit before tax was ¥328,056mn / ¥373,384mn / ¥385,294mn / ¥376,095mn / ¥403,628mn; extraordinary items are small in most years (FY3/24 income of ¥46,297mn is the exception in the window). Net income attributable to owners was ¥217,709mn / ¥257,754mn / ¥260,311mn / ¥264,757mn / ¥275,229mn — five consecutive records at the net line even as the operating margin fell, helped by a declining effective tax rate (31.3% in FY3/22 to 29.1% in FY3/26 on the sheet's calculation). Basic EPS as reported rose from ¥743.88 to ¥939.92; the share count was essentially flat (weighted average about 292.8mn) until the May 2026 buyback. ROE (as reported in the tanshin headers) fell from 12.0% (FY3/22) to 9.1% (FY3/26) — the arithmetic consequence of equity compounding at roughly the rate of profit growth: owners' equity rose from ¥1,111,636mn (FY3/17) to ¥3,249,840mn (FY3/26) and BPS from ¥3,802.10 to ¥11,097.60.
+
+Cash generation remained strong throughout: operating cash flow was ¥245,071mn / ¥158,896mn / ¥399,567mn / ¥514,450mn / ¥465,848mn across FY3/22–26 (the FY3/23 dip is a working-capital absorption year — receivables rose ¥111,239mn and inventory ¥321,922mn on the sheet's stock lines). Capex on the cash-flow definition (tangible fixed-asset acquisitions) was ¥114,106mn / ¥175,076mn / ¥242,633mn / ¥245,985mn / ¥209,081mn, and depreciation rose from ¥115,378mn to ¥224,835mn, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥639,826mn in FY3/26. The balance sheet at 31 March 2026: total assets ¥5,809,240mn, net assets ¥3,316,538mn, owners' equity ¥3,249,840mn (ratio 55.9%), cash and equivalents ¥706,523mn against interest-bearing debt of ¥854,769mn on the corrected post-audit basis (see Basis of preparation — the sheet's original debt row omitted bonds due within one year). Exhibit 1 (page 1) gives the full ten-year KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26.
+
+**Figure: Daikin Industries, Ltd. — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 2043968 |
+
+| FY3/18 | 2290560 |
+
+| FY3/19 | 2481109 |
+
+| FY3/20 | 2550305 |
+
+| FY3/21 | 2493386 |
+
+| FY3/22 | 3109106 |
+
+| FY3/23 | 3981578 |
+
+| FY3/24 | 4395317 |
+
+| FY3/25 | 4752335 |
+
+| FY3/26 | 5015036 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Daikin Industries, Ltd. — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 230769 |
+
+| FY3/18 | 253739 |
+
+| FY3/19 | 276254 |
+
+| FY3/20 | 265513 |
+
+| FY3/21 | 238623 |
+
+| FY3/22 | 316350 |
+
+| FY3/23 | 377032 |
+
+| FY3/24 | 392137 |
+
+| FY3/25 | 401669 |
+
+| FY3/26 | 414991 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Daikin Industries, Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 11.3 |
+
+| FY3/18 | 11.1 |
+
+| FY3/19 | 11.1 |
+
+| FY3/20 | 10.4 |
+
+| FY3/21 | 9.6 |
+
+| FY3/22 | 10.2 |
+
+| FY3/23 | 9.5 |
+
+| FY3/24 | 8.9 |
+
+| FY3/25 | 8.5 |
+
+| FY3/26 | 8.3 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Daikin Industries, Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — Q2 FY3/27 results and guidance (FUSION30 year one)
+
+Daikin reported Q2 FY3/27 (H1, 1 April–30 September 2026) results on 5 November 2026, with a same-day earnings briefing by President and COO Naofumi Takenaka and CFO Koichi Takahashi for which the company publishes a full English transcript including Q&A — an unusually complete disclosure package, and the source of the data-centre and capital-policy colour in this chapter. FY3/27 is the first year of the strategic management plan FUSION30 (announced 12 May 2026); the plan is covered in Chapter 7. This chapter summarises the release; segment and cross-tab detail is in Chapter 5.
+
+## H1 FY3/27 results (cumulative, as reported, J-GAAP)
+
+Sales were ¥2,910,766mn (+17.4% YoY), gross profit ¥995,936mn (gross margin 34.2%), operating profit ¥270,793mn (+9.8%; margin 9.3%, −0.6pt YoY), ordinary profit ¥247,188mn (+2.2%), interim net income (total) of ¥178,474mn and net income attributable to owners of ¥172,959mn (+7.5%); basic EPS was ¥612.34 and diluted EPS ¥611.84. The company states sales and operating profit were first-half records. Two features deserve emphasis. First, the growth is substantially real, not only translational: the interview pack puts ex-FX sales growth at about +9% (briefing materials), with Europe heat-wave demand, Americas applied/data-centre growth and Chemicals' semiconductor recovery doing the volume work. Second, **the margin fell despite the volume — the recurring Daikin pattern** — as US tariffs, Middle East-related logistics costs and raw-material inflation (copper, naphtha-derived inputs) outran price increases and cost-down in the half; management states the H1 measures' effects are harvested in H2 (briefing transcript).
+
+By segment (external sales / segment profit): Air Conditioning & Refrigeration ¥2,699,657mn / ¥244,364mn (+17.0% / +5.2%; margin 9.1% vs 10.1% a year earlier); Chemicals ¥158,789mn / ¥24,214mn (+25.2% / +77.3%; margin 15.2%); Other ¥52,319mn / ¥2,212mn (+15.8% / +251.3%). The regional cross-tab (Chapter 5) shows the Americas at ¥1,097,071mn — 37.7% of H1 sales — with the applied business (chillers and custom air handlers for data centres, plus the acquired Alliance Air contribution) the growth centre, while China totalled ¥291,744mn (10.0%) on property-market weakness offset by sales measures and FX. President Takenaka's briefing added the data-centre colour the market trades on: data-centre-related sales grew to about 1.5× the prior year in H1, chiller-led, with three-quarters of the FY3/27-shipment data-centre backlog already under construction (interview pack summary of the briefing). The absolute data-centre revenue is not disclosed — a gap flagged in Chapter 9 and the interview pack's first question.
+
+The balance sheet at 30 September 2026: total assets ¥5,841,527mn, net assets ¥3,045,317mn, owners' equity ¥2,980,043mn, owners' equity ratio 51.0% (from 55.9% at March 2026 — the buyback, not losses). H1 operating cash flow was ¥341,019mn (prior-year H1: ¥243,417mn as reported in the Q2 tanshin cash-flow statement narrative — the tanshin text states a ¥97,602mn YoY increase), investing outflow ¥183,761mn and financing outflow ¥196,212mn (including the ¥349,997mn treasury purchase), leaving cash and equivalents down ¥44,283mn in the half. The interest-bearing debt ratio rose from 18.8% at March 2026 to 22.8% (company qualitative text — commercial paper issuance funded part of the buyback). The interim dividend is ¥185 per share. On 11 November 2026, after the print, US subsidiary Daikin Applied Americas announced the 'D60-W' 60MW cooling reference architecture aligned to NVIDIA's DSX AI Factory platform — 92% liquid-cooled by design, but with Daikin's own CDU and dry coolers still in development toward H2 2027 availability (company release, via the interview pack): the announcement extends the data-centre narrative from chillers toward the liquid-cooling system, and its delivery timetable is a monitoring item. Source: Q2 FY3/27 tanshin, 5 November 2026; Q2 FY3/27 briefing transcript (company IR library, SCRIPTS Asia), 5 November 2026; interview pack, 16 November 2026.
+
+## Guidance: raised on 5 November 2026 — sales ¥5,440,000mn, operating profit ¥455,000mn (company guidance)
+
+Full-year FY3/27 guidance, as revised in the Q2 release of 5 November 2026, is sales ¥5,440,000mn, operating profit ¥455,000mn, ordinary profit ¥417,000mn and net income attributable to owners ¥280,000mn with basic EPS of ¥1,006.45 — company guidance (会社計画), J-GAAP, not a J-Core Fundamental Research forecast. The full revision chain, verified across the tanshin forecast tables and the guidance tracker: initial guidance on 12 May 2026 (with the FY3/26 results) was sales ¥5,150,000mn, operating profit ¥436,000mn, ordinary profit ¥414,000mn, owners' net income ¥278,000mn and EPS ¥949.32; the Q1 release of 4 August 2026 left the full-year guide unchanged; the Q2 revision of 5 November 2026 raised sales by ¥290,000mn (+5.6%) and operating profit by ¥19,000mn (+4.4%), ordinary profit by ¥3,000mn and owners' net income by ¥2,000mn. The company's stated reason (revision notice, summarised in the guidance tracker): cost increases from the prolonged Middle East situation, US tariff measures and raw-material markets are expected to exceed the original assumptions, but the core air-conditioning business is tracking above plan on high-value-added product expansion, price policy and global total cost-down. H2 assumed FX rates are USD/JPY 150 and EUR/JPY 175.
+
+Three readings of the raise matter more than the headline. (1) Mix of the raise: **¥290,000mn of revenue bought ¥19,000mn of operating profit — a 6.6% incremental margin** — because the revenue beat is concentrated in lower-margin applied/project and overseas residential volume while the cost headwinds land in H2. (2) Shape against H1: with H1 operating profit at ¥270,793mn (59.5% of the guide), the implied H2 operating profit is ¥184,207mn (calculated) at a 7.3% margin on implied H2 sales of ¥2,529,234mn — management is guiding a steep H2 margin step-down even as it promises the H1 measures will be 'thoroughly harvested' in H2; the interview pack's live debate is whether this is prudence (a set-up for a second raise) or cost reality. (3) EPS optics: guided EPS rose ¥57.13 (+6.0%) while guided owners' profit rose only ¥2,000mn (+0.7%) — the difference is the buyback's reduction of the average share count (H1 average 282,456,798 shares vs 292,811,724 a year earlier), a capital-policy effect that should not be read as operating momentum. Segment guidance is not disclosed in the tanshin (the company guides the consolidated lines only); Exhibit 3 therefore shows segment guidance as not disclosed rather than allocating the consolidated guide. The dividend forecast was revised at the same time, to ¥370 per share for the year (interim ¥185 decided) from ¥360. Source: Q2 FY3/27 tanshin (forecast-revision table), 5 November 2026; Q1 FY3/27 tanshin, 4 August 2026; FY3/26 tanshin forecast section, 12 May 2026; guidance tracker 2026-11-17 (verified).
+
+**Exhibit 3. H1 FY3/27 segment results, regional sales (cross-tab) and FY3/27 company guidance**
+
+| ¥mn | H1 FY3/27 sales | H1 FY3/27 profit | FY3/27E sales (guidance) | FY3/27E profit (guidance) |
+|---|---|---|---|---|
+| Air Conditioning & Refrigeration | 2699657 | 244364 | — | — |
+| Chemicals | 158789 | 24214 | — | — |
+| Other | 52319 | 2212 | — | — |
+| Consolidated | 2910766 | 270793 | 5440000 | 455000 |
+| Memo: Japan (all segments) | 457004 | — | — | — |
+| Memo: USA (all segments) | 1097071 | — | — | — |
+| Memo: Europe (all segments) | 473340 | — | — | — |
+| Memo: Asia-Oceania (all segments) | 403416 | — | — | — |
+| Memo: China (all segments) | 291744 | — | — | — |
+| Memo: Other regions (all segments) | 188187 | — | — | — |
+
+*Source: H1 FY3/27: Q2 FY3/27 tanshin segment × region cross-tab note, 5 Nov 2026 (external sales basis). Regional profit is not disclosed. FY3/27 guidance: Q2 FY3/27 tanshin forecast section, 5 Nov 2026 (company guidance, consolidated lines only) — segment-level guidance is not disclosed by the company and is shown as — rather than allocated.*
+
+## 3. Business description
+
+Daikin organises itself into two reportable segments — Air Conditioning & Refrigeration and Chemicals — plus a non-reportable Other category (oil hydraulics, defence/special equipment, electronic systems). Unusually, the segment note in every tanshin is itself a segment × region matrix: rows are the six customer-location regions (Japan / USA / Europe / Asia-Oceania / China / other) and columns are the segments, so both dimensions are disclosed on one basis in every period (Chapter 5). Segment profit is operating-profit basis. In FY3/26 the mix was Air Conditioning & Refrigeration 92.1% of sales and 90.8% of segment profit, Chemicals 5.6% of sales and 8.0% of segment profit, and Other 2.2% / 1.2% (calculated from the segment note). The segment definitions below are the company's own (Q2 FY3/27 tanshin, segment note).
+
+## Air Conditioning & Refrigeration: the global HVAC platform
+
+The segment sells air conditioning and refrigeration as one integrated platform: residential room air conditioners (the Urusara series in Japan), commercial systems (VRV multi-split systems — the VRV 7 with low-GWP R32 refrigerant and the VRV Q replacement series were the H1 FY3/27 flagships in Japan — and SkyAir/FIVE STAR ZEAS light-commercial lines), applied systems for large buildings and factories (chillers, including the Magnitude magnetic-bearing line, and custom air-handling units, sold in the Americas through Daikin Applied), heat-pump hot-water heating (a European growth business as gas prices and EU electrification policy favour heat pumps), air filters (including data-centre and semiconductor cleanroom demand), and marine container refrigeration. The business model layers three profit pools: equipment (cyclical, price/mix-driven), the service and 'solutions' layer (maintenance, energy management, retrofits — 28% of air-conditioning sales at the FUSION30 base year, targeted to 40% by FY3/31), and the installed-base annuity that connects them. The financial profile is scale with thin and falling margin: sales of ¥1,835,376mn / ¥2,052,884mn / ¥2,222,172mn / ¥2,309,116mn / ¥2,273,821mn in FY3/17–21 and ¥2,828,499mn / ¥3,629,766mn / ¥4,028,823mn / ¥4,384,548mn / ¥4,621,131mn in FY3/22–26, with segment profit of ¥208,749mn rising only to ¥376,991mn — margins of 11.4% in FY3/17 and 8.2% in FY3/26. The H1 FY3/27 debate inside the segment is geographic: Japan (heat-wave and pre-regulation replacement demand; management itself expects a pullback after roughly 3mn extra units of H1 residential demand, per the briefing Q&A), the Americas (residential unitary weak on mortgage rates and tariff-driven inflation; applied strong on data centres; the FUSION30 target is a 13% North America air-conditioning operating margin by FY3/29, company plan target), and Europe (heat-pump heating and heat-wave residential demand strong; mid-to-high-end multi systems the contested ground). Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin qualitative section and segment note; Q2 FY3/27 briefing transcript, 5 November 2026.
+
+## Chemicals: fluoromaterials leveraged to semiconductors and data centres
+
+Chemicals is the fluorochemistry business built on Daikin's refrigerant heritage: fluoropolymers (PTFE and melt-processable resins for semiconductor manufacturing equipment, wire coating and industrial uses), fluoroelastomers (semiconductor and automotive sealing), fine chemicals (semiconductor etchants and surface-modification agents), fluorocarbon gases (refrigerants) and water/oil-repellent and coating products. The demand centre has shifted from automotive and general industry toward semiconductor fabs and data centres — fluoropolymer demand for data-centre cabling (FEP) is specifically cited in the interview pack — which is why the segment now carries the group's growth-and-margin option: sales of ¥156,754mn / ¥183,147mn / ¥200,790mn / ¥179,883mn / ¥164,165mn in FY3/17–21 (the FY3/20–21 dip is the China/automotive downturn) and ¥212,424mn / ¥263,416mn / ¥263,895mn / ¥263,028mn / ¥281,469mn in FY3/22–26, with segment profit of ¥18,302mn / ¥25,510mn / ¥32,533mn / ¥23,770mn / ¥11,371mn and ¥27,301mn / ¥45,411mn / ¥51,470mn / ¥46,119mn / ¥33,089mn — **margins swinging between 6.9% (FY3/21) and 19.5% (FY3/24) on the semiconductor cycle, at 11.8% in FY3/26 and 15.2% in H1 FY3/27**. The segment also carries the group's clearest regulatory tail: PFAS-related compliance and the European fluoropolymer debate sit directly on its core chemistry, and the interview pack's question set asks management to price PFAS capex/compliance into the FY3/31 target of ¥400,000mn of sales at a 20% margin (company plan target). No answer quantifying that cost is in the sources used here. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin qualitative section; interview pack, 16 November 2026.
+
+## Other (oil hydraulics, defence, electronics systems) and the technology frame
+
+Other is a portfolio of small industrial businesses that do not meet the reportable-segment thresholds: oil hydraulics (hydraulic units and components for machine tools and construction vehicles), defence/special equipment (including oxygen concentrators and defence-ministry orders — the driver of its H1 FY3/27 profit jump to ¥2,212mn, +251.3% YoY), and electronic systems (the SpaceFinder and Smart Innovator design/development database systems). Sales were ¥51,837mn / ¥54,529mn / ¥58,145mn / ¥61,304mn / ¥55,399mn in FY3/17–21 and ¥68,182mn / ¥88,395mn / ¥102,598mn / ¥104,757mn / ¥112,435mn in FY3/22–26, with segment profit of ¥3,749mn–¥7,335mn and margins of 4–7% — subscale and low-return, and therefore part of FUSION30's stated 'shore up low-profit businesses' agenda, under which more than a dozen businesses carry performance targets and management has said conclusions on rebuilding, withdrawal or sale will be reached earlier than the plan's three-year framing (briefing transcript).
+
+The technology frame uniting the group is environmental technology applied to air: Daikin is the only major HVAC maker that also produces its own refrigerants and fluoromaterials, which makes the refrigerant transition (to low-GWP R32 and next-generation refrigerants) an internal value-chain question rather than a pure compliance cost, and its inverter and heat-pump technology base is the product of the same compression/thermal engineering. The current strategic expression is 'solutions': shifting the air-conditioning mix from equipment toward services, energy management and system proposals (28% of air-conditioning sales at the FUSION30 base, targeted at 34% by FY3/29 and 40% by FY3/31 — company plan targets), and, in cooling for AI infrastructure, from chillers toward integrated liquid-cooling systems (the D60-W reference architecture, Chapter 2). Production and capacity data (sites, utilisation, unit volumes) are not disclosed in the tanshin and are not quantified in this report. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note and qualitative section; Q2 FY3/27 briefing transcript, 5 November 2026.
+
+## 4. Market and value chain
+
+Daikin sits at the equipment-and-materials layer of three value chains. In air conditioning, it manufactures compressors, heat exchangers, refrigerant and finished systems in-house to an unusual degree, sells through a mix of direct sales offices (Japan, China — including its distinctive user-direct retail and online/live-commerce model in China), independent distributors (the Americas COD channel) and project channels (applied systems), and earns the aftermarket on its own installed base. Demand is derived from construction, replacement cycles (roughly 10–15 years for residential units), weather, energy prices and regulation (efficiency standards, refrigerant GWP rules, electrification policy) — plus, this cycle, data-centre construction. Competition is global and segmented: Carrier, Trane and Johnson Controls in applied/commercial; Lennox and the US residential majors in North America; Gree and Midea on price and scale in China and residential globally; Mitsubishi Electric, Hitachi/JCI-Hitachi and Panasonic domestically; and, in data-centre cooling specifically, Vertiv and Schneider Electric at the system layer — the layer Daikin's D60-W announcement is reaching for while its own CDU and dry coolers remain in development (Chapter 2). ==Entry barriers are the installed base and service network, refrigerant and compressor technology, brand trust in a safety-relevant product, and distribution depth==; the substitute risk is commoditisation at the low end (where Daikin has explicitly chosen not to chase share — briefing Q&A on China) and, in data centres, a shift of value from plant-side chillers to rack-side liquid cooling.
+
+In fluorochemicals, Daikin competes with Chemours, 3M's fluoroproducts heritage businesses, AGC and Chinese fluoropolymer capacity, with semiconductor-grade purity and supply assurance as the moat and PFAS regulation as the industry-wide overhang. No company-disclosed market-size or share figure for Daikin's categories is carried in the sources used here, and none is substituted: the verifiable demand evidence is Daikin's own reported cross-tab growth (Chapter 5), the briefing's data-centre colour (sales about 1.5× YoY in H1 FY3/27, absolute amount not disclosed), and the segment prints. The two sensitivities that follow for the equity: first, the Americas are now 35.6% of sales (FY3/26) and the tariff/FX transmission into margin is the single largest swing factor in the guide; second, demand concentration — the growth is led by AI-infrastructure capex whose order visibility Daikin discloses only qualitatively (three-quarters of FY3/27-shipment data-centre backlog under construction at H1), so the earliest observable of a pause is again the quarterly cross-tab itself. Sources: Q2 FY3/27 tanshin; Q2 FY3/27 briefing transcript, 5 November 2026; interview pack, 16 November 2026; PL/segment sheet (tanshin, JPX archive).
+
+**Figure: Daikin in the air-conditioning & fluorochemicals value chain**
+
+**Components & Refrigerants**
+
+- Compressors — largely in-house
+- Heat exchangers, fans
+- Refrigerants & fluoropolymers (in-house chemistry)
+- Copper, aluminium, steel
+
+**Daikin Industries (6367)**
+
+- Air Conditioning & Refrigeration — residential, VRV commercial, applied/data-centre (92.1% of FY3/26 sales)
+- Chemicals — fluoropolymers, fluoroelastomers, fine chemicals, refrigerant gases
+- Solutions & service — 28% of AC sales, targeted to 40% by FY3/31
+- Other — oil hydraulics, defence equipment
+
+**Channels**
+
+- Direct sales offices — Japan, China (incl. user-direct retail)
+- Independent distributors — Americas COD channel
+- Project channels — applied systems, data centres
+
+**End Users & Applications**
+
+- Residential & commercial buildings
+- Data centres — applied cooling
+- Semiconductor fabs — fluoromaterials & cleanroom filters
+- Marine container refrigeration
+
+**Aftermarket & Solutions**
+
+- Maintenance & energy management
+- Retrofits & replacement demand (10–15yr cycles)
+- Installed-base annuity
+
+*Source: Value chain drawn from §3–§4 of this report (no FIELDNOTES Daikin sector report exists).*
+
+## 5. Segments and regions
+
+Daikin's disclosure is the programme's strongest: the tanshin segment note is a single segment × region cross-tab in every period from FY3/22, so segment totals, regional totals and every segment-by-region cell are all reported on one basis. For FY3/17–FY3/21 the tanshin carries the classic three-segment table and a separate six-region related-information table, but no cross-tab — the cross-tab is therefore not disclosed (ND) for the deepened years and is not reconstructed here. This chapter keeps the two disclosure layers separate and labelled. Regional profit is not disclosed on any basis (the note gives profit by segment only).
+
+**Figure: Daikin Industries, Ltd. — segment revenue, FY3/26**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Air Conditioning & Refrigeration — sales | 4621131 |
+
+| Chemicals — sales | 281469 |
+
+| Other — sales | 112435 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Daikin Industries, Ltd. — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Daikin Industries, Ltd. — segment revenue mix, FY3/26**
+
+**Air Conditioning & Refrigeration**
+
+- ¥4,621,131mn
+- 92.1% of revenue
+
+**Chemicals**
+
+- ¥281,469mn
+- 5.6% of revenue
+
+**Other**
+
+- ¥112,435mn
+- 2.2% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## Business segments: air conditioning is the P&L; chemicals is the swing
+
+Exhibit 2 gives the ten-year history. Three facts organise it. First, profit concentration with a narrowing cushion: in FY3/26 the two reportable segments plus Other earned ¥415,005mn of segment profit before a −¥14mn adjustment to consolidated operating profit of ¥414,991mn — Air Conditioning & Refrigeration ¥376,991mn (90.8%), Chemicals ¥33,089mn and Other ¥4,925mn. **There is effectively no corporate-cost buffer in Daikin's segment presentation: segment profit is the consolidated result, so segment margin is group margin**. Second, the two segments are moving in opposite directions: AC&R profit has grown only 1.81× over nine years on 2.52× the sales (margin 11.4% → 8.2%), while Chemicals profit at its FY3/24 peak (¥51,470mn, a 19.5% margin) exceeded its FY3/26 print by 56% — the segment's semiconductor cyclicality cuts both ways, and its H1 FY3/27 recovery (+77.3%) is doing disproportionate work in the group print. Third, the guide's credibility is therefore an AC&R question: FUSION30's North America margin target (13% by FY3/29, company plan target) and the solutions mix shift (28% → 40% of AC sales by FY3/31) both live inside the segment whose margin fell 1.0pt in H1 FY3/27 to 9.1%. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note.
+
+**Exhibit 2. Business segments — external sales and segment profit (operating-profit basis)**
+
+| ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Air Conditioning & Refrigeration — sales | 1835376 | 2052884 | 2222172 | 2309116 | 2273821 | 2828499 | 3629766 | 4028823 | 4384548 | 4621131 |
+| Air Conditioning & Refrigeration — profit | 208749 | 223463 | 237645 | 236184 | 223110 | 282404 | 324452 | 333303 | 350987 | 376991 |
+| Chemicals — sales | 156754 | 183147 | 200790 | 179883 | 164165 | 212424 | 263416 | 263895 | 263028 | 281469 |
+| Chemicals — profit | 18302 | 25510 | 32533 | 23770 | 11371 | 27301 | 45411 | 51470 | 46119 | 33089 |
+| Other — sales | 51837 | 54529 | 58145 | 61304 | 55399 | 68182 | 88395 | 102598 | 104757 | 112435 |
+| Other — profit | 3749 | 4756 | 6065 | 5548 | 4132 | 6647 | 7182 | 7335 | 4543 | 4925 |
+| Consolidated operating profit | 230769 | 253739 | 276254 | 265513 | 238623 | 316350 | 377032 | 392137 | 401669 | 414991 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive), segment note, as reported in each year's own tanshin. FY3/17–FY3/21 from the classic three-segment table (history block); FY3/22–FY3/26 from the segment × region cross-tab note. 'Other' = oil hydraulics, defence/special equipment, electronic systems (non-reportable). Segment profit sums to consolidated operating profit after a small adjustment (¥−31mn to +¥29mn across the decade).*
+
+## Regions and the cross-tab: the Americas are the growth, Japan the profit ballast
+
+Regional sales (six as-disclosed regions, customer location) for FY3/26, from the cross-tab totals: Japan ¥809,636mn (16.1% of sales), USA ¥1,786,513mn (35.6%), Europe ¥857,796mn (17.1%), Asia-Oceania ¥711,228mn (14.2%), China ¥471,917mn (9.4%) and other regions ¥377,943mn (7.5%) (components sum to ¥5,015,033mn, ¥3mn below reported sales — source rounding in the tanshin table). The five-year drift is a changing of the guard: in FY3/22 Japan was ¥638,447mn (20.5%) and the USA ¥840,455mn (27.0%); **by FY3/26 the USA had more than doubled (+112.6% over four years) while Japan grew 26.8% and China actually shrank**, from ¥478,121mn to ¥471,917mn, despite the group's China direct-sales model. Asia-Oceania & other combined (the sheet's five-region presentation) rose from ¥598,865mn to ¥1,089,171mn. On the longer related-information basis, FY3/17 sales were Japan ¥518,453mn, United States ¥503,489mn, Europe ¥274,054mn, China ¥329,247mn, Asia & Oceania ¥303,416mn and other ¥115,307mn — the US has gone from a quarter of sales to more than a third in a decade.
+
+The FY3/26 cross-tab cells show where each segment's geography sits. Air Conditioning & Refrigeration: Japan ¥675,759mn, USA ¥1,720,110mn, Europe ¥784,207mn, Asia-Oceania ¥663,086mn, China ¥403,527mn, other ¥374,439mn — the segment is a US business first (37.2% of its sales) with Japan at 14.6%. Chemicals is the mirror image of the group's China exposure: China is its largest single region at ¥66,101mn (23.5% of segment sales), ahead of Japan ¥63,162mn, Europe ¥54,991mn, the USA ¥51,406mn and Asia-Oceania ¥43,839mn, with only ¥1,968mn in other regions — a concentration that cuts both ways in a semiconductor upcycle centred on Asian fabs. Other is a Japan business (¥70,714mn of ¥112,435mn, 62.9%). In H1 FY3/27 the cross-tab (Exhibit 3 discussion in Chapter 2) showed the same structure intensifying: the USA reached ¥1,097,071mn (37.7% of H1 sales) while Japan fell to 15.7% of the mix. Regional profit is not disclosed; segment assets are disclosed by segment only (FY3/26: AC&R ¥4,906,501mn, Chemicals ¥625,121mn, Other ¥116,507mn, corporate/eliminations ¥161,110mn against total assets of ¥5,809,240mn — tanshin segment note), which puts Chemicals' FY3/26 segment return on assets at about 5.3% and AC&R's at about 7.7% (calculated) — both below the levels the FUSION30 ROE targets require, and a useful check on the plan's arithmetic. Source: FY3/26 tanshin segment note, 12 May 2026; company results via PL/segment sheet (tanshin, JPX archive), register S3/S11.
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment sheet (tanshin, JPX archive). Income statement: sales ¥2,043,968mn / ¥2,290,560mn / ¥2,481,109mn / ¥2,550,305mn / ¥2,493,386mn for FY3/17–21 and ¥3,109,106mn / ¥3,981,578mn / ¥4,395,317mn / ¥4,752,335mn / ¥5,015,036mn for FY3/22–26; cost of sales (FY3/22–26) ¥2,051,767mn / ¥2,650,102mn / ¥2,885,644mn / ¥3,125,646mn / ¥3,282,519mn; gross profit ¥1,057,339mn / ¥1,331,476mn / ¥1,509,673mn / ¥1,626,689mn / ¥1,732,517mn (margins 34.0% / 33.4% / 34.3% / 34.2% / 34.5%); SG&A ¥740,989mn / ¥954,444mn / ¥1,117,536mn / ¥1,225,020mn / ¥1,317,526mn; operating profit ¥316,350mn / ¥377,032mn / ¥392,137mn / ¥401,669mn / ¥414,991mn. Below operating profit (FY3/22–26): non-operating income ¥23,363mn / ¥29,061mn / ¥29,955mn / ¥34,010mn / ¥46,816mn; non-operating expenses ¥12,217mn / ¥39,848mn / ¥67,600mn / ¥69,233mn / ¥53,636mn; ordinary profit ¥327,496mn / ¥366,245mn / ¥354,492mn / ¥366,446mn / ¥408,171mn; extraordinary income ¥6,306mn / ¥17,500mn / ¥46,297mn / ¥16,428mn / ¥15,712mn and losses ¥5,746mn / ¥10,361mn / ¥15,495mn / ¥6,779mn / ¥20,255mn; profit before tax ¥328,056mn / ¥373,384mn / ¥385,294mn / ¥376,095mn / ¥403,628mn; income taxes ¥102,787mn / ¥107,941mn / ¥115,459mn / ¥100,647mn / ¥117,282mn; net income (total) ¥225,269mn / ¥265,443mn / ¥269,835mn / ¥275,448mn / ¥286,346mn; non-controlling interests ¥7,560mn / ¥7,689mn / ¥9,524mn / ¥10,691mn / ¥11,117mn; owners' net income ¥217,709mn / ¥257,754mn / ¥260,311mn / ¥264,757mn / ¥275,229mn.
+
+Balance sheet (31 March 2026, J-GAAP, tanshin headers and statements): total assets ¥5,809,240mn; net assets ¥3,316,538mn, of which owners' equity ¥3,249,840mn (ratio 55.9%; book value per share ¥11,097.60). Cash and equivalents ¥706,523mn; receivables (notes, accounts receivable and contract assets, single BS line) ¥1,011,104mn; inventory ¥1,137,901mn (about 4.1 months of cost of sales on the sheet's calculation — inventory has roughly doubled since FY3/22's ¥671,461mn, faster than sales); trade payables ¥419,985mn; interest-bearing debt ¥854,769mn on the corrected basis (borrowings and bonds including current portions; see Basis of preparation for the sheet's original omission). At 30 September 2026, after the buyback: total assets ¥5,841,527mn, net assets ¥3,045,317mn, owners' equity ¥2,980,043mn (ratio 51.0%). Cash flow (FY3/22–26): operating cash flow ¥245,071mn / ¥158,896mn / ¥399,567mn / ¥514,450mn / ¥465,848mn; FY3/26 investing outflow was ¥322,239mn and financing outflow ¥156,378mn (tanshin cash-flow statement). Depreciation and amortisation was ¥115,378mn / ¥142,728mn / ¥169,979mn / ¥197,443mn / ¥224,835mn (sheet basis; the FY3/26 tanshin segment note prints ¥224,823mn — see Basis of preparation), giving an EBITDA proxy (operating profit + D&A, calculated) of ¥431,728mn / ¥519,760mn / ¥562,116mn / ¥599,112mn / ¥639,826mn. Capex was ¥114,106mn / ¥175,076mn / ¥242,633mn / ¥245,985mn / ¥209,081mn on the cash-flow tangible-asset definition; the segment note's tangible-plus-intangible additions for FY3/26 are ¥300,030mn — the two definitions are not interchangeable (Basis of preparation).
+
+Per-share data (basic, as reported in the tanshin headers; diluted EPS runs ¥0.4–0.8 below basic): EPS ¥526.81 / ¥646.53 / ¥646.39 / ¥583.61 / ¥533.97 (FY3/17–21) and ¥743.88 / ¥880.59 / ¥889.22 / ¥904.27 / ¥939.92 (FY3/22–26); dividends per share ¥130 / ¥140 / ¥160 / ¥160 / ¥160 and ¥200 / ¥240 / ¥250 / ¥330 / ¥340 — the FY3/25 dividend includes a ¥50 centenary commemorative dividend inside the ¥185 interim payment (tanshin note), so the ordinary-course FY3/25 dividend is ¥280; payout ratios as reported were 24.7% / 21.7% / 24.8% / 27.4% / 30.0% and 26.9% / 27.3% / 28.1% / 36.5% / 36.2%. Shares issued: 293,113,973, unchanged through September 2026; treasury shares 272,361 at March 2026 and 14,907,286 at September 2026 after the buyback; capital ¥85,032mn. Not disclosed in the tanshin and therefore not presented here: order intake and backlog, R&D expenditure, employees, unit volumes, capacity and utilisation. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 12 May 2026; Q2 FY3/27 tanshin, 5 November 2026.
+
+## 7. Strategy and mid-term plan — FUSION30 and the earning-power repair
+
+Daikin's strategic plans run under the FUSION banner in five-year cycles. The predecessor, FUSION25, closed in FY3/26 with the split verdict that frames this initiation: **revenue of ¥5,015,036mn beat the plan's ¥4,550,000mn target, but the operating margin printed 8.3% against an 11% target** (interview pack summary of the plan review) — the plan delivered the top line and missed the profit structure. FUSION30 (announced 12 May 2026, covering FY3/27–FY3/31, with the stated aim of becoming a 'highly profitable sustainable company chosen globally, providing new value in environment and air') makes the repair explicit: its stated first priority is 'reinforcing earning power', pursued through six group themes in year one — price policy and differentiated-product launches; variable-cost reduction; global service/solutions profit expansion; fixed-cost structure visualisation and overhaul (lowering the SG&A-to-sales ratio); maximising returns on acquired companies; and group-wide deployment of best practices (Q2 FY3/27 tanshin qualitative section).
+
+Published numerical targets (company plan targets, as summarised in the interview pack from the FUSION30 announcement and confirmed in direction by the Q2 briefing): by FY3/29, an operating margin of 10%, ROE of 12% and revenue CAGR of 6%; by FY3/31, an operating margin above 12% and ROE above 15%. Supporting segment targets: solutions to rise from 28% of air-conditioning sales to 34% (FY3/29) and 40% (FY3/31); North America air-conditioning operating margin of 13% by FY3/29 (briefing transcript — management intends a one-point improvement in FY3/27 itself); Chemicals to reach ¥400,000mn of sales at a 20% operating margin by FY3/31, with essential (semiconductor/data-centre) markets targeted at a 30% margin; and, on low-profit businesses, performance targets set for more than a dozen businesses with conclusions — including withdrawal or sale — to be reached earlier than the plan's three-year framing (briefing transcript). On capital policy, FUSION30's basic stance is growth investment first with shareholder returns set by cash levels; the plan's ¥700,000mn return figure was stated at the Q2 briefing not to be an upper limit, with flexible buybacks (including asset sales and leverage) under consideration — and the first ¥349,997mn was executed in May 2026, in the plan's first month. The FY3/27 dividend forecast of ¥370 (+¥30 YoY) follows the stated policy of continuous dividend increases with an eye on the payout ratio (briefing transcript).
+
+The monitoring set, in the order the data arrives: quarterly AC&R segment margin against the 9.1% H1 print and the North America one-point-improvement marker; the H2 FY3/27 outcome against the implied ¥184,207mn of operating profit (calculated) — a beat reopens the 'conservative guide' debate, a miss confirms the cost story; any first disclosure of data-centre revenue in yen (today only a growth rate, about 1.5×, is given) and the D60-W component timetable (own CDU/dry cooler targeted for H2 2027 availability); Chemicals margin against the path to 20%; the SG&A ratio against FUSION30's fixed-cost theme (26.3% in FY3/26); and dated conclusions on the low-profit business portfolio. The interview pack's yardsticks for Q3 FY3/27 (expected February 2027) are the AC&R margin, the data-centre growth rate and any backlog disclosure, and cumulative progress against the ¥455,000mn guide. All plan figures above are company targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: Q2 FY3/27 tanshin qualitative section, 5 November 2026; Q2 FY3/27 briefing transcript, 5 November 2026; interview pack (FUSION30 announcement summary), 16 November 2026.
+
+## 8. Other information
+
+History. Daikin traces to its founding in Osaka in 1924 (the FY3/25 interim dividend carried a ¥50-per-share centenary commemorative dividend, tanshin note) and built its position as a specialist in air conditioning and fluorochemistry — the combination of HVAC equipment and in-house refrigerant/fluoromaterials production remains its structural distinction. Head office: Osaka (Umeda, Kita-ku). Capital: ¥85,032mn (FY3/26 tanshin equity statement). The company is listed on the Tokyo Stock Exchange Prime Market.
+
+Management. Representative Director, President and COO: Naofumi Takenaka — named in that role in the Q2 FY3/27 tanshin header (5 November 2026) and the presenter, with CFO Koichi Takahashi (Member of the Board and Senior Executive Officer), of the Q2 FY3/27 briefing. The inquiry contact in the tanshin is Yuri Sakamoto, General Manager of the IR & SR Office — who is also identified as a briefing speaker in the published transcript. Shares issued: 293,113,973 at both March and September 2026, with treasury shares of 272,361 at March 2026 rising to 14,907,286 at September 2026 after the buyback described in Chapter 2.
+
+Major shareholders: not included in the sources used for this report (未取得 from the tanshin, sheet and briefing materials; the register sits in the securities report and corporate-governance report, which are outside this draft's source set). Press reports summarised in the interview pack state that Elliott disclosed a significant stake in April 2026 and has pressed on margin, portfolio and shareholder returns — third-party/press material, flagged as such, and a live question in the interview pack's set; no company disclosure in the sources used confirms the holding.
+
+Employees and other data. Consolidated headcount is not disclosed in the tanshin (PL/segment sheet register S6) and is not presented as company disclosure here.
+
+Shareholder returns. Dividends per share rose from ¥130 (FY3/17) to ¥340 (FY3/26) and a forecast ¥370 in FY3/27 (interim ¥185), with reported payout ratios of 21.7–36.5% across the decade; the FY3/25 total of ¥330 includes the ¥50 centenary commemorative dividend (ordinary course ¥280). The May 2026 buyback (¥349,997mn; 14,516,700 shares acquired on 13 May 2026 via a Fully Committed Share Repurchase under the 12 May 2026 board resolution, plus post-adjustment purchases in August–September 2026) is the largest capital-return action in the periods covered and cut the H1 FY3/27 average share count to 282,456,798 from 292,811,724 a year earlier.
+
+Market data. The shares closed at ¥23,600 on 16 November 2026 (Finnhub; previous close ¥23,480 on 13 November 2026), giving a market capitalisation of about ¥6.57tn (calculated from the cited price and the 278.21mn shares excluding treasury at September 2026; StockAnalysis.com shows ¥6.53tn at 13 November 2026 and StockInvest.us ¥6.566tn at 16 November 2026). The 52-week range was ¥17,380 (6 February 2026) to ¥26,440 (7 July 2026) (Finnhub) — the shares are about 11% below the July 2026 peak, having re-rated sharply after the 5 November print (close ¥21,465 on 5 November to ¥23,600 on 16 November, Finnhub daily closes). At ¥23,600 the shares trade at 25.1x FY3/26 basic EPS of ¥939.92, 23.4x FY3/27 company-guidance EPS of ¥1,006.45, 2.13x FY3/26 book value per share of ¥11,097.60 and a 1.6% FY3/27 forecast dividend yield (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, expected in early February 2027 (third-party calendar estimate: 9 February 2027, StockInvest.us).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Daikin (6367) (J-GAAP template; March year-end; FY3/22–FY3/26 annual and 20 quarters in the main block, FY3/17–FY3/21 annual in the supplementary history block of 'Reported inputs'; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks and history-block internal ties equal to zero (rollout log batch 4a and history wave H2; sheet registers S1–S13). The FY3/26 cross-tab, H1 FY3/27 figures and guidance were verified directly against the FY3/26 tanshin (12 May 2026), the Q1 FY3/27 tanshin (4 August 2026) and the Q2 FY3/27 tanshin (5 November 2026). The Q2 FY3/27 briefing is documented by the company's own published English transcript (SCRIPTS Asia, company IR library; retrieved 16 November 2026) including a full Q&A — used for the data-centre colour, FUSION30 progress and capital-policy statements. The guidance revision chain was verified against the guidance tracker dated 17 November 2026. The interview pack (16 November 2026) is used for the FUSION30 target summary, the FUSION25 review and the D60-W release summary, each flagged where used. Market data are from Finnhub (with StockAnalysis.com and StockInvest.us corroboration) as returned by web search on 17 November 2026 and are cited with dates in the text.
+
+Discrepancies and basis breaks flagged (not silently resolved). (1) Balance-sheet comparatives restated between tanshin vintages: FY3/22 total assets and net assets are ¥3,823,998mn and ¥2,008,109mn in the FY3/22 tanshin but ¥3,823,038mn and ¥2,007,149mn in the FY3/23 tanshin's comparative column (a ¥960mn difference, with BPS of ¥6,729.73 vs ¥6,726.45); FY3/18 total assets are ¥2,489,953mn in the FY3/18 tanshin but ¥2,475,708mn in the FY3/19 tanshin (a ¥14,245mn difference). This report uses each year's own tanshin as reported; the differences are not itemised in the sources used. (2) Sheet debt row (audit BS-1, fixed 2026-11-17): the PL/segment sheet as originally built omitted bonds due within one year from interest-bearing debt in every period (and short-term borrowings in FY3/22); the recalculated copy used here still carries the pre-fix FY3/26 figure of ¥829,770mn, while the corrected figure in the current Drive file is ¥854,769mn (fix log fix-6367-bs.md). This report cites the corrected figure and flags the sheet copy's staleness. (3) Capex and D&A definitions: the sheet's capex is tangible fixed-asset acquisitions per the cash-flow statement (FY3/26 ¥209,081mn), while the tanshin segment note reports tangible-plus-intangible additions of ¥300,030mn for FY3/26; the sheet's FY3/26 D&A (¥224,835mn) differs by ¥12mn from the segment note's ¥224,823mn. Both definitions are labelled wherever used. (4) Dividend forecast revision: the FY3/26 tanshin forecast a FY3/27 dividend of ¥360 (¥180 interim / ¥180 final); the Q2 FY3/27 tanshin records an interim of ¥185 and a revised full-year forecast of ¥370 (the tanshin flags a dividend-forecast revision). This report uses ¥370. (5) Guidance EPS optics: the FY3/27 guidance EPS rose from ¥949.32 to ¥1,006.45 between May and November 2026 while guided owners' profit rose only ¥2,000mn — the EPS revision is a share-count (buyback) effect, flagged in Chapter 2 rather than presented as profit momentum. (6) Interview pack vs tanshin: the pack rounds Chemicals H1 sales to ¥158.7bn (tanshin: ¥158,789mn) and marks the Other segment '未取得 in segment detail', but the tanshin segment note discloses Other in full (¥52,319mn / ¥2,212mn); the tanshin is followed. The pack's FUSION25 review describes the FY3/26 outcome against plan targets; the plan's own final-year labelling is not in the sources used and the figures are cited as the pack's summary. (7) Cross-tab rounding: the six regional components sum to ¥3mn below reported FY3/26 sales and ¥4mn below H1 FY3/27 sales in the tanshin tables themselves (source rounding, register-noted); consolidated totals are used as control. (8) The sheet's FY3/27-and-later 'Estimate' columns are mechanical template extrapolations, not company guidance, and are not used anywhere in this report; all forward figures are the tanshin guidance or FUSION30 plan targets.
+
+Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'Company guidance' means Daikin's published forecasts (会社計画) and 'plan targets' means FUSION30 targets; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — order intake and backlog (qualitative data-centre backlog colour only, in briefing materials), R&D expenditure, employees, production/sales units, capacity and utilisation, regional profit, segment-level guidance, and the absolute yen amount of data-centre-related sales (a growth rate of about 1.5× YoY for H1 FY3/27 is disclosed; the base is not) — are described as not disclosed rather than estimated. The segment × region cross-tab is disclosed for FY3/22 onward only; for FY3/17–FY3/21 the classic segment table and the six-region related-information table are used, on their own bases. Major shareholders are 未取得 from this draft's source set (they sit in the securities report / corporate-governance report). KPI history in this report covers ten years (FY3/17–FY3/26) from the PL/segment sheet, matching the Shared Research reference span.
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

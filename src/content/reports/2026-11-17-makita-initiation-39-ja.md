@@ -1,0 +1,397 @@
+---
+title: "The global cordless-tools leader at an FX crossroads: initiation on Makita as reported growth proves to be translation, not volume"
+company: "Makita Corporation"
+ticker: "6586"
+sector: "Machinery — Power Tools & Outdoor Power Equipment"
+date: 2026-11-17
+type: initiation
+externalUrl: "/ja/reports/2026-11-17-makita-initiation-39/"
+lang: ja
+---
+
+A world-leading power-tool franchise whose reported growth is currently a currency effect: Makita Corporation (6586, TSE Prime / Nagoya) is the Aichi-based maker of professional cordless power tools and outdoor power equipment (OPE), selling in some 180 countries with Europe alone at about half of revenue. The initiation question is what the business earns when the yen stops helping. The FY3/26 print (IFRS) was solid — revenue ¥777,600mn (+3.2%), operating profit ¥104,705mn (13.5% margin), net income to owners ¥79,414mn and basic EPS ¥299.95 — but H1 FY3/27 exposed the quality of the growth: revenue rose 9.6% YoY to ¥414,713mn and operating profit 23.0% to ¥63,335mn, yet **the company states in its own tanshin that local-currency revenue was flat YoY, i.e. the entire reported increase is yen-translation**. Full-year FY3/27 company guidance (revenue ¥820,000mn, operating profit ¥110,000mn, owners' net income ¥81,000mn, EPS ¥313.45) was set on 28 April 2026 and left unchanged at H1 on 30 October 2026 despite H1 operating profit already reaching 57.6% of the guide — **implying H2 operating profit of ¥46,665mn (calculated), 26% below H1, on company-cited cost inflation**. Strengths: (1) franchise and mix — the cordless platforms (18V LXT and 40Vmax XGT) plus parts, repairs and accessories (¥177,630mn, 22.8% of FY3/26 sales) give a recurring, installed-base-linked revenue layer, and the product split has held at roughly 77/23 for a decade; (2) a fortress balance sheet — owners' equity ratio 84.4% at March 2026, cash of ¥257,385mn against borrowings of just ¥2,384mn (sheet definition), and a shareholder-return policy raised from FY3/26 to a consolidated payout ratio of 50% or more (FY3/26 dividend ¥150, a 50.0% payout); (3) demonstrated through-cycle profitability — operating margin stayed in double digits in nine of the last ten years, recovering from the FY3/23 trough (3.7%) within two years. Weaknesses: (1) no disclosed underlying growth — local-currency revenue was flat in H1 FY3/27, the volume/price/mix split is not disclosed (未取得), and Europe, about half of sales, faces a weak construction market the company itself describes as sluggish; (2) margin is hostage to FX and costs in both directions — the FY3/23 collapse (operating profit ¥28,246mn on a ¥103,660mn operating cash outflow and a ¥475,128mn inventory peak) shows how fast the model de-gears when demand and the yen turn together, and inventory was rebuilt to ¥375,829mn by March 2026; (3) disclosure and capital-return visibility are thin — no order or backlog disclosure (a sell-through product business), no quantified mid-term financial targets in the materials checked (未取得), H2 FX assumptions not stated (未取得), and the FY3/27 year-end dividend is literally undecided (未定) despite the 50% payout policy. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (FY3/17–18 US GAAP, FY3/19–26 IFRS, as originally filed) and FY3/27E company guidance**
+
+| ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 414999 | 477298 | 490578 | 492617 | 608331 | 739260 | 764702 | 741391 | 753130 | 777600 | 820000 |
+| Revenue growth (%) | — | 15 | 2.8 | 0.4 | 23.5 | 21.5 | 3.4 | -3 | 1.6 | 3.2 | 5.5 |
+| Operating profit | 62564 | 79762 | 78305 | 64046 | 88464 | 91728 | 28246 | 66169 | 107038 | 104705 | 110000 |
+| Operating margin (%) | 15.1 | 16.7 | 16 | 13 | 14.5 | 12.4 | 3.7 | 8.9 | 14.2 | 13.5 | 13.4 |
+| Profit before tax | 64738 | 79678 | 79919 | 66008 | 87199 | 92483 | 23887 | 64017 | 108477 | 108017 | 111000 |
+| Net income to owners | 44782 | 54755 | 55750 | 47731 | 62018 | 64770 | 11705 | 43691 | 79338 | 79414 | 81000 |
+| Basic EPS (¥) | 165 | 201.7 | 205.4 | 175.8 | 228.4 | 238.5 | 43.1 | 162.1 | 294.9 | 300 | 313.5 |
+| Dividend per share (¥) | — | — | — | — | — | — | — | — | 110 | 150 | — |
+| ROE (%) | — | — | — | — | — | — | — | — | 8.8 | 8.3 | — |
+| Operating cash flow | 63351 | 33294 | 23155 | 57310 | 64537 | -103660 | 44430 | 237086 | 129874 | 102336 | — |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive); history block FY3/17–21 and main block FY3/22–26, all checks = 0. EPS is basic EPS calculated on the sheet's weighted average shares (no dilutive securities exist); FY3/25–26 agree with the tanshin prints (¥294.90 / ¥299.95). ROE as reported in the tanshin headers is available only for FY3/25–26 in the sources used. Dividends per share are carried only for FY3/25–26 in the sources used (FY3/27 interim ¥79; full-year undecided). FY3/27E = company guidance as set in the FY3/26 tanshin, 28 Apr 2026, unchanged at H1 (30 Oct 2026).*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Market cap | ¥1.48tn |
+| 52-week range | ¥4,175 – ¥6,130 |
+| P/E (FY3/26 basic EPS ¥299.95, IFRS) | 17.7x |
+| P/E (FY3/27E co. guidance EPS ¥313.45) | 16.9x |
+| FY3/26 dividend / FY3/27 interim | ¥150 / share (FY3/26); ¥79 interim FY3/27, full-year undecided |
+| Next event | Q3 FY3/27 results, early Feb 2027 |
+
+## Key points
+- **H1 FY3/27: a strong print that is entirely FX translation.** For the six months to 30 September 2026 (IFRS), revenue was ¥414,713mn (+9.6% YoY), operating profit ¥63,335mn (+23.0%; margin 15.3% vs 13.6%), profit before tax ¥66,274mn (+25.3%) and net income attributable to owners ¥47,918mn (+23.5%), against a prior-year half of revenue ¥378,421mn and operating profit ¥51,495mn. **The tanshin's own commentary states local-currency revenue was flat YoY (前年並み) — the whole +9.6% is translation of overseas sales into a weaker yen**. Comprehensive income fell 35.1% to ¥43,443mn as translation adjustments in equity moved the other way. Source: H1 FY3/27 tanshin [IFRS], 30 October 2026, via the programme's interview pack.
+- **Guidance unchanged all year — and it implies a weak H2.** Full-year FY3/27 company guidance (会社計画) has not moved since it was set with the FY3/26 results on 28 April 2026: revenue ¥820,000mn (+5.5%), operating profit ¥110,000mn (+5.1%), profit before tax ¥111,000mn and owners' net income ¥81,000mn (basic EPS ¥313.45); the H1 tanshin of 30 October 2026 states no revision (guidance tracker: verified, zero revisions). H1 delivered 50.6% of guided revenue but 57.6% of guided operating profit and 59.2% of guided net income, so **the guide implies H2 operating profit of ¥46,665mn (calculated) — management is embedding the cost rises it cites across the board, or holding a buffer**; distinguishing the two is the central interview question. Source: FY3/26 tanshin, 28 Apr 2026; H1 FY3/27 tanshin, 30 Oct 2026; guidance tracker, 17 Nov 2026.
+- **Strength — the balance sheet and the new 50% payout policy.** At 31 March 2026 total assets were ¥1,181,185mn and owners' equity ¥997,340mn (ratio 84.4%; BPS ¥3,859.45); cash and equivalents were ¥257,385mn against borrowings of ¥2,384mn on the sheet's definition (borrowings as presented; lease liabilities sit in other financial liabilities and are not split out in the tanshin). From FY3/26 the company replaced its old policy (¥20 floor, total return ratio ≥35%) with **a consolidated payout ratio of 50% or more, and paid it: the FY3/26 dividend was ¥150 per share (interim ¥20 + year-end ¥130), a 50.0% payout and 4.1% DOE**. The FY3/27 interim dividend is ¥79; the year-end and full-year forecast remain undecided (未定). Source: FY3/26 tanshin, 28 Apr 2026; PL/segment sheet register S7.
+- **Weakness — the FY3/23 trough is the stress case, and it was violent.** **Operating profit fell from ¥91,728mn (FY3/22) to ¥28,246mn in FY3/23 (margin 12.4% → 3.7%)** as cost of sales jumped 12.7% on input inflation and the post-COVID demand correction, then recovered to ¥66,169mn / ¥107,038mn / ¥104,705mn across FY3/24–26. The cash statement shows the strain more honestly than the P&L: FY3/22 operating cash flow was −¥103,660mn as inventory ballooned to ¥475,128mn (11.2 months of cost of sales, calculated), before two years of destocking released ¥237,086mn of operating cash in FY3/24. Inventory at March 2026 was ¥375,829mn — rebuilt, and the first place flat local-currency demand would show up. Source: company results via PL/segment sheet (tanshin, JPX archive).
+- **Europe is half the company — on both disclosure bases.** By customer location (market basis, supplement (2)), **Europe was ¥390,110mn of FY3/26 revenue (50.2%)**, Japan ¥132,136mn (17.0%), other markets (Latin America + Oceania + Middle East & Africa) ¥128,962mn (16.6%), North America ¥78,662mn (10.1%) and Asia ¥47,730mn (6.1%). On the shipment-origin segment basis, Europe earned segment profit of ¥39,015mn (9.9% margin) and Japan ¥38,935mn (25.7%), while Asia's ¥30,364mn of segment profit on ¥34,333mn of segment sales (88.4%, as disclosed) reflects production-company profit booked where the factories sit — the two bases answer different questions and are never mixed in this report. In H1 FY3/27, market-basis Europe grew 8.2% to ¥202,665mn against what the company calls a weak construction market — again, mostly FX. Source: PL/segment sheet registers S4/S5; H1 FY3/27 tanshin via interview pack.
+
+## 1. Key indicators and financial history
+
+Makita reports with a March year-end under IFRS — with one basis break inside the ten-year window: FY3/17 and FY3/18 are US GAAP years as originally filed, and FY3/19 onwards are IFRS as originally filed (the IFRS-restated FY3/18 comparatives in the FY3/19 tanshin are deliberately not used; see Basis of preparation). The history below and in Exhibit 1 is compiled in the PL/segment sheet for 6586 (main block FY3/22–FY3/26 plus 20 quarters; supplementary history block FY3/17–FY3/21; all template and history-block checks equal zero). Figures are ¥mn unless stated.
+
+Revenue describes a demand supercycle and its hangover: ¥414,999mn (FY3/17) rising steadily to ¥608,331mn in FY3/21 (+23.5% that year, the stay-at-home / professional-demand surge), then ¥739,260mn in FY3/22 (+21.5%) before growth stalled — ¥764,702mn (+3.4%), ¥741,391mn (−3.0%), ¥753,130mn (+1.6%) and ¥777,600mn (+3.2%) across FY3/23–26. Operating profit is the volatile line: ¥62,564mn / ¥79,762mn / ¥78,305mn / ¥64,046mn / ¥88,464mn across FY3/17–21 (margins 13.0–16.7%), ¥91,728mn in FY3/22 (12.4%), **a collapse to ¥28,246mn in FY3/23 (3.7%) as cost of sales rose ¥65,012mn (+12.7%) into flat demand and SG&A kept rising**, then ¥66,169mn (8.9%), ¥107,038mn (14.2%, the ten-year high in yen) and ¥104,705mn (13.5%). Profit before tax tracked operating profit closely (financing net is small: +¥3,312mn in FY3/26); net income to owners was ¥44,782mn / ¥54,755mn / ¥55,750mn / ¥47,731mn / ¥62,018mn / ¥64,770mn / ¥11,705mn / ¥43,691mn / ¥79,338mn / ¥79,414mn, and basic EPS (calculated on the sheet's weighted shares; no dilutive securities exist) ¥164.96 / ¥201.70 / ¥205.37 / ¥175.80 / ¥228.41 / ¥238.54 / ¥43.11 / ¥162.13 / ¥294.90 / ¥299.95 — the FY3/25–26 EPS prints are flattered by the falling share count (weighted shares 271.5mn in FY3/22 → 264.8mn in FY3/26 on buybacks).
+
+Cash flow tells the working-capital story the P&L hides. Operating cash flow was −¥103,660mn in FY3/22 despite ¥91,728mn of operating profit, because inventory was built to ¥475,128mn at March 2023 (from ¥267,547mn at March 2021); the destock then produced operating cash flow of ¥237,086mn in FY3/24, and inventory ended FY3/26 at ¥375,829mn (9.1 months of cost of sales, calculated) — down from the peak but rebuilt by ¥37,713mn in FY3/26 alone. Capex (CF fixed-asset purchases) peaked at ¥59,937mn in FY3/22 during the capacity build and ran at ¥17,851–21,532mn in FY3/24–26; the FY3/27 capex plan is ¥30,000mn (company plan, supplement (5)). The balance sheet never strained: cash rose from ¥71,057mn (Mar 2022) to ¥257,385mn (Mar 2026) while borrowings fell from ¥79,674mn to ¥2,384mn (sheet definition), and period-end employees declined from 20,233 (FY3/22) to 17,586 (FY3/26) even as revenue rose — the quiet productivity leg of the margin recovery. ROE as reported in the tanshin headers was 8.8% in FY3/25 and 8.3% in FY3/26 (owners' basis). Exhibit 1 (page 1) gives the full ten-year KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header, 28 April 2026.
+
+**Figure: Makita Corporation — revenue by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 414999 |
+
+| FY3/18 | 477298 |
+
+| FY3/19 | 490578 |
+
+| FY3/20 | 492617 |
+
+| FY3/21 | 608331 |
+
+| FY3/22 | 739260 |
+
+| FY3/23 | 764702 |
+
+| FY3/24 | 741391 |
+
+| FY3/25 | 753130 |
+
+| FY3/26 | 777600 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Makita Corporation — operating profit by year**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| FY3/17 | 62564 |
+
+| FY3/18 | 79762 |
+
+| FY3/19 | 78305 |
+
+| FY3/20 | 64046 |
+
+| FY3/21 | 88464 |
+
+| FY3/22 | 91728 |
+
+| FY3/23 | 28246 |
+
+| FY3/24 | 66169 |
+
+| FY3/25 | 107038 |
+
+| FY3/26 | 104705 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Makita Corporation — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY3/17 | 15.1 |
+
+| FY3/18 | 16.7 |
+
+| FY3/19 | 16 |
+
+| FY3/20 | 13 |
+
+| FY3/21 | 14.5 |
+
+| FY3/22 | 12.4 |
+
+| FY3/23 | 3.7 |
+
+| FY3/24 | 8.9 |
+
+| FY3/25 | 14.2 |
+
+| FY3/26 | 13.5 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Makita Corporation — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — H1 FY3/27 results and guidance
+
+Makita reported H1 FY3/27 (1 April–30 September 2026) results on 30 October 2026. The figures in this chapter are from the H1 tanshin [IFRS] as captured in the programme's interview pack (data as of 16 November 2026); the company publishes no English transcript of this briefing in the programme's transcript library (no 6586 file exists there — checked 17 November 2026), so no Q&A is cited and none is paraphrased. This chapter summarises the release; regional detail is in Chapter 5.
+
+## H1 FY3/27 results (cumulative, as reported, IFRS)
+
+Revenue was ¥414,713mn (+9.6% YoY), operating profit ¥63,335mn (+23.0%; margin 15.3%, +1.7pt), profit before tax ¥66,274mn (+25.3%) and net income attributable to owners ¥47,918mn (+23.5%); the prior-year half printed revenue of ¥378,421mn and operating profit of ¥51,495mn (13.6% margin). ==The single most important sentence in the release is the company's own: local-currency revenue was flat YoY (前年並み), so the entire reported growth is translation== — a weaker yen applied to an overseas sales base of roughly 83% of revenue. The volume/price/mix split behind 'flat' is not disclosed (未取得) and is the interview pack's first question. Comprehensive income fell 35.1% to ¥43,443mn despite the profit growth, as foreign-currency translation adjustments in equity moved against the P&L translation gain — a reminder that the FX exposure runs through the balance sheet as well.
+
+By market (customer-location basis, H1 tanshin text): Japan ¥69,562mn (+5.6%); Europe ¥202,665mn (+8.2%, about 49% of group revenue, calculated); North America ¥46,691mn (+17.9%, helped by a home-centre customer's World Cup promotion, per the company); Asia ¥25,754mn (+11.3%); Latin America ¥30,063mn (+22.6%); Oceania ¥30,829mn (+11.0%); Middle East & Africa ¥9,149mn (−9.8%). Every growth rate in that list is a yen-basis rate against flat local-currency group sales, so regional dispersion mostly reflects currency mixes and one-offs (the North America promotion) rather than demand. Shipment-origin segment results for H1 are not carried in the sources used here and are not estimated. The interim dividend was ¥79 per share; the year-end dividend forecast is undecided (未定). Source: H1 FY3/27 tanshin [IFRS], 30 October 2026, via interview pack 6586 (2026-11-16).
+
+## Guidance: set in April, unchanged at H1 — revenue ¥820,000mn, operating profit ¥110,000mn (company guidance)
+
+Full-year FY3/27 guidance, as set in the FY3/26 tanshin of 28 April 2026 and confirmed unchanged in the H1 tanshin of 30 October 2026, is revenue ¥820,000mn, operating profit ¥110,000mn, profit before tax ¥111,000mn and net income attributable to owners ¥81,000mn with basic EPS of ¥313.45 — company guidance (会社計画), not a J-Core Fundamental Research forecast. The guidance tracker verifies the chain: initial guidance 28 April 2026, zero revisions, current guidance identical at H1 (tracker entry 'verified'). The tension is arithmetic: H1 progress was 50.6% on revenue, 57.6% on operating profit (¥63,335mn of ¥110,000mn) and 59.2% on net income, so **the unchanged guide implies H2 revenue of ¥405,287mn and H2 operating profit of ¥46,665mn (both calculated) — H2 operating profit 26% below H1** and a 11.5% implied H2 margin against 15.3% in H1. The tanshin attributes the caution to expected cost rises across the board; with local-currency sales flat, the revenue guide is also substantially an FX assumption, and the H2 assumed rates (USD, EUR and others) are not stated in the materials checked (未取得), nor is an OP sensitivity per ¥1. Company plans disclosed alongside guidance (supplement (5), FY3/26 tanshin): FY3/27 capex of ¥30,000mn and R&D of ¥18,500mn (company plans, labelled as such). Exhibit 3 sets out the H1 actuals, the full-year guide and the implied H2. Source: FY3/26 tanshin section 3 and supplement (5), 28 April 2026; H1 FY3/27 tanshin, 30 October 2026; guidance tracker, 17 November 2026.
+
+**Exhibit 3. H1 FY3/27 results, FY3/27 company guidance and implied H2 (calculated)**
+
+| ¥mn | H1 FY3/27 actual | FY3/27E (co. guidance) | Implied H2 (calculated) |
+|---|---|---|---|
+| Revenue | 414713 | 820000 | 405287 |
+| Operating profit | 63335 | 110000 | 46665 |
+| Profit before tax | 66274 | 111000 | 44726 |
+| Net income to owners | 47918 | 81000 | 33082 |
+| Japan — market sales (H1) | 69562 | — | — |
+| Europe — market sales (H1) | 202665 | — | — |
+| North America — market sales (H1) | 46691 | — | — |
+| Asia — market sales (H1) | 25754 | — | — |
+| Latin America — market sales (H1) | 30063 | — | — |
+| Oceania — market sales (H1) | 30829 | — | — |
+| Middle East & Africa — market sales (H1) | 9149 | — | — |
+
+*Source: H1 FY3/27: H1 FY3/27 tanshin [IFRS], 30 Oct 2026, via interview pack 6586 (market-basis regional sales as stated in the tanshin text). FY3/27E: company guidance set in the FY3/26 tanshin, 28 Apr 2026, unchanged at H1 (guidance tracker, verified, zero revisions). Implied H2 = guidance minus H1 actual (calculated). Shipment-origin segment results for H1 are not carried in the sources used.*
+
+## 3. Business description
+
+Makita is a single-business company in substance — professional power tools and outdoor power equipment — disclosed through regional segments (Chapter 5). It reports two product-category sales lines in the annual tanshin's segment note: Products (the tools and equipment themselves) and Parts, repairs & accessories. That split is the cleanest window on the business model: in FY3/26, Products were ¥599,970mn (77.2% of sales) and Parts, repairs & accessories ¥177,630mn (22.8%), and the accessories share has been stable at 16–23% across the decade where disclosed (FY3/17: ¥67,711mn of ¥414,999mn; FY3/21: ¥104,162mn of ¥608,331mn). The category split for FY3/23 and FY3/24 is not entered in the sheet's main block and is treated as not captured here (see Basis of preparation). Head office is in Anjo, Aichi; the company lists on the TSE Prime and Nagoya exchanges.
+
+## The cordless platforms: LXT, XGT and the battery as the razor blade
+
+Makita's product architecture is built on shared battery platforms — principally the 18V LXT range and the higher-voltage 40Vmax XGT range the company names as its growth fields, alongside cordless outdoor power equipment (OPE) replacing petrol tools in professional landscaping and grounds maintenance. The economics are the classic installed-base model, visible in the disclosed split: every tool sold on a platform raises the value of the battery and accessory ecosystem around it, and **the Parts, repairs & accessories line (¥177,630mn in FY3/26, growing every year of the last five, from ¥104,162mn in FY3/21) monetises the parc of tools already in professional hands**. Management's stated priorities in the H1 FY3/27 tanshin are qualitative — high-value-added fields and new-field development centred on XGT and cordless OPE, against rising costs — and no platform-level revenue share or growth rate is disclosed (未取得): the interview pack's question on XGT/OPE share, and whether XGT takes share from petrol and competitors or cannibalises LXT, is unanswered in published materials. Production and sales unit volumes, capacity and utilisation are likewise not disclosed in the tanshin (register S10) and are not quantified in this report. Source: PL/segment sheet registers S9/S10; H1 FY3/27 tanshin via interview pack.
+
+## Geography as the operating structure: production in Asia, demand in Europe
+
+Makita's reportable segments are regional and defined by shipment origin (entity location): Japan, Europe, North America, Asia and Other (Latin America, Oceania, Middle East & Africa and others), with segment profit on an operating-profit basis. Read together with the customer-location sales split, the structure is a classic Japanese exporter: Asia segment sales are small (¥34,333mn in FY3/26) but Asia segment profit is ¥30,364mn — an 88.4% margin as disclosed — because Asian production companies book manufacturing profit on product shipped to the sales regions, while Europe, the largest demand region, earns a distribution-weighted 9.9% segment margin and Japan 25.7% (Japan segment sales of ¥151,458mn include export shipments, against Japan market sales of ¥132,136mn). The practical consequences for analysis are threefold: consolidated margin, not any single segment margin, is the earnings variable; FX translation touches roughly five-sixths of revenue (overseas market sales were 83.0% of FY3/26 revenue, calculated); and tariff and freight exposure sits in the production footprint, whose overseas production ratio and US-bound origin split are not disclosed in the sources used (未取得 — an interview-pack question). Employees by region are not disclosed in the tanshin. Source: PL/segment sheet registers S4/S5; FY3/26 segment note via the sheet.
+
+## History and organisation in brief
+
+Makita was founded in 1915 in Nagoya as an electric-motor sales and repair business and became Japan's first domestic maker of portable electric planers (1958); its modern form rests on the cordless-tool transition it led from the 1970s onwards and on a directly controlled overseas sales-and-service network built market by market — the service density behind the Parts, repairs & accessories line. The company is headquartered in Anjo, Aichi Prefecture, and reports a consolidated headcount of 17,586 at March 2026 (supplement (1)), down from a peak of 20,233 at March 2022 as the post-surge cost base was worked down. President: Munetoshi Goto (後藤 宗利), Representative Director and President in the FY3/26 tanshin header (28 April 2026) and confirmed in web sources at November 2026 (see Chapter 8). The inquiry contact in the FY3/26 tanshin is Yukihiro Otsu, Director, Executive Officer and head of the Administration headquarters. Source: FY3/26 tanshin header and supplement (1), 28 April 2026; company history materials (accessed November 2026).
+
+## 4. Market and value chain
+
+Makita competes in professional power tools and OPE, a value chain that runs from cells, motors and electronics (upstream) through tool design, manufacture and platform lock-in (Makita's layer) to professional distribution — home centres, tool dealers and e-commerce — and the aftermarket of batteries, parts and repair. **The moat is the platform: a professional user holding LXT or XGT batteries faces a switching cost on every subsequent tool body**, which is why the contest that matters is platform share at the point of first purchase, and why competitors (Milwaukee/TTI, Stanley Black & Decker's DeWalt, Bosch, Hikoki and Hilti in adjacent professional niches) fight on system breadth and battery performance rather than on single tools. No company-disclosed market-size or share figure for Makita's categories is carried in the sources used here, and none is substituted (未取得): the verifiable demand evidence is Makita's own reported regional sales and its local-currency commentary.
+
+The demand drivers are construction and renovation activity (Europe's sluggish construction market under high rates is the company's own H1 characterisation), housing (North America described as weak in the interview pack's reading of the tanshin), and the petrol-to-cordless conversion in OPE, which is regulatory- and total-cost-driven and therefore less cyclical than tool demand tied to starts. The substitutes are petrol equipment (in OPE), corded tools (residual) and rival battery platforms (the real one). Two sensitivities follow for the equity. First, translation: with about 83% of sales overseas and local-currency sales flat, reported growth and reported margin are currently functions of the yen — H1 FY3/27's +9.6% revenue and +1.7pt margin expansion would mechanically reverse on yen strength, and the company discloses no OP-per-yen sensitivity in the materials checked (未取得). Second, the channel: Makita sells through distribution, so sell-in can run ahead of sell-through — the FY3/22–23 inventory build (group inventory ¥475,128mn at the March 2023 peak) is the documented cost of getting that wrong, and distributor inventory is not disclosed (未取得). Entry barriers are platform installed base, service-network density and brand trust with professional users; none of these appears on the balance sheet, and all of them are exactly what a flat local-currency year puts to the test. Sources: H1 FY3/27 tanshin via interview pack, 30 October 2026; PL/segment sheet (tanshin, JPX archive).
+
+**Figure: Makita in the professional power-tools value chain**
+
+**Cells, Motors & Electronics**
+
+- Battery cells (LXT / XGT packs)
+- Motors & drive electronics
+- Chargers, steel, plastics
+
+**Makita Corporation (6586)**
+
+- 18V LXT cordless platform
+- 40Vmax XGT high-voltage platform
+- Cordless outdoor power equipment (OPE)
+- Parts, repairs & accessories (22.8% of FY3/26 sales)
+
+**Professional Distribution**
+
+- Home centres
+- Tool dealers
+- E-commerce
+
+**Professional Users**
+
+- Construction & trades
+- Landscaping & grounds maintenance
+- Industrial users
+
+**Aftermarket**
+
+- Batteries & accessories
+- Repair & service network
+- Installed-base annuity
+
+*Source: Value chain drawn from §3–§4 of this report (no FIELDNOTES Makita sector report exists).*
+
+## 5. Segments and regions
+
+Makita discloses two regional views that must not be conflated. The reportable segments are by shipment origin (entity location) — Japan / Europe / North America / Asia / Other — with segment profit on an operating-profit basis and a disclosed adjustment column. Separately, supplement (2) of every tanshin gives sales by customer location (market) for seven markets — Japan / Europe / North America / Asia / Latin America / Oceania / Middle East & Africa — with no profit split (regional profit on the market basis is not disclosed). Exhibit 2 presents both views, labelled, for the latest five years; the ten-year history is in the text.
+
+**Figure: Makita Corporation — segment revenue, FY3/26**
+
+| Item | Value (¥mn unless stated) |
+
+|---|---|
+
+| Japan segment — sales (shipment origin) | 151458 |
+
+| Europe segment — sales (shipment origin) | 393338 |
+
+| North America segment — sales (shipment origin) | 81633 |
+
+| Asia segment — sales (shipment origin) | 34333 |
+
+| Other segments — sales (shipment origin) | 116838 |
+
+| Japan — market sales (customer location) | 132136 |
+
+| Europe — market sales (customer location) | 390110 |
+
+| North America — market sales (customer location) | 78662 |
+
+| Asia — market sales (customer location) | 47730 |
+
+| Other markets — market sales (customer location) | 128962 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Makita Corporation — segment revenue by year**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+**Figure: Makita Corporation — segment revenue mix, FY3/26**
+
+**Europe segment**
+
+- ¥393,338mn
+- 25.3% of revenue
+
+**Europe — market sales (customer location)**
+
+- ¥390,110mn
+- 25.1% of revenue
+
+**Japan segment**
+
+- ¥151,458mn
+- 9.7% of revenue
+
+**Japan — market sales (customer location)**
+
+- ¥132,136mn
+- 8.5% of revenue
+
+**Other markets — market sales (customer location)**
+
+- ¥128,962mn
+- 8.3% of revenue
+
+**Other segments**
+
+- ¥116,838mn
+- 7.5% of revenue
+
+**North America segment**
+
+- ¥81,633mn
+- 5.2% of revenue
+
+**North America — market sales (customer location)**
+
+- ¥78,662mn
+- 5.1% of revenue
+
+**Asia — market sales (customer location)**
+
+- ¥47,730mn
+- 3.1% of revenue
+
+**Asia segment**
+
+- ¥34,333mn
+- 2.2% of revenue
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
+
+## Segments (shipment origin): Europe carries volume, Japan and Asia carry margin
+
+Exhibit 2 gives the FY3/22–26 history. In FY3/26, segment sales were Europe ¥393,338mn (segment profit ¥39,015mn, 9.9% margin), Japan ¥151,458mn (¥38,935mn, 25.7%), Other ¥116,838mn (¥5,519mn, 4.7%), North America ¥81,633mn (¥2,306mn, 2.8%) and Asia ¥34,333mn (¥30,364mn, 88.4% — production-company profit, as disclosed), with a −¥11,434mn adjustment to consolidated operating profit of ¥104,705mn. The ten-year pattern matters more than any single year. Europe segment profit swung from ¥39,399mn (FY3/22) to ¥9,088mn (FY3/23) and back to ¥39,015mn (FY3/26) — **the group's profit cycle is substantially a European margin cycle**. North America segment profit has been thin throughout (¥803mn / −¥912mn / −¥126mn / −¥19mn / ¥2,306mn across FY3/22–26, margins at or below 2.8%) despite market sales of ¥79–119bn — the structurally weakest disclosed unit, and the reason the interview pack presses on the underlying US rate ex-promotion. Asia segment profit (¥19,408mn–¥33,028mn across the decade) and Japan's (recovered from −¥2,119mn in FY3/23 to ¥38,935mn in FY3/26) complete a picture in which consolidated margin is an average of very unlike regional economics. Segment figures for FY3/17–21 are on the same basis in the sheet's history block (e.g. FY3/21: Japan ¥131,329mn / ¥31,102mn; Europe ¥284,419mn / ¥29,837mn; Asia ¥25,238mn / ¥20,722mn) and are not spliced with market-basis figures anywhere in this report. Source: company results via PL/segment sheet (tanshin segment note), register S4.
+
+**Exhibit 2. Regional segments (shipment origin; segment profit = operating profit) and market-basis regional sales (customer location)**
+
+| ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
+|---|---|---|---|---|---|
+| Japan segment — sales (shipment origin) | 141244 | 146364 | 141766 | 146494 | 151458 |
+| Japan segment — profit | 31127 | -2119 | 19006 | 27658 | 38935 |
+| Europe segment — sales (shipment origin) | 354561 | 351252 | 359348 | 374771 | 393338 |
+| Europe segment — profit | 39399 | 9088 | 17830 | 37582 | 39015 |
+| North America segment — sales (shipment origin) | 114635 | 121685 | 96111 | 86802 | 81633 |
+| North America segment — profit | 803 | -912 | -126 | -19 | 2306 |
+| Asia segment — sales (shipment origin) | 30823 | 34477 | 32592 | 31696 | 34333 |
+| Asia segment — profit | 19408 | 33028 | 17256 | 28832 | 30364 |
+| Other segments — sales (shipment origin) | 97997 | 110924 | 111574 | 113367 | 116838 |
+| Other segments — profit | 9879 | 2318 | 5470 | 7294 | 5519 |
+| Adjustment — profit | -8888 | -13157 | 6733 | 5691 | -11434 |
+| Consolidated operating profit | 91728 | 28246 | 66169 | 107038 | 104705 |
+| Japan — market sales (customer location) | 118050 | 122978 | 123222 | 127168 | 132136 |
+| Europe — market sales (customer location) | 352470 | 348994 | 356491 | 371798 | 390110 |
+| North America — market sales (customer location) | 112248 | 119064 | 93677 | 83919 | 78662 |
+| Asia — market sales (customer location) | 49196 | 53276 | 46133 | 45031 | 47730 |
+| Other markets — market sales (customer location) | 107296 | 120390 | 121868 | 125215 | 128962 |
+
+*Source: Company results via PL/segment sheet (tanshin segment note and supplement (2)), registers S4/S5. Segment sales/profit are by entity location (shipment origin); market sales are by customer location — the two bases differ and are not interchangeable. Regional profit on the market basis is not disclosed. Other markets = Latin America + Oceania + Middle East & Africa (exact sum of the disclosed lines).*
+
+## Regions (customer location): Europe half of demand; overseas ratio 83%
+
+Market-basis sales (supplement (2)) for FY3/26: Japan ¥132,136mn (17.0%), Europe ¥390,110mn (50.2%), North America ¥78,662mn (10.1%), Asia ¥47,730mn (6.1%), Latin America ¥52,986mn (6.8%), Oceania ¥56,651mn (7.3%) and Middle East & Africa ¥19,325mn (2.5%) — an overseas ratio of 83.0% (calculated). The decade's drift is a European and Latin-American build against a shrinking North America: from FY3/17 to FY3/26, Europe market sales rose ¥168,992mn → ¥390,110mn (31.5% CAGR is not the right frame — the step was FY3/21–22, +24.7% then +24.7% on the demand surge and yen), Japan ¥74,381mn → ¥132,136mn, Latin America ¥23,110mn → ¥52,986mn and Oceania ¥25,093mn → ¥56,651mn, while North America went sideways-to-down from its FY3/23 peak of ¥119,064mn to ¥78,662mn (−33.9% over three years, in yen — the weakest major market on the disclosed numbers, consistent with the thin North America segment margin). Asia market sales (¥47,730mn) are the smallest of the named regions despite Asia's production weight — **Makita makes in Asia and sells in Europe**. Quarterly market-basis sales are disclosed in every tanshin and are in the sheet; H1 FY3/27 market figures are in Chapter 2. Regional profit on this basis is not disclosed (未取得). Source: PL/segment sheet supplementary rows 114–120 (supplement (2)), register S5.
+
+## 6. Financial statements summary
+
+Condensed consolidated statements (¥mn), as reported via the PL/segment sheet (tanshin, JPX archive); FY3/17–18 are US GAAP as originally filed, FY3/19–26 IFRS as originally filed — the standard switch is flagged wherever a trend crosses it. Income statement (single-step IFRS presentation: sales − cost of sales − SG&A = operating profit; the sheet's other-operating and investing lines are nil as presented, register S8/S12): sales ¥414,999mn / ¥477,298mn / ¥490,578mn / ¥492,617mn / ¥608,331mn / ¥739,260mn / ¥764,702mn / ¥741,391mn / ¥753,130mn / ¥777,600mn for FY3/17–FY3/26; cost of sales ¥267,506mn / ¥302,173mn / ¥313,356mn / ¥323,776mn / ¥405,282mn / ¥510,942mn / ¥575,954mn / ¥517,446mn / ¥481,704mn / ¥493,630mn (cost ratio 63.5% in FY3/26 vs 75.3% at the FY3/23 peak — the margin story in one line); gross profit (calculated) ¥147,493mn / ¥175,125mn / ¥177,222mn / ¥168,841mn / ¥203,049mn / ¥228,318mn / ¥188,748mn / ¥223,945mn / ¥271,426mn / ¥283,970mn; SG&A ¥84,929mn / ¥95,363mn / ¥98,917mn / ¥104,795mn / ¥114,585mn / ¥136,590mn / ¥160,502mn / ¥157,776mn / ¥164,388mn / ¥179,266mn (23.1% of FY3/26 sales — SG&A has risen every year of the decade, including the trough); operating profit ¥62,564mn / ¥79,762mn / ¥78,305mn / ¥64,046mn / ¥88,464mn / ¥91,728mn / ¥28,246mn / ¥66,169mn / ¥107,038mn / ¥104,705mn. Financing income/(expense), net was +¥2,408mn / +¥2,876mn / +¥1,614mn / +¥1,962mn / −¥1,265mn / +¥755mn / −¥4,359mn / −¥2,152mn / +¥1,439mn / +¥3,312mn (the FY3/17–18 figures include the US-GAAP mapping in register S14 — FX and securities items sit in the sheet's other-investing row in those years); profit before tax ¥64,738mn / ¥79,678mn / ¥79,919mn / ¥66,008mn / ¥87,199mn / ¥92,483mn / ¥23,887mn / ¥64,017mn / ¥108,477mn / ¥108,017mn; income tax ¥19,610mn / ¥24,407mn / ¥23,728mn / ¥17,957mn / ¥24,515mn / ¥27,146mn / ¥12,316mn / ¥20,402mn / ¥29,274mn / ¥28,579mn; net income (total) ¥45,128mn / ¥55,271mn / ¥56,191mn / ¥48,051mn / ¥62,684mn / ¥65,337mn / ¥11,571mn / ¥43,615mn / ¥79,203mn / ¥79,438mn, of which to owners ¥44,782mn / ¥54,755mn / ¥55,750mn / ¥47,731mn / ¥62,018mn / ¥64,770mn / ¥11,705mn / ¥43,691mn / ¥79,338mn / ¥79,414mn (non-controlling interests are immaterial throughout). Depreciation and amortisation (CF basis) was ¥30,465mn in FY3/26, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥135,170mn.
+
+Balance sheet (31 March 2026, IFRS, FY3/26 tanshin): total assets ¥1,181,185mn; total equity ¥1,004,541mn, of which owners' equity ¥997,340mn (ratio 84.4%; BPS ¥3,859.45). Sheet-carried stocks at the same date: cash and equivalents ¥257,385mn; receivables ¥122,018mn; inventory ¥375,829mn; trade payables ¥55,358mn; borrowings ¥2,384mn (as presented — current borrowings only; no non-current borrowing line is presented and lease liabilities within other financial liabilities are excluded, register S7). The ten-year stock history in the sheet shows the cycle plainly: inventory ¥167,398mn (FY3/17) → ¥475,128mn (FY3/23 peak) → ¥375,829mn (FY3/26); cash ¥142,181mn → ¥71,057mn (FY3/22 trough) → ¥257,385mn. Cash flow: operating cash flow ¥63,351mn / ¥33,294mn / ¥23,155mn / ¥57,310mn / ¥64,537mn / −¥103,660mn / ¥44,430mn / ¥237,086mn / ¥129,874mn / ¥102,336mn (FY3/17–26) — cumulative ten-year operating cash flow of ¥683,254mn (calculated) against cumulative owners' net income of ¥562,946mn (calculated), the difference substantially the inventory cycle. Capex (CF basis) totalled ¥59,937mn at the FY3/22 peak and ¥21,532mn in FY3/26; R&D was ¥16,613mn in FY3/26 (2.1% of sales). Per-share data: basic EPS (calculated on sheet weighted shares; the tanshin prints ¥299.95 for FY3/26 and ¥294.90 for FY3/25, agreeing) as in Exhibit 1; no dilutive securities exist (register S8). Shares issued: 280,017,520 at March 2026 (FY3/26 tanshin); weighted average shares fell to 264.8mn in FY3/26 on buybacks. Not disclosed in the tanshin and therefore not presented here: order intake and backlog, production/sales units, capacity, utilisation and company-reported inventory months (register S10). Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 28 April 2026.
+
+## 7. Strategy and shareholder returns — no quantified mid-term plan; a stepped-up payout instead
+
+No quantified mid-term financial targets were found in the materials checked for this report (未取得) — Makita's published strategy in the tanshin is qualitative: defend and extend the cordless platforms (18V LXT, 40Vmax XGT), build cordless OPE as the second growth field, develop high-value-added and new fields, and absorb the cost inflation the company cites across the board. The capital-allocation leg, by contrast, is quantified and it changed in FY3/26: **the profit-distribution policy moved from 'annual dividend floor of ¥20 and a total return ratio of 35% or more' to 'a consolidated payout ratio of 50% or more'** (in both cases computed on basic EPS adjusted for special factors where they exist), applicable from the FY3/26 dividend (FY3/26 tanshin, qualitative section). Delivery followed immediately: FY3/26 dividend ¥150 per share (interim ¥20, year-end ¥130), total ¥38,884mn, payout 50.0%, DOE 4.1% — against FY3/25's ¥110 (payout 37.3%). For FY3/27 the interim dividend is ¥79 per share and the year-end and full-year forecasts are undecided (未定), with the company stating the year-end amount will be set so the consolidated payout reaches at least 50% under the policy, decided at the April 2027 board and put to the June 2027 AGM (FY3/26 tanshin note). At guidance EPS of ¥313.45, a 50% payout implies a full-year dividend of at least about ¥157 (calculated from company guidance and the stated policy — an implication of the policy, not a company forecast). Buybacks have already reduced the weighted share count from 271.5mn (FY3/22) to 264.8mn (FY3/26); the split of future returns between dividends and buybacks is not guided (未取得).
+
+The monitoring set, in the order the data arrives: Q3 FY3/27 cumulative local-currency revenue commentary (the tanshin's own 'flat YoY' formulation — any move to negative ends the 'FX-only but stable' reading); 9M operating-profit progress against the unchanged ¥110,000mn guide (H1: 57.6%; progress at or above roughly 80% at Q3 with guidance still unchanged would confirm deliberate conservatism, per the interview pack); Europe market sales in yen and the company's local-currency commentary (H1: ¥202,665mn, +8.2%); group inventory against the ¥375,829mn March 2026 level; and the year-end dividend decision. All forward figures in this chapter are company guidance or company policy, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY3/26 tanshin (dividend policy and dividend tables), 28 April 2026; H1 FY3/27 tanshin via interview pack, 30 October 2026.
+
+## 8. Other information
+
+History. Makita traces to 1915 (founded in Nagoya as a motor sales and repair shop), listed progressively and now trades on the TSE Prime Market and the Nagoya Stock Exchange. Head office: Anjo, Aichi Prefecture. Capital and share data are as in the FY3/26 tanshin: shares issued 280,017,520 at 31 March 2026.
+
+Management. Representative Director and President: Munetoshi Goto (後藤 宗利) — named in that role in the FY3/26 tanshin header of 28 April 2026 and confirmed as current president in web sources checked on 17 November 2026. The tanshin inquiry contact is Yukihiro Otsu (Director, Executive Officer, Administration headquarters head).
+
+Major shareholders. A top-10 shareholder table is not carried in the tanshin or the other sources used here and is therefore not presented (未取得 from the sources used; it is disclosed in the company's securities report, which is outside this report's source set).
+
+Employees. Consolidated headcount at period end (supplement (1)): 20,233 (FY3/22), 18,804 (FY3/23), 17,669 (FY3/24), 17,641 (FY3/25) and 17,586 (FY3/26); in the history block, 16,424 (FY3/19), 17,090 (FY3/20) and 18,624 (FY3/21), with FY3/17–18 not disclosed in the US-GAAP tanshin (register S14/S16).
+
+Shareholder returns. Dividends per share: ¥110 in FY3/25 and ¥150 in FY3/26 (payout 37.3% → 50.0%; DOE 3.3% → 4.1%); earlier years' dividends are not carried in the sources used here (未取得 from the source set). FY3/27: interim ¥79 paid/decided; year-end undecided (未定) under the ≥50% payout policy (Chapter 7). The FY3/26 dividend implies a 2.7% yield at ¥5,550 (calculated, on the FY3/26 dividend).
+
+Market data. The shares closed at ¥5,550 on 16 November 2026 (Finnhub via web search, 17 November 2026; corroborated by StockAnalysis.com at ¥5,550 on 16 November 2026), giving a market capitalisation of about ¥1,434bn (calculated from the cited price and 258.4mn shares excluding treasury, derived from owners' equity ÷ BPS at March 2026; StockAnalysis.com shows ¥1.43tn). The 52-week range was ¥4,175 (19 November 2025) to ¥6,130 (12 February 2026) (Finnhub). At ¥5,550 the shares trade at 18.5x FY3/26 basic EPS of ¥299.95, 17.7x FY3/27 company-guidance EPS of ¥313.45, and 1.44x FY3/26 BPS of ¥3,859.45 (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, expected in early February 2027 (third-party calendar estimate: Finnhub, 3 February 2027).
+
+## 9. Basis of preparation
+
+Sources. Historical financials, segment data and regional sales are taken from the PL/segment sheet for Makita (6586) (IFRS template architecture; March year-end; main block FY3/22–FY3/26 annual plus 20 quarters, supplementary history block FY3/17–FY3/21 annual; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks and all history-block internal checks equal to zero (rollout log batch 5b, 2026-11-16, and history wave H5, 2026-11-17; sheet registers S1–S16). H1 FY3/27 figures are from the H1 FY3/27 tanshin [IFRS] dated 30 October 2026 as captured in the programme's interview pack for 6586 (2026-11-16); the guidance chain is verified in the programme's guidance tracker (17 November 2026). The company has no file in the programme's English transcript library (checked 17 November 2026), and no briefing Q&A is cited. Market data are from Finnhub and StockAnalysis.com as returned by web search on 17 November 2026 and are cited with dates in the text; the president's name is from the FY3/26 tanshin header, confirmed against web sources on the same date.
+
+Discrepancies and basis breaks flagged (not silently resolved). (1) Accounting-standard switch inside the history: FY3/17–18 are US GAAP and FY3/19–26 IFRS, each as originally filed in its own year's tanshin; the IFRS-restated FY3/18 comparatives in the FY3/19 tanshin are deliberately not used (register S13 — e.g. FY3/18 Asia segment sales differ by ¥1mn between the two documents, ¥26,139mn own-document vs ¥26,138mn restated, and the own-document figure stands). US-GAAP years are mapped onto the IFRS template per register S14 (FX/securities items in the other-investing row; owners' income = net income less NCI of ¥346mn/¥516mn). (2) Two regional bases: reportable segments are shipment-origin (entity location) with operating-profit segment profit; supplement (2) regional sales are customer-location with no profit split. The two are presented separately and labelled throughout; Asia's 88.4% FY3/26 segment margin is a production-location artefact, as disclosed. (3) Source quality: the JPX PDFs for FY3/22–24 and FY3/20–21 are font-garbled and were recovered with a glyph-substitution decoder, accepting only tables where the accounting identities hold exactly (registers S3/S14); FY3/20 segment external sales are taken from the FY3/21 tanshin's comparative table (the sole recoverable source, identical basis, documented in register S14), and FY3/19 employees and FY3/20 R&D come from the following year's supplement prior-year columns. (4) Share-count audit: a programme audit found eight quarterly share cells misstated in an earlier sheet version; the fix log (2026-11-17) confirms six were corrected and two flagged cells (FY3/25 Q1/Q3) were verified correct as stored — no Makita share-count defect remains per the fix log; annual EPS in this report is calculated on the sheet's annual weighted shares and agrees with the tanshin prints for FY3/25–26 (¥294.90 / ¥299.95). (5) Rounding plugs of at most ¥4mn per period sit in the sheet's other-operating/investing/tax rows so template checks are exactly zero; headline lines are always as reported (register S12). (6) D&A definition: the sheet uses CF-statement D&A (¥30,465mn in FY3/26); supplement (5) D&A (¥25,205mn) is a narrower company basis and is not used (register S6).
+
+Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). 'Company guidance' means Makita's published forecasts (会社計画) and 'company plan' means supplement (5) capex/R&D plans; this report contains no J-Core Fundamental Research forecasts. Items the company does not disclose in the tanshin — order intake and backlog (not applicable to a sell-through product business and not disclosed), production/sales unit volumes, capacity, utilisation, company-reported inventory months, regional profit on the customer-location basis, the volume/price/mix split of revenue, H2 FX assumptions and OP currency sensitivity, platform-level (LXT/XGT/OPE) revenue shares, overseas production ratio and tariff cost, quantified mid-term financial targets, and employees for FY3/17–18 — are described as not disclosed / 未取得 rather than estimated. Additionally not captured in the source set used: the product-category sales split for FY3/23–24 (blank in the sheet's main block), dividends per share before FY3/25, H1 FY3/27 shipment-origin segment results, and a top-10 shareholder table (disclosed in the securities report, outside the source set).
+
+Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; strategy; other information) and adds the Editor's rating rail.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
