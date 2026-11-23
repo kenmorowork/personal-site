@@ -1,0 +1,70 @@
+
+
+<div class="fn-view" id="view-dcsim" data-view="dcsim" hidden><nav class="fn-backbar" aria-label="FIELDNOTES 目次へ"><a class="fn-backlink" href="#/">← FIELDNOTES 目次へ戻る</a></nav>
+<style></style>
+<main class="standard-report">
+<header class="standard-banner report-banner"><p class="standard-eyebrow">FIELDNOTES / SCENARIO MODEL</p><h1>データセンター 波及シミュレーター</h1><p class="standard-description">数量・仕様・供給制約から企業への影響を試算する。公開実績と編集可能な仮定を分ける。</p></header><nav aria-label="このトピックのページ" class="standard-companions"><a class="standard-page-state published" href="#" data-goto="dc" title="ページ・本文を確認。内容・出典の全件再監査は今回の範囲外。"><strong>統計レポート</strong><small>掲載</small></a><a class="standard-page-state published" href="#" data-goto="dcv" title="ページ・本文を確認。内容・出典の全件再監査は今回の範囲外。"><strong>バリューチェーン</strong><small>掲載</small></a><strong>3Dモデル</strong><small>共用・代表見本</small><p class="standard-model-scope">DC共用アトラス。冷却・電源・ネットワークを収録、全構造の操作は未監査</p></nav><nav class="standard-analysis-link" aria-label="このバリューチェーンの分析ページ"><a href="#" data-goto="dcv">← データセンターのバリューチェーンへ戻る</a><span aria-current="page">波及シミュレーター（現在のページ）</span></nav><div class="layout report-layout standard-layout"><nav aria-label="ページ内目次" class="report-toc standard-toc"><span class="toc-label">CONTENTS</span><a href="#dcsim-model-scenario"><span class="standard-toc-number">01</span><span>シナリオと入力条件</span></a><a href="#dcsim-model-summary"><span class="standard-toc-number">02</span><span>必要設備と電力の要約</span></a><a href="#dcsim-model-output"><span class="standard-toc-number">03</span><span>設備ごとの計算結果</span></a><a href="#dcsim-model-sources"><span class="standard-toc-number">04</span><span>計算の出典・定義</span></a></nav><div class="body report-body standard-body"><section class="standard-section standard-intro" id="dcsim-report-overview"><div class="topbar"><b>設備数量シミュレーター</b><span>設計仮定と公開仕様／2026-10-15</span></div><p class="standard-original-title">データセンター：負荷と機器能力から必要台数を計算する</p><p class="lead">必要量→冗長込み台数→運用電力の順に確認。企業の売上構成比・市場シェアは未取得のため、全社売上影響率は計算しません。</p><nav class="section-nav" aria-label="ページ内目次"><a href="#dcsim-model-scenario">シナリオと入力条件</a><a href="#dcsim-model-summary">必要設備と電力の要約</a><a href="#dcsim-model-output">設備ごとの計算結果</a><a href="#dcsim-model-sources">計算の出典・定義</a></nav><div class="model" data-model="data-center">
+<p><b>設計例・編集可能な仮定</b>。容量÷単機能力から概算するモデルで、実案件のBOM・見積・市場予測ではありません。</p>
+<h2 id="dcsim-model-scenario">シナリオと入力条件</h2><div class="model-presets"><button data-preset="small" type="button">12 MW設計例</button><button data-preset="large" type="button">100 MW設計例</button><button data-preset="air" type="button">空冷中心の例</button></div>
+<div class="model-inputs">
+<label>IT設計負荷 MW<input max="1000" min="0" name="it" step="1" type="number" value="12"></label>
+<label>PUE 仮定<input max="3" min="1" name="pue" step="0.01" type="number" value="1.25"></label>
+<label>年間平均負荷率 %<input max="100" min="0" name="load" step="1" type="number" value="70"></label>
+<label>ITの液冷回収率 %<input max="100" min="0" name="liq" step="1" type="number" value="80"></label>
+<label>計算ラック密度 kW<input max="1000" min="1" name="rack" step="10" type="number" value="120"></label>
+<label>CDU単機 冷却能力 MW<input max="10" min="0.01" name="cdu" step="0.05" type="number" value="1.35"></label>
+<label>CRAH単機 冷却能力 MW<input max="5" min="0.01" name="crah" step="0.1" type="number" value="0.4"></label>
+<label>チラー単機 冷却能力 MW<input max="20" min="0.01" name="chiller" step="0.1" type="number" value="2"></label>
+<label>UPS単機 有効電力 MW<input max="10" min="0.01" name="ups" step="0.1" type="number" value="2.4"></label>
+<label>重要負荷発電機 MW<input max="20" min="0.01" name="gen" step="0.5" type="number" value="3"></label>
+<label>蓄電池保持時間 分<input max="120" min="0" name="mins" step="1" type="number" value="5"></label>
+<label>蓄電系の総合有効率 %<input max="100" min="1" name="eta" step="1" type="number" value="90"></label>
+<label>冗長構成<select name="redundancy"><option value="n">N（予備なし）</option><option selected="" value="n1">N+1（各設備群に予備1台）</option><option value="2n">2N（2経路、各々N）</option></select></label>
+</div><p class="model-error" role="alert"></p><h2 id="dcsim-model-summary">必要設備と電力の要約</h2><div aria-live="polite" class="model-summary"><div>施設設計電力<strong>15.00 MW</strong>IT＋非IT（仮定PUE）</div><div>年間施設電力量<strong>91.98 GWh</strong>平均負荷率を反映</div><div>計算ラック数（概算）<strong>100 架</strong>全ITをラックへ割当てる簡略例</div></div><h2 id="dcsim-model-output">設備ごとの計算結果</h2><div class="model-output"><table><thead><tr><th>設備</th><th>対象負荷 MW</th><th>単機能力 MW</th><th>必要N 台</th><th>冗長込み 台</th></tr></thead><tbody><tr><td>CDU（液冷分）</td><td>9.60</td><td>1.35</td><td>8</td><td>9</td></tr><tr><td>CRAH等（残存空冷分）</td><td>2.40</td><td>0.40</td><td>6</td><td>7</td></tr><tr><td>チラー（IT熱のみ・簡略）</td><td>12.00</td><td>2.00</td><td>6</td><td>7</td></tr><tr><td>UPS（IT負荷のみ）</td><td>12.00</td><td>2.40</td><td>5</td><td>6</td></tr><tr><td>発電機（IT負荷のみの下限）</td><td>12.00</td><td>3.00</td><td>4</td><td>5</td></tr></tbody></table><p>蓄電池の必要エネルギー（劣化・予備分を除く）：<b>1,111.1 kWh</b>。保持5分、IT負荷のみ。施設UPSとラックBBUは二重計上しない。</p><p class="small">変圧器・受電盤・ラックPDU・ポンプ・冷却塔・コールドプレート・QD・光部品の個数は、この入力だけでは確定しません。電圧・系統・ブロック・配管・ラック構成の設計が必要です。</p><details><summary>GB200の公開ラック構成を全ラックへ採用する場合の内訳</summary><p>これは公開構成の単純換算です。別置きネットワーク・ストレージ分を控除していないため、実施設の計算ラック数を保証しません。</p><p>GPU 7,200個、CPU 3,600個、計算トレイ 1,800台、NVLinkスイッチトレイ 900台、管理TOR 200台、電源棚 800台、PSU 4,800個。冷却板・QD・光部品は設計依存のため固定しません。</p></details></div>
+<details><summary>計算式・境界条件・出典</summary>
+<p>施設設計電力＝IT負荷×PUE。年間電力量＝IT負荷×平均負荷率×PUE×8,760÷1,000（GWh）。PUEは年平均と設計ピークを簡略的に同一と仮定。ラック数＝切上げ（IT MW×1,000÷密度kW）。ここでは全IT MWを計算ラックへ割り当てる簡略例で、別置きネットワーク・ストレージを加える際はその分を差し引きます。</p>
+<p>液冷負荷＝IT×液冷回収率。空冷負荷＝IT−液冷負荷。各設備群N＝切上げ（対象負荷÷単機能力）。N+1は負荷が正の設備群に予備1台、2NはN×2台。現実の複数ブロック構成では各ブロックに予備が必要な場合があります。チラー対象はIT熱だけを簡略計上。ポンプ・UPS損失等の追加熱、夏季低下、ドライ／フリークーリングは別途設計。空冷チラーとドライクーラー、冷却塔は互換の同一機器ではありません。</p>
+<p>電池エネルギー＝IT MW×1,000×保持時間÷60÷有効率（kWh）。ここではIT負荷のみ。冷却補機を停電中も支える場合は加算が必要。電池の冗長分、経年劣化余裕、温度・DoD制限は未計上。ラックBBUを別に足していません。非常用発電機もIT負荷のみの下限モデルで、実際は冷却・ポンプ・補機、過渡応答等を加えるため施設用台数を保証しません。</p>
+<p>定格の参考：ラック120 kW（NVIDIA GB200）、CDU1.35 MW（Vertiv、ATD4℃）、UPS2.4 MW（富士電機、適用電圧条件あり）。CRAH0.4 MW、チラー2 MW、発電機3 MW、PUE、液冷率等は編集用仮定。温度条件の違う製品の能力をそのまま比較しないでください。</p>
+</details></div><span class="references"><a href="https://docs.nvidia.com/dgx/dgxgb200-user-guide/hardware.html" rel="noopener" target="_blank">NVIDIA：DGX GB200 Hardware</a> / <a href="https://www.vertiv.com/en-us/products-catalog/thermal-management/high-density-solutions/vertiv-coolchip-cdu/" rel="noopener" target="_blank">Vertiv：CoolChip CDU 製品仕様</a> / <a href="https://www.fujielectric.co.jp/about/news/detail/20230707103048445.html" rel="noopener" target="_blank">富士電機：大容量無停電電源装置 7500WXシリーズ</a></span><h2 id="dcsim-model-sources">計算の出典・定義</h2><div class="tbl research-table"><table><thead><tr><th>ID／発行者</th><th>資料・公表日</th><th>使用箇所・定義</th></tr></thead><tbody><tr><td>nv / NVIDIA</td><td><a href="https://docs.nvidia.com/dgx/dgxgb200-user-guide/hardware.html" rel="noopener" target="_blank">DGX GB200 Hardware</a><br>2026-09-17更新</td><td>ラック構成・電源。PSU定格合計をラック消費電力と混同しない。</td></tr><tr><td>cdu / Vertiv</td><td><a href="https://www.vertiv.com/en-us/products-catalog/thermal-management/high-density-solutions/vertiv-coolchip-cdu/" rel="noopener" target="_blank">CoolChip CDU 製品仕様</a><br>閲覧時点</td><td>CDU1350＝1,350 kW、ATD（施設供給水とIT供給液の接近温度差）4℃条件。液液熱交換式の製品例。</td></tr><tr><td>ups / 富士電機</td><td><a href="https://www.fujielectric.co.jp/about/news/detail/20230707103048445.html" rel="noopener" target="_blank">大容量無停電電源装置 7500WXシリーズ</a><br>2023-07-07</td><td>2,400 kVA／2,400 kW（380 Vでは2,280 kW）。通常効率96%。</td></tr></tbody></table></div><div class="standard-retained-footer"><a href="#" data-goto="dcv">← バリューチェーンへ戻る</a></div></section><footer class="standard-footer"><a href="#" data-goto="dcv">← バリューチェーンへ戻る</a><a href="#" data-goto="dc">データセンターの統計レポート</a>バリューチェーン一覧整備状況</footer></div></div>
+</main>
+</div>
+<script>
+(function(){
+var view=document.getElementById('view-dcsim');if(!view)return;
+var main=view.querySelector('main');if(!main||main.dataset.dcsimModelReady)return;main.dataset.dcsimModelReady='true';
+function compute(p){
+ const names=['it','pue','load','liq','rack','cdu','crah','chiller','ups','gen','mins','eta'];
+ if(names.some(k=>!Number.isFinite(p[k])))throw Error('すべての前提に数値を入力してください。');
+ if(p.it<0||p.it>1000||p.pue<1||p.pue>3||p.load<0||p.load>100||p.liq<0||p.liq>100||p.mins<0||p.mins>120||p.eta<=0||p.eta>100||['rack','cdu','crah','chiller','ups','gen'].some(k=>p[k]<=0))throw Error('IT負荷は0–1,000 MW、PUEは1–3、比率は0–100%、機器容量は正の値を指定してください。');
+ if(!['n','n1','2n'].includes(p.redundancy))throw Error('冗長構成を選択してください。');
+ const liquid=p.it*p.liq/100,air=p.it-liquid;
+ const n=(q,c)=>q<=0?0:Math.max(1,Math.ceil(q/c-1e-10));
+ const install=a=>a===0?0:p.redundancy==='2n'?a*2:p.redundancy==='n1'?a+1:a;
+ const cdu=n(liquid,p.cdu),crah=n(air,p.crah),chiller=n(p.it,p.chiller),ups=n(p.it,p.ups),gen=n(p.it,p.gen);
+ return {facility:p.it*p.pue,energy:p.it*p.load/100*p.pue*8760/1000,liquid,air,racks:n(p.it*1000,p.rack),battery:p.it*1000*p.mins/60/(p.eta/100),cdu,crah,chiller,ups,gen,installed:{cdu:install(cdu),crah:install(crah),chiller:install(chiller),ups:install(ups),gen:install(gen)}};
+}
+const fmt=(n,d=0)=>n.toLocaleString('ja-JP',{maximumFractionDigits:d,minimumFractionDigits:d});
+const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+for(const model of main.querySelectorAll('.model')){
+ const fields=[...model.querySelectorAll('input,select')],get=()=>Object.fromEntries(fields.map(e=>[e.name,e.tagName==='SELECT'?e.value:e.value.trim()===''?NaN:Number(e.value)]));
+ function render(){
+  const error=model.querySelector('.model-error'),summary=model.querySelector('.model-summary'),out=model.querySelector('.model-output');
+  try{const p=get(),v=compute(p);error.textContent='';
+   summary.innerHTML=`<div>施設設計電力<strong>${fmt(v.facility,2)} MW</strong>IT＋非IT（仮定PUE）</div><div>年間施設電力量<strong>${fmt(v.energy,2)} GWh</strong>平均負荷率を反映</div><div>計算ラック数（概算）<strong>${fmt(v.racks)} 架</strong>全ITをラックへ割当てる簡略例</div>`;
+   const rows=[['CDU（液冷分）',v.liquid,p.cdu,v.cdu,v.installed.cdu],['CRAH等（残存空冷分）',v.air,p.crah,v.crah,v.installed.crah],['チラー（IT熱のみ・簡略）',p.it,p.chiller,v.chiller,v.installed.chiller],['UPS（IT負荷のみ）',p.it,p.ups,v.ups,v.installed.ups],['発電機（IT負荷のみの下限）',p.it,p.gen,v.gen,v.installed.gen]];
+   out.innerHTML='<table><thead><tr><th>設備</th><th>対象負荷 MW</th><th>単機能力 MW</th><th>必要N 台</th><th>冗長込み 台</th></tr></thead><tbody>'+rows.map(r=>'<tr>'+r.map((c,i)=>'<td>'+escape(i===1?fmt(c,2):i===2?fmt(c,2):c)+'</td>').join('')+'</tr>').join('')+'</tbody></table><p>蓄電池の必要エネルギー（劣化・予備分を除く）：<b>'+fmt(v.battery,1)+' kWh</b>。保持'+p.mins+'分、IT負荷のみ。施設UPSとラックBBUは二重計上しない。</p><p class="small">変圧器・受電盤・ラックPDU・ポンプ・冷却塔・コールドプレート・QD・光部品の個数は、この入力だけでは確定しません。電圧・系統・ブロック・配管・ラック構成の設計が必要です。</p>';
+   if(p.rack===120){out.insertAdjacentHTML('beforeend','<details><summary>GB200の公開ラック構成を全ラックへ採用する場合の内訳</summary><p>これは公開構成の単純換算です。別置きネットワーク・ストレージ分を控除していないため、実施設の計算ラック数を保証しません。</p><p>GPU '+fmt(v.racks*72)+'個、CPU '+fmt(v.racks*36)+'個、計算トレイ '+fmt(v.racks*18)+'台、NVLinkスイッチトレイ '+fmt(v.racks*9)+'台、管理TOR '+fmt(v.racks*2)+'台、電源棚 '+fmt(v.racks*8)+'台、PSU '+fmt(v.racks*48)+'個。冷却板・QD・光部品は設計依存のため固定しません。</p></details>');}
+  }catch(e){error.textContent=e.message;summary.textContent='前提を修正すると再計算します。';out.innerHTML='';}
+ }
+ fields.forEach(e=>e.addEventListener('input',render));
+ for(const b of model.querySelectorAll('[data-preset]'))b.addEventListener('click',()=>{const it=model.querySelector('[name=it]'),liq=model.querySelector('[name=liq]');it.value=b.dataset.preset==='large'?100:12;liq.value=b.dataset.preset==='air'?0:80;render();});render();
+}
+for(const toolbar of main.querySelectorAll('.parts-toolbar')){
+ const cards=[...toolbar.nextElementSibling.querySelectorAll('.part-card')],input=toolbar.querySelector('input'),count=toolbar.querySelector('.parts-count'),expand=toolbar.querySelector('button');
+ const update=()=>{let visible=0;const q=input.value.trim().toLowerCase();cards.forEach(c=>{c.hidden=!c.textContent.toLowerCase().includes(q);if(!c.hidden)visible++;});count.textContent=visible?`${visible} / ${cards.length}項目`:'該当する部品はありません。検索語を変更してください。';};
+ input.addEventListener('input',update);expand.addEventListener('click',()=>{const open=cards.some(c=>!c.hidden&&!c.open);cards.filter(c=>!c.hidden).forEach(c=>c.open=open);expand.textContent=open?'すべて閉じる':'すべて開く';});update();
+}
+
+})();
+</script>
