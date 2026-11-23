@@ -1,0 +1,695 @@
+{
+  "version": 1,
+  "editorReportId": 32,
+  "lang": "en",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation Report",
+  "dateDisplay": "17 November 2026",
+  "dateISO": "2026-11-17",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "IHI Corporation (7013)",
+  "headlineHtml": "Aero aftermarket at full thrust, property gains in the co-pilot seat: initiation on IHI as <strong>orders have to catch up with record profits</strong>",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥2,181",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥2.44tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥2,116 – ¥4,698",
+      "asOf": "13 Nov 2026 (Finnhub via search results; low 4 Nov 2026, high 10 Feb 2026)"
+    },
+    {
+      "label": "P/E (FY3/26 basic EPS ¥151.88, split-adjusted)",
+      "value": "14.4x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY3/27E co. guidance EPS ¥173.88)",
+      "value": "12.5x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY3/27E dividend (company forecast)",
+      "value": "¥25 / share (1.1% yield)",
+      "asOf": "Raised from ¥23 at Q2 FY3/27, 4 Nov 2026 (interim ¥11.50 decided); split-adjusted basis"
+    },
+    {
+      "label": "Next event",
+      "value": "Q3 FY3/27 results, early Feb 2027",
+      "asOf": "Interview pack estimate, Nov 2026 (company does not pre-announce the date in the sources used)"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "Heavy industry's aero-engine annuity, with a property portfolio attached:",
+  "ledeHtml": "IHI Corporation (7013, TSE Prime) is the Tokyo-based heavy-industry group whose four reportable segments — Resources, Energy &amp; Environment; Social Infrastructure; Industrial Systems &amp; General-Purpose Machinery; and Aero Engine, Space &amp; Defense — span nuclear and carbon-solutions plant work, bridges, turbochargers and parking/logistics systems, and a civil aero-engine business run on the risk-and-revenue-sharing model with the global engine OEMs. The initiation question is not whether profits are at a record — they are — but what kind of record it is. FY3/26 operating profit was ¥165,534mn (a 10.1% margin) and FY3/27 company guidance, raised twice, is ¥270,000mn; yet <strong>¥93,000mn of that guided profit is real-estate sale gains (company disclosure)</strong>, and the FY3/26 print itself was lifted by business- and investment-property transfer gains. Underneath, the genuine engine is real: <strong>civil aero engines are an aftermarket annuity (spares were 60% of civil-engine revenue in FY3/26, per company disclosures)</strong>, Aero Engine, Space &amp; Defense earned ¥112,429mn at a 17.3% margin in FY3/26, and order intake set a record of ¥1,954,700mn. Strengths: (1) the aero aftermarket — H1 FY3/27 Aero segment profit of ¥72,200mn at a 21.6% margin, with spare-parts sales running ahead of plan and a full-year segment guide of ¥150,000mn (company guidance); (2) a portfolio reform that is, in management's own Q&amp;A words, 'broadly complete', with the loss-making tail transferred out across FY3/25–26 and the remaining three segments repositioned as lifecycle-business (LCB) cash generators; (3) a rebuilt equity base — owners' equity ratio 16.4% at FY3/21 to 26.9% at FY3/26 and 28.4% at September 2026 — funding a rising dividend (FY3/27 forecast ¥25, split-adjusted, raised at Q2). Weaknesses: (1) earnings quality and volatility — the ten-year record contains an operating loss of ¥70,138mn in FY3/24 (PW1100G-JM programme charges drove the Aero segment to a ¥102,897mn loss), and gross profit minus SG&amp;A was only ¥32,807mn in FY3/22, when net other operating income of ¥48,690mn did the work; (2) the guide's dependence on H2 execution — ¥50,400mn of the property gains and ¥1,111,300mn of the ¥1,890,000mn orders guide (company guidance) must land in H2, after H1 orders fell 12.8% YoY; (3) disclosure limits that constrain the debate — no regional split in any IFRS tanshin, no defence-only P&amp;L, and order backlog published only in briefing materials. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (J-GAAP FY3/17–FY3/20, IFRS from FY3/21, each year on its own standard); the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "H1 FY3/27: a record half — with ¥42.6bn of it from property sales.",
+      "html": "For the six months to 30 September 2026 (IFRS), revenue was ¥779,318mn (+9.2% YoY), operating profit ¥114,979mn (+65.6%, a first-half record), profit before tax ¥122,750mn and net income attributable to owners ¥84,994mn (+52.0%); basic EPS was ¥80.17 (split-adjusted). Inside operating profit sit ¥42,600mn of real-estate sale gains (¥42,793mn of gains on sale of property, intangibles and investment property in the cash-flow statement); <strong>excluding them, operating profit was ¥72,300mn (company disclosure), a 9.3% margin</strong> — still a record trajectory, but a different one. Operating cash flow was an outflow of ¥65,000mn on inventory build and payables payments, partly offset by the property proceeds inside a ¥8,900mn investing inflow. Source: Q2 FY3/27 tanshin [IFRS], 4 November 2026; Q2 briefing materials and Q&amp;A summary, 4 November 2026."
+    },
+    {
+      "leadHtml": "Guidance raised twice — revenue ¥1,880,000mn, operating profit ¥270,000mn, of which ¥93,000mn is property gains (company guidance).",
+      "html": "Full-year FY3/27 guidance was raised at Q2 (4 November 2026) from the Q1 revision (5 August 2026: revenue ¥1,840,000mn, operating profit ¥250,000mn, owners' net income ¥172,000mn) and the initial plan of 8 May 2026 (¥1,830,000mn / ¥240,000mn / ¥165,000mn), with orders guidance raised to ¥1,890,000mn (from ¥1,770,000mn) and the dividend forecast raised ¥2 to ¥25. The ¥270,000mn operating-profit guide includes ¥93,000mn of real-estate sale gains (¥42,600mn booked in H1; ¥50,400mn assumed in H2); <strong>excluding them, guided operating profit is ¥177,000mn (9.4% margin)</strong> — itself a record on a like-for-like narrative the company is keen to stress, but one that leaves H2 with both the property closings and ¥1,111,300mn of orders (58.8% of the year) still to deliver. H2 FX assumption: USD/JPY 150. Source: Q2 FY3/27 tanshin, 4 November 2026 (guidance tracker verified chain); Q2 briefing materials."
+    },
+    {
+      "leadHtml": "Strength — Aero is the profit engine, and it is an aftermarket business.",
+      "html": "Aero Engine, Space &amp; Defense was 39.4% of FY3/26 revenue (¥648,135mn) and earned ¥112,429mn of segment profit (17.3% margin) after the FY3/24 programme-charge loss. In H1 FY3/27 its revenue rose 22.3% YoY to ¥334,800mn and segment profit 32.0% to ¥72,200mn (21.6% margin) on civil-engine spare-parts demand; <strong>the civil-engine revenue mix (FY3/26 base) is spares 60% / new engines 33% / maintenance 7%</strong>, i.e. the profit pool is flight hours and shop visits, not unit deliveries. Full-year segment operating-profit guidance is ¥150,000mn (company guidance, Q2 briefing) — 55.6% of the group guide before Other/adjustments — and management left the dollar-based Aero outlook unchanged in the Q2 raise, citing tight parts supply as the reason for caution rather than demand. Source: Q2 FY3/27 tanshin segment note; Q2 briefing and Q&amp;A summary, 4 November 2026; civil mix per company disclosures via FIELDNOTES aircraft-engines report (2026-11-16)."
+    },
+    {
+      "leadHtml": "Weakness — the ten-year record is a boom-bust-boom, and the equity base is still thin for the risk carried.",
+      "html": "Operating profit across FY3/17–FY3/26 reads ¥47,389mn / ¥72,267mn / ¥82,488mn / ¥60,797mn / ¥27,961mn / ¥81,497mn / ¥89,522mn / −¥70,138mn / ¥143,517mn / ¥165,534mn: <strong>the FY3/24 loss was a single-programme event (PW1100G-JM additional-inspection programme charges and an overseas litigation settlement, booked mainly in Q2 FY3/24, when standalone Aero revenue printed negative)</strong>. Reported ROE of 26.3% (FY3/25) and 28.4% (FY3/26) flatters the base: owners' equity was only ¥300,769mn at FY3/21 (16.4% ratio) after a decade of thin retention, and even at September 2026 the ratio is 28.4% against ¥2,540,965mn of assets that include ¥504,223mn of inventory at FY3/26. The earnings stream is improving in quality — FY3/26 gross profit minus SG&amp;A was ¥136,816mn before net other income — but one programme charge erased a full year of profit within the last three years. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/24 and FY3/26 tanshin."
+    },
+    {
+      "leadHtml": "Orders: a record FY3/26, a soft H1 FY3/27 — the H2 order book is the debate.",
+      "html": "Order intake (disclosed in ¥100mn units, truncated at source — see Basis of preparation) rose to a record ¥1,954,700mn in FY3/26, 1.19x revenue, led by Aero (¥703,100mn) and a step-up in Resources, Energy &amp; Environment (¥624,700mn, +68.7% YoY). H1 FY3/27 intake then fell 12.8% YoY to ¥778,700mn — the company attributes the decline to the rebound from a large prior-year Energy order, with defence and civil aero orders expanding — against a full-year orders guide of ¥1,890,000mn (company guidance), so <strong>H2 must deliver ¥1,111,300mn</strong>. Order backlog at end-H1 FY3/27 was ¥1,712,000mn (briefing materials only; backlog is not disclosed in the tanshin). The three numbers to monitor at Q3 are cumulative orders, operating profit excluding real-estate gains, and Aero segment profit against its ¥150,000mn guide. Source: company results via PL/segment sheet (tanshin qualitative orders table); Q2 FY3/27 briefing materials, 4 November 2026; interview pack, 2026-11-16."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP FY3/17–FY3/20; IFRS from FY3/21, each year as reported) and FY3/27E company guidance",
+        "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive). Profit before tax for J-GAAP years is pre-tax income (ordinary profit not used). Order intake is disclosed in ¥100mn units, truncated at source (register S4). EPS and DPS are as reported in each year's own tanshin: FY3/17 is pre-consolidation (10-for-1 consolidation, Oct 2017); FY3/19–FY3/25 are pre-split and FY3/26 is split-adjusted (7-for-1 split, 1 Oct 2025; FY3/26 DPS of ¥20 = ¥140 pre-split); FY3/18 EPS is calculated and its DPS is 未取得. ROE as reported in the tanshin headers (FY3/18 未取得). FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin [IFRS], 4 Nov 2026 (orders guidance ¥1,890,000mn and dividend ¥25 from the same revision); guided operating profit includes ¥93,000mn of real-estate sale gains.",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY3/17",
+          "FY3/18",
+          "FY3/19",
+          "FY3/20",
+          "FY3/21",
+          "FY3/22",
+          "FY3/23",
+          "FY3/24",
+          "FY3/25",
+          "FY3/26",
+          "FY3/27E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            "1486332",
+            "1590333",
+            "1483442",
+            "1386503",
+            "1112906",
+            "1172904",
+            "1352940",
+            "1322591",
+            "1626831",
+            "1643402",
+            "1880000"
+          ],
+          [
+            "Revenue growth (%)",
+            "—",
+            "7",
+            "-6.7",
+            "-6.5",
+            "—",
+            "5.4",
+            "15.3",
+            "-2.2",
+            "23",
+            "1",
+            "14.4"
+          ],
+          [
+            "Operating profit",
+            "47389",
+            "72267",
+            "82488",
+            "60797",
+            "27961",
+            "81497",
+            "89522",
+            "-70138",
+            "143517",
+            "165534",
+            "270000"
+          ],
+          [
+            "Operating margin (%)",
+            "3.2",
+            "4.5",
+            "5.6",
+            "4.4",
+            "2.5",
+            "6.9",
+            "6.6",
+            "-5.3",
+            "8.8",
+            "10.1",
+            "14.4"
+          ],
+          [
+            "Profit before tax",
+            "18078",
+            "18984",
+            "69446",
+            "38779",
+            "27617",
+            "87637",
+            "72402",
+            "-72280",
+            "138488",
+            "185490",
+            "260000"
+          ],
+          [
+            "Net income to owners",
+            "5247",
+            "8291",
+            "39889",
+            "12812",
+            "13093",
+            "66065",
+            "52082",
+            "-68214",
+            "112740",
+            "160992",
+            "185000"
+          ],
+          [
+            "Basic EPS (¥, as reported)",
+            "3.4",
+            "53.7",
+            "258.5",
+            "84.2",
+            "88.1",
+            "439.8",
+            "344.3",
+            "-450.8",
+            "744.8",
+            "151.9",
+            "173.9"
+          ],
+          [
+            "Dividend per share (¥, as reported)",
+            "0",
+            "—",
+            "70",
+            "50",
+            "0",
+            "70",
+            "90",
+            "100",
+            "120",
+            "20",
+            "25"
+          ],
+          [
+            "ROE (%)",
+            "1.6",
+            "—",
+            "11.8",
+            "3.8",
+            "4.5",
+            "19.3",
+            "12.7",
+            "-16.9",
+            "26.3",
+            "28.4",
+            "—"
+          ],
+          [
+            "Order intake (¥100mn-truncated source)",
+            "1389800",
+            "1505000",
+            "1399200",
+            "1373900",
+            "1097000",
+            "1261200",
+            "1366100",
+            "1376800",
+            "1751100",
+            "1954700",
+            "1890000"
+          ],
+          [
+            "Operating cash flow",
+            "65373",
+            "99018",
+            "46402",
+            "14510",
+            "36380",
+            "114155",
+            "54116",
+            "62117",
+            "177634",
+            "121360",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>IHI reports with a March year-end and adopted IFRS from FY3/21; FY3/17–FY3/20 in this report are J-GAAP as reported in each year's own tanshin, and FY3/21–FY3/26 are IFRS on the same own-year basis, compiled in the PL/segment sheet for 7013 (FY3/22–FY3/26 main block plus 20 quarters, and a supplementary annual history block for FY3/17–FY3/21; all template and history-block checks equal zero). The two standards are never spliced within a year, and the breaks that creates are flagged in Chapter 9. Figures are ¥mn unless stated; order intake is disclosed by the company only in ¥100mn units, truncated at source, and is entered ×100 — treat the last two digits as source rounding, not precision (register S4).</p>\n<p>The ten-year arc is three acts. Act one (FY3/17–FY3/20, J-GAAP): revenue slid from ¥1,486,332mn to ¥1,386,503mn as the post-2015 plant cycle faded, and operating profit oscillated between ¥47,389mn and ¥82,488mn (margins 3.2–5.6%) on a chronically thin equity base — owners' equity of ¥318,163mn at FY3/17, an 18.8% ratio. Act two (FY3/21): COVID cut revenue to ¥1,112,906mn (−11.9% against the IFRS-restated FY3/20 comparative of ¥1,263,178mn in the FY3/21 tanshin; the J-GAAP FY3/20 figure is ¥1,386,503mn — see Chapter 9), operating profit fell to ¥27,961mn, the Aero segment printed a ¥40,474mn loss on programme charges, the dividend was suspended (¥0, after ¥50 in FY3/20), and owners' equity bottomed at ¥300,769mn (16.4%). Act three (FY3/22–FY3/26, IFRS): revenue rebuilt to ¥1,643,402mn — still below the FY3/18 J-GAAP peak of ¥1,590,333mn in real mix terms only just regained — but the profit structure changed. Operating profit reached ¥165,534mn in FY3/26 (10.1% margin, the first double-digit margin in the ten years) and owners' net income ¥160,992mn, with ROE of 28.4% on the still-thin base.</p>\n<p>The act-three path was not smooth, and the FY3/24 hole is the single most important exhibit in the history. In Q2 FY3/24 the company booked large losses on the PW1100G-JM additional-inspection programme (compensation for aircraft groundings and additional maintenance costs on shipped engines, IHI being a programme partner) and on a litigation settlement at an overseas subsidiary; the Aero segment's standalone Q2 FY3/24 revenue printed at −¥69,832mn as programme charges were taken against revenue, full-year Aero segment profit was −¥102,897mn, and group operating profit was −¥70,138mn with a net loss to owners of ¥68,214mn (EPS −¥450.78). The recovery since is equally concentrated: FY3/25 operating profit of ¥143,517mn and FY3/26's ¥165,534mn rest on Aero segment profit of ¥122,791mn and ¥112,429mn respectively, plus, in FY3/26, transfer gains (transportation machinery business and investment property, per the FY3/26 tanshin) inside Other segment profit of ¥35,881mn. Earnings quality below the operating line also swung: equity-method results contributed +¥14,232mn in FY3/26 (including JMU, partly divested in the year) against a ¥8,374mn loss in FY3/23.</p>\n<p>Orders tell the forward story better than revenue for a plant-and-programme business. Intake (¥100mn-truncated source) troughed at ¥1,097,000mn in FY3/21, recovered through ¥1,261,200mn / ¥1,366,100mn / ¥1,376,800mn in FY3/22–24, then stepped up to ¥1,751,100mn in FY3/25 (Aero ¥719,900mn on defence expansion) and a record ¥1,954,700mn in FY3/26 — 1.19x revenue — as Resources, Energy &amp; Environment intake jumped 68.7% to ¥624,700mn alongside Aero's ¥703,100mn. Operating cash flow, lumpy by construction in a contract business, was ¥114,155mn / ¥54,116mn / ¥62,117mn / ¥177,634mn / ¥121,360mn across FY3/22–26. The balance-sheet repair is the quiet achievement of the period: owners' equity rose from ¥300,769mn (FY3/21) to ¥652,243mn (FY3/26) and the owners' equity ratio from 16.4% to 26.9%, while interest-bearing debt (bonds and borrowings, sheet definition) fell from a FY3/24 peak of ¥449,153mn to ¥359,533mn. Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header, 8 May 2026.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "IHI Corporation — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/c1.svg",
+          "alt": "IHI Corporation — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "IHI Corporation — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/c2.svg",
+          "alt": "IHI Corporation — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "IHI Corporation — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/c3.svg",
+          "alt": "IHI Corporation — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "IHI Corporation — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/v1.svg",
+          "alt": "IHI Corporation — revenue and operating margin"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — Q2 FY3/27 results and guidance",
+      "level": "part",
+      "html": "<p>IHI reported Q2 FY3/27 (H1, 1 April–30 September 2026) results on 4 November 2026 (the PL/segment sheet register and batch log date the Q2 release 5 November 2026; the tanshin itself is dated 4 November 2026, which this report uses — see Chapter 9). The company published presentation materials and a Q&amp;A summary (questions answered by Hiromi Oshima, Managing Executive Officer and Head of Finance); the programme's transcript library holds the English translation of that Q&amp;A summary — a company-edited summary, not a verbatim record. This chapter summarises the release; segment detail is in Chapter 5.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "H1 FY3/27 results (cumulative, as reported, IFRS)",
+      "level": "section",
+      "html": "<p>Revenue was ¥779,318mn (+9.2% YoY), operating profit ¥114,979mn (+65.6%; margin 14.8%), profit before tax ¥122,750mn (+64.3%), interim net income ¥85,715mn and net income attributable to owners ¥84,994mn (+52.0%); basic EPS was ¥80.17 and diluted EPS ¥80.16 (split-adjusted). Both revenue and operating profit were first-half records (company). The composition matters more than the headline: operating profit includes ¥42,600mn of real-estate sale gains (the cash-flow statement shows ¥42,793mn of gains on sale of property, plant, intangibles and investment property), so <strong>operating profit excluding real-estate gains was ¥72,300mn (company disclosure), a 9.3% margin</strong> — up ¥6,700mn YoY on the same basis, driven by civil aero-engine demand expansion and lifecycle business in domestic carbon solutions and prime movers (company). Orders received fell 12.8% YoY to ¥778,700mn, which the company attributes to the rebound from a large Energy order in the prior-year half while defence and civil aero orders expanded; order backlog at 30 September 2026 was ¥1,712,000mn (briefing materials — backlog is not a tanshin disclosure).</p>\n<p>By segment (briefing supplementary table, ¥100mn precision; orders / revenue / operating profit): Resources, Energy &amp; Environment ¥178,000mn / ¥178,700mn / ¥700mn (margin 0.4% — Asia EPC and project mix still drag, and H1 took part of the year's risk allocation, see below); Social Infrastructure ¥24,900mn / ¥39,300mn / −¥4,400mn (revenue −33.6% YoY on project timing after the urban-development transfer out of the segment); Industrial Systems &amp; General-Purpose Machinery ¥226,600mn / ¥210,500mn / ¥11,400mn (profit −32.9% YoY, mainly the rebound from the prior-year transportation machinery transfer gain, per the Q&amp;A); Aero Engine, Space &amp; Defense ¥331,400mn / ¥334,800mn / ¥72,200mn (revenue +22.3%, profit +32.0%, margin 21.6%). The Q&amp;A summary adds the colour the print leaves open: Aero's full-year outlook was changed only for FX (the dollar-based view is unchanged; spare parts ran slightly ahead of plan, new-engine shipments remain a guided profit drag of about ¥7,000mn YoY, and management is 'taking a cautious view' on tight parts supply); of the ¥20,000mn full-year risk buffer, ¥14,000mn was allocated to Energy at H1, leaving ¥6,000mn against, among other things, schedule risk on a large Middle East lifecycle project; Energy excluding Asia EPC runs at an operating margin 'over 10%' and management believes the segment can now 'stably secure profit in the ¥30,000mn range'; and the portfolio reform is 'broadly complete'.</p>\n<p>Cash flow and balance sheet: H1 operating cash flow was an outflow of ¥65,000mn (inventory and prepayment build of ¥97,409mn and a ¥53,613mn decrease in trade payables, per the interim cash-flow statement), investing cash flow an inflow of ¥8,900mn (property-sale proceeds exceeded capex) and financing an inflow of ¥38,400mn (commercial paper issuance), leaving cash and equivalents of about ¥137,000mn. At 30 September 2026 total assets were ¥2,540,965mn, total equity ¥748,625mn and owners' equity ¥722,101mn (ratio 28.4%, vs 26.9% at FY3/26 year-end). The interim dividend was decided at ¥11.50 per share (split-adjusted). Source: Q2 FY3/27 tanshin [IFRS], 4 November 2026; Q2 FY3/27 briefing materials and company Q&amp;A summary, 4 November 2026 (English translation in the programme transcript library, retrieved 16 November 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance: raised twice since May — revenue ¥1,880,000mn, operating profit ¥270,000mn (company guidance)",
+      "level": "section",
+      "html": "<p>Full-year FY3/27 guidance, as revised in the Q2 release of 4 November 2026, is revenue ¥1,880,000mn (+14.4% YoY), operating profit ¥270,000mn (+63.1%), profit before tax ¥260,000mn, net income attributable to owners ¥185,000mn and basic EPS of ¥173.88, with orders guidance of ¥1,890,000mn and a dividend forecast of ¥25 per share — company guidance (会社計画), not a J-Core Fundamental Research forecast. The revision chain is steep and is labelled with its dates: initial guidance at the FY3/26 results on 8 May 2026 was revenue ¥1,830,000mn / operating profit ¥240,000mn / profit before tax ¥230,000mn / owners' net income ¥165,000mn (orders ¥1,770,000mn; dividend ¥23); the Q1 revision of 5 August 2026 moved it to ¥1,840,000mn / ¥250,000mn / ¥172,000mn; the Q2 revision of 4 November 2026 added a further ¥40,000mn of revenue and ¥20,000mn of operating profit, citing H1 actuals in civil aero engines and lifecycle business (company-stated reason, Q2 tanshin). The H2 FX assumption was weakened ¥5 to USD/JPY 150.</p>\n<p>Two structural features of the guide define the H2 debate. First, the property component: the ¥270,000mn operating-profit guide includes ¥93,000mn of real-estate sale gains, of which ¥42,600mn was booked in H1 and ¥50,400mn is assumed in H2 — <strong>closing risk on H2 asset sales is therefore a first-order guidance variable</strong>, and the clean comparator is the company's own ex-gains guide of ¥177,000mn (9.4% margin). Second, the orders phasing: H1 delivered 41.4% of guided revenue and 42.6% of guided operating profit (40.8% of the ex-gains guide), but only 41.2% of guided orders, so H2 orders of ¥1,111,300mn (calculated) must run 42.7% above the H1 intake — plausible for a defence/energy order calendar, but it is a forecast about order timing, not about demand already booked. Segment operating-profit guidance (Q2 briefing, company guidance) concentrates the year in Aero: Aero Engine, Space &amp; Defense ¥150,000mn; Industrial Systems &amp; General-Purpose Machinery ¥32,000mn; Resources, Energy &amp; Environment ¥24,000mn; Social Infrastructure ¥7,000mn — the balance to ¥270,000mn sits in Other (which carries the real-estate gains) and adjustments. Against these, H1 progress in Aero (¥72,200mn, 48.1% of guide) is on track with the guided H2 margin dilution from defence mix that management flagged in Q&amp;A, while Social Infrastructure must swing from −¥4,400mn in H1 to +¥11,400mn in H2 (calculated) on project deliveries. Exhibit 3 sets out the H1 segment actuals and the segment profit guide. Source: Q2 FY3/27 tanshin, 4 November 2026; Q1 FY3/27 tanshin, 5 August 2026; FY3/26 tanshin guidance section, 8 May 2026; Q2 briefing materials (segment guide, property-gain split); guidance tracker, 2026-11-17.</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. H1 FY3/27 segment results and FY3/27 company guidance by segment (operating profit)",
+          "sourceHtml": "H1 FY3/27: Q2 FY3/27 briefing supplementary table, 4 Nov 2026 (¥100mn precision as published; consolidated totals as reported in the tanshin are revenue ¥779,318mn and operating profit ¥114,979mn). FY3/27E segment operating profit: Q2 FY3/27 briefing (company guidance); the balance to the ¥270,000mn consolidated guide sits in Other (including the ¥93,000mn of guided real-estate sale gains) and adjustments. Orders guidance is consolidated only (¥1,890,000mn).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "H1 FY3/27 orders",
+            "H1 FY3/27 revenue",
+            "H1 FY3/27 operating profit",
+            "FY3/27E operating profit (guidance)"
+          ],
+          "rows": [
+            [
+              "Resources, Energy & Environment",
+              "178000",
+              "178700",
+              "700",
+              "24000"
+            ],
+            [
+              "Social Infrastructure",
+              "24900",
+              "39300",
+              "-4400",
+              "7000"
+            ],
+            [
+              "Industrial Systems & General-Purpose Machinery",
+              "226600",
+              "210500",
+              "11400",
+              "32000"
+            ],
+            [
+              "Aero Engine, Space & Defense",
+              "331400",
+              "334800",
+              "72200",
+              "150000"
+            ],
+            [
+              "Other / adjustments (residual, briefing-table basis)",
+              "17800",
+              "16000",
+              "35000",
+              "—"
+            ],
+            [
+              "Consolidated",
+              "778700",
+              "779300",
+              "114900",
+              "270000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>IHI is headquartered at Toyosu, Koto-ku, Tokyo, and organises itself into four reportable segments plus an 'Other' category (urban development and other non-reportable businesses). The segment definitions below follow the company's own segment note (Q2 FY3/27 tanshin): Resources, Energy &amp; Environment covers energy plants, carbon solutions, nuclear and prime movers; Social Infrastructure covers bridges, water gates and related construction (the segment was renamed from Social Infrastructure &amp; Offshore Facilities in Q1 FY3/24, and the urban development business moved from this segment to Other from FY3/26); Industrial Systems &amp; General-Purpose Machinery covers vehicular turbochargers, parking and logistics systems, and general-purpose machinery; Aero Engine, Space &amp; Defense covers civil aero engines (development, production and maintenance as a programme partner), defence equipment and space systems. Segment profit is operating profit on the tanshin definition and reconciles to consolidated operating profit via the disclosed adjustment column. In FY3/26 the revenue mix was Aero 39.4%, Industrial Systems 26.7%, Resources 22.7%, Social Infrastructure 7.9% and Other 3.2%; the profit mix was far more concentrated — Aero earned 59.5% of segment profit before adjustments.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Resources, Energy & Environment: nuclear and lifecycle cash, Asia EPC as the drag",
+      "level": "section",
+      "html": "<p>This segment is the group's plant heritage: power-generation plant and carbon-solutions work (boilers, gas turbines and ammonia co-firing/firing development), nuclear equipment and fuel-cycle work (restarts, reprocessing, decommissioning, and innovative reactors including SMR manufacturing preparation), prime movers, and process plant — increasingly wrapped in lifecycle business (LCB: maintenance, inspection and long-term service on the installed domestic base), which management identifies as the segment's profit stabiliser. The financial profile is a study in mix: external revenue of ¥417,844mn / ¥487,683mn / ¥374,780mn / ¥323,855mn / ¥315,722mn across FY3/17–FY3/21 and ¥342,430mn / ¥369,721mn / ¥402,503mn / ¥408,301mn / ¥373,475mn across FY3/22–FY3/26, with segment profit of −¥10,657mn / −¥14,810mn / ¥3,337mn / ¥4,716mn / ¥19,181mn and then ¥22,992mn / ¥26,264mn / ¥17,715mn / ¥16,136mn / ¥5,959mn — margins that peaked at 7.1% (FY3/23) and fell to 1.6% in FY3/26 on overseas project deterioration the FY3/26 tanshin cites explicitly, partly offset by improved nuclear profitability. Orders, however, inflected hard: ¥624,700mn in FY3/26 (+68.7% YoY; ¥100mn-truncated source), the largest segment intake in the ten years, against which H1 FY3/27 orders of ¥178,000mn (−45.4% YoY, the rebound from the prior-year large order) and segment profit of just ¥700mn frame the execution question. Management's own framing in the Q2 Q&amp;A is the balanced one to hold them to: the segment ex-Asia-EPC earns over 10% margins, domestic LCB (coal-plant maintenance, prime-mover services) is 'very strong', the nuclear order outlook was raised to about ¥80,000mn for FY3/27 with a nuclear backlog of approximately ¥100,000mn, and the profit drags that remain are Asia EPC profitability and one large Middle East LCB project's schedule risk (¥6,000mn of unallocated risk buffer). Full-year segment guidance is operating profit of ¥24,000mn (company guidance) — a guide that requires the H2 margin recovery management describes (H2 margin around 10% on the Q&amp;A's framing). Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin qualitative section; Q2 FY3/27 Q&amp;A summary, 4 November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Social Infrastructure: bridges and water gates, shrunk by portfolio reform",
+      "level": "section",
+      "html": "<p>Social Infrastructure is the domestic civil-engineering business — bridges and water gates (IHI Infrastructure Systems and IHI Infrastructure Construction, merged on 1 November 2025 to build a top-class domestic position), plus shield tunnelling and related systems — after a deliberate shrink: IHI Kenzai Kogyo and Niigata Transys were transferred in FY3/26, and the urban development business (the segment's real-estate arm) moved to the Other category from FY3/26, which restates the segment's scale (FY3/25 revenue as originally reported ¥155,910mn with segment profit of ¥9,442mn; restated onto the FY3/26 basis, revenue ¥139,736mn and a segment loss of ¥4,242mn — both bases are carried in the sheet and flagged wherever used). On the as-reported own-year basis, external revenue was ¥147,979mn / ¥144,653mn / ¥132,761mn / ¥142,376mn / ¥148,243mn in FY3/17–FY3/21 and ¥157,445mn / ¥166,155mn / ¥165,394mn / ¥155,910mn / ¥129,642mn in FY3/22–FY3/26, with segment profit of −¥12,083mn / ¥13,934mn / ¥14,236mn / ¥13,497mn / ¥17,131mn and ¥15,363mn / ¥17,089mn / ¥15,066mn / ¥9,442mn / ¥3,727mn — a margin slide from 10.3% (FY3/23) to 2.9% (FY3/26) that the H1 FY3/27 loss of ¥4,400mn on revenue of ¥39,300mn extended. The business is project-phased (H2-weighted deliveries) and the full-year guide of ¥7,000mn operating profit (company guidance) assumes the usual H2 delivery concentration; management conceded in Q&amp;A that the segment 'may come in slightly below plan' within a range the group can absorb. This is now the group's smallest and lowest-return reportable segment, and the one where the 'stable cash generator' label in the mid-term direction is least evidenced by recent prints. Source: company results via PL/segment sheet (tanshin, JPX archive), including supplementary restated FY3/25 rows; FY3/26 tanshin; Q2 FY3/27 Q&amp;A summary.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Industrial Systems & General-Purpose Machinery: turbochargers and the lifecycle pivot",
+      "level": "section",
+      "html": "<p>Industrial Systems &amp; General-Purpose Machinery is the group's most diversified segment: vehicular turbochargers (a global top-tier supplier exposed to ICE volumes and the pace of electrification), parking systems, logistics systems, rotating machinery, agricultural machinery and general-purpose boilers — with the same lifecycle pivot as the rest of the group (parking and logistics LCB cited as H1 FY3/27 profit drivers in the Q&amp;A) and an active portfolio edge: the transportation machinery business was transferred in FY3/25 (its transfer gain flattered that year's result and its absence is the main reason H1 FY3/27 segment profit fell YoY), and in FY3/26 the group completed transfers of the IHI Agritech lawn-care machinery business and IHI General Boiler. External revenue was ¥401,074mn / ¥448,367mn / ¥431,433mn / ¥396,009mn / ¥363,314mn in FY3/17–FY3/21 and ¥369,848mn / ¥428,195mn / ¥457,132mn / ¥475,644mn / ¥438,896mn in FY3/22–FY3/26; segment profit was ¥17,534mn / ¥18,903mn / ¥23,113mn / ¥11,448mn / ¥11,446mn and ¥12,854mn / ¥18,018mn / ¥12,763mn / ¥10,800mn / ¥30,778mn — the FY3/26 margin of 7.0% is the segment's best in the ten years, helped by price improvements and cost-structure strengthening (a +¥3,700mn H1 FY3/27 profit factor per the Q&amp;A) and by the prior-year turbocharger restructuring costs dropping out. Full-year FY3/27 segment guidance is ¥32,000mn of operating profit (company guidance); the open exposures are China demand in H2 (flagged as needing assessment in the Q&amp;A) and the structural question the segment cannot answer internally — how fast turbocharger volumes decay as electrification proceeds, against which the parking/logistics lifecycle base is the hedge being built. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin qualitative section; Q2 FY3/27 Q&amp;A summary.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Aero Engine, Space & Defense: the group's centre of gravity",
+      "level": "section",
+      "html": "<p>Aero Engine, Space &amp; Defense combines three businesses with one production culture. (1) Civil aero engines: <strong>IHI participates as a risk-and-revenue-sharing partner in best-selling programmes across thrust classes — including the PW1100G-JM for the A320neo family (participation of about 15%) and the GE9X for the 777X (about 10.5%)</strong> — earning development/production revenue on new engines and, more profitably, spare-parts and maintenance revenue over decades of fleet life; the Tsurugashima plant is a core MRO base, being expanded (a new repair building; capacity toward about 400 units a year by the early 2030s, company plan) as the GTF fleet's shop-visit wave builds. (2) Defense: aero engines and equipment for the Ministry of Defense, riding Japan's defence-buildup budgets, with a company target (set in 2024) of defence revenue of ¥250,000mn at a 10% operating margin by FY2030 — defence-only revenue and profit are not disclosed today (未取得), which the interview pack flags as the segment's key disclosure gap. (3) Space: rocket and satellite-related systems through IHI Aerospace and group companies, including the next-generation fighter programme's engine development under GCAP with the UK and Italy — a cost-bearing programme this decade, per the interview pack's framing, with no revenue profile disclosed.</p>\n<p>The segment's economics are the group's: external revenue of ¥469,488mn / ¥461,434mn / ¥490,176mn / ¥478,842mn / ¥242,619mn in FY3/17–FY3/21 (the FY3/21 halving is the COVID collapse of civil-engine revenue recognition) and ¥262,295mn / ¥360,272mn / ¥266,896mn / ¥552,700mn / ¥648,135mn in FY3/22–FY3/26; segment profit of ¥53,033mn / ¥60,129mn / ¥46,447mn / ¥40,345mn / −¥40,474mn and −¥9,370mn / ¥43,708mn / −¥102,897mn / ¥122,791mn / ¥112,429mn. Two programme-charge events (FY3/21 and FY3/24, both centred on civil-engine programme costs, the latter the PW1100G-JM inspection programme) each erased more than a year of segment profit — the segment's history is an annuity with occasional very large claims on it. The current cycle is the annuity compounding: FY3/26 civil-engine revenue mix of spares 60% / new engines 33% / maintenance 7% (company disclosures) means profit follows flight hours and shop visits; H1 FY3/27 segment profit of ¥72,200mn at a 21.6% margin and the ¥150,000mn full-year guide (company guidance) both assume spares strength persists while new-engine shipments dilute H2 margin on mix (defence deliveries are also H2-weighted and lower-margin). One governance item belongs in the record: in June 2026 IHI Aerospace received a five-month suspension of eligibility to participate in JAXA competitive bidding (company notice, 2 June 2026) — financially small against the segment, relevant to the space franchise's standing. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin and Q&amp;A summary; interview pack (programme shares, MRO capacity plan, defence target via FIELDNOTES defence report); company notice on IHI Aerospace, 2 June 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>IHI sits at three distinct points of the industrial value chain, and its bargaining position differs at each. <mark>In civil aero engines it is a junior partner with senior economics</mark>: the OEMs (RTX/Pratt &amp; Whitney, GE Aerospace, Rolls-Royce) own the programmes, type certificates and airline relationships, while partners such as IHI fund a share of development and carry a share of programme costs — including, as FY3/24 proved, grounding-compensation and inspection costs — in exchange for a pro-rata share of new-engine revenue and the long aftermarket tail, where pricing power sits with the programme and shop-visit capacity is the scarce asset. The demand driver is global flight hours and fleet ageing on the installed base of neo/LEAP-generation engines; the substitute risk is not another supplier (programme positions are locked for decades) but OEM insourcing of MRO and the pace at which new-engine shipments — dilutive at current pricing — mix against spares. In defence, the customer is effectively one state: Japan's defence-buildup programme lifts order volumes (Aero orders of ¥719,900mn in FY3/25), and the contested variables are margin (historically cost-plus and thin; the company's FY2030 target of a 10% margin is the tell that it is not there yet) and programme timing, including GCAP's cost profile through the 2030s. In plant and infrastructure (Resources, Social Infrastructure, and the EPC parts of Industrial Systems), IHI competes project-by-project against domestic heavy-industry peers (Mitsubishi Heavy Industries, Kawasaki Heavy Industries) and, in Asia EPC, against Korean and Chinese contractors on price — the structural reason that segment's margin is the group's thinnest and why management's stated strategy is to exit price competition into lifecycle services on the installed base, where switching costs and response time, not bid price, decide the work.</p>\n<p>No company-disclosed market-size or market-share figure for IHI's categories is carried in the sources used here, and none is substituted: the verifiable demand evidence is IHI's own order intake (¥1,954,700mn in FY3/26, +11.6% YoY, per the FY3/26 tanshin), the nuclear order outlook raise (to about ¥80,000mn for FY3/27, backlog about ¥100,000mn, per the Q2 Q&amp;A) and the defence order expansion management cites. The two sensitivities that follow for the equity: first, the aftermarket annuity is dollar-linked — guidance FX moved from USD/JPY 145 to 150 at Q2 and the Aero outlook was revised for FX alone — so yen strength is a direct profit headwind to the segment that carries the group; second, the group's growth allocation under the May 2026 mid-term direction (civil aero, defence, nuclear as 'growth businesses'; ammonia and space as 'incubation') concentrates incremental capital in exactly the areas where IHI is a partner or a policy beneficiary rather than a price-setter, which caps the margin structure the equity can capitalise even in the good scenario. Sources: FY3/26 and Q2 FY3/27 tanshin; Q2 FY3/27 Q&amp;A summary; interview pack, 2026-11-16.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 5",
+          "titleHtml": "IHI in the aero-engine value chain",
+          "sourceHtml": "FIELDNOTES sector report §4 (aircraft &amp; engines value chain); company segments from §3 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/d1.svg",
+          "alt": "IHI in the aero-engine value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Segments and regions",
+      "level": "part",
+      "html": "<p>IHI's tanshin disclosure gives a complete business-segment history — sales, profit and (in the qualitative table) order intake by segment — and, on the IFRS basis used since FY3/21, no regional split of any kind: the PL/segment sheet's Regions block is intentionally unused (Drivers D12 = 0; register S5), and this report does not estimate one. The only regional disclosure in the programme's sources is the J-GAAP-era related-information table for FY3/17–FY3/20, presented in Chapter 5b on its own labelled basis. This chapter keeps the disclosure layers separate.</p>",
+      "figures": [
+        {
+          "id": "c4",
+          "number": "Figure 6",
+          "titleHtml": "IHI Corporation — segment revenue, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/c4.svg",
+          "alt": "IHI Corporation — segment revenue, FY3/26"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 7",
+          "titleHtml": "IHI Corporation — segment revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/v2.svg",
+          "alt": "IHI Corporation — segment revenue by year"
+        },
+        {
+          "id": "v3",
+          "number": "Figure 8",
+          "titleHtml": "IHI Corporation — segment revenue mix, FY3/26",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-17-ihi-initiation-32/v3.svg",
+          "alt": "IHI Corporation — segment revenue mix, FY3/26"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Business segments: Aero carries profit; the tail has been cut",
+      "level": "section",
+      "html": "<p>Exhibit 2 gives the ten-year history on the basis disclosed in each year's own tanshin. Three facts organise it. First, profit concentration is extreme and rising: in FY3/26 the five segment lines earned ¥188,774mn of segment profit before a −¥23,240mn adjustment to consolidated operating profit of ¥165,534mn — <strong>Aero ¥112,429mn (59.5% of segment profit)</strong>, Other ¥35,881mn (flattered by transfer gains), Industrial Systems ¥30,778mn, Resources ¥5,959mn and Social Infrastructure ¥3,727mn. In FY3/19, by contrast, Aero earned ¥46,447mn of ¥89,507mn and no segment lost money; the group's earnings power is now an Aero-margin question with a property-and-transfers supplement. Second, the volatility is also Aero's: the segment's margin printed 11.3% / 13.0% / 9.5% / 8.4% in FY3/17–FY3/20, then −16.7% (FY3/21), −3.6% (FY3/22), +12.1% (FY3/23), −38.6% (FY3/24), +22.2% (FY3/25) and +17.3% (FY3/26) — a range no other segment approaches (Resources spans −3.1% to +7.1%; Industrial Systems a comparatively civilised 2.3–7.0% in the IFRS years). Third, the basis breaks are documented, not hidden: the second segment was renamed (Social Infrastructure &amp; Offshore Facilities → Social Infrastructure) in Q1 FY3/24 with no composition change; and from FY3/26 the urban development business moved from Social Infrastructure to Other, so FY3/25 segment figures exist on two bases — as originally reported (Social Infrastructure revenue ¥155,910mn, profit ¥9,442mn; Other revenue ¥34,276mn, profit ¥3,145mn) and as restated in the FY3/26 tanshin (Social Infrastructure ¥139,736mn / −¥4,242mn; Other ¥50,450mn / ¥16,829mn) — the sheet's main block preserves the as-reported basis and carries the restatement in supplementary rows, and so does this report. Orders by segment (¥100mn-truncated source) are complete for FY3/17–FY3/21 and FY3/24–FY3/25 in the sheet; the supplementary rows do not carry Resources intake for FY3/22–FY3/23 or Social Infrastructure intake for FY3/26, so segment-order comparisons are made only where the data exist (group totals are complete for all ten years). Source: company results via PL/segment sheet (tanshin, JPX archive), segment note and qualitative orders table; register S3/S4.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Business segments — external revenue and segment profit (operating profit basis)",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive), segment note, as reported in each year's own tanshin (J-GAAP FY3/17–FY3/20; IFRS from FY3/21). Segment 2 was named Social Infrastructure &amp; Offshore Facilities through FY3/23 and Social Infrastructure from FY3/24. FY3/25 is as originally reported; on the FY3/26 basis (urban development moved to Other) FY3/25 Social Infrastructure is revenue ¥139,736mn / profit −¥4,242mn and Other is ¥50,450mn / ¥16,829mn (FY3/26 tanshin restatement, supplementary rows of the sheet). Segment profit reconciles to consolidated operating profit via the adjustment line.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY3/17",
+            "FY3/18",
+            "FY3/19",
+            "FY3/20",
+            "FY3/21",
+            "FY3/22",
+            "FY3/23",
+            "FY3/24",
+            "FY3/25",
+            "FY3/26"
+          ],
+          "rows": [
+            [
+              "Resources, Energy & Environment — revenue",
+              "417844",
+              "487683",
+              "374780",
+              "323855",
+              "315722",
+              "342430",
+              "369721",
+              "402503",
+              "408301",
+              "373475"
+            ],
+            [
+              "Resources, Energy & Environment — profit",
+              "-10657",
+              "-14810",
+              "3337",
+              "4716",
+              "19181",
+              "22992",
+              "26264",
+              "17715",
+              "16136",
+              "5959"
+            ],
+            [
+              "Social Infrastructure — revenue",
+              "147979",
+              "144653",
+              "132761",
+              "142376",
+              "148243",
+              "157445",
+              "166155",
+              "165394",
+              "155910",
+              "129642"
+            ],
+            [
+              "Social Infrastructure — profit",
+              "-12083",
+              "13934",
+              "14236",
+              "13497",
+              "17131",
+              "15363",
+              "17089",
+              "15066",
+              "9442",
+              "3727"
+            ],
+            [
+              "Industrial Systems & GPM — revenue",
+              "401074",
+              "448367",
+              "431433",
+              "396009",
+              "363314",
+              "369848",
+              "428195",
+              "457132",
+              "475644",
+              "438896"
+            ],
+            [
+              "Industrial Systems & GPM — profit",
+              "17534",
+              "18903",
+              "23113",
+              "11448",
+              "11446",
+              "12854",
+              "18018",
+              "12763",
+              "10800",
+              "30778"
+            ],
+            [
+              "Aero Engine, Space & Defense — revenue",
+              "469488",
+              "461434",
+              "490176",
+              "478842",
+              "242619",
+              "262295",
+              "360272",
+              "266896",
+              "552700",
+              "648135"
+            ],
+            [
+              "Aero Engine, Space & Defense — profit",
+              "53033",
+              "60129",
+              "46447",
+              "40345",
+              "-40474",
+              "-9370",
+              "43708",
+              "-102897",
+              "122791",
+              "112429"
+            ],
+            [
+              "Other — revenue",
+              "49947",
+              "48196",
+              "54292",
+              "45421",
+              "43008",
+              "40886",
+              "28597",
+              "30666",
+              "34276",
+              "53254"
+            ],
+            [
+              "Other — profit",
+              "2582",
+              "2756",
+              "2374",
+              "3577",
+              "3646",
+              "-1011",
+              "1333",
+              "4465",
+              "3145",
+              "35881"
+            ],
+            [
+              "Adjustment / corporate — profit",
+              "-3020",
+              "-8645",
+              "-7019",
+              "-12786",
+              "17031",
+              "40669",
+              "-16890",
+              "-17250",
+              "-18797",
+              "-23240"
+            ],
+            [
+              "Consolidated operating profit",
+              "47389",
+              "72267",
+              "82488",
+              "60797",
+              "27961",
+              "81497",
+              "89522",
+              "-70138",
+              "143517",
+              "165534"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regions: not disclosed on the IFRS basis (未取得); J-GAAP-era split shown for the record",
+      "level": "section",
+      "html": "<p>Regional sales and regional profit are not disclosed in any IFRS tanshin (FY3/21–FY3/26, and none in the FY3/27 interims): the tanshin carries no customer-location or entity-location split, the PL/segment sheet's Regions block is unused by design, and no regional figure for the IFRS years is presented or estimated in this report (未取得 / not disclosed). Regional profit is not disclosed on any basis in any year covered.</p>\n<p>For the record only, the J-GAAP tanshin's related-information section disclosed regional sales by customer location for FY3/17–FY3/20 (six as-disclosed regions), and the sheet's history block preserves them: FY3/17 — Japan ¥728,919mn (49.0% of sales), United States ¥319,877mn, Asia ¥260,370mn, Central &amp; South America ¥26,435mn, Europe ¥116,198mn, Other ¥34,533mn; FY3/18 — Japan ¥782,311mn, United States ¥350,708mn, Asia ¥270,242mn, Central &amp; South America ¥22,862mn, Europe ¥132,633mn, Other ¥31,577mn; FY3/19 — Japan ¥769,848mn, United States ¥326,497mn, Asia ¥260,168mn, Central &amp; South America ¥12,118mn, Europe ¥102,249mn, Other ¥12,562mn; FY3/20 — Japan ¥723,492mn (52.2%), United States ¥363,914mn, Asia ¥214,415mn, Central &amp; South America ¥9,002mn, Europe ¥68,601mn, Other ¥7,079mn. The drift within those four years — the overseas ratio falling from 51.0% to 47.8% as European and Asian plant work shrank — is the geographic signature of the act-one decline in Chapter 1. The FY3/21 IFRS tanshin has no regional note, and the series stops there; any current regional exposure (for example the dollar linkage of aero aftermarket revenue) must be argued from business mix, as Chapter 4 does, not from a disclosed split. Source: company results via PL/segment sheet history block (tanshin related-information tables, FY3/17–FY3/20); register S5/S16.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (¥mn), as reported via the PL/segment sheet (tanshin, JPX archive); FY3/17–FY3/20 are J-GAAP and FY3/21–FY3/26 IFRS, each as disclosed in its own year's tanshin (J-GAAP lines are mapped onto the IFRS template per register S14 — pre-tax income is the J-GAAP 税引前 line, and ordinary profit, a J-GAAP-only subtotal of ¥22,011mn / ¥21,425mn / ¥65,749mn / ¥32,251mn for FY3/17–FY3/20, is not used in the tables). Income statement: sales ¥1,486,332mn / ¥1,590,333mn / ¥1,483,442mn / ¥1,386,503mn / ¥1,112,906mn / ¥1,172,904mn / ¥1,352,940mn / ¥1,322,591mn / ¥1,626,831mn / ¥1,643,402mn for FY3/17–FY3/26; cost of sales ¥1,244,033mn / ¥1,316,915mn / ¥1,205,713mn / ¥1,131,775mn / ¥932,932mn / ¥963,497mn / ¥1,070,935mn / ¥1,177,736mn / ¥1,252,317mn / ¥1,263,891mn; gross profit (calculated for the J-GAAP years as sales − cost of sales; as reported thereafter) ¥242,299mn / ¥273,418mn / ¥277,729mn / ¥254,728mn / ¥179,974mn / ¥209,407mn / ¥282,005mn / ¥144,855mn / ¥374,514mn / ¥379,511mn (margins 16.3% / 17.2% / 18.7% / 18.4% / 16.2% / 17.9% / 20.8% / 11.0% / 23.0% / 23.1% — the FY3/24 collapse and FY3/25–26 step-up are both Aero mix and programme charges, which IHI books substantially against revenue and cost of sales); SG&amp;A ¥194,910mn / ¥201,151mn / ¥195,241mn / ¥193,931mn / ¥164,225mn / ¥176,600mn / ¥193,621mn / ¥212,837mn / ¥223,638mn / ¥242,695mn; net other operating income/(expense) (IFRS years: other income − other expenses; FY3/22 +¥48,690mn on other income of ¥71,452mn, FY3/26 +¥28,718mn on other income of ¥54,342mn including transfer gains) bridges to operating profit of ¥47,389mn / ¥72,267mn / ¥82,488mn / ¥60,797mn / ¥27,961mn / ¥81,497mn / ¥89,522mn / −¥70,138mn / ¥143,517mn / ¥165,534mn. The cleanest single quality gauge in the statements is gross profit minus SG&amp;A — ¥47,389mn-equivalent territory in the J-GAAP years by construction, then ¥32,807mn (FY3/22), ¥88,384mn (FY3/23), −¥67,982mn (FY3/24), ¥150,876mn (FY3/25) and ¥136,816mn (FY3/26), all calculated: <strong>FY3/22's reported operating profit was two-thirds net other income, while FY3/25–26 operating profit is mostly earned above the other-income line</strong>, albeit with transfer gains inside it. Below operating profit (IFRS years): share of profit of associates and JVs was −¥1,933mn / +¥1,187mn / −¥8,374mn / +¥774mn / +¥6,280mn / +¥14,232mn for FY3/21–FY3/26; net finance income/(costs) +¥1,589mn / +¥4,953mn / −¥8,746mn / −¥2,916mn / −¥11,309mn / +¥5,724mn; profit before tax ¥27,617mn / ¥87,637mn / ¥72,402mn / −¥72,280mn / ¥138,488mn / ¥185,490mn; net income (total) ¥16,954mn / ¥68,919mn / ¥55,917mn / −¥64,850mn / ¥117,295mn / ¥165,224mn, of which attributable to owners ¥13,093mn / ¥66,065mn / ¥52,082mn / −¥68,214mn / ¥112,740mn / ¥160,992mn.</p>\n<p>Balance sheet (31 March 2026, IFRS): total assets ¥2,428,559mn; total equity ¥681,531mn, of which owners' equity ¥652,243mn (ratio 26.9%; book value per share ¥615.23, split-adjusted). Cash and equivalents ¥155,084mn; trade and other receivables ¥575,965mn; inventories ¥504,223mn (about 4.8 months of cost of sales, calculated); trade and other payables ¥401,427mn; interest-bearing debt (bonds and borrowings, sheet definition) ¥359,533mn — a net debt position of about ¥204,449mn (calculated) that has improved from ¥310,348mn at FY3/24 but remains material against the equity base. The ten-year balance-sheet story is the equity rebuild: owners' equity (J-GAAP 自己資本 for FY3/17–FY3/20) of ¥318,163mn / 未取得 (FY3/18 — see Chapter 9) / ¥349,180mn / ¥326,375mn / ¥300,769mn / ¥382,134mn / ¥438,782mn / ¥375,989mn / ¥481,726mn / ¥652,243mn, with total assets of ¥1,692,831mn / 未取得 / ¥1,664,529mn / ¥1,740,782mn / ¥1,832,891mn / ¥1,879,673mn / ¥1,949,501mn / ¥2,097,810mn / ¥2,240,392mn / ¥2,428,559mn. Cash flow: operating cash flow was ¥65,373mn / ¥99,018mn / ¥46,402mn / ¥14,510mn / ¥36,380mn / ¥114,155mn / ¥54,116mn / ¥62,117mn / ¥177,634mn / ¥121,360mn across FY3/17–FY3/26; FY3/26 investing outflow was ¥18,423mn (asset-sale proceeds offsetting capex) and financing outflow ¥97,894mn (debt repayment). Per-share data carry two corporate-action breaks (a 10-for-1 share consolidation in October 2017 and a 7-for-1 split on 1 October 2025) and are presented as reported with the breaks flagged in Exhibit 1 and Chapter 9: basic EPS was ¥3.40 (FY3/17, pre-consolidation) / ¥53.7 (FY3/18, calculated) / ¥258.53 / ¥84.21 / ¥88.13 / ¥439.77 / ¥344.30 / −¥450.78 / ¥744.84 / ¥151.88 (FY3/26, split-adjusted; the FY3/25 comparative on the split basis is ¥106.41). Dividends per share were ¥0 / 未取得 / ¥70 / ¥50 / ¥0 / ¥70 / ¥90 / ¥100 / ¥120 / ¥140 pre-split (¥20 split-adjusted for FY3/26), a payout held through the FY3/24 loss year (DOE 3.7% that year, per the tanshin) under a DOE-aware policy. Shares issued: 1,082,759,678 (split-adjusted) at FY3/26 year-end, of which 22,597,750 in treasury; weighted average shares 1,059,967,279. Not disclosed in the tanshin and therefore not presented as history here: order backlog (briefing materials only), R&amp;D expenditure, employees, unit volumes, capacity and utilisation; depreciation &amp; amortisation and capex are not carried in the sheet's main block for FY3/22–FY3/26 (the J-GAAP-era history block carries D&amp;A of ¥57,880mn / ¥56,522mn / ¥53,200mn / ¥57,659mn for FY3/17–FY3/20 and capex for FY3/17, FY3/20 and FY3/21 of ¥54,262mn / ¥66,351mn / ¥57,458mn; FY3/21 D&amp;A is not separable from the combined depreciation, amortisation and impairment line of ¥80,172mn). Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 8 May 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Strategy and mid-term plan — Group Management Policies 2023, portfolio reform, and the Medium-to-Longer-Term Direction (May 2026)",
+      "level": "part",
+      "html": "<p>The closing plan of the last cycle, 'Group Management Policies 2023' (formulated May 2023), set the template the current strategy inherits: shift management resources boldly into growth businesses (aero engines and rockets) and incubation businesses (clean energy), and make the core businesses (Resources/Energy/Environment, Social Infrastructure, Industrial Systems) fund the shift through portfolio transformation and cash generation, alongside investment in people and DX. Its final year, FY3/25, printed revenue of ¥1,626,831mn, an operating margin of 8.8% and ROE of 26.3% as reported — delivery flattered by the same Aero swing and transfer gains discussed in Chapter 6, and this report does not score the plan against numerical targets because the tanshin sources used here state the framework qualitatively rather than carrying its target table (the plan's numerical targets are 未取得 in the sources used).</p>\n<p>The portfolio reform leg is, on the evidence, substantially executed. Across FY3/25–FY3/26 the group completed transfers of the transportation machinery business, IHI Agritech's lawn-care machinery business, IHI General Boiler, IHI Kenzai Kogyo, Niigata Transys and Meisei Electric (weather/disaster-prevention and space operations within the Aero segment), merged its two bridge/water-gate subsidiaries (November 2025), and sold part of its stake in equity-method affiliate Japan Marine United to Imabari Shipbuilding (IHI's voting share 35% → 20%). Management's Q2 FY3/27 Q&amp;A verdict — 'the portfolio reform we had planned is broadly complete', with optimisation continuing at product and service level — is consistent with that record, and the FY3/26 tanshin states the group now moves 'to a stage of sustained high growth'.</p>\n<p>The successor framework is the 'Medium-to-Longer-Term Direction' announced on 8 May 2026 (presented at the Investor Day of 2 June 2026): a 2040 vision for the group, with FY3/27–FY3/29 positioned as Phase 1 — a period of concentrated prior investment (capacity for civil aero engines, defence and nuclear) and financial-base strengthening, ahead of a substantial expansion of operating profit and operating cash flow from FY3/30 (2029年度以降 in the company's wording) and of free cash flow from FY3/33. Growth businesses are civil aero engines, defence and nuclear; incubation businesses are ammonia (a full value chain from production to storage, transport and use, including the Aioi large combustion-test facility for ammonia gas turbines) and space (including satellite-constellation data services); the three core segments are designated stable businesses, to generate cash 'efficiently and stably' through lifecycle business on existing assets and installed stock, with low-profitability operations still subject to portfolio reform. The only quantified company targets in the sources used are segment-level and dated: defence business revenue of ¥250,000mn at a 10% operating margin by FY2030 (company plan, 2024), the nuclear order outlook of about ¥80,000mn for FY3/27 (Q2 Q&amp;A), and Tsurugashima MRO capacity toward about 400 units a year by the early 2030s (company plan). No group-level numerical targets for the new direction are carried in the sources used (未取得) — a disclosure gap to press at the next briefing, per the interview pack.</p>\n<p>Capital allocation and returns, per the Q2 Q&amp;A: Phase 1 prioritises growth investment (with stricter scrutiny of investment returns as interest rates rise, and strengthened free-cash-flow management); dividends are to rise sustainably through Phase 1 (the FY3/27 forecast raise to ¥25 is the first step, a 1.1% yield at the reference price); broader shareholder-return options are a Phase 2 question, from around FY3/29–FY3/30, when cash flow is expected to improve substantially. The monitoring set that substitutes for a fuller plan, in the order the data arrives: cumulative orders against the ¥1,890,000mn FY3/27 guide (H1: ¥778,700mn); operating profit excluding real-estate gains against the ¥177,000mn ex-gains guide (H1: ¥72,300mn), including confirmation that the ¥50,400mn of H2 property gains closes; Aero segment profit against the ¥150,000mn guide and any first disclosure splitting civil from defence; Resources segment margin against management's 'over 10% ex-Asia-EPC' framing; and the remaining ¥6,000mn risk buffer's usage. All plan figures above are company targets or company guidance, labelled as such; this report contains no J-Core Fundamental Research forecasts. Source: FY3/23 tanshin (Group Management Policies 2023), 9 May 2023; FY3/26 tanshin qualitative section (portfolio record; Medium-to-Longer-Term Direction), 8 May 2026; Q2 FY3/27 tanshin and Q&amp;A summary, 4 November 2026; interview pack, 2026-11-16.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "8. Other information",
+      "level": "part",
+      "html": "<p>History. IHI traces to Ishikawajima Shipyard, founded in 1853; the modern group was built through the 1960 merger creating Ishikawajima-Harima Heavy Industries and renamed IHI Corporation in 2007, diversifying from shipbuilding (now held through the JMU affiliate, reduced to a 20% voting stake in FY3/26) into aero engines, plant and industrial machinery. Head office: 3-1-1 Toyosu, Koto-ku, Tokyo (company notices). The shares are listed on the Tokyo Stock Exchange Prime Market.</p>\n<p>Management. Representative Director, President and Chief Executive Officer: Hiroshi Ide — named in that role in the FY3/21 tanshin onward and in the company's February–June 2026 notices and Investor Day materials (company sources; third-party profiles date his presidency from June 2020 and the CEO role from April 2021). The inquiry contact in the FY3/27 tanshin is Hiromi Oshima, Managing Executive Officer and Head of Finance, who also answered the Q2 FY3/27 briefing Q&amp;A. Shares issued: 1,082,759,678 at FY3/26 year-end (split-adjusted for the 7-for-1 split of 1 October 2025), with treasury shares of 22,597,750.</p>\n<p>Major shareholders are not carried in the sources used for this report (未取得 — the tanshin does not disclose the register; no third-party register is substituted). Employees are likewise not disclosed in the tanshin (PL/segment sheet register S10) and are not presented as company disclosure here.</p>\n<p>Shareholder returns. Dividends per share (pre-split basis) rose from ¥70 (FY3/22) through ¥90 and ¥100 to ¥120 (FY3/25) and ¥140 for FY3/26 — paid as an interim ¥70 (pre-split) plus a final ¥10 on the post-split basis, ¥20 in split-adjusted terms — and the FY3/27 forecast is ¥25 split-adjusted (interim ¥11.50 decided), raised ¥2 at Q2. The dividend was held at ¥100 through the FY3/24 loss year; reported DOE was 3.1% / 3.3% / 3.7% / 4.2% / 3.7% across FY3/22–FY3/26 (tanshin dividend tables) and the payout ratio on the split-adjusted FY3/27 forecast is about 14.4% of guided EPS (calculated).</p>\n<p>Market data. The shares closed at ¥2,322.5 on 13 November 2026 (Finnhub via search results; corroborated by TipRanks and StockAnalysis.com), giving a market capitalisation of about ¥2,462.3bn (calculated from the cited price and the 1,060.16mn shares excluding treasury at March 2026; StockAnalysis.com shows ¥2.464tn). The 52-week range was ¥2,116 (4 November 2026) to ¥4,698 (10 February 2026) (Finnhub) — the shares had therefore fallen about 51% from the February 2026 peak into mid-November, a de-rating the interview pack frames as defence-expectation fade versus earnings quality, and closed at ¥2,305.5 on 16 November 2026 (Finnhub). At ¥2,322.5 the shares trade at 15.3x FY3/26 basic EPS of ¥151.88 (split-adjusted), 13.4x FY3/27 company-guidance EPS of ¥173.88, 3.8x FY3/26 book value per share of ¥615.23, and a 1.1% FY3/27 forecast dividend yield (all calculated from the cited price and company-reported per-share data). The next scheduled disclosure is the Q3 FY3/27 tanshin, expected in early February 2027 (interview pack estimate).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. Historical financials, segment data and order intake are taken from the PL/segment sheet for IHI (7013) (IFRS template architecture; March year-end; FY3/22–FY3/26 annual and 20 quarters in the main block, plus a supplementary annual history block for FY3/17–FY3/21 in 'Reported inputs' rows 137+; ¥mn), built from the company's tanshin in the JPX disclosure archive with all template checks and history-block internal checks equal to zero (batch log batch3a and sheet register S1–S17, 2026-11-17). Q1 and Q2 FY3/27 figures are from the Q1 FY3/27 tanshin [IFRS] dated 5 August 2026 and the Q2 FY3/27 tanshin [IFRS] dated 4 November 2026. The Q2 FY3/27 briefing materials and the company's published Q&amp;A summary (4 November 2026; English translation in the programme's transcript library, retrieved 16 November 2026) are used for the real-estate-gain split, segment guidance, backlog and management colour; the summary is company-edited, not verbatim, and is cited as such. Strategy text is from the FY3/23 and FY3/26 tanshin qualitative sections and the Q2 FY3/27 tanshin. Market data are from Finnhub, TipRanks and StockAnalysis.com as returned by web search on 17 November 2026 and are cited with dates in the text; the president's name and role are from the company's own tanshin headers and 2026 notices.</p>\n<p>Discrepancies and basis breaks flagged (not silently resolved). (1) Guidance dates: the sheet register (S11) and the batch log date the Q2 FY3/27 guidance revision 5 November 2026; the tanshin itself is dated 4 November 2026, and the guidance tracker and interview pack agree with the tanshin — this report uses 4 November 2026. The FY3/26 tanshin is dated 8 May 2026 (the JPX URL timestamp of 7 May in register S1 is the filing-system date). (2) Accounting standards: IHI reported under J-GAAP through FY3/20 and adopted IFRS from FY3/21. Each year is presented as disclosed in its own tanshin on its own standard (register S14 mapping for the J-GAAP years); the FY3/21 tanshin's IFRS-restated FY3/20 comparatives (revenue ¥1,263,178mn, operating profit ¥47,859mn, owners' profit ¥8,204mn) differ materially from the J-GAAP FY3/20 as reported (¥1,386,503mn / ¥60,797mn / ¥12,812mn), so FY3/21's reported revenue growth of −11.9% is measured against the restated base, not against the J-GAAP figure shown in Exhibit 1 — no growth rate spanning the FY3/20/FY3/21 boundary should be computed from the table's own columns. (3) FY3/23 restatement: the FY3/24 tanshin's comparative column restates FY3/23 (operating profit ¥81,985mn vs ¥89,522mn as originally reported; owners' net income ¥44,545mn vs ¥52,082mn; total assets ¥1,941,964mn vs ¥1,949,501mn; EPS ¥294.48 vs ¥344.30). The sheet preserves own-year as-reported figures and this report follows the sheet; growth rates quoted from the FY3/24 tanshin (e.g. FY3/24 revenue −2.2%) are measured on its restated comparatives where applicable. (4) Share-count breaks: a 10-for-1 share consolidation in October 2017 makes FY3/17 per-share figures (EPS ¥3.40; BPS ¥206.03) pre-consolidation and not comparable with later years; a 7-for-1 split on 1 October 2025 means FY3/26 documents present per-share data split-adjusted (including FY3/25 comparatives: EPS ¥106.41, BPS ¥454.65), while FY3/22–FY3/25 own-year documents are pre-split (FY3/25 EPS ¥744.84, BPS ¥3,182.56) — Exhibit 1 shows each year as reported in its own tanshin and flags the basis; the sheet applies no retroactive adjustment (register S8). FY3/18 basic EPS of ¥53.7 is calculated (owners' profit ¥8,291mn over the sheet's weighted shares of 154.36mn) because the FY3/18 and FY3/19 tanshin PDFs are glyph-encoded (register S15: FY3/18 was decoded and validated against accounting identities for the IS and segments; FY3/19 was recovered from the FY3/20 tanshin's comparative columns); FY3/18 total assets, owners' equity, ROE and dividend per share could not be recovered from the sources used and are shown as 未取得. (5) Orders: order intake is disclosed only in ¥100mn units, truncated at source, in the tanshin qualitative segment table (register S4); figures are entered ×100 and standalone quarters derived by differencing carry up to about ¥200mn of truncation noise. Order backlog is not disclosed in the tanshin at all — the end-H1 FY3/27 figure of ¥1,712,000mn is from briefing materials and is labelled as such wherever used. Segment order rows in the sheet's supplementary block do not carry Resources, Energy &amp; Environment intake for FY3/22–FY3/23 or Social Infrastructure intake for FY3/26; group totals are complete and segment-order commentary is confined to the years carried. (6) Segment basis changes: the second segment was renamed Social Infrastructure &amp; Offshore Facilities → Social Infrastructure from Q1 FY3/24 (name only); from FY3/26 the urban development business moved from Social Infrastructure to Other — FY3/25 is shown as originally reported in the main tables, with the FY3/26-basis restatement (Social Infrastructure revenue ¥139,736mn / profit −¥4,242mn; Other revenue ¥50,450mn / profit ¥16,829mn) flagged where relevant (register S3). (7) The sheet's FY3/27–FY3/31 'Estimate' columns are template mechanics (last-year ratios carried forward), not company guidance and not J-Core Fundamental Research forecasts; they are not used anywhere in this report. Guidance figures are IHI's published forecasts (会社計画) as revised on the dates stated, and the FY3/27 operating-profit guide includes ¥93,000mn of real-estate sale gains as disclosed by the company.</p>\n<p>Conventions and gaps. Fiscal years are labelled by the March year-end (FY3/27 = year ending 31 March 2027). IHI's own documents label the same year 'FY2026'; the FY3/xx convention is used throughout for consistency with the programme. Items the company does not disclose in the tanshin — regional sales and regional profit on the IFRS basis (FY3/21 onward; the J-GAAP-era FY3/17–FY3/20 regional sales in Chapter 5b are related-information disclosure on a different basis), regional profit in any year, order backlog, R&amp;D expenditure, employees, unit volumes, capacity, utilisation, defence-only revenue and profit, and major shareholders — are described as not disclosed rather than estimated. Depreciation &amp; amortisation and capex are not carried in the sheet's main block for FY3/22–FY3/26 and are shown only for the history years the block carries. KPI history in this report covers ten years (FY3/17–FY3/26) from the PL/segment sheet, matching the Shared Research reference span.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses; KPI history; latest update; business description; market and value chain; segments and regions; financial statements; mid-term plan; other information) and adds the Editor's rating rail.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
