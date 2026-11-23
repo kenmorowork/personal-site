@@ -1,0 +1,393 @@
+---
+// ReportPage — renders a research report in the Research Report
+// Editor's own format (the A4 sell-side layout: masthead, left body
+// column, right rail with rating / price / target / key data), from
+// the render-model JSON the publish bridge generates per report and
+// language (src/data/reports/<base>-<lang>.json). The sheet stays a
+// light "paper" surface in both site themes, like the printed page.
+interface FigureModel {
+  id: string;
+  number?: number;
+  titleHtml?: string;
+  sourceHtml?: string;
+  kind: string;
+  columns?: string[];
+  rows?: string[][];
+  src?: string;
+  alt?: string;
+}
+interface BlockModel {
+  type: string;
+  figure?: FigureModel;
+  heading?: string;
+  level?: string;
+  html?: string;
+  figures?: FigureModel[];
+}
+interface Props {
+  model: any;
+  lang: 'ja' | 'en';
+}
+const { model, lang } = Astro.props as Props;
+const isJa = lang === 'ja';
+const L = {
+  keyPoints: isJa ? 'キーポイント' : 'Key points',
+  rating: isJa ? 'レーティング' : 'Rating',
+  keyData: isJa ? '主要データ' : 'Key data',
+  analyst: isJa ? 'アナリスト' : 'Analyst',
+  upside: isJa ? 'アップサイド' : 'Upside / downside',
+  ratingHistory: isJa ? 'レーティング履歴' : 'Rating history',
+  rhDate: isJa ? '日付' : 'Date',
+  rhPrice: isJa ? '株価' : 'Price',
+  rhTarget: isJa ? '目標株価' : 'Target',
+  figure: isJa ? '図表' : 'Figure',
+};
+const blocks: BlockModel[] = model.blocks ?? [];
+const bullets = model.bullets ?? [];
+const keyData = model.keyData ?? [];
+const ratingHistory = model.ratingHistory ?? [];
+const upsideStr: string = model.upside ?? '';
+const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWith('−');
+---
+
+<article class="rpt-sheet">
+  <header class="rpt-masthead">
+    <div class="rpt-firmrow">
+      <span class="rpt-firm">{model.firmName}</span>
+      <span class="rpt-tydate">{model.reportType} · {model.dateDisplay}</span>
+    </div>
+    <div class="rpt-sectorline">{model.sectorLine}</div>
+    <h1 class="rpt-company">{model.companyName}</h1>
+    <p class="rpt-headline" set:html={model.headlineHtml} />
+  </header>
+
+  <div class="rpt-grid">
+    <div class="rpt-main">
+      {(model.ledeHtml || model.ledeLeadHtml) && (
+        <p class="rpt-lede">
+          {model.ledeLeadHtml && <strong set:html={model.ledeLeadHtml} />}{' '}
+          <Fragment set:html={model.ledeHtml ?? ''} />
+        </p>
+      )}
+
+      {bullets.length > 0 && (
+        <div class="rpt-keypoints">
+          <h3>{L.keyPoints}</h3>
+          <ul>
+            {bullets.map((b: any) => (
+              <li>
+                {b.leadHtml && <strong set:html={b.leadHtml} />}{' '}
+                <span set:html={b.html ?? ''} />
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {blocks.map((block) =>
+        block.type === 'figure' && block.figure ? (
+          <figure class="rpt-fig" id={`fig-${block.figure.id}`}>
+            <figcaption class="rpt-figband">
+              {L.figure} {block.figure.number}
+              {block.figure.titleHtml && (
+                <Fragment>. <span set:html={block.figure.titleHtml} /></Fragment>
+              )}
+            </figcaption>
+            {block.figure.kind === 'table' && block.figure.columns && (
+              <div class="rpt-tablewrap">
+                <table class="rpt-table">
+                  <thead>
+                    <tr>{block.figure.columns.map((c: string) => <th>{c}</th>)}</tr>
+                  </thead>
+                  <tbody>
+                    {block.figure.rows?.map((row: string[]) => (
+                      <tr>{row.map((cell: string, i: number) => <td class={i === 0 ? '' : 'num'}>{cell}</td>)}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {block.figure.kind === 'image' && block.figure.src && (
+              <img class="rpt-figimg" src={block.figure.src} alt={block.figure.alt ?? ''} loading="lazy" />
+            )}
+            {block.figure.sourceHtml && <p class="rpt-source" set:html={block.figure.sourceHtml} />}
+          </figure>
+        ) : block.type === 'section' ? (
+          <section class="rpt-section">
+            {block.heading && <h2>{block.heading}</h2>}
+            {block.html && <div class="rpt-body" set:html={block.html} />}
+            {block.figures?.map((f: FigureModel) => (
+              <figure class="rpt-fig" id={`fig-${f.id}`}>
+                <figcaption class="rpt-figband">
+                  {L.figure} {f.number}
+                  {f.titleHtml && (
+                    <Fragment>. <span set:html={f.titleHtml} /></Fragment>
+                  )}
+                </figcaption>
+                {f.kind === 'table' && f.columns && (
+                  <div class="rpt-tablewrap">
+                    <table class="rpt-table">
+                      <thead>
+                        <tr>{f.columns.map((c: string) => <th>{c}</th>)}</tr>
+                      </thead>
+                      <tbody>
+                        {f.rows?.map((row: string[]) => (
+                          <tr>{row.map((cell: string, i: number) => <td class={i === 0 ? '' : 'num'}>{cell}</td>)}</tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                )}
+                {f.kind === 'image' && f.src && (
+                  <img class="rpt-figimg" src={f.src} alt={f.alt ?? ''} loading="lazy" />
+                )}
+                {f.sourceHtml && <p class="rpt-source" set:html={f.sourceHtml} />}
+              </figure>
+            ))}
+          </section>
+        ) : null
+      )}
+
+      {model.showRatingHistory && ratingHistory.length > 0 && (
+        <section class="rpt-section">
+          <h2>{L.ratingHistory}</h2>
+          <div class="rpt-tablewrap">
+            <table class="rpt-table">
+              <thead>
+                <tr><th>{L.rhDate}</th><th>{L.rating}</th><th>{L.rhPrice}</th><th>{L.rhTarget}</th></tr>
+              </thead>
+              <tbody>
+                {ratingHistory.map((r: any) => (
+                  <tr><td>{r.date}</td><td>{r.rating}</td><td>{r.price}</td><td>{r.target}</td></tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      {model.holdingsLine && <p class="rpt-holdings">{model.holdingsLine}</p>}
+    </div>
+
+    <aside class="rpt-rail">
+      <div class="rpt-ratingbox">
+        <div class="rpt-raillabel">{L.rating}</div>
+        <div class="rpt-ratingvalue">{model.rating}</div>
+      </div>
+      <dl class="rpt-railrows">
+        {model.priceValue && (
+          <div class="rpt-railrow">
+            <dt>{model.priceLabel}</dt>
+            <dd>{model.priceValue}</dd>
+            {model.priceAsOf && <p class="rpt-asof">{model.priceAsOf}</p>}
+          </div>
+        )}
+        {model.targetValue && (
+          <div class="rpt-railrow">
+            <dt>{model.targetLabel}</dt>
+            <dd>{model.targetValue}</dd>
+          </div>
+        )}
+        {upsideStr && (
+          <div class="rpt-railrow">
+            <dt>{L.upside}</dt>
+            <dd class={upsideNeg ? 'rpt-down' : 'rpt-up'}>{upsideStr}</dd>
+          </div>
+        )}
+      </dl>
+
+      {keyData.length > 0 && (
+        <div class="rpt-keydata">
+          <h4>{L.keyData}</h4>
+          <table>
+            <tbody>
+              {keyData.map((kd: any) => (
+                <tr>
+                  <td class="kd-label">{kd.label}</td>
+                  <td class="kd-value">
+                    {kd.value}
+                    {kd.asOf && <span class="kd-asof"> {kd.asOf}</span>}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+
+      {model.analystName && (
+        <div class="rpt-analyst">
+          <h4>{L.analyst}</h4>
+          <p class="rpt-aname">{model.analystName}</p>
+          {model.analystTitle && <p>{model.analystTitle}</p>}
+          {model.analystEntity && <p>{model.analystEntity}</p>}
+        </div>
+      )}
+    </aside>
+  </div>
+</article>
+
+<style>
+  .rpt-sheet {
+    --navy: #10294f;
+    --ink: #1c2733;
+    --mut: #5b6b7f;
+    --line: #d8dde6;
+    background: #fff;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    box-shadow: 0 1px 3px rgba(16, 24, 40, 0.08), 0 16px 40px rgba(16, 24, 40, 0.08);
+    padding: 44px 48px 40px;
+    font-size: 15px;
+    line-height: 1.75;
+  }
+  .rpt-firmrow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+    border-bottom: 3px double var(--navy);
+    padding-bottom: 10px;
+  }
+  .rpt-firm {
+    font-family: Georgia, 'Times New Roman', 'Hiragino Mincho ProN', 'Yu Mincho', serif;
+    font-size: 21px;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    color: var(--navy);
+  }
+  .rpt-tydate { font-size: 12.5px; color: var(--mut); white-space: nowrap; }
+  .rpt-sectorline {
+    margin-top: 10px;
+    font-size: 11.5px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--mut);
+  }
+  .rpt-company { margin: 6px 0 0; font-size: 25px; font-weight: 700; line-height: 1.35; }
+  .rpt-headline { margin: 8px 0 0; font-size: 18.5px; font-weight: 600; line-height: 1.55; }
+  .rpt-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 272px;
+    gap: 34px;
+    margin-top: 26px;
+  }
+  .rpt-lede { margin: 0; }
+  .rpt-keypoints {
+    margin-top: 22px;
+    border: 1px solid var(--line);
+    background: #f7f9fc;
+    padding: 16px 20px 8px;
+  }
+  .rpt-keypoints h3 {
+    margin: 0 0 8px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--navy);
+  }
+  .rpt-keypoints ul { margin: 0; padding-left: 18px; }
+  .rpt-keypoints li { margin: 0 0 10px; }
+  .rpt-section { margin-top: 30px; }
+  .rpt-section h2 {
+    font-size: 17.5px;
+    font-weight: 700;
+    line-height: 1.45;
+    margin: 0 0 10px;
+    padding-bottom: 6px;
+    border-bottom: 1.5px solid var(--navy);
+  }
+  .rpt-body :global(p) { margin: 0 0 0.95em; }
+  .rpt-body :global(ul), .rpt-body :global(ol) { margin: 0 0 0.95em; padding-left: 1.4em; }
+  .rpt-body :global(li) { margin: 0.3em 0; }
+  .rpt-fig { margin: 22px 0; }
+  .rpt-figband {
+    background: var(--navy);
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1.5;
+    padding: 6px 10px;
+  }
+  .rpt-tablewrap { overflow-x: auto; }
+  .rpt-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12.5px;
+    line-height: 1.55;
+  }
+  .rpt-table th, .rpt-table td {
+    border: 1px solid var(--line);
+    padding: 4px 8px;
+    text-align: left;
+    vertical-align: top;
+  }
+  .rpt-table th { background: #eef1f6; font-weight: 600; }
+  .rpt-table td.num { text-align: right; white-space: nowrap; }
+  .rpt-table tbody tr:nth-child(even) td { background: #fafbfc; }
+  .rpt-figimg { display: block; max-width: 100%; height: auto; margin: 10px auto; }
+  .rpt-source { margin: 6px 0 0; font-size: 11.5px; font-style: italic; color: var(--mut); line-height: 1.6; }
+  .rpt-holdings {
+    margin-top: 34px;
+    border-top: 1px solid var(--line);
+    padding-top: 12px;
+    font-size: 11.5px;
+    color: var(--mut);
+    line-height: 1.65;
+  }
+  .rpt-rail { font-size: 13.5px; }
+  .rpt-ratingbox {
+    border: 1.5px solid var(--navy);
+    padding: 12px 14px;
+    text-align: left;
+  }
+  .rpt-raillabel {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--mut);
+  }
+  .rpt-ratingvalue { font-size: 21px; font-weight: 700; color: var(--navy); line-height: 1.3; }
+  .rpt-railrows { margin: 14px 0 0; }
+  .rpt-railrow { border-bottom: 1px solid var(--line); padding: 8px 0; }
+  .rpt-railrow dt { font-size: 11.5px; color: var(--mut); }
+  .rpt-railrow dd { margin: 2px 0 0; font-size: 16.5px; font-weight: 700; }
+  .rpt-asof { margin: 2px 0 0; font-size: 11px; color: var(--mut); }
+  .rpt-up { color: #067647 !important; }
+  .rpt-down { color: #b3261e !important; }
+  .rpt-keydata, .rpt-analyst { margin-top: 22px; }
+  .rpt-keydata h4, .rpt-analyst h4 {
+    margin: 0 0 8px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--navy);
+    border-bottom: 1.5px solid var(--navy);
+    padding-bottom: 5px;
+  }
+  .rpt-keydata table { width: 100%; border-collapse: collapse; }
+  .rpt-keydata td { padding: 5px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .rpt-keydata .kd-label { color: var(--mut); padding-right: 10px; }
+  .rpt-keydata .kd-value { font-weight: 600; text-align: right; }
+  .rpt-keydata .kd-asof { display: block; font-weight: 400; font-size: 11px; color: var(--mut); }
+  .rpt-analyst p { margin: 2px 0; color: var(--mut); }
+  .rpt-analyst .rpt-aname { font-weight: 700; color: var(--ink); font-size: 14.5px; }
+  .rpt-sheet :global(mark) { background: #fff0a6; padding: 0 1px; }
+  .rpt-sheet :global(.rt-red) { color: #b3261e; }
+  .rpt-sheet :global(.rt-blue) { color: #175cd3; }
+  .rpt-sheet :global(.rt-green) { color: #067647; }
+  .rpt-sheet :global(.rt-navy) { color: #10294f; }
+  .rpt-sheet :global(.fig-ref) { font-size: 0.72em; }
+  @media (max-width: 900px) {
+    .rpt-sheet { padding: 26px 20px 24px; }
+    .rpt-grid { grid-template-columns: 1fr; gap: 22px; }
+    .rpt-rail { order: -1; }
+    .rpt-company { font-size: 21px; }
+    .rpt-headline { font-size: 16.5px; }
+  }
+</style>
