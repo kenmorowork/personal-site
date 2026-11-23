@@ -1,0 +1,478 @@
+
+
+<div class="fn-view" id="view-sd" data-view="sd" hidden><nav class="fn-backbar" aria-label="FIELDNOTES 目次へ"><a class="fn-backlink" href="#/">← FIELDNOTES 目次へ戻る</a></nav>
+<style>
+/* statistics-database/index.html (blob 3e8b7723) scoped under this view main; :root vars moved onto main; html rule dropped */
+#view-sd main{--bg:#f7f5f0; --panel:#fffdf8; --panel2:#efece4; --ink:#1c2430; --ink2:#4c5665; --ink3:#8a93a1;
+    --line:#ddd7c9; --accent:#b3392b; --accent2:#1f5fa8; --up:#177245; --down:#b3392b; --flat:#7a7263;
+    --chip:#efe9db; --shadow:0 1px 2px rgba(28,36,48,.06),0 4px 14px rgba(28,36,48,.05);}@media (prefers-color-scheme: dark){#view-sd main{--bg:#12151b; --panel:#1a1e27; --panel2:#222836; --ink:#e8e6df; --ink2:#a9b0bd; --ink3:#6e7684;
+      --line:#2e3442; --accent:#e0685a; --accent2:#6ea8e8; --up:#4cc084; --down:#e0685a; --flat:#9a917e;
+      --chip:#262c3a; --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);}}#view-sd main *{box-sizing:border-box}#view-sd main{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic UI","Noto Sans JP",system-ui,-apple-system,"Segoe UI",sans-serif;
+    font-size:15px;line-height:1.65}#view-sd main .sd-num{font-variant-numeric:tabular-nums;letter-spacing:.01em}#view-sd main a{color:var(--accent2);text-decoration:none}#view-sd main a:hover{text-decoration:underline}#view-sd main .sd-wrap{max-width:1180px;margin:0 auto;padding:20px 16px 64px}#view-sd main header.sd-top{border-bottom:3px double var(--ink);padding-bottom:14px;margin-bottom:18px}#view-sd main .sd-kicker{font-size:11px;letter-spacing:.22em;color:var(--accent);font-weight:700}#view-sd main h1{font-size:clamp(24px,4.6vw,36px);margin:4px 0 6px;line-height:1.25;font-weight:800}#view-sd main .sd-sub{color:var(--ink2);font-size:13.5px;max-width:760px}#view-sd main .sd-meta{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:10px;font-size:12.5px;color:var(--ink2)}#view-sd main .sd-meta b{color:var(--ink)}#view-sd main /* 今の景色 */
+  .sd-landscape{background:var(--panel);border:1px solid var(--line);box-shadow:var(--shadow);padding:16px 18px;margin-bottom:18px}#view-sd main .sd-landscape h2{font-size:15px;margin:0 0 8px;letter-spacing:.06em}#view-sd main .sd-landscape ul{margin:0;padding-left:1.2em}#view-sd main .sd-landscape li{margin:3px 0;font-size:14px}#view-sd main .sd-landscape b{color:var(--accent)}#view-sd main /* タイムライン */
+  .sd-tl{margin-bottom:20px}#view-sd main .sd-tl h2, #view-sd main .sd-sec-h{font-size:13px;letter-spacing:.18em;color:var(--ink2);margin:0 0 10px;font-weight:700}#view-sd main .sd-tl-row{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}#view-sd main .sd-tl-item{flex:0 0 auto;min-width:138px;background:var(--panel);border:1px solid var(--line);border-top:3px solid var(--accent2);padding:9px 11px;box-shadow:var(--shadow)}#view-sd main .sd-tl-item.sd-today{border-top-color:var(--accent)}#view-sd main .sd-tl-date{font-size:12px;color:var(--ink2);font-weight:700}#view-sd main .sd-tl-name{font-size:13.5px;font-weight:700;line-height:1.4;margin:2px 0}#view-sd main .sd-tl-note{font-size:11.5px;color:var(--ink3);line-height:1.45}#view-sd main .sd-tl-cd{display:inline-block;margin-top:5px;font-size:11px;font-weight:700;background:var(--chip);padding:1px 7px;border-radius:99px}#view-sd main /* フィルタ */
+  .sd-filters{position:sticky;top:0;z-index:20;background:var(--bg);padding:10px 0 8px;border-bottom:1px solid var(--line);margin-bottom:16px}#view-sd main .sd-f-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:6px}#view-sd main .sd-f-row:last-child{margin-bottom:0}#view-sd main .sd-f-label{font-size:11px;letter-spacing:.14em;color:var(--ink3);font-weight:700;margin-right:2px}#view-sd main button.sd-chip{appearance:none;border:1px solid var(--line);background:var(--panel);color:var(--ink2);
+    font:inherit;font-size:12.5px;padding:4px 12px;border-radius:99px;cursor:pointer}#view-sd main button.sd-chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink);font-weight:700}#view-sd main .sd-f-search{flex:1 1 180px;min-width:150px}#view-sd main .sd-f-search input{width:100%;font:inherit;font-size:13.5px;padding:6px 10px;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:6px}#view-sd main .sd-count{font-size:12px;color:var(--ink3)}#view-sd main /* カード */
+  .sd-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}#view-sd main .sd-card{background:var(--panel);border:1px solid var(--line);box-shadow:var(--shadow);padding:15px 16px 13px;display:flex;flex-direction:column}#view-sd main .sd-card-head{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}#view-sd main .sd-tags{display:flex;gap:5px;flex-wrap:wrap}#view-sd main .sd-tag{font-size:10.5px;font-weight:700;letter-spacing:.08em;padding:1px 8px;border-radius:3px;background:var(--chip);color:var(--ink2)}#view-sd main .sd-tag.sd-region{background:var(--ink);color:var(--bg)}#view-sd main .sd-next{text-align:right;font-size:11.5px;color:var(--ink2);line-height:1.4;white-space:nowrap}#view-sd main .sd-next b{display:block;font-size:13px;color:var(--accent)}#view-sd main .sd-card h3{font-size:17px;margin:8px 0 2px;line-height:1.35}#view-sd main .sd-how{font-size:12px;color:var(--ink3);line-height:1.5}#view-sd main .sd-latest{margin:10px 0 4px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}#view-sd main .sd-latest .sd-val{font-size:27px;font-weight:800;line-height:1.1}#view-sd main .sd-latest .sd-per{font-size:12px;color:var(--ink2)}#view-sd main .sd-vs{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 8px}#view-sd main .sd-vs span{font-size:11.5px;padding:1px 8px;border-radius:99px;border:1px solid var(--line);color:var(--ink2)}#view-sd main .sd-vs span.sd-up{color:var(--up);border-color:var(--up);font-weight:700}#view-sd main .sd-vs span.sd-down{color:var(--down);border-color:var(--down);font-weight:700}#view-sd main .sd-vs span.sd-na{color:var(--ink3)}#view-sd main .sd-body{font-size:13px;color:var(--ink2);border-top:1px dashed var(--line);padding-top:8px}#view-sd main .sd-body p{margin:0 0 6px}#view-sd main .sd-body .sd-lbl{font-size:10.5px;font-weight:700;letter-spacing:.12em;color:var(--accent);display:block;margin-bottom:1px}#view-sd main .sd-body .sd-lbl.sd-blue{color:var(--accent2)}#view-sd main .sd-foot{margin-top:auto;padding-top:9px;font-size:11.5px;color:var(--ink3);display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}#view-sd main .sd-spark{margin:6px 0 2px}#view-sd main .sd-spark svg{width:100%;height:64px;display:block}#view-sd main .sd-spark figcaption{font-size:11px;color:var(--ink3)}#view-sd main .sd-empty{padding:34px 10px;text-align:center;color:var(--ink3);border:1px dashed var(--line)}#view-sd main /* 公表の仕組み */
+  .sd-mech{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;margin-top:6px}#view-sd main .sd-mech div{background:var(--panel2);padding:12px 14px;font-size:13px}#view-sd main .sd-mech h4{margin:0 0 4px;font-size:13.5px}#view-sd main .sd-mech p{margin:0;color:var(--ink2)}#view-sd main section{margin-top:30px}#view-sd main footer{margin-top:36px;border-top:1px solid var(--line);padding-top:12px;font-size:12px;color:var(--ink3)}@media (max-width:560px){#view-sd main .sd-grid{grid-template-columns:1fr}#view-sd main .sd-latest .sd-val{font-size:24px}#view-sd main .sd-filters{position:static}}
+</style>
+<main>
+<div class="sd-wrap">
+
+<header class="sd-top">
+  <div class="sd-kicker">FIELDNOTES — STATISTICS &amp; OFFICIAL RELEASES</div>
+  <h1>統計・公開情報データベース</h1>
+  <p class="sd-sub">日本・米国・中国・台湾と世界の主要統計について、「いつ・どうやって出るか」「直近の結果はどうだったか」「先行きをどう読むか」を1画面で確認する台帳。対象はカバー業種（半導体・電子部品、AIDC、工作機械、建設機械・重機、電力設備）に関わる指標を中心に選定。</p>
+  <div class="sd-meta">
+    <span>データ基準日：<b>2026年11月10日（火）13:30 JST</b> 時点の公表値</span>
+    <span>収録指標：<b>20件</b></span>
+    <span>本日 22:30 JST：<b>米10月CPI</b>（前年比は公表なし、下記参照）</span>
+  </div>
+</header>
+
+<div class="sd-landscape">
+  <h2>いまの景色（2026-11-10時点）</h2>
+  <ul>
+    <li><b>物価</b>：米インフレは再加速含み。9月CPIは前月比+0.6%・前年比+3.7%。PPIは前月比+1.3%（2022年3月以来の伸び）。本日の10月CPIは前年比が算出できず前月比のみが手がかり。</li>
+    <li><b>米国景気</b>：10月雇用は+16.5万人と予想（6.5万人）を大幅に上回り、ISM製造業も55.5と10カ月連続の拡大。景気は底堅く、12月FOMCは利上げ織り込みが焦点。</li>
+    <li><b>日本</b>：コアCPIは+2.1%と9カ月ぶりに2%台へ回帰。短観の大企業製造業DIは+24。日銀の「主な意見」（11/10公表）では12月会合での1.50%への利上げを支える意見が目立った。</li>
+    <li><b>AI需要の統計裏付け</b>：世界半導体売上は9月 +146.8%（前年比）、台湾輸出は10月 +58.9%で過去最高、工作機械受注は9月に過去最高額。いずれもAIインフラ投資が牽引。</li>
+    <li><b>中国の乖離</b>：公式PMIは49.3と縮小圏に逆戻りする一方、民間（財新/RatingDog）は52.0と拡大圏。大企業・国有系と中小・民間が別景色。</li>
+  </ul>
+</div>
+
+<div class="sd-tl">
+  <h2>直近の公表カレンダー（JST）</h2>
+  <div class="sd-tl-row" id="sd-timeline"><div class="sd-tl-item sd-today"><div class="sd-tl-date sd-num">11/10（火）</div><div class="sd-tl-name">米 CPI（10月分）</div><div class="sd-tl-note">22:30 JST。前年比は公表なし、前月比のみ</div><span class="sd-tl-cd">本日</span></div><div class="sd-tl-item sd-today"><div class="sd-tl-date sd-num">11/10（火）</div><div class="sd-tl-name">日銀「主な意見」</div><div class="sd-tl-note">8:50 公表済み。12月利上げを支える意見</div><span class="sd-tl-cd">本日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">11/11（水）</div><div class="sd-tl-name">工作機械受注 速報（10月分）</div><div class="sd-tl-note">日工会。9月は過去最高 2,232億円</div><span class="sd-tl-cd">明日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">11/13（金）</div><div class="sd-tl-name">米 PPI（10月分）</div><div class="sd-tl-note">22:30 JST。9月は前年比 +6.3%</div><span class="sd-tl-cd">あと3日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">11/16（月）</div><div class="sd-tl-name">日本 GDP 1次速報（7-9月期）</div><div class="sd-tl-note">8:50。前回は年率 +1.4%</div><span class="sd-tl-cd">あと6日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">11/16（月）</div><div class="sd-tl-name">中国 工業生産など（10月分）</div><div class="sd-tl-note">11月中旬。PMIの弱さを確認する回</div><span class="sd-tl-cd">あと6日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">11/30（月）</div><div class="sd-tl-name">中国 公式PMI（11月分）</div><div class="sd-tl-note">10月は 49.3 と縮小圏</div><span class="sd-tl-cd">あと20日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">12/04（金）</div><div class="sd-tl-name">米 雇用統計（11月分）</div><div class="sd-tl-note">22:30 JST。FOMC直前の最重要データ</div><span class="sd-tl-cd">あと24日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">12/09（水）</div><div class="sd-tl-name">FOMC / 台湾輸出（11月分）</div><div class="sd-tl-note">FOMC声明は JST 12/10 未明</div><span class="sd-tl-cd">あと29日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">12/10（木）</div><div class="sd-tl-name">米 CPI（11月分）</div><div class="sd-tl-note">22:30 JST。前年比が復活する回</div><span class="sd-tl-cd">あと30日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">12/14（月）</div><div class="sd-tl-name">日銀短観（12月調査）</div><div class="sd-tl-note">8:50。日銀会合の直前</div><span class="sd-tl-cd">あと34日</span></div><div class="sd-tl-item"><div class="sd-tl-date sd-num">12/17（木）</div><div class="sd-tl-name">日銀 決定会合（〜18日）</div><div class="sd-tl-note">1.50%への利上げの有無が焦点</div><span class="sd-tl-cd">あと37日</span></div></div>
+</div>
+
+<div class="sd-filters" role="group" aria-label="絞り込み">
+  <div class="sd-f-row" id="sd-f-region">
+    <span class="sd-f-label">地域</span>
+  </div>
+  <div class="sd-f-row" id="sd-f-cat">
+    <span class="sd-f-label">分類</span>
+    <span class="sd-f-search"><input type="search" id="sd-q" placeholder="指標名・公表機関で検索" aria-label="検索" /></span>
+    <span class="sd-count" id="sd-count">20 件表示（次回公表日順）</span><button class="sd-chip" type="button" aria-pressed="true">すべて</button><button class="sd-chip" type="button" aria-pressed="false">物価</button><button class="sd-chip" type="button" aria-pressed="false">景気・生産</button><button class="sd-chip" type="button" aria-pressed="false">設備投資・受注</button><button class="sd-chip" type="button" aria-pressed="false">金融政策</button><button class="sd-chip" type="button" aria-pressed="false">貿易・半導体</button>
+  </div>
+</div>
+
+<main class="sd-grid" id="sd-grid"><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">設備投資・受注</span><button class="sd-chip" type="button" aria-pressed="true">すべて</button><button class="sd-chip" type="button" aria-pressed="false">米国</button><button class="sd-chip" type="button" aria-pressed="false">日本</button><button class="sd-chip" type="button" aria-pressed="false">中国</button><button class="sd-chip" type="button" aria-pressed="false">台湾・世界</button></div><div class="sd-next">次回公表<b>10月分 速報 11/11（明日）</b>明日</div></div><h3>工作機械受注</h3><div class="sd-how">日本工作機械工業会（日工会） ／ 月次 / 翌月上旬に速報、月下旬に確報<br>会員企業の受注額を集計。内需・外需の内訳と業種別（自動車、電気・精密等）が確報で出る。四半期ごとに会長会見で業界見通しが示される。</div><div class="sd-latest"><span class="sd-val sd-num">2,232億円 / 前年比 +60.4%</span><span class="sd-per">2026年9月分（確報） ・ 2026-10-22（速報 10-09）</span></div><div class="sd-vs"><span class="sd-up">判定：過去最高を更新</span><span class="sd-up">前月比：+12.8%</span></div><div class="sd-how" style="margin-bottom:6px">1988年の統計開始以来の過去最高額。内需 639億円（+46.5%）、外需 1,593億円（+66.8%）。1-9月累計 1兆6,693億円（+43.3%）</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>外需のアジア向けが833億円と過去最高。中国は自動車向けが減る一方、産業機械・電気精密が活発。国内もデータセンター・半導体製造装置関連が牽引。受注残は8月末で1兆596億円と高水準が続く。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>日工会は2026年の受注見通しを年初の1.7兆円から2兆円へ上方修正済み。10月分の速報は11/11（明日）。会見では「DC・半導体需要の一段落」に注意を促す発言もあり、ピーク感の有無が焦点。</p></div><div class="sd-foot"><span>出所：<a href="https://www.sbbit.jp/article/st/187719" target="_blank" rel="noopener">SBbit（9月受注・会見詳報）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">物価</span></div><div class="sd-next">次回公表<b>10月分 11月中旬（予定）</b>あと2日</div></div><h3>企業物価指数（CGPI）</h3><div class="sd-how">日本銀行 ／ 月次 / 中旬 8:50<br>企業間で取引される財の価格。輸入物価（円ベース）と合わせて、企業のコスト転嫁と交易条件を読む。鉄鋼・電力・電子部品などの品目別も公表。</div><div class="sd-latest"><span class="sd-val sd-num">未取得</span><span class="sd-per">2026年10月分 ・ 未公表（11月中旬予定）</span></div><div class="sd-vs"><span class="sd-na">状態：未公表</span></div><div class="sd-how" style="margin-bottom:6px">公表後に更新する項目。9月分までの流れはCPIの先行指標として要確認</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>—（公表後に追記する項目）</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>原油高と円安の波及度合いが焦点。米PPI（9月 +6.3%）ほどの加速が日本でも出るかが、機械・素材のコスト前提を左右する。</p></div><div class="sd-foot"><span>出所：<a href="https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm" target="_blank" rel="noopener">日本銀行 統計ページ（公表予定確認）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">米国</span><span class="sd-tag">物価</span></div><div class="sd-next">次回公表<b>10月分 11/13（金）22:30 JST</b>あと3日</div></div><h3>生産者物価指数（PPI）</h3><div class="sd-how">労働統計局（BLS） ／ 月次 / 8:30 ET（JST 22:30）<br>国内生産者の販売価格（最終需要）を集計。CPIの数日後に公表され、企業側のコスト圧力を先行して映す。</div><div class="sd-latest"><span class="sd-val sd-num">前月比 +1.3% / 前年比 +6.3%</span><span class="sd-per">2026年9月分 ・ 2026-10-15</span></div><div class="sd-vs"><span class="sd-up">予想比（前年比）：上振れ</span><span class="sd-na">前回 前年比：+5.6%</span></div><div class="sd-how" style="margin-bottom:6px">最終需要。前月比は2022年3月以来の伸び。財 +2.6%、サービス +0.8%</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>財価格の跳ね上がりが主導。CPIへの転嫁ラグを考えると、年末にかけての物価下押し圧力は弱いというシグナル。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>10月分は11/13（金）公表。CPI（11/10）と合わせて12月FOMCの材料が揃う。</p></div><div class="sd-foot"><span>出所：<a href="https://www.bls.gov/news.release/archives/ppi_10152026.htm" target="_blank" rel="noopener">BLS PPI 2026年9月分</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>7-9月期 1次速報 11/16（月）8:50</b>あと6日</div></div><h3>GDP速報（四半期別GDP速報）</h3><div class="sd-how">内閣府（経済社会総合研究所） ／ 四半期 / 1次速報→2次速報、8:50<br>1次速報は法人企業統計の公表前に出るため設備投資が推計寄り。2次速報で法人企業統計を織り込み改定される。</div><div class="sd-latest"><span class="sd-val sd-num">実質 前期比 +0.4%（年率 +1.4%）</span><span class="sd-per">2026年4-6月期（2次速報） ・ 2026-09-08</span></div><div class="sd-vs"><span class="sd-up">判定：上方改定</span></div><div class="sd-how" style="margin-bottom:6px">1次速報（年率+1.1%）から上方改定。名目 年率 +5.5%。外需寄与 +0.5pt、内需寄与 -0.1pt</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>成長を引っ張ったのは外需。内需は小幅マイナスで、設備投資の本格回復は機械受注・短観の強さと温度差がある。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>7-9月期1次速報は11/16（月）8:50。鉱工業生産の7-9月期は前期比+0.3%と4四半期連続の増産で、大幅なマイナスにはなりにくい材料。</p></div><div class="sd-foot"><span>出所：<a href="https://www.esri.cao.go.jp/jp/sna/kouhyou/kouhyou_top.html" target="_blank" rel="noopener">内閣府 公表予定（GDP速報）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">中国</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>10月分 11月中旬（予定）</b>あと6日</div></div><h3>工業生産・小売売上高・固定資産投資</h3><div class="sd-how">中国国家統計局 ／ 月次 / 中旬（1-2月は合算公表）<br>鉱工業生産（付加価値ベース）、社会消費品小売総額、固定資産投資を同日に一括公表。設備製造業やハイテク製造業の内訳が業種判断に使える。</div><div class="sd-latest"><span class="sd-val sd-num">未公表（11月中旬予定）</span><span class="sd-per">2026年10月分 ・ 未公表</span></div><div class="sd-vs"><span class="sd-na">状態：公表待ち</span></div><div class="sd-how" style="margin-bottom:6px">PMIが示した生産の弱さ（生産指数49.8）が実績統計で裏付けられるかを確認する回</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>—（公表後に追記する項目）</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>公表は11月14〜17日頃の見込み。工業生産のうち装備製造業・ハイテク製造業の伸びと、固定資産投資の製造業向けが設備投資テーマの確認材料。</p></div><div class="sd-foot"><span>出所：<a href="https://www.caixinglobal.com/2026-11-02/chinas-manufacturing-activity-returns-to-contraction-102499864.html" target="_blank" rel="noopener">参考：Caixin（中国統計の文脈）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">設備投資・受注</span></div><div class="sd-next">次回公表<b>9月分 11月中旬（予定）</b>あと7日</div></div><h3>機械受注（船舶・電力除く民需）</h3><div class="sd-how">内閣府（経済社会総合研究所） ／ 月次 / 翌々月中旬 8:50<br>主要機械メーカー280社への調査。変動の大きい船舶・電力を除く民需が設備投資の先行指標として使われ、四半期ごとに見通し調査も公表される。</div><div class="sd-latest"><span class="sd-val sd-num">前月比 +5.2%（1兆698億円）</span><span class="sd-per">2026年8月分 ・ 2026-10-15</span></div><div class="sd-vs"><span class="sd-na">予想：+3.0%（ロイター調査）</span><span class="sd-up">判定：上振れ</span><span class="sd-up">前年比：+18.6%</span></div><div class="sd-how" style="margin-bottom:6px">2カ月ぶり増加。3カ月移動平均 +3.6%。製造業 +1.6%、非製造業（船電除く）+2.9%。基調判断「持ち直しの動きがみられる」</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>はん用・生産用機械（半導体製造装置など）が+9.3%とAI・半導体需要が直撃。リース業・通信業のデジタル投資も非製造業を押し上げた。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>7-9月期の見通しは民需（船電除く）で前期比 +4.9%。9月分は11月中旬に公表され、四半期実績が確定する。</p></div><div class="sd-foot"><span>出所：<a href="https://www.esri.cao.go.jp/jp/stat/juchu/2026/2608gaiyou.pdf" target="_blank" rel="noopener">内閣府 機械受注統計（8月実績）概要</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">物価</span></div><div class="sd-next">次回公表<b>10月分 11月下旬（予定）</b>あと10日</div></div><h3>消費者物価指数（全国CPI）</h3><div class="sd-how">総務省統計局 ／ 月次 / 8:30（対象月の翌月下旬）<br>小売物価統計調査ベース。総合、生鮮食品を除く総合（コア）、生鮮食品・エネルギーを除く総合（コアコア）の3本が公表される。東京都区部の速報が約1カ月先行する。</div><div class="sd-latest"><span class="sd-val sd-num">コア 前年比 +2.1%</span><span class="sd-per">2026年9月分 ・ 2026-10-23</span></div><div class="sd-vs"><span class="sd-up">判定：9カ月ぶりに2%台へ回帰</span><span class="sd-na">プラス継続：61カ月連続</span></div><div class="sd-how" style="margin-bottom:6px">総合も +2.1%。コアコア +2.4%。前回（8月）コアは +1.7%</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>食料・旅行関連・紙製品の値上げと政策要因の剥落が押し上げ。米類は -20.6%と過去最大の下落で、ヘッドラインを抑える方向に働いた。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>大和総研は26年度末にかけてコアCPIが+3%超まで高まると予想（原油高の波及、円安、賃上げ転嫁）。10月分の都区部速報は総合 +2.8%と加速しており、全国も上振れ含み。</p></div><div class="sd-foot"><span>出所：<a href="https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html" target="_blank" rel="noopener">総務省統計局 CPI最新結果</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">米国</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>7-9月期 改定値 11月下旬（予定）</b>あと15日</div></div><h3>GDP速報値</h3><div class="sd-how">経済分析局（BEA） ／ 四半期 / 速報→改定→確報<br>四半期終了後約1カ月で速報値、その後2回改定。個人消費と設備投資の内訳が市場材料になる。</div><div class="sd-latest"><span class="sd-val sd-num">実質 年率 +3.4%</span><span class="sd-per">2026年7-9月期（速報） ・ 2026-10-29</span></div><div class="sd-vs"><span class="sd-up">判定：堅調</span></div><div class="sd-how" style="margin-bottom:6px">内閣府の対外比較資料による。前期の雇用・生産の強さとも整合的な高成長</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>雇用統計・ISMと合わせて「米景気は減速していない」という絵柄。利下げを急ぐ理由が乏しい一方、物価再加速との組み合わせがFOMCを難しくしている。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>改定値は11月下旬。設備投資のうちデータセンター関連の寄与が注目点。</p></div><div class="sd-foot"><span>出所：<a href="https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/files/2026/qe262/pdf/jikei_1.pdf" target="_blank" rel="noopener">内閣府 GDP時系列表（米比較含む）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">設備投資・受注</span></div><div class="sd-next">次回公表<b>10月分 11月末（予定）</b>あと17日</div></div><h3>建設機械出荷金額</h3><div class="sd-how">日本建設機械工業会（CEMA） ／ 月次 / 月末頃<br>会員企業の出荷金額と台数を機種別（油圧ショベル、クレーン等）に集計。内需・外需の内訳あり。年2回、需要予測を公表する。</div><div class="sd-latest"><span class="sd-val sd-num">3,208億円 / 前年比 +5.0%</span><span class="sd-per">2026年9月分 ・ 2026-10-29</span></div><div class="sd-vs"><span class="">判定：増勢は緩やか</span></div><div class="sd-how" style="margin-bottom:6px">11カ月連続増。内需 1,079億円（+5.9%）、外需 2,129億円（+4.5%）。2026年度上期累計は1兆7,699億円（+5.4%）</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>金額ベースは増加が続くが、工作機械のような爆発力はない。財務省貿易統計では9月の油圧ショベル輸出額が前年比マイナス（北米向け減）との分析もあり、金額と台数・仕向け地で読みが割れる。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>工業会の2026年度予測（8月改定）：出荷額3兆733億円（前年度比 横ばい、補給部品除く）。前回予測から1,388億円の上方修正だが、国内は3年連続減の見込み。北米のDC建設向けが下期の変数。</p></div><div class="sd-foot"><span>出所：<a href="https://www.cema.or.jp/general/statistics/index.html" target="_blank" rel="noopener">CEMA 建設機械出荷・生産実績統計</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>10月分 速報 11月末（予定）</b>あと20日</div></div><h3>鉱工業生産指数（IIP）</h3><div class="sd-how">経済産業省 ／ 月次 / 月末 8:50（速報→確報）<br>生産・出荷・在庫の3指数と、製造工業生産予測調査（企業の翌月・翌々月の生産計画）も同時に公表されるのが特徴。</div><div class="sd-latest"><span class="sd-val sd-num">前月比 +2.2%（指数 104.1）</span><span class="sd-per">2026年9月分（速報） ・ 2026-10-30</span></div><div class="sd-vs"><span class="sd-na">予想：+1.2%</span><span class="sd-up">判定：上振れ</span></div><div class="sd-how" style="margin-bottom:6px">3カ月ぶり上昇。半導体製造装置 +13.8%、電子部品・デバイス +3.4%（メモリ +29.8%）。経産省の基調判断は「一進一退」</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>最大の押し上げは半導体製造装置。生産用機械工業は4カ月連続増。AI関連の設備投資が日本の生産統計にも明確に表れている。一方で電子部品・デバイスの在庫率は+15.4%と積み上がっており、調整の芽も同時に出ている。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>予測調査では10月 +5.1%、11月 +0.8%の増産計画（補正後の10月見通しは+3.9%）。10月分速報は11月末。</p></div><div class="sd-foot"><span>出所：<a href="https://journal.meti.go.jp/statistics/48555/" target="_blank" rel="noopener">経産省 METI Journal（9月分解説）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">中国</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>11月分 11/30</b>あと20日</div></div><h3>製造業PMI（国家統計局）</h3><div class="sd-how">中国国家統計局 ／ 月次 / 月末日<br>約3,200社（大企業・国有系の比重が高い）への調査。生産、新規受注、輸出受注などの下位指数も公表。50が境目。</div><div class="sd-latest"><span class="sd-val sd-num">49.3</span><span class="sd-per">2026年10月分 ・ 2026-10-31</span></div><div class="sd-vs"><span class="sd-na">予想：49.9〜50.0</span><span class="sd-down">判定：下振れ</span></div><div class="sd-how" style="margin-bottom:6px">前回（9月）50.1 から0.8pt低下し縮小圏へ。生産 49.8、新規受注 49.4。非製造業 49.7、総合 49.7</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>国慶節後の内需軟化と、クリスマス向け輸出受注の前倒しの反動が主因とされる。企業規模別では大企業のみ50.2と拡大圏を維持し、中小は47台まで低下。ハイテク・装備製造は相対的に底堅い。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>11月分は11/30。4Qの政策支援（財政・設備更新補助）が受注指数に戻るかが焦点。中国の工作機械・建機需要の先行シグナルとして注視。</p></div><div class="sd-foot"><span>出所：<a href="https://www.caixinglobal.com/2026-11-02/chinas-manufacturing-activity-returns-to-contraction-102499864.html" target="_blank" rel="noopener">Caixin Global（NBS PMI詳報）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">米国</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>11月分 12/1 24:00 JST</b>あと21日</div></div><h3>ISM製造業景況指数</h3><div class="sd-how">ISM（供給管理協会） ／ 月次 / 第1営業日 10:00 ET<br>購買担当者への民間アンケート。新規受注・生産・雇用・入荷遅延・在庫の5指数の平均。50が拡大・縮小の境目。</div><div class="sd-latest"><span class="sd-val sd-num">55.5</span><span class="sd-per">2026年10月分 ・ 2026-11-02</span></div><div class="sd-vs"><span class="sd-na">予想：54.6</span><span class="sd-up">判定：上振れ</span></div><div class="sd-how" style="margin-bottom:6px">前回 54.5。10カ月連続の拡大圏。生産 59.0（2021年11月以来の高水準）、新規受注 55.5、価格 75.2</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>拡大した12業種には電気機器、機械、コンピュータ・電子製品が並び、AIDC・半導体関連の設備需要の強さと整合的。価格指数75.2はコスト圧力の根強さを示す。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>新規受注が55台を維持するかが焦点。顧客在庫指数は41.6と「低すぎる」状態が25カ月連続で、生産の先行きを下支えする構図。</p></div><div class="sd-foot"><span>出所：<a href="https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/" target="_blank" rel="noopener">ISM 2026年10月レポート</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">中国</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>11月分 12/1（予定）</b>あと21日</div></div><h3>製造業PMI（財新 / RatingDog）</h3><div class="sd-how">S&amp;P Global（財新） ／ 月次 / 翌月初の営業日 9:45 CST<br>中小・民間・輸出企業寄りの約500-650社への調査。2026年からスポンサー変更で「RatingDog」ブランドが併記される。公式PMIとの乖離自体が情報になる。</div><div class="sd-latest"><span class="sd-val sd-num">52.0</span><span class="sd-per">2026年10月分 ・ 2026-11-02</span></div><div class="sd-vs"><span class="sd-na">予想：51.6</span><span class="sd-up">判定：上振れ</span></div><div class="sd-how" style="margin-bottom:6px">前回（9月）52.1 から小幅低下も拡大圏を維持</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>公式PMI（49.3）との2.7ptの乖離は、「大企業・内需は弱いが、民間・輸出は回っている」という中国製造業の二層構造を示す。工作機械の対中受注（電気・精密向け活発）とも整合的。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>次回は12月上旬。輸出受注の持続性と価格競争の緩和が見られれば、中国向け設備投資テーマの追い風。</p></div><div class="sd-foot"><span>出所：<a href="https://www.financecalendar.com/event/china-caixin-manufacturing-pmi-november-2026/" target="_blank" rel="noopener">Finance Calendar（財新PMI結果整理）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">台湾・世界</span><span class="sd-tag">貿易・半導体</span></div><div class="sd-next">次回公表<b>10月分 12月初旬（予定）</b>あと23日</div></div><h3>世界半導体売上高（SIA / WSTS）</h3><div class="sd-how">SIA（WSTS集計） ／ 月次 / 翌々月初<br>WSTS加盟企業の出荷額を3カ月移動平均で公表。地域別（米州・アジア太平洋・中国・欧州・日本）内訳つき。年2回、WSTSが市場見通しを改定する。</div><div class="sd-latest"><span class="sd-val sd-num">1,726億ドル / 前年比 +146.8%</span><span class="sd-per">2026年9月分 ・ 2026-11-03</span></div><div class="sd-vs"><span class="sd-up">判定：記録的な伸び</span></div><div class="sd-how" style="margin-bottom:6px">前月比 +7.9%。Q3累計 5,177億ドル（前期比 +24.1%）と3四半期連続で+20%超の伸び。地域別では米州 +191.7%、日本 +73.4%</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>メモリ価格の上昇とAI向けロジックの数量増が重なった数字。3カ月移動平均のため単月の実勢はさらに強い可能性がある。一方、電子部品の在庫積み上がり（日本IIPの在庫率上昇）との併読が必要。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>WSTSの2026年通年試算は1.655兆ドルだが、Q3実績のペースではQ4に大幅減速しない限り上回る計算で、秋季見通しの上方改定が見込まれる。次回（10月分）は12月初旬。</p></div><div class="sd-foot"><span>出所：<a href="https://www.prnewswire.com/news-releases/two-days-before-todays-selloff-data-put-global-september-chip-sales-up-146-8-year-to-year-302931037.html" target="_blank" rel="noopener">PR Newswire（SIA発表）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">米国</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>11月分 12/4（金）22:30 JST</b>あと24日</div></div><h3>雇用統計（Employment Situation）</h3><div class="sd-how">労働統計局（BLS） ／ 月次 / 第1金曜 8:30 ET<br>事業所調査（非農業部門雇用者数）と家計調査（失業率）の2本立て。過去2カ月分の改定も同時に公表される。</div><div class="sd-latest"><span class="sd-val sd-num">雇用 +16.5万人 / 失業率 4.1%</span><span class="sd-per">2026年10月分 ・ 2026-11-06</span></div><div class="sd-vs"><span class="sd-na">予想：雇用 +6.5万人</span><span class="sd-up">判定：大幅に上振れ</span><span class="sd-up">失業率予想：4.2% → 実績 4.1%</span></div><div class="sd-how" style="margin-bottom:6px">9月分は+6.0万人（改定後）。平均時給 前月比 +0.4% / 前年比 +3.1%（$38.00）</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>直近12カ月平均（+4.8万人）を大きく上回る伸びで、8・9月分も合計+8.4万人の上方改定。ただし経済的理由によるパートタイムは+33.9万人増と、質の面では濃淡がある。建設業はほぼ横ばいで、データセンター建設の人手は逼迫したままという見方も。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>次回11月分は12/4。12月FOMC（12/9）の直前に出るため、この数字とCPIで政策判断がほぼ決まる。</p></div><div class="sd-foot"><span>出所：<a href="https://www.bls.gov/news.release/archives/empsit_11062026.htm" target="_blank" rel="noopener">BLS 雇用統計 2026年10月分</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">米国</span><span class="sd-tag">金融政策</span></div><div class="sd-next">次回公表<b>12/9（声明 JST 12/10 4:00）</b>あと29日</div></div><h3>FOMC（連邦公開市場委員会）</h3><div class="sd-how">連邦準備制度（FRB） ／ 年8回 / 声明 14:00 ET<br>声明文とドットプロット（四半期に1回）、議長会見で方向性が決まる。会合2週後に議事要旨、発言録は5年後。</div><div class="sd-latest"><span class="sd-val sd-num">次回 12月9日（声明は日本時間 12/10 未明）</span><span class="sd-per">次回会合 ・ 前回：2026年10月会合</span></div><div class="sd-vs"><span class="sd-na">市場織り込み：12月の利上げ確率が上昇（CPI前時点で7割超との試算も）</span></div><div class="sd-how" style="margin-bottom:6px">本日のCPIと11月雇用統計（12/4）が判断材料</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>強い雇用（+16.5万人）と物価再加速（CPI前年比3.7%、PPI +6.3%）が並び、「利下げ」ではなく「利上げ」が議論される異例の局面。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>11/10 CPI → 11/13 PPI → 12/4 雇用の3点セットで方向が固まる。ドットプロット公表回のため、2027年のパス提示も焦点。</p></div><div class="sd-foot"><span>出所：<a href="https://www.bls.gov/schedule/news_release/cpi.htm?ref=unusual-whales.ghost.io" target="_blank" rel="noopener">関連：BLS 公表スケジュール</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">台湾・世界</span><span class="sd-tag">貿易・半導体</span></div><div class="sd-next">次回公表<b>11月分 12/9</b>あと29日</div></div><h3>台湾 輸出統計</h3><div class="sd-how">台湾 財政部 ／ 月次 / 翌月上旬<br>通関ベースの輸出入統計。電子部品、ICT・映像音響製品の品目別と、対米・対中などの仕向け地別が同時に分かる。翌月見通しレンジも公表される。</div><div class="sd-latest"><span class="sd-val sd-num">967.6億ドル / 前年比 +58.9%</span><span class="sd-per">2026年10月分 ・ 2026-11-09</span></div><div class="sd-vs"><span class="sd-na">予想：+50%</span><span class="sd-up">判定：上振れ</span></div><div class="sd-how" style="margin-bottom:6px">3カ月連続で月次過去最高。電子部品 326.8億ドル（+61.4%、過去最高）、ICT製品 476.0億ドル（+72.9%）。対米 +55.9%、対中 +42.9%</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>AIチップ・サーバー需要が引き続き全開。半導体製造装置を含む機械類の輸出も+35.5%と過去最高で、設備投資の広がりを示す。輸入も+75.1%と過去最高で、増産に向けた部材調達が活発。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>財政部は11月分を前年比 +47〜51%（942〜967億ドル）と予想。2026年通年で輸出9,000億ドル超えの見通し。次回は12/9。</p></div><div class="sd-foot"><span>出所：<a href="https://www.reuters.com/world/asia-pacific/taiwans-october-exports-surge-again-strong-ai-demand-2026-11-09/" target="_blank" rel="noopener">Reuters（台湾10月輸出）</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">米国</span><span class="sd-tag">物価</span></div><div class="sd-next">次回公表<b>11月分 12/10 22:30 JST</b>あと30日</div></div><h3>消費者物価指数（CPI）</h3><div class="sd-how">労働統計局（BLS） ／ 月次 / 8:30 ET（JST 22:30）<br>都市部消費者の購入価格を調査。今回は2025年10月の政府閉鎖で価格収集ができなかったため、10月分の前年比（総合・コアとも）が算出できず、前月比のみで判断する異例の回。</div><div class="sd-latest"><span class="sd-val sd-num">公表待ち（本日 22:30）</span><span class="sd-per">2026年10月分 ・ 2026-11-10 22:30 JST（本日）</span></div><div class="sd-vs"><span class="sd-na">予想（前月比）：+0.3%</span><span class="sd-na">コア予想（前月比）：+0.2%</span><span class="sd-na">判定：本日公表</span></div><div class="sd-how" style="margin-bottom:6px">前回 9月分：前月比 +0.6% / 前年比 +3.7%、コア 前月比 +0.3% / 前年比 +2.6%</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>9月分は前月比+0.6%と加速し、前年比は+3.7%まで戻した。10月分は前年比が出ないため、前月比の年率換算（+0.3%なら約3.7%ペース）が実質的な判断材料になる。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>12月9日のFOMCに直結する最後の物価データ。強い数字なら利上げ織り込みが一段進み、弱ければ据え置き観測が戻る展開。</p></div><div class="sd-foot"><span>出所：<a href="https://www.bls.gov/schedule/news_release/cpi.htm?ref=unusual-whales.ghost.io" target="_blank" rel="noopener">BLS 公表スケジュール</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">景気・生産</span></div><div class="sd-next">次回公表<b>12月調査 12/14 8:50</b>あと34日</div></div><h3>日銀短観（全国企業短期経済観測調査）</h3><div class="sd-how">日本銀行 ／ 四半期 / 3・6・9・12月調査、8:50<br>約9千社へのアンケート。業況判断DI（「良い」−「悪い」）に加え、設備投資計画・雇用・物価見通しも公表され、日銀の政策判断の基礎資料になる。</div><div class="sd-latest"><span class="sd-val sd-num">大企業製造業 DI +24</span><span class="sd-per">2026年9月調査 ・ 2026-10-01</span></div><div class="sd-vs"><span class="sd-na">予想：+25</span><span class="sd-down">判定：予想を小幅に下回る</span></div><div class="sd-how" style="margin-bottom:6px">前回（6月）+22 から2pt改善、6期連続の改善。大企業非製造業 +35（2pt悪化）。先行きは製造業 +21</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>改善を牽引したのは生産用機械（+43）、非鉄金属（+45）、電気機械（+33）などAI・半導体関連。一般機械DIも+24→+33と跳ねており、カバー業種の景況感は軒並み高水準。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>次回12月調査は12/14公表で、日銀会合（12/17-18）の直前。企業の物価見通しと設備投資計画の改定方向が利上げ判断を左右する。</p></div><div class="sd-foot"><span>出所：<a href="https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm" target="_blank" rel="noopener">日本銀行 短観（要旨）2026年9月</a></span></div></article><article class="sd-card"><div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">日本</span><span class="sd-tag">金融政策</span></div><div class="sd-next">次回公表<b>決定会合 12/17-18</b>あと37日</div></div><h3>日銀金融政策決定会合・主な意見</h3><div class="sd-how">日本銀行 ／ 会合 年8回 / 「主な意見」は会合の約1週間後 8:50<br>決定は会合最終日に公表。「主な意見」は各委員の発言要旨（匿名）で、次回会合の方向感を読む材料になる。展望レポートは年4回。</div><div class="sd-latest"><span class="sd-val sd-num">12月利上げを支える意見が複数</span><span class="sd-per">10月会合「主な意見」 ・ 2026-11-10 8:50（本日）</span></div><div class="sd-vs"><span class="sd-na">次回会合：12月17-18日</span><span class="sd-na">焦点：政策金利 1.50%への引き上げの有無</span></div><div class="sd-how" style="margin-bottom:6px">高田委員の「中立金利へ加速」論に同調する意見が目立ったとされる（意見は匿名で発言者は特定できない）</div><div class="sd-body"><p><span class="sd-lbl">結果の読み</span>コアCPIの2%回帰（9月 +2.1%）、短観の堅調さ、企業の物価見通しと合わせて、12月利上げの地ならしが進んでいる構図。</p><p><span class="sd-lbl sd-blue">見通し・次の焦点</span>11/16のGDP、12/14の短観が最後の確認材料。利上げなら変圧器・電力設備など金利感応の設備投資テーマにも波及。</p></div><div class="sd-foot"><span>出所：<a href="https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm" target="_blank" rel="noopener">日本銀行 統計・公表資料</a></span></div></article></main>
+<div class="sd-empty" id="sd-empty" hidden>条件に合う指標がありません。</div>
+
+<section>
+  <h2 class="sd-sec-h">チャート — 統計の裏側</h2>
+  <div class="sd-grid">
+    <figure class="sd-card sd-spark" style="margin:0">
+      <h3 style="margin-top:0">世界半導体売上高（SIA/WSTS、3カ月移動平均）</h3>
+      <svg id="sd-chart-semi" viewBox="0 0 320 120" role="img" aria-label="半導体売上高の推移グラフ"><line x1="0" y1="102" x2="320" y2="102" stroke="var(--ink3)" stroke-width="1" stroke-dasharray="3 3"></line><rect x="17.6" y="39.58210526315789" width="44.800000000000004" height="62.41789473684211" fill="var(--accent2)"></rect><text x="40" y="36.58210526315789" font-size="9.5" text-anchor="middle" fill="var(--ink2)">1,379</text><text x="40" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">6月</text><rect x="97.6" y="35.055789473684214" width="44.800000000000004" height="66.94421052631579" fill="var(--accent2)"></rect><text x="120" y="32.055789473684214" font-size="9.5" text-anchor="middle" fill="var(--ink2)">1,479</text><text x="120" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">7月</text><rect x="177.6" y="29.714736842105268" width="44.800000000000004" height="72.28526315789473" fill="var(--accent2)"></rect><text x="200" y="26.714736842105268" font-size="9.5" text-anchor="middle" fill="var(--ink2)">1,597</text><text x="200" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">8月</text><rect x="257.6" y="23.875789473684208" width="44.800000000000004" height="78.12421052631579" fill="var(--accent2)"></rect><text x="280" y="20.875789473684208" font-size="9.5" text-anchor="middle" fill="var(--ink2)">1,726</text><text x="280" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">9月</text></svg>
+      <figcaption>2026年6月 1,379億ドル → 9月 1,726億ドル。四半期ベースでは3四半期連続で前期比+20%超（SIA、2026-11-03公表）。</figcaption>
+    </figure>
+    <figure class="sd-card sd-spark" style="margin:0">
+      <h3 style="margin-top:0">中国 製造業PMI（国家統計局）</h3>
+      <svg id="sd-chart-pmi" viewBox="0 0 320 120" role="img" aria-label="中国製造業PMIの推移グラフ"><line x1="0" y1="52.85714285714289" x2="320" y2="52.85714285714289" stroke="var(--ink3)" stroke-width="1" stroke-dasharray="3 3"></line><rect x="8.8" y="40.57142857142867" width="22.400000000000002" height="12.28571428571422" fill="var(--accent2)"></rect><text x="20" y="37.57142857142867" font-size="9.5" text-anchor="middle" fill="var(--ink2)">50.4</text><text x="20" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">3月</text><rect x="48.8" y="43.642857142857274" width="22.400000000000002" height="9.214285714285616" fill="var(--accent2)"></rect><text x="60" y="40.642857142857274" font-size="9.5" text-anchor="middle" fill="var(--ink2)">50.3</text><text x="60" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">4月</text><rect x="88.8" y="52.85714285714289" width="22.400000000000002" height="2" fill="var(--accent2)"></rect><text x="100" y="49.85714285714289" font-size="9.5" text-anchor="middle" fill="var(--ink2)">50.0</text><text x="100" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">5月</text><rect x="128.8" y="43.642857142857274" width="22.400000000000002" height="9.214285714285616" fill="var(--accent2)"></rect><text x="140" y="40.642857142857274" font-size="9.5" text-anchor="middle" fill="var(--ink2)">50.3</text><text x="140" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">6月</text><rect x="168.8" y="52.85714285714289" width="22.400000000000002" height="24.57142857142844" fill="var(--accent)"></rect><text x="180" y="49.85714285714289" font-size="9.5" text-anchor="middle" fill="var(--ink2)">49.2</text><text x="180" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">7月</text><rect x="208.8" y="52.85714285714289" width="22.400000000000002" height="6.142857142857217" fill="var(--accent)"></rect><text x="220" y="49.85714285714289" font-size="9.5" text-anchor="middle" fill="var(--ink2)">49.8</text><text x="220" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">8月</text><rect x="248.8" y="49.78571428571428" width="22.400000000000002" height="3.071428571428612" fill="var(--accent2)"></rect><text x="260" y="46.78571428571428" font-size="9.5" text-anchor="middle" fill="var(--ink2)">50.1</text><text x="260" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">9月</text><rect x="288.8" y="52.85714285714289" width="22.400000000000002" height="21.500000000000057" fill="var(--accent)"></rect><text x="300" y="49.85714285714289" font-size="9.5" text-anchor="middle" fill="var(--ink2)">49.3</text><text x="300" y="116" font-size="9.5" text-anchor="middle" fill="var(--ink3)">10月</text></svg>
+      <figcaption>50が拡大・縮小の境目。2026年3月 50.4 → 10月 49.3。10月は生産・新規受注とも50割れ（国家統計局、2026-10-31公表）。</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section>
+  <h2 class="sd-sec-h">公表の仕組み（どうやって出るか）</h2>
+  <div class="sd-mech">
+    <div><h4>米国（BLS / BEA / ISM）</h4><p>CPI・PPI・雇用統計は労働統計局（BLS）が米東部時間8:30に一斉公表（日本時間は冬時間で22:30）。スケジュールはBLSの公式カレンダーで事前に確定する。ISMは民間調査で月初第1営業日10:00 ET。</p></div>
+    <div><h4>日本（政府統計）</h4><p>公表日程はe-Stat「公表予定一覧」と各府省の予定表で事前に分かる。CPIは総務省統計局が8:30、GDP速報は内閣府が8:50、鉱工業生産は経産省が8:50、工作機械受注は日工会が速報→確報の2段階で公表。</p></div>
+    <div><h4>中国（国家統計局 / 財新）</h4><p>公式PMIは月末日に国家統計局が公表。財新PMI（2026年からRatingDogブランド併記）はS&amp;P Globalが翌月初の営業日に公表する民間調査で、対象は中小・輸出企業寄り。</p></div>
+    <div><h4>業界統計</h4><p>半導体売上はSIAが月次（3カ月移動平均、WSTS集計）、建機出荷は日本建設機械工業会が月末頃に金額・台数を公表。TSMC月次売上や台湾輸出統計はAIサプライチェーンの最速の実需シグナル。</p></div>
+  </div>
+</section>
+
+<footer>
+  <p>数値はすべて公表機関の発表およびその報道に基づく（各カードに出所リンク）。予想（コンセンサス）は報道ベースで、調査主体により異なる場合がある。取得できなかった項目は「未取得」と明記し、推測で埋めていない。公表日時は機関の都合で変更されることがあるため、最終確認は各機関の公式カレンダーで行うこと。このページは2026-11-10時点のスナップショットであり、自動更新はされない。</p>
+</footer>
+
+</div>
+
+</main>
+<script>
+(function(){
+var VIEW_EL=document.getElementById('view-sd');if(!VIEW_EL||VIEW_EL.dataset.sdReady)return;VIEW_EL.dataset.sdReady='true';
+var TODAY = new Date(2026, 10, 10); // 2026-11-10 (snapshot)
+
+var DATA = [
+ /* ============ 米国 ============ */
+ {
+  id:"us-cpi", name:"消費者物価指数（CPI）", region:"米国", cat:"物価",
+  pub:"労働統計局（BLS）", freq:"月次 / 8:30 ET（JST 22:30）",
+  how:"都市部消費者の購入価格を調査。今回は2025年10月の政府閉鎖で価格収集ができなかったため、10月分の前年比（総合・コアとも）が算出できず、前月比のみで判断する異例の回。",
+  period:"2026年10月分", released:"2026-11-10 22:30 JST（本日）",
+  val:"公表待ち（本日 22:30）", valNote:"前回 9月分：前月比 +0.6% / 前年比 +3.7%、コア 前月比 +0.3% / 前年比 +2.6%",
+  vs:[["予想（前月比）","+0.3%","sd-na"],["コア予想（前月比）","+0.2%","sd-na"],["判定","本日公表","sd-na"]],
+  read:"9月分は前月比+0.6%と加速し、前年比は+3.7%まで戻した。10月分は前年比が出ないため、前月比の年率換算（+0.3%なら約3.7%ペース）が実質的な判断材料になる。",
+  outlook:"12月9日のFOMCに直結する最後の物価データ。強い数字なら利上げ織り込みが一段進み、弱ければ据え置き観測が戻る展開。",
+  next:"2026-12-10", nextLabel:"11月分 12/10 22:30 JST",
+  src:"https://www.bls.gov/schedule/news_release/cpi.htm?ref=unusual-whales.ghost.io", srcName:"BLS 公表スケジュール"
+ },
+ {
+  id:"us-ppi", name:"生産者物価指数（PPI）", region:"米国", cat:"物価",
+  pub:"労働統計局（BLS）", freq:"月次 / 8:30 ET（JST 22:30）",
+  how:"国内生産者の販売価格（最終需要）を集計。CPIの数日後に公表され、企業側のコスト圧力を先行して映す。",
+  period:"2026年9月分", released:"2026-10-15",
+  val:"前月比 +1.3% / 前年比 +6.3%", valNote:"最終需要。前月比は2022年3月以来の伸び。財 +2.6%、サービス +0.8%",
+  vs:[["予想比（前年比）","上振れ","sd-up"],["前回 前年比","+5.6%","sd-na"]],
+  read:"財価格の跳ね上がりが主導。CPIへの転嫁ラグを考えると、年末にかけての物価下押し圧力は弱いというシグナル。",
+  outlook:"10月分は11/13（金）公表。CPI（11/10）と合わせて12月FOMCの材料が揃う。",
+  next:"2026-11-13", nextLabel:"10月分 11/13（金）22:30 JST",
+  src:"https://www.bls.gov/news.release/archives/ppi_10152026.htm", srcName:"BLS PPI 2026年9月分"
+ },
+ {
+  id:"us-jobs", name:"雇用統計（Employment Situation）", region:"米国", cat:"景気・生産",
+  pub:"労働統計局（BLS）", freq:"月次 / 第1金曜 8:30 ET",
+  how:"事業所調査（非農業部門雇用者数）と家計調査（失業率）の2本立て。過去2カ月分の改定も同時に公表される。",
+  period:"2026年10月分", released:"2026-11-06",
+  val:"雇用 +16.5万人 / 失業率 4.1%", valNote:"9月分は+6.0万人（改定後）。平均時給 前月比 +0.4% / 前年比 +3.1%（$38.00）",
+  vs:[["予想","雇用 +6.5万人","sd-na"],["判定","大幅に上振れ","sd-up"],["失業率予想","4.2% → 実績 4.1%","sd-up"]],
+  read:"直近12カ月平均（+4.8万人）を大きく上回る伸びで、8・9月分も合計+8.4万人の上方改定。ただし経済的理由によるパートタイムは+33.9万人増と、質の面では濃淡がある。建設業はほぼ横ばいで、データセンター建設の人手は逼迫したままという見方も。",
+  outlook:"次回11月分は12/4。12月FOMC（12/9）の直前に出るため、この数字とCPIで政策判断がほぼ決まる。",
+  next:"2026-12-04", nextLabel:"11月分 12/4（金）22:30 JST",
+  src:"https://www.bls.gov/news.release/archives/empsit_11062026.htm", srcName:"BLS 雇用統計 2026年10月分"
+ },
+ {
+  id:"us-ism", name:"ISM製造業景況指数", region:"米国", cat:"景気・生産",
+  pub:"ISM（供給管理協会）", freq:"月次 / 第1営業日 10:00 ET",
+  how:"購買担当者への民間アンケート。新規受注・生産・雇用・入荷遅延・在庫の5指数の平均。50が拡大・縮小の境目。",
+  period:"2026年10月分", released:"2026-11-02",
+  val:"55.5", valNote:"前回 54.5。10カ月連続の拡大圏。生産 59.0（2021年11月以来の高水準）、新規受注 55.5、価格 75.2",
+  vs:[["予想","54.6","sd-na"],["判定","上振れ","sd-up"]],
+  read:"拡大した12業種には電気機器、機械、コンピュータ・電子製品が並び、AIDC・半導体関連の設備需要の強さと整合的。価格指数75.2はコスト圧力の根強さを示す。",
+  outlook:"新規受注が55台を維持するかが焦点。顧客在庫指数は41.6と「低すぎる」状態が25カ月連続で、生産の先行きを下支えする構図。",
+  next:"2026-12-01", nextLabel:"11月分 12/1 24:00 JST",
+  src:"https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/", srcName:"ISM 2026年10月レポート"
+ },
+ {
+  id:"us-gdp", name:"GDP速報値", region:"米国", cat:"景気・生産",
+  pub:"経済分析局（BEA）", freq:"四半期 / 速報→改定→確報",
+  how:"四半期終了後約1カ月で速報値、その後2回改定。個人消費と設備投資の内訳が市場材料になる。",
+  period:"2026年7-9月期（速報）", released:"2026-10-29",
+  val:"実質 年率 +3.4%", valNote:"内閣府の対外比較資料による。前期の雇用・生産の強さとも整合的な高成長",
+  vs:[["判定","堅調","sd-up"]],
+  read:"雇用統計・ISMと合わせて「米景気は減速していない」という絵柄。利下げを急ぐ理由が乏しい一方、物価再加速との組み合わせがFOMCを難しくしている。",
+  outlook:"改定値は11月下旬。設備投資のうちデータセンター関連の寄与が注目点。",
+  next:"2026-11-25", nextLabel:"7-9月期 改定値 11月下旬（予定）",
+  src:"https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/files/2026/qe262/pdf/jikei_1.pdf", srcName:"内閣府 GDP時系列表（米比較含む）"
+ },
+ {
+  id:"fomc", name:"FOMC（連邦公開市場委員会）", region:"米国", cat:"金融政策",
+  pub:"連邦準備制度（FRB）", freq:"年8回 / 声明 14:00 ET",
+  how:"声明文とドットプロット（四半期に1回）、議長会見で方向性が決まる。会合2週後に議事要旨、発言録は5年後。",
+  period:"次回会合", released:"前回：2026年10月会合",
+  val:"次回 12月9日（声明は日本時間 12/10 未明）", valNote:"本日のCPIと11月雇用統計（12/4）が判断材料",
+  vs:[["市場織り込み","12月の利上げ確率が上昇（CPI前時点で7割超との試算も）","sd-na"]],
+  read:"強い雇用（+16.5万人）と物価再加速（CPI前年比3.7%、PPI +6.3%）が並び、「利下げ」ではなく「利上げ」が議論される異例の局面。",
+  outlook:"11/10 CPI → 11/13 PPI → 12/4 雇用の3点セットで方向が固まる。ドットプロット公表回のため、2027年のパス提示も焦点。",
+  next:"2026-12-09", nextLabel:"12/9（声明 JST 12/10 4:00）",
+  src:"https://www.bls.gov/schedule/news_release/cpi.htm?ref=unusual-whales.ghost.io", srcName:"関連：BLS 公表スケジュール"
+ },
+ /* ============ 日本 ============ */
+ {
+  id:"jp-cpi", name:"消費者物価指数（全国CPI）", region:"日本", cat:"物価",
+  pub:"総務省統計局", freq:"月次 / 8:30（対象月の翌月下旬）",
+  how:"小売物価統計調査ベース。総合、生鮮食品を除く総合（コア）、生鮮食品・エネルギーを除く総合（コアコア）の3本が公表される。東京都区部の速報が約1カ月先行する。",
+  period:"2026年9月分", released:"2026-10-23",
+  val:"コア 前年比 +2.1%", valNote:"総合も +2.1%。コアコア +2.4%。前回（8月）コアは +1.7%",
+  vs:[["判定","9カ月ぶりに2%台へ回帰","sd-up"],["プラス継続","61カ月連続","sd-na"]],
+  read:"食料・旅行関連・紙製品の値上げと政策要因の剥落が押し上げ。米類は -20.6%と過去最大の下落で、ヘッドラインを抑える方向に働いた。",
+  outlook:"大和総研は26年度末にかけてコアCPIが+3%超まで高まると予想（原油高の波及、円安、賃上げ転嫁）。10月分の都区部速報は総合 +2.8%と加速しており、全国も上振れ含み。",
+  next:"2026-11-20", nextLabel:"10月分 11月下旬（予定）",
+  src:"https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html", srcName:"総務省統計局 CPI最新結果"
+ },
+ {
+  id:"jp-gdp", name:"GDP速報（四半期別GDP速報）", region:"日本", cat:"景気・生産",
+  pub:"内閣府（経済社会総合研究所）", freq:"四半期 / 1次速報→2次速報、8:50",
+  how:"1次速報は法人企業統計の公表前に出るため設備投資が推計寄り。2次速報で法人企業統計を織り込み改定される。",
+  period:"2026年4-6月期（2次速報）", released:"2026-09-08",
+  val:"実質 前期比 +0.4%（年率 +1.4%）", valNote:"1次速報（年率+1.1%）から上方改定。名目 年率 +5.5%。外需寄与 +0.5pt、内需寄与 -0.1pt",
+  vs:[["判定","上方改定","sd-up"]],
+  read:"成長を引っ張ったのは外需。内需は小幅マイナスで、設備投資の本格回復は機械受注・短観の強さと温度差がある。",
+  outlook:"7-9月期1次速報は11/16（月）8:50。鉱工業生産の7-9月期は前期比+0.3%と4四半期連続の増産で、大幅なマイナスにはなりにくい材料。",
+  next:"2026-11-16", nextLabel:"7-9月期 1次速報 11/16（月）8:50",
+  src:"https://www.esri.cao.go.jp/jp/sna/kouhyou/kouhyou_top.html", srcName:"内閣府 公表予定（GDP速報）"
+ },
+ {
+  id:"jp-iip", name:"鉱工業生産指数（IIP）", region:"日本", cat:"景気・生産",
+  pub:"経済産業省", freq:"月次 / 月末 8:50（速報→確報）",
+  how:"生産・出荷・在庫の3指数と、製造工業生産予測調査（企業の翌月・翌々月の生産計画）も同時に公表されるのが特徴。",
+  period:"2026年9月分（速報）", released:"2026-10-30",
+  val:"前月比 +2.2%（指数 104.1）", valNote:"3カ月ぶり上昇。半導体製造装置 +13.8%、電子部品・デバイス +3.4%（メモリ +29.8%）。経産省の基調判断は「一進一退」",
+  vs:[["予想","+1.2%","sd-na"],["判定","上振れ","sd-up"]],
+  read:"最大の押し上げは半導体製造装置。生産用機械工業は4カ月連続増。AI関連の設備投資が日本の生産統計にも明確に表れている。一方で電子部品・デバイスの在庫率は+15.4%と積み上がっており、調整の芽も同時に出ている。",
+  outlook:"予測調査では10月 +5.1%、11月 +0.8%の増産計画（補正後の10月見通しは+3.9%）。10月分速報は11月末。",
+  next:"2026-11-30", nextLabel:"10月分 速報 11月末（予定）",
+  src:"https://journal.meti.go.jp/statistics/48555/", srcName:"経産省 METI Journal（9月分解説）"
+ },
+ {
+  id:"jp-mach-orders", name:"機械受注（船舶・電力除く民需）", region:"日本", cat:"設備投資・受注",
+  pub:"内閣府（経済社会総合研究所）", freq:"月次 / 翌々月中旬 8:50",
+  how:"主要機械メーカー280社への調査。変動の大きい船舶・電力を除く民需が設備投資の先行指標として使われ、四半期ごとに見通し調査も公表される。",
+  period:"2026年8月分", released:"2026-10-15",
+  val:"前月比 +5.2%（1兆698億円）", valNote:"2カ月ぶり増加。3カ月移動平均 +3.6%。製造業 +1.6%、非製造業（船電除く）+2.9%。基調判断「持ち直しの動きがみられる」",
+  vs:[["予想","+3.0%（ロイター調査）","sd-na"],["判定","上振れ","sd-up"],["前年比","+18.6%","sd-up"]],
+  read:"はん用・生産用機械（半導体製造装置など）が+9.3%とAI・半導体需要が直撃。リース業・通信業のデジタル投資も非製造業を押し上げた。",
+  outlook:"7-9月期の見通しは民需（船電除く）で前期比 +4.9%。9月分は11月中旬に公表され、四半期実績が確定する。",
+  next:"2026-11-17", nextLabel:"9月分 11月中旬（予定）",
+  src:"https://www.esri.cao.go.jp/jp/stat/juchu/2026/2608gaiyou.pdf", srcName:"内閣府 機械受注統計（8月実績）概要"
+ },
+ {
+  id:"jp-mt-orders", name:"工作機械受注", region:"日本", cat:"設備投資・受注",
+  pub:"日本工作機械工業会（日工会）", freq:"月次 / 翌月上旬に速報、月下旬に確報",
+  how:"会員企業の受注額を集計。内需・外需の内訳と業種別（自動車、電気・精密等）が確報で出る。四半期ごとに会長会見で業界見通しが示される。",
+  period:"2026年9月分（確報）", released:"2026-10-22（速報 10-09）",
+  val:"2,232億円 / 前年比 +60.4%", valNote:"1988年の統計開始以来の過去最高額。内需 639億円（+46.5%）、外需 1,593億円（+66.8%）。1-9月累計 1兆6,693億円（+43.3%）",
+  vs:[["判定","過去最高を更新","sd-up"],["前月比","+12.8%","sd-up"]],
+  read:"外需のアジア向けが833億円と過去最高。中国は自動車向けが減る一方、産業機械・電気精密が活発。国内もデータセンター・半導体製造装置関連が牽引。受注残は8月末で1兆596億円と高水準が続く。",
+  outlook:"日工会は2026年の受注見通しを年初の1.7兆円から2兆円へ上方修正済み。10月分の速報は11/11（明日）。会見では「DC・半導体需要の一段落」に注意を促す発言もあり、ピーク感の有無が焦点。",
+  next:"2026-11-11", nextLabel:"10月分 速報 11/11（明日）",
+  src:"https://www.sbbit.jp/article/st/187719", srcName:"SBbit（9月受注・会見詳報）"
+ },
+ {
+  id:"jp-cema", name:"建設機械出荷金額", region:"日本", cat:"設備投資・受注",
+  pub:"日本建設機械工業会（CEMA）", freq:"月次 / 月末頃",
+  how:"会員企業の出荷金額と台数を機種別（油圧ショベル、クレーン等）に集計。内需・外需の内訳あり。年2回、需要予測を公表する。",
+  period:"2026年9月分", released:"2026-10-29",
+  val:"3,208億円 / 前年比 +5.0%", valNote:"11カ月連続増。内需 1,079億円（+5.9%）、外需 2,129億円（+4.5%）。2026年度上期累計は1兆7,699億円（+5.4%）",
+  vs:[["判定","増勢は緩やか","sd-flat"]],
+  read:"金額ベースは増加が続くが、工作機械のような爆発力はない。財務省貿易統計では9月の油圧ショベル輸出額が前年比マイナス（北米向け減）との分析もあり、金額と台数・仕向け地で読みが割れる。",
+  outlook:"工業会の2026年度予測（8月改定）：出荷額3兆733億円（前年度比 横ばい、補給部品除く）。前回予測から1,388億円の上方修正だが、国内は3年連続減の見込み。北米のDC建設向けが下期の変数。",
+  next:"2026-11-27", nextLabel:"10月分 11月末（予定）",
+  src:"https://www.cema.or.jp/general/statistics/index.html", srcName:"CEMA 建設機械出荷・生産実績統計"
+ },
+ {
+  id:"jp-tankan", name:"日銀短観（全国企業短期経済観測調査）", region:"日本", cat:"景気・生産",
+  pub:"日本銀行", freq:"四半期 / 3・6・9・12月調査、8:50",
+  how:"約9千社へのアンケート。業況判断DI（「良い」−「悪い」）に加え、設備投資計画・雇用・物価見通しも公表され、日銀の政策判断の基礎資料になる。",
+  period:"2026年9月調査", released:"2026-10-01",
+  val:"大企業製造業 DI +24", valNote:"前回（6月）+22 から2pt改善、6期連続の改善。大企業非製造業 +35（2pt悪化）。先行きは製造業 +21",
+  vs:[["予想","+25","sd-na"],["判定","予想を小幅に下回る","sd-down"]],
+  read:"改善を牽引したのは生産用機械（+43）、非鉄金属（+45）、電気機械（+33）などAI・半導体関連。一般機械DIも+24→+33と跳ねており、カバー業種の景況感は軒並み高水準。",
+  outlook:"次回12月調査は12/14公表で、日銀会合（12/17-18）の直前。企業の物価見通しと設備投資計画の改定方向が利上げ判断を左右する。",
+  next:"2026-12-14", nextLabel:"12月調査 12/14 8:50",
+  src:"https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm", srcName:"日本銀行 短観（要旨）2026年9月"
+ },
+ {
+  id:"boj", name:"日銀金融政策決定会合・主な意見", region:"日本", cat:"金融政策",
+  pub:"日本銀行", freq:"会合 年8回 / 「主な意見」は会合の約1週間後 8:50",
+  how:"決定は会合最終日に公表。「主な意見」は各委員の発言要旨（匿名）で、次回会合の方向感を読む材料になる。展望レポートは年4回。",
+  period:"10月会合「主な意見」", released:"2026-11-10 8:50（本日）",
+  val:"12月利上げを支える意見が複数", valNote:"高田委員の「中立金利へ加速」論に同調する意見が目立ったとされる（意見は匿名で発言者は特定できない）",
+  vs:[["次回会合","12月17-18日","sd-na"],["焦点","政策金利 1.50%への引き上げの有無","sd-na"]],
+  read:"コアCPIの2%回帰（9月 +2.1%）、短観の堅調さ、企業の物価見通しと合わせて、12月利上げの地ならしが進んでいる構図。",
+  outlook:"11/16のGDP、12/14の短観が最後の確認材料。利上げなら変圧器・電力設備など金利感応の設備投資テーマにも波及。",
+  next:"2026-12-17", nextLabel:"決定会合 12/17-18",
+  src:"https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm", srcName:"日本銀行 統計・公表資料"
+ },
+ /* ============ 中国 ============ */
+ {
+  id:"cn-pmi-nbs", name:"製造業PMI（国家統計局）", region:"中国", cat:"景気・生産",
+  pub:"中国国家統計局", freq:"月次 / 月末日",
+  how:"約3,200社（大企業・国有系の比重が高い）への調査。生産、新規受注、輸出受注などの下位指数も公表。50が境目。",
+  period:"2026年10月分", released:"2026-10-31",
+  val:"49.3", valNote:"前回（9月）50.1 から0.8pt低下し縮小圏へ。生産 49.8、新規受注 49.4。非製造業 49.7、総合 49.7",
+  vs:[["予想","49.9〜50.0","sd-na"],["判定","下振れ","sd-down"]],
+  read:"国慶節後の内需軟化と、クリスマス向け輸出受注の前倒しの反動が主因とされる。企業規模別では大企業のみ50.2と拡大圏を維持し、中小は47台まで低下。ハイテク・装備製造は相対的に底堅い。",
+  outlook:"11月分は11/30。4Qの政策支援（財政・設備更新補助）が受注指数に戻るかが焦点。中国の工作機械・建機需要の先行シグナルとして注視。",
+  next:"2026-11-30", nextLabel:"11月分 11/30",
+  src:"https://www.caixinglobal.com/2026-11-02/chinas-manufacturing-activity-returns-to-contraction-102499864.html", srcName:"Caixin Global（NBS PMI詳報）"
+ },
+ {
+  id:"cn-pmi-caixin", name:"製造業PMI（財新 / RatingDog）", region:"中国", cat:"景気・生産",
+  pub:"S&P Global（財新）", freq:"月次 / 翌月初の営業日 9:45 CST",
+  how:"中小・民間・輸出企業寄りの約500-650社への調査。2026年からスポンサー変更で「RatingDog」ブランドが併記される。公式PMIとの乖離自体が情報になる。",
+  period:"2026年10月分", released:"2026-11-02",
+  val:"52.0", valNote:"前回（9月）52.1 から小幅低下も拡大圏を維持",
+  vs:[["予想","51.6","sd-na"],["判定","上振れ","sd-up"]],
+  read:"公式PMI（49.3）との2.7ptの乖離は、「大企業・内需は弱いが、民間・輸出は回っている」という中国製造業の二層構造を示す。工作機械の対中受注（電気・精密向け活発）とも整合的。",
+  outlook:"次回は12月上旬。輸出受注の持続性と価格競争の緩和が見られれば、中国向け設備投資テーマの追い風。",
+  next:"2026-12-01", nextLabel:"11月分 12/1（予定）",
+  src:"https://www.financecalendar.com/event/china-caixin-manufacturing-pmi-november-2026/", srcName:"Finance Calendar（財新PMI結果整理）"
+ },
+ {
+  id:"cn-activity", name:"工業生産・小売売上高・固定資産投資", region:"中国", cat:"景気・生産",
+  pub:"中国国家統計局", freq:"月次 / 中旬（1-2月は合算公表）",
+  how:"鉱工業生産（付加価値ベース）、社会消費品小売総額、固定資産投資を同日に一括公表。設備製造業やハイテク製造業の内訳が業種判断に使える。",
+  period:"2026年10月分", released:"未公表",
+  val:"未公表（11月中旬予定）", valNote:"PMIが示した生産の弱さ（生産指数49.8）が実績統計で裏付けられるかを確認する回",
+  vs:[["状態","公表待ち","sd-na"]],
+  read:"—（公表後に追記する項目）",
+  outlook:"公表は11月14〜17日頃の見込み。工業生産のうち装備製造業・ハイテク製造業の伸びと、固定資産投資の製造業向けが設備投資テーマの確認材料。",
+  next:"2026-11-16", nextLabel:"10月分 11月中旬（予定）",
+  src:"https://www.caixinglobal.com/2026-11-02/chinas-manufacturing-activity-returns-to-contraction-102499864.html", srcName:"参考：Caixin（中国統計の文脈）"
+ },
+ /* ============ 台湾・世界 ============ */
+ {
+  id:"tw-exports", name:"台湾 輸出統計", region:"台湾・世界", cat:"貿易・半導体",
+  pub:"台湾 財政部", freq:"月次 / 翌月上旬",
+  how:"通関ベースの輸出入統計。電子部品、ICT・映像音響製品の品目別と、対米・対中などの仕向け地別が同時に分かる。翌月見通しレンジも公表される。",
+  period:"2026年10月分", released:"2026-11-09",
+  val:"967.6億ドル / 前年比 +58.9%", valNote:"3カ月連続で月次過去最高。電子部品 326.8億ドル（+61.4%、過去最高）、ICT製品 476.0億ドル（+72.9%）。対米 +55.9%、対中 +42.9%",
+  vs:[["予想","+50%","sd-na"],["判定","上振れ","sd-up"]],
+  read:"AIチップ・サーバー需要が引き続き全開。半導体製造装置を含む機械類の輸出も+35.5%と過去最高で、設備投資の広がりを示す。輸入も+75.1%と過去最高で、増産に向けた部材調達が活発。",
+  outlook:"財政部は11月分を前年比 +47〜51%（942〜967億ドル）と予想。2026年通年で輸出9,000億ドル超えの見通し。次回は12/9。",
+  next:"2026-12-09", nextLabel:"11月分 12/9",
+  src:"https://www.reuters.com/world/asia-pacific/taiwans-october-exports-surge-again-strong-ai-demand-2026-11-09/", srcName:"Reuters（台湾10月輸出）"
+ },
+ {
+  id:"semi-sia", name:"世界半導体売上高（SIA / WSTS）", region:"台湾・世界", cat:"貿易・半導体",
+  pub:"SIA（WSTS集計）", freq:"月次 / 翌々月初",
+  how:"WSTS加盟企業の出荷額を3カ月移動平均で公表。地域別（米州・アジア太平洋・中国・欧州・日本）内訳つき。年2回、WSTSが市場見通しを改定する。",
+  period:"2026年9月分", released:"2026-11-03",
+  val:"1,726億ドル / 前年比 +146.8%", valNote:"前月比 +7.9%。Q3累計 5,177億ドル（前期比 +24.1%）と3四半期連続で+20%超の伸び。地域別では米州 +191.7%、日本 +73.4%",
+  vs:[["判定","記録的な伸び","sd-up"]],
+  read:"メモリ価格の上昇とAI向けロジックの数量増が重なった数字。3カ月移動平均のため単月の実勢はさらに強い可能性がある。一方、電子部品の在庫積み上がり（日本IIPの在庫率上昇）との併読が必要。",
+  outlook:"WSTSの2026年通年試算は1.655兆ドルだが、Q3実績のペースではQ4に大幅減速しない限り上回る計算で、秋季見通しの上方改定が見込まれる。次回（10月分）は12月初旬。",
+  next:"2026-12-03", nextLabel:"10月分 12月初旬（予定）",
+  src:"https://www.prnewswire.com/news-releases/two-days-before-todays-selloff-data-put-global-september-chip-sales-up-146-8-year-to-year-302931037.html", srcName:"PR Newswire（SIA発表）"
+ },
+ {
+  id:"jp-cgpi", name:"企業物価指数（CGPI）", region:"日本", cat:"物価",
+  pub:"日本銀行", freq:"月次 / 中旬 8:50",
+  how:"企業間で取引される財の価格。輸入物価（円ベース）と合わせて、企業のコスト転嫁と交易条件を読む。鉄鋼・電力・電子部品などの品目別も公表。",
+  period:"2026年10月分", released:"未公表（11月中旬予定）",
+  val:"未取得", valNote:"公表後に更新する項目。9月分までの流れはCPIの先行指標として要確認",
+  vs:[["状態","未公表","sd-na"]],
+  read:"—（公表後に追記する項目）",
+  outlook:"原油高と円安の波及度合いが焦点。米PPI（9月 +6.3%）ほどの加速が日本でも出るかが、機械・素材のコスト前提を左右する。",
+  next:"2026-11-12", nextLabel:"10月分 11月中旬（予定）",
+  src:"https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm", srcName:"日本銀行 統計ページ（公表予定確認）"
+ }
+];
+
+var TIMELINE = [
+ {d:"2026-11-10", dow:"火", name:"米 CPI（10月分）", note:"22:30 JST。前年比は公表なし、前月比のみ", today:true},
+ {d:"2026-11-10", dow:"火", name:"日銀「主な意見」", note:"8:50 公表済み。12月利上げを支える意見", today:true},
+ {d:"2026-11-11", dow:"水", name:"工作機械受注 速報（10月分）", note:"日工会。9月は過去最高 2,232億円"},
+ {d:"2026-11-13", dow:"金", name:"米 PPI（10月分）", note:"22:30 JST。9月は前年比 +6.3%"},
+ {d:"2026-11-16", dow:"月", name:"日本 GDP 1次速報（7-9月期）", note:"8:50。前回は年率 +1.4%"},
+ {d:"2026-11-16", dow:"月", name:"中国 工業生産など（10月分）", note:"11月中旬。PMIの弱さを確認する回"},
+ {d:"2026-11-30", dow:"月", name:"中国 公式PMI（11月分）", note:"10月は 49.3 と縮小圏"},
+ {d:"2026-12-04", dow:"金", name:"米 雇用統計（11月分）", note:"22:30 JST。FOMC直前の最重要データ"},
+ {d:"2026-12-09", dow:"水", name:"FOMC / 台湾輸出（11月分）", note:"FOMC声明は JST 12/10 未明"},
+ {d:"2026-12-10", dow:"木", name:"米 CPI（11月分）", note:"22:30 JST。前年比が復活する回"},
+ {d:"2026-12-14", dow:"月", name:"日銀短観（12月調査）", note:"8:50。日銀会合の直前"},
+ {d:"2026-12-17", dow:"木", name:"日銀 決定会合（〜18日）", note:"1.50%への利上げの有無が焦点"}
+];
+
+function daysUntil(iso){
+  var t = new Date(iso+"T00:00:00");
+  return Math.round((t - TODAY)/86400000);
+}
+function cdLabel(iso){
+  var n = daysUntil(iso);
+  if(n<0) return "公表済み";
+  if(n===0) return "本日";
+  if(n===1) return "明日";
+  return "あと"+n+"日";
+}
+
+/* timeline */
+var tl = document.getElementById("sd-timeline");tl.innerHTML="";
+TIMELINE.forEach(function(e){
+  var div = document.createElement("div");
+  div.className = "sd-tl-item" + (e.today ? " sd-today" : "");
+  var md = e.d.slice(5).replace("-","/");
+  div.innerHTML = '<div class="sd-tl-date sd-num">'+md+"（"+e.dow+"）</div>"+
+    '<div class="sd-tl-name">'+e.name+"</div>"+
+    '<div class="sd-tl-note">'+e.note+"</div>"+
+    '<span class="sd-tl-cd">'+cdLabel(e.d)+"</span>";
+  tl.appendChild(div);
+});
+
+/* sd-filters */
+var REGIONS = ["すべて","米国","日本","中国","台湾・世界"];
+var CATS = ["すべて","物価","景気・生産","設備投資・受注","金融政策","貿易・半導体"];
+var curR = "すべて", curC = "すべて";
+
+function buildChips(elId, list, cb){
+  var box = document.getElementById(elId);box.querySelectorAll("button.sd-chip").forEach(function(x){x.remove();});
+  list.forEach(function(v,i){
+    var b = document.createElement("button");
+    b.className = "sd-chip"; b.type = "button"; b.textContent = v;
+    b.setAttribute("aria-pressed", i===0 ? "true" : "false");
+    b.addEventListener("click", function(){
+      box.querySelectorAll(".sd-chip").forEach(function(x){x.setAttribute("aria-pressed","false");});
+      b.setAttribute("aria-pressed","true");
+      cb(v); render();
+    });
+    box.appendChild(b);
+  });
+}
+buildChips("sd-f-region", REGIONS, function(v){curR=v;});
+buildChips("sd-f-cat", CATS, function(v){curC=v;});
+document.getElementById("sd-q").addEventListener("input", render);
+
+function vsChip(v){
+  var cls = v[2]==="sd-up" ? "sd-up" : (v[2]==="sd-down" ? "sd-down" : (v[2]==="sd-flat" ? "" : "sd-na"));
+  return '<span class="'+cls+'">'+v[0]+"："+v[1]+"</span>";
+}
+
+function render(){
+  var q = document.getElementById("sd-q").value.trim();
+  var grid = document.getElementById("sd-grid");
+  grid.innerHTML = "";
+  var list = DATA.filter(function(d){
+    if(curR!=="すべて" && d.region!==curR) return false;
+    if(curC!=="すべて" && d.cat!==curC) return false;
+    if(q && (d.name+d.pub+d.region+d.cat).indexOf(q)===-1) return false;
+    return true;
+  });
+  list.sort(function(a,b){ return a.next < b.next ? -1 : 1; });
+  list.forEach(function(d){
+    var card = document.createElement("article");
+    card.className = "sd-card";
+    card.innerHTML =
+      '<div class="sd-card-head"><div class="sd-tags"><span class="sd-tag sd-region">'+d.region+'</span><span class="sd-tag">'+d.cat+'</span></div>'+
+      '<div class="sd-next">次回公表<b>'+d.nextLabel+'</b>'+cdLabel(d.next)+'</div></div>'+
+      "<h3>"+d.name+"</h3>"+
+      '<div class="sd-how">'+d.pub+" ／ "+d.freq+"<br>"+d.how+"</div>"+
+      '<div class="sd-latest"><span class="sd-val sd-num">'+d.val+'</span><span class="sd-per">'+d.period+" ・ "+d.released+"</span></div>"+
+      '<div class="sd-vs">'+d.vs.map(vsChip).join("")+"</div>"+
+      '<div class="sd-how" style="margin-bottom:6px">'+d.valNote+"</div>"+
+      '<div class="sd-body"><p><span class="sd-lbl">結果の読み</span>'+d.read+'</p>'+
+      '<p><span class="sd-lbl sd-blue">見通し・次の焦点</span>'+d.outlook+"</p></div>"+
+      '<div class="sd-foot"><span>出所：<a href="'+d.src+'" target="_blank" rel="noopener">'+d.srcName+"</a></span></div>";
+    grid.appendChild(card);
+  });
+  document.getElementById("sd-empty").hidden = list.length>0;
+  document.getElementById("sd-count").textContent = list.length+" 件表示（次回公表日順）";
+}
+render();
+
+/* charts */
+function barChart(elId, data, opts){
+  var el = document.getElementById(elId);
+  var W=320,H=120, base=opts.base, max=opts.max, min=opts.min;
+  var bw = W/data.length;
+  var s = "";
+  var yBase = H-18 - ((base-min)/(max-min))*(H-34);
+  s += '<line x1="0" y1="'+yBase+'" x2="'+W+'" y2="'+yBase+'" stroke="var(--ink3)" stroke-width="1" stroke-dasharray="3 3"/>';
+  data.forEach(function(d,i){
+    var y = H-18 - ((d.v-min)/(max-min))*(H-34);
+    var x = i*bw + bw*0.22, w = bw*0.56;
+    var top = Math.min(y, yBase), h = Math.abs(yBase-y);
+    var color = d.v >= base ? "var(--accent2)" : "var(--accent)";
+    if(opts.single) color = "var(--accent2)";
+    s += '<rect x="'+x+'" y="'+top+'" width="'+w+'" height="'+Math.max(h,2)+'" fill="'+color+'"/>';
+    s += '<text x="'+(x+w/2)+'" y="'+(top-3)+'" font-size="9.5" text-anchor="middle" fill="var(--ink2)">'+d.t+"</text>";
+    s += '<text x="'+(x+w/2)+'" y="'+(H-4)+'" font-size="9.5" text-anchor="middle" fill="var(--ink3)">'+d.m+"</text>";
+  });
+  el.innerHTML = s;
+}
+barChart("sd-chart-semi", [
+  {m:"6月", v:1379, t:"1,379"}, {m:"7月", v:1479, t:"1,479"}, {m:"8月", v:1597, t:"1,597"}, {m:"9月", v:1726, t:"1,726"}
+], {base:0, min:0, max:1900, single:true});
+barChart("sd-chart-pmi", [
+  {m:"3月", v:50.4, t:"50.4"}, {m:"4月", v:50.3, t:"50.3"}, {m:"5月", v:50.0, t:"50.0"}, {m:"6月", v:50.3, t:"50.3"},
+  {m:"7月", v:49.2, t:"49.2"}, {m:"8月", v:49.8, t:"49.8"}, {m:"9月", v:50.1, t:"50.1"}, {m:"10月", v:49.3, t:"49.3"}
+], {base:50, min:48.4, max:51.2});
+})();
+</script>
+</div>
