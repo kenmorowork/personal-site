@@ -1,0 +1,634 @@
+{
+  "version": 1,
+  "editorReportId": 21,
+  "lang": "ja",
+  "firmName": "J-Core Fundamental Research",
+  "reportType": "Initiation",
+  "dateDisplay": "2026年11月23日",
+  "dateISO": "2026-11-23",
+  "sectorLine": "Japan Equity Research",
+  "companyName": "Ryohin Keikaku Co., Ltd. (7453)",
+  "headlineHtml": "<strong>Operating profit above ¥100bn for the first time</strong>: initiation on MUJI as overseas growth overtakes Japan — with the online store still shut after the October data breach",
+  "rating": "Under Review",
+  "priceLabel": "Price (20 Nov 26)",
+  "priceValue": "¥4,822",
+  "targetLabel": "Price Target",
+  "targetValue": "Under review",
+  "upside": "",
+  "priceAsOf": "20 November 2026",
+  "keyData": [
+    {
+      "label": "Market cap",
+      "value": "¥2.67tn",
+      "asOf": "20 Nov 26 (latest quote)"
+    },
+    {
+      "label": "52-week range",
+      "value": "¥2,770 – ¥5,168",
+      "asOf": "16 Nov 2026 (Finnhub via search results)"
+    },
+    {
+      "label": "P/E (FY8/26 EPS ¥143.98)",
+      "value": "33.5x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "P/E (FY8/27E co. guidance EPS ¥137.45)",
+      "value": "35.1x",
+      "asOf": "20 Nov 26 (calculated)"
+    },
+    {
+      "label": "FY8/27E dividend (company forecast)",
+      "value": "¥38 / share (0.8% yield)",
+      "asOf": "FY8/26 tanshin, 14 Oct 2026"
+    },
+    {
+      "label": "Next event",
+      "value": "Q1 FY8/27 results, early Jan 2027; online-store reopening date not disclosed",
+      "asOf": "Company disclosure pattern, Nov 2026"
+    }
+  ],
+  "analystName": "Kenshi Morozumi",
+  "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
+  "analystEntity": "J-Core Fundamental Research",
+  "ledeLeadHtml": "The no-brand retailer becomes a global growth company:",
+  "ledeHtml": "Ryohin Keikaku Co., Ltd. (7453, TSE Prime) operates MUJI (無印良品, 'no-brand quality goods') — a private-brand retailer of apparel, household goods and food, designed in-house and sold through 1,486 stores (723 in Japan, 763 overseas) at 31 August 2026. FY8/26 (year ended 31 August 2026) was a record year on every line: operating revenue ¥923,592mn (+17.7% YoY), <strong>operating profit ¥103,436mn (+40.1%, above ¥100bn for the first time, an 11.2% margin)</strong>, and profit attributable to owners of parent ¥76,422mn (+50.3%), with ROE of 20.6% (FY8/26 tanshin, 14 October 2026). Strengths: (1) overseas is now the profit engine — overseas revenue was ¥412.6bn (44.7% of the total) at a 19.1% segment margin before global SG&amp;A, led by East Asia (¥293,783mn revenue, ¥61,690mn segment profit, a 21.0% margin), and the rolling plan targets overseas above 50% of revenue by FY8/29; (2) gross margin is structurally improving — 52.8% in FY8/26 (+1.4pp YoY) on in-house production (MGS bases) and restrained discounting, per the company; (3) the balance sheet carries the expansion comfortably (equity ratio 61.1%, cash and equivalents ¥169,188mn at August 2026). Weaknesses: (1) the October–November 2026 information-security incident — unauthorised access detected 29 October 2026, up to ~27.26mn app/online records and ~1.09mn MUJI Card full numbers potentially accessed, <strong>the Japan online store suspended from 6 November 2026 with no reopening date disclosed</strong> at the time of writing — which directly hits the EC channel and trust in the MUJI app, the core of the OMO strategy; (2) FY8/26 net profit was flattered by one-offs (FX gains of ¥3,214mn, a ¥2,367mn gain on sale of investment securities / cross-shareholdings, and a foreign subsidiary's deferred-tax recognition), so FY8/27 company guidance has net profit falling 4.5% to ¥73,000mn even as operating profit rises 10.2% to ¥114,000mn; (3) Japan, still 55.3% of revenue, grows more slowly (+8.7% in FY8/26) and carries the global SG&amp;A burden (¥39,046mn of unallocated corporate costs in FY8/26), while merchandise inventory rose ¥35,569mn in FY8/26 to ¥205,335mn — the working-capital line to watch if like-for-like growth slows. All historical figures are as reported by the company (J-GAAP); the only forward figures are company guidance and the company's rolling plan, labelled as such. No rating or price target is assigned at initiation (Under Review).",
+  "bullets": [
+    {
+      "leadHtml": "Record FY8/26, first ¥100bn operating profit.",
+      "html": "Operating revenue ¥923,592mn (+17.7% YoY), <strong>operating profit ¥103,436mn (+40.1%)</strong>, ordinary profit ¥104,670mn (+44.8%) and net profit to parent ¥76,422mn (+50.3%); gross margin 52.8% (+1.4pp), operating margin 11.2% (+1.8pp), ROE 20.6%. The annual dividend was raised to ¥38 per share (post-split basis), ¥6 above the prior forecast and ¥13 above FY8/25 on the same basis. Source: FY8/26 tanshin, 14 October 2026; FY8/26 results briefing, 14 October 2026."
+    },
+    {
+      "leadHtml": "Guidance: ¥1tn revenue in FY8/27, net profit guided down on one-off reversal.",
+      "html": "FY8/27 company guidance — <strong>operating revenue ¥1,014,000mn (+9.8% YoY), operating profit ¥114,000mn (+10.2%)</strong>, ordinary profit ¥111,000mn (+6.0%), net profit to parent ¥73,000mn (−4.5%), EPS ¥137.45, dividend ¥38 — is company guidance, not a J-Core Fundamental Research forecast. The net-profit decline is explicitly the absence of FY8/26 one-offs (FX gains, cross-shareholding sale gains, deferred-tax recognition). Planned stores at August 2027: 1,584 (760 Japan, 824 overseas). Source: FY8/26 tanshin, 14 October 2026."
+    },
+    {
+      "leadHtml": "Strength — East Asia economics and the overseas mix shift.",
+      "html": "<strong>East Asia earned a 21.0% segment margin in FY8/26</strong> on ¥293,783mn of revenue (+32.2% YoY); Southeast Asia &amp; Oceania margin rose to 13.8% and Europe &amp; Americas held 15.5% despite flagship upfront costs. Overseas like-for-like (stores + EC) was +15.6% in East Asia for the full year (company results summary). The rolling plan to FY8/29 targets revenue of ¥1,298,000mn, operating profit of ¥156,000mn (12.0% margin), ROE of 18.1% and 1,850 stores, with overseas above 50% of revenue. Source: FY8/26 tanshin segment note; FY8/26 results briefing (rolling plan), 14 October 2026."
+    },
+    {
+      "leadHtml": "Weakness — the data breach and the suspended online store.",
+      "html": "Unauthorised access was detected on 29 October 2026. Company notices (30 October, 4, 6 and 9 November 2026, as summarised in Shared Research's 10 November 2026 report and press coverage of the 12 November 2026 press conference) widened the scope in stages: up to ~27.26mn MUJI app / online-store records (email, date of birth, gender); ~1.09mn MUJI Card full card numbers retained from the pre-July-2021 points scheme that the company had intended to delete (~345,000 still valid, issuer Credit Saison); ~750,000 customers' names/addresses/phone numbers; and ~270,000 accounts subject to credential-stuffing logins. <span class=\"rt-red\">The Japan online store has been suspended since 6 November 2026 and most app functions were stopped</span>; no reopening date had been disclosed at the time of writing. President Satoshi Shimizu apologised at the 12 November press conference. Source: company notices via Shared Research teardown notes, 2026-11-16; press reports, 12 November 2026."
+    },
+    {
+      "leadHtml": "History has a scar: the FY2/20–FY8/20 break and the year-end change.",
+      "html": "The fiscal year-end moved from February to August in 2020, creating a six-month stub (March–August 2020) that printed revenue of ¥179,392mn, operating profit of ¥872mn and a net loss of ¥16,917mn in the COVID shock. The 11-year table in Exhibit 1 shows the stub explicitly and never annualises it; growth rates across the stub are not meaningful and are not presented as such. Source: MUJI REPORT 2024, 11-Year Summary (company integrated report)."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "figure": {
+        "id": "f1",
+        "number": "Table 1",
+        "titleHtml": "Exhibit 1. Key indicators — FY2/17–FY8/26 actuals (incl. FY8/20 six-month stub) and FY8/27E company guidance",
+        "sourceHtml": "FY2/17–FY8/24: MUJI REPORT 2024, 11-Year Summary (company integrated report). FY8/25–FY8/26 and FY8/27E guidance: FY8/26 tanshin, 14 Oct 2026. EPS and dividend per share are shown split-adjusted for the 2-for-1 split of 1 Sep 2025 throughout: FY2/17–FY8/24 are the as-reported pre-split figures divided by two (calculated); FY8/25 dividend ¥25 is the post-split equivalent of the as-paid ¥50. FY8/20 is a six-month stub (Mar–Aug 2020) shown as reported, not annualised.",
+        "kind": "table",
+        "columns": [
+          "¥mn unless stated",
+          "FY2/17",
+          "FY2/18",
+          "FY2/19",
+          "FY2/20",
+          "FY8/20 stub (6M)",
+          "FY8/21",
+          "FY8/22",
+          "FY8/23",
+          "FY8/24",
+          "FY8/25",
+          "FY8/26",
+          "FY8/27E (co. guidance)"
+        ],
+        "rows": [
+          [
+            "Operating revenue",
+            "333281",
+            "379551",
+            "409697",
+            "438713",
+            "179392",
+            "453689",
+            "496171",
+            "581412",
+            "661677",
+            "784629",
+            "923592",
+            "1014000"
+          ],
+          [
+            "Operating profit",
+            "38278",
+            "45286",
+            "44743",
+            "36380",
+            "872",
+            "42447",
+            "32773",
+            "33137",
+            "56135",
+            "73840",
+            "103436",
+            "114000"
+          ],
+          [
+            "Operating margin (%)",
+            "11.5",
+            "11.9",
+            "10.9",
+            "8.3",
+            "0.5",
+            "9.4",
+            "6.6",
+            "5.7",
+            "8.5",
+            "9.4",
+            "11.2",
+            "11.2"
+          ],
+          [
+            "Ordinary profit",
+            "38582",
+            "45985",
+            "45861",
+            "36377",
+            "563",
+            "45369",
+            "37214",
+            "36156",
+            "55777",
+            "72301",
+            "104670",
+            "111000"
+          ],
+          [
+            "Net income to parent",
+            "25831",
+            "30113",
+            "33845",
+            "23253",
+            "-16917",
+            "33903",
+            "24558",
+            "22052",
+            "41566",
+            "50846",
+            "76422",
+            "73000"
+          ],
+          [
+            "EPS (¥, split-adjusted)",
+            "48.8",
+            "57.4",
+            "64.5",
+            "44.2",
+            "-32.2",
+            "64.5",
+            "46.6",
+            "41.8",
+            "78.6",
+            "95.9",
+            "144",
+            "137.5"
+          ],
+          [
+            "Dividend per share (¥, split-adjusted)",
+            "14.7",
+            "17.3",
+            "19.4",
+            "18.2",
+            "2.5",
+            "20",
+            "20",
+            "20",
+            "20",
+            "25",
+            "38",
+            "38"
+          ],
+          [
+            "Operating cash flow",
+            "19742",
+            "46982",
+            "23680",
+            "24452",
+            "-1758",
+            "61447",
+            "23350",
+            "56527",
+            "58504",
+            "73355",
+            "99396",
+            "—"
+          ],
+          [
+            "Total assets (period-end)",
+            "214705",
+            "238313",
+            "258309",
+            "306512",
+            "343918",
+            "393357",
+            "399324",
+            "453715",
+            "509551",
+            "562749",
+            "672299",
+            "—"
+          ],
+          [
+            "ROE (%)",
+            "17.7",
+            "18.6",
+            "18.8",
+            "11.8",
+            "-8.8",
+            "17.3",
+            "10.8",
+            "8.7",
+            "14.9",
+            "16.3",
+            "20.6",
+            "—"
+          ],
+          [
+            "Total stores (period-end, headline basis)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—",
+            "1474",
+            "1486",
+            "1584"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "heading": "1. Key indicators and financial history",
+      "level": "part",
+      "html": "<p>Ryohin Keikaku reports under Japanese GAAP with an August year-end (FY8/26 = year ended 31 August 2026). The history below is compiled from the company's own 11-Year Summary (MUJI REPORT 2024, integrated report) for FY2/17–FY8/24 and from the FY8/26 tanshin (14 October 2026) for FY8/25–FY8/26; figures are ¥mn unless stated. The year-end change matters: until FY2/20 the year ended in February; FY8/20 is a six-month stub (1 March–31 August 2020) and is shown as reported, not annualised.</p>\n<p>Revenue compounded through the pre-COVID years — ¥333,281mn (FY2/17), ¥379,551mn (FY2/18), ¥409,697mn (FY2/19), ¥438,713mn (FY2/20) — broke in the stub (¥179,392mn in six months, operating profit ¥872mn, net loss ¥16,917mn), then rebuilt: ¥453,689mn (FY8/21), ¥496,171mn (FY8/22), ¥581,412mn (FY8/23), ¥661,677mn (FY8/24), ¥784,629mn (FY8/25, +18.6%) and ¥923,592mn (FY8/26, +17.7%). Operating profit tells the margin story: 11.5–11.9% margins in FY2/17–18, erosion to 8.3% in FY2/20, recovery to 9.4% in FY8/21, a second trough at 5.7% in FY8/23 (¥33,137mn) as costs and China weakness bit, then ¥56,135mn (8.5%) in FY8/24, ¥73,840mn (9.4%) in FY8/25 and ¥103,436mn (11.2%) in FY8/26 — the first print above both ¥100bn and an 11% margin since the February-era peak. <strong>The FY8/24–26 margin rebuild is the central financial fact of this initiation</strong>: operating gross margin rose to 52.8% in FY8/26 (FY8/25: 51.4%) while the SG&amp;A ratio fell to 41.6% (FY8/25: 41.9%).</p>\n<p>Net profit attributable to owners of parent was ¥25,831mn (FY2/17), ¥30,113mn (FY2/18), ¥33,845mn (FY2/19), ¥23,253mn (FY2/20), −¥16,917mn (stub), ¥33,903mn (FY8/21), ¥24,558mn (FY8/22), ¥22,052mn (FY8/23), ¥41,566mn (FY8/24), ¥50,846mn (FY8/25) and ¥76,422mn (FY8/26). ROE followed the same arc: 17.7%, 18.6%, 18.8%, 11.8%, −8.8% (stub), 17.3%, 10.8%, 8.7%, 14.9%, 16.3% and 20.6%. Two cautions on the latest year: FY8/26 net profit includes ¥3,214mn of FX gains, a ¥2,367mn gain on sale of investment securities and a deferred-tax credit of ¥6,125mn (total income taxes ¥24,860mn on pre-tax profit of ¥102,683mn), which is why company guidance has FY8/27 net profit falling despite operating growth; and per-share figures straddle the 2-for-1 stock split of 1 September 2025 — Exhibit 1 shows EPS and dividends on a split-adjusted basis throughout (pre-split reported figures halved), as flagged in its source note.</p>\n<p>The balance sheet funded the store build-out without strain. Total assets rose from ¥214,705mn (FY2/17) to ¥672,299mn (FY8/26) and net assets from ¥157,018mn to ¥419,265mn; the equity ratio was 61.1% at August 2026 (FY8/25: 59.0%). Operating cash flow was ¥99,396mn in FY8/26 (FY8/25: ¥73,355mn) against investing outflow of ¥30,124mn (store capex ¥21,730mn; software/intangibles ¥9,613mn) and financing outflow of ¥43,771mn (dividends ¥16,654mn, lease repayments ¥15,360mn, long-term borrowing repayments ¥11,518mn); cash and equivalents ended at ¥169,188mn. Merchandise inventory of ¥205,335mn (+¥35,569mn YoY) is the largest single asset build and the balance-sheet item most exposed to a demand turn. The full KPI table, including FY8/27 company guidance, is Exhibit 1 (page 1). Sources: MUJI REPORT 2024, 11-Year Summary; FY8/26 tanshin, 14 October 2026.</p>",
+      "figures": [
+        {
+          "id": "c1",
+          "number": "Figure 1",
+          "titleHtml": "Ryohin Keikaku Co., Ltd. — revenue by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-ryohin-keikaku-initiation-21/c1.svg",
+          "alt": "Ryohin Keikaku Co., Ltd. — revenue by year"
+        },
+        {
+          "id": "c2",
+          "number": "Figure 2",
+          "titleHtml": "Ryohin Keikaku Co., Ltd. — operating profit by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-ryohin-keikaku-initiation-21/c2.svg",
+          "alt": "Ryohin Keikaku Co., Ltd. — operating profit by year"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 3",
+          "titleHtml": "Ryohin Keikaku Co., Ltd. — operating margin by year",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-ryohin-keikaku-initiation-21/c3.svg",
+          "alt": "Ryohin Keikaku Co., Ltd. — operating margin by year"
+        },
+        {
+          "id": "v1",
+          "number": "Figure 4",
+          "titleHtml": "Ryohin Keikaku Co., Ltd. — revenue and operating margin",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-ryohin-keikaku-initiation-21/v1.svg",
+          "alt": "Ryohin Keikaku Co., Ltd. — revenue and operating margin"
+        },
+        {
+          "id": "v2",
+          "number": "Figure 5",
+          "titleHtml": "Ryohin Keikaku Co., Ltd. — revenue vs operating profit",
+          "sourceHtml": "Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-ryohin-keikaku-initiation-21/v2.svg",
+          "alt": "Ryohin Keikaku Co., Ltd. — revenue vs operating profit"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "2. Latest update — FY8/26 results, FY8/27 guidance and the security incident",
+      "level": "part",
+      "html": "<p>Ryohin Keikaku reported FY8/26 full-year results on 14 October 2026. Within three weeks the investment narrative was joined by a second story: the MUJI app / online-store security incident disclosed from 30 October 2026. Both are covered here; the incident's chronology follows the company's staged notices as recorded in Shared Research's report of 10 November 2026 and press coverage of the company's 12 November 2026 press conference.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "FY8/26 results (as reported)",
+      "level": "section",
+      "html": "<p>Operating revenue ¥923,592mn (+17.7% YoY), operating gross profit ¥487,691mn (52.8% margin), SG&amp;A ¥384,255mn (41.6% of revenue), operating profit ¥103,436mn (+40.1%), ordinary profit ¥104,670mn (+44.8%) and net profit to parent ¥76,422mn (+50.3%); basic EPS ¥143.98 (split-adjusted). <strong>Revenue and profit at every level were record highs</strong>, assisted by yen weakness as well as volume (company briefing: FX contributed +¥4.8bn to the YoY operating-profit bridge). Versus the company's own plans, FY8/26 beat both the initial plan (revenue ¥860,000mn, operating profit ¥79,000mn) and the July 2026 revised plan (revenue ¥907,000mn, operating profit ¥98,000mn, net ¥67,000mn — third-party summary of the July revision; see Basis of preparation). The profit bridge (company briefing): Japan segment profit +¥11.2bn YoY, overseas segment profit +¥23.6bn before FX (+¥18.8bn ex-FX), FX +¥4.8bn, internal product-supply gains, less a ¥5.4bn increase in global SG&amp;A and ¥5.5bn of production-management/IT strengthening costs.</p>\n<p>By half, H2 was stronger than H1 (company briefing): H2 gross margin 53.2% and operating margin about 12%, with Japan recovering in H2 after the H1 EC suspension (see below — the tanshin notes online sales declined in H1 on a system disruption) while overseas continued to grow about 20%. Japan full-year like-for-like (stores + EC) was 102.4% YoY: EC fell YoY on the H1 suspension but store sales more than offset it, and all three product categories (apparel, household goods, food) grew. East Asia like-for-like was 115.6% YoY. Stores: 1,486 at August 2026 (Japan 723 after 50 openings and 10 closures; overseas 763 after 71 openings and 37 closures), with North America openings resumed. The year-end dividend was set at ¥22, for an annual ¥38 (interim ¥16), versus the ¥32 forecast — a payout ratio of 26.4% as reported. Source: FY8/26 tanshin, 14 October 2026; FY8/26 results briefing, 14 October 2026; company results summary (IR page, accessed November 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Guidance for FY8/27 (company guidance only)",
+      "level": "section",
+      "html": "<p>Full-year FY8/27 guidance, published with the FY8/26 results on 14 October 2026, is operating revenue ¥1,014,000mn (+9.8% YoY), operating profit ¥114,000mn (+10.2%), ordinary profit ¥111,000mn (+6.0%), net profit to parent ¥73,000mn (−4.5%) and EPS ¥137.45 — company guidance, not a J-Core Fundamental Research forecast. The dividend forecast is ¥38 (interim ¥19, year-end ¥19), a forecast payout ratio of 27.6%, under the company's stated policy of stable dividends targeting a payout ratio of around 30% (results briefing). Management expects revenue above ¥1tn for the first time on existing-store growth in Japan and overseas plus net store additions (planned total 1,584 stores at August 2027: 760 Japan, 824 overseas), and operating profit growth on in-house-production cost reductions and a higher overseas mix, despite yen weakness, raw-material inflation and upfront Europe &amp; Americas investment; <strong>net profit falls only because FY8/26 one-offs (FX gains, cross-shareholding sale gains, deferred-tax recognition) do not repeat</strong>. FX assumptions for FY8/27 and beyond are the FY8/26 actual consolidated rates (USD/JPY 156.69, RMB/JPY 22.64, EUR/JPY 182.31; results briefing appendix). No Q1 FY8/27 results had been published by 16 November 2026 (Q1 is normally released in early January); the most recent trading data are the October 2026 monthly figures summarised by Shared Research — domestic October like-for-like (stores) +8.9% YoY and East Asia like-for-like + EC +16.3% (China +19.3%) — which predate the 6 November online-store suspension and therefore do not capture its impact. Source: FY8/26 tanshin, 14 October 2026; FY8/26 results briefing, 14 October 2026; Shared Research report on 7453, 10 November 2026 (monthly data, via teardown notes).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "The October–November 2026 security incident",
+      "level": "section",
+      "html": "<p>Chronology as disclosed by the company in staged notices (30 October, 4, 6 and 9 November 2026) and summarised in Shared Research's 10 November 2026 report and in press reports of the 12 November 2026 press conference; figures are the company's 'up to / approximately' disclosures and remain subject to its investigation. Unauthorised access to MUJI app systems was detected on 29 October 2026 (at about 01:00 JST per Credit Saison, the MUJI Card issuer). The 30 October notice said data of up to ~27.26mn MUJI app users (including former members) — email addresses, dates of birth, gender and member IDs — may have been accessed, and initially stated that card data, names and addresses were not included. The 4 November update widened the scope materially: the ~27.26mn records also cover online-store customers; ~520,000 (later raised to ~750,000) customers' names, addresses and phone numbers may have been accessed; and full card numbers of ~1.09mn MUJI Cards (of which ~345,000 still valid) may have been accessed. The card numbers had been passed by Credit Saison to the company between 2000 and July 2021 for points identification; the company switched identifiers in July 2021 and adopted a policy of deleting the full numbers, but <strong>retained them — the governance failure President Satoshi Shimizu acknowledged and apologised for on 12 November</strong>, alongside a system vulnerability. Cardholder names, expiry dates and security codes were not included; the company said it would cover reissue fees for still-valid affected cards, and as of the 4 November announcements neither company had confirmed dark-web publication or increased fraudulent use (press reports).</p>\n<p>Separately, credential stuffing (login attempts using credentials obtained elsewhere) may have allowed third-party logins to ~270,000 accounts, exposing purchase history and points. The Japan online store was suspended from 16:00 on 6 November 2026, its reopening was postponed on 9 November, and almost all MUJI app functions were stopped except the member-card barcode; the 9 November update also added ~440,000 cash-on-delivery recipients (2020–2025, names and postcodes) to the potentially accessed set. At the time of writing (16 November 2026) no reopening date for the online store had been disclosed, and no quantified P&amp;L impact (lost EC sales, remediation and compensation costs, or provisions) had been published by the company. The incident is treated in this report as a disclosed subsequent event affecting the EC/OMO channel and brand trust — not as a restatement of FY8/26 results, which closed on 31 August 2026, before the access occurred. Source: company notices via Shared Research teardown notes (2026-11-16) and press reports of the 12 November 2026 press conference (Kyodo / Jiji via Japan Times and trade press, accessed November 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "3. Business description",
+      "level": "part",
+      "html": "<p>Ryohin Keikaku plans, develops and sells MUJI-branded daily necessities — apparel, household goods and food — under the founding concept of 'no-brand quality goods': products stripped of branding and decorative excess, sold at prices the company presents as rational, with the corporate purpose of contributing to 'a truthful and sustainable life for all' / 'Well-being Life and Society' (company materials). It is a specialty-store retailer of private-label apparel (SPA)-type model extended across three categories, operating directly managed stores, licensed stores, Café&amp;Meal MUJI restaurants, IDÉE, MUJI HOUSE and the MUJI online store / app, from its head office at 5-1 Koraku 2-chome, Bunkyo-ku, Tokyo. President and Representative Director: Satoshi Shimizu (since November 2024; verified from the FY8/26 tanshin header and the convocation notice for the 48th ordinary general meeting, 30 October 2026).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Product categories: household goods first, then apparel, then food",
+      "level": "section",
+      "html": "<p>The disclosed category mix (company results materials) for FY8/26 was: <strong>household goods ¥433.6bn (47.0% of revenue), apparel ¥338.3bn (36.6%), food ¥123.5bn (13.4%)</strong> and other ¥28.0bn (3.0%) — third-party compilation (Evermore Research initiation, 6 November 2026) of company FY8/26 results; the FY8/25 mix on the company's own profile materials was household goods 46.9% (¥368.1bn), apparel 36.4% (¥285.2bn), food 13.3% (¥104.6bn) and other 3.4% (¥26.4bn). Household goods spans furniture, storage, kitchenware, stationery, electronics and the fast-growing health &amp; beauty / skincare lines; apparel spans innerwear, clothing and footwear; food spans retort curries and prepared foods, confectionery and, in large-format Japanese stores, fresh and daily food corners. The strategic direction in the rolling plan is explicit: 100% assortment coverage of household goods in every region and a 10% food sales mix in every region (results briefing), i.e. exporting the full Japanese assortment rather than the narrowed ranges overseas stores historically carried. Within the year, Japan category sales all grew (tanshin), and East Asia growth was led by household goods (skincare in particular) and food — the categories where localisation is deepest (in mainland China, locally developed products are about 80% of household goods and about 90% of food, per local management comments reported in Chinese trade press, November 2026 — third-party, flagged as such). Source: company results/profile materials; Evermore Research, 6 November 2026 (third-party compilation).</p>",
+      "figures": [
+        {
+          "id": "f3",
+          "number": "Table 2",
+          "titleHtml": "Exhibit 3. Operating revenue by product category",
+          "sourceHtml": "FY8/25: company profile materials (Ryohin Keikaku company profile, FY8/25 basis). FY8/26: third-party compilation of company FY8/26 results (Evermore Research initiation, 6 Nov 2026); shares may not sum precisely due to rounding. Category revenue is not disclosed in the tanshin itself.",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY8/25",
+            "FY8/25 share (%)",
+            "FY8/26",
+            "FY8/26 share (%)"
+          ],
+          "rows": [
+            [
+              "Household goods",
+              "368100",
+              "46.9",
+              "433600",
+              "47"
+            ],
+            [
+              "Apparel",
+              "285200",
+              "36.4",
+              "338300",
+              "36.6"
+            ],
+            [
+              "Food",
+              "104600",
+              "13.3",
+              "123500",
+              "13.4"
+            ],
+            [
+              "Other",
+              "26400",
+              "3.4",
+              "28000",
+              "3"
+            ],
+            [
+              "Total operating revenue",
+              "784629",
+              "100",
+              "923592",
+              "100"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "The private-brand model and the supply chain (MGS, hedging, gross-margin seasonality)",
+      "level": "section",
+      "html": "<p>MUJI products are planned centrally and manufactured by contracted producers, increasingly coordinated through the company's in-house production-management system (MGS) with production bases in China, Vietnam, Indonesia, India and Cambodia and roughly 300 staff (Shared Research, 10 November 2026). The economics show up in gross margin: the cost ratio improved by about 1pp in FY8/25 and the company targeted about 1pp more across FY8/26–28 through internalised production and discount restraint; FY8/26 delivered +1.4pp of gross margin (to 52.8%), ahead of that path, split by the briefing into Japan +1.3pp and mainland China +1.1pp contributions. Purchasing is substantially FX-hedged — Shared Research records about 90% of purchasing as hedged — which smooths, but delays, yen moves: the rolling plan explicitly assumes less favourable hedged rates will drag margins in FY8/27–28 even as reported spot rates flatter translation. Gross margin is seasonal (Shared Research: seasonally high in Q1/Q3, low in Q2/Q4, reflecting apparel markdown cycles), so half-year margin comparisons need the same-half base. The model's other side is inventory: merchandise of ¥205,335mn at August 2026 is about 47% of FY8/26 operating costs (¥435,901mn), and <strong>markdown discipline is the swing factor between the FY8/23 outcome (5.7% operating margin) and FY8/26 (11.2%)</strong>. Source: FY8/26 tanshin and results briefing, 14 October 2026; Shared Research report on 7453, 10 November 2026 (via teardown notes).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "Store network and channels: larger Japanese stores, flagships overseas, OMO on top",
+      "level": "section",
+      "html": "<p>Stores totalled 1,486 at 31 August 2026 (Japan 723, overseas 763), up from 1,474 at August 2025 (Japan 717, overseas 757) on the company's headline count — note the tanshin's flow data (Japan +50 openings / −10 closures; overseas +71 / −37) imply a larger gross churn than the net +12 change in the headline total, a definitional difference flagged in the Basis of preparation. In Japan the format strategy of the last five years is measurable: store count rose from 456 (FY8/21, MUJI REPORT basis excluding some formats) to 723 and average sales floor area per store from about 955m² to about 1,285m² (results briefing), with suburban residential large-format stores carrying the full assortment including food; sales per store reached a record in FY8/26 (briefing). Overseas, the FY8/26 openings included five mainland-China flagships (Xiamen, Chengdu, Shanghai, Changsha, Suzhou, per Chinese trade press) and Thai/Vietnamese flagships; North America openings resumed, and FY8/27 plans include London Oxford Street and Paris Rivoli flagships (about 1,200m² and 2,000m², both scheduled March 2027) and seven new New York-metro stores (results briefing). On top of the stores sits OMO ('online merges with offline'): the MUJI app (about 50mn downloads/registrations on the company's 'by the numbers' page; Japan active users 17.50mn in FY8/25 per MUJI REPORT 2025), MUJI passport/mile points, and the online store — the channel suspended since 6 November 2026 (Chapter 2c). EC's exact share of revenue is not disclosed in the tanshin and is therefore not quantified here. Source: FY8/26 tanshin; FY8/26 results briefing; MUJI REPORT 2025; company 'by the numbers' page, accessed November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "4. Market and value chain",
+      "level": "part",
+      "html": "<p>MUJI competes in the broad Japanese and Asian daily-necessities market — apparel basics, home goods and packaged food — against specialists in each category rather than a single direct peer: Fast Retailing (Uniqlo/GU) in apparel basics, Nitori in furniture and home fashion, Shimamura and Workman in value apparel, Muji's food lines against convenience and supermarket private brands, and IKEA and domestic e-commerce platforms in home goods; overseas, the closest conceptual peers are IKEA, H&amp;M Home / Zara Home and local value chains, plus platform e-commerce (Tmall/JD in China). Shared Research's report on the company includes full 10-year financial tables for Fast Retailing and Nitori as the benchmark set; this report does not reproduce competitor financial tables because verified competitor filings were not compiled for this initiation — the gap is flagged in the Basis of preparation, and no competitor figures are quoted from memory.</p>\n<p>The value chain runs: product planning and design (Tokyo, with a mainland-China development team — the only on-site development team outside Japan, established 2019) → contracted manufacturing concentrated in Asia, coordinated through MGS production bases (China, Vietnam, Indonesia, India, Cambodia) → global procurement ('Other' segment) and logistics → directly managed and licensed stores, franchise/wholesale supply (including supply into partner retail formats in Japan), Café&amp;Meal MUJI, and EC/app. <mark>Margin capture sits at the planning and procurement stages</mark>: because the brand carries no advertising-heavy brand premium (advertising was 1.9% of revenue in FY8/26, results briefing), gross margin is made on specification, materials and production management — 'selection of materials, streamlining of processes, simplification of packaging' in the founding formulation — and lost or kept at the markdown line. Three structural sensitivities follow. First, input and FX exposure: production is Asia-based and substantially yen-hedged (about 90% per Shared Research), so sustained yen weakness raises hedged purchase costs with a lag — the plan's stated FY8/27–28 margin headwind. Second, China concentration within East Asia: mainland China is the largest overseas market (433 stores at August 2026 per Chinese trade press; full-year mainland like-for-like +16.3% in FY8/26 per the EEO report of the results), inside an East Asia segment that is 31.8% of group revenue and the group's highest-margin business — geopolitical and consumer-sentiment shocks transmit directly. Third, the demand base is daily necessities: low ticket, high frequency, traffic-driven — Japan's FY8/26 growth came mainly from customer traffic (briefing), which makes store-network expansion and app engagement, not price, the growth variables, and makes the current EC/app outage an operating issue, not only a compliance one. Sources: FY8/26 results briefing, 14 October 2026; Shared Research report on 7453, 10 November 2026 (via teardown notes); company materials, accessed November 2026.</p>",
+      "figures": [
+        {
+          "id": "d1",
+          "number": "Figure 6",
+          "titleHtml": "Ryohin Keikaku (MUJI) in the private-brand retail value chain",
+          "sourceHtml": "Company business description (§3) and market &amp; value chain (§4) of this report; no FIELDNOTES retail sector report exists.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-16-ryohin-keikaku-initiation-21/d1.svg",
+          "alt": "Ryohin Keikaku (MUJI) in the private-brand retail value chain"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "5. Regional segments",
+      "level": "part",
+      "html": "<p>Reportable segments (tanshin segment note) are Japan, East Asia, Asia East / South &amp; Oceania (named 'Southeast Asia and Oceania' in the results briefing — same segment; see Basis of preparation), and Europe &amp; Americas, plus 'Other' (global procurement) and unallocated corporate expenses ('global SG&amp;A' in the briefing). Segment profit is operating profit. The basis is geographic by operating entity/market as defined in the note; inter-segment revenue is minimal (¥16mn in FY8/26).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "FY8/26: every region profitable; overseas margins above Japan",
+      "level": "section",
+      "html": "<p>FY8/26 external revenue and segment profit (Exhibit 2): Japan ¥510,993mn and ¥63,390mn (12.4% margin); East Asia ¥293,783mn and ¥61,690mn (21.0%); Asia East / South &amp; Oceania ¥66,519mn and ¥9,163mn (13.8%); Europe &amp; Americas ¥52,295mn and ¥8,097mn (15.5%); Other (global procurement) profit ¥140mn; less unallocated corporate expenses of ¥39,046mn, reconciling to consolidated operating profit of ¥103,436mn. In FY8/25 the same lines were Japan ¥470,143mn / ¥52,111mn (11.1%), East Asia ¥222,247mn / ¥42,794mn (19.3%), Southeast Asia &amp; Oceania ¥50,105mn / ¥5,584mn (11.1%), Europe &amp; Americas ¥42,133mn / ¥6,922mn (16.4%), Other ¥73mn, corporate −¥33,645mn, operating profit ¥73,840mn.</p>\n<p>Three readings. First, overseas is no longer the junior business: overseas revenue of ¥412,599mn was 44.7% of the group total and <strong>overseas segment profit of ¥78,950mn was 55.5% of the ¥142,342mn segment-profit subtotal before corporate costs</strong> — East Asia alone nearly matched Japan's segment profit on 57% of Japan's revenue. Second, Japan's margin improvement (+1.3pp to 12.4%) came from gross margin (in-house production, discount restraint) and store-operating efficiency, on only +8.7% revenue growth — productivity, not volume, is the Japan story the plan asks to repeat. Third, the corporate drag is growing in absolute terms (¥33,645mn → ¥39,046mn, +16.2%) on production-management and IT strengthening — the same IT estate now at the centre of the security incident — and the briefing names Japan/global SG&amp;A efficiency as a remaining challenge. Europe &amp; Americas margin dipped 0.9pp to 15.5% on flagship upfront costs, by design ahead of the FY8/27 London/Paris openings. Source: FY8/26 tanshin segment note, 14 October 2026; FY8/26 results briefing segment table, 14 October 2026.</p>",
+      "figures": [
+        {
+          "id": "f2",
+          "number": "Table 3",
+          "titleHtml": "Exhibit 2. Regional segments — external operating revenue and segment profit (operating profit)",
+          "sourceHtml": "FY8/26 tanshin segment note, 14 Oct 2026. Segment profit reconciles to consolidated operating profit after 'Other' (global procurement) and unallocated corporate expenses (global SG&amp;A). Third segment named 'Asia East / South &amp; Oceania' in the tanshin; 'Southeast Asia and Oceania' in the results briefing (same segment).",
+          "kind": "table",
+          "columns": [
+            "¥mn",
+            "FY8/25 revenue",
+            "FY8/25 profit",
+            "FY8/26 revenue",
+            "FY8/26 profit"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "470143",
+              "52111",
+              "510993",
+              "63390"
+            ],
+            [
+              "East Asia",
+              "222247",
+              "42794",
+              "293783",
+              "61690"
+            ],
+            [
+              "Asia East / South & Oceania",
+              "50105",
+              "5584",
+              "66519",
+              "9163"
+            ],
+            [
+              "Europe & Americas",
+              "42133",
+              "6922",
+              "52295",
+              "8097"
+            ],
+            [
+              "Other (global procurement) — profit only",
+              "—",
+              "73",
+              "—",
+              "140"
+            ],
+            [
+              "Corporate / adjustments (global SG&A)",
+              "—",
+              "-33645",
+              "—",
+              "-39046"
+            ],
+            [
+              "Consolidated operating profit",
+              "784629",
+              "73840",
+              "923592",
+              "103436"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Monthly trading and like-for-like texture",
+      "level": "section",
+      "html": "<p>The company discloses monthly like-for-like (existing-store, and stores + EC) data by domestic / overseas cuts, tabulated in detail in Shared Research's report. The full-year anchors from the company's own results summary: Japan like-for-like (stores + EC) 102.4% YoY for FY8/26, with EC below the prior year on the H1 system suspension but stores above it in all categories; East Asia like-for-like (stores + EC) 115.6% YoY, led by household goods and food. The most recent month available at writing, October 2026 (Shared Research, 10 November 2026): domestic like-for-like +8.9% YoY; East Asia like-for-like + EC +16.3% YoY, with mainland China +19.3%. October therefore showed no demand break before the incident — but it also largely predates both the online-store suspension (from 6 November) and the incident's publicity peak (12 November press conference), so <strong>November monthly data, due in December, will be the first clean read on traffic, EC and app-engagement damage</strong>. Singapore is a noted soft spot inside Southeast Asia (like-for-like below prior year for the full year on price revisions and restrained discounts, turning above prior year in August 2026; company results summary). Source: company results summary (IR page, accessed November 2026); Shared Research report on 7453, 10 November 2026 (monthly table, via teardown notes).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "6. Financial statements summary",
+      "level": "part",
+      "html": "<p>Condensed consolidated statements (J-GAAP, ¥mn), FY8/25–FY8/26 as reported in the FY8/26 tanshin; longer history in Exhibit 1. Income statement: operating revenue ¥784,629mn / ¥923,592mn; operating costs ¥381,653mn / ¥435,901mn; operating gross profit ¥402,975mn / ¥487,691mn (margins 51.4% / 52.8%); SG&amp;A ¥329,135mn / ¥384,255mn (41.9% / 41.6% — within it, personnel ¥134.1bn, rent ¥65.4bn, logistics ¥48.2bn, depreciation ¥38.0bn, advertising ¥17.3bn in FY8/26, per the results briefing); operating profit ¥73,840mn / ¥103,436mn. Non-operating income ¥2,284mn / ¥4,724mn (FY8/26 includes FX gains ¥3,214mn) less expenses ¥3,822mn / ¥3,490mn (interest ¥3,074mn) gives ordinary profit ¥72,301mn / ¥104,670mn. Extraordinary income ¥379mn / ¥4,398mn (FY8/26: gain on sale of investment securities ¥2,367mn, compensation income ¥1,715mn, gain on change in lease terms ¥309mn) less extraordinary losses ¥6,722mn / ¥6,386mn (impairment ¥2,934mn, loss on retirement of non-current assets ¥3,396mn) gives pre-tax profit ¥65,958mn / ¥102,683mn; income taxes ¥15,085mn / ¥24,860mn (FY8/26 includes a ¥6,125mn deferred-tax credit); profit ¥50,872mn / ¥77,822mn, of which to non-controlling interests ¥26mn / ¥1,400mn and to owners of parent ¥50,846mn / ¥76,422mn. Comprehensive income was ¥49,066mn / ¥96,515mn (FY8/26 includes hedge gains ¥9,108mn and FX translation ¥11,215mn).</p>\n<p>Balance sheet (31 August 2026): total assets ¥672,299mn (FY8/25: ¥562,749mn); current assets ¥447,501mn including cash and deposits ¥168,675mn, merchandise ¥205,335mn, receivables ¥24,764mn; non-current assets ¥224,798mn including PP&amp;E ¥130,578mn (of which right-of-use assets, net, ¥54,647mn), software ¥37,075mn and leasehold/guarantee deposits ¥29,172mn. Liabilities ¥253,034mn: trade payables ¥63,636mn, bonds payable ¥30,000mn, lease liabilities ¥64,989mn (current ¥17,249mn + non-current ¥47,740mn), income taxes payable ¥17,902mn; bank borrowings are now minimal (short-term ¥511mn, long-term ¥305mn, after ¥11,518mn of long-term repayments). Net assets ¥419,265mn (share capital ¥6,766mn; retained earnings ¥360,534mn; accumulated other comprehensive income ¥41,278mn including deferred hedge gains ¥22,457mn); equity ratio 61.1%; net assets per share ¥773.33 (split-adjusted). Shares: 561,560,000 issued (post-split basis), 30,470,640 in treasury at August 2026. Cash flow: operating ¥99,396mn (FY8/25: ¥73,355mn), investing −¥30,124mn, financing −¥43,771mn, FX effect +¥8,328mn; cash and equivalents ¥169,188mn. Per-share (split-adjusted): EPS ¥95.92 / ¥143.98; dividends ¥25 (post-split equivalent of the as-paid ¥50 pre-split) / ¥38. Source: FY8/26 tanshin, 14 October 2026 (statements, balance sheet, cash-flow statement, per-share notes).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "7. Mid-term plan — the rolling three-year plan to FY8/29 vs delivery",
+      "level": "part",
+      "html": "<p>Ryohin Keikaku runs a rolling three-year plan, updated annually. The plan history itself is the cleanest evidence of the recent acceleration — and of why plan figures must be read as moving company targets, not forecasts by this report. The November 2024 plan (for FY8/25–FY8/27) targeted FY8/27 revenue of ¥880,000mn and operating profit of ¥79,000mn (9.0% margin). The October 2025 update (FY8/26–FY8/28) lifted the path to revenue ¥860,000mn / ¥950,000mn / ¥1,080,000mn and operating profit ¥79,000mn / ¥89,000mn / ¥108,000mn. <strong>Actual delivery then overtook both: FY8/26 printed revenue ¥923,592mn and operating profit ¥103,436mn</strong> — above the October 2025 plan for FY8/27 on profit, a year early.</p>\n<p>The current rolling plan (FY8/27–FY8/29, published with the FY8/26 results briefing, 14 October 2026; company plan, not a J-Core Fundamental Research forecast; figures exclude the impact of the new lease accounting standard per the briefing note) targets: operating revenue ¥1,014,000mn (FY8/27) → ¥1,139,000mn (FY8/28) → ¥1,298,000mn (FY8/29), a 12.0% three-year CAGR; operating profit ¥114,000mn → ¥128,000mn → ¥156,000mn (14.7% CAGR), with the margin held at 11.2% through FY8/28 — explicitly reflecting Europe &amp; Americas upfront investment and less favourable hedged FX rates — then stepping to 12.0% in FY8/29 as Europe &amp; Americas contribute and overseas exceeds 50% of revenue; net profit to parent ¥73,000mn → ¥82,000mn → ¥101,000mn; ROA 15.8% → 16.1% → 17.7%; ROE 16.7% → 16.7% → 18.1% (dipping in FY8/27 only on the absence of FY8/26 one-offs). Stores: 1,850 by August 2029, on net additions of about 45/year in Japan and 75/year overseas (including about 30/year in mainland China); three-year average like-for-like (stores + EC) assumptions of 102% in Japan and 105% overseas (mainland China 105%). The 'Eight Growth Drivers' framework carries the execution: store expansion (Europe/North America flagships, India/Middle East build-out), global product-development deployment, key-category strengthening (health &amp; beauty, apparel), OMO strengthening — now explicitly including rebuilding the e-commerce channel — marketing, production/SCM reform (in-house production expansion), IT-driven support, and 'ESG as core business'. Financial policy (briefing): allocate about 60% of operating cash flow to growth (about 20% capex for stores, about 40% capex for IT/infrastructure in the briefing's split), hold cash reserves of about two months of sales, and pay stable dividends at a target payout ratio of about 30% (about 20% of operating cash flow). The FY8/27 dividend forecast of ¥38 (27.6% payout on guided EPS) is consistent with that policy. All figures in this chapter are company plan targets and policies. Source: FY8/26 results briefing, 14 October 2026 (rolling-plan and financial-policy pages).</p>",
+      "figures": [
+        {
+          "id": "f4",
+          "number": "Table 4",
+          "titleHtml": "Exhibit 4. Rolling three-year plan (company plan, Oct 2026) vs prior plans and delivery",
+          "sourceHtml": "FY8/26 results briefing, 14 Oct 2026 (rolling-plan progress and FY27/8–29/8 plan pages). Plan figures are company targets, not J-Core Fundamental Research forecasts; FY8/27–29 plan figures exclude the impact of the new lease accounting standard (briefing note). Nov 2024 plan as originally published for FY8/25–27.",
+          "kind": "table",
+          "columns": [
+            "¥mn unless stated",
+            "FY8/26 actual",
+            "FY8/27E plan",
+            "FY8/28E plan",
+            "FY8/29E plan"
+          ],
+          "rows": [
+            [
+              "Operating revenue",
+              "923592",
+              "1014000",
+              "1139000",
+              "1298000"
+            ],
+            [
+              "Operating profit",
+              "103436",
+              "114000",
+              "128000",
+              "156000"
+            ],
+            [
+              "Operating margin (%)",
+              "11.2",
+              "11.2",
+              "11.2",
+              "12"
+            ],
+            [
+              "Net income to parent",
+              "76422",
+              "73000",
+              "82000",
+              "101000"
+            ],
+            [
+              "ROE (%)",
+              "20.6",
+              "16.7",
+              "16.7",
+              "18.1"
+            ],
+            [
+              "Total stores (period-end)",
+              "1486",
+              "1584",
+              "—",
+              "1850"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "8. ESG — 'the core business itself is ESG'",
+      "level": "part",
+      "html": "<p>Shared Research gives 7453 a dedicated ESG chapter (unlike its industrial coverage), reflecting the company's positioning of '本業＝ESG経営' — the core business itself as ESG management — under the corporate purpose and the principle 'to contribute to society and people'. The framework (company materials; Shared Research, 10 November 2026) rests on four materialities and is governed by an ESG Management Committee chaired by the President. FY8/26 examples from the tanshin's ESG section: the 'Straight line' apparel series (August 2026) using straight-line cutting to minimise fabric waste, in organic cotton and recycled polyester; sale of restored Japanese and Indian used furniture at eight stores each (from June / August 2026); and the 'Helmet for Everyone' project helmet launch (August 2026) with the Metropolitan Police Department and university partners. External evaluations referenced by Shared Research include MSCI, CDP and TNFD / SSBJ alignment work. Group employment was 31,400 worldwide at August 2026 including 16,205 non-regular employees (company 'by the numbers' page; FY8/25: 28,432 including non-regular, MUJI REPORT 2025). This report records the ESG architecture as disclosed; it does not score it, and the October 2026 data-governance failure (Chapter 2c) — retention of card numbers the company had decided to delete — is, on the company's own framework, a governance data point that sits inside this chapter's subject matter, not outside it. Source: FY8/26 tanshin (ESG initiatives), 14 October 2026; Shared Research report on 7453, 10 November 2026 (via teardown notes); company materials, accessed November 2026.</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "9. Other information",
+      "level": "part",
+      "html": "<p>History. MUJI began in 1980 as a private-brand line of Seiyu (40 products at launch, 'lower priced for a reason' — わけあって、安い）; Ryohin Keikaku Co., Ltd. was established in June 1989 and took over the business. Overseas expansion began with London in 1991; mainland China entry followed in 2005 (first store; China development team 2019). The February year-end era ended with FY2/20; the year-end moved to August in 2020 (six-month stub FY8/20). The 'Second Founding' programme under President Nobuo Domae (from September 2021) refocused the assortment and store model; Satoshi Shimizu — previously responsible for mainland China / East Asia and household merchandising — became President and Representative Director in November 2024. The world's largest MUJI store (Aeon Mall Kashihara) opened in the FY8/25 period (MUJI REPORT 2025). Head office: 5-1 Koraku 2-chome, Bunkyo-ku, Tokyo. Capital: ¥6,766mn (MUJI REPORT 2025, as of August 2025). Long-term issuer rating A+ (Japan Credit Rating Agency, per MUJI REPORT 2025 stock information).</p>\n<p>Major shareholders (31 August 2025, MUJI REPORT 2025 / FY8/25 securities-report basis, pre-split share counts as published): The Master Trust Bank of Japan (trust account) 52,833 thousand shares (19.03%); Custody Bank of Japan (trust account) 26,139 thousand shares (9.41%); the company held 3,151,553 treasury shares directly, excluding 11,198,186 shares held via the employee stock ownership / E-Ship trusts (same source). The full top-10 table for FY8/25 was not reproduced in the sources accessed for this report and is therefore not completed from third-party compilations; the FY8/26 securities report (planned filing 20 November 2026) will update the register. Shareholder count: 182,061 (August 2025, MUJI REPORT 2025). Mitsubishi Corporation's long-standing stake (21,566,000 shares pre-split, about 4.1% on third-party compilations) is noted as third-party data, not verified against the FY8/26 register in this report.</p>\n<p>Management. President and Representative Director: Satoshi Shimizu (appointed November 2024; verified from the FY8/26 tanshin header, 14 October 2026, and the 48th AGM convocation notice, 30 October 2026, which records the November 2024 appointment). Inquiries contact in the tanshin: Kenta Hochido, Executive Officer supervising the Corporate Planning Office. The 48th ordinary general meeting is scheduled for 23 November 2026, with the FY8/26 year-end dividend payable from 24 November 2026 (tanshin).</p>\n<p>Shareholder returns. Dividends (split-adjusted): ¥20 in each of FY8/21–FY8/24 (¥40 pre-split), ¥25 in FY8/25 (as-paid ¥50 pre-split; payout 26.1% as reported in the briefing), ¥38 in FY8/26 (payout 26.4%), forecast ¥38 in FY8/27 (forecast payout 27.6%), under a stated target payout of about 30%. Buybacks are not a material feature of recent returns (treasury-share purchases in the FY8/26 cash-flow statement were ¥1mn; treasury holdings mainly reflect the ESOP/E-Ship trusts). The 2-for-1 split of 1 September 2025 doubled the issued count to 561,560,000 shares (post-split basis as restated in the tanshin).</p>\n<p>Market data. The shares closed at ¥4,844 on 13 November 2026 (previous-close figure in Finnhub data for 16 November 2026, via search results), giving a market capitalisation of about ¥2,573bn on 531.1mn shares excluding treasury (calculated). The 52-week range was ¥2,770 (8 January 2026) to ¥5,168 (5 November 2026) (Finnhub). The shares closed at ¥4,961 on 16 November 2026 (+2.4% on the day, Finnhub) — after this report's pricing date. At ¥4,844 the shares trade at 33.6x FY8/26 EPS of ¥143.98, 35.2x FY8/27 company-guidance EPS of ¥137.45, and 6.3x FY8/26 net assets per share of ¥773.33 (all calculated). The next scheduled disclosures are the FY8/26 annual securities report (planned 20 November 2026), the AGM (23 November 2026), November monthly sales (December, date not verified), and Q1 FY8/27 results (early January 2027, by the company's usual calendar — third-party calendar estimate).</p>",
+      "figures": []
+    },
+    {
+      "type": "section",
+      "heading": "10. Basis of preparation",
+      "level": "part",
+      "html": "<p>Sources. FY8/25–FY8/26 financials, segments, per-share data and FY8/27 guidance are from the company's FY8/26 tanshin (Consolidated Financial Results for the Fiscal Year Ended August 31, 2026, J-GAAP, 14 October 2026) and the FY8/26 results briefing of the same date, both retrieved from the company's IR disclosure archive (eir-parts). History for FY2/17–FY8/24 (revenue, operating/ordinary/net profit, cash flows, total assets, net assets, ROE, equity ratio, EPS, BPS, dividends, store counts) is from the company's own 11-Year Summary in MUJI REPORT 2024 (integrated report). Category mix for FY8/25 is from company profile materials; the FY8/26 category split is a third-party compilation (Evermore Research initiation, 6 November 2026) of company results and is labelled as such where used. Incident chronology is from the company's staged notices as summarised in Shared Research's report on 7453 dated 10 November 2026 (teardown notes, ~/workspace/research-report-editor-ref/sharedresearch-6324-teardown.md) and press reports of the 12 November 2026 press conference; the underlying company notices were not each re-read in full for this draft. Market data are from Finnhub as returned by web search on 16 November 2026. This report follows the Shared Research skeleton for 7453 (summary with strengths &amp; weaknesses; KPI history; latest update; performance trends; mid/long-term strategy; business description; revenue structure; market &amp; value chain; financial statements; past results; other information, including its dedicated ESG chapter) and adds the Editor's rating rail. No PL/segment sheet exists for this company; no figure in this report is sourced from one.</p>\n<p>Conventions and discrepancies flagged. (1) Fiscal years are labelled by the August year-end (FY8/26 = year ended 31 August 2026); February-era years are labelled FY2/xx. FY8/20 is a six-month stub (March–August 2020) shown as reported and never annualised; YoY growth across the stub and across the year-end change is not presented. (2) Stock split: a 2-for-1 split was effected on 1 September 2025. The FY8/26 tanshin restates FY8/25–FY8/26 EPS/BPS on a post-split basis; the MUJI REPORT 2024 11-Year Summary is pre-split. Exhibit 1 therefore shows EPS and dividends split-adjusted throughout — FY2/17–FY8/24 values are the as-reported pre-split figures divided by two and are labelled calculated; FY8/25 dividend of ¥25 is the post-split equivalent of the as-paid ¥50 (the tanshin's dividend table shows as-paid amounts for FY8/25). Readers comparing with pre-split publications (e.g. FY8/24 EPS ¥157.10 as reported) should double the Exhibit 1 values for those years. (3) Dividend discrepancy: the Shared Research teardown records the FY8/26 dividend as 'raised from ¥32' — ¥32 was the prior forecast, not the FY8/25 actual; the tanshin confirms FY8/26 annual ¥38 versus a ¥32 forecast and ¥25 (post-split) in FY8/25. The teardown's 'revenue ¥923,592mn / OP ¥103,436mn / net ¥76,422mn' and rolling-plan figures (FY8/29 revenue ¥1,298,000mn, OP ¥156,000mn, margin 12.0%, ROE 18.1%, 1,850 stores) agree exactly with the tanshin and briefing. (4) Store counts: the tanshin reports 1,486 stores at August 2026 (Japan 723, overseas 763) and MUJI REPORT 2025 reports 1,474 at August 2025 (717 / 757), a net change of +12, while the tanshin's own opening/closure flows for FY8/26 (Japan +50/−10; overseas +71/−37) imply net +74; the difference is definitional (licensed stores, Café&amp;Meal MUJI and IDÉE are included in the headline counts on a basis that changed between publications) and could not be reconciled from the documents accessed — both figures are presented as published and the inconsistency is flagged here rather than resolved by assumption. A third-party source (ainvest summary) citing 1,412 stores / 729 overseas for August 2025 conflicts with the company's 1,474 / 757 and was not used. (5) Segment naming: the tanshin segment note names the third segment 'Asia East / South &amp; Oceania' while the results briefing and results summary call the same segment 'Southeast Asia and Oceania' / 'Asia East / South &amp; Oceania' interchangeably; figures are identical. The briefing's segment table rounds to ¥0.1bn (e.g. East Asia profit ¥61.6bn vs tanshin ¥61,690mn); the tanshin is used as authoritative. (6) FY8/26 guidance path: the July 2026 revised plan figures (revenue ¥907,000mn, OP ¥98,000mn, net ¥67,000mn) are taken from a third-party summary (Simply Wall St news) of the company's revision and are labelled as such; the initial plan (¥860,000mn / ¥79,000mn) is from the company's own October 2025 rolling-plan disclosure. (7) ROE for FY8/26: the tanshin reports 20.6%; the company's 'by the numbers' page attributes it in part to a gain on sale of headquarters — the tanshin income statement records the ¥2,367mn extraordinary gain as 'gain on sale of investment securities' and the results summary describes cross-shareholding sale gains; whether a headquarters sale gain is included elsewhere in extraordinary income (compensation income ¥1,715mn is unexplained in the tanshin) was not verified and is flagged, not asserted. (8) President's name: verified as Satoshi Shimizu from the FY8/26 tanshin header and the 48th AGM convocation notice (30 October 2026); some English-language press coverage of the 12 November press conference renders the name 'Tomo Shimizu' — treated as a press error; the company's own documents govern. (9) Gaps: no Q1 FY8/27 results existed by 16 November 2026; EC revenue share, China-only segment P&amp;L (mainland China is inside East Asia), unit economics per store, and a verified competitor financial table (Fast Retailing / Nitori, which Shared Research includes) were not compiled from primary filings for this draft and are described as not disclosed / not verified rather than estimated. Items the company does not disclose in the tanshin — R&amp;D split, category gross margins, EC share — are not estimated.</p>\n<p>Rating and target. The rating ('Under Review') and price target ('Under review') in this initiation report are placeholders assigned under the Research Report Editor programme convention; Ken has set neither, and they are not an investment recommendation. 'Company guidance' and 'company plan' mean Ryohin Keikaku's published forecasts and rolling plan; this report contains no J-Core Fundamental Research forecasts and no invented buy/sell judgement.</p>",
+      "figures": []
+    }
+  ],
+  "showRatingHistory": true,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+}
