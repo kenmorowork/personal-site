@@ -3,7 +3,7 @@
 
 export type Lang = 'ja' | 'en';
 
-export const NAME = 'Ken Morozumi';
+export const NAME = 'J-Core Research by Ken';
 
 // Role line — used verbatim wherever a tagline is needed.
 export const TAGLINE =
