@@ -1,0 +1,320 @@
+---
+title: "The optical segment is carrying the group: a 30% Infocommunications margin against a 3% harness margin, and a guide that needs H2 to be bigger than H1"
+company: "Sumitomo Electric Industries, Ltd."
+ticker: "5802"
+sector: "Industrials"
+date: 2026-11-17
+type: initiation
+externalUrl: "/ja/reports/2026-11-17-sumitomo-electric-industries-initiation-55/"
+lang: ja
+---
+
+Sumitomo Electric is a five-segment industrial conglomerate — Automotive (wiring harnesses, 57% of sales), Environment & Energy (power cable), Infocommunications (optical fibre, connectors and devices), Electronics, and Industrial Materials & Others (cemented-carbide tools) — whose profit centre has abruptly rotated from harnesses to data-centre optics. In FY3/2026 net sales were ¥5,110,171mn, operating profit ¥418,173mn (8.2%), ordinary profit ¥431,274mn and owners' net income ¥369,508mn (EPS ¥473.78 pre-split; ¥118.44 post-split equivalent) — net income flattered by ¥98,149mn of extraordinary income, including a ¥79,154mn gain on sale of shares of subsidiaries and associates. FY3/2027 guidance has been raised twice, to sales ¥5,750,000mn / OP ¥500,000mn / owners' NI ¥370,000mn (30 October 2026). Strengths: (1) **Infocommunications is a genuine AI-infrastructure franchise — FY3/2026 OP ¥77,435mn at a 24.6% margin, then H1 FY3/2027 OP of ¥61.2bn at 30.4% (+177% YoY)** on fibre, high-density connectors/MT ferrules, fusion splicers and optical devices (EML chips, CW lasers for CPO/NPO, InP substrates), with device/InP capacity planned to ~4.5× the 2024 level by 2028 (company DC strategy deck, 12 November 2026); (2) the whole P&L is inflecting — OP margin 3.6% (FY3/2022) → 8.2% (FY3/2026), guide 8.7% (calculated), mid-term plan 10.0% by FY3/2028; (3) Automotive profit has been rebuilt from ¥12,264mn (0.7%, FY3/2022) to ¥179,700mn (6.1%, FY3/2026); (4) balance-sheet repair is real — interest-bearing debt down from ¥891,680mn (FY3/2023) to ¥557,266mn, pre-tax ROIC 14.7% in FY3/2026 (company, vs 9.3%); (5) two guidance raises in FY3/2027 already, with the dividend raised to ¥44 post-split (¥176 pre-split equivalent); (6) breadth of the DC portfolio across every distance class — submarine fibre (incl. a claimed first multi-core submarine project order), inter-building ultra-high-count cable, intra-DC connectors and devices. Weaknesses: (1) **the guide is heavily H2-loaded — H1 delivered 43.9% of guided OP (calculated), so H2 needs ¥280.4bn (+28% vs H1)**, and Infocommunications alone must print ¥94.8bn in H2 against ¥61.2bn in H1, with no disclosed order backlog to underwrite it; (2) the largest business is the weakest — Automotive OP fell 17.7% in H1 on +17.3% sales (3.3% margin) on Middle East volume loss and copper costs, and the pass-through lag is undisclosed; (3) cash conversion broke in H1 — operating cash flow halved to ¥139.4bn as inventories rose ¥201.7bn to ¥1,219.8bn despite record OP; (4) FY3/2026 net income quality — ¥79,154mn of the PBT came from selling affiliate shares, so the 'record' NI is not an operating run-rate; (5) disclosure gaps are material for a ¥5.1tn-sales company — no regional sales or profit in the tanshin at all (register S4), no orders/backlog, no DC revenue figure despite a 14-page DC strategy deck, and no Q&A at interim briefings (slides only); (6) the stock de-rated violently into the print (¥1,413 on 16 November, −6.98% on the day, ~62% below the June 2026 high on a split-adjusted basis per secondary data) — the market is pricing the optical cycle, not the plan. Rating and price target are Under Review placeholders (see Basis of preparation).
+
+**Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
+
+|  | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Net sales | 2,814,483 | 3,082,247 | 3,177,985 | 3,107,027 | 2,918,580 | 3,367,863 | 4,005,561 | 4,402,814 | 4,679,789 | 5,110,171 |
+| Operating profit | 150,503 | 173,139 | 166,260 | 127,216 | 113,926 | 122,195 | 177,443 | 226,618 | 320,663 | 418,173 |
+| OP margin (%) | 5.3 | 5.6 | 5.2 | 4.1 | 3.9 | 3.6 | 4.4 | 5.1 | 6.9 | 8.2 |
+| Net income (owners) | 107,562 | 120,328 | 118,063 | 72,720 | 56,344 | 96,306 | 112,654 | 149,723 | 193,771 | 369,508 |
+| EPS (¥, pre-split) | 137.6 | 154.3 | 151.4 | 93.2 | 72.2 | 123.5 | 144.5 | 192.0 | 248.5 | 473.8 |
+| Operating cash flow | 209,233 | 239,573 | 177,656 | 264,608 | 169,656 | 76,002 | 265,191 | 393,465 | 402,253 | 425,192 |
+| Gross profit | 530,293 | 574,813 | 584,622 | 553,125 | 531,343 | 573,944 | 669,976 | 767,588 | 880,126 | 1,034,031 |
+| Gross margin (%) | 18.8 | 18.6 | 18.4 | 17.8 | 18.2 | 17.0 | 16.7 | 17.4 | 18.8 | 20.2 |
+| Ordinary profit | 173,872 | 195,010 | 188,649 | 130,498 | 114,072 | 138,160 | 173,348 | 215,341 | 309,496 | 431,274 |
+| Profit before income taxes | 167,792 | 193,337 | 181,388 | 133,198 | 110,340 | 159,921 | 196,472 | 238,545 | 304,064 | 505,159 |
+| D&A | 130,700 | 141,439 | 148,916 | 163,581 | 168,040 | 180,508 | 195,999 | 206,331 | 206,152 | 209,842 |
+| Capital expenditure | 175,170 | 171,951 | 178,046 | 192,874 | 166,831 | 174,059 | 184,467 | 179,323 | 199,824 | 222,228 |
+| Inventories (period-end) | 449,070 | 466,437 | 528,789 | 553,586 | 606,343 | 844,837 | 851,224 | 885,017 | 922,998 | 1,018,148 |
+| Cash and equivalents (period-end) | 180,002 | 180,108 | 168,873 | 249,011 | 251,441 | 255,540 | 279,432 | 268,273 | 294,487 | 235,921 |
+| Interest-bearing debt (period-end) | 508,446 | 488,363 | 536,741 | 586,025 | 634,681 | 799,296 | 891,680 | 735,044 | 655,576 | 557,266 |
+
+*Source: Company tanshin via PL/segment sheet (register S1, S11). J-GAAP as originally reported. EPS pre-split as reported in each year's tanshin (4-for-1 split 1 Jul 2026; FY26 post-split equivalent ¥118.44). Margins calculated.*
+
+**Key data**
+| Item | Value |
+|---|---|
+| Share price (16 Nov 2026) | ¥1,413 (post-split) |
+| Market capitalisation | ¥4.32tn |
+| FY3/26 net sales | ¥5,110,171mn |
+| FY3/26 operating profit | ¥418,173mn (8.2%) |
+| FY3/27E guidance (Rev.2, 30 Oct 2026) | Sales ¥5,750,000mn / OP ¥500,000mn |
+| H1 FY3/27 Infocommunications OP | ¥61,200mn (30.4% margin) |
+
+## Key points
+- **Two raises, and still back-loaded** FY3/2027 guidance: initial (12 May 2026) sales ¥5,300,000mn / OP ¥425,000mn → Rev.1 (31 July) ¥5,400,000mn / ¥450,000mn → Rev.2 (30 October) ¥5,750,000mn / OP ¥500,000mn / ordinary ¥515,000mn / NI ¥370,000mn, dividend raised to ¥44 post-split. But H1 OP of ¥219.6bn is only 43.9% of the guide (calculated): **H2 must deliver ¥280.4bn, +28% half-on-half, in a company whose H2 skew is normally modest**.
+- **Infocommunications is the group now** H1 FY3/2027: Infocommunications sales ¥201.5bn (+48.8%), OP ¥61.2bn (+177.4%) at a 30.4% margin (calculated) — 28% of group OP on 7% of sales. The supplementary full-year segment forecast is ¥156.0bn of OP, implying ¥94.8bn in H2 alone. **Whether a 30% margin is a structural device-mix level or a fibre-shortage peak is the central valuation question**; the company discloses neither the price/volume split nor a backlog.
+- **Automotive went the other way** H1 Automotive sales rose 17.3% to ¥1,616.6bn but OP fell 17.7% to ¥53.8bn (3.3% margin vs 4.7%). Disclosed H1 group drags: Middle East situation −¥14.0bn, R&D/depreciation −¥8.0bn, and the Sumitomo Densetsu deconsolidation (now Semlinks) −¥8.6bn (briefing materials). **Copper pass-through lag — the segment's largest cost variable — is not quantified**. The FY3/2026 recovery to a 6.1% margin is not yet proven durable.
+- **Record profit, halved cash flow** H1 operating cash flow was ¥139.4bn, down 44.7% YoY, while OP rose 43.5%: **inventories absorbed ¥201.7bn (to ¥1,219.8bn)**. The mid-term plan's pre-tax ROIC ≥15% target (FY3/2026 actual 14.7%, company) is incompatible with this conversion rate persisting — how much of the build is optical pre-build vs automotive is undisclosed (pack Q7).
+- **The plan triples the optical field by FY2028** Mid-term plan (company plan, to the year ending March 2029): sales ¥6,000bn, OP ¥600bn (10.0%), pre-tax ROIC ≥15%, ROE ≥13%. The Infocommunications field — renamed 'Digital & AI' in the May 2026 plan — carries a FY2028 target of ¥970bn sales / ¥240bn OP (DC deck), **roughly a tripling of the FY3/2026 segment sales base**. No DC revenue ¥ figure is disclosed anywhere in the materials read.
+
+## 1. Key indicators and financial history
+
+Exhibit 1 (page 1) summarises ten fiscal years, FY3/2017–FY3/2026, all J-GAAP as originally reported. The decade divides into a long margin fade and a sharp two-year repair. OP peaked at ¥173,139mn (5.6%) in FY3/2018, slid to ¥113,926mn (3.9%) by FY3/2021 and ¥122,195mn (3.6%) in FY3/2022, then climbed every year to ¥418,173mn (8.2%) in FY3/2026 — sales nearly doubling across the window to ¥5,110,171mn. Owners' net income tracks the same arc (¥56,344mn in FY3/2021 → ¥369,508mn in FY3/2026), though FY3/2026 includes ¥98,149mn of extraordinary income (a ¥79,154mn gain on sale of shares of subsidiaries and associates, ¥10,360mn of fixed-asset sale gains and ¥8,635mn of securities gains, per the FY2026 tanshin) against ¥24,264mn of extraordinary losses — **the operating story is the OP line, not the NI line**. Operating cash flow was positive in all ten years but volatile (¥76,002mn in FY3/2022 against ¥425,192mn in FY3/2026). Per-share figures cross a break: a 4-for-1 split took effect on 1 July 2026 (register S6); Exhibit 1 EPS is pre-split as reported in each year's tanshin, and FY3/2026 EPS of ¥473.78 equals ¥118.44 post-split (Finnhub's annual EPS agrees).
+
+**Figure: Sumitomo Electric Industries, Ltd. — revenue by year**
+
+| Item | Value (¥mn) |
+
+|---|---|
+
+| FY17 | 2814483 |
+
+| FY18 | 3082247 |
+
+| FY19 | 3177985 |
+
+| FY20 | 3107027 |
+
+| FY21 | 2918580 |
+
+| FY22 | 3367863 |
+
+| FY23 | 4005561 |
+
+| FY24 | 4402814 |
+
+| FY25 | 4679789 |
+
+| FY26 | 5110171 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sumitomo Electric Industries, Ltd. — operating profit by year**
+
+| Item | Value (¥mn) |
+
+|---|---|
+
+| FY17 | 150503 |
+
+| FY18 | 173139 |
+
+| FY19 | 166260 |
+
+| FY20 | 127216 |
+
+| FY21 | 113926 |
+
+| FY22 | 122195 |
+
+| FY23 | 177443 |
+
+| FY24 | 226618 |
+
+| FY25 | 320663 |
+
+| FY26 | 418173 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sumitomo Electric Industries, Ltd. — operating margin by year**
+
+| Item | Value (%) |
+
+|---|---|
+
+| FY17 | 5.3 |
+
+| FY18 | 5.6 |
+
+| FY19 | 5.2 |
+
+| FY20 | 4.1 |
+
+| FY21 | 3.9 |
+
+| FY22 | 3.6 |
+
+| FY23 | 4.4 |
+
+| FY24 | 5.1 |
+
+| FY25 | 6.9 |
+
+| FY26 | 8.2 |
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sumitomo Electric Industries, Ltd. — revenue and operating margin**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+**Figure: Sumitomo Electric Industries, Ltd. — revenue vs operating profit**
+
+*Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
+
+## 2. Latest update — H1 FY3/2027 results and the second guidance raise
+
+Q2 FY3/2027 results were published on 30 October 2026; the President's briefing slides and a data-centre growth-strategy deck followed on 12 November 2026. The company published slides only — it publishes Q&A summaries only for full-year briefings, so no Q&A record exists for this event (pack source note).
+
+## H1 FY3/2027 results
+
+H1 (April–September 2026) set first-half records at every line (company): sales ¥2,764.9bn (+16.5%), OP ¥219.6bn (+43.5%; 7.9% margin vs 6.4%), ordinary profit ¥231.2bn (+48.7%), owners' net profit ¥159.4bn (+62.7%). Disclosed OP drags within the beat: Middle East situation −¥14.0bn, R&D/depreciation −¥8.0bn, deconsolidation of Sumitomo Densetsu (now Semlinks) −¥8.6bn (briefing materials). Segments (tanshin note, incl. intersegment sales): **Infocommunications ¥201.5bn / ¥61.2bn (30.4%); Automotive ¥1,616.6bn / ¥53.8bn (3.3%, OP −17.7%)**; Environment & Energy ¥546.5bn / ¥33.2bn (6.1%, OP −3.6%); Electronics ¥233.4bn / ¥28.6bn (12.2%); Industrial Materials & Others ¥241.1bn / ¥42.7bn (17.7%, OP +230.7% — cemented-carbide tools on tungsten prices, with three price increases in calendar 2026 per press coverage of the president). Cash: operating cash flow ¥139.4bn (−44.7% YoY); inventories ¥1,219.8bn (+¥201.7bn vs March 2026).
+
+## Guidance chain (Exhibit 3)
+
+Initial (12 May 2026): sales ¥5,300,000mn, OP ¥425,000mn, owners' NI ¥320,000mn. Revision 1 (31 July 2026, Q1 tanshin): sales ¥5,400,000mn, OP ¥450,000mn, NI ¥340,000mn. Revision 2 (30 October 2026, Q2 tanshin): sales ¥5,750,000mn, OP ¥500,000mn, ordinary profit ¥515,000mn, NI ¥370,000mn; dividend raised to ¥44 post-split (interim ¥19, year-end ¥25; ¥176 pre-split equivalent). No explicit company-stated reason for the latest revision was extracted from the tanshin text checked (tracker) — the company published slides only. The arithmetic is demanding: H1 OP progress is 43.9% (calculated), implying H2 OP of ¥280.4bn (+28% vs H1); the supplementary materials' Infocommunications full-year OP forecast of ¥156.0bn implies ¥94.8bn in H2 (vs ¥61.2bn in H1). FX and segment assumptions beyond the Info OP figure are 未取得 in the sources read.
+
+**Exhibit 3: FY3/2027 guidance chain (¥mn)**
+
+| Step | Net sales | OP | Ordinary profit | Owners' NI |
+|---|---|---|---|---|
+| Initial (12 May 2026) | 5,300,000 | 425,000 | — | 320,000 |
+| Rev.1 (31 Jul 2026) | 5,400,000 | 450,000 | — | 340,000 |
+| Rev.2 (30 Oct 2026) | 5,750,000 | 500,000 | 515,000 | 370,000 |
+| FY3/26 actual | 5,110,171 | 418,173 | 431,274 | 369,508 |
+
+*Source: Company tanshin via the guidance tracker (17 Nov 2026) and sheet register S8. Dividend raised to ¥44 post-split at Rev.2.*
+
+## 3. Business description
+
+Sumitomo Electric Industries (founded 1897; headquartered in Kitahama, Osaka) is the Sumitomo group's electric-wire and materials house. President is Osamu Inoue. It reports five segments (segment profit = operating profit; register S3). The mix is unusually barbelled: a very large, low-margin automotive harness business (Sumitomo Wiring Systems) and a small, now very high-margin optical business, with power cable, electronic materials and carbide tools between them. A 4-for-1 stock split took effect on 1 July 2026.
+
+## Automotive
+
+Wiring harnesses, connectors and in-vehicle electronics, centred on Sumitomo Wiring Systems. FY3/2026 sales ¥2,935,389mn (57% of group), OP ¥179,700mn (6.1%) — rebuilt from ¥12,264mn (0.7%) in FY3/2022 through price revisions and cost work. H1 FY3/2027 reversed the trend (OP −17.7% at a 3.3% margin) on Middle East volume loss and copper costs; the copper pass-through lag is the segment's key undisclosed variable.
+
+The H1 reversal has named, quantified causes. The group's H1 operating-profit bridge carried three disclosed drags — the Middle East situation at −¥14.0bn, R&D and depreciation at −¥8.0bn, and the deconsolidation of Sumitomo Densetsu (now Semlinks) at −¥8.6bn (briefing materials, 12 November 2026) — and Automotive absorbed the volume and copper side of that bridge: segment sales rose 17.3% to ¥1,616.6bn while operating profit fell 17.7% to ¥53.8bn, taking the margin from 4.7% to 3.3%. Set against the full-year history, the FY3/2026 margin of 6.1% (¥179,700mn) was itself the peak of a rebuild from 0.7% in FY3/2022 (¥12,264mn) built on price revisions and cost work, so the H1 print tests whether that rebuild was structural or a price-revision cycle that copper has now overtaken; the contractual copper pass-through lag, the variable that would settle the question, is not disclosed.
+
+## Infocommunications
+
+Optical fibre and cable (incl. Pure Silica Core submarine fibre and mass-produced multi-core fibre), ultra-high-fibre-count cable, high-density connectors and MT ferrules, fusion splicers, and optical devices — EML chips, CW lasers for silicon photonics/CPO-NPO, tunable lasers — plus InP/GaAs substrates. FY3/2026 sales ¥315,030mn, OP ¥77,435mn (24.6%); H1 FY3/2027 OP ¥61.2bn at 30.4%. The DC strategy deck (12 November 2026) frames CPO/NPO adoption from 2027 and capacity for intra-DC optical devices and InP substrates reaching ~4.5× the 2024 level by 2028 (7× including non-DC). No DC revenue figure is disclosed.
+
+The data-centre portfolio is specified by distance in the company's 12 November 2026 growth-strategy deck. For submarine and inter-data-centre links it offers Pure Silica Core fibre and mass-produced multi-core fibre — including a claimed first multi-core submarine project order for petabit-class transmission — and ultra-high-fibre-count cable; inside the data centre, high-density optical connector products and MT ferrules, fusion splicers, and optical devices (EML chips, CW lasers for silicon photonics and CPO/NPO, and tunable lasers) on InP/GaAs substrates. The deck frames first-generation CPO/NPO adoption from 2027, the CW-laser share of intra-DC laser-chip demand rising from 47% in 2024 to 73% plus a further 8% high-power CW share by 2028 (company estimates on LightCounting data), and production capacity for intra-DC optical devices and InP substrates reaching about 4.5× the 2024 level by 2028, or 7× including non-DC applications. No data-centre revenue figure is disclosed at any point in the deck; the segment's ¥315,030mn of FY3/2026 sales remain the only hard proxy.
+
+## Environment & Energy, Electronics, Industrial Materials & Others
+
+Environment & Energy (power cable, magnet wire, energy systems): FY3/2026 sales ¥1,142,598mn, OP ¥90,615mn (7.9%) — margin rebuilt from 5.4% (FY3/2022). Electronics (flexible printed circuits, fine polymer, heat-shrink tubing): ¥350,638mn / ¥39,528mn (11.3%). Industrial Materials & Others (cemented-carbide tools — Sumitomo Electric Hardmetal — sintered parts, A.L.M.T.): ¥366,516mn / ¥31,399mn (8.6%), with H1 FY3/2027 OP +230.7% on tungsten price pass-through (three price rises in 2026, president via press).
+
+Industrial Materials & Others was the group's third-largest profit pool in H1 FY3/2027 and its fastest-growing: operating profit rose 230.7% year on year to ¥42.7bn on sales of ¥241.1bn, a 17.7% margin, against a full-year FY3/2026 margin of 8.6% (¥31,399mn). The report's H1 account attributes the step-up to tungsten price pass-through — three price rises during 2026, per the president via press reports — across the cemented-carbide tool business (Sumitomo Electric Hardmetal) and sintered parts. How much of the H1 pool is semiconductor-related demand and how much is price pass-through that reverses with the tungsten price is not decomposed in the company's materials, and the segment's history argues for care: its operating profit fell from ¥28,193mn in FY3/2019 to ¥6,660mn in FY3/2021 before recovering, the widest swing of any segment in the history block.
+
+## 4. Market and value chain
+
+Sumitomo Electric's value chain runs from materials (glass preforms, InP/GaAs substrates, carbide powders) through components (fibre, connectors, devices, harnesses) to systems (submarine cable projects). Its competitive sets differ by segment: optical fibre/cable against Corning, Furukawa/Lightera, YOFC and Prysmian in a documented fibre shortage; optical devices against Lumentum, Coherent and domestic peers into the CPO/NPO transition the company dates from 2027; harnesses against Yazaki and Furukawa Electric in a structurally low-margin, copper-linked business; submarine cable against Prysmian, Nexans and NKT. ==The strategic question the print poses is capital allocation across the barbell: the DC deck's ~4.5× device-capacity expansion and the FY2028 Digital & AI target (¥970bn sales) imply capital following optics, while 57% of sales remain in harnesses at a 3–6% margin==.
+
+**Figure: Sumitomo Electric in the wire & cable value chain**
+
+**Raw materials**
+
+- Copper cathode, aluminium ingot
+- Copper scrap
+- JX Metals, Mitsubishi Materials, Freeport, Codelco
+
+**Components & materials**
+
+- Copper wire rod
+- Insulation & sheath materials
+- Connectors & terminals
+- JST, Yazaki Parts, TE Connectivity
+
+**Sumitomo Electric Industries, Ltd. (5802)**
+
+- Automotive — wiring harnesses & connectors via Sumitomo Wiring Systems (57% of FY3/26 sales)
+- Environment & Energy — power cable, magnet wire & energy systems
+- Infocommunications — optical fibre & cable, high-density connectors, optical devices (EML/CW lasers, InP substrates)
+- Electronics & Industrial Materials — FPC, fine polymer, cemented-carbide tools
+
+**Distribution & construction**
+
+- Cable distributors (inventory / cutting)
+- Electrical contractors
+- Senshu Electric, Inaba Denki, WESCO, Rexel
+
+**End customers**
+
+- Construction & buildings
+- Power utilities (grid)
+- Automotive, industrial
+- Obayashi, TEPCO Power Grid, Toyota, Fanuc
+
+**Service & recycling**
+
+- Installed cable renewal
+- Copper scrap recovery & refining
+- JX Metals, Mitsubishi Materials, Nexans
+
+*Source: FIELDNOTES sector report §4 (wire & cable value chain); company segments from §3 of this report.*
+
+## 5. Segments and regions
+
+Segment profit is operating profit; the disclosed adjustment (mainly unrealised-profit eliminations) is small (−¥504mn in FY3/2026). IMPORTANT — sheet correction: the PL/segment sheet's main-block segment rows for FY3/2022–23 were found positionally mislabelled in the programme audit and corrected in place on 17 November 2026 (register S15; 48 cells); this report uses the corrected copy (see Basis). Regional sales and profit are NOT disclosed in the tanshin in any main-window year (register S4) — the Regions block of the sheet is intentionally empty; regional disclosure exists only in the history block (FY3/2017–19) and in securities-report/briefing materials outside the sheet.
+
+## Segments (Exhibit 2)
+
+FY3/2026: Automotive ¥2,935,389mn / ¥179,700mn (6.1%); Environment & Energy ¥1,142,598mn / ¥90,615mn (7.9%); Infocommunications ¥315,030mn / ¥77,435mn (24.6%); Electronics ¥350,638mn / ¥39,528mn (11.3%); Industrial Materials & Others ¥366,516mn / ¥31,399mn (8.6%). The five-year rotation is the story: **in FY3/2022 Automotive earned ¥12,264mn (0.7%) and Infocommunications ¥23,398mn (9.9%); by FY3/2026 Automotive had recovered to ¥179,700mn while Infocommunications' margin had reached 24.6%** — and H1 FY3/2027 then pushed Info to 30.4% while Automotive fell back to 3.3%. On the history block (same five-segment basis), FY3/2017 was Automotive ¥1,511,739mn / ¥98,616mn (6.5%), E&E ¥607,494mn / ¥20,807mn, Info ¥196,173mn / ¥21,509mn, Electronics ¥235,981mn / −¥10,898mn (loss), IM&O ¥263,096mn / ¥20,491mn.
+
+**Exhibit 2: Segments (¥mn) — corrected basis (register S15)**
+
+| Segment | FY22 sales | FY22 profit | FY23 sales | FY23 profit | FY24 sales | FY24 profit | FY25 sales | FY25 profit | FY26 sales | FY26 profit | FY26 margin % |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Automotive | 1,752,341 | 12,264 | 2,184,541 | 55,745 | 2,593,472 | 144,674 | 2,732,581 | 172,391 | 2,935,389 | 179,700 | 6.1 |
+| Environment & Energy | 809,624 | 44,024 | 900,755 | 37,920 | 949,182 | 42,890 | 1,048,068 | 78,718 | 1,142,598 | 90,615 | 7.9 |
+| Infocommunications | 235,434 | 23,398 | 244,962 | 21,926 | 202,660 | −11,552 | 218,401 | 19,926 | 315,030 | 77,435 | 24.6 |
+| Electronics | 258,936 | 19,825 | 327,846 | 38,349 | 308,383 | 29,297 | 327,147 | 29,311 | 350,638 | 39,528 | 11.3 |
+| Industrial Materials & Others | 311,528 | 23,024 | 347,457 | 23,978 | 349,117 | 21,067 | 353,592 | 20,592 | 366,516 | 31,399 | 8.6 |
+| Adjustments | 0 | −340 | 0 | −475 | 0 | 242 | 0 | −275 | 0 | −504 | — |
+| Consolidated OP | 3,367,863 | 122,195 | 4,005,561 | 177,443 | 4,402,814 | 226,618 | 4,679,789 | 320,663 | 5,110,171 | 418,173 | 8.2 |
+
+*Source: Company tanshin via PL/segment sheet, corrected copy (register S3, S15). Segment profit = operating profit. FY2022–23 cells corrected 17 Nov 2026 after a positional mislabelling in the original build.*
+
+**Exhibit 2A. Segments — FY3/17–FY3/21 (five-segment basis, as reported)**
+
+| Segment | FY17 sales | FY17 profit | FY18 sales | FY18 profit | FY19 sales | FY19 profit | FY20 sales | FY20 profit | FY21 sales | FY21 profit |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Automotive | 1,511,739 | 98,616 | 1,631,039 | 96,805 | 1,706,459 | 84,669 | 1,682,219 | 68,213 | 1,600,778 | 48,198 |
+| Environment & Energy | 607,494 | 20,807 | 701,745 | 24,120 | 740,722 | 30,062 | 694,237 | 27,114 | 616,677 | 25,024 |
+| Infocommunications | 196,173 | 21,509 | 216,802 | 18,603 | 205,986 | 16,398 | 213,767 | 17,835 | 219,760 | 24,343 |
+| Electronics | 235,981 | −10,898 | 229,890 | 5,410 | 209,583 | 7,016 | 228,447 | 536 | 227,954 | 10,047 |
+| Industrial Materials & Others | 263,096 | 20,491 | 302,771 | 28,171 | 315,235 | 28,193 | 288,357 | 13,425 | 253,411 | 6,660 |
+
+*Source: PL/segment workbook — History block, the same five-segment basis as the main window, J-GAAP as originally reported; shown separately, not spliced into Exhibit 2.*
+
+**Exhibit 2B. Regional sales — FY3/17–FY3/19 (bases as disclosed)**
+
+| Region | FY17 sales | FY17 profit (entity only) | FY18 sales | FY18 profit (entity only) | FY19 sales | FY19 profit (entity only) |
+|---|---|---|---|---|---|---|
+| Japan (entity location) | 1,266,381 | 49,932 | 1,361,567 | 71,709 | 1,429,905 | 81,981 |
+| Americas (entity location) | 488,120 | 24,377 | 512,252 | 20,063 | 538,216 | 15,098 |
+| Asia (entity location) | 753,415 | 71,376 | 881,075 | 80,353 | 883,786 | 79,179 |
+| Europe & other (entity location) | 306,567 | 5,231 | 327,353 | 1,970 | 326,078 | −9,729 |
+| China (customer location) | 479,360 | — | 521,356 | — | 516,347 | — |
+| Other Asia (customer location) | 350,949 | — | 438,859 | — | 442,689 | — |
+| USA (customer location) | 359,854 | — | 385,652 | — | 409,579 | — |
+| Other Americas (customer location) | 134,825 | — | 132,827 | — | 139,509 | — |
+| Europe & other (customer location) | 328,743 | — | 360,129 | — | 350,140 | — |
+| Japan (customer location, derived) | 1,160,752 | — | 1,243,424 | — | 1,319,721 | — |
+
+*Source: PL/segment workbook — Regions are NOT in the tanshin for main-window years and are not presented for FY20–21 either. FY17–19 carry two distinct bases, shown as two sub-blocks and never mixed: entity location (sales and operating profit) and customer location (overseas sales by destination, with Japan derived as consolidated sales less the overseas total, as labelled in the sheet).*
+
+## Regions
+
+Not disclosed in the tanshin for FY3/2022–26 (register S4) — no regional sales or profit figures are presented for the main window, and none are estimated here. For the history years the tanshin did disclose regions (register S12): entity-location FY3/2019 sales were Japan ¥1,429,905mn / Asia ¥883,786mn / Americas ¥538,216mn / Europe & other ¥326,078mn, with entity-location OP of Japan ¥81,981mn, Asia ¥79,179mn, Americas ¥15,098mn and Europe & other −¥9,729mn; customer-location FY3/2019 sales included China ¥516,347mn and the USA ¥409,579mn. These bases are historical only and are not spliced into the main window.
+
+## 6. Financial statements summary
+
+FY3/2026 (J-GAAP): sales ¥5,110,171mn, gross profit ¥1,034,031mn (20.2% — the best of the window), SG&A ¥615,858mn (12.1%), OP ¥418,173mn. Net non-operating income of ¥13,101mn gave ordinary profit of ¥431,274mn; extraordinary income ¥98,149mn (affiliate-share sale gain ¥79,154mn; fixed-asset gains ¥10,360mn; securities gains ¥8,635mn) less extraordinary losses ¥24,264mn gave PBT of ¥505,159mn; a low 20.6% effective tax rate and NCI of ¥31,638mn left owners' net income of ¥369,508mn, EPS ¥473.78 pre-split on 779.9mn basic shares (no dilutive securities; register S6). Operating cash flow ¥425,192mn; capex ¥222,228mn; D&A ¥209,842mn. Balance sheet at FY3/2026-end: cash ¥235,921mn; interest-bearing debt ¥557,266mn (register S5 definition, current portion of bonds excluded per the programme's BS-fix note) — net debt ¥321,345mn (calculated), down from ¥612,248mn at FY3/2023-end (calculated); receivables ¥932,945mn; inventories ¥1,018,148mn (2.91 months of cost of sales, PL calculation); payables ¥487,654mn. Company-reported pre-tax ROIC was 14.7% (FY3/2026 MD&A, vs 9.3% in FY3/2025), helped by inventory and cross-shareholding compression. R&D and employees are not presented in the tanshin (register S7).
+
+## 7. Strategy and mid-term plan
+
+The mid-term plan (company plan, through the year ending March 2029) targets sales of ¥6,000bn, OP of ¥600bn (a 10.0% margin), pre-tax ROIC of at least 15% and ROE of at least 13%. The growth engine is explicit: the Infocommunications field, renamed 'Digital & AI' in the May 2026 plan, is targeted at ¥970bn of sales and ¥240bn of OP in FY2028 (DC strategy deck, 12 November 2026) — **roughly triple the FY3/2026 Infocommunications sales base, on a renamed-field basis whose exact perimeter versus the current segment is a flagged open question (pack Q10)**. Supporting moves: optical-device and InP-substrate capacity to ~4.5× the 2024 level by 2028; the Sumitomo Densetsu deconsolidation (renamed Semlinks) in H1 FY3/2027; continued compression of cross-shareholdings and inventories (the FY3/2026 affiliate-share sale gain is the flip side of that programme). Capital returns: FY3/2027 dividend guide ¥44 post-split (¥176 pre-split equivalent), raised with Rev.2.
+
+## 8. Other information
+
+Corporate actions: 4-for-1 stock split effective 1 July 2026 (register S6); Sumitomo Densetsu deconsolidated in H1 FY3/2027 (renamed Semlinks; −¥8.6bn H1 OP drag disclosed). The shares fell 6.98% on 16 November 2026 to ¥1,413 (post-split) despite the H1 beat and raise — secondary data put the price ~62% below its June 2026 split-adjusted high; the desk does not verify intraday narratives, but the de-rating frames the market's scepticism about H2 delivery and optical-cycle duration. Major shareholders are 未取得 in the sources used. Next results: Q3 FY3/2027, expected late January 2027.
+
+Cash conversion is the counterweight to the profit story. In H1 FY3/2027 operating cash flow fell 44.7% year on year to ¥139.4bn despite record operating profit of ¥219.6bn, because inventories rose ¥201.7bn in the half to ¥1,219.8bn at end-September 2026. The full-year history shows why the level matters: inventories have risen every year since FY3/2017 (¥449,070mn) and reached ¥1,018,148mn at FY3/2026-end, while interest-bearing debt has fallen from its FY3/2023 peak of ¥891,680mn to ¥557,266mn — the balance sheet has been funding growth through working capital rather than debt. The mid-term plan's pre-tax ROIC target of at least 15% (company-reported pre-tax ROIC was 14.7% in FY3/2026) is the metric that this inventory trajectory has to reconcile with.
+
+## 9. Basis of preparation
+
+Sources: the PL/segment sheet for Sumitomo Electric (5802) in its CORRECTED form — the programme audit found the original main build had assigned FY3/2022–23 segment-note columns positionally in the wrong order (the tanshin's printed column order changed with the FY2024 documents); 48 cells were corrected in place on 17 November 2026 and re-audited to zero differences (register S15; rollout log fix-sei-segments). This report uses the corrected copy (MD5 96e7291f…) for all segment figures; headline IS/BS/CF figures are identical across copies. Main window FY3/2022–FY3/2026 plus the FY3/2017–FY3/2021 history block; register S1–S15. Also used: the guidance tracker (56-company edition, 17 November 2026) and the interview pack for 5802 (Q2 FY3/2027 tanshin and segment note, President's briefing slides and DC strategy deck, 12 November 2026 — slides only, no Q&A). Regional disclosure: none in the tanshin for the main window (register S4); history-block regions (FY3/2017–19, entity- and customer-location) are shown on their own basis only. The sheet's template 'Estimate' columns were not used. Calculated figures are labelled as such. Gaps （未取得 / not disclosed): regional sales and profit for FY3/2022–26; order intake and backlog (not disclosed as a group total); units, capacity (in fibre-km) and utilisation; R&D and employees in the tanshin; data-centre revenue in ¥ (not disclosed in any material read); the price/volume split of the optical profit; the copper pass-through lag; segment guidance beyond the Infocommunications OP forecast; the perimeter of the renamed 'Digital & AI' field vs the current segment; major shareholders. The share price is the 16 November 2026 close, post-split (StockAnalysis price history; StockInvest); market capitalisation is StockInvest's ¥4.41tn (calculated on 3,119.6mn post-split shares: ¥4.408tn — agrees). Rating and price target are 'Under Review' placeholders — no rating or target has been set by the analyst for this coverage, and nothing in this report is a forecast or a recommendation.
+
+---
+
+Rating (as stated in the report): Under Review
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
