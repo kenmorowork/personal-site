@@ -89,7 +89,7 @@
         {
           "id": "f1",
           "number": "Table 1",
-          "titleHtml": "図表1. 主要指標と業績の推移 ― 三菱倉庫（百万円、1株当たりと%を除く）",
+          "titleHtml": "主要指標と業績の推移 ― 三菱倉庫（百万円、1株当たりと%を除く）",
           "sourceHtml": "Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators; FY3/2025 comparatives as restated there. FY3/2020–FY3/2024 headline PL rounded to the nearest ¥10mn from a secondary compilation of securities-report data (Zaimiru); per-share data FY3/2017–FY3/2021 are secondary cross-checks on the post-split basis. FY3/2027E is company guidance revised on 30 Oct 2026 — not a J-Core forecast. DPS FY3/2017–FY3/2020 on the post-split basis were not obtained and are shown as —.",
           "kind": "table",
           "columns": [
@@ -350,11 +350,11 @@
         {
           "id": "c1",
           "number": "Figure 1",
-          "titleHtml": "図表2. 売上高と営業利益の推移 ― 2017年3月期から2027年3月期予想まで（百万円）",
+          "titleHtml": "売上高と営業利益の推移 ― 2017年3月期から2027年3月期予想まで（百万円）",
           "sourceHtml": "Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators — the same series as the financial-history table in this report. FY3/2027E is company guidance as revised on 30 Oct 2026.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c1.svg",
-          "alt": "図表2. 売上高と営業利益の推移 ― 2017年3月期から2027年3月期予想まで（百万円）"
+          "alt": "売上高と営業利益の推移 ― 2017年3月期から2027年3月期予想まで（百万円）"
         }
       ]
     },
@@ -395,7 +395,7 @@
         {
           "id": "f5",
           "number": "Table 2",
-          "titleHtml": "図表8. 競合との比較 ― 2026年3月期の報告数値と2026年11月24日の株価",
+          "titleHtml": "競合との比較 ― 2026年3月期の報告数値と2026年11月24日の株価",
           "sourceHtml": "Company FY3/2026 earnings releases, compiled in the J-Core data files for 9301, 9302 and 9303 (reported figures only). Market capitalisations: Nikkei company data retrieved 24 Nov 2026, issued-share basis, as compiled in the J-Core warehousing universe file. Prices: 9301 ¥1,240.5, 9302 ¥3,199, 9303 ¥3,835 (secondary market data, 24 Nov 2026 close). P/B and P/E are J-Core calculations on reported BPS/EPS. Kamigumi (9364) financial figures were outside this report's data set and are shown as —, not estimated.",
           "kind": "table",
           "columns": [
@@ -471,7 +471,7 @@
         {
           "id": "f2",
           "number": "Table 3",
-          "titleHtml": "図表3. セグメントの売上高と営業利益（百万円、外部売上高ベース）",
+          "titleHtml": "セグメントの売上高と営業利益（百万円、外部売上高ベース）",
           "sourceHtml": "FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note. FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation of securities reports). Segment figures before FY3/2022 were not obtained on a consistent basis and are not shown. Business profit by segment (new basis): FY3/2025 logistics ¥8,197mn / real estate ¥15,218mn; FY3/2026 logistics ¥15,116mn / real estate ¥11,917mn; consolidated business profit ¥16,166mn and ¥18,575mn respectively (reported).",
           "kind": "table",
           "columns": [
@@ -536,7 +536,7 @@
         {
           "id": "f3",
           "number": "Table 4",
-          "titleHtml": "図表4. 内訳別の収入（百万円、内部取引を含む）",
+          "titleHtml": "内訳別の収入（百万円、内部取引を含む）",
           "sourceHtml": "As reported in the FY3/2026 earnings release. Warehouse rental fees (¥6,534mn in FY3/2026) were reclassified from Logistics — Other into Warehousing in FY3/2026 on increased materiality, as noted in the release.",
           "kind": "table",
           "columns": [
@@ -617,11 +617,11 @@
         {
           "id": "c2",
           "number": "Figure 3",
-          "titleHtml": "図表5. セグメント別の売上高と2026年3月期のセグメント営業利益（百万円）",
+          "titleHtml": "セグメント別の売上高と2026年3月期のセグメント営業利益（百万円）",
           "sourceHtml": "FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note; FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation) — the same basis as the segment table in this report.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c2.svg",
-          "alt": "図表5. セグメント別の売上高と2026年3月期のセグメント営業利益（百万円）"
+          "alt": "セグメント別の売上高と2026年3月期のセグメント営業利益（百万円）"
         }
       ]
     },
@@ -634,7 +634,7 @@
         {
           "id": "f4",
           "number": "Table 5",
-          "titleHtml": "図表6. 賃貸等不動産 ― 簿価と時価（百万円）",
+          "titleHtml": "賃貸等不動産 ― 簿価と時価（百万円）",
           "sourceHtml": "As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain, gain per share and gross NAV per share are J-Core calculations (unrealised gain per share on 344,040,271 shares ex-treasury at FY3/2026; gross NAV per share = BPS + unrealised gain per share, before tax on realisation). Rental profit is the profit on rental real estate included in operating profit, as reported.",
           "kind": "table",
           "columns": [
@@ -678,11 +678,11 @@
         {
           "id": "c3",
           "number": "Figure 4",
-          "titleHtml": "図表7. 賃貸等不動産 ― 2026年3月期の簿価と時価（百万円）",
+          "titleHtml": "賃貸等不動産 ― 2026年3月期の簿価と時価（百万円）",
           "sourceHtml": "As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain and per-share figures are J-Core calculations, as in the rental real-estate table in this report.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c3.svg",
-          "alt": "図表7. 賃貸等不動産 ― 2026年3月期の簿価と時価（百万円）"
+          "alt": "賃貸等不動産 ― 2026年3月期の簿価と時価（百万円）"
         }
       ]
     },
@@ -695,7 +695,7 @@
         {
           "id": "f6",
           "number": "Table 6",
-          "titleHtml": "図表9. J-Coreの予想と会社の予想 ― 三菱倉庫（百万円、1株当たりを除く）",
+          "titleHtml": "J-Coreの予想と会社の予想 ― 三菱倉庫（百万円、1株当たりを除く）",
           "sourceHtml": "FY3/2026 actuals as reported. FY3/2027E company guidance as revised on 30 Oct 2026. FY3/2027E and FY3/2028E J-Core columns are J-Core estimates: FY3/2027E adopts company guidance in full; FY3/2028E assumes a full year of Hankyu Hanshin Express consolidation, no repeat of the FY3/2027 M&amp;A/PMI costs (about ¥2,000mn in guidance), condominium sales normalisation, and no gains on sales of investment securities (against about ¥14,000mn assumed in company FY3/2027 guidance, per a secondary summary of company materials). See Section 7 for the full bridge.",
           "kind": "table",
           "columns": [
@@ -768,7 +768,7 @@
         {
           "id": "f7",
           "number": "Table 7",
-          "titleHtml": "図表10. バリュエーションのシナリオ ― 12か月の期間（J-Coreの予想）",
+          "titleHtml": "バリュエーションのシナリオ ― 12か月の期間（J-Coreの予想）",
           "sourceHtml": "J-Core scenario analysis. Gross NAV per share of about ¥1,990 = FY3/2028E BPS of ¥1,127 (J-Core estimate: FY3/2026 BPS ¥1,103.18 + FY3/2027E EPS ¥64 − DPS ¥44 + FY3/2028E EPS ¥50 − DPS ¥46) plus the FY3/2026 rental-real-estate unrealised gain of about ¥867 per share held flat, before tax on realisation — J-Core calculations. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.",
           "kind": "table",
           "columns": [
@@ -813,20 +813,20 @@
         {
           "id": "c4",
           "number": "Figure 5",
-          "titleHtml": "図表11. 株価の推移 ― 2025年11月25日から2026年11月24日までの日次終値（円）",
+          "titleHtml": "株価の推移 ― 2025年11月25日から2026年11月24日までの日次終値（円）",
           "sourceHtml": "Daily closing prices from Yahoo Finance (9301.T), 25 Nov 2025 to 24 Nov 2026, as held in the J-Core price file for this company; the report’s priceHistory field was empty, so the site price file was used.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c4.svg",
-          "alt": "図表11. 株価の推移 ― 2025年11月25日から2026年11月24日までの日次終値（円）"
+          "alt": "株価の推移 ― 2025年11月25日から2026年11月24日までの日次終値（円）"
         },
         {
           "id": "c5",
           "number": "Figure 6",
-          "titleHtml": "図表12. バリュエーションのシナリオ幅 ― 弱気・基本・強気と現在株価（1株当たり、円）",
+          "titleHtml": "バリュエーションのシナリオ幅 ― 弱気・基本・強気と現在株価（1株当たり、円）",
           "sourceHtml": "J-Core scenario analysis, as in the valuation-scenario table in this report. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c5.svg",
-          "alt": "図表12. バリュエーションのシナリオ幅 ― 弱気・基本・強気と現在株価（1株当たり、円）"
+          "alt": "バリュエーションのシナリオ幅 ― 弱気・基本・強気と現在株価（1株当たり、円）"
         }
       ]
     },

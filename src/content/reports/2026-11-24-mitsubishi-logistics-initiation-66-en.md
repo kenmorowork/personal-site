@@ -41,7 +41,7 @@ The decade divides into three phases. Revenue grew from ¥208,718mn in FY3/2017 
 
 Reported net income does not belong in the same series. Net income was ¥39,160mn in FY3/2021 on asset-transfer gains, ¥31,864mn in FY3/2025 including a ¥29,999mn gain on sales of investment securities, and ¥54,773mn in FY3/2026 including a ¥67,281mn securities-sale gain, partly offset by a ¥5,414mn impairment on Cavalier Logistics goodwill in the United States. ROE of 14.5% in FY3/2026 is therefore not a run-rate figure, and neither is the reported EPS of ¥155.84. Section 1 continues below with the normalisation we apply throughout this report. The same history is also shown in chart form in Figure 2.
 
-**Figure 1. Figure 1. Key indicators and financial history — Mitsubishi Logistics (¥mn, except per-share and % data)**
+**Figure 1. Key indicators and financial history — Mitsubishi Logistics (¥mn, except per-share and % data)**
 
 | Item | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -65,7 +65,7 @@ Reported net income does not belong in the same series. Net income was ¥39,160m
 
 *Source: Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators; FY3/2025 comparatives as restated there. FY3/2020–FY3/2024 headline PL rounded to the nearest ¥10mn from a secondary compilation of securities-report data (Zaimiru); per-share data FY3/2017–FY3/2021 are secondary cross-checks on the post-split basis. FY3/2027E is company guidance revised on 30 Oct 2026 — not a J-Core forecast. DPS FY3/2017–FY3/2020 on the post-split basis were not obtained and are shown as —.*
 
-**Figure 2. Figure 2. Revenue and operating profit, FY3/2017–FY3/2027E (¥mn)**
+**Figure 2. Revenue and operating profit, FY3/2017–FY3/2027E (¥mn)**
 
 *Source: Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators — the same series as the financial-history table in this report. FY3/2027E is company guidance as revised on 30 Oct 2026.*
 
@@ -103,7 +103,7 @@ The value chain runs from shippers through warehousing and distribution processi
 
 Against peers, Mitsubishi Logistics is the revenue leader of the traditional warehousing majors but not the sector's largest company by market value: Kamigumi (9364), a port operator, is larger. Mitsui-Soko Holdings (9302) earned a higher FY3/2026 operating margin (7.4%) on a 3PL- and air-freight-led model and trades at 1.73x book, while Sumitomo Warehouse (9303) trades at 0.93x book with a large securities portfolio. Mitsubishi Logistics sits between them at 1.12x book — despite carrying the largest rental-real-estate unrealised gain of the three relative to equity (Section 6). Figure 8 compares the reported figures only; Kamigumi's financial figures were outside the data set for this report and are shown as not available rather than estimated.
 
-**Figure 3. Figure 8. Peer comparison — reported FY3/2026 figures and 24 Nov 2026 prices**
+**Figure 3. Peer comparison — reported FY3/2026 figures and 24 Nov 2026 prices**
 
 | Company | Market cap (¥bn) | Price (¥) | Revenue (¥mn) | Operating profit (¥mn) | OP margin (%) | P/B (x) | P/E (x) |
 |---|---|---|---|---|---|---|---|
@@ -124,7 +124,7 @@ Figure 3 shows the two-segment history on the operating-profit basis. Segment di
 
 By customer location, Japan was ¥218,986mn of FY3/2026 revenue, the United States ¥24,825mn and other regions ¥29,633mn — an overseas share of 19.9%, down from 21.4% in FY3/2025 (J-Core calculation). The mid-term plan targets overseas revenue of at least twice the FY3/2025 level by FY3/2031; the Hankyu Hanshin Express acquisition, an Asia-centred forwarder, is the main identified step toward that target, and its consolidation is the largest single swing factor in our FY3/2028 estimates. Figure 5 charts the segment revenue mix and the latest year's segment profit.
 
-**Figure 5. Figure 3. Segment revenue and operating profit (¥mn) — external revenue basis**
+**Figure 5. Segment revenue and operating profit (¥mn) — external revenue basis**
 
 | Item | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@ By customer location, Japan was ¥218,986mn of FY3/2026 revenue, the United Stat
 
 *Source: FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note. FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation of securities reports). Segment figures before FY3/2022 were not obtained on a consistent basis and are not shown. Business profit by segment (new basis): FY3/2025 logistics ¥8,197mn / real estate ¥15,218mn; FY3/2026 logistics ¥15,116mn / real estate ¥11,917mn; consolidated business profit ¥16,166mn and ¥18,575mn respectively (reported).*
 
-**Figure 6. Figure 4. Revenue by sub-segment (¥mn, incl. internal transfers)**
+**Figure 6. Revenue by sub-segment (¥mn, incl. internal transfers)**
 
 | Sub-segment | FY3/25 | FY3/26 | YoY (%) |
 |---|---|---|---|
@@ -155,7 +155,7 @@ By customer location, Japan was ¥218,986mn of FY3/2026 revenue, the United Stat
 
 *Source: As reported in the FY3/2026 earnings release. Warehouse rental fees (¥6,534mn in FY3/2026) were reclassified from Logistics — Other into Warehousing in FY3/2026 on increased materiality, as noted in the release.*
 
-**Figure 7. Figure 5. Segment revenue (stacked) and FY3/2026 segment operating profit (¥mn)**
+**Figure 7. Segment revenue (stacked) and FY3/2026 segment operating profit (¥mn)**
 
 *Source: FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note; FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation) — the same basis as the segment table in this report.*
 
@@ -165,7 +165,7 @@ The balance sheet is conservative: total assets ¥639,786mn, equity ratio 59.3%,
 
 The asset-value case rests on one disclosed note. Rental real estate was carried at ¥136,161mn at March 2026 against a fair value of ¥434,520mn, based mainly on external appraisals. The unrealised gain of ¥298,359mn (J-Core calculation) equals 78.6% of equity of ¥379,539mn, or about ¥867 per share on the 344,040,271 shares ex-treasury (J-Core calculations). Adding the unrealised gain to BPS of ¥1,103.18 gives a gross net asset value of about ¥1,970 per share before tax on realisation, against a share price of ¥1,240.5 — a 37% discount. The company itself stated on 29 June 2026 that its P/B including rental-property unrealised gains is still below 1.0x, at about 0.8x. The mid-term plan's asset-recycling business and real-estate fund (AUM targets ¥30,000mn by FY3/2028 and ¥80,000mn by FY3/2031) are the mechanism management has chosen to surface this value gradually rather than hold it inert. Figure 7 charts the gap between book value and fair value.
 
-**Figure 8. Figure 6. Rental real estate — book value vs fair value (¥mn)**
+**Figure 8. Rental real estate — book value vs fair value (¥mn)**
 
 | Item | FY3/25 | FY3/26 |
 |---|---|---|
@@ -178,7 +178,7 @@ The asset-value case rests on one disclosed note. Rental real estate was carried
 
 *Source: As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain, gain per share and gross NAV per share are J-Core calculations (unrealised gain per share on 344,040,271 shares ex-treasury at FY3/2026; gross NAV per share = BPS + unrealised gain per share, before tax on realisation). Rental profit is the profit on rental real estate included in operating profit, as reported.*
 
-**Figure 9. Figure 7. Rental real estate — book value vs fair value at FY3/2026 (¥mn)**
+**Figure 9. Rental real estate — book value vs fair value at FY3/2026 (¥mn)**
 
 *Source: As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain and per-share figures are J-Core calculations, as in the rental real-estate table in this report.*
 
@@ -188,7 +188,7 @@ Figure 9 sets out our estimates. For FY3/2027 we adopt the company's revised gui
 
 For FY3/2028 our estimates are revenue ¥312,000mn (+7.6%), operating profit ¥20,000mn, net income ¥16,800mn, EPS ¥50 and DPS ¥46 — all J-Core estimates. The bridge from FY3/2027 guidance is explicit. Revenue: a full year of Hankyu Hanshin Express consolidation and underlying logistics growth of about 4% on price revisions and volumes, partly offset by condominium sales normalising after FY3/2026's low base. Operating profit: the ¥15,500mn guidance base, plus about ¥2,000mn as the one-off M&A and PMI costs in FY3/2027 guidance do not repeat, plus about ¥2,500mn from the full-year acquisition contribution and logistics price and volume growth. Net income falls despite higher operating profit because our FY3/2028 estimate assumes no gains on sales of investment securities, against about ¥14,000mn assumed in the company's FY3/2027 forecast; on a like-for-like operating basis, underlying net income rises. EPS uses the share count implied by the company's guidance EPS. These estimates sit far below the mid-term plan's FY3/2031 business-profit target of about ¥63,000mn: the plan requires further M&A, asset-recycling profits and overseas growth that we do not underwrite until they are announced.
 
-**Figure 10. Figure 9. J-Core estimates vs company guidance — Mitsubishi Logistics (¥mn, except per-share data)**
+**Figure 10. J-Core estimates vs company guidance — Mitsubishi Logistics (¥mn, except per-share data)**
 
 | Item | FY3/26A | FY3/27E (co. guidance) | FY3/27E (J-Core) | FY3/28E (J-Core) |
 |---|---|---|---|---|
@@ -214,7 +214,7 @@ Bear case — target ¥995, −19.8%. A 50% discount to gross NAV (0.88x FY3/202
 
 The scenario range is wide by construction: −19.8% to +36.2%, a width of 56.0 percentage points. That width is the honest summary of this initiation — the gap between the appraised asset value and the price is large, and whether it closes depends on execution events (the acquisition close, the fund launch, share-sale execution) rather than on the warehousing cycle. Figure 11 charts the past year's daily closes; the three scenario prices are compared with the current price in Figure 12. Figure 12 summarises the scenario range.
 
-**Figure 11. Figure 10. Valuation scenarios — 12-month horizon (J-Core estimates)**
+**Figure 11. Valuation scenarios — 12-month horizon (J-Core estimates)**
 
 | Item | Bear | Base | Bull |
 |---|---|---|---|
@@ -226,11 +226,11 @@ The scenario range is wide by construction: −19.8% to +36.2%, a width of 56.0 
 
 *Source: J-Core scenario analysis. Gross NAV per share of about ¥1,990 = FY3/2028E BPS of ¥1,127 (J-Core estimate: FY3/2026 BPS ¥1,103.18 + FY3/2027E EPS ¥64 − DPS ¥44 + FY3/2028E EPS ¥50 − DPS ¥46) plus the FY3/2026 rental-real-estate unrealised gain of about ¥867 per share held flat, before tax on realisation — J-Core calculations. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
 
-**Figure 12. Figure 11. Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)**
+**Figure 12. Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)**
 
 *Source: Daily closing prices from Yahoo Finance (9301.T), 25 Nov 2025 to 24 Nov 2026, as held in the J-Core price file for this company; the report’s priceHistory field was empty, so the site price file was used.*
 
-**Figure 13. Figure 12. Valuation scenario range — bear, base and bull vs the current price (¥ per share)**
+**Figure 13. Valuation scenario range — bear, base and bull vs the current price (¥ per share)**
 
 *Source: J-Core scenario analysis, as in the valuation-scenario table in this report. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
 

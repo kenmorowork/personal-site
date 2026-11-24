@@ -89,7 +89,7 @@
         {
           "id": "f1",
           "number": "Table 1",
-          "titleHtml": "Figure 1. Key indicators and financial history — Mitsubishi Logistics (¥mn, except per-share and % data)",
+          "titleHtml": "Key indicators and financial history — Mitsubishi Logistics (¥mn, except per-share and % data)",
           "sourceHtml": "Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators; FY3/2025 comparatives as restated there. FY3/2020–FY3/2024 headline PL rounded to the nearest ¥10mn from a secondary compilation of securities-report data (Zaimiru); per-share data FY3/2017–FY3/2021 are secondary cross-checks on the post-split basis. FY3/2027E is company guidance revised on 30 Oct 2026 — not a J-Core forecast. DPS FY3/2017–FY3/2020 on the post-split basis were not obtained and are shown as —.",
           "kind": "table",
           "columns": [
@@ -350,11 +350,11 @@
         {
           "id": "c1",
           "number": "Figure 1",
-          "titleHtml": "Figure 2. Revenue and operating profit, FY3/2017–FY3/2027E (¥mn)",
+          "titleHtml": "Revenue and operating profit, FY3/2017–FY3/2027E (¥mn)",
           "sourceHtml": "Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators — the same series as the financial-history table in this report. FY3/2027E is company guidance as revised on 30 Oct 2026.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c1.svg",
-          "alt": "Figure 2. Revenue and operating profit, FY3/2017–FY3/2027E (¥mn)"
+          "alt": "Revenue and operating profit, FY3/2017–FY3/2027E (¥mn)"
         }
       ]
     },
@@ -395,7 +395,7 @@
         {
           "id": "f5",
           "number": "Table 2",
-          "titleHtml": "Figure 8. Peer comparison — reported FY3/2026 figures and 24 Nov 2026 prices",
+          "titleHtml": "Peer comparison — reported FY3/2026 figures and 24 Nov 2026 prices",
           "sourceHtml": "Company FY3/2026 earnings releases, compiled in the J-Core data files for 9301, 9302 and 9303 (reported figures only). Market capitalisations: Nikkei company data retrieved 24 Nov 2026, issued-share basis, as compiled in the J-Core warehousing universe file. Prices: 9301 ¥1,240.5, 9302 ¥3,199, 9303 ¥3,835 (secondary market data, 24 Nov 2026 close). P/B and P/E are J-Core calculations on reported BPS/EPS. Kamigumi (9364) financial figures were outside this report's data set and are shown as —, not estimated.",
           "kind": "table",
           "columns": [
@@ -471,7 +471,7 @@
         {
           "id": "f2",
           "number": "Table 3",
-          "titleHtml": "Figure 3. Segment revenue and operating profit (¥mn) — external revenue basis",
+          "titleHtml": "Segment revenue and operating profit (¥mn) — external revenue basis",
           "sourceHtml": "FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note. FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation of securities reports). Segment figures before FY3/2022 were not obtained on a consistent basis and are not shown. Business profit by segment (new basis): FY3/2025 logistics ¥8,197mn / real estate ¥15,218mn; FY3/2026 logistics ¥15,116mn / real estate ¥11,917mn; consolidated business profit ¥16,166mn and ¥18,575mn respectively (reported).",
           "kind": "table",
           "columns": [
@@ -536,7 +536,7 @@
         {
           "id": "f3",
           "number": "Table 4",
-          "titleHtml": "Figure 4. Revenue by sub-segment (¥mn, incl. internal transfers)",
+          "titleHtml": "Revenue by sub-segment (¥mn, incl. internal transfers)",
           "sourceHtml": "As reported in the FY3/2026 earnings release. Warehouse rental fees (¥6,534mn in FY3/2026) were reclassified from Logistics — Other into Warehousing in FY3/2026 on increased materiality, as noted in the release.",
           "kind": "table",
           "columns": [
@@ -617,11 +617,11 @@
         {
           "id": "c2",
           "number": "Figure 3",
-          "titleHtml": "Figure 5. Segment revenue (stacked) and FY3/2026 segment operating profit (¥mn)",
+          "titleHtml": "Segment revenue (stacked) and FY3/2026 segment operating profit (¥mn)",
           "sourceHtml": "FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note; FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation) — the same basis as the segment table in this report.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c2.svg",
-          "alt": "Figure 5. Segment revenue (stacked) and FY3/2026 segment operating profit (¥mn)"
+          "alt": "Segment revenue (stacked) and FY3/2026 segment operating profit (¥mn)"
         }
       ]
     },
@@ -634,7 +634,7 @@
         {
           "id": "f4",
           "number": "Table 5",
-          "titleHtml": "Figure 6. Rental real estate — book value vs fair value (¥mn)",
+          "titleHtml": "Rental real estate — book value vs fair value (¥mn)",
           "sourceHtml": "As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain, gain per share and gross NAV per share are J-Core calculations (unrealised gain per share on 344,040,271 shares ex-treasury at FY3/2026; gross NAV per share = BPS + unrealised gain per share, before tax on realisation). Rental profit is the profit on rental real estate included in operating profit, as reported.",
           "kind": "table",
           "columns": [
@@ -678,11 +678,11 @@
         {
           "id": "c3",
           "number": "Figure 4",
-          "titleHtml": "Figure 7. Rental real estate — book value vs fair value at FY3/2026 (¥mn)",
+          "titleHtml": "Rental real estate — book value vs fair value at FY3/2026 (¥mn)",
           "sourceHtml": "As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain and per-share figures are J-Core calculations, as in the rental real-estate table in this report.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c3.svg",
-          "alt": "Figure 7. Rental real estate — book value vs fair value at FY3/2026 (¥mn)"
+          "alt": "Rental real estate — book value vs fair value at FY3/2026 (¥mn)"
         }
       ]
     },
@@ -695,7 +695,7 @@
         {
           "id": "f6",
           "number": "Table 6",
-          "titleHtml": "Figure 9. J-Core estimates vs company guidance — Mitsubishi Logistics (¥mn, except per-share data)",
+          "titleHtml": "J-Core estimates vs company guidance — Mitsubishi Logistics (¥mn, except per-share data)",
           "sourceHtml": "FY3/2026 actuals as reported. FY3/2027E company guidance as revised on 30 Oct 2026. FY3/2027E and FY3/2028E J-Core columns are J-Core estimates: FY3/2027E adopts company guidance in full; FY3/2028E assumes a full year of Hankyu Hanshin Express consolidation, no repeat of the FY3/2027 M&amp;A/PMI costs (about ¥2,000mn in guidance), condominium sales normalisation, and no gains on sales of investment securities (against about ¥14,000mn assumed in company FY3/2027 guidance, per a secondary summary of company materials). See Section 7 for the full bridge.",
           "kind": "table",
           "columns": [
@@ -768,7 +768,7 @@
         {
           "id": "f7",
           "number": "Table 7",
-          "titleHtml": "Figure 10. Valuation scenarios — 12-month horizon (J-Core estimates)",
+          "titleHtml": "Valuation scenarios — 12-month horizon (J-Core estimates)",
           "sourceHtml": "J-Core scenario analysis. Gross NAV per share of about ¥1,990 = FY3/2028E BPS of ¥1,127 (J-Core estimate: FY3/2026 BPS ¥1,103.18 + FY3/2027E EPS ¥64 − DPS ¥44 + FY3/2028E EPS ¥50 − DPS ¥46) plus the FY3/2026 rental-real-estate unrealised gain of about ¥867 per share held flat, before tax on realisation — J-Core calculations. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.",
           "kind": "table",
           "columns": [
@@ -813,20 +813,20 @@
         {
           "id": "c4",
           "number": "Figure 5",
-          "titleHtml": "Figure 11. Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)",
+          "titleHtml": "Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)",
           "sourceHtml": "Daily closing prices from Yahoo Finance (9301.T), 25 Nov 2025 to 24 Nov 2026, as held in the J-Core price file for this company; the report’s priceHistory field was empty, so the site price file was used.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c4.svg",
-          "alt": "Figure 11. Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)"
+          "alt": "Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)"
         },
         {
           "id": "c5",
           "number": "Figure 6",
-          "titleHtml": "Figure 12. Valuation scenario range — bear, base and bull vs the current price (¥ per share)",
+          "titleHtml": "Valuation scenario range — bear, base and bull vs the current price (¥ per share)",
           "sourceHtml": "J-Core scenario analysis, as in the valuation-scenario table in this report. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsubishi-logistics-initiation-66/c5.svg",
-          "alt": "Figure 12. Valuation scenario range — bear, base and bull vs the current price (¥ per share)"
+          "alt": "Valuation scenario range — bear, base and bull vs the current price (¥ per share)"
         }
       ]
     },
