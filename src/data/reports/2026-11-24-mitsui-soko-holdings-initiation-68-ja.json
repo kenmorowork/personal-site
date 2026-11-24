@@ -314,6 +314,7 @@
           "titleHtml": "売上高と営業利益の推移（単位：百万円）",
           "sourceHtml": "Company tanshin, FY3/17–FY3/26, as tabulated in Figure 1 of this report.",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c1.svg",
           "alt": "売上高と営業利益の推移（単位：百万円）"
         }
       ]
@@ -544,6 +545,7 @@
           "titleHtml": "セグメント収益の構成と2026年3月期のセグメント利益（単位：百万円）",
           "sourceHtml": "Company segment disclosures, FY3/17–FY3/26, as tabulated in Figure 5 of this report.",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c2.svg",
           "alt": "セグメント収益の構成と2026年3月期のセグメント利益（単位：百万円）"
         }
       ]
@@ -713,6 +715,7 @@
           "titleHtml": "株価の日次終値の推移（2025年11月25日から2026年11月24日まで、単位：円）",
           "sourceHtml": "Yahoo Finance daily closes via the J-Core site price file for 9302 (the stored report priceHistory field was empty); scenario targets are J-Core estimates (Figure 9).",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c3.svg",
           "alt": "株価の日次終値の推移（2025年11月25日から2026年11月24日まで、単位：円）"
         },
         {
@@ -721,6 +724,7 @@
           "titleHtml": "シナリオ別の目標株価のレンジ（現在株価3,199円との比較）",
           "sourceHtml": "J-Core estimates; scenario assumptions as tabulated in Figure 9 of this report.",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c4.svg",
           "alt": "シナリオ別の目標株価のレンジ（現在株価3,199円との比較）"
         },
         {
@@ -729,6 +733,7 @@
           "titleHtml": "EPSの推移とシナリオ別のバリュエーション（2028年3月期のEPS予想191円はJ-Coreの予想です）",
           "sourceHtml": "Company tanshin (EPS history, Figure 1) and J-Core estimates (scenario EPS and multiples, Figure 9).",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c5.svg",
           "alt": "EPSの推移とシナリオ別のバリュエーション（2028年3月期のEPS予想191円はJ-Coreの予想です）"
         }
       ]

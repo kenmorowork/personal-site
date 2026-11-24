@@ -90,28 +90,7 @@ The industry frame is value-led, not volume-led. Yano Research Institute (press 
 
 The structural drivers are labour scarcity and price pass-through. The April 2024 truck-driver overtime cap institutionalised rate revisions and itemised waiting and handling charges; the warehouse sector's own storage-fee index had been broadly flat since 2000 even as construction costs rose, so warehousing price catch-up is earlier-stage and less certain than trucking's. For Mitsui-Soko, the investment question is whether its 8.4% logistics margin can be held as the 2024-problem repricing annualises — our base case assumes it fades only gradually, because the 3PL and healthcare mix is still improving.
 
-**Figure: Value chain — where Mitsui-Soko sits**
-
-- Shippers & manufacturers
-  - Home appliances & electronics
-  - Healthcare & pharmaceuticals
-  - Consumer goods & chemicals
-- Warehousing & handling
-  - Storage ¥39,990mn
-  - Cargo handling ¥42,155mn
-  - Port operations ¥17,211mn
-- 3PL & supply-chain solutions
-  - Mitsui-Soko Logistics — home-appliance 3PL (ex-Sanyo, 2012)
-  - MSCSS — SCM support (ex-Sony JV, 2015)
-  - Bizport — BPO services
-- Forwarding & land transport
-  - Express — air freight & multimodal (ex-JTB cargo, 2011)
-  - Transport — nationwide trucking (Marukyo, 2015)
-  - Transport income ¥143,766mn
-- End customers & channels
-  - Retailers & e-commerce
-  - Hospitals & healthcare logistics (new Kanto/Kansai facilities)
-  - Importers & exporters, Japan & overseas
+**Figure 3. Value chain — where Mitsui-Soko sits**
 
 *Source: Company disclosure (group structure and FY3/26 revenue by type), via the J-Core financial base (9302)*
 
@@ -119,7 +98,7 @@ The structural drivers are labour scarcity and price pass-through. The April 202
 
 Figure 4 compares the three zaibatsu-lineage majors and Kamigumi on reported FY3/26 figures and 24 November 2026 prices. The contrast is instructive. Mitsubishi Logistics (9301) is the real-estate-heavy name: real estate supplied about half of its two segments' combined operating profit, and its FY3/26 EPS of ¥155.84 is heavily flattered by ¥67,281mn of investment-securities sale gains, so its 8.0x trailing P/E is not a clean earnings multiple. Sumitomo Warehouse (9303) trades at 0.93x book with a 16.6x P/E — the balance-sheet-value end of the group, carrying a large policy-shareholding portfolio. Kamigumi (9364), Japan's largest port operator, is the sector's largest company by market capitalisation at ¥519,562mn (Nikkei, 24 November 2026); its reported financials were not part of the sourced base for this report and are not shown. Mitsui-Soko is the mirror image of Mitsubishi Logistics: the most logistics-pure earnings mix of the three, the highest P/B at 1.73x, and a trailing P/E of 21.6x that falls to 16.7x on our FY3/28E EPS. The market is already paying for the logistics purity; what it is not yet paying for, in our view, is the combination of the real-estate fair value and a completed capital reset.
 
-**Figure 3. Peer comparison — reported FY3/26 figures, prices at 24 Nov 2026 close**
+**Figure 4. Peer comparison — reported FY3/26 figures, prices at 24 Nov 2026 close**
 
 | Company | Price (¥) | Market cap (¥mn) | Revenue (¥mn) | Operating profit (¥mn) | P/E (FY3/26 EPS) | P/B (FY3/26 BPS) |
 |---|---|---|---|---|---|---|
@@ -136,7 +115,7 @@ The group has reported the same two segments for the entire ten-year window — 
 
 The real-estate segment's profit history is the volatility exhibit: about ¥5.0–5.9bn a year through FY3/24, then ¥2,161mn in FY3/25 when a major tenant partially vacated the MSH Nihonbashi Hakozaki Building and occupancy fell into the 60% range during its conversion to multi-tenant use, then ¥3,661mn in FY3/26 as full occupancy was restored in Q4. Even restored, the profit is below the pre-2025 level because the multi-tenant cost structure is heavier; we therefore treat the company's ¥4,500mn FY3/27 segment guidance as the recovery path, not a return to ¥5.9bn.
 
-**Figure 4. Segment revenue and profit (¥mn) — as disclosed, one consistent basis**
+**Figure 5. Segment revenue and profit (¥mn) — as disclosed, one consistent basis**
 
 |  | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -149,7 +128,7 @@ The real-estate segment's profit history is the volatility exhibit: about ¥5.0�
 
 *Source: FY3/25–FY3/26: company tanshin segment notes (reported). FY3/17–FY3/24: XBRL compilation of securities reports, overlap-verified against the tanshin*
 
-**Figure 5. Segment revenue composition and FY3/26 segment profit (¥mn)**
+**Figure 6. Segment revenue composition and FY3/26 segment profit (¥mn)**
 
 *Source: Company segment disclosures, FY3/17–FY3/26, as tabulated in Figure 5 of this report.*
 
@@ -157,7 +136,7 @@ The real-estate segment's profit history is the volatility exhibit: about ¥5.0�
 
 Figure 7 shows the disclosure that anchors the asset story. Rental real estate was carried at ¥38,133mn at FY3/26 against a fair value of ¥140,273mn — fair values are based on external appraisals for major properties and internal income-capitalisation calculations for others — leaving an unrealised gain of ¥102,140mn, up from ¥92,804mn a year earlier. That is ¥1,365 per share before tax (calculated on 74,803,785 shares ex-treasury), or about ¥956 per share after a notional 30% tax, which would lift BPS from ¥1,849.68 to about ¥2,805 on an adjusted basis; the share price of ¥3,199 is 1.14x that adjusted figure, against 1.73x reported book. Two cautions apply. The gain is a valuation fact, not an earnings stream: rental profit booked in operating profit was ¥3,433mn in FY3/26. And the FY3/26 book-value increase of ¥8,154mn mainly reflected a rise in the rental-use proportion of properties, so part of the fair-value uplift is reclassification as much as market appreciation.
 
-**Figure 6. Rental real estate — book value vs fair value (¥mn)**
+**Figure 7. Rental real estate — book value vs fair value (¥mn)**
 
 |  | FY3/25 | FY3/26 |
 |---|---|---|
@@ -180,7 +159,7 @@ Operating cash flow has been stable in a ¥21–24bn band since FY3/24 (¥23,697
 
 Figure 8 bridges from the company's revised guidance to our estimates. For FY3/27, the J-Core estimate sits fractionally above guidance — revenue ¥331,000mn, operating profit ¥24,300mn, net income ¥13,200mn, EPS ¥176 — on three grounds: H1 progress is at or slightly above the halfway mark on every line; the initial (May 2026) segment guidance already pointed to ¥4,500mn of real-estate profit on the completed occupancy recovery, and the November revision did not walk that back; and the ¥600mn Bizport transfer gain supports the net line. We do not assume a further guidance raise. For FY3/28, we forecast revenue of ¥344,000mn (+3.9%, in line with the Yano industry range plus modest share gain in healthcare and 3PL), operating profit of ¥26,000mn and net income of ¥14,300mn (EPS ¥191). The explicit assumptions are: (i) the Logistics margin improves from 8.4% toward 8.7% as rate revisions hold and healthcare facilities ramp, with segment profit of about ¥26,700mn; (ii) Real estate profit recovers to ¥5,000mn, still below the pre-2025 level, on a full year of full Hakozaki occupancy; (iii) corporate costs rise to about ¥5,700mn in absolute terms but fall as a share of segment profit; and (iv) the share count stays at about 74.8mn — the buyback facility closed in July 2026 and we assume no new programme until a successor plan is published. All figures in this section and Figure 8 are J-Core estimates, not company guidance.
 
-**Figure 7. J-Core forecasts and the bridge from company guidance (¥mn, except EPS)**
+**Figure 8. J-Core forecasts and the bridge from company guidance (¥mn, except EPS)**
 
 |  | FY3/26A | FY3/27E (co. guidance) | FY3/27E (J-Core) | FY3/28E (J-Core) |
 |---|---|---|---|---|
@@ -195,7 +174,7 @@ Figure 8 bridges from the company's revised guidance to our estimates. For FY3/2
 
 Our primary method is a P/E on J-Core FY3/28E EPS, cross-checked against P/B–ROE and the real-estate-adjusted book value. The base case applies 20.0x to FY3/28E EPS of ¥191 — a premium to Sumitomo Warehouse's 16.6x trailing multiple that we justify by Mitsui-Soko's higher logistics purity and margin trajectory, and a discount to its own 21.6x trailing multiple — giving ¥3,820, rounded to a target price of ¥3,800. At ¥3,800 the shares would trade at about 1.9x our FY3/27E book value per share of roughly ¥2,024 against a forecast ROE of about 9%; on a strict P/B–ROE frame that is full, and we say so — the Overweight rests on the earnings trajectory plus the 1.14x multiple of real-estate-adjusted book, not on book-value cheapness. Figure 9 sets out the three scenarios. Bull (¥4,300, +34.4%): FY3/28 operating profit of ¥27,500mn with real-estate profit at ¥5,500mn and the logistics margin at 9.0%, EPS of ¥205 at 21.0x. Base (¥3,800, +18.8%): as Section 7. Bear (¥2,560, −20.0%): freight normalisation repeats FY3/25, operating profit falls to ¥22,500mn, real-estate profit stalls at ¥3,500mn, EPS of ¥160 at 16.0x. The stated range is −20.0% to +34.4%, a width of 54.4 percentage points. Ratings follow the pilot thresholds on the base case, 12-month horizon: Overweight at +15% or more, Neutral between −10% and +15%, Underweight at −10% or less; the base case's +18.8% gives Overweight.
 
-**Figure 8. Valuation scenarios — 12-month target prices vs the ¥3,199 close (24 Nov 2026)**
+**Figure 9. Valuation scenarios — 12-month target prices vs the ¥3,199 close (24 Nov 2026)**
 
 | Scenario | FY3/28E OP (¥mn) | FY3/28E EPS (¥) | P/E applied | Target price (¥) | vs ¥3,199 | Key differing assumptions |
 |---|---|---|---|---|---|---|
@@ -205,15 +184,15 @@ Our primary method is a P/E on J-Core FY3/28E EPS, cross-checked against P/B–R
 
 *Source: J-Core estimates and scenario assumptions as set out in Section 8*
 
-**Figure 9. Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)**
+**Figure 10. Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)**
 
 *Source: Yahoo Finance daily closes via the J-Core site price file for 9302 (the stored report priceHistory field was empty); scenario targets are J-Core estimates (Figure 9).*
 
-**Figure 10. Scenario range — bear ¥2,560 / base ¥3,800 / bull ¥4,300 vs the ¥3,199 close**
+**Figure 11. Scenario range — bear ¥2,560 / base ¥3,800 / bull ¥4,300 vs the ¥3,199 close**
 
 *Source: J-Core estimates; scenario assumptions as tabulated in Figure 9 of this report.*
 
-**Figure 11. EPS history and scenario valuation — FY3/28E EPS basis (¥)**
+**Figure 12. EPS history and scenario valuation — FY3/28E EPS basis (¥)**
 
 *Source: Company tanshin (EPS history, Figure 1) and J-Core estimates (scenario EPS and multiples, Figure 9).*
 

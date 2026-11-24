@@ -314,6 +314,7 @@
           "titleHtml": "Revenue and operating profit — FY3/17–FY3/26 (¥mn)",
           "sourceHtml": "Company tanshin, FY3/17–FY3/26, as tabulated in Figure 1 of this report.",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c1.svg",
           "alt": "Revenue and operating profit — FY3/17–FY3/26 (¥mn)"
         }
       ]
@@ -544,6 +545,7 @@
           "titleHtml": "Segment revenue composition and FY3/26 segment profit (¥mn)",
           "sourceHtml": "Company segment disclosures, FY3/17–FY3/26, as tabulated in Figure 5 of this report.",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c2.svg",
           "alt": "Segment revenue composition and FY3/26 segment profit (¥mn)"
         }
       ]
@@ -713,6 +715,7 @@
           "titleHtml": "Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)",
           "sourceHtml": "Yahoo Finance daily closes via the J-Core site price file for 9302 (the stored report priceHistory field was empty); scenario targets are J-Core estimates (Figure 9).",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c3.svg",
           "alt": "Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)"
         },
         {
@@ -721,6 +724,7 @@
           "titleHtml": "Scenario range — bear ¥2,560 / base ¥3,800 / bull ¥4,300 vs the ¥3,199 close",
           "sourceHtml": "J-Core estimates; scenario assumptions as tabulated in Figure 9 of this report.",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c4.svg",
           "alt": "Scenario range — bear ¥2,560 / base ¥3,800 / bull ¥4,300 vs the ¥3,199 close"
         },
         {
@@ -729,6 +733,7 @@
           "titleHtml": "EPS history and scenario valuation — FY3/28E EPS basis (¥)",
           "sourceHtml": "Company tanshin (EPS history, Figure 1) and J-Core estimates (scenario EPS and multiples, Figure 9).",
           "kind": "image",
+          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c5.svg",
           "alt": "EPS history and scenario valuation — FY3/28E EPS basis (¥)"
         }
       ]
