@@ -1,0 +1,173 @@
+---
+title: "Priced below book, with ¥88.0bn of unrealised real-estate gains and a ¥216.3bn securities portfolio management has committed to monetise: initiating at Overweight — target price ¥4,500"
+company: "The Sumitomo Warehouse Co., Ltd."
+ticker: "9303"
+sector: "Warehousing & Logistics"
+date: 2026-11-24
+type: initiation
+externalUrl: "/en/reports/2026-11-24-the-sumitomo-warehouse-initiation-67/"
+lang: en
+rating: "Overweight"
+targetPrice: "¥4,500"
+---
+
+A logistics operator priced below book, with ¥88.0bn of unrealised rental-real-estate gains and a securities portfolio finally committed to monetisation — Overweight, target price ¥4,500 We initiate coverage of The Sumitomo Warehouse Co., Ltd. with an Overweight rating and a 12-month base-case target price of ¥4,500, 17.3% above the ¥3,835 close on 24 November 2026. Operating profit is the clean earnings line: FY3/2026 operating profit fell 14.0% to ¥11,413mn on wage and price cost inflation and real-estate acquisition tax, while reported net income of ¥17,668mn was supported by ¥5,618mn of gains on sales of investment securities and ¥5,132mn of Naniwa-suji line compensation. The investment case rests on three things: price pass-through in logistics, a 40.1%-margin real-estate segment with large unrealised gains, and the 2026–2030 mid-term plan's commitment to sell ¥60,000mn of policy shareholdings and return capital, including buybacks of up to 2mn shares / ¥7,000mn in FY3/2027.
+
+**Key data**
+
+| Item | Value |
+|---|---|
+| Market cap | ¥292,281mn |
+| P/E | 16.6x |
+| P/B | 0.93x |
+| Rental real estate unrealised gain | ¥88,048mn — about ¥1,155 per share before tax |
+| Dividend | FY3/26 DPS ¥103; yield 2.69%; plan floor ¥103, DOE 3.5–4.5% |
+| Next catalyst | Policy-share sales of ¥60,000mn and buybacks of up to 2mn shares / ¥7,000mn in FY3/2027 under Mid-Term Plan 2026–2030 |
+
+## Key points
+
+- **FY3/2026 results — operating profit is the clean line** Revenue ¥196,244mn (+1.5%), operating profit ¥11,413mn (−14.0%), ordinary profit ¥15,808mn, net income ¥17,668mn. Net income includes ¥5,618mn of securities-sale gains and ¥5,132mn of compensation income, so operating profit is the cleaner measure of the underlying business.
+- **Real estate: 5.3% of revenue, 24.5% of segment profit** Logistics revenue ¥185,909mn / profit ¥13,538mn (7.3% margin); Real estate revenue ¥10,335mn / profit ¥4,383mn (40.1% margin on the incl.-internal basis).
+- **¥88.0bn of unrealised rental-real-estate gains** Rental real estate: book value ¥85,091mn vs fair value ¥173,139mn at FY3/2026 — an unrealised gain of ¥88,048mn (calculated), equal to about 28% of equity and about ¥1,155 per share before tax (calculated).
+- **Valuation — below book, Overweight on the base case** At ¥3,835 the shares trade on 16.6x FY3/2026 EPS of ¥230.86, 0.93x BPS of ¥4,117.89, a 2.69% dividend yield on DPS of ¥103, with ROE of 6.1%. Our base-case target of ¥4,500 (+17.3%) clears the +15% Overweight threshold; the scenario range runs from ¥3,100 (−19.2%) to ¥5,400 (+40.8%), a width of 60.0 percentage points.
+- **The mid-term plan is the central execution question** Mid-term plan 2026–2030 (published 31 March 2026): FY3/2031 targets of revenue ¥280,000mn, operating profit ¥16,000mn and ROE of 8%, cumulative investment of ¥165,000mn, ¥60,000mn of policy-share sales, a DPS floor of ¥103 and DOE of 3.5–4.5%. Revenue +43% over five years is ambitious against history.
+
+## 1. Business description
+
+Sumitomo Warehouse traces its warehousing business to 1899 as a Sumitomo family private business; the company was established in 1923. It is an independent listed company, not a subsidiary of Sumitomo Corporation or any other listed Sumitomo company. It reports two segments. Logistics — warehousing (storage, in/out handling, distribution processing, including temperature-controlled cargo), port transport, international intermodal transport through subsidiaries in the US, Europe, Singapore, Thailand and China, and land transport and related services — is managed as one indivisible integrated business. Real estate covers the sale, leasing and management of offices, land and other property, centred on the effective use of owned assets, including logistics-facility leasing and development. The group had 35 consolidated subsidiaries and 4,473 consolidated employees at 31 March 2026. Investment securities of ¥216,299mn were 42% of total assets at FY3/2026-end (calculated), which is why capital policy matters as much as operations for this stock.
+
+## 2. Market and value chain
+
+Japan logistics is a low-single-digit volume industry becoming a mid-single-digit yen-revenue industry through price, mix and outsourcing. Yano Research Institute (press release, 5 August 2026) puts the 15-sector logistics market at ¥24.794tn in FY2024 (+5.7%), forecast at ¥25.360tn in FY2025 (+2.3%) and ¥26.361tn in FY2026 (+3.9%) — roughly +2–4% per year, and Yano states explicitly that a full recovery in freight volume has yet to be achieved and that growth is driven mainly by transportation unit prices and exchange rates. Third-party 3PL forecasts cluster around +4–5.5% per year (IMARC Group: Japan 3PL CAGR 4.3% for 2025–33; Expert Market Research: 5.4% for 2025–34; definitions differ and the figures must not be averaged). MLIT data show storage balances rising about 2% year on year with throughput broadly flat. The structural drivers are 3PL outsourcing, e-commerce share gain (METI: goods EC ratio 9.78% in 2024, +0.40pt), labour scarcity converting into price — the 2024 driver overtime cap, standard freight up about 8% from March 2024, and warehouse wage settlements of 5.69% in FY2024 — and a cold-chain replacement cycle.
+
+The value chain runs from shippers (manufacturers, retailers, EC operators) through international transport (ocean and air forwarding, project cargo), port transport (loading/unloading, container and general cargo), warehousing (storage, distribution processing, temperature-controlled) and land transport (trucking, rail forwarding) to end customers and distribution. Alongside the chain, owned real estate (offices, land, logistics facilities) is leased and recycled into real-estate segment profit, supported by an information-systems subsidiary and the overseas network in the US, Europe, Singapore, Thailand and China. The value-chain diagram shows Sumitomo Warehouse's position, with the warehousing stage — its founding business — highlighted.
+
+Competitor positioning by market capitalisation (Nikkei, retrieved 24 Nov 2026): Kamigumi (9364) ¥519,562mn — Japan's largest port operator; Mitsubishi Logistics (9301) ¥434,677mn; Sumitomo Warehouse (9303) ¥294,581mn on the Nikkei snapshot (¥292,281mn calculated on the March 2026 filing share count at ¥3,835); Mitsui-Soko Holdings (9302) ¥249,493mn. Figure 3 compares the three warehousing majors on reported figures and prices only. Mitsubishi Logistics' FY3/2026 EPS is inflated by ¥67,281mn of securities-sale gains, so its P/E is not a run-rate multiple. Sumitomo Warehouse is the only one of the three trading below book value.
+
+**Figure 1. Figure 3. Peer comparison — reported FY3/2026 figures and 24 Nov 2026 prices**
+
+| Company | Price (¥) | Revenue (¥mn) | Operating profit (¥mn) | EPS (¥) | BPS (¥) | P/E (x, calc.) | P/B (x, calc.) |
+|---|---|---|---|---|---|---|---|
+| Mitsubishi Logistics (9301) | 1240.5 | 273446 | 15928 | 155.84 | 1103.18 | 8 | 1.12 |
+| Mitsui-Soko Holdings (9302) | 3199 | 299472 | 22111 | 148.27 | 1849.68 | 21.6 | 1.73 |
+| Sumitomo Warehouse (9303) | 3835 | 196244 | 11413 | 230.86 | 4117.89 | 16.6 | 0.93 |
+
+*Source: Company FY3/2026 earnings releases for 9301, 9302 and 9303 (reported figures only), compiled in the J-Core warehousing data files. Prices are the 24 Nov 2026 close (secondary market data). P/E and P/B are J-Core calculations on reported EPS/BPS. Note: 9301 EPS is inflated by ¥67,281mn of securities-sale gains in FY3/2026, so its P/E is not a run-rate multiple; 9303 is the only one of the three trading below book value.*
+
+**Figure: Sumitomo Warehouse in the logistics value chain**
+
+- Shippers / cargo owners
+  - Manufacturers
+  - Retailers
+  - E-commerce operators
+- International transport
+  - Ocean & air forwarding
+  - Project cargo
+  - Overseas subsidiaries (US, Europe, Singapore, Thailand, China)
+- Port transport
+  - Loading / unloading
+  - Container & general cargo
+- Warehousing — Sumitomo Warehouse's core
+  - Storage & in/out handling
+  - Distribution processing
+  - Temperature-controlled cargo
+- Land transport
+  - Trucking
+  - Rail forwarding
+- End customers / distribution
+  - Consignees
+  - Retail & EC delivery points
+- Real estate — the asset base
+  - Owned offices, land, logistics facilities
+  - Leasing & asset recycling
+  - Real-estate segment profit
+
+*Source: J-Core Fundamental Research, from the company's FY3/2026 segment disclosure. The warehousing stage — the company's founding business, established as a Sumitomo family operation in 1899 — is highlighted in house navy. The real-estate leg monetises owned offices, land and logistics facilities alongside the logistics chain; support comes from the information-systems subsidiary and the overseas network (US, Europe, Singapore, Thailand, China).*
+
+## 3. Financial depth
+
+Figure 1 sets out the ten-year KPI history. Operating profit is the clean earnings line: FY3/2026 operating profit fell 14.0% to ¥11,413mn on wage and price cost inflation and real-estate acquisition tax, while reported net income of ¥17,668mn was supported by ¥5,618mn of gains on sales of investment securities and ¥5,132mn of Naniwa-suji line compensation. Three comparability notes govern the table and must be read with it. (1) Revenue-recognition change: from FY3/2022 the company applies ASBJ No. 29; agent transactions in logistics and shipping are recognised net. The FY3/2022 effect versus the old basis was revenue −¥20,706mn and operating profit −¥25mn. Prior years were not restated, so FY3/2021 and earlier revenue is on the gross basis and is not directly comparable. (2) Shipping exit: FY3/2022–FY3/2023 include Westwood Shipping Lines; container rates drove FY3/2022 shipping revenue to ¥45,585mn. Westwood was sold on 29 June 2022 and deconsolidated from Q1 FY3/2023; FY3/2023 net income includes a ¥13,184mn gain on the sale. The FY3/2024 revenue decline is principally the absence of shipping. (3) Non-recurring support to net income: Naniwa-suji line compensation of ¥12,153mn (FY3/2025) and ¥5,132mn (FY3/2026), and securities-sale gains including ¥5,618mn in FY3/2026.
+
+**Figure 2. Figure 1. Ten-year KPI history — Sumitomo Warehouse (¥mn, except per-share and % data)**
+
+| Item | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | 165256 | 175756 | 186172 | 191721 | 192024 | 231461 | 223948 | 184661 | 193398 | 196244 | 200000 |
+| Operating profit | 9189 | 10302 | 8795 | 11101 | 10963 | 27748 | 26090 | 13187 | 13275 | 11413 | 12200 |
+| Ordinary profit | 11327 | 12684 | 11295 | 13596 | 13552 | 30421 | 29115 | 16880 | 17497 | 15808 | 16100 |
+| Net income to parent | 7802 | 8358 | 6912 | 8951 | 8454 | 19703 | 22455 | 12490 | 20065 | 17668 | 17200 |
+| EPS (¥) | 87.31 | 94.84 | 79.8 | 105.74 | 101.72 | 242.55 | 281.09 | 158 | 257.32 | 230.86 | 228.68 |
+| BPS (¥) | 1914 | 2123.09 | 2119.23 | 1978.39 | 2300.99 | 2519.25 | 2737.57 | 3239.67 | 3411.77 | 4117.89 | — |
+| DPS (¥) | 31 | 33 | 45.5 | 47 | 48 | 97 | 100 | 101 | 103 | 103 | 103 |
+| ROE (%) | 4.7 | 4.7 | 3.8 | 5.2 | 4.8 | 10 | 10.7 | 5.3 | 7.7 | 6.1 | — |
+| Operating margin (%, J-Core calculation) | 5.6 | 5.9 | 4.7 | 5.8 | 5.7 | 12 | 11.7 | 7.1 | 6.9 | 5.8 | 6.1 |
+
+*Source: Company FY3/2026 earnings release (12 May 2026) and Integrated Report 2025 financial summary for FY3/2017–FY3/2025; reported figures. FY3/2027E is company guidance (issued 12 May 2026, reaffirmed 5 Nov 2026) — not a J-Core forecast. OP margin is a J-Core calculation. Comparability footnotes: (1) Revenue-recognition change — from FY3/2022 the company applies ASBJ No. 29 and agent transactions in logistics and shipping are recognised net; the FY3/2022 effect vs the old basis was revenue −¥20,706mn and operating profit −¥25mn, and prior years were not restated, so FY3/2021 and earlier revenue is on the gross basis and is not directly comparable. (2) Shipping exit — FY3/2022–FY3/2023 include Westwood Shipping Lines (FY3/2022 shipping revenue ¥45,585mn); Westwood was sold on 29 June 2022 and deconsolidated from Q1 FY3/2023, and FY3/2023 net income includes a ¥13,184mn gain on the sale; the FY3/2024 revenue decline is principally the absence of shipping. (3) Non-recurring support to net income — Naniwa-suji line compensation of ¥12,153mn (FY3/2025) and ¥5,132mn (FY3/2026), and securities-sale gains including ¥5,618mn in FY3/2026.*
+
+## Segments and real estate
+
+Segments (reported, external revenue). FY3/2025 — Logistics ¥182,701mn revenue / ¥14,069mn profit; Real estate ¥10,697mn / ¥5,413mn; adjustment −¥6,207mn; operating profit ¥13,275mn. FY3/2026 — Logistics ¥185,909mn / ¥13,538mn (7.3% margin); Real estate ¥10,335mn / ¥4,383mn (40.1% margin on the incl.-internal basis); adjustment −¥6,509mn; operating profit ¥11,413mn. Real estate is 5.3% of revenue and 24.5% of segment profit. Segment history at ¥mn precision is disclosed here for FY3/2025–FY3/2026 only; FY3/2022–FY3/2024 figures in the data file are secondary cross-checks rounded to ¥100mn, and FY3/2017–FY3/2021 segment splits are not obtained — see Basis of preparation.
+
+Real estate: rental real estate book value rose to ¥85,091mn at FY3/2026 (acquisitions of ¥18,550mn in the year) against a fair value of ¥173,139mn, mainly on external appraisals. The unrealised gain of ¥88,048mn (calculated) is about 28% of equity of ¥313,841mn and about ¥1,155 per share before tax (calculated: ¥88,048mn ÷ 76,214,140 shares ex-treasury). Rental profit booked in operating profit was ¥6,395mn in FY3/2026. Deferred tax would apply on realisation; the per-share figure is therefore a gross, pre-tax number and is labelled as such.
+
+**Figure 3. Figure 2. Segment revenue and profit (¥mn) — external revenue basis, as reported**
+
+| Item | FY3/25 | FY3/26 |
+|---|---|---|
+| Logistics — revenue | 182701 | 185909 |
+| Logistics — profit | 14069 | 13538 |
+| Real estate — revenue | 10697 | 10335 |
+| Real estate — profit | 5413 | 4383 |
+| Adjustment (corporate & eliminations) | -6207 | -6509 |
+| Consolidated operating profit | 13275 | 11413 |
+
+*Source: As reported in the FY3/2026 earnings release segment note. Segment history at ¥mn precision is disclosed here for FY3/2025–FY3/2026 only; earlier years are secondary cross-checks or not obtained (see Basis of preparation). Real-estate margin of 40.1% in FY3/2026 is on the incl.-internal revenue basis, as stated in the text.*
+
+## 4. J-Core forecasts
+
+Company guidance (issued 12 May 2026, reaffirmed 5 November 2026) is revenue ¥200,000mn, operating profit ¥12,200mn, net income ¥17,200mn, EPS ¥228.68 and DPS ¥103. H1 FY3/2027 progress was revenue 51.8%, operating profit 55.0% and net income 54.8% of the full-year forecast. J-Core takes guidance revenue as its base, adds ¥200mn to operating profit for the ahead-of-plan H1 profit progress, and trims net income by ¥200mn for a smaller assumed compensation receipt. Figure 4 sets out our estimates, labelled J-Core estimate throughout.
+
+Assumptions: (i) logistics price pass-through continues to offset wage and operating-cost inflation, lifting the OP margin from 5.8% toward 6.4% by FY3/2028; (ii) growth follows the early trajectory of the mid-term plan but at roughly half the plan's implied revenue pace — the plan requires about +7.5% per year to FY3/2031, and J-Core assumes +7.0% in FY3/2028 only after a flat FY3/2027; (iii) FY3/2028 net income normalises because securities-sale and compensation gains are assumed smaller than in FY3/2026–27, so net income falls even as operating profit rises — this is an earnings-quality assumption, stated explicitly; (iv) buybacks of up to 2mn shares / ¥7,000mn authorised for FY3/2027 (about ¥3.5bn executed by end-September 2026) continue, reducing the share count used for EPS.
+
+**Figure 4. Figure 4. J-Core estimates — Sumitomo Warehouse (¥mn, except per-share data)**
+
+| J-Core estimate | Revenue (¥mn) | Operating profit (¥mn) | Net income (¥mn) | EPS (¥) |
+|---|---|---|---|---|
+| FY3/2027E | 200000 (+1.9%) | 12400 (+8.6%) | 17000 (-3.8%) | 225 |
+| FY3/2028E | 214000 (+7.0%) | 13600 (+9.7%) | 15200 (-10.6%) | 205 |
+
+*Source: J-Core estimates. Company guidance for FY3/2027 (issued 12 May 2026, reaffirmed 5 Nov 2026) is revenue ¥200,000mn, operating profit ¥12,200mn, net income ¥17,200mn, EPS ¥228.68, DPS ¥103; J-Core adopts guidance revenue, adds ¥200mn to operating profit for ahead-of-plan H1 progress (H1 progress: revenue 51.8%, OP 55.0%, net income 54.8%), and trims net income by ¥200mn for a smaller assumed compensation receipt. FY3/2028E assumes logistics price pass-through lifting the OP margin toward 6.4%, normalised (smaller) securities-sale and compensation gains, and continuing buybacks. Growth rates in brackets are year on year. See Section 4 for the full bridge and assumptions.*
+
+## 5. Valuation and scenarios
+
+Method: P/B–ROE is the primary method because the shares trade below book (0.93x) and returns, not earnings momentum, are the binding constraint; it is cross-checked on P/E and on an asset (NAV) view — BPS of ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, against which ¥3,835 is a discount of about 27% (calculated). Figure 5 sets out the scenarios.
+
+The scenario range width is −19.2% to +40.8%, a span of 60.0 percentage points. Rating: Overweight, from the base case (+17.3% ≥ the +15% Overweight threshold; Neutral is −10% to +15%, Underweight ≤ −10%; 12-month horizon).
+
+**Figure 5. Figure 5. Valuation scenarios — 12-month horizon (J-Core estimates)**
+
+| Scenario | Target price (¥) | vs ¥3,835 | Key differing assumptions |
+|---|---|---|---|
+| Bull | 5400 | +40.8% | ROE reaches the plan's 8% path early; pass-through completes; real-estate recycling surfaces value; P/B re-rates to about 1.25x |
+| Base | 4500 | +17.3% | ROE improves toward 7%; OP follows the J-Core path; policy-share sales and buybacks proceed as planned; P/B about 1.05x forward book |
+| Bear | 3100 | -19.2% | Cost inflation outruns pass-through, OP stays near ¥11,000mn, plan execution slips, P/B de-rates to about 0.75x |
+
+*Source: J-Core scenario analysis. Primary method P/B–ROE (shares trade below book at 0.93x), cross-checked on P/E and on an asset view: BPS ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at ¥3,835 (J-Core calculations). Range width: −19.2% to +40.8%, a span of 60.0 percentage points. Rating thresholds: Overweight ≥ +15%, Neutral −10% to +15%, Underweight ≤ −10% (12-month horizon); the base case (+17.3%) supports Overweight.*
+
+## 6. Risks and management strategy
+
+Risks: (1) Earnings quality — reported net income depends on non-operating and special items (securities-sale gains, compensation); if policy-share prices fall, both the gains and the buyback funding shrink. (2) Cost inflation — FY3/2026 operating profit fell 14.0% because personnel and operating costs rose faster than rates; the previous mid-term plan missed its profit ambition for the same reason, by the company's own account. (3) Plan execution — revenue +43% by FY3/2031 (¥196,244mn to ¥280,000mn) against a 10-year record in which revenue outside the shipping spike grew only modestly; ¥165,000mn of investment must be deployed at adequate returns. (4) Real-estate concentration in Osaka, including the Naniwa-suji-affected building, where handover already cost rent in FY3/2026. (5) International freight-rate and FX swings in the international transport business, the largest logistics sub-line at ¥54,596mn in FY3/2026.
+
+Management strategy: the 2026–2030 plan sets eight growth strategies across domestic, overseas and next-generation domains, ¥165,000mn of investment (growth ¥125,000mn, renewal ¥40,000mn), ¥60,000mn of policy-share sales, buybacks of about ¥70,000mn over the plan period per the H1 materials summary, a DPS floor of ¥103 with DOE of 3.5–4.5%, and ROE of 8% by FY3/2031 against a stated WACC awareness of 4.8%. We judge the capital-return leg more credible than the revenue leg, because it is funded from an identified ¥216,299mn securities portfolio.
+
+## 7. Basis of preparation
+
+Sources: company FY3/2026 results release (12 May 2026) including segment and rental-real-estate notes and FY3/2027 guidance; H1 FY3/2027 release and presentation (5 and 16 November 2026); Mid-Term Plan 2026–2030 (31 March 2026); Integrated Report 2025 financial summary for FY3/2017–FY3/2025; peer filings for 9301 and 9302; Yano Research Institute, METI, MLIT, CBRE and Ichigo sector sources as attributed in the text. Price: ¥3,835 close, 24 November 2026 (secondary market-data snapshot; no primary exchange feed was available). All J-Core forecasts are labelled "J-Core estimate". Gaps stated honestly: segment history at ¥mn precision only for FY3/2025–FY3/2026 (earlier years are secondary cross-checks or not obtained); overseas revenue time series not obtained; shares outstanding at 24 November 2026 not obtained from a primary filing (market cap of ¥292,281mn is calculated on the 31 March 2026 count of 76,214,140 shares ex-treasury and is an upper bound); the full FY3/2026 securities report was accessed via the results release and labelled secondary extracts, not opened as a primary PDF.
+
+---
+
+Rating (as stated in the report): Overweight
+
+Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+
+The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
