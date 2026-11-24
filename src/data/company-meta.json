@@ -302,5 +302,23 @@
   "marketJa": "東証プライム",
   "marketEn": "TSE Prime",
   "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "mitsubishi-logistics": {
+  "nameJa": "三菱倉庫",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "mitsui-soko-holdings": {
+  "nameJa": "三井倉庫ホールディングス",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
+ },
+ "the-sumitomo-warehouse": {
+  "nameJa": "住友倉庫",
+  "marketJa": "東証プライム",
+  "marketEn": "TSE Prime",
+  "jpxMarketRaw": "プライム（内国株式）"
  }
 }

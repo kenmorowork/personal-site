@@ -124,6 +124,14 @@
   "photo": "photo.jpg",
   "photoCredit": "Akonnchiroll, Wikimedia Commons, CC BY-SA 4.0"
  },
+ "mitsubishi-logistics": {
+  "logo": "logo.png",
+  "photo": "photo.jpg",
+  "photoCredit": "Kakidai, Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "mitsui-soko-holdings": {
+  "logo": "logo.svg"
+ },
  "nabtesco": {
   "logo": "logo.svg",
   "photo": "photo.jpg",
@@ -196,6 +204,11 @@
   "logo": "logo.svg",
   "photo": "photo.jpg",
   "photoCredit": "散歩, Wikimedia Commons, Public domain"
+ },
+ "the-sumitomo-warehouse": {
+  "logo": "logo.png",
+  "photo": "photo.jpg",
+  "photoCredit": "妖精書士, Wikimedia Commons, CC0"
  },
  "thk": {
   "logo": "logo.svg",

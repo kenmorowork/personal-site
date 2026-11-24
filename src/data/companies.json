@@ -560,6 +560,39 @@
       "summaryJaHtml": "<p>TDK Corporation (founded 1935 as Tokyo Denki Kagaku Kogyo; headquartered in Nihonbashi, Tokyo) is one of the world's largest electronic-components makers, built on ferrite and magnetic materials. President &amp; CEO is Noboru Saito (since April 2022); CFO is Tetsuji Yamanishi. It reports four segments plus Other (segment profit as defined by the company — sales less cost of sales, SG&amp;A and other operating items, excluding head-office costs; register S3). A 5-for-1 stock split took effect on 1 October 2024.</p>",
       "hq": "",
       "homepage": ""
+    },
+    {
+      "slug": "mitsubishi-logistics",
+      "name": "Mitsubishi Logistics Corporation",
+      "nameJa": "",
+      "ticker": "9301",
+      "sector": "Warehousing & Logistics",
+      "summaryEnHtml": "",
+      "summaryJaHtml": "",
+      "hq": "",
+      "homepage": ""
+    },
+    {
+      "slug": "mitsui-soko-holdings",
+      "name": "Mitsui-Soko Holdings Co., Ltd.",
+      "nameJa": "",
+      "ticker": "9302",
+      "sector": "Warehousing & Logistics",
+      "summaryEnHtml": "",
+      "summaryJaHtml": "",
+      "hq": "",
+      "homepage": ""
+    },
+    {
+      "slug": "the-sumitomo-warehouse",
+      "name": "The Sumitomo Warehouse Co., Ltd.",
+      "nameJa": "",
+      "ticker": "9303",
+      "sector": "Warehousing & Logistics",
+      "summaryEnHtml": "",
+      "summaryJaHtml": "",
+      "hq": "",
+      "homepage": ""
     }
   ]
 }
