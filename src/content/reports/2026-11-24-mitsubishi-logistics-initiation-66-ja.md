@@ -39,7 +39,7 @@ targetPrice: "¥1,450"
 
 この10年間は三つの局面に分かれます。売上高は2017年3月期の2,087億円から2020年3月期の2,291億円へ増えました。一方で営業利益は122億円から127億円の狭い範囲で推移しました。倉庫と賃貸の事業が、価格と取扱量でゆっくり成長した時期です。その後、国際運賃の上昇で売上高は2023年3月期に3,006億円、営業利益は230億円まで増えました。運賃が正常化すると、売上高は2024年3月期に2,545億円まで減りました。2025年3月期は売上高2,841億円、営業利益203億円まで回復しました。不動産事業のマンション販売が支えました。2026年3月期はマンション販売が減ったため、売上高は3.7%減の2,734億円、営業利益は21.6%減の159億円となりました。
 
-親会社株主に帰属する当期純利益は、同じ流れでは読めません。2021年3月期は資産の譲渡益で392億円、2025年3月期は投資有価証券売却益300億円を含めて319億円、2026年3月期は売却益673億円を含めて548億円でした。2026年3月期には、米国のキャバリエ・ロジスティクスに関するのれん等の減損損失54億円もありました。そのため、2026年3月期のROE14.5%は通常の収益力を表しません。EPS155.84円も同様です。このレポートでは、次の項目で説明する正規化を全体に適用します。
+親会社株主に帰属する当期純利益は、同じ流れでは読めません。2021年3月期は資産の譲渡益で392億円、2025年3月期は投資有価証券売却益300億円を含めて319億円、2026年3月期は売却益673億円を含めて548億円でした。2026年3月期には、米国のキャバリエ・ロジスティクスに関するのれん等の減損損失54億円もありました。そのため、2026年3月期のROE14.5%は通常の収益力を表しません。EPS155.84円も同様です。このレポートでは、次の項目で説明する正規化を全体に適用します。この推移は図表2でも示しています。
 
 **Figure 1. 図表1. 主要指標と業績の推移 ― 三菱倉庫（百万円、1株当たりと%を除く）**
 
@@ -64,6 +64,10 @@ targetPrice: "¥1,450"
 | 自己資本比率（%） | 63 | 63.1 | 61.4 | 60.5 | 60.4 | 61.2 | 61.1 | 59.7 | 59.8 | 59.3 | — |
 
 *Source: Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators; FY3/2025 comparatives as restated there. FY3/2020–FY3/2024 headline PL rounded to the nearest ¥10mn from a secondary compilation of securities-report data (Zaimiru); per-share data FY3/2017–FY3/2021 are secondary cross-checks on the post-split basis. FY3/2027E is company guidance revised on 30 Oct 2026 — not a J-Core forecast. DPS FY3/2017–FY3/2020 on the post-split basis were not obtained and are shown as —.*
+
+**Figure 2. 図表2. 売上高と営業利益の推移 ― 2017年3月期から2027年3月期予想まで（百万円）**
+
+*Source: Company FY3/2026 earnings release (tanshin, 30 Apr 2026) and FY3/2026 securities report five-year indicators — the same series as the financial-history table in this report. FY3/2027E is company guidance as revised on 30 Oct 2026.*
 
 ## 報告利益は通常の収益力ではありません
 
@@ -97,9 +101,9 @@ targetPrice: "¥1,450"
 
 バリューチェーンは、荷主から始まり、倉庫と流通加工、港湾荷役、陸上運送、国際輸送を経て、荷受人に届きます。不動産の賃貸と資産回転型ビジネスは、その基盤となる土地を収益化します。三菱倉庫は、すべての段階に事業を持つ数少ない会社の一つです。阪急阪神エクスプレスの買収は、倉庫に比べて薄かった国際輸送の段階を厚くします。
 
-競合と比べると、三菱倉庫は伝統的な倉庫大手の中で売上高が最大です。ただし、時価総額では港湾運送の上組（9364）が上回ります。三井倉庫ホールディングス（9302）は、3PLと航空貨物を中心とする事業構成で、2026年3月期の営業利益率が7.4%と高く、PBRは1.73倍で取引されています。住友倉庫（9303）はPBR0.93倍で、大きな有価証券の保有が特徴です。三菱倉庫はその中間のPBR1.12倍です。第6節で示すとおり、自己資本に対する賃貸不動産の含み益は三社の中で最も大きいのに、この評価にとどまっています。図表5は報告された数値だけを比べます。上組の財務数値はこのレポートのデータ範囲になかったため、推定せず、未取得と表示しました。
+競合と比べると、三菱倉庫は伝統的な倉庫大手の中で売上高が最大です。ただし、時価総額では港湾運送の上組（9364）が上回ります。三井倉庫ホールディングス（9302）は、3PLと航空貨物を中心とする事業構成で、2026年3月期の営業利益率が7.4%と高く、PBRは1.73倍で取引されています。住友倉庫（9303）はPBR0.93倍で、大きな有価証券の保有が特徴です。三菱倉庫はその中間のPBR1.12倍です。第6節で示すとおり、自己資本に対する賃貸不動産の含み益は三社の中で最も大きいのに、この評価にとどまっています。図表8は報告された数値だけを比べます。上組の財務数値はこのレポートのデータ範囲になかったため、推定せず、未取得と表示しました。
 
-**Figure 2. 図表5. 競合との比較 ― 2026年3月期の報告数値と2026年11月24日の株価**
+**Figure 3. 図表8. 競合との比較 ― 2026年3月期の報告数値と2026年11月24日の株価**
 
 | Company | Market cap (¥bn) | Price (¥) | Revenue (¥mn) | Operating profit (¥mn) | OP margin (%) | P/B (x) | P/E (x) |
 |---|---|---|---|---|---|---|---|
@@ -110,40 +114,17 @@ targetPrice: "¥1,450"
 
 *Source: Company FY3/2026 earnings releases, compiled in the J-Core data files for 9301, 9302 and 9303 (reported figures only). Market capitalisations: Nikkei company data retrieved 24 Nov 2026, issued-share basis, as compiled in the J-Core warehousing universe file. Prices: 9301 ¥1,240.5, 9302 ¥3,199, 9303 ¥3,835 (secondary market data, 24 Nov 2026 close). P/B and P/E are J-Core calculations on reported BPS/EPS. Kamigumi (9364) financial figures were outside this report's data set and are shown as —, not estimated.*
 
-**Figure: 三菱倉庫の物流バリューチェーンにおける位置づけ**
-
-- Shippers / cargo owners
-  - Manufacturers
-  - Trading companies
-  - E-commerce / retail
-- Warehousing & distribution processing
-  - Warehousing ¥75,099mn (FY3/26)
-  - Storage, in/out handling
-  - Distribution processing
-- Port transport
-  - Port transport ¥26,184mn (FY3/26)
-  - Stevedoring & harbour transport
-- Land transport
-  - Land transport ¥55,492mn (FY3/26)
-  - Domestic trucking network
-- International forwarding
-  - International transport ¥77,273mn (FY3/26)
-  - Cavalier Logistics (US)
-  - Hankyu Hanshin Express (from Q4 FY3/27)
-- Real estate — the asset base
-  - Rental revenue ¥32,121mn (FY3/26)
-  - Asset-recycling business
-  - Real-estate fund (planned)
+**Figure 4. 三菱倉庫の物流バリューチェーンにおける位置づけ**
 
 *Source: J-Core Fundamental Research, from the company's FY3/2026 segment disclosure (logistics sub-segments and real-estate business). Hankyu Hanshin Express joins the international forwarding stage on completion of the acquisition announced 30 Oct 2026.*
 
 ## 5. セグメントと地域
 
-図表2は、二つのセグメントの推移を営業利益ベースで示します。2022年3月期より前のセグメントの売上高と利益は、一貫した基準では取得できませんでした。再構成はせず、表示していません。物流事業の営業利益は、運賃上昇の時期だった2023年3月期に約188億円で最も大きくなり（二次情報による照合、概数）、その後は127億円まで正常化しました。不動産事業の営業利益は、2022年3月期から2025年3月期まで101億円から137億円の範囲で推移し、2026年3月期はマンション販売の減少で117億円となりました。全社・消去の費用は大きく、増えています。営業利益ベースで2025年3月期に72億円、2026年3月期に85億円でした。セグメントの合計だけを見る予想は、連結営業利益のおよそ半分にあたる費用を見落とします。
+図表3は、二つのセグメントの推移を営業利益ベースで示します。2022年3月期より前のセグメントの売上高と利益は、一貫した基準では取得できませんでした。再構成はせず、表示していません。物流事業の営業利益は、運賃上昇の時期だった2023年3月期に約188億円で最も大きくなり（二次情報による照合、概数）、その後は127億円まで正常化しました。不動産事業の営業利益は、2022年3月期から2025年3月期まで101億円から137億円の範囲で推移し、2026年3月期はマンション販売の減少で117億円となりました。全社・消去の費用は大きく、増えています。営業利益ベースで2025年3月期に72億円、2026年3月期に85億円でした。セグメントの合計だけを見る予想は、連結営業利益のおよそ半分にあたる費用を見落とします。
 
-顧客の所在地別では、2026年3月期の売上高は日本が2,190億円、米国が248億円、その他が296億円でした。海外の比率は19.9%で、2025年3月期の21.4%から下がりました（J-Coreの算出）。経営計画は、2031年3月期までに海外売上高を2025年3月期の2倍以上にする目標を掲げています。アジアを中心とする国際輸送会社の阪急阪神エクスプレスの買収は、その目標に向けた主な一歩です。同社の連結が、私たちの2028年3月期予想における最大の変動要因です。
+顧客の所在地別では、2026年3月期の売上高は日本が2,190億円、米国が248億円、その他が296億円でした。海外の比率は19.9%で、2025年3月期の21.4%から下がりました（J-Coreの算出）。経営計画は、2031年3月期までに海外売上高を2025年3月期の2倍以上にする目標を掲げています。アジアを中心とする国際輸送会社の阪急阪神エクスプレスの買収は、その目標に向けた主な一歩です。同社の連結が、私たちの2028年3月期予想における最大の変動要因です。図表5では、セグメント別の売上高の構成と直近年度のセグメント利益を示しています。
 
-**Figure 3. 図表2. セグメントの売上高と営業利益（百万円、外部売上高ベース）**
+**Figure 5. 図表3. セグメントの売上高と営業利益（百万円、外部売上高ベース）**
 
 | Item | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -156,7 +137,7 @@ targetPrice: "¥1,450"
 
 *Source: FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note. FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation of securities reports). Segment figures before FY3/2022 were not obtained on a consistent basis and are not shown. Business profit by segment (new basis): FY3/2025 logistics ¥8,197mn / real estate ¥15,218mn; FY3/2026 logistics ¥15,116mn / real estate ¥11,917mn; consolidated business profit ¥16,166mn and ¥18,575mn respectively (reported).*
 
-**Figure 4. 図表3. 内訳別の収入（百万円、内部取引を含む）**
+**Figure 6. 図表4. 内訳別の収入（百万円、内部取引を含む）**
 
 | Sub-segment | FY3/25 | FY3/26 | YoY (%) |
 |---|---|---|---|
@@ -174,13 +155,17 @@ targetPrice: "¥1,450"
 
 *Source: As reported in the FY3/2026 earnings release. Warehouse rental fees (¥6,534mn in FY3/2026) were reclassified from Logistics — Other into Warehousing in FY3/2026 on increased materiality, as noted in the release.*
 
+**Figure 7. 図表5. セグメント別の売上高と2026年3月期のセグメント営業利益（百万円）**
+
+*Source: FY3/2025–FY3/2026 as reported in the FY3/2026 earnings release segment note; FY3/2022–FY3/2024 rounded to ¥100mn, secondary cross-check (IRBANK segment compilation) — the same basis as the segment table in this report.*
+
 ## 6. 貸借対照表と不動産の資産価値
 
 貸借対照表は健全です。2026年3月期の総資産は6,398億円、自己資本比率は59.3%、現金及び預金は630億円、有利子負債は1,174億円でした（会社の定義で、リース債務を含みます）。営業キャッシュフローは、税金等調整前当期純利益が801億円あったにもかかわらず、65億円まで減りました。法人税等の支払いが220億円あったことと、資産回転型ビジネスの販売用不動産が95億円増えたことが理由です。有価証券の売却益は、現金の税負担を伴うことが分かります。
 
-資産価値の根拠は、開示された一つの注記です。賃貸等不動産の簿価は2026年3月末に1,362億円で、時価は4,345億円でした。時価は主に外部の不動産鑑定に基づきます。含み益は2,984億円でした（J-Coreの算出）。これは自己資本3,795億円の78.6%にあたり、自己株式を除く発行済株式数で割ると1株当たり約867円です（いずれもJ-Coreの算出）。BPS1,103.18円に含み益を加えると、実現時の税金を引く前の1株当たり純資産価値は約1,970円となります。株価1,240.5円に対して37%低い水準です。会社自身も2026年6月29日に、賃貸不動産の含み益を含めたPBRが約0.8倍で、なお1.0倍を下回ると述べています。経営計画の資産回転型ビジネスと不動産ファンド（運用資産の目標は2028年3月期300億円、2031年3月期800億円）は、この価値を少しずつ表面化させる仕組みとして位置づけられています。
+資産価値の根拠は、開示された一つの注記です。賃貸等不動産の簿価は2026年3月末に1,362億円で、時価は4,345億円でした。時価は主に外部の不動産鑑定に基づきます。含み益は2,984億円でした（J-Coreの算出）。これは自己資本3,795億円の78.6%にあたり、自己株式を除く発行済株式数で割ると1株当たり約867円です（いずれもJ-Coreの算出）。BPS1,103.18円に含み益を加えると、実現時の税金を引く前の1株当たり純資産価値は約1,970円となります。株価1,240.5円に対して37%低い水準です。会社自身も2026年6月29日に、賃貸不動産の含み益を含めたPBRが約0.8倍で、なお1.0倍を下回ると述べています。経営計画の資産回転型ビジネスと不動産ファンド（運用資産の目標は2028年3月期300億円、2031年3月期800億円）は、この価値を少しずつ表面化させる仕組みとして位置づけられています。図表7では、簿価と時価の差をグラフで示しています。
 
-**Figure 5. 図表4. 賃貸等不動産 ― 簿価と時価（百万円）**
+**Figure 8. 図表6. 賃貸等不動産 ― 簿価と時価（百万円）**
 
 | Item | FY3/25 | FY3/26 |
 |---|---|---|
@@ -193,13 +178,17 @@ targetPrice: "¥1,450"
 
 *Source: As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain, gain per share and gross NAV per share are J-Core calculations (unrealised gain per share on 344,040,271 shares ex-treasury at FY3/2026; gross NAV per share = BPS + unrealised gain per share, before tax on realisation). Rental profit is the profit on rental real estate included in operating profit, as reported.*
 
+**Figure 9. 図表7. 賃貸等不動産 ― 2026年3月期の簿価と時価（百万円）**
+
+*Source: As reported in the rental-real-estate note of the FY3/2026 earnings release; fair value based mainly on external real-estate appraisals. Unrealised gain and per-share figures are J-Core calculations, as in the rental real-estate table in this report.*
+
 ## 7. J-Coreの予想
 
-図表6に私たちの予想を示します。2027年3月期については、2026年10月30日に修正された会社の予想をそのまま採用しました。売上高2,900億円、営業利益155億円、純利益216億円、EPS64.0円、配当44円です。上期の進捗率（売上高49.9%、営業利益53.2%）が予想を支えていることと、予想に阪急阪神エクスプレスのアドバイザリー費用とPMI費用がすでに含まれていることが理由です。ただし、二つの注意があります。純利益には政策保有株式の売却益約140億円がなお含まれていること（会社の資料の要約に基づく二次情報）と、買収のクロージングが第4四半期の予定で、2027年3月期への利益の寄与は小さいことです。
+図表9に私たちの予想を示します。2027年3月期については、2026年10月30日に修正された会社の予想をそのまま採用しました。売上高2,900億円、営業利益155億円、純利益216億円、EPS64.0円、配当44円です。上期の進捗率（売上高49.9%、営業利益53.2%）が予想を支えていることと、予想に阪急阪神エクスプレスのアドバイザリー費用とPMI費用がすでに含まれていることが理由です。ただし、二つの注意があります。純利益には政策保有株式の売却益約140億円がなお含まれていること（会社の資料の要約に基づく二次情報）と、買収のクロージングが第4四半期の予定で、2027年3月期への利益の寄与は小さいことです。
 
 2028年3月期の予想は、売上高3,120億円（7.6%増）、営業利益200億円、純利益168億円、EPS50円、配当46円です。すべてJ-Coreの予想です。2027年3月期の会社予想からの橋渡しを明示します。売上高は、阪急阪神エクスプレスの通年での連結と、価格改定と取扱量による物流の約4%の成長を見込みます。マンション販売の正常化が一部を相殺します。営業利益は、会社予想の155億円を出発点に、2027年3月期に限られるM&AとPMIの費用約20億円がなくなること、買収の通年の寄与と物流の価格と取扱量の成長で約25億円が加わることを見込みます。純利益は営業利益が増えても減ります。私たちの2028年3月期の予想では投資有価証券の売却益を想定していない一方で、会社の2027年3月期予想には約140億円が含まれているためです。営業ベースで比べれば、基調の純利益は増えます。EPSは、会社の予想EPSが前提とする株式数を使いました。この予想は、経営計画の2031年3月期の事業利益約630億円には届きません。その目標には、追加のM&A、資産回転型ビジネスの利益、海外の成長が必要です。発表されるまでは、私たちはそれらを予想に入れません。
 
-**Figure 6. 図表6. J-Coreの予想と会社の予想 ― 三菱倉庫（百万円、1株当たりを除く）**
+**Figure 10. 図表9. J-Coreの予想と会社の予想 ― 三菱倉庫（百万円、1株当たりを除く）**
 
 | Item | FY3/26A | FY3/27E (co. guidance) | FY3/27E (J-Core) | FY3/28E (J-Core) |
 |---|---|---|---|---|
@@ -223,9 +212,9 @@ targetPrice: "¥1,450"
 
 ベアケースは、目標株価995円で、19.8%の下落余地です。割引率は50%で、PBRは0.88倍です。PMI費用が2028年3月期まで続きます。キャバリエ・ロジスティクスの減損が、海外M&Aにおける例外ではなく一つの型だったことが分かります。マンションと賃貸の環境が悪化します。不動産の価値は表面化せず、株式は収益力の低い倉庫事業として評価されます。
 
-シナリオの幅は意図的に広く取っています。マイナス19.8%からプラス36.2%で、幅は56.0ポイントです。この幅が、このレポートの正直な要約です。鑑定に基づく資産価値と株価の差は大きく、その差が縮まるかどうかは、倉庫の景気循環ではなく、買収の完了、ファンドの立ち上げ、株式売却の実行という、経営の実行次第です。
+シナリオの幅は意図的に広く取っています。マイナス19.8%からプラス36.2%で、幅は56.0ポイントです。この幅が、このレポートの正直な要約です。鑑定に基づく資産価値と株価の差は大きく、その差が縮まるかどうかは、倉庫の景気循環ではなく、買収の完了、ファンドの立ち上げ、株式売却の実行という、経営の実行次第です。図表11では過去1年の日次終値を示しています。3つのシナリオ価格と現在株価の比較は図表12に示しています。図表12では、シナリオの幅をまとめています。
 
-**Figure 7. 図表7. バリュエーションのシナリオ ― 12か月の期間（J-Coreの予想）**
+**Figure 11. 図表10. バリュエーションのシナリオ ― 12か月の期間（J-Coreの予想）**
 
 | Item | Bear | Base | Bull |
 |---|---|---|---|
@@ -236,6 +225,14 @@ targetPrice: "¥1,450"
 | 2028年3月期EPS予想に対するPER（倍） | 19.9 | 29 | 33.8 |
 
 *Source: J-Core scenario analysis. Gross NAV per share of about ¥1,990 = FY3/2028E BPS of ¥1,127 (J-Core estimate: FY3/2026 BPS ¥1,103.18 + FY3/2027E EPS ¥64 − DPS ¥44 + FY3/2028E EPS ¥50 − DPS ¥46) plus the FY3/2026 rental-real-estate unrealised gain of about ¥867 per share held flat, before tax on realisation — J-Core calculations. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
+
+**Figure 12. 図表11. 株価の推移 ― 2025年11月25日から2026年11月24日までの日次終値（円）**
+
+*Source: Daily closing prices from Yahoo Finance (9301.T), 25 Nov 2025 to 24 Nov 2026, as held in the J-Core price file for this company; the report’s priceHistory field was empty, so the site price file was used.*
+
+**Figure 13. 図表12. バリュエーションのシナリオ幅 ― 弱気・基本・強気と現在株価（1株当たり、円）**
+
+*Source: J-Core scenario analysis, as in the valuation-scenario table in this report. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
 
 ## 9. リスクと経営戦略
 
