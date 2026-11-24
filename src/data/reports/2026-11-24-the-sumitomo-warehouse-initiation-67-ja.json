@@ -153,7 +153,7 @@
       "type": "section",
       "heading": "3. 財務の深掘り",
       "level": "part",
-      "html": "<p>図表1に10年間のKPI推移を示します。業績を見るうえで最も実態に近いのは営業利益です。2026年3月期の営業利益は、人件費や作業諸費の上昇と不動産取得税の負担により、前期比14.0%減の11,413百万円でした。一方で、当期純利益は17,668百万円となり、投資有価証券売却益5,618百万円となにわ筋線に関する受取補償金5,132百万円に支えられました。表と併せて読むべき比較可能性の注記は三つあります。（1）収益認識基準の変更により、2022年3月期から代理人取引は純額表示となりました。旧基準との差は営業収益で20,706百万円の減少、営業利益で25百万円の減少でした。過年度は遡及修正されていませんので、2021年3月期以前の収益は総額表示であり、直接比較できません。（2）海運事業は2022年6月にWestwood Shipping Linesを売却し、2023年3月期の第1四半期から連結対象外となりました。2022年3月期と2023年3月期の業績には海運事業が含まれ、2022年3月期の海運収入は45,585百万円でした。2023年3月期の純利益には売却益13,184百万円が含まれます。2024年3月期の減収は、主に海運事業がなくなったためです。（3）なにわ筋線の受取補償金は2025年3月期に12,153百万円、2026年3月期に5,132百万円を計上し、2026年3月期には証券売却益5,618百万円もありました。</p>",
+      "html": "<p>図表1に10年間のKPI推移を示します。業績を見るうえで最も実態に近いのは営業利益です。2026年3月期の営業利益は、人件費や作業諸費の上昇と不動産取得税の負担により、前期比14.0%減の11,413百万円でした。一方で、当期純利益は17,668百万円となり、投資有価証券売却益5,618百万円となにわ筋線に関する受取補償金5,132百万円に支えられました。表と併せて読むべき比較可能性の注記は三つあります。（1）収益認識基準の変更により、2022年3月期から代理人取引は純額表示となりました。旧基準との差は営業収益で20,706百万円の減少、営業利益で25百万円の減少でした。過年度は遡及修正されていませんので、2021年3月期以前の収益は総額表示であり、直接比較できません。（2）海運事業は2022年6月にWestwood Shipping Linesを売却し、2023年3月期の第1四半期から連結対象外となりました。2022年3月期と2023年3月期の業績には海運事業が含まれ、2022年3月期の海運収入は45,585百万円でした。2023年3月期の純利益には売却益13,184百万円が含まれます。2024年3月期の減収は、主に海運事業がなくなったためです。（3）なにわ筋線の受取補償金は2025年3月期に12,153百万円、2026年3月期に5,132百万円を計上し、2026年3月期には証券売却益5,618百万円もありました。</p>\n<p>図表6では、同じ10年間の営業収益と営業利益の推移を図で示しています。</p>",
       "figures": [
         {
           "id": "f1",
@@ -303,6 +303,15 @@
               "6.1"
             ]
           ]
+        },
+        {
+          "id": "c1",
+          "number": "Figure 2",
+          "titleHtml": "図表6. 10年間の営業収益と営業利益 ― 営業収益は棒グラフ、営業利益は折れ線グラフで示しています（2017年3月期から2026年3月期、百万円）",
+          "sourceHtml": "Company FY3/2026 earnings release and Integrated Report 2025 financial summary; reported figures, the same rows as the ten-year KPI history table in this report. Comparability: from FY3/2022 the company applies ASBJ No. 29 and agent transactions in logistics and shipping are recognised net — the FY3/2022 effect versus the old basis was revenue −¥20,706mn, and prior years were not restated, so FY3/2021 and earlier revenue is on the gross basis and is not directly comparable. FY3/2022–FY3/2023 include Westwood Shipping Lines (FY3/2022 shipping revenue ¥45,585mn), sold on 29 June 2022 and deconsolidated from Q1 FY3/2023.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c1.svg",
+          "alt": "図表6. 10年間の営業収益と営業利益 ― 営業収益は棒グラフ、営業利益は折れ線グラフで示しています（2017年3月期から2026年3月期、百万円）"
         }
       ]
     },
@@ -310,7 +319,7 @@
       "type": "section",
       "heading": "セグメントと不動産",
       "level": "section",
-      "html": "<p>セグメント（報告値、外部収益）は次のとおりです。2025年3月期は物流182,701百万円／14,069百万円、不動産10,697百万円／5,413百万円、調整額−6,207百万円、営業利益13,275百万円でした。2026年3月期は物流185,909百万円／13,538百万円（利益率7.3%）、不動産10,335百万円／4,383百万円（利益率40.1%）、調整額−6,509百万円、営業利益11,413百万円でした。不動産事業は収益の5.3%にとどまりますが、セグメント利益の24.5%を生んでいます。百万円単位の精度で開示を確認できたセグメント推移は2025年3月期と2026年3月期のみであり、2022〜2024年3月期は二次資料による100万円単位の概数、2017〜2021年3月期の内訳は未取得です。詳細は作成の前提に記しました。</p>\n<p>不動産については、賃貸等不動産の簿価は、期中の取得18,550百万円により2026年3月末に85,091百万円となり、時価は173,139百万円でした。時価は主に外部の不動産鑑定に基づきます。含み益88,048百万円（算出）は自己資本313,841百万円の約28%に相当し、1株当たりでは税引前で約1,155円（算出、88,048百万円÷自己株式控除後76,214,140株）となります。賃貸利益は2026年3月期に6,395百万円でした。実現時には繰延税金がかかりますので、1株当たりの数値は税引前の値として表示します。</p>",
+      "html": "<p>セグメント（報告値、外部収益）は次のとおりです。2025年3月期は物流182,701百万円／14,069百万円、不動産10,697百万円／5,413百万円、調整額−6,207百万円、営業利益13,275百万円でした。2026年3月期は物流185,909百万円／13,538百万円（利益率7.3%）、不動産10,335百万円／4,383百万円（利益率40.1%）、調整額−6,509百万円、営業利益11,413百万円でした。不動産事業は収益の5.3%にとどまりますが、セグメント利益の24.5%を生んでいます。百万円単位の精度で開示を確認できたセグメント推移は2025年3月期と2026年3月期のみであり、2022〜2024年3月期は二次資料による100万円単位の概数、2017〜2021年3月期の内訳は未取得です。詳細は作成の前提に記しました。</p>\n<p>不動産については、賃貸等不動産の簿価は、期中の取得18,550百万円により2026年3月末に85,091百万円となり、時価は173,139百万円でした。時価は主に外部の不動産鑑定に基づきます。含み益88,048百万円（算出）は自己資本313,841百万円の約28%に相当し、1株当たりでは税引前で約1,155円（算出、88,048百万円÷自己株式控除後76,214,140株）となります。賃貸利益は2026年3月期に6,395百万円でした。実現時には繰延税金がかかりますので、1株当たりの数値は税引前の値として表示します。</p>\n<p>図表7では、開示されている2年分のセグメント売上高の構成とセグメント利益を示しています。</p>\n<p>図表8では、賃貸等不動産の簿価と時価を比較し、資産価値のクロスチェックを示しています。</p>",
       "figures": [
         {
           "id": "f2",
@@ -355,6 +364,24 @@
               "11413"
             ]
           ]
+        },
+        {
+          "id": "c2",
+          "number": "Figure 3",
+          "titleHtml": "図表7. セグメント売上高の構成とセグメント利益 ― 2025年3月期と2026年3月期を比較しています（百万円）",
+          "sourceHtml": "FY3/2026 earnings release segment note, external revenue basis, as reported in the segment table in this report. Segment history at ¥mn precision is disclosed for FY3/2025–FY3/2026 only, so the chart covers those two years on that single consistent basis; consolidated operating profit is after corporate adjustments of −¥6,207mn (FY3/2025) and −¥6,509mn (FY3/2026).",
+          "kind": "image",
+          "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c2.svg",
+          "alt": "図表7. セグメント売上高の構成とセグメント利益 ― 2025年3月期と2026年3月期を比較しています（百万円）"
+        },
+        {
+          "id": "c3",
+          "number": "Figure 4",
+          "titleHtml": "図表8. 賃貸等不動産 ― 2026年3月期の簿価と時価、および資産価値のクロスチェックを示しています（百万円）",
+          "sourceHtml": "FY3/2026 earnings release, rental real estate note: book value ¥85,091mn versus fair value ¥173,139mn; the unrealised gain of ¥88,048mn is a J-Core calculation. Asset cross-check as stated in this report: BPS of ¥4,117.89 plus the pre-tax unrealised gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at the current price of ¥3,835; the per-share gain is gross and pre-tax, and deferred tax would apply on realisation.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c3.svg",
+          "alt": "図表8. 賃貸等不動産 ― 2026年3月期の簿価と時価、および資産価値のクロスチェックを示しています（百万円）"
         }
       ]
     },
@@ -400,7 +427,7 @@
       "type": "section",
       "heading": "5. バリュエーションとシナリオ",
       "level": "part",
-      "html": "<p>評価手法はPBRとROEの関係を主軸とします。株価が簿価を下回る水準（0.93倍）にあり、制約条件が利益の勢いではなく資本収益率にあるためです。補助線としてPERと資産価値を確認します。BPS4,117.89円に税引前の含み益約1,155円を加えた資産価値は約5,273円となり、株価3,835円は約27%のディスカウント（算出）となります。シナリオは図表に示しました。</p>\n<p>シナリオの幅は−19.2%から+40.8%までの60.0ポイントです。レーティングは、基本ケースの+17.3%がオーバーウェイトの基準である+15%以上に該当するため、オーバーウェイトとします。中立は−10%から+15%、アンダーウェイトは−10%以下であり、投資期間は12カ月です。</p>",
+      "html": "<p>評価手法はPBRとROEの関係を主軸とします。株価が簿価を下回る水準（0.93倍）にあり、制約条件が利益の勢いではなく資本収益率にあるためです。補助線としてPERと資産価値を確認します。BPS4,117.89円に税引前の含み益約1,155円を加えた資産価値は約5,273円となり、株価3,835円は約27%のディスカウント（算出）となります。シナリオは図表に示しました。</p>\n<p>シナリオの幅は−19.2%から+40.8%までの60.0ポイントです。レーティングは、基本ケースの+17.3%がオーバーウェイトの基準である+15%以上に該当するため、オーバーウェイトとします。中立は−10%から+15%、アンダーウェイトは−10%以下であり、投資期間は12カ月です。</p>\n<p>図表9では過去1年間の株価推移を示しています。3つのシナリオ水準と現在株価の比較は図表10に示しています。</p>\n<p>図表10では、現在株価に対するシナリオの幅をまとめています。</p>",
       "figures": [
         {
           "id": "f5",
@@ -434,6 +461,24 @@
               "Cost inflation outruns pass-through, OP stays near ¥11,000mn, plan execution slips, P/B de-rates to about 0.75x"
             ]
           ]
+        },
+        {
+          "id": "c4",
+          "number": "Figure 5",
+          "titleHtml": "図表9. 株価 ― 2025年11月25日から2026年11月24日までの日次終値（円）",
+          "sourceHtml": "The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330). The J-Core scenario levels in this report — bear ¥3,100, base ¥4,500, bull ¥5,400 — and the current price of ¥3,835 at 24 November 2026 are compared in Figure 10.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c4.svg",
+          "alt": "図表9. 株価 ― 2025年11月25日から2026年11月24日までの日次終値（円）"
+        },
+        {
+          "id": "c5",
+          "number": "Figure 6",
+          "titleHtml": "図表10. バリュエーションのシナリオレンジ ― ベア3,100円からブル5,400円まで、ベース4,500円と現在株価3,835円を示しています（1株当たり、円）",
+          "sourceHtml": "J-Core scenario analysis, as in the valuation scenarios table in this report. Range width: −19.2% to +40.8% versus the current price of ¥3,835, a span of 60.0 percentage points; the base case of ¥4,500 is +17.3%.",
+          "kind": "image",
+          "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c5.svg",
+          "alt": "図表10. バリュエーションのシナリオレンジ ― ベア3,100円からブル5,400円まで、ベース4,500円と現在株価3,835円を示しています（1株当たり、円）"
         }
       ]
     },

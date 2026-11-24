@@ -54,33 +54,7 @@ targetPrice: "¥4,500"
 
 *Source: Company FY3/2026 earnings releases for 9301, 9302 and 9303 (reported figures only), compiled in the J-Core warehousing data files. Prices are the 24 Nov 2026 close (secondary market data). P/E and P/B are J-Core calculations on reported EPS/BPS. Note: 9301 EPS is inflated by ¥67,281mn of securities-sale gains in FY3/2026, so its P/E is not a run-rate multiple; 9303 is the only one of the three trading below book value.*
 
-**Figure: 住友倉庫の物流バリューチェーンにおける位置づけ**
-
-- Shippers / cargo owners
-  - Manufacturers
-  - Retailers
-  - E-commerce operators
-- International transport
-  - Ocean & air forwarding
-  - Project cargo
-  - Overseas subsidiaries (US, Europe, Singapore, Thailand, China)
-- Port transport
-  - Loading / unloading
-  - Container & general cargo
-- Warehousing — Sumitomo Warehouse's core
-  - Storage & in/out handling
-  - Distribution processing
-  - Temperature-controlled cargo
-- Land transport
-  - Trucking
-  - Rail forwarding
-- End customers / distribution
-  - Consignees
-  - Retail & EC delivery points
-- Real estate — the asset base
-  - Owned offices, land, logistics facilities
-  - Leasing & asset recycling
-  - Real-estate segment profit
+**Figure 2. 住友倉庫の物流バリューチェーンにおける位置づけ**
 
 *Source: J-Core Fundamental Research, from the company's FY3/2026 segment disclosure. The warehousing stage — the company's founding business, established as a Sumitomo family operation in 1899 — is highlighted in house navy. The real-estate leg monetises owned offices, land and logistics facilities alongside the logistics chain; support comes from the information-systems subsidiary and the overseas network (US, Europe, Singapore, Thailand, China).*
 
@@ -88,7 +62,9 @@ targetPrice: "¥4,500"
 
 図表1に10年間のKPI推移を示します。業績を見るうえで最も実態に近いのは営業利益です。2026年3月期の営業利益は、人件費や作業諸費の上昇と不動産取得税の負担により、前期比14.0%減の11,413百万円でした。一方で、当期純利益は17,668百万円となり、投資有価証券売却益5,618百万円となにわ筋線に関する受取補償金5,132百万円に支えられました。表と併せて読むべき比較可能性の注記は三つあります。（1）収益認識基準の変更により、2022年3月期から代理人取引は純額表示となりました。旧基準との差は営業収益で20,706百万円の減少、営業利益で25百万円の減少でした。過年度は遡及修正されていませんので、2021年3月期以前の収益は総額表示であり、直接比較できません。（2）海運事業は2022年6月にWestwood Shipping Linesを売却し、2023年3月期の第1四半期から連結対象外となりました。2022年3月期と2023年3月期の業績には海運事業が含まれ、2022年3月期の海運収入は45,585百万円でした。2023年3月期の純利益には売却益13,184百万円が含まれます。2024年3月期の減収は、主に海運事業がなくなったためです。（3）なにわ筋線の受取補償金は2025年3月期に12,153百万円、2026年3月期に5,132百万円を計上し、2026年3月期には証券売却益5,618百万円もありました。
 
-**Figure 2. 図表1. 10年間のKPI推移 ― 住友倉庫（百万円、1株当たりと%を除く）**
+図表6では、同じ10年間の営業収益と営業利益の推移を図で示しています。
+
+**Figure 3. 図表1. 10年間のKPI推移 ― 住友倉庫（百万円、1株当たりと%を除く）**
 
 | Item | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -104,13 +80,21 @@ targetPrice: "¥4,500"
 
 *Source: Company FY3/2026 earnings release (12 May 2026) and Integrated Report 2025 financial summary for FY3/2017–FY3/2025; reported figures. FY3/2027E is company guidance (issued 12 May 2026, reaffirmed 5 Nov 2026) — not a J-Core forecast. OP margin is a J-Core calculation. Comparability footnotes: (1) Revenue-recognition change — from FY3/2022 the company applies ASBJ No. 29 and agent transactions in logistics and shipping are recognised net; the FY3/2022 effect vs the old basis was revenue −¥20,706mn and operating profit −¥25mn, and prior years were not restated, so FY3/2021 and earlier revenue is on the gross basis and is not directly comparable. (2) Shipping exit — FY3/2022–FY3/2023 include Westwood Shipping Lines (FY3/2022 shipping revenue ¥45,585mn); Westwood was sold on 29 June 2022 and deconsolidated from Q1 FY3/2023, and FY3/2023 net income includes a ¥13,184mn gain on the sale; the FY3/2024 revenue decline is principally the absence of shipping. (3) Non-recurring support to net income — Naniwa-suji line compensation of ¥12,153mn (FY3/2025) and ¥5,132mn (FY3/2026), and securities-sale gains including ¥5,618mn in FY3/2026.*
 
+**Figure 4. 図表6. 10年間の営業収益と営業利益 ― 営業収益は棒グラフ、営業利益は折れ線グラフで示しています（2017年3月期から2026年3月期、百万円）**
+
+*Source: Company FY3/2026 earnings release and Integrated Report 2025 financial summary; reported figures, the same rows as the ten-year KPI history table in this report. Comparability: from FY3/2022 the company applies ASBJ No. 29 and agent transactions in logistics and shipping are recognised net — the FY3/2022 effect versus the old basis was revenue −¥20,706mn, and prior years were not restated, so FY3/2021 and earlier revenue is on the gross basis and is not directly comparable. FY3/2022–FY3/2023 include Westwood Shipping Lines (FY3/2022 shipping revenue ¥45,585mn), sold on 29 June 2022 and deconsolidated from Q1 FY3/2023.*
+
 ## セグメントと不動産
 
 セグメント（報告値、外部収益）は次のとおりです。2025年3月期は物流182,701百万円／14,069百万円、不動産10,697百万円／5,413百万円、調整額−6,207百万円、営業利益13,275百万円でした。2026年3月期は物流185,909百万円／13,538百万円（利益率7.3%）、不動産10,335百万円／4,383百万円（利益率40.1%）、調整額−6,509百万円、営業利益11,413百万円でした。不動産事業は収益の5.3%にとどまりますが、セグメント利益の24.5%を生んでいます。百万円単位の精度で開示を確認できたセグメント推移は2025年3月期と2026年3月期のみであり、2022〜2024年3月期は二次資料による100万円単位の概数、2017〜2021年3月期の内訳は未取得です。詳細は作成の前提に記しました。
 
 不動産については、賃貸等不動産の簿価は、期中の取得18,550百万円により2026年3月末に85,091百万円となり、時価は173,139百万円でした。時価は主に外部の不動産鑑定に基づきます。含み益88,048百万円（算出）は自己資本313,841百万円の約28%に相当し、1株当たりでは税引前で約1,155円（算出、88,048百万円÷自己株式控除後76,214,140株）となります。賃貸利益は2026年3月期に6,395百万円でした。実現時には繰延税金がかかりますので、1株当たりの数値は税引前の値として表示します。
 
-**Figure 3. 図表2. セグメントの売上高と利益（百万円、外部売上高ベース、報告値）**
+図表7では、開示されている2年分のセグメント売上高の構成とセグメント利益を示しています。
+
+図表8では、賃貸等不動産の簿価と時価を比較し、資産価値のクロスチェックを示しています。
+
+**Figure 5. 図表2. セグメントの売上高と利益（百万円、外部売上高ベース、報告値）**
 
 | Item | FY3/25 | FY3/26 |
 |---|---|---|
@@ -123,13 +107,21 @@ targetPrice: "¥4,500"
 
 *Source: As reported in the FY3/2026 earnings release segment note. Segment history at ¥mn precision is disclosed here for FY3/2025–FY3/2026 only; earlier years are secondary cross-checks or not obtained (see Basis of preparation). Real-estate margin of 40.1% in FY3/2026 is on the incl.-internal revenue basis, as stated in the text.*
 
+**Figure 6. 図表7. セグメント売上高の構成とセグメント利益 ― 2025年3月期と2026年3月期を比較しています（百万円）**
+
+*Source: FY3/2026 earnings release segment note, external revenue basis, as reported in the segment table in this report. Segment history at ¥mn precision is disclosed for FY3/2025–FY3/2026 only, so the chart covers those two years on that single consistent basis; consolidated operating profit is after corporate adjustments of −¥6,207mn (FY3/2025) and −¥6,509mn (FY3/2026).*
+
+**Figure 7. 図表8. 賃貸等不動産 ― 2026年3月期の簿価と時価、および資産価値のクロスチェックを示しています（百万円）**
+
+*Source: FY3/2026 earnings release, rental real estate note: book value ¥85,091mn versus fair value ¥173,139mn; the unrealised gain of ¥88,048mn is a J-Core calculation. Asset cross-check as stated in this report: BPS of ¥4,117.89 plus the pre-tax unrealised gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at the current price of ¥3,835; the per-share gain is gross and pre-tax, and deferred tax would apply on realisation.*
+
 ## 4. J-Core予想
 
 会社予想（2026年5月12日公表、11月5日に据え置き）は、営業収益200,000百万円、営業利益12,200百万円、純利益17,200百万円、EPS228.68円、DPS103円です。上期の進捗率は収益51.8%、営業利益55.0%、純利益54.8%でした。J-Core予想は、収益を会社予想どおりとし、上期の利益進捗を踏まえて営業利益に200百万円を加え、補償金の前提を抑えて純利益から200百万円を差し引いています。予想の表には、すべて「J-Core予想」と明記します。
 
 前提は次のとおりです。（i）物流料金への価格転嫁が人件費と作業費の上昇を上回り、営業利益率は5.8%から2028年3月期に6.4%へ改善します。（ii）成長は中期経営計画の初期の軌道に沿いますが、計画が2031年3月期までに必要とする年率約7.5%の半分程度の進み方を基本とし、2027年3月期が横ばいの後に2028年3月期に7.0%の増収を見込みます。（iii）2028年3月期の純利益は、証券売却益と補償金が2026〜2027年3月期より小さくなる前提で正常化しますので、営業利益が増えても純利益は減ります。これは利益の質に関する前提であり、明記します。（iv）2027年3月期に上限200万株・7,000百万円の自社株買い（9月末までに約35億円を取得済み）が続き、EPSの分母となる株式数が減ります。
 
-**Figure 4. 図表4. J-Core予想 ― 住友倉庫（百万円、1株当たりを除く）**
+**Figure 8. 図表4. J-Core予想 ― 住友倉庫（百万円、1株当たりを除く）**
 
 | J-Core estimate | Revenue (¥mn) | Operating profit (¥mn) | Net income (¥mn) | EPS (¥) |
 |---|---|---|---|---|
@@ -144,7 +136,11 @@ targetPrice: "¥4,500"
 
 シナリオの幅は−19.2%から+40.8%までの60.0ポイントです。レーティングは、基本ケースの+17.3%がオーバーウェイトの基準である+15%以上に該当するため、オーバーウェイトとします。中立は−10%から+15%、アンダーウェイトは−10%以下であり、投資期間は12カ月です。
 
-**Figure 5. 図表5. バリュエーションのシナリオ ― 12か月の期間（J-Core予想）**
+図表9では過去1年間の株価推移を示しています。3つのシナリオ水準と現在株価の比較は図表10に示しています。
+
+図表10では、現在株価に対するシナリオの幅をまとめています。
+
+**Figure 9. 図表5. バリュエーションのシナリオ ― 12か月の期間（J-Core予想）**
 
 | Scenario | Target price (¥) | vs ¥3,835 | Key differing assumptions |
 |---|---|---|---|
@@ -153,6 +149,14 @@ targetPrice: "¥4,500"
 | 弱気 | 3100 | -19.2% | Cost inflation outruns pass-through, OP stays near ¥11,000mn, plan execution slips, P/B de-rates to about 0.75x |
 
 *Source: J-Core scenario analysis. Primary method P/B–ROE (shares trade below book at 0.93x), cross-checked on P/E and on an asset view: BPS ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at ¥3,835 (J-Core calculations). Range width: −19.2% to +40.8%, a span of 60.0 percentage points. Rating thresholds: Overweight ≥ +15%, Neutral −10% to +15%, Underweight ≤ −10% (12-month horizon); the base case (+17.3%) supports Overweight.*
+
+**Figure 10. 図表9. 株価 ― 2025年11月25日から2026年11月24日までの日次終値（円）**
+
+*Source: The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330). The J-Core scenario levels in this report — bear ¥3,100, base ¥4,500, bull ¥5,400 — and the current price of ¥3,835 at 24 November 2026 are compared in Figure 10.*
+
+**Figure 11. 図表10. バリュエーションのシナリオレンジ ― ベア3,100円からブル5,400円まで、ベース4,500円と現在株価3,835円を示しています（1株当たり、円）**
+
+*Source: J-Core scenario analysis, as in the valuation scenarios table in this report. Range width: −19.2% to +40.8% versus the current price of ¥3,835, a span of 60.0 percentage points; the base case of ¥4,500 is +17.3%.*
 
 ## 6. リスクと経営戦略
 
