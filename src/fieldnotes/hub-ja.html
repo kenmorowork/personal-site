@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="light dark" />
-    <link rel="icon" href="data:," />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
     <title>FIELDNOTES</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -429,6 +429,10 @@ body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:72rem!im
         letter-spacing: -0.01em; color: #171717; text-decoration: none;
       }
       html.dark .site-brand { color: #f5f5f5; }
+      .site-brand img { display: block; height: 2rem; width: auto; }
+      .site-brand .brand-dark { display: none; }
+      html.dark .site-brand .brand-light { display: none; }
+      html.dark .site-brand .brand-dark { display: block; }
       .site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem 1rem; font-size: .875rem; }
       .site-nav a { color: #525252; text-decoration: none; }
       .site-nav a:hover { color: #171717; }
@@ -460,7 +464,7 @@ body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:72rem!im
   </head>
   <body><header class="site-header">
       <div class="site-header-in">
-        <a class="site-brand" href="/ja/">J-Core Research by Ken</a>
+        <a class="site-brand" href="/ja/" aria-label="J-Core Research by Ken"><img class="brand-light" src="/brand/jcore/lockup-light.svg" alt="J-Core Fundamental Research" /><img class="brand-dark" src="/brand/jcore/lockup-dark.svg" alt="" aria-hidden="true" /></a>
         <nav class="site-nav" aria-label="メインメニュー">
           <a href="/ja/">ホーム</a>
           <a href="/ja/news/">ニュース</a>

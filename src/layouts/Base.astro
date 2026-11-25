@@ -45,7 +45,11 @@ const year = new Date().getFullYear();
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <script is:inline>
       // Apply the saved (or system) colour scheme before first paint.
       (function () {
@@ -70,8 +74,18 @@ const year = new Date().getFullYear();
       <div
         class={`mx-auto flex ${wrap} flex-wrap items-center gap-x-6 gap-y-2 px-6 py-4`}
       >
-        <a href={`${base}/`} class="font-display text-lg font-semibold tracking-tight">
-          {NAME}
+        <a href={`${base}/`} class="flex items-center" aria-label={NAME}>
+          <img
+            src="/brand/jcore/lockup-light.svg"
+            alt="J-Core Fundamental Research"
+            class="block h-8 w-auto dark:hidden"
+          />
+          <img
+            src="/brand/jcore/lockup-dark.svg"
+            alt=""
+            aria-hidden="true"
+            class="hidden h-8 w-auto dark:block"
+          />
         </a>
         <nav class="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-neutral-600 dark:text-neutral-400">
           {
