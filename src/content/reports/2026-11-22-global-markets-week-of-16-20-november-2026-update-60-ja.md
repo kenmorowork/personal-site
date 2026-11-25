@@ -11,7 +11,7 @@ lang: ja
 
 A correction week that the volumes did not cause: Nikkei −7.70% to 56,436.65; S&P 500 −8.50% to 6,918.45 (correction, seventh straight fall); Nasdaq −9.88%; TAIEX −17.50%. Yet Nvidia Q3 revenue was $115.8bn (+103% YoY) vs ~$109.1bn consensus with a $130.0bn ±3% Q4 guide, Anthropic raised $81.3bn at $83 in the largest IPO on record, Japan October exports hit a record ¥11.768tn (+20.5%) and September core machinery orders rose +13.4% YoY. **Friday's driver was a Reuters report that the SEC is examining potential Nvidia accounting issues (sources, unproven): the shares fell −13.8% to $125.84, −22.7% on the week**. Full report text is in the Markdown copy weekly-market-report-2026-11-22.md saved alongside this report.
 
-**Fixed tracker — the week's key prints**
+**Figure 1. Fixed tracker — the week's key prints**
 
 | Tracker | This week | Reference |
 |---|---|---|
@@ -26,6 +26,7 @@ A correction week that the volumes did not cause: Nikkei −7.70% to 56,436.65; 
 *Source: Company results, official statistics and market closes via the daily packets, 16–21 Nov 2026.*
 
 ## Key points
+
 - **Correction week, led by the AI complex.** **Nikkei −7.70% w/w (Friday −5.06%, fifth-largest fall on record)**; SOX −9.2% Friday; APAC ex-Japan −8.5% w/w, worst since March 2020 (Reuters).
 - **Nvidia beat, then a new risk arrived.** Q3 $115.8bn, DC $107.6bn (+110%), GM 74.8%; Q4 guide $130.0bn ±3%, GM 71–72%; **shares −22.7% w/w to $125.84 on the reported SEC examination**.
 - **Anthropic's record IPO did not lift the complex.** **$83 pricing, $81.3bn raised, ~$1.5tn valuation**; listed 19 Nov as ANT; −9.1% on day two at $88.30.
@@ -38,23 +39,7 @@ A correction week that the volumes did not cause: Nikkei −7.70% to 56,436.65; 
 
 Fri 13 to Fri 20 Nov closes (Figure 2): **TAIEX −17.50% to 36,033.29, Nasdaq −9.88% to 22,654.15, S&P 500 −8.50% to 6,918.45**, Dow −7.93% to 48,188.18, Nikkei −7.70% to 56,436.65, TOPIX −6.78% to 3,674.22. S&P/Dow in correction; VIX 30 Friday. KOSPI, Hang Seng, SOX weekly closes and USD/JPY, US 10Y, JGB 10Y weekly closes: 未取得 as consistent series (markers: SOX −9.2% Friday; WTI $83.84 on 19 Nov). Nikkei futures ¥54,600 Saturday; Mon 23 Nov Tokyo holiday. Sold: semis first, >90% of Prime issues down Friday. Bought: little; Walmart the defensive marker. Pattern: positioning and the discount rate, not orders. Full text in the Markdown copy.
 
-**Figure: Index performance, week to 20 Nov 2026 (% w/w)**
-
-| Item | Value (% w/w) |
-
-|---|---|
-
-| TOPIX | -6.78 |
-
-| Nikkei 225 | -7.7 |
-
-| Dow | -7.93 |
-
-| S&P 500 | -8.5 |
-
-| Nasdaq | -9.88 |
-
-| TAIEX | -17.5 |
+**Figure 2. Index performance, week to 20 Nov 2026 (% w/w)**
 
 *Source: Exchange closes Fri 13 to Fri 20 Nov 2026: Nikkei; Reuters via Investors.com (US); packets (Taiwan).*
 
@@ -76,7 +61,7 @@ Hitachi Energy 400kV TCSC Ireland; SK Telecom × Hyosung 345kV; ROHM × Delta 80
 
 Figure 6 is the fixed panel. Trends: capex rising in prints, funding terms hardening; Japan's real economy firmer than its market; US retail +0.2% and claims 203k intact; memory pricing is the swing factor in Nvidia's Q4 GM guide; transformer lead times 未取得.
 
-**Statistics tracker — capex, trade, shipments, demand**
+**Figure 3. Statistics tracker — capex, trade, shipments, demand**
 
 | Indicator | Latest | Source / date |
 |---|---|---|
@@ -98,7 +83,7 @@ Figure 6 is the fixed panel. Trends: capex rising in prints, funding terms harde
 
 Figure 7 is the attribution table. ==The largest driver was not a demand miss: Nvidia beat by ~$6.7bn and guided up, yet sellers priced governance, a lower guided GM, then a reported accounting probe==. Index falls were positioning events until proven otherwise — no coverage guidance cut or capex cut in the week's packets, while Japan's volume statistics pointed the other way.
 
-**Catalyst attribution — the week's drivers**
+**Figure 4. Catalyst attribution — the week's drivers**
 
 | Date | Company / sector | Event | Numbers | Why it moved | Watch next |
 |---|---|---|---|---|---|
@@ -123,6 +108,6 @@ Mon 23 Nov Tokyo closed (Labour Thanksgiving Day); futures ¥54,600 is Tuesday's
 
 Rating (as stated in the report): Not Rated
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution.
