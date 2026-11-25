@@ -9,9 +9,9 @@ externalUrl: "/en/reports/2026-11-13-fujikura-update-5/"
 lang: en
 ---
 
-H1 beat; guidance raised: [ref:f1] [ref:f1] **Fujikura's H1 FY27 operating profit rose 161% YoY to ¥235.0bn on AI data-centre demand for optical fibre and cabling**, and the company raised full-year guidance and doubled the dividend. The debate now moves to the second half: **guidance implies H2 operating profit of ¥194bn, below the H1 print**.
+H1 beat; guidance raised: Table 1 **Fujikura's H1 FY27 operating profit rose 161% YoY to ¥235.0bn on AI data-centre demand for optical fibre and cabling**, and the company raised full-year guidance and doubled the dividend. The debate now moves to the second half: **guidance implies H2 operating profit of ¥194bn, below the H1 print**.
 
-**H1 FY2027 results and full-year guidance — Fujikura (5803)**
+**Figure 1. H1 FY2027 results and full-year guidance — Fujikura (5803)**
 
 | ¥bn unless stated | H1 FY27A | FY27E (co. guide) | H1 progress |
 |---|---|---|---|
@@ -22,31 +22,8 @@ H1 beat; guidance raised: [ref:f1] [ref:f1] **Fujikura's H1 FY27 operating profi
 
 *Source: Company results, 10 Nov 2026. Progress = H1 actual ÷ full-year company guidance (calculated).*
 
-**New table**
-
-|  | FY26E | FY27E |
-|---|---|---|
-|  |  |  |
-
-**New table**
-
-|  | FY26E | FY27E |
-|---|---|---|
-|  |  |  |
-
-**Figure: New chart**
-
-| Item | Value |
-
-|---|---|
-
-|  | 0 |
-
-|  | 0 |
-
-*[Image: New figure — image file held in the Research Report Editor]*
-
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥4.57tn |
@@ -57,6 +34,7 @@ H1 beat; guidance raised: [ref:f1] [ref:f1] **Fujikura's H1 FY27 operating profi
 | Next event | Q3 FY27 results — Feb 2027e |
 
 ## Key points
+
 - **H1 OP +161% YoY.** H1 FY27 (Apr–Sep 2026) sales were ¥867.4bn (+55.2% YoY), operating profit ¥235.0bn (+160.6%) and net profit ¥180.3bn (+168.5%). **Information & Communications segment OP of ¥217.7bn (+195.0%) did the heavy lifting** — AI data-centre cabling is the P&L.
 - **Guidance raised; dividend doubled.** FY27 guidance now stands at sales of ¥1,768bn, operating profit of ¥429bn and net profit of ¥326bn. **The annual dividend was raised from ¥38 to ¥80 per share**.
 - **Progress rates are already above 50%.** Against the raised guide, **H1 delivered 49.1% of full-year sales, 54.8% of operating profit and 55.3% of net profit** — an unusually front-loaded year even for a strong AI-capex cycle.
@@ -66,7 +44,7 @@ H1 beat; guidance raised: [ref:f1] [ref:f1] **Fujikura's H1 FY27 operating profi
 
 Fujikura reported H1 FY27 results on 10 November. Sales of ¥867.4bn rose 55.2% YoY; operating profit of ¥235.0bn rose 160.6%; net profit of ¥180.3bn rose 168.5%. **The Information & Communications segment — optical fibre, fusion splicers and data-centre cabling — generated ¥217.7bn of operating profit, up 195.0% YoY, and accounts for almost all of the group's profit pool**.
 
-Standalone Q2 (Jul–Sep) sales were about ¥465bn, up from about ¥402bn in Q1, so momentum was still building into the autumn rather than fading after a single strong quarter. [ref:f1] [ref:f2] [ref:f1]
+Standalone Q2 (Jul–Sep) sales were about ¥465bn, up from about ¥402bn in Q1, so momentum was still building into the autumn rather than fading after a single strong quarter. Table 1 Figure 1
 
 ## Guidance and the implied second half
 
@@ -74,15 +52,7 @@ The raised FY27 guide — sales ¥1,768bn, OP ¥429bn, net ¥326bn — embeds a 
 
 What would settle the question is order commentary: hyperscaler capex plans for calendar 2027, fibre and cable allocation, and any capacity additions. **A Q3 print that keeps the quarterly OP run-rate near the H1 average would make the implied H2 look like sandbagging; a sequential drop would validate it**.
 
-**Figure: Operating profit: H1 actual vs implied H2**
-
-| Item | Value (¥bn) |
-
-|---|---|
-
-| H1 FY27A | 235 |
-
-| H2 FY27E (implied) | 194 |
+**Figure 2. Operating profit: H1 actual vs implied H2**
 
 *Source: Company results and guidance, 10 Nov 2026. Implied H2 = FY guidance − H1 actual (calculated).*
 
@@ -96,6 +66,6 @@ This update is an example note prepared for format purposes; the rating and pric
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
