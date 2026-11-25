@@ -210,6 +210,6 @@ Sources: FY3/2026 tanshin (13 May 2026) and H1 FY3/2027 tanshin (6 November 2026
 
 Rating (as stated in the report): Overweight
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
