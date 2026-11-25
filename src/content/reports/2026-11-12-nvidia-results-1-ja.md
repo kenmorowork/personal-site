@@ -11,7 +11,7 @@ lang: ja
 
 Under review: We place our rating and price target for NVIDIA under review following the resignation of founder-CEO Jensen Huang, effective immediately, five days before Q3 FY27 results. **The investment case now turns on succession and on whether the 17 Nov print can re-anchor the story on fundamentals**.
 
-**Financial summary — NVIDIA (fiscal year ends January)**
+**Figure 1. Financial summary — NVIDIA (fiscal year ends January)**
 
 | US$ unless stated | FY26A | Q2 FY27 |
 |---|---|---|
@@ -21,9 +21,10 @@ Under review: We place our rating and price target for NVIDIA under review follo
 *Source: Company reports. FY26A diluted EPS as reported; Q2 FY27 as reported.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
-| Market cap | US$4.07tn |
+| Market cap | US$3.52tn |
 | 52-week range | US$164 – 243 |
 | Avg daily value | ≈US$31bn |
 | Shares out | ≈23.4bn |
@@ -32,6 +33,7 @@ Under review: We place our rating and price target for NVIDIA under review follo
 | Q3 FY27 guidance | Revenue US$108bn ±2% |
 
 ## Key points
+
 - **Huang out, effective immediately.** Jensen Huang has resigned as President, CEO and director with immediate effect; the board accepted the resignation on Wed 11 Nov (US) and announced it on Thu 12 Nov. Huang, 63, co-founded NVIDIA in 1993 and led it for 33 years; **there is no designated successor**.
 - **Kress interim CEO; Jones first chair.** CFO Colette Kress becomes interim CEO while retaining the CFO role. **Harvey C. Jones has been appointed the company's first-ever board chair**, separating the chair and CEO roles for the first time.
 - **The tape is pricing a leadership vacuum.** The stock fell 4.3% on Mon 9 Nov as the board investigation became public, a further 8.6% in Wednesday after-hours trade, and 12.9% in Thursday pre-market to US$151.38 — **roughly US$600bn of market value erased this week**.
@@ -49,17 +51,7 @@ The pre-market fall of 12.9% to US$151.38 takes the shares below the bottom of t
 
 Read-across runs in two directions. AI-accelerator peers and the Philadelphia Semiconductor Index will trade on sympathy and on any sign of order or roadmap slippage; NVIDIA's supply chain — foundry, HBM and server assembly, including the Japan equipment and materials names — will be watched for comments at the 17 Nov print.
 
-**Figure: NVDA share price moves around the announcement**
-
-| Item | Value (%) |
-
-|---|---|
-
-| Mon 9 Nov | -4.3 |
-
-| Wed 11 Nov (AH) | -8.6 |
-
-| Thu 12 Nov (pre-mkt) | -12.9 |
+**Figure 2. NVDA share price moves around the announcement**
 
 *Source: Market reports, 9–12 Nov 2026 (pre-market for 12 Nov).*
 
@@ -73,6 +65,6 @@ Until at least the first two are answered, we keep the rating and price target u
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
