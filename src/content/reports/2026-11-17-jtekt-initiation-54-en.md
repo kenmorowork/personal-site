@@ -1,7 +1,7 @@
 ---
 title: "Business profit +53%, operating profit guide unmoved: Europe's reform bill is the whole equity story until it stops"
 company: "JTEKT Corporation"
-ticker: "6473"
+ticker: "—"
 sector: "Industrials"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: en
 
 JTEKT is the Toyota group's steering and driveline supplier (formed from Koyo Seiko and Toyoda Machine Works), reporting three segments — Automotive, Industrial & Bearings, and Machine Tools (Toyoda brand) — and managing itself on 'business profit' (revenue − cost of sales − SG&A), with structural-reform and other items sitting between business profit and IFRS operating profit. In FY3/2026 revenue was ¥1,924,950mn, business profit ¥75,367mn (3.9%, calculated as the segment sum), but operating profit only ¥24,847mn (1.3%) after ¥50,834mn of net other operating expenses — ¥41,786mn of it in Q4 alone — and owners' net income was ¥11,974mn (EPS ¥37.60). FY3/2027 guidance (revised 29 October 2026): revenue ¥1,920,000mn, business profit ¥95,000mn, OP ¥75,000mn, owners' NI ¥50,000mn, EPS ¥157.06, dividend ¥70. Strengths: (1) the underlying business is inflecting — **H1 FY3/2027 business profit rose 52.8% to ¥50.7bn (5.2% margin) on European and North American structural reform**, North American loss-cost reduction and cost improvement, and the revenue/business-profit guide was raised at H1; (2) Machine Tools is a genuinely good business inside the group — ¥17,440mn of business profit at an 8.3% margin in FY3/2026, H1 margin 8.8%, with the JTEKT Engineering absorption (1 April 2027) adding after-service weight; (3) Automotive business profit nearly doubled in H1 (+96.8% to ¥32.3bn) despite lower China sales; (4) steer-by-wire and Pairdriver™ have achieved first adoption in mass-produced vehicles (JTEKT Report 2026) — a real option on the post-2030 steering market; (5) cash generation is solid through the reform (operating cash flow ¥108,495mn in FY3/2026; debt down to ¥217,122mn against cash of ¥137,550mn); (6) the diluted share count fell ~6% in FY3/2026 to 318.5mn, so the guided EPS recovery (¥37.60 → ¥157.06) is partly a denominator story working in shareholders' favour. Weaknesses: (1) **the reform bill keeps growing — other expenses were ¥21.7bn cumulative in H1 FY3/2027 (vs ¥9.3bn a year earlier), the FY3/2026 charge was ¥50.8bn**, and the OP guide was held flat at the H1 revision explicitly because of updated structural-reform costs (a loss on the European automotive business transfer); (2) a lost decade on the IFRS OP line — OP margin has been 1.0–3.3% for seven straight years (FY3/2020–26) versus 5.6–5.9% in FY3/2017–18; (3) the Second Mid-Term Plan's final-year targets (business-profit ratio 5–6%, revenue ¥2.0tn, ROE 7–8%) will be missed on the guide (4.9% calculated; ¥1,920bn), with portfolio exits shrinking revenue by design; (4) Europe has been the chronic loss centre — the OEM automotive business (seven subsidiaries) was transferred only in August 2026 and a European return to profit is not expected until FY3/2028; (5) China revenue has fallen from ¥198,551mn (FY3/2022) to ¥150,435mn (FY3/2026), 7.8% of sales, with steering and driveline still declining there; (6) disclosure is thin where it matters — no orders/backlog, no R&D or employee figures in the tanshin, no steer-by-wire revenue, no Toyota-group concentration figure, and no Q&A was published at the Q2 print (slides only). Rating and price target are Under Review placeholders (see Basis of preparation).
 
-**Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
+**Figure 1. Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
 
 |  | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -35,6 +35,7 @@ JTEKT is the Toyota group's steering and driveline supplier (formed from Koyo Se
 *Source: Company tanshin via PL/segment sheet (register S1, S11–S13). FY17–19 J-GAAP as filed; FY20–26 IFRS — bases flagged, never spliced. EPS calculated on diluted weighted shares (FY26: 318.5mn). Margins calculated.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥2,016.5 |
@@ -45,6 +46,7 @@ JTEKT is the Toyota group's steering and driveline supplier (formed from Koyo Se
 | H1 FY3/27 business profit | ¥50,700mn (+52.8% YoY) |
 
 ## Key points
+
 - **Two profit lines, two different companies** JTEKT's business profit (¥75,367mn in FY3/2026, segment sum) measures the trading business; IFRS operating profit (¥24,847mn) is what remains after ¥50,834mn of net other operating expenses — overwhelmingly European structural reform, ¥41,786mn of it booked in Q4 FY3/2026, which pushed Q4 standalone OP to a ¥12,955mn loss. The FY3/2027 guide embeds a further ¥20,000mn gap (BP ¥95,000mn vs OP ¥75,000mn). **Every JTEKT debate is really about when the gap closes**.
 - **H1: the trading business delivered** H1 FY3/2027 revenue ¥970.8bn (+4.4%) despite the revenue-reducing effect of the European exits; **business profit ¥50.7bn (+52.8%) — Automotive ¥32.3bn (+96.8%, 4.7% margin), Industrial & Bearings ¥8.5bn (4.8%), Machine Tools ¥9.5bn (8.8%)**. Operating profit was ¥36.0bn (+38.4%) after cumulative other expenses of ¥21.7bn. Revenue and business-profit guidance were raised; OP, PBT and NI were deliberately not.
 - **Why OP guidance stayed flat** The 29 October 2026 revision notice states it plainly: revenue and business profit will exceed the previous forecast on H1 results, revised FX assumptions and market trends, but **OP and below are unchanged because a loss on the transfer of the European automotive business was recorded**, among other factors. The transfer (seven consolidated subsidiaries, OEM-customer business) completed in August 2026; Europe is expected to return to profit in FY3/2028 (company, FY3/2026 Q&A).
@@ -55,91 +57,19 @@ JTEKT is the Toyota group's steering and driveline supplier (formed from Koyo Se
 
 Exhibit 1 (page 1) summarises ten fiscal years, FY3/2017–FY3/2026. Standards are never spliced: FY3/2017–19 are J-GAAP as originally filed, FY3/2020–21 are IFRS from the FY2020 IFRS reissue and the FY2021 tanshin, and FY3/2022–26 are IFRS (register S12). The arc is a fall and a partial repair. J-GAAP operating profit peaked at ¥81,391mn (5.6%) in FY3/2018 on sales of ¥1,441,170mn; the IFRS years open with the COVID break (FY3/2021 sales ¥1,246,286mn, OP ¥12,920mn) and never recover the old margin — **OP margin has printed 1.0–3.3% in every year since FY3/2020**. Sales set a record in FY3/2026 (¥1,924,950mn) but OP fell to ¥24,847mn because other operating expenses reached ¥50,834mn (FY3/2025: ¥26,487mn), concentrated in Q4 (¥41,786mn; Q4 standalone OP −¥12,955mn) as the European structural reform and the automotive-business transfer were provided for. Owners' net income fell to ¥11,974mn (EPS ¥37.60) despite business profit of ¥75,367mn. Operating cash flow, by contrast, was positive in all ten years and reached ¥154,461mn in FY3/2024. Note the share count: diluted weighted shares were ~343.0mn for nine years, then fell to 318.479mn in FY3/2026 — the guided EPS jump to ¥157.06 is earnings recovery on a smaller denominator.
 
-**Figure: JTEKT Corporation — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 1318310 |
-
-| FY18 | 1441170 |
-
-| FY19 | 1520893 |
-
-| FY20 | 1418896 |
-
-| FY21 | 1246286 |
-
-| FY22 | 1428426 |
-
-| FY23 | 1678146 |
-
-| FY24 | 1891504 |
-
-| FY25 | 1884397 |
-
-| FY26 | 1924950 |
+**Figure 2. JTEKT Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: JTEKT Corporation — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 77442 |
-
-| FY18 | 81391 |
-
-| FY19 | 66608 |
-
-| FY20 | 16158 |
-
-| FY21 | 12920 |
-
-| FY22 | 36401 |
-
-| FY23 | 49325 |
-
-| FY24 | 62196 |
-
-| FY25 | 38452 |
-
-| FY26 | 24847 |
+**Figure 3. JTEKT Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: JTEKT Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY17 | 5.9 |
-
-| FY18 | 5.6 |
-
-| FY19 | 4.4 |
-
-| FY20 | 1.1 |
-
-| FY21 | 1 |
-
-| FY22 | 2.5 |
-
-| FY23 | 2.9 |
-
-| FY24 | 3.3 |
-
-| FY25 | 2 |
-
-| FY26 | 1.3 |
+**Figure 4. JTEKT Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: JTEKT Corporation — revenue and operating margin**
+**Figure 5. JTEKT Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -155,7 +85,7 @@ H1 (April–September 2026): revenue ¥970.8bn (+4.4% YoY), business profit ¥50
 
 Initial (28 April 2026, with the FY3/2026 results): revenue ¥1,880,000mn, business profit ¥90,000mn, OP ¥75,000mn, PBT ¥70,000mn, owners' NI ¥50,000mn, EPS ¥157.07, dividend ¥70 (¥35 + ¥35; +¥10 YoY; DOE 2.8%). The initial plan already factored in a Middle East impact visible at the time (a negative three-month customer indication of ¥10.0bn of revenue and ¥3.0bn of business profit — FY3/2026 Q&A). Revision 1 (29 October 2026): revenue ¥1,920,000mn, business profit ¥95,000mn; OP ¥75,000mn, PBT ¥70,000mn, NI ¥50,000mn and EPS ¥157.06 all unchanged. Company-stated reason (tracker extract of the notice): revenue and business profit will exceed the previous forecast reflecting H1 results, revised FX assumptions and recent market trends; however, OP and each stage below are unchanged, partly because a loss on the transfer of the European automotive business was recorded. Full-year FX assumptions: USD ¥157 / EUR ¥182 (USD ¥155 / EUR ¥180 from Q3). H1 progress against the guide — revenue 50.6%, business profit 53.4% (calculated) — implies H2 business profit of ¥44.3bn and H2 OP of ¥39.0bn, i.e. a further ~¥5bn of net other expenses is embedded in H2 (pack calculation). Segment-level full-year guidance is 未取得 in the sources read.
 
-**Exhibit 3: FY3/2027 guidance chain (¥mn)**
+**Figure 6. Exhibit 3: FY3/2027 guidance chain (¥mn)**
 
 | Step | Revenue | Business profit | OP | Owners' NI | EPS (¥) |
 |---|---|---|---|---|---|
@@ -191,41 +121,7 @@ JTEKT sits at the intersection of three markets. Steering: a global oligopoly (J
 
 The NSK–NTN integration changes JTEKT's competitive frame in bearings directly. The basic agreement of 12 May 2026 would combine the second- and third-largest Japanese bearing makers into the world's largest bearing group by sales, leaving JTEKT as the standalone third pole in Japan; the interview pack records that no customer dual-sourcing or supply-security response had been disclosed as of November 2026, and that JTEKT's tribology and elemental technologies are shared across steering, driveline and bearings, so a procurement-scale disadvantage in bearings would not stay inside one segment. In steering, the technology reset is dated by the company itself: JTEKT expects the steer-by-wire market to grow rapidly from 2030 with autonomous driving and BEV adoption, and its first mass-production adoption of steer-by-wire and Pairdriver™ (JTEKT Report 2026) is its claim to share in that phase — with revenue, order value and per-vehicle content still undisclosed.
 
-**Figure: JTEKT in the bearings value chain**
-
-**Raw Materials**
-
-- Bearing steel SUJ2: Nippon Steel
-- Special steel: Daido, Sanyo, Aichi
-- Ceramic balls Si3N4: Kyocera, Denka
-- Grease, resin cage materials
-
-**Components**
-
-- Forged, turned rings & rolling elements
-- Cages, seals
-- Ceramic balls (with material makers)
-- Sensor units
-
-**JTEKT Corporation (6473)**
-
-- Automotive — steering (EPS, steer-by-wire) & driveline (CVJ, hubs, pumps); 71% of FY3/26 sales
-- Industrial & Bearings — Koyo bearings & industrial components
-- Machine Tools — Toyoda machining centres, grinders & FA systems (8.3% business-profit margin FY3/26)
-
-**Distribution & Integration**
-
-- Industrial distributors, trading houses
-- EC: Misumi, MonotaRO
-- OEM direct delivery (automotive)
-- Genuine-parts networks, anti-counterfeit checks
-
-**End Customers & Aftermarket**
-
-- Automotive OEMs & Tier 1s: Toyota group
-- Machine tools, semiconductor equipment
-- Construction, rail, aero engines, wind
-- Condition monitoring, remanufacturing: SKF, NSK
+**Figure 7. JTEKT in the bearings value chain**
 
 *Source: FIELDNOTES sector report §4 (bearings value chain); company segments from §3 of this report.*
 
@@ -233,7 +129,7 @@ The NSK–NTN integration changes JTEKT's competitive frame in bearings directly
 
 Segment profit is business profit. The current three-segment basis runs from FY3/2022 (restated in the FY2022 tanshin); FY3/2017–21 are on the old two-segment basis (Machine Parts & Components / Machine Tools) and are shown separately in the Basis. Regional sales are by customer location (register S4); regional profit is not disclosed.
 
-**Figure: JTEKT Corporation — regional revenue by year**
+**Figure 8. JTEKT Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -241,7 +137,7 @@ Segment profit is business profit. The current three-segment basis runs from FY3
 
 FY3/2026: Automotive sales ¥1,367,005mn / business profit ¥46,717mn (3.4%); Industrial & Bearings ¥347,067mn / ¥11,210mn (3.2%); Machine Tools ¥210,877mn / ¥17,440mn (8.3%); corporate/other −¥50,520mn (the net other-operating-expense line, register S3) → OP ¥24,847mn. The five-year shape: Automotive margin 1.5% → 3.4% with a FY3/2024 peak of 3.3% (¥45,039mn); Industrial & Bearings margin halved from 5.3% to 3.2%; **Machine Tools margin rose from 6.6% to 8.3% and its profit (¥17,440mn) now exceeds Industrial & Bearings' on 60% of its sales**. On the old basis (separate, never spliced), FY3/2017 was Machine Parts & Components ¥1,176,049mn / ¥68,276mn (5.8%) and Machine Tools ¥142,260mn / ¥9,190mn (6.5%) — a reminder of what the combined automotive+bearing complex used to earn before the margin collapse of FY3/2020–21 (FY3/2021: Parts ¥12,635mn, Machine Tools ¥2,177mn).
 
-**Exhibit 2: Segments — business profit basis (¥mn)**
+**Figure 9. Exhibit 2: Segments — business profit basis (¥mn)**
 
 | Segment | FY22 sales | FY22 profit | FY23 sales | FY23 profit | FY24 sales | FY24 profit | FY25 sales | FY25 profit | FY26 sales | FY26 profit | FY26 margin % |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -254,7 +150,7 @@ FY3/2026: Automotive sales ¥1,367,005mn / business profit ¥46,717mn (3.4%); In
 
 *Source: Company tanshin via PL/segment sheet (register S3). Segment profit = business profit (sales − COS − SG&A, after HQ allocation); the adjustment row is net other operating income/expenses, bridging to IFRS operating profit.*
 
-**Exhibit 2A. Regional sales (customer location, seven-line disclosure)**
+**Figure 10. Exhibit 2A. Regional sales (customer location, seven-line disclosure)**
 
 | Region (customer) | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|
@@ -270,7 +166,7 @@ FY3/2026: Automotive sales ¥1,367,005mn / business profit ¥46,717mn (3.4%); In
 
 *Source: PL/segment workbook — Regional information note as disclosed in seven lines; annual only. Regional profit is not disclosed.*
 
-**Exhibit 2B. Segments — era two-segment basis, FY3/17–FY3/21**
+**Figure 11. Exhibit 2B. Segments — era two-segment basis, FY3/17–FY3/21**
 
 | Segment (era basis) | FY17 sales | FY17 profit | FY18 sales | FY18 profit | FY19 sales | FY19 profit | FY20 sales | FY20 profit | FY21 sales | FY21 profit |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -280,7 +176,7 @@ FY3/2026: Automotive sales ¥1,367,005mn / business profit ¥46,717mn (3.4%); In
 
 *Source: PL/segment workbook — Era basis as disclosed: Machine Parts & Components / Machine Tools. Segment profit is operating-profit basis in the J-GAAP years (FY17–19) and business profit in the IFRS years (FY20–21). Never mapped onto the current three-segment basis.*
 
-**Exhibit 2C. Regional sales — FY3/17–FY3/21 (IFRS-era tanshin disclosure)**
+**Figure 12. Exhibit 2C. Regional sales — FY3/17–FY3/21 (IFRS-era tanshin disclosure)**
 
 | Region (customer) | FY17 | FY18 | FY19 | FY20 | FY21 |
 |---|---|---|---|---|---|
@@ -320,6 +216,6 @@ Sources: the PL/segment sheet for JTEKT (6473) — main window FY3/2022–FY3/20
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
