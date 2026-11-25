@@ -11,7 +11,7 @@ lang: ja
 
 The motion-control core inside everyone else's automation: Yaskawa Electric Corporation (6506, TSE Prime and Fukuoka) is the Kitakyushu-based factory-automation group built on 'electric motors and their applications': it claims the leading global position in AC servo motors and controllers, sells inverters (AC drives) worldwide, and is one of the 'big four' industrial-robot makers with its MOTOMAN brand, organised in three reportable segments — Motion Control, Robotics and System Engineering — plus a small Other (logistics). The initiation question is whether a demand supercycle now visible in orders can be converted into the profit recovery the new mid-term plan promises. The demand evidence is strong: **quarterly order intake hit a record ¥185.4bn in Q2 FY2/27 (+38% YoY**, company briefing materials, October 2026), driven by data-centre and semiconductor capex, and full-year FY2/27 guidance was revised on 9 October 2026 to revenue of ¥600,000mn (+10.7% YoY). Strengths: (1) a component franchise with genuine technology depth — Yaskawa coined 'mechatronics' in 1969, makes the servos, controllers and robots as one system under its i³-Mechatronics concept, and supplies motion components to the wider industry, not only to its own robots; (2) breadth of the current upcycle — H1 FY2/27 Motion Control revenue rose 21.7% YoY with growth in every region, and overseas revenue reached 75.2% of the total (briefing materials); (3) a solid balance sheet (equity ratio attributable to owners 59.5% at February 2026) and a rising dividend (¥68 in FY2/26 to a forecast ¥72 in FY2/27). Weaknesses: (1) profitability has fallen for three consecutive years — the operating margin compressed from 12.3% in FY2/23 to 8.7% in FY2/26 and ROE to 7.7%, as volume fell and then costs, wages and depreciation rose faster than added value; (2) earnings quality needs care — FY2/25 profit before tax of ¥78,454mn included a one-off gain of ¥26,777mn on the sale and revaluation of associate investments, so the reported FY2/25 profit growth was not operating; (3) execution is currently impaired by the group's own systems change — a new core (ERP) system disrupted production and shipments in H1 FY2/27, Robotics profit fell 43.3% YoY in the half, and full-year operating-profit guidance was cut to ¥57,500mn even as revenue guidance was raised. Against that record, the new mid-term plan 'Dash 35' (announced 22 May 2026) **targets revenue of ¥650,000mn and a record operating profit of ¥100,000mn (15.4% margin) by FY2/30 — more than double FY2/26 operating profit**. All historical figures in this report are as reported by the company (IFRS) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY2/17–FY2/26 actuals and FY2/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY2/17–FY2/26 actuals and FY2/27E company guidance**
 
 | ¥mn unless stated | FY2/17 | FY2/18 | FY2/19 | FY2/20 | FY2/21 | FY2/22 | FY2/23 | FY2/24 | FY2/25 | FY2/26 | FY2/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@ The motion-control core inside everyone else's automation: Yaskawa Electric Corp
 *Source: Company results via PL/segment sheet (tanshin, JPX archive); FY2/27E = company guidance as revised in the Q2 FY2/27 tanshin, 9 Oct 2026. EPS is basic EPS as reported in the tanshin headers (sheet-calculated diluted EPS is marginally lower — see Basis of preparation). ROE as reported in the tanshin headers. FY2/25 profit before tax and EPS include the ¥26,777mn one-off gain on sale/revaluation of associate investments. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥907.6bn |
@@ -39,6 +40,7 @@ The motion-control core inside everyone else's automation: Yaskawa Electric Corp
 | Next event | Q3 FY2/27 results, early Jan 2027 |
 
 ## Key points
+
 - **Record orders, led by Motion Control.** Consolidated order intake in Q2 FY2/27 (June–August 2026) was ¥185.4bn, which the company describes as **a record-high quarterly intake, +38% YoY and +13% QoQ**, following ¥163.8bn in Q1 (+29% YoY); **Motion Control orders rose 56% YoY in Q2** on data-centre and semiconductor demand. Orders are disclosed in briefing materials, not in the tanshin. Source: FY2026 1H financial results briefing materials (company, October 2026).
 - **Guidance: revenue up, operating profit down — read the revision correctly.** At Q2 FY2/27 (9 October 2026) the company raised FY2/27 revenue guidance from ¥580,000mn to ¥600,000mn but [red]cut operating-profit guidance from ¥60,000mn to ¥57,500mn[/red], while lifting profit before tax to ¥65,500mn and net income to owners to ¥47,500mn (basic EPS ¥183.11). H1 delivered 47.6% of guided revenue but only 38.4% of guided operating profit, so the year depends on H2 normalisation of production and shipments after the ERP disruption. Source: Q2 FY2/27 tanshin, 9 October 2026; company briefing materials, October 2026.
 - **Strength — the servo core is compounding again.** Motion Control was 43.5% of FY2/26 revenue and is the growth engine of the current cycle: H1 FY2/27 **segment revenue was ¥137,286mn (+21.7% YoY) and segment profit ¥15,973mn (+32.8%), an 11.6% margin**, with AC servo and controller sales up in every region on semiconductor, electronic-components and machine-tool demand, and drives lifted by data-centre, semiconductor-equipment and oil & gas sales. Source: Q2 FY2/27 tanshin segment note, 9 October 2026.
@@ -57,91 +59,19 @@ Below operating profit, two lines dominate the recent history. Share of profit o
 
 The balance sheet strengthened through the profit decline. Total assets were ¥812,365mn and total equity ¥493,615mn at 28 February 2026 (equity attributable to owners ¥483,542mn; owners' equity ratio 59.5%; book value per share ¥1,864.31). Operating cash flow was ¥49,233mn in FY2/22, negative ¥2,209mn in FY2/23 (the working-capital build of the order boom), then ¥54,619mn / ¥56,505mn / ¥52,170mn in FY2/24–26. Inventory is the stock to watch: ¥210,764mn at end-FY2/26, which the company expresses as 4.5 months of revenue (briefing materials, revenue basis); on the sheet's cost-of-sales basis the same stock is about 7.3 months — the two figures use different denominators and are not interchangeable. Interest-bearing debt on the sheet's definition (current borrowings plus non-current bonds and borrowings) was ¥110,029mn at end-FY2/26; the company reports ¥124,900mn including lease obligations (briefing materials), a D/E ratio of 0.26x. The full KPI table, including FY2/27 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY2/22–FY2/26; briefing-material items are cited as such.
 
-**Figure: Yaskawa Electric Corporation — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY2/17 | 394883 |
-
-| FY2/18 | 448523 |
-
-| FY2/19 | 474638 |
-
-| FY2/20 | 410957 |
-
-| FY2/21 | 389712 |
-
-| FY2/22 | 479082 |
-
-| FY2/23 | 555955 |
-
-| FY2/24 | 575658 |
-
-| FY2/25 | 537682 |
-
-| FY2/26 | 542122 |
+**Figure 2. Yaskawa Electric Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Yaskawa Electric Corporation — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY2/17 | 30409 |
-
-| FY2/18 | 54126 |
-
-| FY2/19 | 49766 |
-
-| FY2/20 | 24198 |
-
-| FY2/21 | 27180 |
-
-| FY2/22 | 52860 |
-
-| FY2/23 | 68301 |
-
-| FY2/24 | 66225 |
-
-| FY2/25 | 50156 |
-
-| FY2/26 | 47307 |
+**Figure 3. Yaskawa Electric Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Yaskawa Electric Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY2/17 | 7.7 |
-
-| FY2/18 | 12.1 |
-
-| FY2/19 | 10.5 |
-
-| FY2/20 | 5.9 |
-
-| FY2/21 | 7 |
-
-| FY2/22 | 11 |
-
-| FY2/23 | 12.3 |
-
-| FY2/24 | 11.5 |
-
-| FY2/25 | 9.3 |
-
-| FY2/26 | 8.7 |
+**Figure 4. Yaskawa Electric Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Yaskawa Electric Corporation — revenue and operating margin**
+**Figure 5. Yaskawa Electric Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -163,7 +93,7 @@ Full-year FY2/27 guidance, as revised in the Q2 release of 9 October 2026, is re
 
 Segment guidance (briefing materials, October 2026) shows where the year is expected to be made: Motion Control revenue ¥290,300mn and operating profit ¥39,400mn (13.6% margin) — both the revenue and the profit centre of the year, though the profit figure was cut from ¥42,000mn in April; Robotics revenue ¥251,000mn and operating profit ¥17,800mn (7.1%), cut from ¥21,000mn; System Engineering revenue ¥41,200mn and operating profit ¥5,600mn, raised from ¥3,200mn; Other revenue ¥17,500mn and operating profit ¥1,500mn; eliminations and corporate −¥6,700mn. Against guidance, H1 progress was 47.6% on revenue and 38.4% on operating profit, so delivery requires a strong H2: implied H2 operating profit of ¥35,442mn is 61% above the H1 print, predicated on normalised supply after the ERP transition, conversion of the record order intake, and the H2 measures the company lists — expanding U1000 matrix-converter production and sales for data-centre HVAC and server cooling, a Vietnam PCB supply base for Motion Control, added semiconductor-robot capacity, and package deployment of MOTOMAN NEXT validation results with partners. Exhibit 3 sets out the H1 segment actuals and the full-year segment guidance. Source: Q2 FY2/27 tanshin, 9 October 2026; FY2026 1H briefing materials (company, October 2026).
 
-**Exhibit 3. H1 FY2/27 segment results and FY2/27 company guidance by segment**
+**Figure 6. Exhibit 3. H1 FY2/27 segment results and FY2/27 company guidance by segment**
 
 | ¥mn | H1 FY2/27 revenue | H1 FY2/27 profit | FY2/27E revenue (guidance) | FY2/27E profit (guidance) |
 |---|---|---|---|---|
@@ -202,42 +132,7 @@ Yaskawa sells into the factory-automation value chain at its highest-value layer
 
 Competition differs by segment. In Motion Control the rivals are Mitsubishi Electric, Siemens, ABB, Panasonic Industry and FANUC (in controllers and compact automation), plus Chinese servo makers competing on price in China — the market where Yaskawa is pushing its Σ-Mx strategic product (briefing materials). In Robotics the rivals are FANUC (the scale and margin benchmark, with its own CNC ecosystem), ABB Robotics, KUKA and Mitsubishi Electric, with collaborative-robot specialists and Chinese makers pressing from below; Yaskawa's differentiation claim is the depth of its own motion technology inside the robot — its servos and control are developed in-house rather than bought in. Entry barriers are the accumulated servo-control know-how, installed-base trust in uptime-critical lines, global service networks and application engineering; the substitute risk is less a rival product than a technology shift — integrated drives, direct-drive and software-defined motion, and now AI-native robot platforms (including humanoids) that could re-draw which layer of the stack captures value. That is precisely the shift Dash 35's physical-AI programme, and its strategic-investment envelope for external AI technology, is designed to defend against. Two sensitivities follow for the equity: first, China is both a top-three revenue location (23.4% of H1 FY2/27 revenue, briefing materials) and the most contested market; second, the demand now driving orders — data centres and semiconductors — is concentrated, capex-lumpy AI investment, and order intake by segment, published quarterly in briefing materials, is the earliest observable if it pauses. Sources: company tanshin and briefing materials, October 2026; GMI and other third-party estimates as cited and dated in the text.
 
-**Figure: Yaskawa in the industrial-robot value chain**
-
-**Raw Materials**
-
-- Steel, castings, aluminium, copper
-- Rare-earth magnets: Shin-Etsu, Proterial
-- China rare earths: Northern Rare Earth
-- Harness materials
-
-**Key Components**
-
-- Precision reducers: Nabtesco, HDS
-- Gear units: Sumitomo Heavy Industries
-- Servo motors: Yaskawa, Fanuc
-- Encoders, bearings: Tamagawa, THK
-
-**Yaskawa Electric Corporation (6506)**
-
-- Motion Control — AC servos, controllers, inverters (43.5% of FY2/26 sales)
-- Robotics — MOTOMAN industrial robots (45.6%)
-- System Engineering — plant & infrastructure systems (7.1%)
-- i³-Mechatronics — integrated servo + controller + robot solutions
-
-**Distribution & System Integration**
-
-- Direct sales, subsidiary SIs
-- SIs: Hirata, Daihen
-- Trading houses: Yamazen
-- Cell design, jigs, safety, start-up
-
-**End Customers & Service**
-
-- Automotive: Toyota, Tesla, BYD
-- Electronics, semiconductors: Foxconn, Samsung
-- Metal, machinery, food, logistics
-- Maintenance, rebuilds, remote monitoring
+**Figure 7. Yaskawa in the industrial-robot value chain**
 
 *Source: FIELDNOTES sector report §4 (industrial robots value chain); company segments from §3 of this report.*
 
@@ -245,47 +140,15 @@ Competition differs by segment. In Motion Control the rivals are Mitsubishi Elec
 
 Yaskawa's tanshin disclosure gives a complete business-segment history but no regional split: regional revenue appears only in the company's briefing (supplementary) materials. This chapter keeps the two sources separate and labelled, as the PL/segment sheet does (its regions block is intentionally empty — 'not disclosed in tanshin').
 
-**Figure: Yaskawa Electric Corporation — segment revenue, FY2/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Motion Control — revenue | 236053 |
-
-| Robotics — revenue | 247012 |
-
-| System Engineering — revenue | 38744 |
-
-| Other — revenue | 20311 |
+**Figure 8. Yaskawa Electric Corporation — segment revenue, FY2/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Yaskawa Electric Corporation — segment revenue by year**
+**Figure 9. Yaskawa Electric Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Yaskawa Electric Corporation — segment revenue mix, FY2/26**
-
-**Robotics**
-
-- ¥247,012mn
-- 45.6% of revenue
-
-**Motion Control**
-
-- ¥236,053mn
-- 43.5% of revenue
-
-**System Engineering**
-
-- ¥38,744mn
-- 7.1% of revenue
-
-**Other**
-
-- ¥20,311mn
-- 3.7% of revenue
+**Figure 10. Yaskawa Electric Corporation — segment revenue mix, FY2/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -293,7 +156,7 @@ Yaskawa's tanshin disclosure gives a complete business-segment history but no re
 
 Exhibit 2 gives the five-year history. Three facts organise it. First, profit concentration: in FY2/26 **Motion Control earned ¥24,384mn of the ¥51,779mn of segment profit before corporate adjustments (47%)**, Robotics ¥20,418mn (39%), System Engineering ¥4,989mn and Other ¥1,988mn, against a −¥4,472mn corporate/elimination adjustment to consolidated operating profit of ¥47,307mn. Second, divergent trajectories: Robotics revenue compounded through the downturn (+38% cumulatively FY2/22–26) while its margin fell every year after FY2/23; Motion Control revenue is still 9% below its FY2/24 peak but is the segment now inflecting — FY2/27 guidance implies revenue growth of 23.0% and profit growth of 61.5% for the segment. Third, the basis break: solar power conditioners moved from System Engineering to Motion Control from Q1 FY2/25 as part of the System Engineering reorganisation; the company restated prior-year comparisons in its own FY2/25 releases, while the sheet preserves each period as disclosed in its source documents with the change registered — readers comparing FY2/24 System Engineering revenue (¥55,455mn, old basis including solar) with FY2/25 (¥38,352mn, new basis) must not read the whole 30.8% fall as demand. H1 FY2/27 segment detail (external revenue / segment profit) was: Motion Control ¥137,286mn / ¥15,973mn (11.6% margin); Robotics ¥118,404mn / ¥5,974mn (5.0%); System Engineering ¥20,778mn / ¥3,480mn (16.8%); Other ¥9,128mn / ¥575mn; adjustment −¥3,944mn; consolidated operating profit ¥22,058mn (Q2 FY2/27 tanshin segment note). Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY2/27 tanshin.
 
-**Exhibit 2. Business segments — external revenue and segment profit (operating-profit basis)**
+**Figure 11. Exhibit 2. Business segments — external revenue and segment profit (operating-profit basis)**
 
 | ¥mn | FY2/17 | FY2/18 | FY2/19 | FY2/20 | FY2/21 | FY2/22 | FY2/23 | FY2/24 | FY2/25 | FY2/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -354,6 +217,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
