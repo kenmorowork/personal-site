@@ -11,7 +11,7 @@ lang: en
 
 Initiation: scale, breadth and balance sheet — against a five-year margin slide Amada is Japan's most comprehensive metalworking machinery maker: fibre-laser cutting, press brakes, turret punch presses, precision welding, cutting and grinding machines, presses and — since 2025 — PCB drilling machines, sold in more than 100 countries from a fortress balance sheet (owners' equity ratio 69.4% at end-FY3/26; company results via PL/segment sheet, tanshin, JPX archive). Strengths are structural: the widest product portfolio among global peers, a direct sales and service network with the Amada School and solution centres that lock in a large installed base, full order-intake and backlog disclosure by department that few machinery peers match, and a step-change in capital returns under the Medium-term Business Plan 2030 (over ¥250bn of returns over five years; company release, 14 May 2026). The weakness is equally clear in the numbers: revenue rose from ¥312.7bn in FY3/22 to a record ¥437.4bn in FY3/26, yet **operating profit fell from a ¥56.5bn peak in FY3/24 to ¥44.8bn and the operating margin compressed from 14.0% to 10.2%** over the same two years, as costs, scope changes and a loss-making new electronics business absorbed the growth. H1 FY3/27 (sales ¥230.4bn, +25.0% YoY; operating profit ¥28.0bn, +91.6% YoY; Q2 FY3/27 tanshin, 12 Nov 2026) and the upward guidance revision to ¥490.0bn / ¥58.0bn mark the first hard evidence of repair — the question this initiation frames is whether the new five-business-unit structure can convert **record orders (FY3/26 intake ¥457.0bn; backlog ¥211.4bn, +56.7% YoY)** into the FY2030 targets of ¥520bn sales, ¥73bn operating profit and ROE of 10% or more.
 
-**Figure 1. Key indicators and financial history (¥mn, except per-share and %)**
+**Figure 1. Figure 1. Key indicators and financial history (¥mn, except per-share and %)**
 
 |  | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ Initiation: scale, breadth and balance sheet — against a five-year margin slid
 *Source: Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26; FY3/27E is company guidance (Q2 FY3/27 tanshin, 12 Nov 2026) History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥680.5bn |
@@ -44,6 +45,7 @@ Initiation: scale, breadth and balance sheet — against a five-year margin slid
 | Next event | Q3 FY3/27 results |
 
 ## Key points
+
 - **Record top line, fading margin.** FY3/26 revenue of ¥437,372mn was a record (+10.3% YoY), but **operating profit fell for a second year to ¥44,798mn (margin 10.2%, vs 14.0% in FY3/24)** and net income to owners fell 5.7% to ¥30,554mn (EPS ¥96.7). Gross margin dropped 2.9pt to 40.6% in FY3/26. Source: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26.
 - **Orders are the differentiator.** Amada discloses order intake and period-end backlog by department in every tanshin. FY3/26 intake was ¥456,993mn (book-to-bill 1.04x) and **backlog closed at ¥211,433mn, +56.7% YoY**, after H&F (presses, consolidated May 2025) and Via Mechanics (PCB drilling, July 2025) entered the scope. By end-H1 FY3/27 backlog had risen further to ¥333,366mn on the new business-unit basis. Source: orders note (受注及び販売の状況) in FY3/26 and Q2 FY3/27 tanshin.
 - **H1 FY3/27 inflects — with a caveat.** H1 FY3/27 sales rose 25.0% YoY to ¥230,406mn and **operating profit 91.6% to ¥28,023mn (margin 12.2%)**, helped by AI/data-centre demand, US tariff refunds, price pass-through and a weak yen (company commentary, Q2 FY3/27 tanshin, 12 Nov 2026). Full-year guidance was raised to sales ¥490,000mn / OP ¥58,000mn / net to owners ¥40,000mn (company guidance). The caveat: **the new Electronics Process BU (Via Mechanics) lost ¥3,588mn in H1** on ¥17,274mn of sales despite a ¥119,957mn backlog.
@@ -60,91 +62,19 @@ The KPI table on page 1 (Figure 1) summarises the record. Three features stand o
 
 Orders tell the forward story the P&L has not yet delivered: intake recovered to ¥456,993mn in FY3/26 (book-to-bill 1.04x) after two soft years, and backlog rebuilt to ¥211,433mn — the base from which the FY3/27 guidance (sales ¥490,000mn, company guidance) is built. Per-share data reflect steady buybacks: weighted shares fell from 347.7mn (FY3/22) to about 316mn (FY3/26), so EPS of ¥96.7 in FY3/26 fell less than net income. Amada has no dilutive securities; diluted EPS equals basic (company disclosure, all periods). Data not disclosed in the tanshin — R&D expenditure, period-end employees, unit volumes, capacity and utilisation — are left blank in the sheet and are not estimated here.
 
-**Figure: Amada Co., Ltd. — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY3/17 | 278840 |
-
-| FY3/18 | 300655 |
-
-| FY3/19 | 338175 |
-
-| FY3/20 | 320112 |
-
-| FY3/21 | 250448 |
-
-| FY3/22 | 312658 |
-
-| FY3/23 | 365687 |
-
-| FY3/24 | 403500 |
-
-| FY3/25 | 396670 |
-
-| FY3/26 | 437372 |
+**Figure 2. Amada Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Amada Co., Ltd. — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY3/17 | 33030 |
-
-| FY3/18 | 37965 |
-
-| FY3/19 | 45316 |
-
-| FY3/20 | 34682 |
-
-| FY3/21 | 26705 |
-
-| FY3/22 | 38538 |
-
-| FY3/23 | 49867 |
-
-| FY3/24 | 56507 |
-
-| FY3/25 | 49076 |
-
-| FY3/26 | 44798 |
+**Figure 3. Amada Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Amada Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 11.8 |
-
-| FY3/18 | 12.6 |
-
-| FY3/19 | 13.4 |
-
-| FY3/20 | 10.8 |
-
-| FY3/21 | 10.7 |
-
-| FY3/22 | 12.3 |
-
-| FY3/23 | 13.6 |
-
-| FY3/24 | 14 |
-
-| FY3/25 | 12.4 |
-
-| FY3/26 | 10.2 |
+**Figure 4. Amada Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Amada Co., Ltd. — revenue and operating margin**
+**Figure 5. Amada Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -196,50 +126,7 @@ The competitive set is global and tiered. TRUMPF (Germany, private) is the scale
 
 Upstream, Amada depends on laser components, CNC controls, servo systems and steel; downstream, its customers' capex is financed against end-demand in construction, autos and electronics, which is why orders (section 5) lead revenue by two to four quarters in this industry. Entry barriers are the installed base, service network and process know-how rather than patents alone — a new entrant can sell a laser cutter, but replicating Amada's response-time service across rural Japan, the US Midwest and provincial Europe is a decades-long project. That moat is real but not costless: it is carried in the SG&A line, which has grown from 30.2% of sales (FY3/22) to 30.7% (FY3/26) on the PL/segment sheet's figures, and is a central reason margin recovery requires volume, not just price.
 
-**Figure: Amada in the machine-tool value chain**
-
-**Materials & Machine Structures**
-
-- Castings: beds, columns
-- Structural steel
-- In-house: DMG Mori, Okuma
-- In-house: Yamazaki Mazak
-
-**Precision Components**
-
-- Ball screws, linear guides: THK
-- Spindles, bearings: NSK, JTEKT
-- Measurement: Renishaw, HEIDENHAIN
-- Taiwan: HIWIN
-
-**Control & Drive Systems**
-
-- CNC: Fanuc, Mitsubishi Electric, Siemens
-- Servo, spindle drives: Yaskawa
-- PLC, motion, safety control
-- Sensors, machine vision: Keyence, Omron
-
-**Amada Co., Ltd. (6113)**
-
-- Sheet Metal Solutions — laser, punch, bending
-- Joining Technologies — welding systems
-- Cutting Fabricator & Grinding Technologies
-- Advanced Forming Solutions — presses (H&F)
-- Electronics Process — PCB drilling (Via Mechanics)
-
-**Distribution, Integration & Service**
-
-- Trading houses: Yamazen
-- Automation cells, system integrators
-- CAD/CAM, monitoring software
-- Maintenance, retrofit, used machines
-
-**End Customers**
-
-- Automotive OEMs, Tier 1s
-- Semiconductor equipment makers
-- Aerospace & defence
-- AI data centres, medical, general machinery
+**Figure 6. Amada in the machine-tool value chain**
 
 *Source: FIELDNOTES sector report §4 (machine tools & FA value chain); company business units from §2 of this report.*
 
@@ -249,7 +136,7 @@ On the legacy basis disclosed through FY3/26, Amada had two reportable segments 
 
 Regions are disclosed annually by customer location (Figure 2, lower panel; no regional profit is disclosed). Japan remains the largest market but is shrinking as a share: ¥126,954mn (40.6% of sales) in FY3/22 to ¥156,078mn (35.7%) in FY3/26. North America is the growth engine — ¥72,709mn to ¥120,592mn over the same period (+65.9% cumulative), reaching 27.6% of sales. Europe grew to ¥84,688mn in FY3/24 then stalled (¥82,383mn in FY3/26). China troughed at ¥13,296mn in FY3/24 and recovered 47.5% to ¥20,875mn in FY3/26; Asia and others jumped 40.0% to ¥57,441mn in FY3/26, helped by Via Mechanics' Asian exposure. The structural read: more than 64% of sales are now overseas, so yen translation and US tariff policy are first-order P&L variables — H1 FY3/27 explicitly benefited from both yen weakness and US tariff refunds (company commentary).
 
-**Figure 2. Segment and regional sales and profit (¥mn) — legacy disclosure basis**
+**Figure 7. Figure 2. Segment and regional sales and profit (¥mn) — legacy disclosure basis**
 
 |  | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -269,7 +156,7 @@ Regions are disclosed annually by customer location (Figure 2, lower panel; no r
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive). Segment profit = operating profit (company definition); regional profit not disclosed. Other sales/profit include Via Mechanics from Jul 2025 History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Figure 2A. Regional sales — J-GAAP basis (Asia includes China)**
+**Figure 8. Figure 2A. Regional sales — J-GAAP basis (Asia includes China)**
 
 |  | FY3/17 | FY3/18 |
 |---|---|---|
@@ -281,75 +168,15 @@ Regions are disclosed annually by customer location (Figure 2, lower panel; no r
 
 *Source: Company tanshin (J-GAAP) via PL/segment sheet History block. On this basis Asia includes China; it is not restated into the IFRS regional presentation in Figure 2.*
 
-**Figure: Amada Co., Ltd. — segment revenue, FY3/26**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| Metalworking machinery — sales | 326485 |
-
-| Metal-cutting machinery — sales | 88345 |
-
-| Other — sales | 22541 |
-
-| Japan — sales | 156078 |
-
-| North America — sales | 120592 |
-
-| Europe — sales | 82383 |
-
-| China — sales | 20875 |
-
-| Asia & others — sales | 57441 |
+**Figure 9. Amada Co., Ltd. — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Amada Co., Ltd. — segment revenue by year**
+**Figure 10. Amada Co., Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Amada Co., Ltd. — segment revenue mix, FY3/26**
-
-**Metalworking machinery**
-
-- ¥326,485mn
-- 37.3% of revenue
-
-**Japan**
-
-- ¥156,078mn
-- 17.8% of revenue
-
-**North America**
-
-- ¥120,592mn
-- 13.8% of revenue
-
-**Metal-cutting machinery**
-
-- ¥88,345mn
-- 10.1% of revenue
-
-**Europe**
-
-- ¥82,383mn
-- 9.4% of revenue
-
-**Asia & others**
-
-- ¥57,441mn
-- 6.6% of revenue
-
-**Other**
-
-- ¥22,541mn
-- 2.6% of revenue
-
-**China**
-
-- ¥20,875mn
-- 2.4% of revenue
+**Figure 11. Amada Co., Ltd. — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -359,7 +186,7 @@ Amada's orders note (受注及び販売の状況), published in every tanshin, i
 
 On the new BU basis, H1 FY3/27 intake totalled ¥353,703mn and **backlog reached ¥333,366mn at end-September 2026** (Q2 FY3/27 tanshin, orders note): Sheet Metal Solutions ¥180,453mn / ¥137,882mn; Joining Technologies ¥21,788mn / ¥16,400mn; Cutting Fabricator & Grinding ¥25,812mn / ¥12,789mn; Advanced Forming ¥26,111mn / ¥46,335mn; Electronics Process ¥98,954mn / ¥119,957mn. Electronics Process alone took orders equal to 28.0% of the group total in H1 — the AI package-substrate cycle arriving in Amada's P&L through an acquisition. Backlog cover for the group is roughly eight months of sales at the FY3/27 guidance run-rate, concentrated in exactly the two BUs (Electronics Process, Advanced Forming) with the least disclosure history. Monitoring these two backlog lines, and Electronics Process's margin, is the highest-frequency check on the investment case this initiation can offer.
 
-**Figure 3. Order intake and period-end backlog by department (¥mn) — legacy department basis**
+**Figure 12. Figure 3. Order intake and period-end backlog by department (¥mn) — legacy department basis**
 
 |  | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -419,6 +246,6 @@ Conventions. "FY3/26" means the fiscal year ended 31 March 2026; company guidanc
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
