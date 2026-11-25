@@ -11,7 +11,7 @@ lang: en
 
 An SMT mounter pure-play at a demand inflection: FUJI Corporation (6134, TSE Prime / NSE Premier) is one of the world's leading suppliers of surface-mount technology (SMT) electronic-component placement machines — the 'mounters' that populate printed circuit boards — sold under the Robot Solution segment (93.4% of FY3/26 revenue), alongside a small, currently loss-making Machine Tool segment that is the company's original business. The initiation case rests on the scale and speed of the current upcycle: **FY3/26 revenue rose 41.8% YoY to a record ¥180,642mn** and order intake reached ¥207,429mn, and in H1 FY3/27 (April–September 2026) revenue rose a further 60.7% YoY to ¥127,838mn with operating profit up 250.6% to ¥33,631mn, driven by AI-server and semiconductor-related demand in Asia and North America. Full-year FY3/27 company guidance is **revenue of ¥254,000mn and operating profit of ¥65,500mn — figures that already exceed, by a wide margin, the final-year targets of Midterm Business Plan 2026** (revenue ¥180,000mn, operating profit ¥33,000mn). Strengths: (1) purity and position — Robot Solution earned a 19.9% segment margin in FY3/26 and FUJI competes in the top tier of global placement equipment with its modular NXTR platform and flexible AIMEX series; (2) a debt-free, cash-rich balance sheet (no interest-bearing debt recorded in any of FY3/22–FY3/26; equity ratio 83.5% at end-March 2026; cash and equivalents ¥53,159mn) that funds a shareholder-return policy of a ¥80 dividend floor and a payout ratio of 50% or more, plus a ¥10.0bn buyback executed in November 2026; (3) order disclosure in every tanshin — total and per-segment intake and period-end backlog — which makes the cycle unusually visible. Weaknesses: (1) extreme cyclicality and concentration — revenue fell 17.1% in FY3/24 when China demand rolled over, China alone was 47.7% of revenue in FY3/22, and Asia ex-China jumped to 42.7% in FY3/26 on the Thailand-centred AI-server build-out, so the mix can swing violently by region and by end-market; (2) earnings quality below the operating line in FY3/26 — extraordinary losses of ¥9,960mn against extraordinary income of ¥3,310mn cut profit before tax to ¥24,641mn, well below ordinary profit of ¥31,291mn, so net income to parent rose only to ¥15,733mn despite record operating profit; (3) the Machine Tool segment has been loss-making in four of the last five years and shrank further in H1 FY3/27 (sales −45.3% YoY), and group operating cash flow fell to ¥9,181mn in FY3/26 as receivables and inventory absorbed the growth. All historical figures are as reported by the company (J-GAAP) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -30,6 +30,7 @@ An SMT mounter pure-play at a demand inflection: FUJI Corporation (6134, TSE Pri
 *Source: Company results via PL/segment sheet (tanshin, JPX archive); FY3/27E = company guidance (Q2 FY3/27 tanshin, 5 Nov 2026). EPS as calculated in the sheet from reported net income and weighted shares. Dividend FY3/26 ¥90 = interim ¥40 + year-end ¥50 (Q2 FY3/27 tanshin); FY3/27E ¥190 = company forecast. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥448.2bn |
@@ -40,6 +41,7 @@ An SMT mounter pure-play at a demand inflection: FUJI Corporation (6134, TSE Pri
 | Next event | Q3 FY3/27 results, 10 Feb 2027 |
 
 ## Key points
+
 - **Record H1, guidance at record levels.** H1 FY3/27 revenue was ¥127,838mn (+60.7% YoY), **operating profit ¥33,631mn (+250.6%)**, ordinary profit ¥34,374mn and net income to parent ¥25,708mn (+186.0%); H1 order intake was ¥143,177mn (+65.0% YoY, company earnings materials via Quartr summary, 5 November 2026). Full-year FY3/27 company guidance — revenue ¥254,000mn (+40.6%), operating profit ¥65,500mn (+123.7%), ordinary profit ¥66,200mn, net income to parent ¥48,200mn, EPS ¥548.25 — implies H2 revenue of ¥126,162mn and operating profit of ¥31,869mn still to deliver. Source: Q2 FY3/27 tanshin, 5 November 2026; company earnings summary (fuji.co.jp), accessed November 2026.
 - **One segment carries the group.** **Robot Solution (SMT mounters) was ¥168,737mn of FY3/26 revenue (93.4%) with segment profit of ¥33,623mn (19.9% margin)**; Machine Tool lost ¥107mn on ¥9,705mn of sales and Other earned ¥85mn on ¥2,199mn, before ¥4,319mn of corporate costs and eliminations reconciled to consolidated operating profit of ¥29,282mn. In H1 FY3/27 Robot Solution sales rose 68.1% YoY to ¥123,535mn and segment operating profit rose 211.0% to ¥36,067mn, while Machine Tool sales fell 45.3% to ¥2,848mn with a ¥136mn operating loss. Source: company results via PL/segment sheet (tanshin, JPX archive); company earnings summary, November 2026.
 - **Strength — balance sheet and returns.** **FUJI recorded zero interest-bearing debt at every year-end from FY3/22 to FY3/26**, held cash and equivalents of ¥53,159mn at March 2026, and reported an equity ratio of 83.5%. The return policy under Midterm Business Plan 2026 is an annual dividend of at least ¥80 per share and a payout ratio of 50% or more: the FY3/27 dividend forecast is ¥190 per share (interim ¥95, year-end ¥95), and on 5–6 November 2026 the company repurchased 1,921,500 shares for ¥9,999mn via ToSTNeT-3 at ¥5,204 per share (2.18% of shares outstanding ex-treasury), with cancellation scheduled for 14 December 2026. Source: PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin dividend section, 5 November 2026; company buyback notices via Japan IR / TipRanks, November 2026.
@@ -58,91 +60,19 @@ Below the operating line, FY3/26 is the year that needs care: ordinary profit wa
 
 The balance sheet is exceptionally conservative. The sheet records zero interest-bearing debt at every year-end FY3/22–FY3/26; cash and equivalents were ¥53,159mn at 31 March 2026 (FY3/22: ¥59,538mn); total assets were ¥278,356mn and net assets ¥232,454mn at March 2026, an equity ratio of 83.5% (company earnings summary). The cost of growth shows in working capital: receivables rose from ¥34,798mn (FY3/25) to ¥65,341mn (FY3/26) and inventory from ¥53,190mn to ¥64,103mn (6.1 months of cost of sales on the sheet's calculation, improved from 8.1 months in FY3/25), and operating cash flow fell to ¥9,181mn in FY3/26 from ¥23,413mn in FY3/25 and ¥30,187mn in FY3/24. Orders frame the cycle: total intake was ¥163,473mn in FY3/22, ¥142,429mn in FY3/23, ¥116,209mn in FY3/24, ¥123,888mn in FY3/25 and ¥207,429mn in FY3/26 (book-to-bill 1.15x); the period-end backlog was ¥63,592mn, ¥52,695mn, ¥41,845mn, ¥38,346mn and ¥65,133mn respectively. The full KPI table, including FY3/27 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26; company earnings summary (fuji.co.jp) for total assets, net assets and equity ratio.
 
-**Figure: FUJI Corporation — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 86397 |
-
-| FY3/18 | 120032 |
-
-| FY3/19 | 129104 |
-
-| FY3/20 | 140967 |
-
-| FY3/21 | 136161 |
-
-| FY3/22 | 148128 |
-
-| FY3/23 | 153326 |
-
-| FY3/24 | 127059 |
-
-| FY3/25 | 127387 |
-
-| FY3/26 | 180642 |
+**Figure 2. FUJI Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: FUJI Corporation — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 9794 |
-
-| FY3/18 | 22827 |
-
-| FY3/19 | 23106 |
-
-| FY3/20 | 19571 |
-
-| FY3/21 | 21904 |
-
-| FY3/22 | 28472 |
-
-| FY3/23 | 27108 |
-
-| FY3/24 | 13421 |
-
-| FY3/25 | 13781 |
-
-| FY3/26 | 29282 |
+**Figure 3. FUJI Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: FUJI Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 11.3 |
-
-| FY3/18 | 19 |
-
-| FY3/19 | 17.9 |
-
-| FY3/20 | 13.9 |
-
-| FY3/21 | 16.1 |
-
-| FY3/22 | 19.2 |
-
-| FY3/23 | 17.7 |
-
-| FY3/24 | 10.6 |
-
-| FY3/25 | 10.8 |
-
-| FY3/26 | 16.2 |
+**Figure 4. FUJI Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: FUJI Corporation — revenue and operating margin**
+**Figure 5. FUJI Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -186,43 +116,7 @@ Competition is concentrated at the quality end. The global top tier in placement
 
 For FUJI specifically, three sensitivities follow from its own disclosure. First, regional concentration: in FY3/26 **Asia ex-China was 42.7% of revenue and China 27.4% — over 70% of revenue in greater Asia** — and the FY3/22 print (China 47.7% of revenue) shows how a single market's capex pause transmits: group revenue fell 17.1% in FY3/24. Second, end-market concentration: the current wave is AI-server/semiconductor capex, a concentrated, policy- and hyperscaler-budget-sensitive demand pool; order intake by segment, published every quarter, will show any turn first (Robot Solution intake was ¥197,151mn of the ¥207,429mn FY3/26 total). Third, the mid-range price tier: FUJI's premium positioning is defensible in AI-server lines but exposed in cost-sensitive consumer and automotive volume, where Machine Tool's automotive weakness in H1 FY3/27 is a reminder of where the soft demand currently sits. Sources: company results via PL/segment sheet (tanshin, JPX archive); company earnings summary, November 2026; third-party market and competitor compilations via web search, November 2026 (flagged as estimates in the text).
 
-**Figure: FUJI in the SMT / electronics-assembly value chain**
-
-**Components & Materials**
-
-- ICs, passives, connectors
-- PCBs & substrates
-- Solder paste, adhesives
-
-**SMT Line Equipment**
-
-- Screen printers
-- Reflow ovens
-- Inspection systems (SPI / AOI)
-
-**FUJI Corporation (6134)**
-
-- Robot Solution — SMT mounters (NXTR / AIMEX), 93.4% of FY3/26 revenue
-- FUJI Smart Factory — feeders, material supply, line software
-- Machine Tool — lathes (legacy business)
-
-**Board Assembly — EMS & In-house Plants**
-
-- AI-server & communications boards
-- Automotive electronics
-- Industrial controls
-
-**End Products & OEMs**
-
-- AI data centres & servers
-- Consumer electronics OEMs
-- Automotive OEMs
-
-**Service & Lifecycle**
-
-- Parts, feeders, nozzles
-- Maintenance & software updates
-- Line reconfiguration
+**Figure 6. FUJI in the SMT / electronics-assembly value chain**
 
 *Source: FIELDNOTES sector reports §4 (electronics-assembly value chain) and §4 of this report; company segments from §5 of this report.*
 
@@ -230,44 +124,19 @@ For FUJI specifically, three sensitivities follow from its own disclosure. First
 
 FUJI's disclosure gives three cuts in every tanshin: business segments with segment profit (operating-profit basis), a customer-location revenue decomposition, and an orders note with intake and period-end backlog by segment. All three are reproduced from the PL/segment sheet in this chapter.
 
-**Figure: FUJI Corporation — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Robot Solution — sales | 168737 |
-
-| Machine Tool — sales | 9705 |
-
-| Other — sales | 2199 |
+**Figure 7. FUJI Corporation — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: FUJI Corporation — segment revenue by year**
+**Figure 8. FUJI Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: FUJI Corporation — segment revenue mix, FY3/26**
-
-**Robot Solution**
-
-- ¥168,737mn
-- 93.4% of revenue
-
-**Machine Tool**
-
-- ¥9,705mn
-- 5.4% of revenue
-
-**Other**
-
-- ¥2,199mn
-- 1.2% of revenue
+**Figure 9. FUJI Corporation — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: FUJI Corporation — regional revenue by year**
+**Figure 10. FUJI Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -277,7 +146,7 @@ Reportable segments are Robot Solution and Machine Tool; the segment note's 'Oth
 
 The pattern is a single-engine group. Robot Solution's margin troughed at 14.3% in FY3/25 — still comfortably profitable at the bottom of the mounter cycle, which is the strongest evidence of the franchise's through-cycle quality — and **recovered to 19.9% in FY3/26 and 29.2% in H1 FY3/27** (¥36,067mn on ¥123,535mn, calculated from the company earnings summary). Machine Tool, by contrast, has no through-cycle profitability to point to: cumulative segment result over FY3/22–26 is −¥2,649mn on cumulative sales of ¥49,720mn (calculated from the sheet). Corporate costs of roughly ¥3.2–4.3bn a year are the other fixed drag readers should carry in any segment-sum valuation. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note (register S3); H1 FY3/27 from company earnings summary (fuji.co.jp).
 
-**Exhibit 2. Business segments — sales and segment profit (operating profit)**
+**Figure 11. Exhibit 2. Business segments — sales and segment profit (operating profit)**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -298,7 +167,7 @@ Regional sales are a revenue decomposition by customer location; no regional pro
 
 Orders (¥mn): total intake was ¥163,473mn / ¥142,429mn / ¥116,209mn / ¥123,888mn / ¥207,429mn in FY3/22–26, and the period-end backlog ¥63,592mn / ¥52,695mn / ¥41,845mn / ¥38,346mn / ¥65,133mn. By segment, FY3/26 intake was Robot Solution ¥197,151mn, Machine Tool ¥8,023mn and Other ¥2,255mn; the FY3/26 year-end backlog was Robot Solution ¥61,660mn, Machine Tool ¥3,143mn and Other ¥329mn (Exhibit 3). The FY3/26 book-to-bill of 1.15x and the H1 FY3/27 intake of ¥143,177mn (+65.0% YoY) against a full-year company order forecast of ¥259,500mn define the near-term visibility: the backlog at September 2026 is derived at roughly ¥80,500mn (Chapter 2), about 64% of the implied H2 revenue. The symmetrical watch item is in the same table — intake fell 29% from FY3/22 to FY3/24 as China rolled over, and Robot Solution is 95% of intake, so there is no second engine to cushion a placement downturn. Source: company results via PL/segment sheet (tanshin, JPX archive), revenue decomposition note and orders note (registers S4–S5); H1 FY3/27 intake and full-year order forecast from company earnings presentation via Quartr summary, 5 November 2026.
 
-**Exhibit 3. Regional sales (customer location, unified 5-slot mapping) and orders by segment**
+**Figure 12. Exhibit 3. Regional sales (customer location, unified 5-slot mapping) and orders by segment**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -318,7 +187,7 @@ Orders (¥mn): total intake was ¥163,473mn / ¥142,429mn / ¥116,209mn / ¥123,
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive), revenue decomposition note and orders note. Regional presentation changed at the FY3/25 annual tanshin (Thailand broken out, North America combined); the unified mapping sums exactly in both formats (register S5). FY3/27E order intake ¥259,500mn = company forecast (earnings presentation via Quartr summary, 5 Nov 2026). History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported). Order and backlog totals for the added years were not carried in the sheet and are shown as not disclosed.*
 
-**Exhibit 3A. Regional sales — as disclosed in those years (era seven-region format)**
+**Figure 13. Exhibit 3A. Regional sales — as disclosed in those years (era seven-region format)**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 |
 |---|---|---|---|---|---|
@@ -371,6 +240,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
