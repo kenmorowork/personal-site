@@ -11,7 +11,7 @@ lang: ja
 
 The Swiss-type lathe specialist, earning record profit in China. Tsugami Corporation (6101, TSE Prime) is a precision machine-tool builder centred on CNC precision automatic lathes — sliding-headstock, or Swiss-type, lathes that turn small, slender, high-tolerance parts — supplemented by grinding machines, machining centres, thread-rolling and special-purpose machines. Revenue rose 20.2% YoY to ¥129,140mn in FY3/26 and **operating profit rose 54.9% to ¥36,102mn (28.0% margin)**, both records, and the company raised FY3/27 company guidance at Q2 (12 November 2026) to revenue ¥160,000mn and operating profit ¥48,000mn (Company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin, 12 November 2026). Strengths: a dominant, locally manufactured position in China — the China entity-location segment delivered ¥103,476mn of sales (80.1% of consolidated) at a 30.1% segment margin in FY3/26 and is anchored by Hong Kong-listed Precision Tsugami (China) Corporation Limited (HKEX: 1651), in which Tsugami held about 65.9% at 31 March 2026 — a balance sheet with ¥42,180mn of cash against ¥9,010mn of borrowings at end-FY3/26, and a dividend raised every year in the sheet period (¥40 in FY3/22 to ¥85 in FY3/26, ¥122 forecast for FY3/27). Weaknesses: extreme geographic concentration — **79.9% of FY3/26 sales were to customers in China** — a large non-controlling interest that absorbed ¥7,573mn (31.1%) of FY3/26 net income, a loss-making or near-breakeven record in Japan, India and Korea in several recent years, and disclosure that omits orders, backlog, R&D and unit volumes in the tanshin, limiting visibility. No rating or price target is assigned in this initiation; both are under review (see Basis of preparation).
 
-**Figure 1. Key indicators and financial history (¥mn unless per share; FY = year ended 31 March)**
+**Figure 1. Figure 1. Key indicators and financial history (¥mn unless per share; FY = year ended 31 March)**
 
 | Indicator | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E co. guidance |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -36,6 +36,7 @@ The Swiss-type lathe specialist, earning record profit in China. Tsugami Corpora
 *Source: Company results via PL/segment sheet (tanshin, JPX archive); per-share, dividend and balance-sheet lines from tanshin front pages (FY3/22: 12 May 2022; FY3/23: 11 May 2023; FY3/24: 14 May 2024; FY3/25: 13 May 2025; FY3/26: 13 May 2026). FY3/27E is company guidance only (revised 12 Nov 2026) — not a J-Core Fundamental Research forecast. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥161.0bn |
@@ -46,6 +47,7 @@ The Swiss-type lathe specialist, earning record profit in China. Tsugami Corpora
 | Next event | Q3 FY3/27 results — late Jan 2027 (Finnhub lists 28 Jan 2027) |
 
 ## Key points
+
 - **Record FY3/26, guidance raised again.** FY3/26 revenue ¥129,140mn (+20.2% YoY), operating profit ¥36,102mn (+54.9%), net income attributable to owners ¥16,745mn (+53.6%) and basic EPS ¥361.20. H1 FY3/27 revenue was ¥81,207mn (+35.2% YoY) and **operating profit ¥25,220mn (+65.8%)**, described by the company as all-time highs for a half year, and full-year company guidance was raised on 12 November 2026 to revenue ¥160,000mn / operating profit ¥48,000mn / owners' net income ¥22,500mn from ¥145,000mn / ¥36,500mn / ¥17,000mn initially (Company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin, 12 November 2026).
 - **China is the business.** On an entity-location basis the China segment was **¥103,476mn of sales and ¥31,155mn of segment profit in FY3/26 (30.1% margin)**, versus Japan at ¥16,439mn and ¥2,328mn. On a customer-location basis China took ¥103,185mn (79.9%) of sales. Automatic lathes were ¥108,621mn (84.1%) of product-line revenue (Company results via PL/segment sheet (tanshin, JPX archive), FY3/26).
 - **India is the second engine, still small.** **India segment sales rose 46.0% to ¥6,819mn** in FY3/26 and segment profit turned positive at ¥347mn (5.1% margin) after a ¥310mn loss in FY3/25. The new Chennai (Oragadam) machining/assembly plant and foundry — inaugurated in December 2025, about ¥3.6bn / Rs300 crore invested, 3,000 machines a year of assembly capacity and 6,000 tonnes a year of foundry capacity — is the capacity behind the ramp (company integrated-report material and press reports, December 2025; segment data via PL/segment sheet).
@@ -66,91 +68,19 @@ Cash conversion was strong in FY3/26: operating cash flow of ¥28,602mn (FY3/25:
 
 A structural point runs through every year: non-controlling interests are large because the China business is separately listed. Non-controlling interests took ¥3,134mn of net income in FY3/22 and ¥7,573mn in FY3/26 — 31.1% of the FY3/26 total of ¥24,318mn. Consolidated operating profit therefore overstates the profit attributable to Tsugami shareholders by roughly one-third, and any per-share analysis must start from owners' net income (¥16,745mn in FY3/26), not from operating profit.
 
-**Figure: Tsugami Corporation — revenue by year**
-
-| Item | Value (Indicator) |
-
-|---|---|
-
-| FY3/17 | 41050 |
-
-| FY3/18 | 57576 |
-
-| FY3/19 | 68486 |
-
-| FY3/20 | 49310 |
-
-| FY3/21 | 61662 |
-
-| FY3/22 | 93174 |
-
-| FY3/23 | 94963 |
-
-| FY3/24 | 83928 |
-
-| FY3/25 | 107411 |
-
-| FY3/26 | 129140 |
+**Figure 2. Tsugami Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Tsugami Corporation — operating profit by year**
-
-| Item | Value (Indicator) |
-
-|---|---|
-
-| FY3/17 | 3083 |
-
-| FY3/18 | 6942 |
-
-| FY3/19 | 10215 |
-
-| FY3/20 | 4549 |
-
-| FY3/21 | 9533 |
-
-| FY3/22 | 18860 |
-
-| FY3/23 | 16758 |
-
-| FY3/24 | 13095 |
-
-| FY3/25 | 23309 |
-
-| FY3/26 | 36102 |
+**Figure 3. Tsugami Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Tsugami Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 7.5 |
-
-| FY3/18 | 12.1 |
-
-| FY3/19 | 14.9 |
-
-| FY3/20 | 9.2 |
-
-| FY3/21 | 15.5 |
-
-| FY3/22 | 20.2 |
-
-| FY3/23 | 17.6 |
-
-| FY3/24 | 15.6 |
-
-| FY3/25 | 21.7 |
-
-| FY3/26 | 28 |
+**Figure 4. Tsugami Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Tsugami Corporation — revenue and operating margin**
+**Figure 5. Tsugami Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -192,49 +122,7 @@ Within machine tools, Swiss-type lathes are a niche defined by small-part precis
 
 Value chain: upstream, Tsugami buys castings (increasingly cast in its own foundries in China and, since April 2024, India), CNC controllers, spindles, ball screws, linear guides and bearings — components that industry executives flagged in October 2026 as in tight supply across the sector. Midstream, value is in machining accuracy, thermal stability, software and the installed application know-how for small-part turning. Downstream, machines are sold through subsidiaries and distributors (in India, the Proteck Machinery joint-venture partner) to component manufacturers, with parts and service a small but recurring tail (within the ¥6,127mn 'other' product line in FY3/26). The margin structure shows where the value currently sits: the entity that manufactures and sells in China earns a 30.1% segment margin, while the Japanese mother operation earned 14.2% in its best recent year — scale, local cost and local mix in China, not the Japanese plant, drive group profit.
 
-**Figure: Tsugami in the cutting-machine-tool value chain**
-
-**Materials & Machine Structures**
-
-- Castings: beds, columns, tables
-- Structural steel, mineral casting
-- In-house: DMG Mori, Okuma
-- In-house: Makino, Yamazaki Mazak
-
-**Precision Components**
-
-- Ball screws, linear guides: THK
-- Spindles, bearings: NSK, JTEKT
-- Measurement: Renishaw, HEIDENHAIN
-- ATC, pallet mechanisms
-
-**Control & Drive Systems**
-
-- CNC: Fanuc, Mitsubishi Electric, Siemens
-- Okuma OSP in-house CNC
-- Servo motors & amplifiers
-- PLC, safety control, sensors
-
-**Tsugami Corporation (6101)**
-
-- Automatic lathes — Swiss-type sliding-headstock (84.1% of FY3/26 sales)
-- Grinding machines
-- Machining centres, thread-rolling & special-purpose machines
-- Production: Nagaoka (JP), Precision Tsugami China, Chennai (IN)
-
-**Peripherals, Distribution & Integration**
-
-- Cutting tools: OSG, Sandvik
-- Holders, workholding, coolant
-- Trading houses: Yamazen, Yuasa
-- Automation cells, CAD/CAM, service
-
-**End Customers**
-
-- Automotive: Toyota, BYD, Tesla
-- Semiconductor equipment makers
-- Aerospace: GE Aerospace, Rolls-Royce
-- Dies & moulds, medical, AI data centres
+**Figure 6. Tsugami in the cutting-machine-tool value chain**
 
 *Source: FIELDNOTES sector report §4 (cutting machine tools value chain); company product lines from §3 of this report.*
 
@@ -246,7 +134,7 @@ China dominates and is becoming more dominant: its share of consolidated sales r
 
 The customer-location view (Figure 3) tells the demand story more directly. China took ¥103,185mn (79.9%) of FY3/26 sales, up 28.2% YoY; Asia ex-China ¥12,223mn (9.5%); the USA ¥4,274mn (3.3%); Europe ¥2,819mn (2.2%); and Japan, derived as consolidated sales less reported overseas sales, ¥6,639mn (5.1%). In other words, 94.9% of revenue is overseas by customer location and four-fifths is a single country. That concentration is the central fact of the equity story in both directions: it explains the margin (China scale in small lathes) and it is the principal exposure — to Chinese capex cycles, to CNY translation, and to any localisation or trade friction affecting a Japanese-controlled, Hong Kong-listed manufacturer selling in China. Europe has shrunk steadily (¥3,388mn in FY3/22 to ¥2,819mn in FY3/26, with a ¥5,435mn peak in FY3/24) and the US has been flat at ¥4–6bn, so neither currently offsets China.
 
-**Figure 2. Reportable segments by entity location — sales / segment profit (¥mn). Segment profit = sales − cost of sales − SG&A (company definition)**
+**Figure 7. Figure 2. Reportable segments by entity location — sales / segment profit (¥mn). Segment profit = sales − cost of sales − SG&A (company definition)**
 
 | Segment | FY3/17 (J-GAAP) | FY3/18 (J-GAAP) | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -265,7 +153,7 @@ The customer-location view (Figure 3) tells the demand story more directly. Chin
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26. Adjustments reconcile total segment profit to operating profit. History columns (PL/segment sheet History block): FY3/17–FY3/18 as reported under J-GAAP, FY3/19–FY3/21 as reported under IFRS; the two bases are not restated into one another.*
 
-**Figure 3. Revenue by customer location (¥mn) and by product line (¥mn)**
+**Figure 8. Figure 3. Revenue by customer location (¥mn) and by product line (¥mn)**
 
 | Breakdown | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -282,7 +170,7 @@ The customer-location view (Figure 3) tells the demand story more directly. Chin
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26. Japan (customer location) derived as consolidated sales less reported overseas sales. Product-line profit not disclosed. Customer-location history is disclosed from FY3/20 on the IFRS basis (PL/segment sheet History block); FY3/17–FY3/19 customer-location sales were not disclosed on this basis — the J-GAAP overseas-sales basis for those years is in Figure 3A.*
 
-**Figure 3A. Overseas sales by region — J-GAAP overseas-sales basis (as reported in those years)**
+**Figure 9. Figure 3A. Overseas sales by region — J-GAAP overseas-sales basis (as reported in those years)**
 
 | ¥mn | FY3/17 | FY3/18 |
 |---|---|---|
@@ -293,54 +181,15 @@ The customer-location view (Figure 3) tells the demand story more directly. Chin
 
 *Source: Company tanshin (J-GAAP overseas-sales disclosure) via PL/segment sheet History block. Regional definitions differ from the IFRS customer-location basis in Figure 3 (Asia includes China); the two bases are not restated into one another. Japan is derived as consolidated sales less reported overseas sales, as in the sheet.*
 
-**Figure: Tsugami Corporation — segment revenue, FY3/26**
-
-| Item | Value (Indicator) |
-
-|---|---|
-
-| Japan — sales | 16439 |
-
-| China — sales | 103476 |
-
-| India — sales | 6819 |
-
-| Korea — sales | 1286 |
-
-| Other — sales | 1118 |
+**Figure 10. Tsugami Corporation — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Tsugami Corporation — segment revenue by year**
+**Figure 11. Tsugami Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Tsugami Corporation — segment revenue mix, FY3/26**
-
-**China**
-
-- 103,476 Segment
-- 80.1% of revenue
-
-**Japan**
-
-- 16,439 Segment
-- 12.7% of revenue
-
-**India**
-
-- 6,819 Segment
-- 5.3% of revenue
-
-**Korea**
-
-- 1,286 Segment
-- 1.0% of revenue
-
-**Other**
-
-- 1,118 Segment
-- 0.9% of revenue
+**Figure 12. Tsugami Corporation — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -384,6 +233,6 @@ Rating and target: the rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
