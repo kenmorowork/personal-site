@@ -3,6 +3,12 @@
   "editorReportId": 70,
   "lang": "en",
   "firmName": "J-Core Fundamental Research",
+  "brand": {
+    "lockupSrc": "/brand/jcore-lockup-light.svg",
+    "lockupDarkSrc": "/brand/jcore-lockup-dark.svg",
+    "markSrc": "/brand/jcore-mark-navy.svg",
+    "markDarkSrc": "/brand/jcore-mark-white.svg"
+  },
   "reportType": "Market Performance Review",
   "dateDisplay": "25 November 2026",
   "dateISO": "2026-11-25",
