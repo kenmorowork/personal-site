@@ -11,7 +11,7 @@ lang: en
 
 Housing cash flows, pipes that price, and a plastics arm compounding into the AI supply chain: Sekisui Chemical Co., Ltd. (4204, TSE Prime) is the Osaka-founded resin-processing group (established 1947) organised as three divisional companies plus a medical business: Housing (unit housing — Sekisui Heim — plus renovation and residential services), Urban Infrastructure & Environmental Products (UIEP; PVC and polyethylene pipe, pipe-rehabilitation, CPVC compounds, building materials and synthetic wood — renamed Environment & Lifeline in the company's own company-level presentation), High Performance Plastics (HPP; interlayer film for automotive and architectural glass, foamed polyolefin, tapes, LCD and semiconductor materials, medical-adjacent fine particles) and Medical (diagnostics reagents and pharmaceutical intermediates/APIs). The initiation question is durability: Sekisui has compounded sales to a fourth consecutive record in FY3/26 (¥1,309,281mn) while operating profit has gone sideways for a decade (¥96,476mn in FY3/17; ¥106,477mn in FY3/26), and **H1 FY3/27 then printed a record half — sales ¥701,706mn (+11.4% YoY), operating profit ¥60,439mn (+33.0%)** — strong enough for the company to raise full-year guidance on 30 October 2026 to sales of ¥1,491,000mn and operating profit of ¥123,000mn (company guidance). Strengths: (1) HPP, the profit engine — ¥59,325mn of segment profit in FY3/26 at a 13.1% margin, and ¥38,313mn in H1 FY3/27 (+35.1% YoY) on semiconductor-related and other non-LCD electronics demand, HUD interlayer film and aircraft materials; (2) demonstrated spread defence — in both UIEP and HPP the company passed raw-material inflation into prices fast enough in H1 FY3/27 to expand profit while competitors' customers were stockpiling ahead of supply risk; (3) a disclosure and balance-sheet package that is unusually complete for a J-GAAP reporter — a segment × region sales matrix in every tanshin, a 59.6% equity ratio at March 2026, and a formalised return policy under the new mid-term plan (payout ≥40%, DOE ≥3.5%, progressive dividend; FY3/27 forecast ¥82, the 17th consecutive annual increase). Weaknesses: (1) the raise is partly borrowed demand — management itself assumes an H2 payback from H1 pull-forward and stockpiling, and **the implied H2 operating profit of ¥62,561mn (calculated) is about ¥6.0bn below the original April H2 plan**, so the 'raise' is H1 capture, not a higher run-rate; (2) below-the-line noise is chronic — FY3/22 owners' net income fell to ¥37,067mn on ¥53,051mn of extraordinary losses, FY3/26 carried ¥27,140mn (including a ¥14,891mn impairment on the Kuji biorefinery plant), and H1 FY3/27 booked ¥7,747mn of stationary-battery (LB) defect and exit costs, which is precisely why net-income guidance was left unchanged at ¥76,000mn when operating guidance was raised; (3) Housing, still 41% of sales, is structurally shrinking at the unit level (H1 order volume 98% YoY) and is being defended with price, renovation, residential services and M&A rather than volume. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (J-GAAP, March year-end, ten annual years FY3/17–FY3/26); the only forward figures are company guidance and mid-term plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@ Housing cash flows, pipes that price, and a plastics arm compounding into the AI
 *Source: Company results via PL/segment sheet (tanshin, JPX archive): main window FY3/22–FY3/26 and supplementary history block FY3/17–FY3/21, each year as originally reported in its own tanshin (FY3/20 as originally reported — the FY3/21 tanshin's restated comparatives differ; see Basis of preparation). EPS is basic EPS as reported. ROE as reported in the tanshin headers. FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 30 Oct 2026 (initial guidance 28 Apr 2026: sales ¥1,408,400mn, operating profit ¥115,000mn, owners' net income ¥76,000mn, EPS ¥188.26).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥1.07tn |
@@ -39,6 +40,7 @@ Housing cash flows, pipes that price, and a plastics arm compounding into the AI
 | Next event | Q3 FY3/27 results, late Jan–early Feb 2027 |
 
 ## Key points
+
 - **H1 FY3/27: a record half, led by plastics.** For the six months to 30 September 2026 (J-GAAP), sales were ¥701,706mn (+11.4% YoY), operating profit ¥60,439mn (+33.0%; margin 8.6% vs 7.2%), ordinary income ¥61,418mn (+25.5%) and net income attributable to owners ¥34,791mn (+9.7%); sales, operating profit and ordinary income were all interim-period records, per the company. **HPP external sales rose 18.1% to ¥261,252mn and segment profit 35.1% to ¥38,313mn**; UIEP profit rose 63.2% to ¥13,157mn on spread maintenance and distributor stockpiling; Housing profit rose only 3.0% to ¥16,791mn as unit volumes fell. The half also absorbed ¥9,718mn of extraordinary losses, including ¥5,143mn of specific-product (stationary battery) exchange costs and ¥2,604mn of business-structure improvement costs for the LB exit. Source: Q2 FY3/27 tanshin, 30 October 2026.
 - **Guidance raised — but the H2 plan was cut to pay for it.** Full-year FY3/27 company guidance was raised on 30 October 2026 to sales ¥1,491,000mn (initial, 28 April 2026: ¥1,408,400mn), operating profit ¥123,000mn (initial ¥115,000mn, +7.0%), ordinary income ¥122,000mn (initial ¥114,000mn) and owners' net income unchanged at ¥76,000mn, with EPS of ¥188.17 (initial ¥188.26). At Q1 (31 July 2026) only the H1 forecast was revised (to sales ¥690,500mn / operating profit ¥48,000mn); the full-year forecast was expressly not revised. H1 delivered 47.1% of guided sales and 49.1% of guided operating profit, so **the guide implies H2 operating profit of ¥62,561mn (calculated) — about ¥6.0bn below the H2 implied by the April plan** — because the company assumes a payback from H1 demand pull-forward. The dividend forecast was raised ¥1 to ¥82 (interim ¥41). Source: Q2 FY3/27 tanshin revision table, 30 October 2026; guidance tracker cross-check; Q1 FY3/27 tanshin, 31 July 2026.
 - **Strength — HPP is a genuine AI-chain compounder inside a housing group.** HPP earned ¥42,351mn / ¥40,091mn / ¥50,931mn / ¥61,235mn / ¥59,325mn of segment profit across FY3/22–26 (margins 12.0% / 10.3% / 12.5% / 13.8% / 13.1%) on interlayer film (including HUD film, volumes above 130% YoY in H1 FY3/26 per the company Q&A record), foams, tapes and electronics materials; in H1 FY3/27 the company cites robust semiconductor-related demand in the non-LCD electronics field, smartphone-material shipments for new-model launches, and aircraft (Aerosec) growth. **HPP is 34.5% of FY3/26 external sales, and its ¥59,325mn of segment profit is equivalent to 55.7% of consolidated operating profit of ¥106,477mn** — the group's equity story is written in this segment. Source: company results via PL/segment sheet (tanshin, JPX archive); company-published Q&A summaries, 30 Oct 2025 and 30 Oct 2026 (transcript library).
@@ -55,91 +57,19 @@ Below ordinary income, extraordinary items decide the net result in most years. 
 
 The balance sheet never strained. Total assets grew from ¥943,640mn (FY3/17) to ¥1,427,933mn (FY3/26); net assets from ¥570,549mn to ¥881,125mn, of which owners' equity ¥851,190mn (equity ratio 59.6%; book value per share ¥2,108.44). Operating cash flow was ¥108,229mn / ¥82,272mn / ¥85,213mn / ¥92,647mn / ¥75,271mn / ¥105,023mn / ¥71,543mn / ¥106,632mn / ¥119,231mn / ¥78,301mn across the ten years — the FY3/26 dip reflects working-capital build and the year's investment pace (cash capex on the sheet's CF definition jumped to ¥100,781mn from ¥58,104mn, including perovskite-related spend), not margin failure. Interest-bearing debt on the sheet's definition (borrowings and bonds as presented) was ¥101,362mn at March 2026 against cash and equivalents of ¥92,444mn — effectively ungeared before the H1 FY3/27 borrowing described in Chapter 2. Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header and notes, 28 April 2026.
 
-**Figure: Sekisui Chemical Co., Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 1065776 |
-
-| FY3/18 | 1107429 |
-
-| FY3/19 | 1142713 |
-
-| FY3/20 | 1129254 |
-
-| FY3/21 | 1056560 |
-
-| FY3/22 | 1157945 |
-
-| FY3/23 | 1242521 |
-
-| FY3/24 | 1256538 |
-
-| FY3/25 | 1297754 |
-
-| FY3/26 | 1309281 |
+**Figure 2. Sekisui Chemical Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sekisui Chemical Co., Ltd. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 96476 |
-
-| FY3/18 | 99231 |
-
-| FY3/19 | 95686 |
-
-| FY3/20 | 87768 |
-
-| FY3/21 | 67300 |
-
-| FY3/22 | 88879 |
-
-| FY3/23 | 91666 |
-
-| FY3/24 | 94399 |
-
-| FY3/25 | 107951 |
-
-| FY3/26 | 106477 |
+**Figure 3. Sekisui Chemical Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sekisui Chemical Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 9.1 |
-
-| FY3/18 | 9 |
-
-| FY3/19 | 8.4 |
-
-| FY3/20 | 7.8 |
-
-| FY3/21 | 6.4 |
-
-| FY3/22 | 7.7 |
-
-| FY3/23 | 7.4 |
-
-| FY3/24 | 7.5 |
-
-| FY3/25 | 8.3 |
-
-| FY3/26 | 8.1 |
+**Figure 4. Sekisui Chemical Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sekisui Chemical Co., Ltd. — revenue and operating margin**
+**Figure 5. Sekisui Chemical Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -161,7 +91,7 @@ Full-year FY3/27 guidance, as revised in the Q2 release of 30 October 2026, is s
 
 The arithmetic the guide embeds deserves emphasis, because it is the crux of the FY3/27 debate. H1 actuals are 47.1% of guided sales and 49.1% of guided operating profit, implying H2 sales of ¥789,294mn and H2 operating profit of ¥62,561mn (calculated; the company's own H2 plan figures in the briefing materials are ¥789.3bn and ¥62.6bn). Against the April plan's implied H2 operating profit of ¥68,600mn (initial full-year ¥115,000mn less initial H1 guidance ¥46,400mn), the new H2 plan is about ¥6,000mn lower — **the entire ¥8,000mn full-year raise is H1 pull-forward capture, and management is explicitly guiding H2 profit down year-on-year in plan terms to absorb the payback**. Segment-level guidance is not disclosed in the tanshin and is not estimated here (未取得); nor does the tanshin state FX assumptions for the guide. The open questions the print leaves — the size of the pull-forward by segment, whether HPP's semiconductor demand is volume or stockpiling, what further below-the-line items H2 carries after the LB charges, and perovskite unit economics — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Exhibit 3 sets out the H1 segment actuals against the consolidated guidance. Source: Q2 FY3/27 tanshin (section 3 and revision table), 30 October 2026; FY3/26 tanshin (section 3), 28 April 2026; Q1 FY3/27 tanshin, 31 July 2026; guidance tracker cross-check, 17 November 2026.
 
-**Exhibit 3. H1 FY3/27 segment results vs prior-year half, and FY3/27 company guidance (consolidated)**
+**Figure 6. Exhibit 3. H1 FY3/27 segment results vs prior-year half, and FY3/27 company guidance (consolidated)**
 
 | ¥mn | H1 FY3/27 sales | H1 FY3/27 profit | H1 FY3/26 sales | H1 FY3/26 profit |
 |---|---|---|---|---|
@@ -206,49 +136,7 @@ Sekisui sits at the processing layer of the resin value chain: it buys petrochem
 
 Demand exposure divides cleanly by segment. Housing and UIEP are Japanese-cycle businesses — new housing starts, public infrastructure budgets and the replacement cycle for ageing water and sewer networks (the national priority sewer survey is a current, policy-driven demand source the company cites by name). HPP is a global-cycle business tied to vehicle production, display and semiconductor capex and aircraft build rates — which is why the group's growth and its volatility both now come from HPP. Medical is a healthcare-volume business with regulatory and reimbursement exposure in Japan, the US and China. No company-disclosed market-size or share figure for these categories is carried in the sources used here, and none is substituted; the verifiable demand evidence is the company's own segment disclosure and Q&A colour. The two sensitivities that follow for the equity: first, naphtha — the FY3/27 plan assumes roughly ¥14,000mn of raw-material cost increase at a naphtha price near ¥120,000/kl, to be covered by price pass-through (company Q&A record), so a faster crude move tests the spread mechanism again in H2; second, concentration of the current upswing — H1 FY3/27 growth leaned on pull-forward and stockpiling in exactly the product groups (tapes, foams, pipe materials) where raw-material content is high, so the H2 payback the company guides to is a demand-visibility question, not a margin question. Sources: Q2 FY3/27 tanshin; company Q&A summaries, 28 Apr 2026 and 31 Jul 2026 (transcript library); PL/segment sheet (tanshin, JPX archive).
 
-**Figure: Sekisui Chemical in the resin-processing value chain**
-
-**Raw Materials & Energy**
-
-- Air & electricity (gas feedstock)
-- Natural gas, naphtha
-- Iron ore & coking coal, copper concentrate
-- Helium sources, high-purity tungsten powder
-
-**Sekisui Chemical Co., Ltd. (4204)**
-
-- Housing — Sekisui Heim unit housing, renovation & residential services (40.9% of FY3/26 sales)
-- UIEP — PVC/PE pipe, pipe rehabilitation, CPVC compounds (17.2%)
-- HPP — interlayer film, foams, tapes, electronics materials (34.5% of sales; 55.7% of OP equivalent)
-- Medical — diagnostics reagents, pharmaceutical APIs (7.2%)
-
-**Equipment & Engineering**
-
-- ASU / HyCO plant EPC
-- Linde Engineering
-- Air Liquide, Air Products, Nippon Sanso equipment divisions
-- Chinese ASU makers — Hangyang
-
-**Supply Forms & Electronic Materials**
-
-- Onsite / pipeline supply (15–20 yr take-or-pay)
-- Bulk (merchant) & packaged cylinders
-- Specialty gases — SK Specialty, Kanto Denka, Central Glass
-- Electronic materials — JSR, TOK, Resonac, Fujifilm
-
-**Distribution & Integration**
-
-- Filling & tanker / cylinder logistics
-- Iwatani (distributor + machinery)
-- Air Water (domestic density + medical)
-- Dealer & agent networks
-
-**End Users, Service & Recycling**
-
-- Steel & chemical complexes
-- Semiconductor fabs — Samsung
-- Hospitals, food & beverage (CO2)
-- ASU operation contracts, scrap & copper recycling — JX Metals
+**Figure 7. Sekisui Chemical in the resin-processing value chain**
 
 *Source: FIELDNOTES sector report §4 (materials & industrial gases value chain); company segments from §3 of this report.*
 
@@ -256,96 +144,15 @@ Demand exposure divides cleanly by segment. Housing and UIEP are Japanese-cycle 
 
 Sekisui's tanshin disclosure is two distinct views, kept separate and labelled throughout this chapter. The divisional-company view: four reportable segments (Housing / UIEP / HPP / Medical) plus non-reportable Other, with external sales and operating-profit-basis segment profit. The regional view: sales only (regional profit is not disclosed on any basis — 未取得), and since FY3/22 it is published as a segment × region matrix in the segment note of every tanshin, annual and quarterly — a distinctive disclosure strength that lets the reader see, for example, that Housing is entirely domestic while HPP is majority-overseas. For FY3/17–FY3/21 the matrix does not exist: the era's regional disclosure is the related-information table of sales by customer location (Japan / United States / Europe / Asia / Other, with China inside Asia), entered in the sheet's history block on that basis and never spliced with the matrix basis.
 
-**Figure: Sekisui Chemical Co., Ltd. — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Housing — external sales | 535944 |
-
-| UIEP — external sales | 225061 |
-
-| High Performance Plastics — external sales | 451722 |
-
-| Medical — external sales | 93721 |
-
-| Other (non-reportable) — external sales | 2831 |
-
-| Japan — sales (matrix) | 891457 |
-
-| North America — sales (matrix) | 143737 |
-
-| Europe — sales (matrix) | 98633 |
-
-| China — sales (matrix) | 90732 |
-
-| Asia — sales (matrix) | 73926 |
-
-| Other regions — sales (matrix) | 10792 |
+**Figure 8. Sekisui Chemical Co., Ltd. — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Sekisui Chemical Co., Ltd. — segment revenue by year**
+**Figure 9. Sekisui Chemical Co., Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Sekisui Chemical Co., Ltd. — segment revenue mix, FY3/26**
-
-**Japan**
-
-- ¥891,457mn
-- 34.0% of revenue
-
-**Housing**
-
-- ¥535,944mn
-- 20.5% of revenue
-
-**High Performance Plastics**
-
-- ¥451,722mn
-- 17.3% of revenue
-
-**UIEP**
-
-- ¥225,061mn
-- 8.6% of revenue
-
-**North America**
-
-- ¥143,737mn
-- 5.5% of revenue
-
-**Europe**
-
-- ¥98,633mn
-- 3.8% of revenue
-
-**Medical**
-
-- ¥93,721mn
-- 3.6% of revenue
-
-**China**
-
-- ¥90,732mn
-- 3.5% of revenue
-
-**Asia**
-
-- ¥73,926mn
-- 2.8% of revenue
-
-**Other regions**
-
-- ¥10,792mn
-- 0.4% of revenue
-
-**Other (non-reportable)**
-
-- ¥2,831mn
-- 0.1% of revenue
+**Figure 10. Sekisui Chemical Co., Ltd. — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -355,7 +162,7 @@ Exhibit 2 gives the five-year main-window history on the basis disclosed in each
 
 The history block extends the segment view to FY3/17 on the era's own bases (three reportable segments plus Other in FY3/17–19; Medical split out from FY3/20, with FY3/19 not restated): Housing sales ¥484,668mn / ¥497,320mn / ¥506,614mn / ¥512,836mn / ¥485,124mn and profit ¥37,549mn / ¥37,935mn / ¥39,002mn / ¥37,792mn / ¥30,546mn; UIEP sales ¥227,180mn / ¥225,753mn / ¥226,112mn / ¥223,707mn / ¥192,069mn and profit ¥12,827mn / ¥14,791mn / ¥15,007mn / ¥15,480mn / ¥11,251mn; HPP sales ¥351,234mn / ¥378,676mn / ¥404,134mn / ¥315,294mn / ¥303,559mn and profit ¥54,537mn / ¥57,821mn / ¥54,478mn / ¥37,169mn / ¥28,935mn (the FY3/20–21 HPP figures include Medical, which was not yet separated, and the FY3/20 sales drop reflects the reclassification as well as COVID — the two effects are not separable from the tanshin and are not estimated); Medical, from FY3/20 only, sales ¥72,587mn / ¥72,341mn and profit ¥9,204mn / ¥7,010mn. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note and history block registers S3/S10–S11.
 
-**Exhibit 2. Divisional segments and regions — external sales and segment profit (operating-profit basis), FY3/22–FY3/26**
+**Figure 11. Exhibit 2. Divisional segments and regions — external sales and segment profit (operating-profit basis), FY3/22–FY3/26**
 
 | ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -429,6 +236,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
