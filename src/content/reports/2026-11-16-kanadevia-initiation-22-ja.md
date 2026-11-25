@@ -11,7 +11,7 @@ lang: ja
 
 Waste-to-energy scale, backlog visibility — and an execution record that keeps taxing both: Kanadevia Corporation (7004, TSE Prime; renamed from Hitachi Zosen in October 2024) is a plant-engineering group whose centre of gravity has moved decisively to the environment business: waste-to-energy (WtE) plants in Japan and, through Swiss subsidiary Kanadevia Inova, across Europe, the Middle East and beyond. The environment segment was ¥505,230mn of the record ¥645,222mn consolidated revenue in FY3/26 (78.3%), and Inova alone contributed ¥278.4bn — 55.1% of the segment — after compounding at a 25.6% CAGR from ¥111.7bn in FY3/22 (Shared Research report, 5 November 2026). The order book is the strongest part of the story: order intake reached ¥897.7bn in FY3/26, **the backlog stood at ¥2,284.7bn at March 2026 and ¥2,460.4bn at September 2026 — about 3.8x FY3/27 guided sales** — with roughly 64% of the March 2026 backlog in recurring operation & maintenance (O&M) work rather than one-off EPC (Shared Research, 5 November 2026). Strengths: (1) genuine global WtE leadership — a 59.9% share of EMEA WtE plant orders in 2021–25 on Shared Research's compilation, more than 1,500 facilities delivered in 44 countries and regions on the company's own count; (2) a business model shifting from EPC toward long-duration O&M, DBO and concession contracts (Japanese DBO operating terms now run into the 2050s), which lengthens revenue visibility; (3) an active portfolio clean-up — presses, vacuum valves and the solid-state battery business sold, marine engines deconsolidated, bridges to be exited — that is funding the pivot with disposal gains. Weaknesses: (1) profitability has not followed scale — FY3/26 operating profit halved to ¥12,192mn (−54.8% YoY, a 1.9% margin) on Inova technical problems and quality-misconduct costs, and [red]FY3/27 guidance was cut again at Q2 (operating profit ¥25,500mn → ¥23,000mn, 5 November 2026)[/red] on Inova order delays and extra project costs, with the Abu Dhabi WtE project running about three months late; (2) governance and quality are a live, costed issue, not a footnote — unqualified welding over 12 years and marine-engine data falsification over more than 20 years produced quality-misconduct special losses of ¥3,567mn in FY3/25 and ¥2,711mn in FY3/26; (3) the balance sheet is thin for a contractor of this backlog — the equity ratio fell to 27.4% at March 2026 as total assets swelled to ¥718,640mn and interest-bearing debt rose, and both non-environment segments (Machinery & Infrastructure, Carbon Neutral Solutions) were loss-making in FY3/26. All historical figures are as reported by the company (J-GAAP); the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -33,6 +33,7 @@ Waste-to-energy scale, backlog visibility — and an execution record that keeps
 *Source: Annual securities reports via EDINET XBRL compilation (the-shashi), FY3/17–FY3/26; FY3/27E = company guidance (Q2 FY3/27 tanshin, 5 Nov 2026). ROE and equity ratio as compiled from the securities reports. FY3/27E order intake = company guidance.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥158.6bn |
@@ -43,6 +44,7 @@ Waste-to-energy scale, backlog visibility — and an execution record that keeps
 | Order backlog (30 Sep 2026) | ¥2,460.4bn (3.8x FY3/27E sales) |
 
 ## Key points
+
 - **Record sales, halved profit in FY3/26.** FY3/26 revenue was a record ¥645,222mn (+5.7% YoY), but **operating profit fell 54.8% to ¥12,192mn** and net income to parent fell 49.6% to ¥11,137mn (EPS ¥66.20), as high-margin work rolled off, Inova hit technical problems and quality-misconduct costs recurred. ROE was 5.8% against the 9.5% Forward 25 plan target. Source: company results via annual securities report XBRL compilation (the-shashi, EDINET data); Shared Research report, 5 November 2026.
 - **Orders and backlog are first-class — and still growing.** Order intake was ¥765.9bn in FY3/25 and ¥897.7bn in FY3/26; H1 FY3/27 intake was ¥416.7bn (+35.5% YoY on the company's rounded presentation; +¥109.2bn), **lifting the backlog to ¥2,460.4bn at 30 September 2026**. Full-year FY3/27 order guidance is ¥840.0bn (company guidance). At March 2026 the backlog split was about 36% EPC / 64% recurring O&M (Shared Research). Source: company Q2 FY3/27 results materials, 5 November 2026; Shared Research, 5 November 2026.
 - **Q2 FY3/27: losses narrowed, guidance cut at Inova.** H1 FY3/27 (April–September 2026): revenue ¥298,533mn (+11.5% YoY), operating loss ¥3,528mn (vs a ¥7,781mn loss a year earlier), ordinary loss ¥1,095mn, net income to parent ¥5,047mn — **the half was carried below the operating line by ¥12.0bn of disposal gains** (vacuum-valve subsidiary ¥4.5bn; solid-state battery business ¥7.5bn). Full-year operating-profit guidance was cut from ¥25,500mn to ¥23,000mn on Inova order delays and additional project costs; revenue (¥640,000mn), ordinary profit (¥22,000mn) and net income (¥21,000mn) guidance were unchanged. Source: Q2 FY3/27 tanshin, 5 November 2026; company results materials, 5 November 2026.
@@ -59,91 +61,19 @@ Per-share and returns data tell the same story. EPS was ¥34.79 in FY3/17, troug
 
 The balance sheet expanded much faster than equity. Total assets rose from ¥393,474mn (FY3/17) to ¥718,640mn (FY3/26, +17.9% in the final year alone), driven by receivables and contract assets (¥261,165mn at March 2026), goodwill (¥31,105mn, up from ¥1,486mn in FY3/22, reflecting the Inova-group acquisition programme) and other intangibles. Net assets rose only to ¥203,400mn, so the equity ratio slipped from 31.1% (FY3/25) to 27.4% (FY3/26) and the D/E ratio (as compiled from the securities reports) rose from 0.56x to 0.83x. Operating cash flow is volatile by construction — ¥478mn in FY3/24 and ¥24,769mn in FY3/25 against ¥11,647mn in FY3/26 — while investing outflow was heavy in FY3/25–FY3/26 (¥56,573mn and ¥48,035mn) on acquisitions and capex of ¥27,493mn and ¥25,207mn. The full KPI table, including FY3/27 company guidance, is Exhibit 1 (page 1). Sources: annual securities reports via EDINET XBRL compilation (the-shashi), FY3/17–FY3/26; company Q2 FY3/27 materials for guidance.
 
-**Figure: Kanadevia Corporation — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 399331 |
-
-| FY3/18 | 376437 |
-
-| FY3/19 | 378140 |
-
-| FY3/20 | 402450 |
-
-| FY3/21 | 408592 |
-
-| FY3/22 | 441797 |
-
-| FY3/23 | 492692 |
-
-| FY3/24 | 555844 |
-
-| FY3/25 | 610523 |
-
-| FY3/26 | 645222 |
+**Figure 2. Kanadevia Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Kanadevia Corporation — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 14947 |
-
-| FY3/18 | 5907 |
-
-| FY3/19 | 7358 |
-
-| FY3/20 | 13891 |
-
-| FY3/21 | 15396 |
-
-| FY3/22 | 15541 |
-
-| FY3/23 | 20056 |
-
-| FY3/24 | 24323 |
-
-| FY3/25 | 26946 |
-
-| FY3/26 | 12192 |
+**Figure 3. Kanadevia Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Kanadevia Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 3.7 |
-
-| FY3/18 | 1.6 |
-
-| FY3/19 | 1.9 |
-
-| FY3/20 | 3.5 |
-
-| FY3/21 | 3.8 |
-
-| FY3/22 | 3.5 |
-
-| FY3/23 | 4.1 |
-
-| FY3/24 | 4.4 |
-
-| FY3/25 | 4.4 |
-
-| FY3/26 | 1.9 |
+**Figure 4. Kanadevia Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Kanadevia Corporation — revenue and operating margin**
+**Figure 5. Kanadevia Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -191,7 +121,7 @@ The value chain runs from municipal and utility customers (in Japan, local gover
 
 Competitive position, on Shared Research's compilation (5 November 2026): Inova held a 59.9% share of EMEA WtE orders in 2021–25 — a dominant position against European rivals — while domestically Kanadevia was #4 in EPC with a 12.8% share and #3 in O&M with 11.8%, in a fragmented home market contested by Takuma, JFE Engineering, Ebara Environmental Plant, Mitsubishi Heavy Industries Environmental & Chemical Engineering and others. The domestic leader on profitability is Takuma (6013): **on a fraction of Kanadevia's revenue it earns several times the margin** (Exhibit 4) — FY3/26 sales of ¥165,620mn, operating profit of ¥15,409mn (9.3% margin) and record orders of ¥333,026mn (Takuma supplementary materials, 14 May 2026) versus Kanadevia's group operating profit of ¥12,192mn on ¥645,222mn of sales. The contrast is the market chapter in one line: Kanadevia has bought global scale and backlog through Inova; Takuma shows what a domestically focused, O&M-weighted WtE book earns. The cancelled integration with Nippon Steel Engineering (announced February 2026 as an absorption merger with Kanadevia as surviving company, effective April 2027; cancelled September 2026) would have combined the two groups' environmental engineering into a domestic leader — its cancellation leaves the fragmented domestic structure, and Kanadevia's sub-scale domestic share, unchanged, and pushes strategy back to the next medium-term plan due in spring 2027. Sources: Shared Research, 5 November 2026; Takuma FY2025 supplementary materials, 14 May 2026; company integration filing, 5 February 2026 (EDINET).
 
-**Exhibit 4. Competitor comparison — Takuma (6013), domestic WtE peer**
+**Figure 6. Exhibit 4. Competitor comparison — Takuma (6013), domestic WtE peer**
 
 | ¥mn | Takuma FY3/24 | Takuma FY3/25 | Takuma FY3/26 | Takuma FY3/27E (co. guidance) | Kanadevia FY3/26 |
 |---|---|---|---|---|---|
@@ -202,49 +132,7 @@ Competitive position, on Shared Research's compilation (5 November 2026): Inova 
 
 *Source: Takuma FY2025 supplementary materials, 14 May 2026 (orders, sales, operating profit, net income to parent); Kanadevia per Exhibit 1. Takuma FY3/27E = Takuma company forecast in the same materials.*
 
-**Figure: Kanadevia in the plant-engineering value chain**
-
-**Development, FEED & Licensing**
-
-- FEED & process selection
-- EPC firms — JGC, Chiyoda, Toyo Engineering
-- Technip Energies, Worley, Fluor, Bechtel
-- Process licensors — Topsoe, KBR, Lummus, Uhde
-
-**Kanadevia Corporation (7004)**
-
-- Environment — waste-to-energy plants & Kanadevia Inova (78.3% of FY3/26 sales)
-- EPC ¥256.0bn / O&M ¥249.2bn (FY3/26)
-- Machinery & Infrastructure — process equipment, water gates (10.6%)
-- Carbon Neutral Solutions — hydrogen, offshore wind, nuclear casks (10.7%)
-
-**Chemicals, Resins & Membranes**
-
-- Water chemicals — Kurita, Ecolab (Nalco), Solenis
-- Ion-exchange resins — DuPont, Purolite, Organo
-- RO membranes — Toray, Asahi Kasei, Nitto (Hydranautics)
-- Activated carbon
-
-**Water Equipment & Public EPC**
-
-- UPW / wastewater systems — Kurita, Organo, Nomura Micro
-- Municipal plant EPC — Metawater, Kubota, Ebara
-- Veolia Water Technologies, Xylem, Pentair
-- Desalination & MBR systems
-
-**Operation, Ownership & Concessions**
-
-- Facility-owned services (BOO) — Organo
-- Operations contracts — Kurita, Metawater Service, Veolia
-- Water concessions (Miyagi model SPC)
-- Plant O&M & revamp support
-
-**End Users & Resource Recovery**
-
-- Energy & chemicals — QatarEnergy, Saudi Aramco, SABIC
-- Semiconductor fabs — TSMC
-- Municipal water utilities
-- Phosphorus & valuables recovery, sludge treatment
+**Figure 7. Kanadevia in the plant-engineering value chain**
 
 *Source: FIELDNOTES sector report §4 (plant engineering & water value chain); company segments from §3 of this report.*
 
@@ -252,31 +140,11 @@ Competitive position, on Shared Research's compilation (5 November 2026): Inova 
 
 For a plant-engineering company the order book, not the income statement, is the leading indicator: revenue is recognised out of backlog over years, and today's intake mix determines tomorrow's margin mix. This chapter therefore treats segments first and then gives orders and backlog a dedicated treatment.
 
-**Figure: Kanadevia Corporation — segment revenue by year**
+**Figure 8. Kanadevia Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Kanadevia Corporation — segment revenue mix, FY3/26**
-
-**Environment**
-
-- ¥505,230mn
-- 78.3% of revenue
-
-**Carbon Neutral Solutions**
-
-- ¥69,238mn
-- 10.7% of revenue
-
-**Machinery & Infrastructure**
-
-- ¥68,468mn
-- 10.6% of revenue
-
-**Other**
-
-- ¥2,284mn
-- 0.4% of revenue
+**Figure 9. Kanadevia Corporation — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -284,7 +152,7 @@ For a plant-engineering company the order book, not the income statement, is the
 
 FY3/26 segment results (external sales / segment profit, ¥mn; securities-report basis): Environment ¥505,230mn / +¥16,707mn (3.3% margin); Machinery & Infrastructure ¥68,468mn / −¥2,416mn; Carbon Neutral Solutions ¥69,238mn / −¥2,467mn; Other ¥2,284mn / +¥412mn; adjustments −¥44mn; consolidated operating profit ¥12,192mn (Exhibit 3). The five-year segment history is complicated by two reclassifications — Environment was broken out in FY3/21 and Carbon Neutral Solutions in FY3/22 — so Exhibit 3 presents the current-basis years FY3/22–FY3/26 for Environment and Carbon Neutral, with Machinery & Infrastructure shown across the period. On that basis Environment profit rose from ¥12,428mn (FY3/22) to ¥25,403mn (FY3/25) before falling to ¥16,707mn in FY3/26; its margin peaked at 5.6% in FY3/25. In H1 FY3/27 the pattern persisted: **Environment sales ¥257.2bn and operating profit of just ¥0.2bn** (EPC ¥0.1bn, O&M ¥0.1bn — the half's profit was consumed by the Abu Dhabi delay and cost inflation), Machinery & Infrastructure −¥1.9bn, Carbon Neutral Solutions −¥1.8bn, for a group operating loss of ¥3.5bn. Segment assets underline where capital now sits: Environment held ¥451,664mn of assets at March 2026 (63% of the group total before adjustments), including the goodwill built up by acquisition. Source: annual securities reports via EDINET XBRL compilation (the-shashi); company Q2 FY3/27 materials.
 
-**Exhibit 3. Segments — external sales and segment profit (operating profit basis)**
+**Figure 10. Exhibit 3. Segments — external sales and segment profit (operating profit basis)**
 
 | ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -306,7 +174,7 @@ Order intake (company materials, ¥bn): FY3/25 ¥765.9bn; FY3/26 ¥897.7bn, of w
 
 The backlog is the balance-sheet-like stock that results: ¥2,284.7bn at 31 March 2026 (Shared Research: ¥2,284,700mn; the company's chart rounds to ¥2,284.8bn — see Basis of preparation) and ¥2,460.4bn at 30 September 2026. ==That is 3.5x FY3/26 revenue and 3.8x FY3/27 guided revenue.== Composition matters more than size: at March 2026 about 36% was EPC and 64% recurring O&M (Shared Research), and the H1 wins show why the recurring share keeps rising — Nishinomiya DBO (432 t/day; design/construction May 2026–March 2035, operation to March 2052), Minamiuonuma DBO (operation April 2031–March 2051), Geneva WtE retrofit for Inova, and sludge-recycling retrofits with completion in 2029. In other words, a growing share of the backlog is contracted revenue stretching into the 2030s–2050s, not construction awaiting delivery. The risks are the mirror image: the EPC minority is where margin is made or lost in-year (Inova delays cut FY3/27 guidance), long O&M contracts embed decades of cost-inflation and performance risk, and backlog quality — cancellation, scope and counterparty terms — is not disclosed beyond the EPC/recurring split. Older-year backlog comparatives (the company's chart shows the backlog rising from about ¥1.42tn in FY3/22 to ¥2.28tn in FY3/26) are presented graphically by the company without a full numeric table in the materials accessed; this report therefore tabulates only the verified March 2026 and September 2026 balances and flags the gap in the Basis of preparation. Sources: company Q2 FY3/27 results materials (order intake and backlog, pp.17–18), 5 November 2026; Shared Research, 5 November 2026.
 
-**Exhibit 2. Order intake and order backlog**
+**Figure 11. Exhibit 2. Order intake and order backlog**
 
 | ¥mn | FY3/25 | FY3/26 | H1 FY3/27 | FY3/27E (co. guidance) |
 |---|---|---|---|---|
@@ -365,6 +233,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
