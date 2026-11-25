@@ -11,7 +11,7 @@ lang: ja
 
 A ¥1.7tn-revenue components conglomerate whose profit pool is concentrating in one small, precise place — miniature ball bearings for AI servers: MinebeaMitsumi Inc. (6479, TSE Prime) is the Nagano-based precision-components group formed by the 2017 integration of Minebea and Mitsumi Electric, extended by the U-Shin (2019) and ABLIC (2020) acquisitions. It reports four segments: Precision Technologies (PT — ball bearings, aircraft rod-end bearings, HDD pivot assemblies), Motor, Lighting & Sensing (MLS — motors, backlights/electro devices, sensors), Semiconductors & Electronics (SE — analogue semiconductors, optical devices, mechanical components, power supplies) and Access Solutions (AS — automotive access products, built from U-Shin and the former Honda Lock). The initiation question is whether the AI-server cycle converts a decade of ¥50–100bn operating-profit oscillation into a structurally higher earnings base. The evidence so far is genuinely strong at the top: H1 FY3/27 (April–September 2026) printed record revenue of ¥890,751mn (+14.4% YoY) and record operating profit of ¥58,065mn (+30.8%), **PT earned ¥40.1bn of operating profit in the half on data-centre bearings and aircraft recovery**, and full-year company guidance was raised on 6 November 2026 to revenue of ¥1,730,000mn and operating profit of ¥128,000mn (company guidance). Strengths: (1) PT's economics — a 22.1% segment margin in FY3/26 (¥62,245mn on ¥281,151mn) and roughly 24% in H1 FY3/27 — rest on a capacity-constrained niche: ball-bearing production capacity is 404mn units/month at maximum utilisation, October 2026 sales volume was 374mn units, and management guides PT operating profit to ¥80,000mn in FY3/27, the level its medium-term plan had targeted for FY3/29 (company plan, briefing 6 November 2026); (2) a second AI leg is forming — AI server-related sales are planned at ¥148bn in FY3/27 rising to ¥230bn by FY3/29 (company plan), spanning bearings, HDD spindle motors, fan motors and power semiconductors; (3) the balance sheet carries the cycle: owners' equity ratio 49.5% at March 2026 and operating cash flow has exceeded ¥85bn in nine of the ten years in Exhibit 1. Weaknesses: (1) the group margin is still thin and the mix is dilutive — consolidated operating margin was 6.2% in FY3/26, SE's margin has fallen from 9.8% (FY3/22) to 4.5% (FY3/26) and AS earned just ¥3.4bn in H1 FY3/27 against a ¥16,500mn full-year guide, so **delivery of the ¥128,000mn guide requires H2 operating profit of ¥69,935mn (calculated) at an 8.3% margin versus 6.5% in H1**; (2) earnings quality below the operating line is noisy — FY3/26 profit before tax of ¥133,779mn was flattered by a ¥29,800mn net finance gain including fair-value gains on financial assets held, and H1 FY3/27 owners' profit includes a c. ¥8.4bn fair-value gain on Toshiba shares, which is why guidance EPS of ¥249.01 barely grows (+1.0%) despite guided operating profit growth of +23.1%; (3) disclosure limits the debate — the tanshin discloses no regional sales, no order intake or backlog, no R&D and no employee figures (all 未取得 / not disclosed in this report), so the AI exposure cannot be sized from company disclosure beyond the plan figures management volunteers in briefings. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (FY3/17–FY3/18 J-GAAP, FY3/19 onward IFRS, each year as originally filed); the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (as originally reported; FY3/17–18 J-GAAP, FY3/19 onward IFRS) and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (as originally reported; FY3/17–18 J-GAAP, FY3/19 onward IFRS) and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@ A ¥1.7tn-revenue components conglomerate whose profit pool is concentrating in 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) for FY3/22–FY3/26 and own-year annual tanshin for FY3/17–FY3/21. Profit before tax is not presented for the J-GAAP years (ordinary profit was ¥48,393mn in FY3/17 and ¥78,038mn in FY3/18). FY3/19 revenue growth is as printed in the FY3/19 tanshin against its IFRS-restated FY3/18 comparative; other growth rates as reported or calculated from the reported levels. FY3/23 EPS/ROE are as printed in the FY3/23 tanshin (restated to ¥178.23 / 12.5% in the FY3/24 tanshin — see Basis of preparation). FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 6 Nov 2026 (guided PBT ¥138,000mn; guided EPS ¥249.01).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥1.16tn |
@@ -39,6 +40,7 @@ A ¥1.7tn-revenue components conglomerate whose profit pool is concentrating in 
 | Next event | Q3 FY3/27 results, early Feb 2027 |
 
 ## Key points
+
 - **H1 FY3/27: records across the P&L — with a one-off inside the bottom line.** For the six months to 30 September 2026 (IFRS), revenue was ¥890,751mn (+14.4% YoY), operating profit ¥58,065mn (+30.8%; 6.5% margin), profit before tax ¥71,805mn (+77.9%) and net income attributable to owners ¥51,005mn (+78.4%); basic EPS was ¥127.01. The company called revenue, operating profit and net income first-half records. Q2 standalone set quarterly records (revenue ¥464.2bn, operating profit ¥31.8bn). Earnings quality: **Q2 owners' profit of ¥29.7bn includes a c. ¥8.4bn gain from fair-value measurement of financial assets held (Toshiba shares); excluding it, Q2 owners' profit was ¥21.3bn (company briefing)**. Source: Q2 FY3/27 tanshin [IFRS], 6 November 2026; company-published Q2 briefing summary, 6 November 2026.
 - **Guidance raised at Q2 — and it is back-loaded into H2.** Full-year FY3/27 company guidance (会社計画) was revised on 6 November 2026 to revenue ¥1,730,000mn (initial ¥1,690,000mn, 12 May 2026), operating profit ¥128,000mn (initial ¥120,000mn), profit before tax ¥138,000mn and owners' net income ¥100,000mn (initial ¥83,000mn; raised to ¥87,000mn at Q1 on 5 August 2026 before the Q2 raise), with basic EPS of ¥249.01. H1 delivered 51.5% of guided revenue but only 45.4% of guided operating profit, so **the guide implies H2 operating profit of ¥69,935mn (calculated) at an 8.3% margin** — predicated on PT momentum, an AS recovery (including the March mould-cost recovery the company cites) and H2 revenue actually falling to c. ¥830bn on game-related and optical-device declines (company briefing). Source: guidance tracker verified against the FY3/26, Q1 FY3/27 and Q2 FY3/27 tanshin; Q2 briefing summary.
 - **Strength — PT is a capacity-constrained profit engine, not a commodity line.** **PT was 16.9% of FY3/26 revenue but 59.9% of FY3/26 operating profit before corporate adjustments (segment profit ¥62,245mn, a 22.1% margin)**. In H1 FY3/27 PT revenue rose 22.0% YoY to ¥166.8bn and operating profit 36.1% to ¥40.1bn (briefing summary), on data-centre bearings, aircraft products and HDD pivot assemblies. Ball-bearing capacity is 404mn units/month only at maximum operating days and utilisation; October 2026 production was 361mn units and sales 374mn units (external 321mn). Full-year PT operating-profit guidance of ¥80,000mn (company guidance) equals the medium-term plan's FY3/29 target, pulled forward two years (company briefing). Source: PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 briefing summary, 6 November 2026.
@@ -55,91 +57,19 @@ Below operating profit, the finance line is the decade's swing factor and must b
 
 The balance sheet funded the acquisition decade without strain but is getting heavier. Total assets rose from ¥643,312mn at March 2017 to ¥1,814,837mn at March 2026; owners' equity rose from ¥321,364mn to ¥898,971mn, with the owners' equity ratio in a 45.6–53.9% band throughout (49.5% at March 2026; book value per share ¥2,238.50). Interest-bearing debt on the sheet's definition (bonds and borrowings, current plus non-current, excluding leases) rose from ¥270,711mn at March 2022 to ¥482,491mn at March 2026, against cash and equivalents of ¥227,522mn — net debt of ¥254,969mn (calculated). Inventory is the working-capital watch item: ¥391,314mn at March 2026, about 3.4 months of cost of sales (calculated), up from ¥219,308mn at March 2022 even as the company emphasises inventory discipline in briefings (Q2 FY3/27 inventory fell to ¥416.7bn at September 2026 from ¥432.9bn at June — briefing). Operating cash flow was ¥83,125mn / ¥96,606mn / ¥100,722mn / ¥86,486mn / ¥93,763mn / ¥78,417mn / ¥44,093mn / ¥101,759mn / ¥133,672mn / ¥94,850mn across the ten years; the FY3/23 dip (¥44,093mn) is the cash signature of the same correction that cut FY3/24 operating profit. Capital expenditure (sheet definition) was ¥87,563mn in FY3/26 and depreciation ¥70,422mn, giving an EBITDA proxy (operating profit + D&A, calculated) of ¥174,401mn. Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26, and own-year annual tanshin FY3/17–FY3/21.
 
-**Figure: MinebeaMitsumi Inc. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 638926 |
-
-| FY3/18 | 879139 |
-
-| FY3/19 | 884723 |
-
-| FY3/20 | 978445 |
-
-| FY3/21 | 988424 |
-
-| FY3/22 | 1124140 |
-
-| FY3/23 | 1292203 |
-
-| FY3/24 | 1402127 |
-
-| FY3/25 | 1522703 |
-
-| FY3/26 | 1664387 |
+**Figure 2. MinebeaMitsumi Inc. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: MinebeaMitsumi Inc. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 49015 |
-
-| FY3/18 | 79162 |
-
-| FY3/19 | 72033 |
-
-| FY3/20 | 58647 |
-
-| FY3/21 | 51166 |
-
-| FY3/22 | 92136 |
-
-| FY3/23 | 101522 |
-
-| FY3/24 | 73536 |
-
-| FY3/25 | 94482 |
-
-| FY3/26 | 103979 |
+**Figure 3. MinebeaMitsumi Inc. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: MinebeaMitsumi Inc. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 7.7 |
-
-| FY3/18 | 9 |
-
-| FY3/19 | 8.1 |
-
-| FY3/20 | 6 |
-
-| FY3/21 | 5.2 |
-
-| FY3/22 | 8.2 |
-
-| FY3/23 | 7.9 |
-
-| FY3/24 | 5.2 |
-
-| FY3/25 | 6.2 |
-
-| FY3/26 | 6.2 |
+**Figure 4. MinebeaMitsumi Inc. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: MinebeaMitsumi Inc. — revenue and operating margin**
+**Figure 5. MinebeaMitsumi Inc. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -159,7 +89,7 @@ Full-year FY3/27 guidance, as revised in the Q2 release of 6 November 2026, is r
 
 **Segment operating-profit guidance (Q2 briefing, company guidance) concentrates the year in PT: PT ¥80,000mn (+28.5% YoY; raised from ¥70,000mn at Q1)**, MLS ¥36,000mn (+33.7%; from ¥31,000mn), SE ¥25,000mn (−6.3%; cut from ¥28,000mn) and AS ¥16,500mn (−3.4%; cut from ¥18,500mn). The four sum to ¥157,500mn, implying corporate/adjustments of −¥29,500mn (calculated) against group operating profit of ¥128,000mn. Against guidance, H1 progress was 51.5% on revenue and 45.4% on operating profit. The implied H2 shape is unusual and is the central debate of this initiation: management guides H2 revenue down to c. ¥830bn (game-related sales −c. ¥38bn and optical devices −c. ¥15bn, per the Chairman's briefing) while H2 operating profit rises to ¥69,935mn (calculated), helped by the AS mould-cost recovery that recurs each March and by PT/MLS momentum; AS alone must deliver c. ¥13.1bn in H2 against ¥3.4bn in H1 (calculated). The open questions the print leaves — the credibility of that AS step-up, how much of PT's record is AI-server pull-forward, and why SE is guided down in an upcycle — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Exhibit 3 sets out H1 segment actuals and full-year segment guidance. Source: Q2 FY3/27 tanshin, 6 November 2026; Q1 FY3/27 tanshin, 5 August 2026; FY3/26 tanshin, 12 May 2026; Q2 FY3/27 briefing summary; guidance tracker, 17 November 2026.
 
-**Exhibit 3. H1 FY3/27 segment results (briefing summary) and FY3/27 company guidance by segment**
+**Figure 6. Exhibit 3. H1 FY3/27 segment results (briefing summary) and FY3/27 company guidance by segment**
 
 | ¥mn | H1 FY3/27 revenue | H1 FY3/27 profit | FY3/27E profit (guidance) | Implied H2 profit (calc.) |
 |---|---|---|---|---|
@@ -200,42 +130,7 @@ MinebeaMitsumi sits at the component layer of several value chains at once — p
 
 Entry barriers are process-based: miniature-bearing grinding and assembly at hundreds of millions of units per month with consistent precision, analogue-semiconductor process know-how (ABLIC), and automotive qualification cycles in access products — all reinforced by the 'integration' model, in which a customer buying a bearing can be sold the motor, sensor and semiconductor around it. The substitute and share risks are the mirror image: Chinese bearing and motor makers on price in standard products, customer dual-sourcing when capacity binds (the Q2 disclosure that bearing growth must come from utilisation, not new lines, cuts both ways), and platform shifts — SSD substitution for nearline HDDs over the long run, and water-cooling penetration reducing fan-motor content per server, a mix the company says it addresses with compatible products. The two sensitivities that follow for the equity: first, the profit pool's concentration — PT is 16.9% of revenue and c. 60% of pre-corporate profit, so a data-centre capex pause lands on the group's best margin, not its average one; second, with no order or backlog disclosure in the tanshin (未取得), the earliest observable of a pause is the quarterly PT print and the monthly bearing volume colour in briefings. Sources: Q2 FY3/27 briefing summary and Q&A summary, 6 November 2026; PL/segment sheet register S8.
 
-**Figure: MinebeaMitsumi in the bearings & precision-components value chain**
-
-**Raw Materials**
-
-- Bearing steel SUJ2: Nippon Steel
-- Special steel: Daido, Sanyo, Aichi
-- Ceramic balls Si3N4: Kyocera, Denka
-- Grease, resin cage materials
-
-**Components**
-
-- Forged, turned rings & rolling elements
-- Cages, seals
-- Ceramic balls (with material makers)
-- Sensor units
-
-**MinebeaMitsumi Inc. (6479)**
-
-- Precision Technologies — miniature ball bearings, rod-end bearings, HDD pivots (59.9% of FY3/26 OP)
-- Motor, Lighting & Sensing — motors, backlights, sensors
-- Semiconductors & Electronics — analogue/power semis (ABLIC), optical devices
-- Access Solutions — automotive access products (U-Shin, Honda Lock)
-
-**Distribution & Integration**
-
-- Industrial distributors, trading houses
-- EC: Misumi, MonotaRO
-- OEM direct delivery (automotive)
-- Genuine-parts networks, anti-counterfeit checks
-
-**End Customers & Aftermarket**
-
-- Automotive OEMs & Tier 1s: Toyota group
-- Machine tools, semiconductor equipment
-- Construction, rail, aero engines, wind
-- Condition monitoring, remanufacturing: SKF, NSK
+**Figure 7. MinebeaMitsumi in the bearings & precision-components value chain**
 
 *Source: FIELDNOTES sector report §4 (bearings value chain); company segments from §3 of this report.*
 
@@ -243,54 +138,15 @@ Entry barriers are process-based: miniature-bearing grinding and assembly at hun
 
 MinebeaMitsumi's tanshin disclosure gives a complete business-segment history on two successive bases — the three/four-segment structure of FY3/17–FY3/21 under the old names, and the four-segment structure of FY3/22–FY3/26 under the names renamed in FY3/24 — and no regional disclosure at all. This chapter keeps the two segment bases in separate labelled blocks, as the sheet does, and states the regional position plainly: regional sales are not disclosed in the tanshin (未取得), in any of the ten years, and no third-party regional estimate is substituted for disclosure anywhere in this report.
 
-**Figure: MinebeaMitsumi Inc. — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| PT (Precision Technologies) — sales | 281151 |
-
-| MLS (Motor, Lighting & Sensing) — sales | 456517 |
-
-| SE (Semiconductors & Electronics) — sales | 590263 |
-
-| AS (Access Solutions) — sales | 332249 |
-
-| Other (non-reportable) — sales | 4207 |
+**Figure 8. MinebeaMitsumi Inc. — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: MinebeaMitsumi Inc. — segment revenue by year**
+**Figure 9. MinebeaMitsumi Inc. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: MinebeaMitsumi Inc. — segment revenue mix, FY3/26**
-
-**SE (Semiconductors & Electronics)**
-
-- ¥590,263mn
-- 35.5% of revenue
-
-**MLS (Motor, Lighting & Sensing)**
-
-- ¥456,517mn
-- 27.4% of revenue
-
-**AS (Access Solutions)**
-
-- ¥332,249mn
-- 20.0% of revenue
-
-**PT (Precision Technologies)**
-
-- ¥281,151mn
-- 16.9% of revenue
-
-**Other (non-reportable)**
-
-- ¥4,207mn
-- 0.3% of revenue
+**Figure 10. MinebeaMitsumi Inc. — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -298,7 +154,7 @@ MinebeaMitsumi's tanshin disclosure gives a complete business-segment history on
 
 Exhibit 2 gives the history. Three facts organise it. First, profit concentration: in FY3/26 the four reportable segments plus Other earned ¥130,273mn of segment profit before a −¥26,294mn corporate/adjustment charge (calculated: segment profits as reported less consolidated operating profit) — PT ¥62,245mn (47.8% of the pre-corporate total; 59.9% of consolidated operating profit), MLS ¥26,929mn, SE ¥26,669mn and AS ¥17,087mn. The corporate drag itself is material and volatile (−¥16,291mn / −¥6,103mn / −¥21,689mn / −¥20,931mn / −¥26,294mn across FY3/22–26, as reported in the sheet) and is not guided by segment — the Q1 FY3/27 segment guidance implied −¥27,500mn for FY3/27 and the Q2 revision implies −¥29,500mn (calculated). Second, margin dispersion is widening: PT's margin recovered to 22.1% in FY3/26 while SE's slid to 4.5% and MLS has not regained its FY3/22 5.8% for a full year until FY3/26 (5.9%) — **the group's blended 6.2% margin is an average of a 22% business and three 3–6% businesses, which is why mix, not volume, is the margin lever** in the company's own 'underlying margin' framing (8.7% FY3/27E, Chapter 7). Third, the basis breaks are all labelled in Exhibit 2: FY3/17 has three reportable segments with Mitsumi as a part-year (27 January–31 March 2017); U-Shin becomes the fourth reportable segment in FY3/20 (the FY3/20 tanshin restates FY3/19 onto the new structure for its comparatives, but the sheet and this report keep FY3/19 on its own document, per the programme's as-originally-filed policy); the FY3/24 renaming changes names only; and AS's FY3/24 step-change is a consolidation effect (first full year of the former Honda Lock), not organic growth. Cross-basis comparisons are flagged wherever they occur. Source: company results via PL/segment sheet (tanshin, JPX archive), register S3; FY3/17–FY3/21 own-year tanshin segment narratives.
 
-**Exhibit 2. Business segments — sales and segment profit (operating profit), by disclosure basis as reported in each year's own tanshin**
+**Figure 11. Exhibit 2. Business segments — sales and segment profit (operating profit), by disclosure basis as reported in each year's own tanshin**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -374,6 +230,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
