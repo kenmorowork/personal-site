@@ -11,7 +11,7 @@ lang: en
 
 The order book, not the cycle, is now the story: Mitsubishi Heavy Industries, Ltd. (7011, TSE Prime) is Japan's largest heavy-industry group — gas turbine combined cycle (GTCC) and nuclear power in Energy Systems; metals machinery, engineering and commercial ships in Plants & Infrastructure; thermal, engine and drive products (now Industrial Solutions); and aircraft, defence and space systems. The initiation question is whether the earnings step-change of the last three years is a backlog-conversion story with years to run, or a coinciding peak of GTCC, defence and nuclear demand. The disclosed evidence leans to conversion: order intake has risen from ¥3,336,300mn in FY3/21 to ¥7,653,600mn in FY3/26 (continuing basis), **the order backlog stood at ¥14,225,600mn at September 2026 (briefing materials — about 2.4x guided FY3/27 revenue)**, and on 6 November 2026 the company raised FY3/27 guidance to revenue of ¥6,000,000mn and business profit of ¥600,000mn (company guidance), above the 2024 Medium-Term Business Plan's final-year targets (business profit of ¥450,000mn or higher; ROE of 12%) in the plan's last year. Business profit — MHI's headline profit measure (revenue − cost of sales − SG&A − other expenses + share of profit of associates + other income) — has risen every year since the FY3/20 loss of ¥29,538mn, printing a record ¥432,218mn in FY3/26 at an 8.7% margin, with gross margin expanding from 15.8% in FY3/21 to 21.8% in FY3/26. Strengths: (1) backlog quality and mix — H1 FY3/27 orders of ¥3,612,500mn were led by GTCC (¥1,568,700mn; 19 large-frame units), 94% of 2024–25 GT orders came from utilities and IPPs, and management reports no order cancellations in the past one to two years (company Q&A, 6 November 2026); (2) a second, policy-funded leg — defence orders under Japan's defence build-up programme and the April 2026 Australian frigate contract sit inside an Aircraft, Defense & Space segment whose revenue rose 35.3% in FY3/26; (3) capital discipline arriving with the cash — **a buyback of up to ¥300,000mn (up to 120mn shares, 3.6% of shares ex-treasury, all to be cancelled)** was resolved on 6 November 2026 alongside guided FY3/27 free cash flow of ¥800,000mn (company guidance). Weaknesses: (1) execution risk inside the boom — H1 FY3/27 absorbed a product-warranty provision of about ¥67,500mn for parts replacement at the Nakoso and Hirono IGCC plants delivered in 2021, plus a ¥20,000mn risk buffer in guidance; Q2 standalone business profit fell to ¥89,659mn (calculated), a 6.7% margin; (2) the H2 FY3/27 order ask is concentrated — Defence & Space orders of ¥153,800mn in H1 (interview pack, company briefing) must recover sharply against a ¥1,800,000mn segment orders guide, and GTCC must roughly repeat H1's ¥1,568,700mn to reach its ¥3,000,000mn guide; (3) comparability breaks — Mitsubishi Logisnext was classified as a discontinued operation in FY3/26 and deconsolidated on 1 May 2026, the segment structure was reorganised on 1 April 2026 (Logistics, Thermal & Drive Systems became Industrial Solutions), and the ten-year history in this report crosses the FY3/19 move from J-GAAP to IFRS, so no single clean series spans the decade. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP FY3/17–18; IFRS from FY3/19) and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP FY3/17–18; IFRS from FY3/19) and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -30,6 +30,7 @@ The order book, not the cycle, is now the story: Mitsubishi Heavy Industries, Lt
 *Source: Company results via PL/segment sheet (tanshin, JPX archive). Business profit = MHI's 事業利益 (J-GAAP operating profit for FY3/17–18). FY3/25 is as originally reported (including Mitsubishi Logisnext); FY3/26 is continuing operations (Logisnext discontinued) — restated continuing FY3/25: revenue ¥4,361,127mn, business profit ¥354,965mn, PBT ¥352,073mn. PBT for FY3/26 is the tanshin continuing figure (¥474,694mn); the post-tax discontinued result (−¥12,445mn) is excluded. Order intake is the annual total from each tanshin's qualitative narrative (¥100mn units at source); FY3/26 continuing basis. EPS is basic EPS on the post-split basis (10-for-1 split, 1 Apr 2024): reported EPS for FY3/24–26, reported EPS ÷10 for FY3/19–23, calculated for FY3/17–18. ROE as reported in tanshin headers where available (FY3/25–26); FY3/27E ROE is company guidance. FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin, 6 Nov 2026 (orders guidance from Q2 briefing materials). DPS shown only where stated in the FY3/26 tanshin dividend table.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥9.68tn |
@@ -40,6 +41,7 @@ The order book, not the cycle, is now the story: Mitsubishi Heavy Industries, Lt
 | Next event | Q3 FY3/27 results, early Feb 2027 |
 
 ## Key points
+
 - **H1 FY3/27: record orders, revenue and profit — with a ¥67.5bn charge inside.** For the six months to 30 September 2026 (IFRS, continuing operations), revenue was ¥2,523,269mn (+19.4% YoY), business profit ¥249,304mn (+45.3%; margin 9.9% vs 8.1%), profit before tax ¥263,214mn and net income attributable to owners ¥203,291mn (+76.9%); basic EPS was ¥60.49. Orders received were ¥3,612,500mn (+9.0%, a first-half record) and the order backlog reached ¥14,225,600mn, up ¥988,000mn from March 2026 (briefing materials). The half absorbed a product-warranty provision of about ¥67,500mn in Energy for parts replacement at the Nakoso and Hirono IGCC plants; **Q2 standalone business profit (derived as H1 minus Q1, both as reported) was ¥89,659mn, a 6.7% margin, against Q1's ¥159,645mn (13.4%)**. Source: Q2 FY3/27 tanshin [IFRS], 6 November 2026; Q1 FY3/27 tanshin, 2026; company Q&A summary, 6 November 2026.
 - **Guidance raised hard — revenue ¥6,000,000mn, business profit ¥600,000mn (company guidance).** Full-year FY3/27 company guidance (会社計画) was raised on 6 November 2026 — the only revision of the year — to orders of ¥8,000,000mn (from ¥7,000,000mn), revenue ¥6,000,000mn (from ¥5,400,000mn at the initial May 2026 plan), business profit ¥600,000mn (from ¥540,000mn), profit before tax ¥600,000mn (from ¥530,000mn) and owners' net income ¥440,000mn (from ¥380,000mn), with basic EPS of ¥130.91, guided ROE of 14% and guided free cash flow of ¥800,000mn; FX assumptions are USD/JPY 150 and EUR/JPY 180. The stated reason (revision notice, 6 November 2026) is smooth construction progress and profitability improvement in GTCC and other lines in Energy and in Aircraft, Defense & Space. H1 delivered 42.1% of guided revenue and 41.6% of guided business profit, so the guide implies H2 business profit of ¥350,696mn (calculated) — and the ¥600,000mn already carries the ¥20,000mn risk buffer; **the CFO told the briefing that underlying earnings power is about ¥690,000mn (the guide plus the ~¥70,000mn IGCC provision and the ¥20,000mn buffer)** and that this is the starting point for the 2027 Business Plan. Source: Q2 FY3/27 tanshin, 6 November 2026; guidance revision notice, 6 November 2026; company Q&A summary.
 - **Capital return steps up: ¥300,000mn buyback, all shares to be cancelled.** The board resolved on 6 November 2026 (disclosed as a subsequent event in the Q2 tanshin) to repurchase up to 120,000,000 shares (3.6% of shares outstanding excluding treasury) for up to ¥300,000mn by market purchase on the TSE between 9 November 2026 and 8 November 2027, and to cancel all shares acquired. The dividend forecast was left unchanged at ¥29 per share (interim ¥14 decided), +¥4 YoY. The CFO's stated logic (Q&A summary) is that the scale and timing of future large investments have become visible enough, and equity has accumulated enough, to optimise the capital level ahead of the 2027 Business Plan without hindering growth investment; DOE remains the basic shareholder-return framework and ROE the profitability target. Source: Q2 FY3/27 tanshin (subsequent-events note), 6 November 2026; company Q&A summary.
@@ -54,35 +56,11 @@ The decade divides into three acts. Act one (FY3/17–FY3/18, J-GAAP): revenue o
 
 Profitability compounded rather than merely recovered. Gross profit rose from ¥583,482mn in FY3/21 (15.8% margin) to ¥1,082,674mn in FY3/26 (21.8%), on mix (GTCC after-sales, defence volume), price improvement at order intake — management states profitability at the time of order for new gas turbines has been improving for about two years (Q&A, 6 November 2026) — and the exit of low-margin volume. Business profit rose from ¥160,240mn (FY3/22, 4.2% margin) to ¥193,324mn, ¥282,541mn, ¥383,198mn (FY3/25 as reported; ¥354,965mn on the restated continuing basis) and a record ¥432,218mn in FY3/26 (8.7% margin, continuing). Profit before tax (continuing) was ¥474,694mn in FY3/26 and net income attributable to owners a record ¥332,129mn (+35.3%), giving basic EPS of ¥98.86 and ROE of 12.2% (tanshin header) — against ROE of 10.7% in FY3/25. The balance sheet swung to net cash on the sheet's definitions: cash and equivalents of ¥1,334,874mn at March 2026 against bonds, borrowings and other financial liabilities of ¥876,240mn as presented (a definition that includes lease liabilities and therefore exceeds the company-defined interest-bearing debt — see Basis of preparation), helped by operating cash flow of ¥942,619mn in FY3/26 and the Logisnext transaction proceeds. Owners' equity was ¥3,088,566mn (equity ratio 37.3%; book value per share ¥919.16). The order backlog — disclosed in briefing materials, not in the tanshin — exceeded ¥13,000,000mn at March 2026 (¥13,237,600mn derived from the September 2026 figure and its stated increase) and reached ¥14,225,600mn at September 2026. Exhibit 1 gives the full ten-year KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header, 12 May 2026; Q2 FY3/27 briefing materials, 6 November 2026.
 
-**Figure: Mitsubishi Heavy Industries, Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 3914018 |
-
-| FY3/18 | 4110816 |
-
-| FY3/19 | 4078344 |
-
-| FY3/20 | 4041376 |
-
-| FY3/21 | 3699946 |
-
-| FY3/22 | 3860283 |
-
-| FY3/23 | 4202797 |
-
-| FY3/24 | 4657147 |
-
-| FY3/25 | 5027176 |
-
-| FY3/26 | 4974168 |
+**Figure 2. Mitsubishi Heavy Industries, Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Mitsubishi Heavy Industries, Ltd. — revenue and operating margin**
+**Figure 3. Mitsubishi Heavy Industries, Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -104,7 +82,7 @@ Segment guidance (Q2 briefing materials, company guidance) concentrates the rais
 
 Buyback. The board resolved on 6 November 2026 (Q2 tanshin, subsequent-events note) to acquire up to 120,000,000 common shares — 3.6% of shares outstanding excluding treasury — for up to ¥300,000mn, by market purchase on the Tokyo Stock Exchange between 9 November 2026 and 8 November 2027, and to cancel all shares so acquired, for the stated purpose of improving capital efficiency. The CFO's Q&A explanation is quoted in the bullets; the structural question — whether a formal total-return framework replaces the current 'flexible' approach in the 2027 Business Plan — is on the interview pack's question list and is carried into Chapter 7's monitoring set. Source: Q2 FY3/27 tanshin, 6 November 2026 (guidance section 3 and subsequent-events note); guidance revision notice, 6 November 2026; Q2 FY3/27 briefing materials and Q&A summary, 6 November 2026; guidance tracker (programme file, verified against the tanshin and the revision notice).
 
-**Exhibit 3. H1 FY3/27 segment results (new segment basis) and FY3/27 company guidance by segment**
+**Figure 4. Exhibit 3. H1 FY3/27 segment results (new segment basis) and FY3/27 company guidance by segment**
 
 | ¥mn | H1 FY3/27 orders | H1 FY3/27 revenue | H1 FY3/27 business profit | FY3/27E orders (guidance) | FY3/27E revenue (guidance) | FY3/27E business profit (guidance) |
 |---|---|---|---|---|---|---|
@@ -143,49 +121,7 @@ MHI sells into four distinct value chains that share one trait: ==the customer b
 
 In defence, the customer is effectively the Japanese state (plus, newly, export governments under Japan's eased transfer rules): demand is set by the Defence Build-up Programme's budget path, competition is by programme allocation among domestic primes rather than by price, and the barriers are security clearance, programme heritage and systems-integration capability; the risks are budget politics, programme slippage and the cost discipline of first-of-type exports such as the Australian frigates. In nuclear, MHI is Japan's incumbent PWR vendor: the value chain is restarts, maintenance, fuel and fuel-cycle facilities today, with new-build (SRZ-1200) a 2030s revenue question — the interview pack's framing is to separate the existing-fleet revenue base from the new-build story. In the industrial businesses (metals machinery, environmental plant, thermal products), competition is global and price-real — Primetals and European plant makers in metals, Chinese makers rising in environmental and machinery — and margins (Plants & Infrastructure at 10.3% in FY3/26, Industrial Solutions at about 5%) price that in. Across the group, the two sensitivities that matter for the equity are, first, backlog conversion: ¥14,225,600mn of backlog (September 2026) at margins locked in at order intake over the past two improving years, exposed to component capacity and cost escalation over four-to-five-year conversion windows; and second, the yen — guidance assumes USD/JPY 150 — since Energy and defence-adjacent export revenue is dollar-linked while the cost base is substantially domestic. Sources: Q2 FY3/27 tanshin; Q2 FY3/27 briefing materials and Q&A summary, 6 November 2026; interview pack 7011 (2026-11-16).
 
-**Figure: MHI in the gas-turbine & thermal power value chain**
-
-**Fuel, Alloys & Castings**
-
-- LNG / natural gas supply
-- Ni-based superalloys
-- Precision castings — Howmet, ATI, PCC
-- Large forgings
-
-**Hot Parts & Coatings**
-
-- Turbine blades & vanes
-- Thermal barrier coatings (TBC)
-- Combustor liners
-- Independent coating / repair — Chromalloy, Liburdi
-
-**Mitsubishi Heavy Industries (7011)**
-
-- Energy Systems — GTCC (J-series), nuclear, aero engines (41.3% of FY3/26 sales)
-- Plants & Infrastructure — metals machinery, ships, engineering (16.4%)
-- Industrial Solutions — thermal, engines, turbochargers (12.6%)
-- Aircraft, Defense & Space — defence, commercial aircraft, space (28.0%)
-
-**Packaging, EPC & Installation**
-
-- Packagers — IHI (LM6000), Dynamis, Kodiak
-- Generators & balance of plant
-- EPC — Bechtel, Fluor, Samsung E&A
-- Installation & commissioning
-
-**End Users**
-
-- Utilities & IPPs — JERA
-- Industrial captive power
-- Data-centre behind-the-meter power
-- Middle East state utilities
-
-**Service, Parts & Regeneration**
-
-- LTSA / CSA long-term service
-- OEM service divisions
-- Independent MRO — EthosEnergy, MD&A
-- Retrofits, regenerated aero-derivative units
+**Figure 5. MHI in the gas-turbine & thermal power value chain**
 
 *Source: FIELDNOTES sector report §4 (gas turbines & thermal power value chain); company segments from §3 of this report.*
 
@@ -193,54 +129,15 @@ In defence, the customer is effectively the Japanese state (plus, newly, export 
 
 MHI's tanshin disclosure gives a complete business-segment history on the four-segment structure (unchanged FY3/21–FY3/26, before the 1 April 2026 reorganisation described in Chapter 3) and, in the annual tanshin appendix through FY3/24, regional sales by customer location. The appendix was dropped from FY3/25, so FY3/25–FY3/26 regional cells are blank in the PL/segment sheet and are not estimated here. This chapter keeps the disclosure layers separate and labelled; Exhibit 2 carries the segment table.
 
-**Figure: Mitsubishi Heavy Industries, Ltd. — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Energy — external revenue | 2053956 |
-
-| Plants & Infrastructure — external revenue | 814757 |
-
-| Logistics, Thermal & Drive — external revenue | 624860 |
-
-| Aircraft, Defense & Space — external revenue | 1392898 |
-
-| Other & corporate / eliminations — revenue | 87697 |
+**Figure 6. Mitsubishi Heavy Industries, Ltd. — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Mitsubishi Heavy Industries, Ltd. — segment revenue by year**
+**Figure 7. Mitsubishi Heavy Industries, Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Mitsubishi Heavy Industries, Ltd. — segment revenue mix, FY3/26**
-
-**Energy**
-
-- ¥2,053,956mn
-- 41.3% of revenue
-
-**Aircraft, Defense & Space**
-
-- ¥1,392,898mn
-- 28.0% of revenue
-
-**Plants & Infrastructure**
-
-- ¥814,757mn
-- 16.4% of revenue
-
-**Logistics, Thermal & Drive**
-
-- ¥624,860mn
-- 12.6% of revenue
-
-**Other & corporate / eliminations**
-
-- ¥87,697mn
-- 1.8% of revenue
+**Figure 8. Mitsubishi Heavy Industries, Ltd. — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -248,7 +145,7 @@ MHI's tanshin disclosure gives a complete business-segment history on the four-s
 
 Exhibit 2 gives the six-year history on the basis disclosed in each year's own tanshin (FY3/21 on the FY3/21 segment basis from the sheet's history block; FY3/22–FY3/24 from the tanshin appendix; FY3/25–FY3/26 from the main segment note). Three facts organise it. First, profit concentration: in FY3/26 the four segments earned ¥535,949mn of segment business profit before a ¥26,810mn loss in other businesses and ¥76,921mn of corporate/eliminations, reconciling to consolidated business profit of ¥432,218mn — **Energy alone was ¥267,272mn (62% of the consolidated figure) at a 13.0% margin**. Second, the growth rotation: Aircraft, Defense & Space multiplied revenue 2.3x in four years (¥604,549mn in FY3/22 to ¥1,392,898mn in FY3/26) and its margin expanded from 4.0% to 10.9%, while Energy's margin rebuilt from 4.9% (FY3/23) to 13.0% as GTCC mix and order-time pricing improved — the two segments together explain essentially all of the group's FY3/22–26 business-profit increase of ¥271,978mn. Third, the basis breaks inside the table: Logistics, Thermal & Drive Systems is combined (including Logisnext) through FY3/25 and continuing-only in FY3/26 — its apparent FY3/26 revenue halving (¥1,302,671mn to ¥624,860mn) is the deconsolidation, not demand; FY3/25 restated onto the continuing basis (from the FY3/26 tanshin comparative block, in the sheet's supplementary rows) is segment revenue of ¥4,361,127mn and business profit of ¥354,965mn in total. Corporate/eliminations widened to −¥76,921mn in FY3/26 (from −¥61,099mn), a line worth watching as group overhead and unallocated R&D grow with the defence and GTCC investment programmes. Segment order intake and backlog are not disclosed in the tanshin (briefing materials only); H1 FY3/27 orders by segment and the FY3/27 segment guides are in Exhibit 3. Source: company results via PL/segment sheet (tanshin, JPX archive), segment notes and appendices FY3/21–FY3/26.
 
-**Exhibit 2. Business segments — external revenue and segment business profit (basis as disclosed in each year's tanshin)**
+**Figure 9. Exhibit 2. Business segments — external revenue and segment business profit (basis as disclosed in each year's tanshin)**
 
 | ¥mn | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|
@@ -314,6 +211,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
