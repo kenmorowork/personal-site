@@ -1,7 +1,7 @@
 ---
 title: "Japan's most leveraged data-centre optics print: H1 operating profit tripled, and the guide now needs H2 to repeat it — on price as much as volume"
 company: "Furukawa Electric Co., Ltd."
-ticker: "5801"
+ticker: "—"
 sector: "Industrials"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: ja
 
 Furukawa Electric is a 140-year-old wire, fibre and metals group — optical fibre and cable (incl. OFS and the Lightera fibre business), energy cable, copper foil and functional products, automotive wiring and batteries — whose legacy four-segment P&L (Electronics & Automotive Systems at 58% of sales) is being repriced by a single business: data-centre optics. In FY3/2026 net sales were ¥1,307,560mn, operating profit ¥63,856mn (4.9%), ordinary profit ¥75,858mn and owners' net income ¥72,514mn (EPS ¥1,030.2 pre-split; ¥103.02 post-split equivalent — Finnhub's annual EPS agrees), with net income flattered by ¥40,159mn of extraordinary income. FY3/2027 guidance has been raised twice, to sales ¥1,570,000mn / OP ¥136,000mn / owners' NI ¥118,000mn (9 November 2026). Strengths: (1) the optical inflection is extreme — H1 FY3/2027 OP tripled to ¥57.6bn (7.8% margin, an H1 record back to FY2001), with **Optical Solutions OP swinging from ¥0.7bn to ¥23.6bn at an 18.0% margin on fibre/cable (+¥16.0bn of the OP bridge)**, specialty fibre and MT ferrules; (2) pricing power is documented, not hoped for — double-digit price revisions achieved, ~half the Optical full-year upgrade is price, and more than half of FY2028 optical-cable pricing is already effectively decided at revised levels (company Q&A); (3) Functional Products' HVLP copper foil (now over half of high-frequency-substrate foil) gives a second AI-hardware leg — FY3/2026 segment OP ¥15,379mn at 10.2%; (4) the plan is explicit — Vision 2030 targets FY2030 OP of ¥250bn (>10% margin), ¥200bn of it data-centre-related, with ROE 20% / ROIC 15%, and management floated the FY2028 ¥170bn milestone arriving a year early; (5) two guidance raises already this year with segment OP guides raised in Optical (+¥10bn to ¥53.0bn). Weaknesses: (1) the quality of the H1 sales beat is mixed — of the +¥127.0bn YoY sales increase, copper added +¥61.3bn and FX +¥33.0bn while substantive growth was +¥75.1bn (company bridge), and roughly half the Optical OP upgrade is price, partly cost pass-through; (2) the guide back-loads again — implied H2 OP is ¥78.4bn vs ¥57.6bn in H1 (calculated), and full-year free cash flow is guided to roughly zero despite ¥136bn of OP; (3) **leverage is real — net debt of ¥246,188mn (calculated) at FY3/2026-end against a ¥650bn FY2026–30 investment plan** (¥500bn to DC growth areas) that lands before the cash flow; (4) the legacy book is thin — Metal Solutions earned a 1.3% H1 margin, Service & Development has lost money in all ten years shown, and Infrastructure lost ¥11,252mn as recently as FY3/2024; (5) disclosure breaks are stacking up — a NEW five-segment classification applies from April 2026 (no restated history in the materials read), the sheet's regional rows proved positionally inconsistent across the FY2022/23 document-order change (corrected here from the tanshin texts — see Basis), and orders/backlog are not disclosed; (6) the stock has round-tripped violently — ¥1,982.5 on 16 November (−8.54% on the day) against a split-adjusted 52-week high above ¥50,000 pre-split equivalent in June 2026 per secondary data. Rating and price target are Under Review placeholders (see Basis of preparation).
 
-**Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
+**Figure 1. Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
 
 |  | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ Furukawa Electric is a 140-year-old wire, fibre and metals group — optical fib
 *Source: Company tanshin via PL/segment sheet (register S1, S10). J-GAAP as originally reported. EPS calculated on pre-split weighted shares as printed (10-for-1 split 1 Jul 2026; FY26 post-split equivalent ¥103.02). Margins calculated.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥1,982.5 (post-split) |
@@ -44,6 +45,7 @@ Furukawa Electric is a 140-year-old wire, fibre and metals group — optical fib
 | H1 FY3/27 operating profit | ¥57,600mn (+201% YoY) |
 
 ## Key points
+
 - **Two raises, H2 still has to be bigger** FY3/2027 guidance: initial (12 May 2026) sales ¥1,460,000mn / OP ¥95,000mn → Rev.1 (6 August) ¥1,530,000mn / ¥123,000mn → Rev.2 (9 November) ¥1,570,000mn / OP ¥136,000mn / ordinary ¥155,000mn / NI ¥118,000mn, dividend ¥22 post-split. Of the Rev.2 sales raise, ~¥27bn of +¥40bn is copper-price effect (company). **Implied H2 OP of ¥78.4bn (calculated) is 36% above H1 — the delivery question is now H2-weighted**.
 - **Optical Solutions is the whole story** H1 FY3/2027 (new segment basis): Optical Solutions sales ¥130.9bn, OP ¥23.6bn (18.0%) vs ¥0.7bn a year earlier — fibre/cable +¥16.0bn of the bridge, specialty fibre +¥5.5bn, MT ferrules +¥3.0bn, Broadband & Network −¥1.0bn (company Q&A). **The full-year Optical OP guide was raised ¥10bn to ¥53.0bn, split ~¥4.5bn price / ~¥4.5bn mix**. Multi-year contracts carry volume take-up guarantees and compensation clauses (company) — but locked contracts cannot be repriced, so FY2028 depends on the unlocked remainder.
 - **Copper and FX did half the H1 work** Of H1's +¥127.0bn sales increase, the company's own bridge attributes +¥61.3bn to copper prices and +¥33.0bn to FX, with consolidation-scope changes (battery deconsolidation) subtracting ¥42.4bn — **substantive growth was +¥75.1bn**. The same pass-through mechanics that flatter the top line will reverse if copper falls; Metal Solutions (¥237.5bn of H1 sales) earned just 1.3%.
@@ -54,91 +56,19 @@ Furukawa Electric is a 140-year-old wire, fibre and metals group — optical fib
 
 Exhibit 1 (page 1) summarises ten fiscal years, FY3/2017–FY3/2026, all J-GAAP as originally reported. The decade is a long fade and a sudden repair: OP peaked at ¥44,804mn (4.6%) in FY3/2018, decayed to ¥8,429mn (1.0%) in FY3/2021 and ¥11,171mn (1.1%) in FY3/2024, then jumped to ¥47,097mn (FY3/2025) and ¥63,856mn (4.9%) in FY3/2026 as optics and copper foil inflected. Owners' net income follows the same arc (¥10,001mn in FY3/2021 → ¥72,514mn in FY3/2026), with FY3/2026 including ¥40,159mn of extraordinary income against ¥11,073mn of extraordinary losses. **Operating cash flow was negative in FY3/2022 (−¥13,269mn) and nearly zero in FY3/2021 (−¥479mn)** — the group's cash conversion has historically been as weak as its margins. Per-share figures cross a break: a 10-for-1 split took effect on 1 July 2026 (register S6); Exhibit 1 EPS is calculated on each year's pre-split weighted shares as printed, and FY3/2026 EPS of ¥1,030.2 equals ¥103.02 post-split (Finnhub's annual EPS agrees exactly).
 
-**Figure: Furukawa Electric Co., Ltd. — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 843344 |
-
-| FY18 | 967333 |
-
-| FY19 | 991590 |
-
-| FY20 | 914439 |
-
-| FY21 | 811600 |
-
-| FY22 | 930496 |
-
-| FY23 | 1066326 |
-
-| FY24 | 1056528 |
-
-| FY25 | 1201762 |
-
-| FY26 | 1307560 |
+**Figure 2. Furukawa Electric Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Furukawa Electric Co., Ltd. — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 38623 |
-
-| FY18 | 44804 |
-
-| FY19 | 40842 |
-
-| FY20 | 23565 |
-
-| FY21 | 8429 |
-
-| FY22 | 11428 |
-
-| FY23 | 15441 |
-
-| FY24 | 11171 |
-
-| FY25 | 47097 |
-
-| FY26 | 63856 |
+**Figure 3. Furukawa Electric Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Furukawa Electric Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY17 | 4.6 |
-
-| FY18 | 4.6 |
-
-| FY19 | 4.1 |
-
-| FY20 | 2.6 |
-
-| FY21 | 1 |
-
-| FY22 | 1.2 |
-
-| FY23 | 1.4 |
-
-| FY24 | 1.1 |
-
-| FY25 | 3.9 |
-
-| FY26 | 4.9 |
+**Figure 4. Furukawa Electric Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Furukawa Electric Co., Ltd. — revenue and operating margin**
+**Figure 5. Furukawa Electric Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -154,7 +84,7 @@ H1 (April–September 2026) set first-half records at every line (company): sale
 
 Initial (12 May 2026): sales ¥1,460,000mn, OP ¥95,000mn, owners' NI ¥82,000mn. Revision 1 (6 August 2026): sales ¥1,530,000mn, OP ¥123,000mn, NI ¥105,000mn. Revision 2 (9 November 2026): sales ¥1,570,000mn, OP ¥136,000mn, ordinary profit ¥155,000mn, NI ¥118,000mn; dividend unchanged at ¥22 post-split. (A separate 24 September 2026 notice revised only the H1 forecast.) Company-stated reason for Rev.2 (tracker): mainly data-centre-related product demand growth driving optical-solutions sales expansion; of the +¥40bn sales raise, ~¥27bn is copper-price effect (briefing). Segment OP guides: Optical Solutions raised +¥10bn to ¥53,000mn; Digital Infrastructure Components held at ¥51,000mn (sales cut ¥10bn to ¥315,000mn on a consolidation-elimination review — explicitly not demand); Energy Infrastructure held at ¥7,000mn; Automotive Systems +¥1bn; Metal Solutions +¥2bn. Implied H2 OP is ¥78.4bn (calculated) vs ¥57.6bn in H1, and full-year FCF is guided to roughly zero.
 
-**Exhibit 3: FY3/2027 guidance chain (¥mn)**
+**Figure 6. Exhibit 3: FY3/2027 guidance chain (¥mn)**
 
 | Step | Net sales | OP | Ordinary profit | Owners' NI |
 |---|---|---|---|---|
@@ -191,46 +121,7 @@ Furukawa's value chain runs from materials (copper, glass preforms) through comp
 
 The external market frame is consistent with the company's capacity stance. FIELDNOTES' optical-modules/CPO industry report (16 November 2026), citing Precedence Research (September 2026), puts the global optical-cable market at US$18.5bn in 2025 rising to US$49.76bn by 2035, a 10.4% CAGR, and the broader data-centre cable market (optical, copper, AOC and DAC) at US$13.7bn in 2025 rising to US$37.52bn by 2035. Furukawa's disclosed capacity path is built into that demand: rollable-ribbon cable expansion runs FY2026–28 and submarine-fibre capacity is to reach 4× the start-of-FY2026 level by FY2029 (company Q&A, 9 November 2026). The same report notes the optical-transceiver market reached about US$23.9bn in 2025, up 55% year on year on AI-cluster demand (LightCounting series) — the demand pool to which Furukawa's fibre, ferrule and specialty-fibre lines are the upstream complement.
 
-**Figure: Furukawa Electric in the wire & cable value chain**
-
-**Raw materials**
-
-- Copper cathode, aluminium ingot
-- Copper scrap
-- JX Metals, Mitsubishi Materials, Freeport, Codelco
-
-**Components & materials**
-
-- Copper wire rod
-- Insulation & sheath materials
-- Connectors & terminals
-- JST, Yazaki Parts, TE Connectivity
-
-**Furukawa Electric Co., Ltd. (5801)**
-
-- Optical Solutions — optical fibre & cable (OFS, Lightera), specialty fibre, MT ferrules (18.0% H1 margin)
-- Digital Infrastructure Components — HVLP copper foil, DFB laser chips, memory disks, semiconductor tape
-- Energy Infrastructure — power cable incl. submarine cable
-- Automotive Systems & Metal Solutions — wiring harnesses, copper & aluminium products
-
-**Distribution & construction**
-
-- Cable distributors (inventory / cutting)
-- Electrical contractors
-- Senshu Electric, Inaba Denki, WESCO, Rexel
-
-**End customers**
-
-- Construction & buildings
-- Power utilities (grid)
-- Automotive, industrial
-- Obayashi, TEPCO Power Grid, Toyota, Fanuc
-
-**Service & recycling**
-
-- Installed cable renewal
-- Copper scrap recovery & refining
-- JX Metals, Mitsubishi Materials, Nexans
+**Figure 7. Furukawa Electric in the wire & cable value chain**
 
 *Source: FIELDNOTES sector report §4 (wire & cable value chain); company segments from §3 of this report.*
 
@@ -238,7 +129,7 @@ The external market frame is consistent with the company's capacity stance. FIEL
 
 Segment profit is operating profit. Two bases exist and are never spliced: the legacy four segments (FY3/2017–26, Exhibit 2 and the history block) and the new five segments from April 2026 (H1 FY3/2027 and segment OP guides only — no restated history in the materials read). Regional sales are customer-location, annual only; regional profit is not disclosed (register S4, S7). NOTE — sheet discrepancy: the sheet's main-block regional rows follow each tanshin's printed column order, which changed between the FY2022 and FY2023 documents, so the sheet's second and third regional rows swap identity (Asia ex-China vs North & Central America) between FY3/2022 and FY3/2023 despite register S4's header-mapping note. The regional figures in this report are taken from the tanshin texts directly (see Basis).
 
-**Figure: Furukawa Electric Co., Ltd. — regional revenue by year**
+**Figure 8. Furukawa Electric Co., Ltd. — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -246,7 +137,7 @@ Segment profit is operating profit. Two bases exist and are never spliced: the l
 
 FY3/2026: Electronics & Automotive Systems ¥756,170mn / ¥33,887mn (4.5%); Infrastructure ¥363,941mn / ¥21,439mn (5.9%); Functional Products ¥150,804mn / ¥15,379mn (10.2%); Service & Development ¥36,644mn / −¥6,703mn; adjustment −¥146mn bridges exactly to OP of ¥63,856mn. The five-year rotation: in FY3/2022 E&AS earned ¥123mn (0.0%) and Infrastructure ¥5,184mn; **in FY3/2024 Infrastructure lost ¥11,252mn (fibre-price collapse) while E&AS recovered to ¥18,702mn**. On the history block (same basis), FY3/2017 was Infrastructure ¥257,413mn / ¥14,339mn, E&AS ¥428,298mn / ¥12,793mn, Functional Products ¥124,393mn / ¥11,683mn (9.4%), S&D ¥33,238mn / −¥148mn.
 
-**Exhibit 2: Segments, legacy four-segment basis (¥mn)**
+**Figure 9. Exhibit 2: Segments, legacy four-segment basis (¥mn)**
 
 | Segment | FY22 sales | FY22 profit | FY23 sales | FY23 profit | FY24 sales | FY24 profit | FY25 sales | FY25 profit | FY26 sales | FY26 profit | FY26 margin % |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -259,7 +150,7 @@ FY3/2026: Electronics & Automotive Systems ¥756,170mn / ¥33,887mn (4.5%); Infr
 
 *Source: Company tanshin via PL/segment sheet (register S3). Segment profit = operating profit. The new five-segment basis from April 2026 is not spliced (see section 5).*
 
-**Exhibit 2A. Segments, legacy four-segment basis — FY3/17–FY3/21**
+**Figure 10. Exhibit 2A. Segments, legacy four-segment basis — FY3/17–FY3/21**
 
 | Segment | FY17 sales | FY17 profit | FY18 sales | FY18 profit | FY19 sales | FY19 profit | FY20 sales | FY20 profit | FY21 sales | FY21 profit |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -270,7 +161,7 @@ FY3/2026: Electronics & Automotive Systems ¥756,170mn / ¥33,887mn (4.5%); Infr
 
 *Source: PL/segment workbook — History block, the same legacy four-segment basis as Exhibit 2, J-GAAP as originally reported; shown separately, not spliced into Exhibit 2.*
 
-**Exhibit 2B. Regional sales (customer location) — FY3/17–FY3/21**
+**Figure 11. Exhibit 2B. Regional sales (customer location) — FY3/17–FY3/21**
 
 | Region (customer) | FY17 | FY18 | FY19 | FY20 | FY21 |
 |---|---|---|---|---|---|
@@ -306,6 +197,6 @@ Sources: the PL/segment sheet for Furukawa Electric (5801) in its final audited 
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
