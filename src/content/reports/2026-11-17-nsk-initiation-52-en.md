@@ -1,7 +1,7 @@
 ---
 title: "A precision-demand supercycle meets a ¥15bn reform bill — and the NTN integration timetable is now the story"
 company: "NSK Ltd."
-ticker: "6471"
+ticker: "—"
 sector: "Industrials"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: en
 
 NSK is one of the world's largest bearing makers — Industrial Machinery (bearings and precision products for factory automation, machine tools and semiconductor equipment), Automotive (bearings and components) and, since September 2025, a re-consolidated Steering segment — and it is now pursuing a business integration with NTN, announced in May 2026. In FY3/2026 revenue was ¥911,644mn and operating profit ¥38,812mn (4.3% margin), owners' net income ¥22,867mn. FY3/2027 guidance has been raised twice — to revenue ¥1,050,000mn, reported OP ¥56,000mn, PBT ¥53,500mn and owners' net income ¥34,000mn (EPS ¥69.41, dividend ¥34) — on AI-related precision demand; **the company's adjusted OP guide is ¥71,000mn, the ~¥15,000mn difference being structural-reform and integration-related costs** (briefing materials, via secondary summary; the split is 未取得）. Strengths: (1) genuine operating leverage to the AI capex chain — **H1 FY3/27 Industrial Machinery OP rose to ¥18.5bn (8.6% margin) on semiconductor-equipment, machine-tool, aerospace and defence demand**, and management guides the environment to hold at least through H1 FY3/28; (2) guidance momentum — two raises by Q2, with H2 production volumes planned +10–20% vs H1 as the personnel bottleneck is fixed; (3) cash generation is strong and consistent (operating cash flow ¥97,806mn in FY3/26; positive in all ten years shown); (4) China at 21% of sales is a bearing-market position competitors cannot easily replicate, and China auto held up better than demand in H1 on electric-brake ball screws and local-OEM expansion (company Q&A); (5) the NTN integration, if executed, would create a domestic bearing champion with real synergy scope. Weaknesses: (1) a decade of value destruction in the P&L — OP margin peaked at 9.6% in FY3/2018 and has not exceeded 4.3% since FY3/2021; owners' net income in FY3/2021 was ¥355mn on ¥747,559mn of sales; (2) Automotive earned a −2.9% margin in FY3/2022 (a ¥13,220mn third-quarter segment loss) and only 4.3% in FY3/2026 — structurally the weakest leg; (3) comparability is poor: steering was inside Automotive (FY22–23), a discontinued operation (FY24–25, post-tax losses of ¥4,986mn and ¥1,875mn) and a consolidated segment again from September 2025 (FY26), and FY2027 filings restate FY2026 comparatives — almost no clean YoY line exists; (4) the reported-to-adjusted OP gap (~¥15,000mn guided for FY3/27) is large relative to reported OP and its split between reform and integration is undisclosed; (5) the NTN integration's definitive-agreement target date (12 November 2026, six months after the basic agreement) has passed — the interview pack records no commitment even to disclose a delay — and Steering, outside the mid-term-plan perimeter, is simultaneously being shopped for a strategic partner; (6) leverage is real: borrowings of ¥320,084mn against cash of ¥142,123mn at FY3/26-end (net debt ¥177,961mn, calculated). Rating and price target are Under Review placeholders (see Basis of preparation).
 
-**Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
+**Figure 1. Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
 
 |  | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ NSK is one of the world's largest bearing makers — Industrial Machinery (beari
 *Source: Company tanshin via PL/segment sheet (register S1–S21). FY22–23 as originally reported (steering in continuing); FY24–25 continuing (steering discontinued); FY26 includes Steering consolidated from 1 Sep 2025. EPS: FY17–21 calculated on the history block's weighted shares; FY26 Finnhub; FY22–25 not carried in the sheet. Margins calculated.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥975.4 |
@@ -44,6 +45,7 @@ NSK is one of the world's largest bearing makers — Industrial Machinery (beari
 | H1 FY3/27 operating profit | ¥30,100mn (+69.8% YoY) |
 
 ## Key points
+
 - **Guidance raised twice by Q2** FY3/2027 guidance: initial 12 May 2026 revenue ¥1,000,000mn / OP ¥42,000mn / owners' NI ¥24,000mn; Rev.1 30 July 2026 ¥1,040,000mn / ¥50,000mn / ¥29,000mn; Rev.2 29 October 2026 ¥1,050,000mn / OP ¥56,000mn / PBT ¥53,500mn / NI ¥34,000mn / EPS ¥69.41. The company attributes the raises to Industrial Machinery demand for semiconductor production equipment and machine tools on expanding AI investment, plus a weaker yen (revision notices). **The adjusted OP guide of ¥71,000mn implies ~¥15,000mn of reform/integration costs in the reported line**.
 - **H1 FY3/27: precision profit nearly quadrupled** H1 revenue ¥520.4bn (+26.2%), OP ¥30.1bn (+69.8%), owners' NI ¥18.8bn (EPS ¥38.5). **Industrial Machinery OP was ¥18.5bn (8.6% margin, +278% YoY)**; FX added +¥28.4bn to revenue and +¥7.1bn to OP (company). Two flatterers: Steering was consolidated for six months vs one month in the prior H1, and management concedes some orders are advance ordering. The binding constraint was personnel, not equipment — H2 volumes are planned +10–20% vs H1.
 - **NTN integration: the timetable is the question** NSK and NTN announced a business-integration basic agreement in May 2026 (register S14) — the largest event in NSK's history, with no effect on reported figures through Q2 FY3/27. The six-month definitive-agreement target date (12 November 2026) has now passed; the interview pack records no disclosed commitment on next steps. **Execution, remedy and synergy disclosure from here is the single largest driver of the equity story — and of the ~¥15bn cost gap in the FY3/27 guide**.
@@ -58,91 +60,19 @@ The arc is a long de-rating and a sharp recent turn. **Sales peaked at ¥1,020,3
 
 Data-quality note (register S5, S15–S17): most main-window tanshin PDFs use a cipher font whose text layer extracts as mojibake; the sheet's builder decoded them with a verified substitution cipher and accepted figures only where the accounting identities hold, and a 2026-11-17 verify-and-fix removed a mis-mapped FY2026 Q1 segment layout and three mis-slotted balance-sheet quarter-ends. Headline lines reproduce exactly against NSK's audited English statements (FY3/2026 sales ¥911,644mn, OP ¥38,812mn, owners' NI ¥22,867mn).
 
-**Figure: NSK Ltd. — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 949170 |
-
-| FY18 | 1020338 |
-
-| FY19 | 991365 |
-
-| FY20 | 831034 |
-
-| FY21 | 747559 |
-
-| FY22 | 865166 |
-
-| FY23 | 938098 |
-
-| FY24 | 788867 |
-
-| FY25 | 796667 |
-
-| FY26 | 911644 |
+**Figure 2. NSK Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: NSK Ltd. — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 65341 |
-
-| FY18 | 97875 |
-
-| FY19 | 79279 |
-
-| FY20 | 23604 |
-
-| FY21 | 6364 |
-
-| FY22 | 29430 |
-
-| FY23 | 32936 |
-
-| FY24 | 27391 |
-
-| FY25 | 28457 |
-
-| FY26 | 38812 |
+**Figure 3. NSK Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: NSK Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY17 | 6.9 |
-
-| FY18 | 9.6 |
-
-| FY19 | 8 |
-
-| FY20 | 2.8 |
-
-| FY21 | 0.9 |
-
-| FY22 | 3.4 |
-
-| FY23 | 3.5 |
-
-| FY24 | 3.5 |
-
-| FY25 | 3.6 |
-
-| FY26 | 4.3 |
+**Figure 4. NSK Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: NSK Ltd. — revenue and operating margin**
+**Figure 5. NSK Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -158,7 +88,7 @@ H1 (April–September 2026): revenue ¥520.4bn (+26.2% YoY), OP ¥30.1bn (+69.8%
 
 Initial (12 May 2026): revenue ¥1,000,000mn, OP ¥42,000mn, owners' NI ¥24,000mn. Revision 1 (30 July 2026): ¥1,040,000mn / ¥50,000mn / ¥29,000mn. Revision 2 (29 October 2026): revenue ¥1,050,000mn, OP ¥56,000mn, PBT ¥53,500mn, owners' NI ¥34,000mn, EPS ¥69.41, dividend ¥34 (interim ¥17). Company-stated reasons: Industrial Machinery exceeded the initial forecast on semiconductor-production-equipment and machine-tool demand against expanding AI investment, helped by a weaker-than-assumed yen, with H2 Industrial Machinery demand also expected firm (revision notices). Segment guides (briefing materials): Industrial Machinery revenue ¥436.0bn / OP ¥37.5bn (adjusted OP ¥44.0bn, 10.1% margin); Automotive ¥403.0bn / ¥17.5bn; Steering ¥180.0bn / ¥6.0bn. H2 FX assumptions USD ¥155 / EUR ¥175 / CNY ¥22.5. The adjusted OP guide of ¥71.0bn against reported ¥56.0bn leaves ~¥15.0bn of structural-reform and integration-related costs unitemised in the sources read (未取得 as to split).
 
-**Exhibit 3: FY3/2027 guidance chain (¥mn)**
+**Figure 6. Exhibit 3: FY3/2027 guidance chain (¥mn)**
 
 | Step | Revenue | OP (reported) | OP (adjusted) | Owners' NI | EPS (¥) |
 |---|---|---|---|---|---|
@@ -195,42 +125,7 @@ NSK competes in a global bearing oligopoly — SKF, Schaeffler, Timken, NTN, JTE
 
 Market-size claims for bearings need their definitions attached, because the published range is unusually wide. The FIELDNOTES bearings report (16 Nov 2026) compiles agency forecasts side by side: a narrow rolling-bearings definition at $58.6bn in 2024 growing to $143.6bn by 2034 (Global Market Insights basis, CAGR 9.0%), a ball-and-roller-only definition at $29.5bn in 2024 growing to $38.7bn by 2035 (WiseGuy Reports, CAGR 2.5%), and a broad definition including plain and mounted bearings at $154.4bn in 2025 (Reports and Data, CAGR 4.5%). The common ground across definitions is narrower: automotive is the largest end-market (about 40% on the broad basis) and Asia-Pacific the largest region (51.2% on the narrow basis). The one segment with consistent high growth across sources is EV bearings — about $2.94bn in 2025 to about $5.87bn by 2030 (CAGR 14.9%) — where electrical-erosion protection (insulated, coated and ceramic-hybrid designs) is becoming a qualification requirement rather than a differentiator.
 
-**Figure: NSK in the bearings value chain**
-
-**Raw Materials**
-
-- Bearing steel SUJ2: Nippon Steel
-- Special steel: Daido, Sanyo, Aichi
-- Ceramic balls Si3N4: Kyocera, Denka
-- Grease, resin cage materials
-
-**Components**
-
-- Forged, turned rings & rolling elements
-- Cages, seals
-- Ceramic balls (with material makers)
-- Sensor units
-
-**NSK Ltd. (6471)**
-
-- Industrial Machinery — bearings, ball screws & linear guides for FA, machine tools & semiconductor equipment
-- Automotive — bearings & components incl. electric-brake ball screws
-- Steering — EPS & steering columns (NSK Steering & Control)
-- Other — equipment & services
-
-**Distribution & Integration**
-
-- Industrial distributors, trading houses
-- EC: Misumi, MonotaRO
-- OEM direct delivery (automotive)
-- Genuine-parts networks, anti-counterfeit checks
-
-**End Customers & Aftermarket**
-
-- Automotive OEMs & Tier 1s: Toyota group
-- Machine tools, semiconductor equipment
-- Construction, rail, aero engines, wind
-- Condition monitoring, remanufacturing: SKF, NSK
+**Figure 7. NSK in the bearings value chain**
 
 *Source: FIELDNOTES sector report §4 (bearings value chain); company segments from §3 of this report.*
 
@@ -240,7 +135,7 @@ Segment sales are segment TOTAL sales (external + intersegment; intersegment ari
 
 The full regional series shows a group whose centre of gravity moved less than the China narrative suggests. China sales were ¥201,185mn in FY3/17 (21.2% of consolidated sales) and ¥194,490mn in FY3/26 (21.3%) — the share is unchanged across the decade, through a peak of ¥212,097mn in FY3/18 and a trough of ¥148,525mn in FY3/20. Japan's share fell from 34.8% in FY3/17 to 31.5% in FY3/26, and the Americas recovered from a FY3/21 trough of ¥107,829mn to ¥183,149mn in FY3/26, the largest regional gain of the window. Europe ended the window at ¥126,699mn, above its FY3/17 level of ¥121,920mn but below the FY3/18 peak. Regional profit is not disclosed in any year, so none of these mixes can be tied to profitability from company disclosure.
 
-**Figure: NSK Ltd. — regional revenue by year**
+**Figure 8. NSK Ltd. — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -248,7 +143,7 @@ The full regional series shows a group whose centre of gravity moved less than t
 
 FY3/2026 (four segments): **Industrial Machinery ¥377,491mn / ¥12,565mn (3.3%); Automotive ¥403,304mn / ¥17,366mn (4.3%); Steering ¥100,554mn / ¥7,730mn (7.7%, seven months)**; Other ¥54,936mn / ¥484mn (0.9%); adjustments −¥24,641mn sales / +¥667mn profit. FY3/2022 (three segments, steering inside Automotive, CMS-restated): Industrial Machinery ¥352,226mn / ¥30,353mn (8.6%); Automotive ¥482,547mn / −¥13,762mn (−2.9%); Other ¥53,303mn / ¥2,871mn; adjustments −¥22,910mn / +¥9,968mn. Two flagged alternatives: (i) the FY2026 tanshin restates FY2025 segment profit with a ¥1,384mn Steering equity-method result carved out of Automotive (register S6) — not the basis of the sheet's main block; (ii) FY2027 filings restate FY2026 comparatives in connection with the new mid-term plan's reclassifications (H1 FY2026 OP ¥17,708mn restated vs ¥16,467mn as reported; register S12) — this report keeps original filings.
 
-**Exhibit 2: Segment sales / profit (¥mn, total-sales basis) — FY3/2026 vs FY3/2022**
+**Figure 9. Exhibit 2: Segment sales / profit (¥mn, total-sales basis) — FY3/2026 vs FY3/2022**
 
 | Segment | FY22 sales | FY22 profit | FY26 sales | FY26 profit | FY26 margin % |
 |---|---|---|---|---|---|
@@ -261,7 +156,7 @@ FY3/2026 (four segments): **Industrial Machinery ¥377,491mn / ¥12,565mn (3.3%)
 
 *Source: Company tanshin via PL/segment sheet (register S6, S8). FY22: steering inside Automotive; CMS restated basis. FY26: Steering consolidated from 1 Sep 2025 (seven months).*
 
-**Exhibit 2A. Segment sales / profit — additional years (total-sales basis)**
+**Figure 10. Exhibit 2A. Segment sales / profit — additional years (total-sales basis)**
 
 | Segment | FY23 sales | FY23 profit | FY24 sales | FY24 profit | FY25 sales | FY25 profit | FY17 sales | FY17 profit | FY18 sales | FY18 profit | FY19 sales | FY19 profit | FY20 sales | FY20 profit | FY21 sales | FY21 profit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -273,7 +168,7 @@ FY3/2026 (four segments): **Industrial Machinery ¥377,491mn / ¥12,565mn (3.3%)
 
 *Source: PL/segment workbook — Main-window years: segment TOTAL sales (external + intersegment); the third slot is 'Other' for FY3/22-25 and becomes Steering only in FY3/26 (Steering consolidated 1 Sep 2025; in FY3/24-25 steering was a discontinued operation outside these segment figures). History years FY3/17-21: era structure of two reportable segments (Industrial Machinery / Automotive) plus Other, same total-sales presentation; adjustments are the sheet's formula rows (printed adjustments: FY17 -¥18,312mn profit, FY18 -¥2,093mn, FY19 -¥4,165mn, FY20 -¥1,668mn, FY21 +¥1,705mn).*
 
-**Exhibit 2B. Regional sales (customer location)**
+**Figure 11. Exhibit 2B. Regional sales (customer location)**
 
 | ¥mn | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -311,6 +206,6 @@ Sources: the PL/segment sheet for NSK (6471) — main window FY3/2022–FY3/2026
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
