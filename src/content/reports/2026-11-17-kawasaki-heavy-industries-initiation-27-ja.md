@@ -11,7 +11,7 @@ lang: ja
 
 One group, five cycles — defence, energy, mobility and consumer — now pulling in the same direction: Kawasaki Heavy Industries, Ltd. (7012, TSE Prime) is the Kobe- and Tokyo-based heavy-industry group founded in 1878 (incorporated 1896) whose five reportable segments span Aerospace Systems (airframes, aero engines, defence aircraft, submarines and missiles are split across Aerospace and Energy & Marine in the company's cross-segment 'defence' definition), Energy Solutions & Marine Engineering (gas turbines, plants, ships and offshore structures), Precision Machinery & Robot (hydraulics and industrial robots), Powersports & Engine (motorcycles and off-road vehicles under the Kawasaki brand) and Rolling Stock (rail vehicles). The initiation question is whether the profit step-up of FY3/25–26 is a durable new base or a stack of tailwinds. The record so far: revenue rose from ¥1,500,879mn in FY3/22 (IFRS basis, carried from FY3/23 comparatives — FY3/22 was J-GAAP as reported) to a record ¥2,311,267mn in FY3/26, and business profit (事業利益, the group's headline profit measure) recovered from ¥30,366mn (2.0% margin) in FY3/22 and a second dip to ¥46,201mn in FY3/24 to ¥145,103mn (6.3%) in FY3/26. H1 FY3/27 then printed record first-half revenue of ¥1,084,419mn (+8.8% YoY) and **business profit of ¥73,866mn (+106.8%)**, and full-year guidance was raised for a second time on 10 November 2026 to revenue of ¥2,560,000mn and business profit of ¥185,000mn (company guidance). Strengths: (1) breadth of the upcycle — in FY3/26 Aerospace earned ¥62,484mn and Energy & Marine ¥55,016mn of segment business profit, order intake reached ¥2,739,100mn, and the defence business (company definition, cross-segment) is guided to ¥514,000mn of FY3/27 revenue with a company-plan FY2030 target of ¥700–800bn; (2) genuine operating improvement in previously loss-making units — Energy & Marine swung from −¥10,884mn in FY3/22 to ¥55,016mn in FY3/26 on ship & offshore profitability and gas-turbine demand; (3) a repaired balance sheet and capital policy — owners' equity ratio 26.4% at March 2026, a DOE 4% dividend policy, and a July 2026 capital raise (¥93.4bn of new shares plus ¥101.0bn of convertible bonds) funding Vision 2030 growth investment. Weaknesses: (1) earnings quality in the latest beat — H1 FY3/27 business profit includes a ¥9,300mn US IEEPA tariff refund (Powersports & Engine), a ¥3,100mn gain on sale of subsidiary shares (Energy & Marine) and an undisclosed robot-dispute settlement (Precision Machinery & Robot), plus ¥23,700mn of FX benefit in the company's YoY bridge, while **H1 defence orders fell 64% YoY to ¥74,600mn against a ¥450,500mn full-year orders guide** (company plan); (2) margin thinness and volatility — the ten-year record contains a J-GAAP operating loss in FY3/21, an Aerospace segment loss in two of the last five years, and a Powersports & Engine margin collapse from 12.1% (FY3/23) to 3.3% (FY3/26) on US tariffs and motorcycle mix; (3) disclosure limits — no regional sales or profit, no order backlog and no defence-only profit in the tanshin, so the two most debated numbers (defence margin, backlog cover) cannot be verified from primary filings. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (FY3/17–FY3/21 J-GAAP as reported; FY3/22 on the IFRS basis of the FY3/23 comparatives; FY3/23–FY3/26 IFRS); the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -31,6 +31,7 @@ One group, five cycles — defence, energy, mobility and consumer — now pullin
 *Source: Company results via PL/segment sheet and history files (tanshin, JPX archive). FY3/17–FY3/21: J-GAAP as reported (profit line = J-GAAP operating profit). FY3/22: IFRS basis carried from the FY3/23 tanshin comparatives (FY3/22 was J-GAAP as originally reported — see Basis of preparation). FY3/23–FY3/26: IFRS as reported (profit line = business profit, incl. share of profit of associates). EPS as reported in each year's own tanshin: FY3/17–21 post-consolidation basis; FY3/22–25 pre-split basis (5-for-1 split, 1 Apr 2026); FY3/26 and FY3/27E post-split basis. DPS as reported (pre-split through FY3/26; FY3/17–18 not in the sources used). Order intake from the tanshin qualitative overview (億円 at source; FY3/17–21 not captured). FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin [IFRS], 10 Nov 2026 (orders guidance ¥2,490,000mn).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥1.49tn |
@@ -41,6 +42,7 @@ One group, five cycles — defence, energy, mobility and consumer — now pullin
 | Next event | Q3 FY3/27 results, early Feb 2027 |
 
 ## Key points
+
 - **H1 FY3/27: record half, second guidance raise — with one-offs inside.** For the six months to 30 September 2026 (IFRS), revenue was ¥1,084,419mn (+8.8% YoY, a first-half record), **business profit ¥73,866mn (+106.8%; margin 6.8%)**, profit before tax ¥56,784mn (after a ¥6,800mn FX loss as the yen strengthened to ¥157.33/USD at end-Q2), net income ¥33,180mn and net income attributable to owners ¥30,922mn (+40.0%); basic EPS was ¥36.18 (post-split). Inside the profit doubling sit a ¥9,300mn IEEPA tariff refund, a ¥3,100mn subsidiary-share sale gain, a robot-dispute settlement (amount not disclosed) and ¥23,700mn of FX benefit per the company's bridge (briefing, 10 November 2026). Source: Q2 FY3/27 tanshin [IFRS], 10 November 2026; Q2 FY3/27 briefing transcript (full verbatim, SCRIPTS Asia via company IR library).
 - **Guidance raised twice since May — and it is H2-loaded by design.** Full-year FY3/27 company guidance (会社計画) as revised on 10 November 2026 is revenue ¥2,560,000mn (unchanged through both revisions), business profit ¥185,000mn (from ¥170,000mn initially in May 2026 and ¥180,000mn at Q1 on 7 August 2026), profit before tax ¥161,000mn, owners' net income ¥118,000mn and basic EPS ¥133.69; orders guidance was raised ¥70,000mn to ¥2,490,000mn and a full-year free-cash-flow forecast of +¥20,000mn was disclosed for the first time. H1 delivered 42.4% of guided revenue and 39.9% of guided business profit, so **the guide requires H2 business profit of about ¥111,100mn (calculated) at a ~7.5% margin** — predicated on H2-weighted aerospace and defence deliveries landing on schedule. Segment revisions at Q2: Aerospace business profit cut ¥4,000mn to ¥68,000mn (Boeing and MoD timing), Energy & Marine raised ¥6,000mn to ¥75,000mn, Precision Machinery & Robot raised ¥2,000mn to ¥33,000mn. Source: Q2 FY3/27 tanshin, 10 November 2026; guidance tracker (verified against tanshin forecast tables, initial 12 May 2026 / Q1 7 Aug 2026 / Q2 10 Nov 2026).
 - **Strength — the profit pool has rotated to aerospace and energy, and both are order-backed.** In FY3/26 **Aerospace Systems earned ¥62,484mn of business profit (10.2% margin)** on revenue of ¥613,691mn and Energy Solution & Marine ¥55,016mn (12.7%) on ¥433,574mn — together 81% of the five segments' combined profit before Other and adjustments — against group order intake of ¥2,739,100mn (1.19x revenue). Aerospace order intake was ¥810,900mn in FY3/26 after ¥882,800mn in FY3/25. The defence overlay (company definition) is guided to FY3/27 revenue of ¥514,000mn (+20%) with a company-plan FY2030 revenue target raised to ¥700–800bn (from ¥500–700bn) and a defence margin above 10% from FY2027 onward — company plan figures via the Group Vision 2030 progress meeting of 6 October 2026, as compiled in the interview pack; defence-only profit is not disclosed. Source: company results via PL/segment sheet (tanshin, JPX archive); interview pack 7012, 16 November 2026.
@@ -57,63 +59,15 @@ Below business profit, the financing line is the swing factor in two recent year
 
 Orders are the group's best forward indicator and are disclosed in the tanshin's qualitative overview table in 億円 (hundreds of millions) at source. Total order intake was ¥1,602,100mn in FY3/22, ¥2,037,400mn in FY3/23, ¥2,083,400mn in FY3/24, ¥2,630,700mn in FY3/25 and ¥2,739,100mn in FY3/26 — a book-to-bill of 1.07x / 1.18x / 1.13x / 1.24x / 1.19x (calculated). Aerospace intake (¥383,300mn / ¥345,500mn / ¥692,600mn / ¥882,800mn / ¥810,900mn) explains most of the FY3/24–25 step-up (defence and aero-engine demand), and Rolling Stock intake is lumpy by construction (¥71,500mn in FY3/22 against ¥313,200mn in FY3/23 and ¥319,100mn in FY3/26). Order backlog is not disclosed in the tanshin (briefing materials only) and is therefore not presented as a tanshin figure in this report; the interview pack cites a backlog of ¥3,211,800mn at September 2026 via a secondary compilation (FIELDNOTES defence report), flagged as such wherever used. The balance sheet expanded with the order book: total assets were ¥1,687,363mn at FY3/17 (J-GAAP) and ¥3,324,623mn at FY3/26 (IFRS), with inventories of ¥822,169mn and receivables of ¥880,387mn at FY3/26 against cash and equivalents of ¥115,414mn and debt (bonds, borrowings and other financial liabilities as presented, including leases) of ¥861,189mn on the sheet's definition. Operating cash flow was ¥93,514mn / ¥56,050mn / ¥109,762mn / −¥15,461mn / ¥34,601mn in FY3/17–21 (J-GAAP) and ¥156,890mn / ¥23,617mn / ¥31,662mn / ¥148,943mn / ¥140,071mn in FY3/22–26 (IFRS) — cash conversion is as cyclical as profit, a point Chapter 6 develops. Exhibit 1 (page 1) gives the full ten-year KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet and history files (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin, 12 May 2026.
 
-**Figure: Kawasaki Heavy Industries, Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 1518830 |
-
-| FY3/18 | 1574242 |
-
-| FY3/19 | 1594743 |
-
-| FY3/20 | 1641335 |
-
-| FY3/21 | 1488486 |
-
-| FY3/22 | 1500879 |
-
-| FY3/23 | 1725609 |
-
-| FY3/24 | 1849287 |
-
-| FY3/25 | 2129321 |
-
-| FY3/26 | 2311267 |
+**Figure 2. Kawasaki Heavy Industries, Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Kawasaki Heavy Industries, Ltd. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 45960 |
-
-| FY3/18 | 55925 |
-
-| FY3/19 | 64023 |
-
-| FY3/20 | 62063 |
-
-| FY3/21 | -5305 |
-
-| FY3/22 | 30366 |
-
-| FY3/23 | 85294 |
-
-| FY3/24 | 46201 |
-
-| FY3/25 | 143123 |
-
-| FY3/26 | 145103 |
+**Figure 3. Kawasaki Heavy Industries, Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Kawasaki Heavy Industries, Ltd. — revenue and operating margin**
+**Figure 4. Kawasaki Heavy Industries, Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -137,7 +91,7 @@ Full-year FY3/27 guidance, as revised in the Q2 release of 10 November 2026, is 
 
 Segment guidance (Q2 revision, company guidance via the briefing): Aerospace Systems orders ¥640,000mn, revenue ¥710,000mn, business profit ¥68,000mn (profit cut ¥4,000mn); Energy Solution & Marine orders ¥560,000mn (+¥60,000mn), revenue ¥470,000mn, business profit ¥75,000mn (+¥6,000mn); Precision Machinery & Robot revenue ¥320,000mn (+¥10,000mn), business profit ¥33,000mn (+¥2,000mn), including a semiconductor-robot revenue forecast of ¥54,500mn for the year; Powersports & Engine revenue plan ¥730,000mn and business profit ¥30,000mn, both unchanged (revenue figure as confirmed in briefing Q&A); Rolling Stock guidance was left unchanged at the Q2 revision (its absolute revenue/profit guide values are not in the sources used here — 未取得). Against the consolidated guide, H1 progress was 42.4% on revenue and 39.9% on business profit, so delivery requires H2 business profit of about ¥111,100mn (calculated) — the guide is H2-loaded by design (aerospace and defence deliveries), but the Q&A record shows analysts pressing exactly this point, including whether the Q1 'risk buffer' (about ¥20,000mn by one analyst's estimate) has been drawn: management's answer was that the buffer remains but Powersports risks (developed-market motorcycle volumes, a quality problem whose resolution timing is uncertain) may absorb part of it. The defence sub-guide concentrates the risk further: FY3/27 defence revenue of ¥514,000mn (+20%) and defence orders of ¥450,500mn (company plan) against H1 orders of ¥74,600mn imply **roughly ¥375,900mn of defence orders must land in H2 (calculated from the pack's figures)**. Exhibit 3 sets out H1 segment actuals and the FY3/27 segment guidance as disclosed. Source: Q2 FY3/27 tanshin, 10 November 2026 (forecast section 3); Q2 FY3/27 briefing transcript; guidance tracker 2026-11-17 (verified); interview pack 7012.
 
-**Exhibit 3. H1 FY3/27 segment results (IFRS) and FY3/27 company guidance by segment**
+**Figure 5. Exhibit 3. H1 FY3/27 segment results (IFRS) and FY3/27 company guidance by segment**
 
 | ¥mn | H1 FY3/27 revenue | H1 FY3/27 profit | FY3/27E revenue (guidance) | FY3/27E profit (guidance) |
 |---|---|---|---|---|
@@ -180,50 +134,7 @@ Rolling Stock builds rail vehicles for Japanese operators and overseas transit a
 
 Kawasaki Heavy sits in five value chains that share heavy-engineering competence — rotating machinery, structures, hydraulics and systems integration — but face different buyers and cycles. In defence (cross-segment, the current swing factor), the buyer is effectively one: Japan's Ministry of Defense, whose budget expansion under the 2022 security-strategy revision (defence spending toward 2% of GDP, brought forward to FY3/27 under the Takaichi government per Reuters coverage of December 2025) funds submarines, patrol and transport aircraft, helicopters, missiles and engines. KHI's incumbency is deep (it and Mitsubishi Heavy dominate Japanese naval and much air procurement), entry barriers are certification, security and decades of programme history, and the substitute risk is political, not commercial — budget sequencing is exactly what the H1 orders print (−64% YoY) may be signalling, which is why the pack's first interview question asks for programme-by-programme H2 contracting. In commercial aerospace, KHI is a risk-sharing structures and engine-module supplier to Boeing and Rolls-Royce: volumes are set by OEM build rates (787 shipsets), pricing is programme-life, and the value-chain risk is single-customer timing, as the Q2 guidance cut showed. In energy, gas turbines for distributed and data-centre-adjacent power compete with GE Vernova, Siemens Energy and Mitsubishi Heavy on efficiency, lead time and service; KHI's stated edge is small/mid-frame lead times of 1–2 years (interview pack) and a hydrogen-ready product line (the RWE 34MW trial), while ship & offshore competes for LNG/LPG carrier and naval tonnage against Korean and Chinese yards, partly through its own Chinese joint ventures whose equity-method profit is now a material earnings contributor. In precision machinery, hydraulic components for excavators compete with Bosch Rexroth, Danfoss and domestic makers on installed-base trust with the global construction-machinery OEMs, and robots compete with FANUC, Yaskawa and ABB — with semiconductor-wafer robots the contested growth niche. In powersports, the competitors are Honda, Yamaha, Suzuki, Polaris and BRP in a discretionary consumer market where brand, dealer networks and US tariff exposure decide margin. No company-disclosed market-size or market-share series is carried in the tanshin sources used here, and none is substituted: the verifiable demand evidence is the group's own order intake (¥2,739,100mn in FY3/26, 1.19x revenue), its segment growth, and the briefing colour cited in Chapters 2–3. The two sensitivities that follow for the equity: first, ==the profit pool's centre of gravity has moved to two policy- and capex-driven markets (defence budgets, power capex) whose order timing KHI does not control==; second, the largest revenue segment (Powersports) is the one most exposed to US trade policy, with tariff drag of about ¥28,000mn assumed in FY3/27 guidance against a ¥9,300mn refund received in H1 — the net tariff line is now a first-order earnings variable. Sources: Q2 FY3/27 tanshin and briefing transcript, 10 November 2026; interview pack 7012 (briefing-material compilations flagged therein); Reuters, 17 December 2025 (defence-spending policy context).
 
-**Figure: Kawasaki Heavy in the aerospace & heavy-industry value chain**
-
-**Raw Materials & Alloys**
-
-- Ni-based superalloys
-- Titanium alloys, powder metals
-- Carbon fibre / prepreg — Toray
-- High-strength aluminium (Al-Li)
-
-**Castings, Forgings & Fasteners**
-
-- Precision castings — Howmet, PCC
-- Single-crystal turbine blades
-- Fasteners — Howmet, Lisi, SPS
-- Bearings
-
-**Modules & Systems**
-
-- Engine modules — IHI, Kawasaki, MHI (JAEC)
-- MTU Aero Engines
-- Avionics & actuation — Collins, Honeywell, Nabtesco
-- Landing gear, APU, interiors — Safran, Jamco
-
-**Kawasaki Heavy Industries, Ltd. (7012)**
-
-- Aerospace Systems — airframes, aero engines, defence aircraft (26.5% of FY3/26 revenue)
-- Energy Solutions & Marine — gas turbines, ships, submarines (18.8%)
-- Precision Machinery & Robot — hydraulics, industrial robots (11.2%)
-- Powersports & Engine — motorcycles, off-road vehicles (29.5%)
-- Rolling Stock — rail vehicles (10.2%)
-
-**Lessors & End Users**
-
-- Lessors — AerCap, Air Lease, SMBC Aviation
-- Spare-engine leasing, parts distribution (USM)
-- Airlines — ANA, JAL, Delta, Emirates
-- Defence ministries (military)
-
-**MRO & Aftermarket Services**
-
-- Shop visits, LTSA / per-hour contracts
-- GE Aerospace services, Rolls-Royce LTSA
-- MTU Maintenance, Lufthansa Technik, ST Engineering
-- Retired-aircraft part-out (USM)
+**Figure 6. Kawasaki Heavy in the aerospace & heavy-industry value chain**
 
 *Source: FIELDNOTES sector report §4 (aircraft & engines value chain); company segments from §3 of this report.*
 
@@ -231,61 +142,15 @@ Kawasaki Heavy sits in five value chains that share heavy-engineering competence
 
 Kawasaki Heavy's tanshin disclosure gives a complete business-segment history on the IFRS basis for FY3/22–26 (FY3/22 from FY3/23 comparatives) and order intake by segment in the qualitative overview table, but no regional note: regional sales and regional profit are not disclosed in the tanshin on any basis (sheet register S9), and this chapter keeps that gap explicit rather than filling it from briefing materials.
 
-**Figure: Kawasaki Heavy Industries, Ltd. — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Aerospace Systems — external revenue | 613691 |
-
-| Rolling Stock — external revenue | 236203 |
-
-| Energy Solution & Marine — external revenue | 433574 |
-
-| Precision Machinery & Robot — external revenue | 259146 |
-
-| Powersports & Engine — external revenue | 682812 |
-
-| Other — external revenue | 85839 |
+**Figure 7. Kawasaki Heavy Industries, Ltd. — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Kawasaki Heavy Industries, Ltd. — segment revenue by year**
+**Figure 8. Kawasaki Heavy Industries, Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Kawasaki Heavy Industries, Ltd. — segment revenue mix, FY3/26**
-
-**Powersports & Engine**
-
-- ¥682,812mn
-- 29.5% of revenue
-
-**Aerospace Systems**
-
-- ¥613,691mn
-- 26.6% of revenue
-
-**Energy Solution & Marine**
-
-- ¥433,574mn
-- 18.8% of revenue
-
-**Precision Machinery & Robot**
-
-- ¥259,146mn
-- 11.2% of revenue
-
-**Rolling Stock**
-
-- ¥236,203mn
-- 10.2% of revenue
-
-**Other**
-
-- ¥85,839mn
-- 3.7% of revenue
+**Figure 9. Kawasaki Heavy Industries, Ltd. — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -293,7 +158,7 @@ Kawasaki Heavy's tanshin disclosure gives a complete business-segment history on
 
 Exhibit 2 gives the five-year IFRS history. Three facts organise it. First, profit concentration: in FY3/26 the five reportable segments plus Other earned ¥170,408mn of business profit before a −¥25,308mn disclosed adjustment to consolidated business profit of ¥145,103mn — **Aerospace ¥62,484mn and Energy & Marine ¥55,016mn together were 69% of the pre-adjustment total**, with Powersports & Engine down to ¥22,750mn, Precision Machinery & Robot ¥14,391mn, Rolling Stock ¥8,683mn and Other ¥7,084mn. In FY3/23, by contrast, Powersports alone earned ¥71,533mn. The group's earnings centre has rotated completely within three years — from consumer to defence/energy — which is both the bull case (policy-backed demand) and the concentration risk. Second, margin dispersion is extreme and persistent: FY3/26 margins ran from 12.7% (Energy & Marine) and 10.2% (Aerospace) through 5.6% (Precision) and 3.7% (Rolling Stock) to 3.3% (Powersports), and two segments (Aerospace, Energy & Marine) were loss-making as recently as FY3/22. Third, orders lead revenue unevenly: Aerospace intake of ¥882,800mn in FY3/25 preceded its FY3/26 revenue step to ¥613,691mn, while Rolling Stock's ¥319,100mn FY3/26 intake has yet to convert. Per-segment order intake in the sheet's supplementary rows (億円-rounded at source) covers Aerospace, Rolling Stock and Precision Machinery & Robot (¥271,800mn / ¥262,000mn / ¥213,300mn / ¥249,200mn / ¥278,500mn across FY3/22–26) and Other; the Energy & Marine and Powersports order rows are blank in the sheet's supplementary block and are not presented here (see Basis of preparation). FY3/26 quarterly tanshin no longer carry the overview table, so FY3/26 quarterly order cells are blank in the sheet; the annual figures are from the annual tanshin. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note and registers S4–S6.
 
-**Exhibit 2. Business segments — external revenue and segment profit (business profit)**
+**Figure 10. Exhibit 2. Business segments — external revenue and segment profit (business profit)**
 
 | ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -358,6 +223,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
