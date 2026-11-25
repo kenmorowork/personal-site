@@ -1,7 +1,7 @@
 ---
 title: "Two guidance raises in seven months — FY3/27 OP guide +54% vs April — on a 66% SoC tester share and a capacity race; H2 margin is already guided down from H1's 54%"
 company: "Advantest Corporation"
-ticker: "6857"
+ticker: "—"
 sector: "Semiconductors"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: ja
 
 Advantest is the world's largest maker of semiconductor test equipment, duopolist with Teradyne in SoC testers (V93000 platform) and the leader in memory testers, where HBM test demand has exploded. FY3/2026 (IFRS) sales were ¥1,128,610mn (+44.8%) with operating profit of ¥499,120mn — a 44.2% margin — and net income of ¥375,353mn, all records. The run has continued: H1 FY3/2027 sales were ¥845.2bn (+60.5%) at a 54.0% OP margin (calculated), and **FY3/2027 guidance has been raised twice — from sales ¥1,420,000mn / OP ¥627,500mn in April 2026 to ¥1,863,000mn / ¥967,000mn on 28 October 2026** — with management naming CPU test demand from agentic AI as a 'third layer' of growth on top of GPUs and custom ASICs. Strengths: **a company-estimated SoC tester share of 66% (CY2025, from 56% in CY2024)**, memory tester sales of ¥401.0bn in FY3/2026 (+141%) with HBM about half, Asia at 91.8% of sales by customer location, and a buyback of up to ¥280bn announced with the Q2 print. Weaknesses: H1's margin was flattered by pre-rise DRAM inventory and a one-time write-down reversal (unquantified), H2 OP margin is guided only to the low-50% range, the capacity target (10,000 SoC systems/year) is being pulled forward against a TAM the company itself sizes at $13.0–14.5bn for CY2026, orders/backlog are never disclosed, and the shares — ¥27,205 after an 11.1% fall on 16 November 2026 — still trade on 52.8x FY3/2026 diluted EPS (calculated). Rating and price target are Under Review; this report organises the reported record and the questions it raises — the investment judgement is the reader's.
 
-**Exhibit 1 — Ten-year KPI history (IFRS, ¥mn unless stated)**
+**Figure 1. Exhibit 1 — Ten-year KPI history (IFRS, ¥mn unless stated)**
 
 | Fiscal year | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ Advantest is the world's largest maker of semiconductor test equipment, duopolis
 *Source: PL/segment sheet 6857 (register S1/S2/S11); EPS calculated on documented diluted share counts only — see Ch.9*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥27,205 |
@@ -44,6 +45,7 @@ Advantest is the world's largest maker of semiconductor test equipment, duopolis
 | P/E on FY3/27E guide EPS (calc.) | 26.5x |
 
 ## Key points
+
 - **Guidance: +54% on OP in seven months.** FY3/2027 OP guidance went ¥627,500mn (27 Apr 2026) → ¥846,000mn (29 Jul 2026) → ¥967,000mn (28 Oct 2026), on sales of ¥1,863,000mn and net income of ¥741,500mn. **The October raise's biggest single factor, per the company, was CPU testing demand associated with agentic AI — a third demand layer on top of GPU and custom ASIC test**.
 - **H1 margin of 54.0% is not the run-rate.** H1 FY3/2027 OP margin was 54.0% (calculated), helped by pre-rise DRAM inventory and a one-time inventory write-down reversal (company Q&A; size not disclosed). H2 is guided to a low-50% OP margin; **the implied H2 (calculated) is sales ¥1,017,800mn and OP ¥510,200mn at 50.1%**.
 - **Share and capacity are the debate now.** **Company-estimated SoC tester share rose 56% (CY2024) → 66% (CY2025), with further gains expected**. SoC tester capacity above 5,000 systems/year is achieved; the 10,000/year target — originally end-FY2028 — 'must be brought forward significantly', and 20,000/year is under internal discussion (company Q&A). At 66% share, dual-sourcing pressure from hyperscaler customers is the standing counter-argument, and it is not addressed in disclosure.
@@ -58,91 +60,19 @@ The decade is a compounding story with one deep air-pocket. Sales grew from ¥15
 
 EPS in Exhibit 1 is calculated on diluted weighted shares and shown only where the share basis is documented and internally consistent: FY3/2017–21 on the pre-split counts in the history block, FY3/2023 on its as-reported pre-split count (the split took effect 1 October 2023), and FY3/2026 on the 728.678mn diluted count in the sheet's PL/Drivers tabs (¥515.12). EPS for FY3/2022, FY3/2024 and FY3/2025 is not shown — the sheet's share rows mix pre- and post-split bases inconsistently (Chapter 9) — and no EPS figure is ever spliced across the split. Operating cash flow (annual values as entered in the sheet) rose from ¥15,833mn (FY3/2017) to ¥335,182mn (FY3/2026), dipping to ¥32,668mn in FY3/2024; inventories built from ¥39,093mn to ¥231,718mn across the decade (6.5 months of cost of sales in FY3/2026, calculated).
 
-**Figure: Advantest Corporation — revenue by year**
-
-| Item | Value (Fiscal year) |
-
-|---|---|
-
-| FY3/17 | 155916 |
-
-| FY3/18 | 207223 |
-
-| FY3/19 | 282456 |
-
-| FY3/20 | 275894 |
-
-| FY3/21 | 312789 |
-
-| FY3/22 | 416901 |
-
-| FY3/23 | 560191 |
-
-| FY3/24 | 486507 |
-
-| FY3/25 | 779707 |
-
-| FY3/26 | 1128610 |
+**Figure 2. Advantest Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Advantest Corporation — operating profit by year**
-
-| Item | Value (Fiscal year) |
-
-|---|---|
-
-| FY3/17 | 13905 |
-
-| FY3/18 | 24487 |
-
-| FY3/19 | 64662 |
-
-| FY3/20 | 58708 |
-
-| FY3/21 | 70726 |
-
-| FY3/22 | 114734 |
-
-| FY3/23 | 167687 |
-
-| FY3/24 | 81628 |
-
-| FY3/25 | 228161 |
-
-| FY3/26 | 499120 |
+**Figure 3. Advantest Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Advantest Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 8.9 |
-
-| FY3/18 | 11.8 |
-
-| FY3/19 | 22.9 |
-
-| FY3/20 | 21.3 |
-
-| FY3/21 | 22.6 |
-
-| FY3/22 | 27.5 |
-
-| FY3/23 | 29.9 |
-
-| FY3/24 | 16.8 |
-
-| FY3/25 | 29.3 |
-
-| FY3/26 | 44.2 |
+**Figure 4. Advantest Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Advantest Corporation — revenue and operating margin**
+**Figure 5. Advantest Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -162,7 +92,7 @@ Exhibit 3 (this section) sets out the chain (guidance tracker, verified; sheet r
 
 Against H1 actuals, **the implied H2 (calculated) is sales ¥1,017,800mn (+20% vs H1, as the company frames it, with Q4 above Q3 for both SoC and memory testers) and OP ¥510,200mn at a 50.1% margin** — consistent with the company's H2 guide of a low-50% OP margin, which assumes DRAM cost inflation is offset by higher-spec configurations, licensing and new instrumentation rather than headline price rises (company Q&A). H2 FX assumptions: USD ¥150 / EUR ¥170. With the print the company raised the interim dividend to ¥49 and announced a buyback of up to ¥280.0bn / 11 million shares.
 
-**Exhibit 3 — Latest results and the FY3/2027 guidance chain (¥mn)**
+**Figure 6. Exhibit 3 — Latest results and the FY3/2027 guidance chain (¥mn)**
 
 | Period / step | Sales | Operating profit | Net income (owners) |
 |---|---|---|---|
@@ -201,49 +131,7 @@ Test is the segment of WFE where Advantest and Teradyne (US) form a duopoly in S
 
 Below the tester duopoly, the adjacent test markets Advantest is expanding into are small but growing. The FIELDNOTES semiconductor test report compiles third-party estimates (all secondary, definitions varying): the broad system-level test market at about $6.68bn in 2025 growing to about $15.6bn by 2035 (SNS Insider, CAGR 8.85%), the narrower standalone SLT system market at about $1.79bn in 2025 (PW Consulting), and the test and burn-in socket market at about $1.8bn in 2025 rising to about $2.9bn by 2034 (Dataintelo, CAGR 5.7%). Set against the company's CY2026 tester TAM of $13.0-14.5bn, these pools explain why system-level test and interfaces feature in the growth narrative — and why they cannot yet move group numbers at FY3/26's ¥1,128,610mn sales scale.
 
-**Figure: Advantest in the semiconductor test value chain**
-
-**Materials & substrates**
-
-- Probe-card substrates (ceramic)
-- Socket conductive materials
-- Handler precision parts
-- Kyocera, Nippon Tokushu Togyo, SKC
-
-**Interface consumables**
-
-- Probe cards
-- Test sockets / contactors
-- Load boards
-- FormFactor, Technoprobe, MJC, ISC
-
-**Advantest Corporation (6857)**
-
-- SoC test systems — V93000 platform (66% share, CY2025 company est.)
-- Memory test systems — DRAM/HBM & non-volatile memory (¥401.0bn in FY3/26)
-- Test handlers, device interface boards & system-level test
-- Services & Other — support, maintenance, used equipment on the installed base
-
-**Test execution**
-
-- OSAT test operations
-- Test-program development
-- Yield analysis
-- ASE, Amkor, KYEC, ChipMOS
-
-**End customers**
-
-- Fabless (AI / HPC)
-- Foundries & memory makers
-- Auto IDMs
-- NVIDIA, Broadcom, TSMC, SK hynix
-
-**Service & analytics**
-
-- Maintenance & upgrades
-- Probe-card / contactor replacement
-- Test-data analytics
-- Advantest, Teradyne, PDF Solutions
+**Figure 7. Advantest in the semiconductor test value chain**
 
 *Source: FIELDNOTES sector report §4 (semiconductor test value chain); company product lines from §3 of this report.*
 
@@ -253,55 +141,19 @@ Segment presentation changed at Q1 FY3/2026: two segments (Test Systems / Servic
 
 The old-basis history gives the current two-segment structure a measurable past. On the three-segment basis, Semiconductor & Component Test Systems earned a pre-stock-compensation margin of 16.4% in FY3/17, peaked at 30.8% in FY3/19, and reached 40.3% in FY3/23 (¥163,186mn on ¥404,213mn of sales) before the FY3/24 downturn that the draft's Exhibit 2 picks up. Mechatronics was loss-making in FY3/17-20 (segment losses of ¥1,529mn, ¥2,738mn, ¥712mn and ¥497mn) and only turned profitable in FY3/21 — the business now inside Test Systems was the weak leg of the old structure for four consecutive years. Regionally, Asia was already 73.2% of sales in FY3/17 (¥114,123mn of ¥155,916mn) and 85.6% by FY3/23, so the 91.8% Asia share of FY3/26 is the end of a decade-long drift, not a sudden concentration.
 
-**Figure: Advantest Corporation — segment revenue, FY3/26**
-
-| Item | Value (Fiscal year) |
-
-|---|---|
-
-| Test Systems sales (new basis; FY3/25 restated) | 1019380 |
-
-| Services & Other sales (new basis) | 109230 |
-
-| Asia sales | 1035850 |
-
-| Americas sales | 44474 |
-
-| Europe sales | 23149 |
-
-| Japan sales | 25137 |
+**Figure 8. Advantest Corporation — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Advantest Corporation — segment revenue by year**
+**Figure 9. Advantest Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Advantest Corporation — segment revenue mix, FY3/26**
-
-**Asia**
-
-- ¥1,035,850mn
-- 91.8% of revenue
-
-**Americas**
-
-- ¥44,474mn
-- 3.9% of revenue
-
-**Japan**
-
-- ¥25,137mn
-- 2.2% of revenue
-
-**Europe**
-
-- ¥23,149mn
-- 2.1% of revenue
+**Figure 10. Advantest Corporation — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Advantest Corporation — regional revenue by year**
+**Figure 11. Advantest Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -309,7 +161,7 @@ The old-basis history gives the current two-segment structure a measurable past.
 
 Exhibit 2 (this section) sets out both bases. **New basis: Test Systems sales ¥682,819mn (FY3/2025, restated) → ¥1,019,380mn (FY3/2026), segment profit ¥262,120mn (38.4%) → ¥518,760mn (50.9%)**. Services & Other: sales ¥96,888mn → ¥109,230mn; profit −¥16,125mn → +¥8,758mn. After adjustments and stock-compensation expense (−¥17,834mn in FY3/2025; −¥28,398mn in FY3/2026), the bridge ties exactly to reported operating profit (¥228,161mn; ¥499,120mn). Old basis, as originally reported (register S4): Semiconductor & Component Test Systems sales ¥288,793mn (FY3/2022) → ¥404,213mn → ¥331,542mn → ¥598,128mn (FY3/2025), profit ¥105,655mn → ¥163,186mn → ¥91,916mn → ¥244,021mn; Mechatronics sales ¥42,305mn → ¥59,874mn → ¥52,695mn → ¥73,180mn, profit ¥6,101mn → ¥14,964mn → ¥9,171mn → ¥16,786mn; Services, Support & Other sales ¥85,803mn → ¥96,104mn → ¥102,270mn → ¥108,399mn, profit ¥17,813mn → ¥7,629mn → −¥2,828mn → −¥10,914mn. The FY3/2025 old-basis figures differ from the restated new-basis figures (different classification) and are not interchangeable. History block (FY3/2017–21, register S12): Semi & Component Test sales ¥101,262mn → ¥206,031mn (profit ¥16,652mn → ¥61,617mn); Mechatronics ¥25,158mn → ¥40,005mn (profit −¥1,529mn → ¥4,955mn); Services ¥29,496mn → ¥66,753mn (profit ¥4,817mn → ¥10,419mn), with the printed adjustment and stock-compensation rows bridging exactly to operating profit in every year.
 
-**Exhibit 2 — Segments (both bases) and regional sales (¥mn)**
+**Figure 12. Exhibit 2 — Segments (both bases) and regional sales (¥mn)**
 
 | Item | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|
@@ -329,7 +181,7 @@ Exhibit 2 (this section) sets out both bases. **New basis: Test Systems sales ¥
 
 *Source: PL/segment sheet 6857 (register S3/S4/S5); segment profit = OP before stock-compensation expense; bases never spliced*
 
-**Exhibit 2A. Segments (old basis) and regional sales — FY3/17–FY3/23**
+**Figure 13. Exhibit 2A. Segments (old basis) and regional sales — FY3/17–FY3/23**
 
 | Item | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 |
 |---|---|---|---|---|---|---|---|
@@ -382,6 +234,6 @@ Gaps (未取得/not disclosed): order intake and backlog (all periods); R&D tota
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
