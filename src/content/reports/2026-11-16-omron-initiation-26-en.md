@@ -11,7 +11,7 @@ lang: en
 
 Sensing and control, rebuilt by two years of structural reform and now pulled by AI capex: Omron Corporation (6645, TSE Prime) is the Kyoto-based automation group founded in 1933 on sensing and control technology: its Industrial Automation Business (IAB — PLCs, sensors, motion control, inspection systems and industrial robots) supplies the world's factories, Healthcare (HCB) is the global leader in home blood-pressure monitors, Social Systems (SSB) runs energy, station and traffic systems in Japan, and Data Solutions (DSB), built around the 2023 consolidation of JMDC, sells health-data services. The initiation question is whether the profit inflection now visible is a cycle or a rebuilt earnings base. The evidence for 'rebuilt' is accumulating: after the FY3/24 collapse (operating profit ¥34,342mn, a 4.2% margin, on a China/EV demand air-pocket and a ¥14,519mn equity-method loss on the JMDC revaluation), the NEXT 2025 reform programme (April 2024–September 2025) cut fixed costs by about ¥35bn against FY3/23, and **operating profit recovered to ¥59,935mn in FY3/26** (US GAAP, continuing operations). H1 FY3/27 — the first period under voluntarily adopted IFRS — then printed **record first-half revenue of ¥425,264mn (+22.9% YoY on the IFRS-restated base) and operating profit of ¥40,561mn (+161.5%)**, and full-year guidance was raised on 10 November 2026 to revenue of ¥920,000mn and operating profit of ¥88,000mn (company guidance, IFRS, continuing basis). Strengths: (1) IAB's breadth in the current upcycle — H1 FY3/27 external revenue +36.2% YoY to ¥260,203mn with segment profit of ¥40,703mn, as advanced-semiconductor and data-centre capex, X-ray inspection (AXI, +185% per the CEO's briefing script) and a widened customer base compounded; (2) a portfolio that is being actively reshaped — the low-margin components business DMB was split off and sold to a Carlyle Group SPC (decided 30 March 2026, transfer completed 1 October 2026) and is now a discontinued operation; (3) a solid balance sheet (owners' equity ratio 60.8% at September 2026 under IFRS; ¥171.2bn of cash on hand) and a DOE-anchored dividend rising to a forecast ¥110 for FY3/27. Weaknesses: (1) profitability is still thin for the quality of the franchises — ROE was 3.5% in FY3/26 and the operating margin 7.8%, and management itself concedes ROIC and ROE remain below the cost of capital; the FY3/31 ambitions (group operating margin 12%, IAB 16%) are CEO-stated goals, not yet a published plan with a full bridge; (2) earnings quality needs care — the five-year record contains a ¥14,519mn JMDC revaluation loss (FY3/24), ¥27,781mn of restructuring costs (FY3/25), a ¥11,725mn goodwill impairment partly offset by a ¥12,313mn securities gain in FY3/25 other income, and a discontinued-operations drag that continues into FY3/27 guidance; (3) comparability breaks everywhere — the history in this report is US GAAP as reported in each year's own tanshin (DMB inside the totals through FY3/25, continuing-only in FY3/26), while FY3/27 is IFRS with restated comparatives, so no single clean growth series spans the switch. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (US GAAP, as reported) and FY3/27E company guidance (IFRS)**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (US GAAP, as reported) and FY3/27E company guidance (IFRS)**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@ Sensing and control, rebuilt by two years of structural reform and now pulled by
 *Source: Company results via PL/segment sheet (tanshin, JPX archive). FY3/26 sales/operating profit are continuing operations (DMB discontinued); FY3/22–25 totals include DMB as originally reported. Profit before tax is the tanshin definition (before equity-method and discontinued results; FY3/26 continuing) — see Basis of preparation. EPS is basic EPS as reported (no dilutive securities). ROE as reported in the tanshin headers (FY3/25–26 on the continuing presentation). FY3/27E = company guidance as revised in the Q2 FY3/27 tanshin [IFRS], 10 Nov 2026; guided EPS of ¥218.68 includes discontinued operations (continuing-basis EPS ¥307.68). History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥900.6bn |
@@ -39,6 +40,7 @@ Sensing and control, rebuilt by two years of structural reform and now pulled by
 | Next event | Q3 FY3/27 results, late Jan–early Feb 2027 |
 
 ## Key points
+
 - **H1 FY3/27: a record half, on a new accounting basis.** For the six months to 30 September 2026 (IFRS, continuing operations), revenue was ¥425,264mn (+22.9% YoY against the IFRS-restated prior-year half), **operating profit ¥40,561mn (+161.5%)**, profit before tax ¥39,321mn and net income attributable to owners ¥27,413mn (+491.2%); revenue, gross profit and the gross margin (47.7%) were first-half records per the company. Against the originally reported US-GAAP H1 FY3/26 (revenue ¥393,448mn including DMB), revenue growth is +8.1% — the two growth rates measure different bases and are both shown in Chapter 2. Source: Q2 FY3/27 tanshin [IFRS], 10 November 2026; CEO briefing script, 10 November 2026.
 - **Guidance raised again — and it still assumes an H2 acceleration.** Full-year FY3/27 company guidance (IFRS, continuing operations; 会社計画) was raised on 10 November 2026 to revenue ¥920,000mn (from ¥880,000mn at Q1 and an initial ¥820,000mn in May 2026), operating profit ¥88,000mn (from ¥80,000mn; initial ¥62,000mn), profit before tax ¥85,500mn and owners' net income ¥43,000mn (including discontinued operations; continuing net income ¥60,500mn). H1 delivered 46.2% of guided revenue and 46.1% of guided operating profit, so **the guide implies H2 operating profit of ¥47,439mn (calculated), above the H1 print** — predicated on AI-related capex holding and on IAB absorbing guided temporary costs (business-infrastructure strengthening and ¥2,000mn of OnLogic M&A costs). Source: Q2 FY3/27 tanshin, 10 November 2026; CEO briefing script.
 - **Strength — IAB is doing the heavy lifting, at a 15.6% H1 margin.** IAB was 53.4% of FY3/26 continuing external revenue and earned ¥42,787mn of segment profit (10.4% margin). In H1 FY3/27 its external revenue rose 36.2% YoY to ¥260,203mn and **segment profit rose 127.3% to ¥40,703mn (15.6% margin)**, on advanced-semiconductor and data-centre investment in every major region, AXI inspection growth of 185% and steady growth in the 'other industries' that are roughly 80% of IAB sales (+12%, CEO script). Full-year segment guidance is revenue ¥540,000mn and operating profit ¥72,000mn (company guidance). Source: Q2 FY3/27 tanshin segment note and guidance table, 10 November 2026.
@@ -57,91 +59,19 @@ Below operating profit, Omron's single-step US-GAAP presentation (operating prof
 
 The balance sheet absorbed the trough without strain. Total assets were ¥1,516,263mn and net assets ¥1,000,562mn at 31 March 2026 (shareholders' equity ¥835,885mn; shareholders' equity ratio 55.1%; book value per share ¥4,251.07); the step-up in total assets and non-controlling interests in FY3/24 (assets ¥930,629mn → ¥998,160mn → ¥1,354,729mn across FY3/22–24; NCI is ¥164,677mn at FY3/26) reflects the JMDC consolidation that created DSB. Operating cash flow was ¥67,428mn / ¥53,456mn / ¥44,875mn / ¥55,784mn / ¥60,919mn across FY3/22–26. Interest-bearing debt on the sheet's definition (short-term plus long-term debt as presented) jumped from ¥213mn at FY3/23 to ¥121,074mn at FY3/24 and ¥197,578mn at FY3/26 (¥121,668mn short-term plus ¥75,910mn long-term), against cash and equivalents of ¥166,541mn — a net debt position of about ¥31,037mn (calculated) that is new in the group's history and worth monitoring as the DMB proceeds and the pension-trust return (¥41,600mn received 1 April 2026, a post-year-end event disclosed in the FY3/26 tanshin) flow through. Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26; FY3/26 tanshin header and notes, 13 May 2026.
 
-**Figure: Omron Corporation — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 794201 |
-
-| FY3/18 | 859982 |
-
-| FY3/19 | 859482 |
-
-| FY3/20 | 677980 |
-
-| FY3/21 | 655529 |
-
-| FY3/22 | 762927 |
-
-| FY3/23 | 876082 |
-
-| FY3/24 | 818761 |
-
-| FY3/25 | 801753 |
-
-| FY3/26 | 767351 |
+**Figure 2. Omron Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Omron Corporation — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 67566 |
-
-| FY3/18 | 85910 |
-
-| FY3/19 | 76633 |
-
-| FY3/20 | 54760 |
-
-| FY3/21 | 62480 |
-
-| FY3/22 | 89316 |
-
-| FY3/23 | 100686 |
-
-| FY3/24 | 34342 |
-
-| FY3/25 | 54038 |
-
-| FY3/26 | 59935 |
+**Figure 3. Omron Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Omron Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 8.5 |
-
-| FY3/18 | 10 |
-
-| FY3/19 | 8.9 |
-
-| FY3/20 | 8.1 |
-
-| FY3/21 | 9.5 |
-
-| FY3/22 | 11.7 |
-
-| FY3/23 | 11.5 |
-
-| FY3/24 | 4.2 |
-
-| FY3/25 | 6.7 |
-
-| FY3/26 | 7.8 |
+**Figure 4. Omron Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Omron Corporation — revenue and operating margin**
+**Figure 5. Omron Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -163,7 +93,7 @@ Full-year FY3/27 guidance, as revised in the Q2 release of 10 November 2026, is 
 
 Segment guidance (Q2 FY3/27 tanshin guidance table) concentrates the year in IAB: IAB revenue ¥540,000mn and operating profit ¥72,000mn (13.3% margin; both raised, by ¥30,000mn and ¥7,000mn); HCB revenue ¥165,000mn and operating profit ¥18,000mn (raised by ¥10,000mn and ¥2,500mn); SSB revenue ¥148,000mn and operating profit ¥19,500mn (unchanged — a heavily H2-weighted guide against H1 segment profit of just ¥791mn, reflecting the segment's project seasonality and the storage-systems recovery measures); DSB revenue ¥62,000mn and operating profit ¥5,000mn (unchanged); the implied corporate/elimination drag is about −¥26,500mn (calculated). Against guidance, H1 progress was 46.2% on revenue and 46.1% on operating profit, so **delivery requires H2 operating profit of ¥47,439mn (calculated), 17% above the H1 print**. The CEO's script explains the shape: IAB's H2 operating margin is guided down from 15.3% in H1 (script basis) to 11.4% because of temporary costs — business-infrastructure strengthening and the OnLogic acquisition (closing scheduled for January 2027; ¥2,000mn of M&A-related costs guided, with limited FY3/27 profit impact expected from OnLogic itself) — partly offset by price optimisation and cost reductions absorbing expanding component-price pressure; excluding temporary costs, management states IAB's FY3/27 margin exceeds 15% and the group margin exceeds 10%. The open questions the print leaves — the credibility of the implied H2 acceleration, how much of IAB's +36.2% is AI/data-centre pull-forward, and the remaining reform charges — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Exhibit 3 sets out the H1 segment actuals and full-year segment guidance. Source: Q2 FY3/27 tanshin, 10 November 2026 (guidance section 3 and segment guidance table); CEO briefing script, 10 November 2026.
 
-**Exhibit 3. H1 FY3/27 segment results (IFRS) and FY3/27 company guidance by segment**
+**Figure 6. Exhibit 3. H1 FY3/27 segment results (IFRS) and FY3/27 company guidance by segment**
 
 | ¥mn | H1 FY3/27 revenue | H1 FY3/27 profit | FY3/27E revenue (guidance) | FY3/27E profit (guidance) |
 |---|---|---|---|---|
@@ -206,49 +136,7 @@ Omron sells into three distinct value chains that share one competence. In facto
 
 In healthcare, HCB competes in home medical devices against global device makers and consumer brands, with distribution through pharmacies, e-commerce and medical channels and a regulatory moat around clinical validation; the structural driver is ageing populations and the shift of cardiovascular monitoring into the home, and the contested frontier is the data layer (remote monitoring), where HCB's device installed base meets DSB's JMDC data assets. In social systems, SSB competes for Japanese public and energy infrastructure spending — station systems against the domestic railway-supply industry, storage systems against battery and power-electronics makers in a market the company describes as in a pricing offensive — a reminder that not all of Omron's markets reward its technology premium. Entry barriers across the group are application know-how and installed-base trust (a sensor or controller written into a customer's line or a validated medical device is sticky), global service coverage, and the accumulated 'problem library' of the direct engineering sales force; the substitute risk is platform shift — software-defined control, general-purpose AI vision, and commodity sensing — which the GEMBA DX strategy is designed to ride rather than fight. The two sensitivities that follow for the equity: first, Greater China was 20.0% of FY3/25 sales (the last year with regional disclosure in the tanshin) and is simultaneously IAB's contested market and HCB's recovery market; second, the demand now driving the guide — AI capex — is concentrated and lumpy, and with no order or backlog disclosure in the tanshin, the earliest observable of a pause is the quarterly IAB print itself. Sources: Q2 FY3/27 tanshin; CEO briefing script, 10 November 2026; PL/segment sheet (tanshin, JPX archive).
 
-**Figure: Omron in the sensing & control value chain**
-
-**Raw Materials**
-
-- Compound semiconductors: LED, laser
-- Optical glass & resins: HOYA
-- Lens materials
-- Housing materials
-
-**Key Components**
-
-- CMOS image sensors: Sony Semiconductor
-- Lenses, illumination LEDs
-- ToF / LiDAR devices
-- Image-processing SoCs: NVIDIA, Intel
-
-**Omron Corporation (6645)**
-
-- IAB — PLCs, sensors, motion control, inspection systems, industrial robots (53.4% of FY3/26 continuing sales)
-- HCB — blood-pressure monitors & healthcare devices
-- SSB — energy, station & traffic systems (Japan)
-- DSB — health-data services (JMDC)
-
-**Software & Algorithms**
-
-- Vision libraries: MVTec HALCON
-- Deep-learning inspection: Cognex ViDi
-- Embedded AI: Keyence
-- Edge learning, management software
-
-**Distribution & Integration**
-
-- Direct sales: Keyence
-- Distributors + direct: SICK, ifm
-- Vision system integrators
-- Line integration, application support
-
-**End Customers & Service**
-
-- Automotive, EV & batteries
-- Semiconductors, electronics
-- Logistics/EC, food, pharmaceuticals
-- Safety verification, calibration, software updates
+**Figure 7. Omron in the sensing & control value chain**
 
 *Source: FIELDNOTES sector report §4 (sensors & machine vision value chain); company segments from §3 of this report.*
 
@@ -256,53 +144,19 @@ In healthcare, HCB competes in home medical devices against global device makers
 
 Omron's tanshin disclosure gives a complete business-segment history and, in the annual tanshin only, a segment × region sales matrix from which consolidated regional sales are aggregated in the PL/segment sheet. The FY3/26 annual tanshin carries no regional matrix, so FY3/26 regional cells are blank in the sheet and are not estimated here (queued for backfill from the EDINET securities report). This chapter keeps the two disclosure layers separate and labelled.
 
-**Figure: Omron Corporation — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| IAB — external revenue | 409478 |
-
-| HCB — external revenue | 145258 |
-
-| SSB — external revenue | 144257 |
-
-| DSB — external revenue (from FY3/24) | 51151 |
-
-| Supplementary: DMB (discontinued) — sales | 100811 |
+**Figure 8. Omron Corporation — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Omron Corporation — segment revenue by year**
+**Figure 9. Omron Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Omron Corporation — segment revenue mix, FY3/26**
-
-**IAB**
-
-- ¥409,478mn
-- 54.6% of revenue
-
-**HCB**
-
-- ¥145,258mn
-- 19.4% of revenue
-
-**SSB**
-
-- ¥144,257mn
-- 19.2% of revenue
-
-**DSB**
-
-- ¥51,151mn
-- 6.8% of revenue
+**Figure 10. Omron Corporation — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Omron Corporation — regional revenue by year**
+**Figure 11. Omron Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -310,7 +164,7 @@ Omron's tanshin disclosure gives a complete business-segment history and, in the
 
 Exhibit 2 gives the five-year history on the basis disclosed in each year's own tanshin. Three facts organise it. First, profit concentration and its volatility: in FY3/26 the four continuing segments earned ¥81,563mn of segment profit before a −¥21,628mn corporate/elimination adjustment to consolidated operating profit of ¥59,935mn — IAB ¥42,787mn (52% of segment profit), SSB ¥19,745mn, HCB ¥15,420mn and DSB ¥3,611mn. In FY3/23, by contrast, IAB alone earned ¥85,835mn. **The group's earnings power is therefore an IAB margin question**: IAB printed 17.7% in FY3/23, 5.5% in FY3/24 and 10.4% in FY3/26, and guidance asks for 13.3% in FY3/27 with a CEO target of 16% by FY3/31. Second, the quiet improver is SSB: segment profit rose every year from ¥6,505mn (FY3/22) to ¥19,745mn (FY3/26) and its margin reached 13.7% — the H1 FY3/27 storage-driven setback (−65.1% YoY) interrupts, but does not yet reverse, that record, and the unchanged full-year guide of ¥19,500mn is explicitly back-loaded. Third, the basis breaks: DSB enters the structure in FY3/24 with the JMDC consolidation; DMB (named EMC in FY3/22 documents) is a continuing segment through FY3/25 and a discontinued operation in FY3/26, whose own FY3/26 figures (sales ¥100,811mn, operating profit ¥3,655mn) sit in supplementary rows of Exhibit 2 rather than in the continuing block; and internal management reclassifications (Omron Digital moved from SSB to corporate in FY3/26; SSB restated again in H1 FY3/27) mean the FY3/25 segment figures in the FY3/26 tanshin (IAB ¥364,698mn / SSB ¥143,585mn, continuing and restated) differ from the as-originally-reported FY3/25 figures preserved in the sheet (IAB ¥360,799mn / SSB ¥145,631mn, including DMB in the group total). Cross-basis comparisons are flagged wherever they occur. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin segment note.
 
-**Exhibit 2. Business segments — external revenue and segment profit (tanshin operating-profit definition)**
+**Figure 12. Exhibit 2. Business segments — external revenue and segment profit (tanshin operating-profit definition)**
 
 | ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -331,7 +185,7 @@ Exhibit 2 gives the five-year history on the basis disclosed in each year's own 
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive), segment note, as reported in each year's own tanshin. DSB added in FY3/24 (JMDC consolidation). DMB (named EMC in FY3/22 documents) is a continuing segment through FY3/25 and a discontinued operation in FY3/26; its FY3/26 figures are supplementary (discontinued-operations note). FY3/26 main block is the continuing four segments; segment profit = gross profit − SG&A − R&D (restructuring, other net, taxes and equity earnings not deducted).*
 
-**Exhibit 2A. Business segments — basis as reported in each year (US GAAP)**
+**Figure 13. Exhibit 2A. Business segments — basis as reported in each year (US GAAP)**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 |
 |---|---|---|---|---|---|
@@ -352,7 +206,7 @@ Exhibit 2 gives the five-year history on the basis disclosed in each year's own 
 
 *Source: Company tanshin segment information via PL/segment sheet History block. Segment composition is as reported in each year: AEC is a separate segment in FY3/17–FY3/19 and is not folded into EMC/DMB, and the era rows are not spliced into Exhibit 2. FY3/20 net income includes the AEC discontinued-operations gain.*
 
-**Exhibit 4. Revenue by region — basis as reported in each year**
+**Figure 14. Exhibit 4. Revenue by region — basis as reported in each year**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 |
 |---|---|---|---|---|---|
@@ -414,6 +268,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
