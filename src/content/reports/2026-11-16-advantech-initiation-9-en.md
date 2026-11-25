@@ -11,7 +11,7 @@ lang: en
 
 Edge-AI cycle, record orders: Advantech is the world's largest industrial-PC maker (an estimated ~34% share of the embedded IPC market, third-party estimates) and is repositioning as an edge-AI platform provider. After two down years (revenue −6.1% in FY2023 and −7.4% in FY2024), FY2025 revenue recovered 18.6% to NT$70.9bn and **3Q 2026 produced the strongest quarter in the company's history: revenue of NT$32.44bn (+83% YoY), a record 20.9% operating margin and a book-to-bill ratio of 1.64x**. Strengths: a design-in model with long product lifecycles and high customer stickiness, unmatched breadth across verticals and regions, a lightly levered balance sheet and 26+ years of uninterrupted dividends. Weaknesses: **gross margin is being squeezed by memory and component costs (36.7% in 3Q26 against a 40% long-term target)**, the order surge is concentrated in cyclical semiconductor equipment, and founder succession is an open item after management flagged a CEO-transition announcement on the 3Q26 call.
 
-**Key indicators — Advantech (2395)**
+**Figure 1. Key indicators — Advantech (2395)**
 
 | NT$mn unless stated | FY21A | FY22A | FY23A | FY24A | FY25A | 9M26A |
 |---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@ Edge-AI cycle, record orders: Advantech is the world's largest industrial-PC mak
 *Source: Company financial statements FY2021–25 via PL/segment sheet; 9M26 from company 3Q26 results, 29 Oct 2026. DPS per StockAnalysis.com. 9M26 operating profit not disclosed as a value (margin 19.8%, company).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | NT$511.9bn |
@@ -37,6 +38,7 @@ Edge-AI cycle, record orders: Advantech is the world's largest industrial-PC mak
 | Next event | Q4/FY26 results — Mar 2027e |
 
 ## Key points
+
 - **Record 3Q26.** **Revenue NT$32.44bn (+83% YoY, +24% QoQ) crossed US$1bn in a single quarter for the first time; operating profit NT$6.80bn at a record 20.9% margin**; net income to parent NT$6.22bn (+125% YoY); EPS NT$7.15. Nine-month revenue reached NT$78.95bn (+49% YoY) with EPS of NT$16.21 — already above FY2025's full-year NT$12.14 (company results, 29 Oct / 4 Nov 2026).
 - **Orders are the story.** **Book-to-bill hit 1.64x in 3Q26 (North America 2.12x, Europe 1.52x, China 1.50x) and 1.60x in October; semiconductor-equipment book-to-bill reached 2.62x**. Orders have grown for five consecutive quarters and the backlog covering November, December and 2027 deliveries stands at about US$2.5bn (company, 4 Nov 2026).
 - **Guidance labelled conservative.** **Company guidance for 4Q26 is revenue of US$970–990mn (at NT$31.8/US$), gross margin 36–38% and operating margin 18–20%**. Management called the guide conservative — October revenue set a record at about US$352mn — and expects high double-digit revenue and profit growth in 2027 (company commentary, not formal guidance).
@@ -49,69 +51,23 @@ Advantech reports on a December fiscal year under Taiwan IFRS. The five-year rec
 
 The 9M 2026 column is company-reported interim data (29 Oct 2026): revenue NT$78.95bn already exceeds any full year in the table, and EPS of NT$16.21 is a nine-month record. The KPI history here covers the five audited years held in the PL/segment sheet; Shared Research's 10–11-year standard would require the FY2016–20 annual reports, which are flagged as an extension item in the basis of preparation.
 
-**Figure: Advantech Co., Ltd. — revenue by year**
-
-| Item | Value (NT$mn unless stated) |
-
-|---|---|
-
-| FY21A | 58622 |
-
-| FY22A | 68745 |
-
-| FY23A | 64568 |
-
-| FY24A | 59786 |
-
-| FY25A | 70882 |
-
-| 9M26A | 78952 |
+**Figure 2. Advantech Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Advantech Co., Ltd. — operating profit by year**
-
-| Item | Value (NT$mn unless stated) |
-
-|---|---|
-
-| FY21A | 9800 |
-
-| FY22A | 12532 |
-
-| FY23A | 12128 |
-
-| FY24A | 9050 |
-
-| FY25A | 11567 |
+**Figure 3. Advantech Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Advantech Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY21A | 16.7 |
-
-| FY22A | 18.2 |
-
-| FY23A | 18.8 |
-
-| FY24A | 15.1 |
-
-| FY25A | 16.3 |
-
-| 9M26A | 19.8 |
+**Figure 4. Advantech Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Advantech Co., Ltd. — revenue and operating margin**
+**Figure 5. Advantech Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Advantech Co., Ltd. — revenue vs operating profit**
+**Figure 6. Advantech Co., Ltd. — revenue vs operating profit**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -141,49 +97,7 @@ Advantech sits between component suppliers (CPUs, memory, displays, power) and s
 
 ==Entry barriers are the installed design-in base, breadth of catalogue (1,000+ products), global service coverage in 26+ countries==, and the longevity/reliability record that regulated verticals (medical, rail, semiconductor tools) require. Substitutes are real but bounded: customers can design in-house (only economical at large scale), buy white-box industrial PCs at lower specification, or shift workloads to cloud/standard servers where environment and latency permit — the edge-AI trend cuts the other way, pushing compute back to the machine. The main structural risk to the model is the one visible in 3Q26: component cost inflation (memory) that cannot be passed through immediately, compressing the gross margin the model is built on.
 
-**Figure: Advantech in the edge-computing value chain**
-
-**Silicon Platforms**
-
-- NVIDIA Jetson (CUDA / JetPack)
-- Intel, AMD (Ryzen AI)
-- Qualcomm Dragonwing, NXP, TI
-- AI accelerators — Hailo
-
-**Memory & Key Parts**
-
-- DRAM / NAND — Samsung, SK hynix, Micron
-- Industrial memory modules — Apacer, Innodisk
-- Industrial SSDs
-- Connectors, power supplies, thermal parts
-
-**Boards & Modules**
-
-- COM Express / SMARC / COM-HPC modules
-- Advantech, Kontron, congatec
-- ADLINK, AAEON, DFI, Portwell
-- Industrial motherboards, SBCs — Contec
-
-**Advantech Co., Ltd. (2395)**
-
-- Embedded Design-In — embedded boards, modules & edge systems (36.1% of FY2025 sales)
-- Intelligent Systems — medical, retail, in-vehicle & railway systems (33.9%)
-- IoT Automation — controllers, I/O & HMI (38.5% segment margin)
-- Intelligent Service & AS+ — WISE-IoT platform, solutions & services
-
-**Software, Distribution & Integration**
-
-- Edge management — Advantech WISE, Beckhoff TwinCAT
-- OS / security updates, virtualisation
-- Distributors — Arrow, Avnet
-- SIers & design-in support
-
-**End Users & Long-Life Service**
-
-- Machine builders — semiconductor, medical, machine tools
-- Factories, rail, hospitals, retail
-- 7–15 year long-term supply commitments
-- EOL support, repair & life extension
+**Figure 7. Advantech in the edge-computing value chain**
 
 *Source: FIELDNOTES sector report §4 (edge computing & embedded value chain); company segments from §7 of this report.*
 
@@ -193,7 +107,7 @@ Since the FY2025 financial statements, Advantech reports five segments. **Embedd
 
 By customer location (FY2025): Asia NT$24.2bn (34.2%), USA NT$22.6bn (31.9%), Europe NT$14.0bn (19.7%), Taiwan NT$4.8bn (6.8%), Others NT$5.3bn (7.5%). The US was the growth engine of the last cycle (revenue +27.0% in FY2022, +13.0% in FY2023, −10.2% in FY2024, +19.0% in FY2025) and leads the current one (3Q26 book-to-bill 2.12x). Regional profit is not disclosed.
 
-**Segment revenue and segment margin — current five-segment structure**
+**Figure 8. Segment revenue and segment margin — current five-segment structure**
 
 | NT$mn | FY24 sales | FY25 sales | FY25 share (%) | FY25 segment margin (%) |
 |---|---|---|---|---|
@@ -206,7 +120,7 @@ By customer location (FY2025): Asia NT$24.2bn (34.2%), USA NT$22.6bn (31.9%), Eu
 
 *Source: Company segment note (FY2025 financial statements, FY2024 comparatives restated) via PL/segment sheet. Segment profit = segment pre-tax profit before central costs (company definition). iService and AS+ FY2024 comparatives not surfaced in the sheet — see basis of preparation.*
 
-**Revenue by region (customer location)**
+**Figure 9. Revenue by region (customer location)**
 
 | NT$mn | FY24A | FY25A | FY25 share (%) |
 |---|---|---|---|
@@ -241,6 +155,6 @@ Historical financials: Advantech audited financial statements FY2021–25 and se
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
