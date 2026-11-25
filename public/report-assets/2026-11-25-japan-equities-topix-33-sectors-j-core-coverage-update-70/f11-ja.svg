@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="694.2pt" height="235.5pt" viewBox="0 0 694.2 235.5" xmlns="http://www.w3.org/2000/svg" version="1.1"><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 235.5 
+L 694.2 235.5 
+L 694.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 147.7 199.3 
+L 683.4 199.3 
+L 683.4 10.8 
+L 147.7 10.8 
+z
+" style="fill: #ffffff"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><path d="M 191.5 199.3 
+L 191.5 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_2"/><g id="text_1"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="191.5" y="209.6" transform="rotate(-0 191.5 209.6)">−20</text></g></g><g id="xtick_2"><g id="line2d_3"><path d="M 251.3 199.3 
+L 251.3 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_4"/><g id="text_2"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="251.3" y="209.6" transform="rotate(-0 251.3 209.6)">−10</text></g></g><g id="xtick_3"><g id="line2d_5"><path d="M 311.1 199.3 
+L 311.1 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_6"/><g id="text_3"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="311.1" y="209.6" transform="rotate(-0 311.1 209.6)">0</text></g></g><g id="xtick_4"><g id="line2d_7"><path d="M 371.0 199.3 
+L 371.0 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_8"/><g id="text_4"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="371.0" y="209.6" transform="rotate(-0 371.0 209.6)">10</text></g></g><g id="xtick_5"><g id="line2d_9"><path d="M 430.8 199.3 
+L 430.8 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_10"/><g id="text_5"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="430.8" y="209.6" transform="rotate(-0 430.8 209.6)">20</text></g></g><g id="xtick_6"><g id="line2d_11"><path d="M 490.6 199.3 
+L 490.6 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_12"/><g id="text_6"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="490.6" y="209.6" transform="rotate(-0 490.6 209.6)">30</text></g></g><g id="xtick_7"><g id="line2d_13"><path d="M 550.5 199.3 
+L 550.5 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_14"/><g id="text_7"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="550.5" y="209.6" transform="rotate(-0 550.5 209.6)">40</text></g></g><g id="xtick_8"><g id="line2d_15"><path d="M 610.3 199.3 
+L 610.3 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_16"/><g id="text_8"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="610.3" y="209.6" transform="rotate(-0 610.3 209.6)">50</text></g></g><g id="xtick_9"><g id="line2d_17"><path d="M 670.1 199.3 
+L 670.1 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_18"/><g id="text_9"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: middle" x="670.1" y="209.6" transform="rotate(-0 670.1 209.6)">60</text></g></g><g id="text_10"><text style="fill: #0a2e5c; font: 9.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: start" x="147.7" y="222.7" transform="rotate(-0 147.7 222.7)">株価リターン（2025年11月25日→2026年11月24日、%、現地通貨）</text></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_19"/><g id="text_11"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="144.2" y="185.4" transform="rotate(-0 144.2 185.4)">香港 — ハンセン指数</text></g></g><g id="ytick_2"><g id="line2d_20"/><g id="text_12"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="144.2" y="159.8" transform="rotate(-0 144.2 159.8)">中国 — 上海総合指数</text></g></g><g id="ytick_3"><g id="line2d_21"/><g id="text_13"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="144.2" y="134.1" transform="rotate(-0 144.2 134.1)">米国 — S&amp;P 500</text></g></g><g id="ytick_4"><g id="line2d_22"/><g id="text_14"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="144.2" y="108.5" transform="rotate(-0 144.2 108.5)">日本 — TOPIX</text></g></g><g id="ytick_5"><g id="line2d_23"/><g id="text_15"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="144.2" y="82.8" transform="rotate(-0 144.2 82.8)">日本 — 日経平均</text></g></g><g id="ytick_6"><g id="line2d_24"/><g id="text_16"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="144.2" y="57.2" transform="rotate(-0 144.2 57.2)">韓国 — KOSPI</text></g></g><g id="ytick_7"><g id="line2d_25"/><g id="text_17"><text style="fill: #1c2733; font: 9px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="144.2" y="31.5" transform="rotate(-0 144.2 31.5)">台湾 — 加権指数</text></g></g></g><g id="patch_3"><path d="M 311.1 190.7 
+L 226.2 190.7 
+L 226.2 173.3 
+L 311.1 173.3 
+z
+" clip-path="url(#p940c26e2ec)" style="fill: #c0392b"/></g><g id="patch_4"><path d="M 311.1 165.1 
+L 261.4 165.1 
+L 261.4 147.6 
+L 311.1 147.6 
+z
+" clip-path="url(#p940c26e2ec)" style="fill: #c0392b"/></g><g id="patch_5"><path d="M 311.1 139.4 
+L 349.6 139.4 
+L 349.6 122.0 
+L 311.1 122.0 
+z
+" clip-path="url(#p940c26e2ec)" style="fill: #0a2e5c"/></g><g id="patch_6"><path d="M 311.1 113.8 
+L 397.3 113.8 
+L 397.3 96.3 
+L 311.1 96.3 
+z
+" clip-path="url(#p940c26e2ec)" style="fill: #0a2e5c"/></g><g id="patch_7"><path d="M 311.1 88.1 
+L 433.9 88.1 
+L 433.9 70.7 
+L 311.1 70.7 
+z
+" clip-path="url(#p940c26e2ec)" style="fill: #0a2e5c"/></g><g id="patch_8"><path d="M 311.1 62.5 
+L 489.2 62.5 
+L 489.2 45.0 
+L 311.1 45.0 
+z
+" style="fill: #0a2e5c"/></g><g id="patch_9"><path d="M 311.1 36.8 
+L 604.8 36.8 
+L 604.8 19.4 
+L 311.1 19.4 
+z
+" clip-path="url(#p940c26e2ec)" style="fill: #0a2e5c"/></g><g id="line2d_26"><path d="M 311.1 199.3 
+L 311.1 10.8 
+" clip-path="url(#p940c26e2ec)" style="fill: none; stroke: #1c2733; stroke-width: 0.8; stroke-linecap: square"/></g><g id="patch_10"><path d="M 147.7 199.3 
+L 147.7 10.8 
+" style="fill: none; stroke: #d9dee7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_11"><path d="M 147.7 199.3 
+L 683.4 199.3 
+" style="fill: none; stroke: #d9dee7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_18"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="220.8" y="184.4" transform="rotate(-0 220.8 184.4)">-14.2%</text></g><g id="text_19"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: end" x="256.0" y="158.7" transform="rotate(-0 256.0 158.7)">-8.3%</text></g><g id="text_20"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: start" x="355.0" y="133.0" transform="rotate(-0 355.0 133.0)">+6.4%</text></g><g id="text_21"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: start" x="402.7" y="107.4" transform="rotate(-0 402.7 107.4)">+14.4%</text></g><g id="text_22"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: start" x="439.3" y="81.7" transform="rotate(-0 439.3 81.7)">+20.5%</text></g><g id="text_23"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: start" x="494.6" y="56.1" transform="rotate(-0 494.6 56.1)">+29.8%</text></g><g id="text_24"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans, Noto Sans CJK JP'; text-anchor: start" x="610.2" y="30.4" transform="rotate(-0 610.2 30.4)">+49.1%</text></g></g></g><defs><clipPath id="p940c26e2ec"><rect x="147.7" y="10.8" width="535.68" height="188.5"/></clipPath></defs></svg>

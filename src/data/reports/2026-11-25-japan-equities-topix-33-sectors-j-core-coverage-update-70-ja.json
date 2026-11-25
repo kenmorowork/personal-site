@@ -183,7 +183,7 @@
           "titleHtml": "TOPIXと日経平均 — 指数化した推移（2025年11月25日 = 100、月末終値、イベント付き）",
           "sourceHtml": "JPX Monthly Statistics Reports (TOPIX month-ends); Yahoo Finance ^N225 (Nikkei month-ends); November 2026 to 24 Nov. Events per Section 1.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f2.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f2-ja.svg",
           "alt": "TOPIXと日経平均 — 指数化した推移（2025年11月25日 = 100、月末終値、イベント付き）"
         },
         {
@@ -284,7 +284,7 @@
           "titleHtml": "指数ヒートマップ — 月次リターン（%、2025年12月〜2026年11月）",
           "sourceHtml": "TOPIX: JPX Monthly Statistics Reports; other indices: Yahoo Finance month-end closes; Dec 2025 measured from the 25 Nov 2025 window start; Nov 2026 to 24 Nov.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f14.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f14-ja.svg",
           "alt": "指数ヒートマップ — 月次リターン（%、2025年12月〜2026年11月）"
         },
         {
@@ -580,7 +580,7 @@
           "titleHtml": "TOPIX33業種のリターン — 2026年10月30日までの12カ月 (%)",
           "sourceHtml": "JPX Monthly Statistics Report, Oct 2026 edition. Latest official sector levels; 24 Nov 2026 未取得. TOPIX +20.5% on the same basis.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f4.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f4-ja.svg",
           "alt": "TOPIX33業種のリターン — 2026年10月30日までの12カ月 (%)"
         },
         {
@@ -589,7 +589,7 @@
           "titleHtml": "TOPIX33業種のリターン — 2026年10月30日までの年初来 (%)",
           "sourceHtml": "JPX Monthly Statistics Report, Oct 2026 edition. Latest official sector levels; 24 Nov 2026 未取得. TOPIX +16.3% on the same basis.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f5.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f5-ja.svg",
           "alt": "TOPIX33業種のリターン — 2026年10月30日までの年初来 (%)"
         },
         {
@@ -598,7 +598,7 @@
           "titleHtml": "TOPIX33業種 — 月次リターンのヒートマップ（2025年12月〜2026年10月、%。最終2列は2026年10月30日までの12カ月と年初来）",
           "sourceHtml": "JPX Monthly Statistics Report, Oct 2026 edition (03_sisu2610), sec. 3-5(1)/(2) month-end rows; monthly returns are month-end to month-end; 12M base 25 Nov 2025, YTD base 30 Dec 2025 — reconciles to Figure 3 within 0.1pt.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f12.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f12-ja.svg",
           "alt": "TOPIX33業種 — 月次リターンのヒートマップ（2025年12月〜2026年10月、%。最終2列は2026年10月30日までの12カ月と年初来）"
         }
       ]
@@ -1292,7 +1292,7 @@
           "titleHtml": "カバレッジ銘柄 — 12カ月の株価リターン（54社すべて、%）",
           "sourceHtml": "In-house price files (Yahoo Finance closes), 25 Nov 2025 → 24 Nov 2026. Price return only. TOPIX +14.4%.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f7.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f7-ja.svg",
           "alt": "カバレッジ銘柄 — 12カ月の株価リターン（54社すべて、%）"
         },
         {
@@ -1301,7 +1301,7 @@
           "titleHtml": "カバレッジ銘柄 — 2026年年初来の株価リターン（上位15社と下位15社、%）",
           "sourceHtml": "In-house price files (Yahoo Finance closes), 30 Dec 2025 → 24 Nov 2026. Price return only. TOPIX +10.4%.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f8.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f8-ja.svg",
           "alt": "カバレッジ銘柄 — 2026年年初来の株価リターン（上位15社と下位15社、%）"
         },
         {
@@ -1310,7 +1310,7 @@
           "titleHtml": "カバレッジ54銘柄 — リターンのヒートマップ（12カ月、年初来、TOPIXとの差）",
           "sourceHtml": "In-house price files (Yahoo Finance closes) to 24 Nov 2026; price returns, dividends excluded; spreads shown as — where the report does not compute them (Advantech, NVIDIA).",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f13.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f13-ja.svg",
           "alt": "カバレッジ54銘柄 — リターンのヒートマップ（12カ月、年初来、TOPIXとの差）"
         }
       ]
@@ -1413,7 +1413,7 @@
           "titleHtml": "米国の業種（セレクト・セクターSPDR ETF）— 12カ月と2026年年初来の株価リターン (%)",
           "sourceHtml": "Yahoo Finance chart API, retrieved 25 Nov 2026. ETF price returns used as labelled proxies for S&amp;P 500 sectors; dividends excluded. S&amp;P 500 +6.4% (12M).",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f9.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f9-ja.svg",
           "alt": "米国の業種（セレクト・セクターSPDR ETF）— 12カ月と2026年年初来の株価リターン (%)"
         },
         {
@@ -1422,7 +1422,7 @@
           "titleHtml": "ドル円 — 月末の推移（2025年11月から2026年11月）",
           "sourceHtml": "Yahoo Finance JPY=X, month-end prints; November 2026 to 24 Nov. Annotations: 22 Jul 2026 intraday 163.988 (40-year yen low); 30 Jul–3 Aug 2026 intervention of ¥15.39tn.",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f10.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f10-ja.svg",
           "alt": "ドル円 — 月末の推移（2025年11月から2026年11月）"
         },
         {
@@ -1431,7 +1431,7 @@
           "titleHtml": "国別 — 12カ月の指数リターン（現地通貨、%）",
           "sourceHtml": "Yahoo Finance chart API, retrieved 25 Nov 2026. Price returns; FX translation excluded. KOSPI YTD base is 30 Dec 2025 (no 31 Dec print).",
           "kind": "image",
-          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f11.svg",
+          "src": "/report-assets/2026-11-25-japan-equities-topix-33-sectors-j-core-coverage-update-70/f11-ja.svg",
           "alt": "国別 — 12カ月の指数リターン（現地通貨、%）"
         }
       ]
