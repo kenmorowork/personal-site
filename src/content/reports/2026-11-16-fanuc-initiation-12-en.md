@@ -1,9 +1,9 @@
 ---
-title: "The CNC standard at a cyclical inflection: record orders and first ¥1tn sales year guided for FY3/27"
+title: "The CNC standard at a cyclical inflection: initiating at Overweight — record orders, first ¥1tn sales year, target price ¥6,400"
 company: "Fanuc Corporation"
 ticker: "6954"
 sector: "Factory Automation"
-date: 2026-11-16
+date: 2026-11-23
 type: initiation
 externalUrl: "/en/reports/2026-11-16-fanuc-initiation-12/"
 lang: en
@@ -11,9 +11,43 @@ rating: "Overweight"
 targetPrice: "¥6,400"
 ---
 
-Global CNC leader entering a record year Fanuc Corporation (6954) is the world's leading maker of CNC (computer numerical control) systems — the controls that run machine tools — with **an estimated global share above 50%**, and one of the largest industrial-robot makers, reporting as a single segment under Japanese GAAP across four product lines: FA, Robot, Robomachine and Service. Strengths: a dominant, standard-setting CNC installed base that feeds a growing, less cyclical Service line (¥141,143mn, 16.5% of sales in FY3/26); operating margins that have held between 17.8% and 25.0% across the FY3/22–FY3/26 cycle; and a debt-free balance sheet with an 88.7% equity ratio and ¥746,285mn of cash and deposits at 30 September 2026 (Q2 FY3/27 tanshin). Weaknesses: earnings remain highly cyclical — operating profit fell 25.8% in FY3/24 as China demand corrected — roughly 87% of sales are outside Japan, leaving results exposed to China capital expenditure and to the yen; disclosure is thin by global standards (no orders, backlog, R&D or headcount in the tanshin); and under J-GAAP a large share of headline profit is non-operating income on the cash pile, so ordinary profit (¥227,485mn in FY3/26) materially exceeds operating profit (¥183,763mn). The latest update is strong: Q2 FY3/27 orders were a record ¥306.0bn and full-year guidance was raised on 23 October 2026 to **sales of ¥1,013,700mn — above ¥1tn for the first time** — and operating profit of ¥240,700mn (company guidance). All historical financials in this report are from Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26 unless stated otherwise.
+Global CNC leader entering a record year — Overweight, target price ¥6,400 Fanuc Corporation (6954) is the world's leading maker of CNC (computer numerical control) systems — the controls that run machine tools — with **an estimated global share above 50%**, and one of the largest industrial-robot makers, reporting as a single segment under Japanese GAAP across four product lines: FA, Robot, Robomachine and Service. Strengths: a dominant, standard-setting CNC installed base that feeds a growing, less cyclical Service line (¥141,143mn, 16.5% of sales in FY3/26); operating margins that have held between 17.8% and 25.0% across the FY3/22–FY3/26 cycle; and a debt-free balance sheet with an 88.7% equity ratio and ¥746,285mn of cash and deposits at 30 September 2026 (Q2 FY3/27 tanshin). Weaknesses: earnings remain highly cyclical — operating profit fell 25.8% in FY3/24 as China demand corrected — roughly 87% of sales are outside Japan, leaving results exposed to China capital expenditure and to the yen; disclosure is thin by global standards (no orders, backlog, R&D or headcount in the tanshin); and under J-GAAP a large share of headline profit is non-operating income on the cash pile, so ordinary profit (¥227,485mn in FY3/26) materially exceeds operating profit (¥183,763mn). The latest update is strong: Q2 FY3/27 orders were a record ¥306.0bn and full-year guidance was raised on 23 October 2026 to **sales of ¥1,013,700mn — above ¥1tn for the first time** — and operating profit of ¥240,700mn (company guidance). We initiate at Overweight with a target price of ¥6,400 (rating set 23 November 2026): our FY3/27 estimates sit modestly above guidance (sales ¥1,030,000mn, operating profit ¥250,000mn) and we forecast FY3/28 EPS of ¥266.1, to which we apply a 24.0x target P/E. J-Core estimates are labelled as such wherever they appear, and their basis is set out in Chapter 9. All historical financials in this report are from Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26 unless stated otherwise.
 
-**Figure 1. Key indicators and financial history — Fanuc (¥mn, except per-share and % data)**
+**Key data**
+
+| Item | Value |
+|---|---|
+| Market cap | ¥4.84tn |
+| 52-week range | ¥4,767 – ¥8,880 |
+| P/E (trailing) | 28.3x trailing; 20.5x co.-guidance; 20.1x J-Core FY3/27E |
+| FY3/27E dividend | Interim ¥72.54 declared; J-Core FY3/27E ¥150.6 |
+| Net cash | ¥746,285mn cash & deposits; borrowings ¥0 |
+| Next event | Q3 FY3/27 results |
+
+## Key points
+
+- **Record order cycle** Q2 FY3/27 (Jul–Sep 2026) orders totalled **¥306.0bn, +49.0% YoY** and the highest quarterly intake in the company's history, with FA orders +130.1% YoY as six quarters of customer inventory destocking reversed (Fanuc Q2 FY3/27 earnings presentation, 23 Oct 2026). H1 orders were ¥587.9bn against H1 sales of ¥473.7bn.
+- **Guidance raised to a record year** FY3/27 company guidance, revised up at Q2 on 23 October 2026: **sales ¥1,013,700mn (+18.2% YoY), operating profit ¥240,700mn (+31.0%)**, ordinary profit ¥308,800mn (+35.7%) and net income to parent ¥228,300mn (+37.1%), EPS ¥246.01 — the first ¥1tn sales year, above the FY3/26 record (Drivers/guidance record in PL/segment sheet; Fanuc presentation, 23 Oct 2026). H2 FX assumptions: ¥150/USD, ¥175/EUR.
+- **CNC franchise and service tail** Fanuc holds **an estimated 50–65% global share in CNC systems** (Morningstar company report, 2026; third-party industry estimates) and the largest industrial-robot installed base (over 1.1mn units by early 2026, third-party estimate). Service sales have grown every year in FY3/22–FY3/26, from ¥93,732mn to ¥141,143mn, smoothing the hardware cycle (Company results via PL/segment sheet (tanshin, JPX archive)).
+- **Ordinary profit is not operating profit** In FY3/26 non-operating income of ¥47,548mn — mainly interest and dividends on the cash pile — lifted ordinary profit to ¥227,485mn, **23.8% above operating profit of ¥183,763mn** (Company results via PL/segment sheet (tanshin, JPX archive)). The same bridge is in the FY3/27 guidance: ordinary profit ¥308,800mn vs operating profit ¥240,700mn (company guidance). Valuation work should start from operating profit.
+- **Returns are formulaic — and procyclical** Fanuc's stated policy (FY3/26 tanshin, 24 Apr 2026) is **a 60% consolidated dividend payout ratio**, flexible buybacks, and cancellation of treasury shares above 5% of issued shares. FY3/26 dividend was ¥107.09/share (60.0% payout). At Q2 FY3/27 the board declared an interim dividend of ¥72.54 and authorised buybacks of up to ¥50bn / 10mn shares (1.08% of shares ex-treasury) from 26 Oct 2026 to 30 Apr 2027 (company disclosures, 23 Oct 2026).
+- **Overweight: the de-rating has overrun the cycle** At ¥5,047 (20 Nov 2026) Fanuc trades on 20.1x our FY3/27E EPS of ¥251.0 and 19.0x FY3/28E EPS of ¥266.1 (J-Core estimates), after a 43.2% fall from the 52-week high of ¥8,880 in a quarter when orders set a record and guidance was raised. Our target price of ¥6,400 (24.0x FY3/28E EPS, cross-checked at 19.8x FY3/28E EV/operating profit against a 17.3x band median) implies upside of 26.8%; the rating thresholds and the estimate basis are set out in Chapter 9.
+
+## 1. Key indicators and financial history
+
+Fanuc reports under Japanese GAAP with a March year-end and, by its own statement, as a single operating segment; the history below is therefore consolidated only, with product-line and regional sales as the disclosed sub-views (Company results via PL/segment sheet (tanshin, JPX archive)).
+
+Before that window, the same cycle ran through a higher peak and a deeper trough. Sales rose 35.3% in FY3/18 to ¥726,596mn, with operating profit of ¥229,604mn at **a 31.6% margin — the highest operating margin in the ten-year record** — before sales fell in two consecutive years to a trough of ¥508,252mn in FY3/20, when operating profit fell to ¥88,350mn and the operating margin to 17.4%. FY3/19 sits between the two: sales of ¥635,568mn and operating profit of ¥163,297mn (25.7%), with profit before tax of ¥208,540mn lifted by ¥25,081mn of extraordinary income. The recovery began in FY3/21, when sales rose 8.5% to ¥551,287mn and operating profit recovered to ¥112,514mn (20.4%), still well below the FY3/18 peak that the FY3/22 figures then approached.
+
+The most recent five-year arc is a full factory-automation cycle. Sales rose 16.2% to ¥851,956mn in FY3/23 on post-Covid machine-tool and robot demand, then fell 6.7% to ¥795,274mn in FY3/24 as China — the largest single market — corrected and customers worked down inventories of CNC systems. Sales were flat in FY3/25 (¥797,129mn, +0.2%) before recovering 7.6% to a record ¥857,831mn in FY3/26. Operating profit followed with leverage in both directions: ¥191,359mn in FY3/23 (22.5% margin), ¥141,919mn in FY3/24 (17.8%), ¥158,846mn in FY3/25 (19.9%) and ¥183,763mn in FY3/26 (21.4%). The FY3/22 operating margin of 25.0% (¥183,240mn on ¥733,008mn) remains the high-water mark of this window.
+
+Gross margin tells the same story in one line: 40.3% in FY3/22, 38.2% in FY3/23, a trough of 34.7% in FY3/24, then 37.0% and 38.3% in FY3/25 and FY3/26. SG&A rose steadily from ¥112,394mn (15.3% of sales) in FY3/22 to ¥144,703mn (16.9%) in FY3/26, so the FY3/24 profit decline was a gross-margin (volume and mix) event, not a cost-control failure.
+
+Per-share data need one caution. The weighted share count in the sheet steps from 191.8mn in FY3/22 to 955.4mn in FY3/23, reflecting the change in share count basis over that period; the FY3/22 EPS of ¥809.49 in the KPI table is therefore on the old basis and is not directly comparable with FY3/23 onwards (¥178.55, ¥140.23, ¥157.31 and ¥178.47). On the current basis, FY3/26 EPS of ¥178.47 compares with the FY3/27 company-guidance EPS of ¥246.01.
+
+Cash generation is consistently strong: operating cash flow was ¥125,581mn, ¥99,505mn, ¥171,764mn, ¥255,273mn and ¥250,896mn across FY3/22–FY3/26, against capital expenditure of ¥34,363mn, ¥47,066mn, ¥53,884mn, ¥40,805mn and ¥21,181mn (Company results via PL/segment sheet (tanshin, JPX archive)). Inventory, which peaked at ¥362,546mn at end-FY3/24 (8.7 months of cost of sales on the sheet's calculation), was worked down to ¥292,186mn by end-FY3/26 (6.7 months).
+
+**Figure 1. Figure 1. Key indicators and financial history — Fanuc (¥mn, except per-share and % data)**
 
 | Item | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -37,122 +71,19 @@ Global CNC leader entering a record year Fanuc Corporation (6954) is the world's
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26 actuals; FY3/27E is company guidance revised up at Q2 (23 Oct 2026) — not a J-Core Fundamental Research forecast. FY3/22 EPS is on the pre-change share-count basis (191.8mn weighted shares vs 955.4mn in FY3/23) and is not directly comparable. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Key data**
-| Item | Value |
-|---|---|
-| Market cap | ¥4.84tn |
-| 52-week range | ¥4,767 – ¥8,880 |
-| P/E (trailing) | 25.6x |
-| FY3/27E dividend | Interim ¥72.54 declared; full-year not disclosed |
-| Net cash | ¥746,285mn cash & deposits; borrowings ¥0 |
-| Next event | Q3 FY3/27 results |
-
-## Key points
-- **Record order cycle** Q2 FY3/27 (Jul–Sep 2026) orders totalled **¥306.0bn, +49.0% YoY** and the highest quarterly intake in the company's history, with FA orders +130.1% YoY as six quarters of customer inventory destocking reversed (Fanuc Q2 FY3/27 earnings presentation, 23 Oct 2026). H1 orders were ¥587.9bn against H1 sales of ¥473.7bn.
-- **Guidance raised to a record year** FY3/27 company guidance, revised up at Q2 on 23 October 2026: **sales ¥1,013,700mn (+18.2% YoY), operating profit ¥240,700mn (+31.0%)**, ordinary profit ¥308,800mn (+35.7%) and net income to parent ¥228,300mn (+37.1%), EPS ¥246.01 — the first ¥1tn sales year, above the FY3/26 record (Drivers/guidance record in PL/segment sheet; Fanuc presentation, 23 Oct 2026). H2 FX assumptions: ¥150/USD, ¥175/EUR.
-- **CNC franchise and service tail** Fanuc holds **an estimated 50–65% global share in CNC systems** (Morningstar company report, 2026; third-party industry estimates) and the largest industrial-robot installed base (over 1.1mn units by early 2026, third-party estimate). Service sales have grown every year in FY3/22–FY3/26, from ¥93,732mn to ¥141,143mn, smoothing the hardware cycle (Company results via PL/segment sheet (tanshin, JPX archive)).
-- **Ordinary profit is not operating profit** In FY3/26 non-operating income of ¥47,548mn — mainly interest and dividends on the cash pile — lifted ordinary profit to ¥227,485mn, **23.8% above operating profit of ¥183,763mn** (Company results via PL/segment sheet (tanshin, JPX archive)). The same bridge is in the FY3/27 guidance: ordinary profit ¥308,800mn vs operating profit ¥240,700mn (company guidance). Valuation work should start from operating profit.
-- **Returns are formulaic — and procyclical** Fanuc's stated policy (FY3/26 tanshin, 24 Apr 2026) is **a 60% consolidated dividend payout ratio**, flexible buybacks, and cancellation of treasury shares above 5% of issued shares. FY3/26 dividend was ¥107.09/share (60.0% payout). At Q2 FY3/27 the board declared an interim dividend of ¥72.54 and authorised buybacks of up to ¥50bn / 10mn shares (1.08% of shares ex-treasury) from 26 Oct 2026 to 30 Apr 2027 (company disclosures, 23 Oct 2026).
-
-## 1. Key indicators and financial history
-
-Fanuc reports under Japanese GAAP with a March year-end and, by its own statement, as a single operating segment; the history below is therefore consolidated only, with product-line and regional sales as the disclosed sub-views (Company results via PL/segment sheet (tanshin, JPX archive)).
-
-Before that window, the same cycle ran through a higher peak and a deeper trough. Sales rose 35.3% in FY3/18 to ¥726,596mn, with operating profit of ¥229,604mn at **a 31.6% margin — the highest operating margin in the ten-year record** — before sales fell in two consecutive years to a trough of ¥508,252mn in FY3/20, when operating profit fell to ¥88,350mn and the operating margin to 17.4%. FY3/19 sits between the two: sales of ¥635,568mn and operating profit of ¥163,297mn (25.7%), with profit before tax of ¥208,540mn lifted by ¥25,081mn of extraordinary income. The recovery began in FY3/21, when sales rose 8.5% to ¥551,287mn and operating profit recovered to ¥112,514mn (20.4%), still well below the FY3/18 peak that the FY3/22 figures then approached.
-
-The most recent five-year arc is a full factory-automation cycle. Sales rose 16.2% to ¥851,956mn in FY3/23 on post-Covid machine-tool and robot demand, then fell 6.7% to ¥795,274mn in FY3/24 as China — the largest single market — corrected and customers worked down inventories of CNC systems. Sales were flat in FY3/25 (¥797,129mn, +0.2%) before recovering 7.6% to a record ¥857,831mn in FY3/26. Operating profit followed with leverage in both directions: ¥191,359mn in FY3/23 (22.5% margin), ¥141,919mn in FY3/24 (17.8%), ¥158,846mn in FY3/25 (19.9%) and ¥183,763mn in FY3/26 (21.4%). The FY3/22 operating margin of 25.0% (¥183,240mn on ¥733,008mn) remains the high-water mark of this window.
-
-Gross margin tells the same story in one line: 40.3% in FY3/22, 38.2% in FY3/23, a trough of 34.7% in FY3/24, then 37.0% and 38.3% in FY3/25 and FY3/26. SG&A rose steadily from ¥112,394mn (15.3% of sales) in FY3/22 to ¥144,703mn (16.9%) in FY3/26, so the FY3/24 profit decline was a gross-margin (volume and mix) event, not a cost-control failure.
-
-Per-share data need one caution. The weighted share count in the sheet steps from 191.8mn in FY3/22 to 955.4mn in FY3/23, reflecting the change in share count basis over that period; the FY3/22 EPS of ¥809.49 in the KPI table is therefore on the old basis and is not directly comparable with FY3/23 onwards (¥178.55, ¥140.23, ¥157.31 and ¥178.47). On the current basis, FY3/26 EPS of ¥178.47 compares with the FY3/27 company-guidance EPS of ¥246.01.
-
-Cash generation is consistently strong: operating cash flow was ¥125,581mn, ¥99,505mn, ¥171,764mn, ¥255,273mn and ¥250,896mn across FY3/22–FY3/26, against capital expenditure of ¥34,363mn, ¥47,066mn, ¥53,884mn, ¥40,805mn and ¥21,181mn (Company results via PL/segment sheet (tanshin, JPX archive)). Inventory, which peaked at ¥362,546mn at end-FY3/24 (8.7 months of cost of sales on the sheet's calculation), was worked down to ¥292,186mn by end-FY3/26 (6.7 months).
-
-**Figure: Fanuc Corporation — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY3/17 | 536942 |
-
-| FY3/18 | 726596 |
-
-| FY3/19 | 635568 |
-
-| FY3/20 | 508252 |
-
-| FY3/21 | 551287 |
-
-| FY3/22 | 733008 |
-
-| FY3/23 | 851956 |
-
-| FY3/24 | 795274 |
-
-| FY3/25 | 797129 |
-
-| FY3/26 | 857831 |
+**Figure 2. Fanuc Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Fanuc Corporation — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY3/17 | 153217 |
-
-| FY3/18 | 229604 |
-
-| FY3/19 | 163297 |
-
-| FY3/20 | 88350 |
-
-| FY3/21 | 112514 |
-
-| FY3/22 | 183240 |
-
-| FY3/23 | 191359 |
-
-| FY3/24 | 141919 |
-
-| FY3/25 | 158846 |
-
-| FY3/26 | 183763 |
+**Figure 3. Fanuc Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Fanuc Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 28.5 |
-
-| FY3/18 | 31.6 |
-
-| FY3/19 | 25.7 |
-
-| FY3/20 | 17.4 |
-
-| FY3/21 | 20.4 |
-
-| FY3/22 | 25 |
-
-| FY3/23 | 22.5 |
-
-| FY3/24 | 17.8 |
-
-| FY3/25 | 19.9 |
-
-| FY3/26 | 21.4 |
+**Figure 4. Fanuc Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Fanuc Corporation — revenue and operating margin**
+**Figure 5. Fanuc Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -169,6 +100,25 @@ The three-month Q2 (Jul–Sep 2026) was the strongest quarter in the window: sal
 Orders are the headline. Total Q2 orders were ==¥306.0bn, +49.0% YoY== and +8.5% QoQ — a quarterly record. By division, FA orders rose 130.1% YoY to ¥112.2bn (36.7% of intake, up from 23.7% a year earlier), Robot orders rose 12.6% to ¥103.4bn, Robomachine orders rose 72.3% and Service orders rose 12.0%. By region, Q2 orders from Asia excluding China rose 111.9% YoY and China orders rose 79.8%; Japan orders rose 54.3%. H1 orders totalled ¥587.9bn (Q1 ¥281.9bn + Q2 ¥306.0bn) versus H1 sales of ¥473.7bn, a book-to-bill of c.1.24x on presentation figures. Note that orders and backlog are disclosed only in the earnings presentation, not in the tanshin — they are not in the PL/segment sheet and are not disclosed at all in the annual tanshin series used for Chapter 1.
 
 Guidance was revised up on 23 October 2026 from the 31 July 2026 forecast (sales ¥948,100mn / operating profit ¥218,000mn / net income ¥198,000mn) to sales ¥1,013,700mn (+6.9% vs prior forecast, +18.2% YoY), operating profit ¥240,700mn (+10.4%, +31.0% YoY, 23.7% margin), ordinary profit ¥308,800mn (+13.9%, +35.7% YoY) and net income ¥228,300mn (+15.3%, +37.1% YoY), EPS ¥246.01 (company guidance; Drivers/guidance record in PL/segment sheet, sourced to the Q2 FY3/27 tanshin, JPX archive). H2 assumptions are ¥150/USD and ¥175/EUR, versus H1 actual averages of ¥159.37/USD and ¥184.35/EUR — the guidance therefore embeds a stronger yen in H2, a conservatism worth noting. Alongside the revision the board declared an interim dividend of ¥72.54/share (vs ¥51.33 a year earlier; total c.¥67.1bn, payable 1 Dec 2026) and authorised a buyback of up to 10mn shares (1.08% of shares outstanding ex-treasury) for up to ¥50bn between 26 October 2026 and 30 April 2027 (company disclosures, 23 Oct 2026).
+
+**J-Core estimates (23 November 2026).** We forecast FY3/27 sales of ¥1,030,000mn and operating profit of ¥250,000mn — 1.6% and 3.9% above company guidance. The build is arithmetic, not enthusiasm: H1 actuals are already in hand (sales ¥473,708mn, operating profit ¥116,700mn, an 11.7% beat against the company's own H1 forecast), so the forecast turns on H2. Guidance implies H2 sales of ¥539,992mn and operating profit of ¥124,000mn; we assume H2 sales of ¥556,292mn and operating profit of ¥133,300mn (a 24.0% margin). Three supports: H1 orders of ¥587.9bn (book-to-bill of c.1.24x), with FA — the most cyclical line — taking 36.7% of Q2 intake against 24.3% of FY3/26 sales; guidance H2 currency assumptions of ¥150/USD and ¥175/EUR sit c.¥9 stronger than H1 actual averages (¥159.37 and ¥184.35), so guidance embeds a currency headwind that we only partly assume away; and Fanuc's pattern in recovery years (FY3/22, FY3/23) was to convert order surges into second-half-weighted shipments. Ordinary profit of ¥315,000mn adds a ¥65,000mn net non-operating contribution, in line with the ¥68,100mn bridge in guidance; net income of ¥232,900mn applies the guidance-implied 73.9% conversion from ordinary profit, and EPS of ¥251.0 uses the guidance-implied weighted share count of 928.0mn. Figure 4 sets the estimates against guidance.
+
+For FY3/28 we forecast sales of ¥1,102,000mn (+7.0%) and operating profit of ¥271,000mn (24.6% margin), net income of ¥246,900mn and EPS of ¥266.1 (J-Core estimates). The shape assumes the order cycle matures rather than repeats: FA normalises after the FY3/27 surge, Robot grows with Americas and China automation capex, and Service compounds at a high single-digit rate on a larger installed base, lifting mix. What would change our view: two consecutive quarters of order decline, a China FA reversal of the kind seen in FY3/24, or a yen move well beyond the ¥150/USD guidance assumption without offsetting price action — the FY3/24 record (sales −6.7%, operating profit −25.8%) is the template for how fast this P&L can move against holders.
+
+**Figure 6. Figure 4. J-Core estimates vs company guidance — Fanuc (¥mn, except per-share and % data)**
+
+| Item | FY3/26A | FY3/27E (co. guidance) | FY3/27E (J-Core) | FY3/28E (J-Core) |
+|---|---|---|---|---|
+| Sales | 857831 | 1013700 | 1030000 | 1102000 |
+| Sales growth (%) | 7.6 | 18.2 | 20.1 | 7.0 |
+| Operating profit | 183763 | 240700 | 250000 | 271000 |
+| Operating margin (%) | 21.4 | 23.7 | 24.3 | 24.6 |
+| Ordinary profit | 227485 | 308800 | 315000 | 334000 |
+| Net income to parent | 166543 | 228300 | 232900 | 246900 |
+| EPS (¥) | 178.47 | 246.01 | 251.0 | 266.1 |
+| Dividend per share (¥) | 107.09 | n.d. (interim ¥72.54 declared) | 150.6 | 159.6 |
+
+*Source: FY3/26 actuals: company results via PL/segment sheet (tanshin, JPX archive). FY3/27E (co. guidance): Fanuc Q2 FY3/27 tanshin, 23 Oct 2026. FY3/27E and FY3/28E (J-Core): J-Core Fundamental Research estimates, 23 Nov 2026 — basis in Chapters 2 and 9; dividend estimates apply the company's stated 60% payout policy to estimated EPS.*
 
 ## China and regional demand in Q2 FY3/27
 
@@ -206,51 +156,26 @@ In CNC, the competitive set is Mitsubishi Electric (the main domestic alternativ
 
 Market size context: third-party estimates put the global industrial-robotics market at c.US$81.8bn in 2025 (Global Growth Insights, as cited in third-party company reports, 2026); estimates vary widely by definition (robots only vs systems and integration), and Fanuc does not publish market-size or share figures in its tanshin — share figures in this report are third-party estimates and are labelled as such. The demand cycle Fanuc's own numbers describe is clearer than any market model: group orders +49.0% YoY in Q2 FY3/27 after a two-year digestion, driven by AI-related capex (data centres, semiconductors, humanoid-robot components) that the company names explicitly in its market commentary.
 
-**Figure: Fanuc in the CNC / factory-automation value chain**
+Figure 5 puts the competitive set on reported numbers. The comparison is deliberately unadjusted — the companies report different mixes — and it still makes the structural point: Fanuc earns a 21.4% operating margin on a hardware-centred model, a level none of the Japanese FA peers approaches (Yaskawa 8.7%, Mitsubishi Electric 7.3% on group figures that include lower-margin businesses, Okuma 6.6%, DMG Mori 3.7%), because the CNC standard and the service tail sit inside the same P&L. The global controls peers earn their margins differently: Rockwell's 20.2% group margin rests on software and lifecycle services (its Software & Control segment ran at a 33.8% margin in FY9/26), and Siemens' Digital Industries ran at a 14.9% profit margin in FY9/25 on a broader automation portfolio. Fanuc's vulnerability in this table is the mirror image of its strength: it has no software or integration layer of comparable weight, which is why the NVIDIA and Google collaborations shown at IMTS 2026 matter — they are the first credible step toward one, and they are not yet revenue.
 
-**Silicon, Magnets & Materials**
-
-- Control semiconductors: Renesas, TI, NXP
-- AI silicon: NVIDIA, Intel, AMD
-- NdFeB magnets: Shin-Etsu, TDK
-- Copper, aluminium, PCB substrates
-
-**Control & Drive Components**
-
-- Encoders: HEIDENHAIN, Renishaw, Nikon
-- Ball screws, guides: THK, HIWIN
-- Power semiconductors: Mitsubishi, Infineon
-- Power supplies, I/O
-
-**Fanuc Corporation (6954)**
-
-- FA — CNC systems, servo motors & lasers
-- Robot — industrial & collaborative robots
-- Robomachine — ROBODRILL, ROBOSHOT, ROBOCUT
-- Service — lifetime maintenance
-
-**Software & Platforms**
-
-- CAM, process planning
-- Digital twin, simulation: Siemens Xcelerator
-- Predictive maintenance, monitoring: Fanuc FIELD
-- MES links, AI optimisation
-
-**OEM Integration & Distribution**
-
-- Machine-tool OEMs: DMG Mori, Okuma
-- Semiconductor, robot, packaging OEMs
-- Trading houses, Misumi, MonotaRO
-- System integrators, direct sales: Keyence
-
-**End Users & Lifecycle Service**
-
-- Automotive, aerospace & defence
-- Semiconductor, battery/EV, medical
-- Food, packaging, general machinery
-- Maintenance, retrofit, long-life supply
+**Figure 7. Fanuc in the CNC / factory-automation value chain**
 
 *Source: FIELDNOTES sector report §4 (CNC, servo & FA value chain); company product lines from §3 and §5 of this report.*
+
+**Figure 8. Figure 5. Competitor comparison — latest reported fiscal year (¥mn unless stated)**
+
+| Company | Competing business | Fiscal year | Sales | Operating profit | OP margin (%) |
+|---|---|---|---|---|---|
+| Fanuc | CNC systems, industrial robots, robomachines | FY3/26 | 857831 | 183763 | 21.4 |
+| Yaskawa Electric | Servo drives, inverters, industrial robots | FY2/26 | 542122 | 47307 | 8.7 |
+| Mitsubishi Electric | CNC, servo and FA systems (group consolidated) | FY3/26 | 5894747 | 433095 | 7.3 |
+| Okuma | Machine tools with in-house CNC (OSP) | FY3/26 | 235888 | 15505 | 6.6 |
+| DMG Mori | Machine tools (CELOS interface) | FY12/25 | 514976 | 18974 | 3.7 |
+| Siemens | Digital Industries automation and CNC (group figures) | FY9/25 | €78,914mn | €9,594mn | 12.2 |
+| Rockwell Automation | Controllers, drives and automation software | FY9/26 | US$8,989mn | US$1,819mn | 20.2 |
+| ABB | Robotics and discrete automation (group figures) | FY12/23 | US$32,235mn | US$4,871mn | 15.1 |
+
+*Source: PL/segment sheets and in-house Valuation DB, reported figures only. Mitsubishi Electric is group consolidated (FA systems is one segment); Siemens and ABB are group figures with the competing automation businesses inside larger groups; ABB is FY12/23, the latest year in its PL sheet. Year-ends differ: Fanuc, Mitsubishi Electric and Okuma March; Yaskawa February; DMG Mori and ABB December; Siemens and Rockwell September.*
 
 ## 5. Product lines and regions
 
@@ -260,7 +185,7 @@ Regional sales (Figure 3) are disclosed annually only, by customer location, in 
 
 What is not disclosed matters here too: no profit by product line or region in any period, no quarterly regional note in the tanshin (quarterly regional colour comes only from the earnings presentation), and no orders or backlog in the tanshin series. Any divisional-margin analysis of Fanuc is therefore inference, and this report does not present one.
 
-**Figure 2. Sales by product line (¥mn) — single-segment company; product-line profit not disclosed**
+**Figure 9. Figure 2. Sales by product line (¥mn) — single-segment company; product-line profit not disclosed**
 
 | Product line | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/26 share (%) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -272,7 +197,7 @@ What is not disclosed matters here too: no profit by product line or region in a
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) (annual formal note; FY3/22–FY3/26). History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Figure 3. Sales by region, customer location (¥mn) — annual disclosure only**
+**Figure 10. Figure 3. Sales by region, customer location (¥mn) — annual disclosure only**
 
 | Region | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/26 share (%) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -285,7 +210,7 @@ What is not disclosed matters here too: no profit by product line or region in a
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) (annual only; FY3/22–FY3/26). Asia includes China; the tanshin does not split China annually. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Figure: Fanuc Corporation — regional revenue by year**
+**Figure 11. Fanuc Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -305,6 +230,28 @@ At 30 September 2026 (Q2 FY3/27 interim tanshin): cash and bank deposits ¥746,2
 
 Cash flow (annual, Company results via PL/segment sheet (tanshin, JPX archive)): **operating cash flow of ¥250,896mn in FY3/26** followed ¥255,273mn in FY3/25, the two strongest years in the window, as the FY3/24 inventory build unwound. Capital expenditure fell to ¥21,181mn in FY3/26 from ¥53,884mn in FY3/24 (sheet basis; the earnings presentation's capital-investment series differs in definition and is not mixed in here). Depreciation and amortisation was ¥47,782mn in FY3/26. Quarterly operating cash flow and capex are not available for Q1/Q3 because those tanshin carry no cash-flow statement — a stated gap in the sheet. Research and development expense is not a tanshin line (it appears in the earnings presentation and securities report, not in the sheet): the presentation's annual R&D series runs at roughly ¥45–53bn a year across FY3/22–FY3/26 on its chart — readers should treat that as presentation data, not tanshin data. Headcount is likewise not disclosed in the tanshin and is not stated in this report.
 
+**Valuation.** Figure 6 values Fanuc against the Valuation DB's Motion & FA components band at 20 November 2026 prices, computed on the DB's basis (for Fanuc: shares outstanding of 933.2mn; enterprise value after cash and equivalents of ¥615,075mn and zero debt). At ¥5,047 the shares trade on 28.3x trailing earnings — a multiple on trough-cycle EPS of ¥178.47 — but on 20.5x company-guidance EPS, 20.1x our FY3/27 estimate and 19.0x our FY3/28 estimate, with EV/operating profit of 22.3x trailing, 16.4x on FY3/27E and 15.1x on FY3/28E (J-Core estimates). The band's median trailing EV/OP is 17.3x; Fanuc's premium to that median on trailing numbers is a margin premium (a 21.4% operating margin against a 16.1% band median) attached to a de-rated share price, not a growth premium the market is still paying for.
+
+**Target price.** Our target price of ¥6,400 applies a 24.0x target P/E to FY3/28E EPS of ¥266.1 (J-Core estimate), rounded to the nearest ¥100. The 24.0x sits below Fanuc's 28.3x trailing multiple and above the band's 17.4x median guidance P/E, reflecting the CNC franchise's through-cycle margins and the service tail. Cross-check on enterprise value: at ¥6,400 the market capitalisation is ¥5,972bn and enterprise value is ¥5,357bn (on FY3/26 cash and equivalents), which is 19.8x FY3/28E operating profit and 21.4x FY3/27E — a premium of c.15% to the band's trailing median EV/OP of 17.3x, paid for a business whose operating margin is roughly double the band median. Against the 20 November 2026 close of ¥5,047, the target implies upside of 26.8%, which on the thresholds stated in Chapter 9 sets the rating at Overweight.
+
+Price context matters to the entry point. The shares fell from ¥6,052 on 24 August 2026 to ¥5,047 on 20 November 2026 (−16.6% on the daily series carried in this report) and stand 43.2% below the 52-week high of ¥8,880 and 5.9% above the low of ¥4,767 — over a quarter in which orders set a record and guidance was raised. The de-rating is a market event (the November 2026 break), not a Fanuc event; the risk to that reading is that the market is pricing the FY3/24-style downturn our estimates assume away, which is why the order book is the number to watch (Chapter 2).
+
+**Figure 12. Figure 6. Valuation comparison — Motion & FA components band (20 Nov 2026 prices)**
+
+| Company | Price (¥) | Market cap (¥bn) | P/E trailing (x) | P/E guidance (x) | EV/Sales (x) | EV/OP (x) | OP margin (%) | Yield (%) |
+|---|---|---|---|---|---|---|---|---|
+| Fanuc (6954) | 5047 | 4710 | 28.3 | 20.5 | 4.77 | 22.3 | 21.4 | 2.5 |
+| Keyence (6861) | 14025 | 3401 | 7.6 | n.a. | 2.52 | 5.0 | 51.0 | 0.9 |
+| SMC (6273) | 55300 | 3506 | 20.9 | 14.6 | 3.49 | 15.4 | 22.6 | 1.8 |
+| Omron (6645) | 4363 | 858 | 27.4 | 20.0 | 1.16 | 14.8 | 7.8 | 2.5 |
+| Yaskawa Electric (6506) | 3180 | 826 | 23.4 | 17.4 | 1.61 | 18.5 | 8.7 | 2.2 |
+| Misumi (9962) | 3416 | 927 | 22.9 | 17.1 | 1.87 | 17.3 | 10.8 | 2.0 |
+| THK (6481) | 4249 | 480 | n.m. | 8.1 | 2.05 | 34.2 | 6.0 | 5.2 |
+| Nidec (6594) | 1644 | 1885 | n.m. | 18.8 | 0.79 | n.m. | -19.2 | n.a. |
+| Band median | — | — | 23.2 | 17.4 | 1.96 | 17.3 | 16.1 | 2.2 |
+
+*Source: In-house Valuation DB, computed on the DB basis: market cap = price × shares outstanding as stored; EV = market cap + total debt − cash and equivalents; multiples on the latest reported fiscal-year fundamentals stored in the DB (Fanuc FY3/26). DPS is trailing declared (Fanuc: FY3/26 year-end ¥55.76 + FY3/27 interim ¥72.54). n.m. = not meaningful (loss-making); n.a. = not available (Keyence publishes no guidance; Nidec DPS not stored in the DB).*
+
 ## 7. Strategy and capital policy
 
 Fanuc does not publish a conventional multi-year mid-term plan with numerical targets in the materials reviewed for this report; its communicated strategy is operational rather than financial: defend the CNC standard (new 500i-A platform, αi-D servos), extend robots into collaborative and AI-assisted applications (CRX line, Physical AI systems with NVIDIA and Google shown at IMTS 2026), grow Robomachine into AI-hardware and NEV component machining, and monetise the installed base through lifetime service, including data services built on machine monitoring (FIELD system / Zero Down Time concepts referenced in company materials). The FY3/27 guidance itself — ==record sales above ¥1tn, a 23.7% operating margin== — is the nearest thing to a published numerical commitment, and it is company guidance for one year, not a plan target.
@@ -312,6 +259,10 @@ Fanuc does not publish a conventional multi-year mid-term plan with numerical ta
 Capital policy, by contrast, is explicit and formulaic. The basic policy stated in the FY3/26 tanshin (24 Apr 2026) has three parts: (1) **dividends at a consolidated payout ratio of 60%**; (2) share buybacks conducted flexibly depending on the share price, balanced against growth investment; (3) treasury shares capped at 5% of issued shares, with the excess cancelled as a general rule each fiscal year. The policy has been in place since April 2019 (shareholder-meeting materials, Jun 2026). Execution matches the formula: FY3/25 dividend ¥94.39/share at a 60.0% payout and 5.2% dividend-on-equity; FY3/26 dividend ¥107.09/share (¥51.33 interim + ¥55.76 year-end) at 60.0% and 5.6% DOE (FY3/26 tanshin). For FY3/27 the interim dividend is ¥72.54; the year-end dividend has not been disclosed — applying the 60% policy to guidance EPS of ¥246.01 would imply c.¥147.6 for the full year, which is an arithmetic implication of the policy, not company guidance, and is labelled as such wherever used in this report. The October 2026 buyback authorisation (up to ¥50bn / 10mn shares to 30 Apr 2027) sits on top of the dividend formula.
 
 The consequence for holders is that returns are fully procyclical by design: the dividend falls when earnings fall (as it would have on FY3/24 EPS of ¥140.23) and rises in recovery years, while the balance sheet retains far more cash than the formula distributes — cash and deposits of ¥746,285mn at Sep 2026 against total FY3/26 dividends of ¥99,932mn. Whether that retention is discipline or drag is the central capital-policy debate on the stock; this initiation records the policy and the numbers and takes no position on it.
+
+Management and governance. The founding family's exit from the boardroom was completed in June 2025, when Yoshiharu Inaba retired as a director and became a special advisor; President and CEO Kenji Yamaguchi (in the role since 2016) leads a professional management team, and there is no controlling shareholder (Chapter 8). Strategy execution to judge management on is operational and observable: adoption of the 500i-A CNC platform by machine-tool builders, whether the NVIDIA and Google collaborations convert into shippable Physical AI products, Robomachine's share of AI-hardware machining demand in China, and the compounding rate of service revenue. Capital allocation is the other scorecard: the 60% payout formula and the October 2026 buyback (up to ¥50bn to April 2027) are running, but cash and deposits of ¥746,285mn at September 2026 still equal roughly seven years of FY3/26 dividends. Our estimates assume the formula is held and the excess cash stays on the balance sheet, so any move to a higher structural return — a payout increase or a larger cancellation programme — is upside to our numbers, not a requirement of them.
+
+**Risks to our view.** (1) Cycle reversal: Fanuc's operating leverage is symmetric — in FY3/24 a 6.7% sales decline produced a 25.8% operating-profit decline — and our estimates assume the order surge converts; two weak order quarters would invalidate the FY3/28 build. (2) China concentration: China was 27.4% of Q2 FY3/27 sales and Asia 41.1% of FY3/26 sales; Chinese robot sales already fell 14.3% YoY in Q2 FY3/27, local competitors (Estun, Inovance) are strongest exactly there, and export-control or tariff escalation would hit the largest demand pool first. (3) Currency: c.87% of sales are outside Japan while production is concentrated in Japan; guidance assumes ¥150/USD and ¥175/EUR for H2 against H1 actuals of ¥159.37 and ¥184.35, so a yen rally beyond those assumptions is a direct margin headwind — the company does not disclose a per-yen profit sensitivity in the materials used here, and we do not estimate one (未取得). (4) Customer inventory cycles: FA orders grew 130.1% YoY in Q2 FY3/27 after six quarters of destocking; the same mechanism works in reverse. (5) Disclosure and verification risk: no divisional profit, no orders in the tanshin and no backlog series — the market prices Fanuc on thinner information than global peers provide, which cuts both ways when results surprise. (6) Valuation risk: at 28.3x trailing earnings the shares are not priced for failure, but they are priced on trough earnings; if the cycle turns, the downside anchor is a mid-teens EV/OP on a falling operating profit, which compounds price and estimate declines.
 
 ## 8. Other information
 
@@ -327,14 +278,14 @@ Shareholder returns are covered in Chapter 7. Employees, R&D headcount and unit 
 
 Sources. Historical financials (FY3/17–FY3/26 annual and 20 quarters; FY3/17–FY3/21 from the sheet’s supplementary History block) are from the Fanuc PL/segment sheet (J-GAAP template, ¥mn), built from company tanshin sourced from the JPX archive — cited in this report as 'Company results via PL/segment sheet (tanshin, JPX archive)'. H1 and Q2 FY3/27 figures, orders, market commentary and the FY3/27 forecast are from Fanuc's Q2 FY3/27 interim tanshin and earnings presentation dated 23 October 2026 (the presentation is the document filed via TDnet; a translated results PDF was used). Dividend policy and FY3/26 dividend detail are from the FY3/26 tanshin dated 24 April 2026 and the June 2026 AGM convocation notice. Share price, market capitalisation and trailing P/E are Finnhub data as reported in search results for 13–16 November 2026 (price ¥5,541 at the 13 Nov 2026 close); market data from aggregators can be delayed or revised and should be checked against the exchange before use. Market-share figures are third-party estimates (Morningstar company report and industry sources, 2026) and are labelled as estimates wherever they appear.
 
-Conventions. Fiscal years are March year-ends: FY3/26 is the year ended 31 March 2026, and the company's own 'FY2026' labelling in English materials is the same year. Amounts are ¥mn unless stated as ¥bn. The template (model) forecast columns in the PL/segment sheet are mechanical extrapolations, are not company guidance and have not been used anywhere in this report; the only forward figures are the company's FY3/27 guidance, labelled 'company guidance'. Known gaps, recorded rather than filled: orders and backlog (presentation only, not in the tanshin/sheet), R&D as a tanshin line, employees, production/sales units, capacity and utilisation (all not disclosed in the tanshin), quarterly operating cash flow and capex for Q1/Q3 (no cash-flow statement in those tanshin), product-line and regional profit (not disclosed in any period), and the FY3/27 year-end dividend (not disclosed). The sheet's cash-and-equivalents cells for FY3/25/FY3/26 did not extract reliably and were replaced with tanshin balance-sheet and cash-flow figures, as noted in Chapter 6.
+Conventions. Fiscal years are March year-ends: FY3/26 is the year ended 31 March 2026, and the company's own 'FY2026' labelling in English materials is the same year. Amounts are ¥mn unless stated as ¥bn. The template (model) forecast columns in the PL/segment sheet are mechanical extrapolations, are not company guidance and have not been used anywhere in this report; forward figures are the company's FY3/27 guidance, labelled 'company guidance', and the J-Core estimates described below, labelled 'J-Core estimate' wherever they appear. Known gaps, recorded rather than filled: orders and backlog (presentation only, not in the tanshin/sheet), R&D as a tanshin line, employees, production/sales units, capacity and utilisation (all not disclosed in the tanshin), quarterly operating cash flow and capex for Q1/Q3 (no cash-flow statement in those tanshin), product-line and regional profit (not disclosed in any period), and the FY3/27 year-end dividend (not disclosed). The sheet's cash-and-equivalents cells for FY3/25/FY3/26 did not extract reliably and were replaced with tanshin balance-sheet and cash-flow figures, as noted in Chapter 6.
 
-Rating and target. The rating ('Under Review') and price target ('Under review') on page 1 are placeholders for this initiation draft: J-Core Fundamental Research has not published a rating or target price for Fanuc in this document, and no investment recommendation is made or implied.
+Rating, target price and J-Core estimates (added 23 November 2026). J-Core estimates in this report (FY3/27E and FY3/28E) are built from H1 FY3/27 reported actuals, the company's FY3/27 guidance (23 Oct 2026) and its disclosed orders, on the conventions stated in Chapters 2 and 6; EPS estimates use the guidance-implied weighted share count of 928.0mn, and dividend estimates apply the company's stated 60% payout policy to estimated EPS. They are J-Core Fundamental Research estimates, not company guidance, and are labelled as such wherever they appear. The target price of ¥6,400 is 24.0x FY3/28E estimated EPS of ¥266.1, rounded to the nearest ¥100, cross-checked against enterprise value as set out in Chapter 6. Ratings follow a 12-month framework against the price at the date the rating is set: Overweight at expected upside of +15% or more, Neutral between −10% and +15%, Underweight at −10% or worse; against the 20 November 2026 close of ¥5,047 the target implies upside of +26.8%, hence Overweight. Valuation comparisons are computed from the in-house Valuation DB (prices as of 20 November 2026; shares outstanding, debt and cash as stored in the DB) and supersede the Finnhub figures cited in the original 16 November 2026 text where the two differ.
 
 ---
 
-Rating (as stated in the report): Under Review
+Rating (as stated in the report): Overweight
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

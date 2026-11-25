@@ -1,9 +1,9 @@
 ---
-title: "The CNC standard at a cyclical inflection: record orders and first ¥1tn sales year guided for FY3/27"
+title: "CNCの標準は転換点にあります。Overweight（オーバーウェイト）でカバレッジを開始します。受注は過去最高、売上高は初めて1兆円へ。目標株価は6,400円です。"
 company: "Fanuc Corporation"
 ticker: "6954"
 sector: "Factory Automation"
-date: 2026-11-16
+date: 2026-11-23
 type: initiation
 externalUrl: "/ja/reports/2026-11-16-fanuc-initiation-12/"
 lang: ja
@@ -11,330 +11,281 @@ rating: "Overweight"
 targetPrice: "¥6,400"
 ---
 
-Global CNC leader entering a record year Fanuc Corporation (6954) is the world's leading maker of CNC (computer numerical control) systems — the controls that run machine tools — with **an estimated global share above 50%**, and one of the largest industrial-robot makers, reporting as a single segment under Japanese GAAP across four product lines: FA, Robot, Robomachine and Service. Strengths: a dominant, standard-setting CNC installed base that feeds a growing, less cyclical Service line (¥141,143mn, 16.5% of sales in FY3/26); operating margins that have held between 17.8% and 25.0% across the FY3/22–FY3/26 cycle; and a debt-free balance sheet with an 88.7% equity ratio and ¥746,285mn of cash and deposits at 30 September 2026 (Q2 FY3/27 tanshin). Weaknesses: earnings remain highly cyclical — operating profit fell 25.8% in FY3/24 as China demand corrected — roughly 87% of sales are outside Japan, leaving results exposed to China capital expenditure and to the yen; disclosure is thin by global standards (no orders, backlog, R&D or headcount in the tanshin); and under J-GAAP a large share of headline profit is non-operating income on the cash pile, so ordinary profit (¥227,485mn in FY3/26) materially exceeds operating profit (¥183,763mn). The latest update is strong: Q2 FY3/27 orders were a record ¥306.0bn and full-year guidance was raised on 23 October 2026 to **sales of ¥1,013,700mn — above ¥1tn for the first time** — and operating profit of ¥240,700mn (company guidance). All historical financials in this report are from Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26 unless stated otherwise.
+記録的な年度に入る世界のCNC最大手。オーバーウェイト、目標株価6,400円です。 ファナック（6954）は、工作機械を動かす制御装置であるCNC（コンピュータ数値制御）システムの世界最大手で、**世界シェアは50%を超えると推計されています**。産業用ロボットでも世界最大級のメーカーです。日本基準で単一セグメントとして報告し、事業はFA、ロボット、ロボマシン、サービスの4つに分かれます。強みは3つあります。標準となったCNCの設置済み基盤が、景気の影響を受けにくいサービス事業（2026年3月期の売上高1,411億円、構成比16.5%）を支えていることです。営業利益率は2022年3月期から2026年3月期のサイクルを通じて17.8%から25.0%の範囲を保ちました。自己資本比率は88.7%で借入金はなく、2026年9月末の現金及び預金は7,463億円あります（2027年3月期第2四半期決算短信）。弱みもあります。業績の景気感応度は高く、中国の需要が調整した2024年3月期には営業利益が25.8%減りました。売上高の約87%は日本国外で、中国の設備投資と円相場に左右されます。決算短信では受注高、受注残高、研究開発費、人員数が開示されず、開示は世界基準では薄い水準です。日本基準では、現金に対する営業外収益が大きいため、経常利益（2026年3月期2,275億円）が営業利益（同1,838億円）を大きく上回ります。直近の決算は好調でした。第2四半期の受注高は過去最高の3,060億円となり、通期の会社計画は2026年10月23日に**売上高1兆137億円（初めての1兆円超え）**、営業利益2,407億円へ上方修正されました。当社はオーバーウェイトでカバレッジを開始し、目標株価を6,400円とします（レーティング設定は2026年11月23日）。当社の2027年3月期予想は売上高1兆300億円、営業利益2,500億円で、会社計画を小幅に上回ります。2028年3月期の予想EPSは266.1円で、目標株価はその24.0倍です。J-Core予想は本文の該当箇所すべてに明記し、前提は第9章にまとめました。本レポートの過去の財務数値は、特に断りのない限り、PL/セグメントシート（決算短信、JPXアーカイブ）に基づく会社の実績です。
 
-**Figure 1. Key indicators and financial history — Fanuc (¥mn, except per-share and % data)**
+**Key data**
+
+| Item | Value |
+|---|---|
+| 時価総額 | ¥4.84tn |
+| 52週の値幅 | ¥4,767 – ¥8,880 |
+| PER（実績） | 28.3x trailing; 20.5x co.-guidance; 20.1x J-Core FY3/27E |
+| 2027年3月期の配当 | Interim ¥72.54 declared; J-Core FY3/27E ¥150.6 |
+| ネットキャッシュ | ¥746,285mn cash & deposits; borrowings ¥0 |
+| 次の予定 | Q3 FY3/27 results |
+
+## Key points
+
+- **過去最高の受注サイクル** 2027年3月期第2四半期（2026年7〜9月）の受注高は**3,060億円（前年同期比49.0%増）**で、四半期として過去最高を記録しました。FAの受注は同130.1%増となり、6四半期続いた顧客の在庫調整が反転しました（ファナック2027年3月期第2四半期決算説明資料、2026年10月23日）。上期の受注高は5,879億円で、上期の売上高4,737億円を上回っています。
+- **会社計画は過去最高の年度へ上方修正** 2027年3月期の会社計画は、第2四半期決算に合わせて2026年10月23日に上方修正されました。**売上高1兆137億円（同18.2%増）、営業利益2,407億円（同31.0%増）**、経常利益3,088億円（同35.7%増）、親会社株主に帰属する当期純利益2,283億円（同37.1%増）、EPSは246.01円です。売上高は初めて1兆円を超え、2026年3月期の過去最高を更新する計画です（PL/セグメントシートのDriversと会社計画の記録、ファナック決算説明資料、2026年10月23日）。下期の前提為替レートは1ドル150円、1ユーロ175円です。
+- **CNCの基盤とサービスの裾野** ファナックはCNCシステムで**推定50〜65%の世界シェア**を持ちます（Morningstarの企業レポート、2026年。第三者機関の推計）。産業用ロボットの設置済み台数は世界最大で、2026年初め時点で110万台を超えると推計されています。サービス売上高は2022年3月期の937億円から2026年3月期の1,411億円まで毎期増え続け、ハードウェアの景気変動を和らげています（会社の決算短信に基づくPL/セグメントシート）。
+- **経常利益は営業利益とは違います** 2026年3月期は、営業外収益475億円が経常利益を押し上げました。営業外収益の中心は、現金に対する受取利息と配当金です。経常利益は2,275億円で、営業利益1,838億円を**23.8%上回りました**（会社の決算短信に基づくPL/セグメントシート）。2027年3月期の会社計画でも、経常利益3,088億円に対して営業利益は2,407億円と、同じ構造が続いています。バリュエーションは営業利益を起点に考える必要があります。
+- **株主還元は公式どおりで、景気連動です** 会社の方針は、**連結配当性向60%**、株価に応じた柔軟な自己株式の取得、発行済株式総数の5%を超える自己株式の消却です（2026年3月期決算短信、2026年4月24日）。2026年3月期の配当は1株107.09円で、配当性向は60.0%でした。第2四半期には中間配当72.54円を決め、2026年10月26日から2027年4月30日までに上限500億円・1,000万株（自己株式を除く発行済株式総数の1.08%）の自己株式取得を承認しました（会社の開示、2026年10月23日）。
+- **オーバーウェイト。株価の下落はサイクル以上に進みました** 株価5,047円（2026年11月20日）では、当社の2027年3月期予想EPS 251.0円に対して20.1倍、2028年3月期予想EPS 266.1円に対して19.0倍です（いずれもJ-Core予想）。受注が過去最高となり会社計画が上方修正された四半期に、株価は52週高値8,880円から43.2%下落しました。目標株価6,400円は2028年3月期予想EPSの24.0倍で、EV/営業利益では2028年3月期予想の19.8倍に当たります。同業グループの中央値17.3倍とも比べて検証しています。目標株価までの上昇余地は26.8%です。レーティングの基準と予想の前提は第9章に書きました。
+
+## 1. 主要指標と業績の推移
+
+ファナックは日本基準で3月決算を採用し、会社自身の説明では単一の報告セグメントです。そのため、この推移は連結のみで、開示されている内訳は製品別と地域別の売上高です（会社の決算短信に基づくPL/セグメントシート）。
+
+この期間の前にも、同じサイクルがより高い山とより深い谷で進みました。売上高は2018年3月期に35.3%増えて7,266億円となり、営業利益は2,296億円、営業利益率は**31.6%で、10年間の記録で最も高い水準**でした。その後、売上高は2年続けて減り、2020年3月期に5,083億円で底を打ちました。営業利益は884億円、営業利益率は17.4%でした。2019年3月期はその間にあり、売上高6,356億円、営業利益1,633億円（25.7%）で、税金等調整前当期純利益は特別利益251億円に押し上げられて2,085億円でした。回復は2021年3月期に始まり、売上高は8.5%増えて5,513億円、営業利益は1,125億円（20.4%）まで戻りました。それでも2018年3月期の山には届かず、2022年3月期の数字がその山に近づきました。
+
+直近5年間は、FA（ファクトリーオートメーション）のサイクルを一巡しました。売上高は2023年3月期に16.2%増えて8,520億円となり、コロナ後の工作機械とロボットの需要を受けました。2024年3月期は6.7%減の7,953億円で、最大の市場である中国が調整し、顧客がCNCシステムの在庫を減らしました。2025年3月期は7,971億円（0.2%増）と横ばいで、2026年3月期に7.6%増えて過去最高の8,578億円となりました。営業利益は両方向に大きく動きました。2023年3月期は1,914億円（22.5%）、2024年3月期は1,419億円（17.8%）、2025年3月期は1,588億円（19.9%）、2026年3月期は1,838億円（21.4%）です。2022年3月期の営業利益率25.0%（売上高7,330億円、営業利益1,832億円）が、この期間の最高水準です。
+
+売上総利益率も同じ流れです。2022年3月期に40.3%、2023年3月期に38.2%、2024年3月期に34.7%で底を打ち、2025年3月期に37.0%、2026年3月期に38.3%まで戻りました。販売費及び一般管理費は2022年3月期の1,124億円（売上高比15.3%）から2026年3月期の1,447億円（同16.9%）まで増え続けました。2024年3月期の減益は、費用管理の失敗ではなく、売上総利益率の問題、つまり数量と構成の問題でした。
+
+1株当たりの数字には注意が要ります。シートの加重平均株式数は、2022年3月期の1億9,180万株から2023年3月期の9億5,540万株へ変わっています。株式数の基準が変わったためです。主要指標表の2022年3月期EPS 809.49円は旧基準で、2023年3月期以降（178.55円、140.23円、157.31円、178.47円）とそのままでは比べられません。現在の基準では、2026年3月期のEPS 178.47円に対して、2027年3月期の会社計画EPSは246.01円です。
+
+現金の生み出す力は安定して強い水準です。営業キャッシュフローは2022年3月期から2026年3月期まで、1,256億円、995億円、1,718億円、2,553億円、2,509億円でした。設備投資は344億円、471億円、539億円、408億円、212億円です（会社の決算短信に基づくPL/セグメントシート）。棚卸資産は2024年3月期末に3,625億円で山を作り、シートの計算では売上原価の8.7か月分でした。2026年3月期末には2,922億円（同6.7か月分）まで減りました。
+
+**Figure 1. 図表1. 主要指標と業績の推移 — ファナック（百万円、1株当たりと%を除く）**
 
 | Item | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Sales | 536942 | 726596 | 635568 | 508252 | 551287 | 733008 | 851956 | 795274 | 797129 | 857831 | 1013700 |
-| Sales growth (%) | — | 35.3 | -12.5 | -20 | 8.5 | 33 | 16.2 | -6.7 | 0.2 | 7.6 | 18.2 |
-| Gross profit | 233527 | 328198 | 265807 | 182157 | 201960 | 295634 | 325407 | 275844 | 294925 | 328466 | — |
-| Gross margin (%) | 43.5 | 45.2 | 41.8 | 35.8 | 36.6 | 40.3 | 38.2 | 34.7 | 37 | 38.3 | — |
-| Operating profit | 153217 | 229604 | 163297 | 88350 | 112514 | 183240 | 191359 | 141919 | 158846 | 183763 | 240700 |
-| Operating margin (%) | 28.5 | 31.6 | 25.7 | 17.4 | 20.4 | 25 | 22.5 | 17.8 | 19.9 | 21.4 | 23.7 |
-| Non-operating income | 17220 | 24805 | 24170 | 16790 | 18397 | 32274 | 43225 | 43263 | 42340 | 47548 | — |
-| Ordinary profit | 168829 | 249525 | 183459 | 102816 | 128744 | 213395 | 231327 | 181755 | 196738 | 227485 | 308800 |
-| Net income to parent | 127697 | 181957 | 154163 | 73371 | 94012 | 155273 | 170587 | 133159 | 147557 | 166543 | 228300 |
-| EPS (¥) | 658.6 | 938.7 | 795.3 | 381.9 | 490.1 | 809.5 | 178.6 | 140.2 | 157.3 | 178.5 | 246 |
-| Dividend per share (¥) | — | — | — | — | — | — | — | — | 94.4 | 107.1 | Not disclosed |
-| Operating cash flow | 121713 | 175990 | 177738 | 144872 | 117996 | 125581 | 99505 | 171764 | 255273 | 250896 | — |
-| Capital expenditure | 87509 | 103016 | 125324 | 75429 | 21768 | 34363 | 47066 | 53884 | 40805 | 21181 | — |
-| Depreciation & amortisation | 26530 | 34190 | 39709 | 45913 | 45102 | 47077 | 49189 | 49001 | 46448 | 47782 | — |
-| Inventories (period-end) | 118336 | 150118 | 156146 | 142551 | 164268 | 249564 | 350577 | 362546 | 306439 | 292186 | — |
-| Cash & equivalents (period-end) | 774761 | 725903 | 607714 | 515008 | 577919 | 574655 | 476953 | 526881 | 502091 | 615075 | — |
-| Interest-bearing debt | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | — |
+| 売上高 | 536942 | 726596 | 635568 | 508252 | 551287 | 733008 | 851956 | 795274 | 797129 | 857831 | 1013700 |
+| 売上高成長率（%） | — | 35.3 | -12.5 | -20 | 8.5 | 33 | 16.2 | -6.7 | 0.2 | 7.6 | 18.2 |
+| 売上総利益 | 233527 | 328198 | 265807 | 182157 | 201960 | 295634 | 325407 | 275844 | 294925 | 328466 | — |
+| 売上総利益率（%） | 43.5 | 45.2 | 41.8 | 35.8 | 36.6 | 40.3 | 38.2 | 34.7 | 37 | 38.3 | — |
+| 営業利益 | 153217 | 229604 | 163297 | 88350 | 112514 | 183240 | 191359 | 141919 | 158846 | 183763 | 240700 |
+| 営業利益率（%） | 28.5 | 31.6 | 25.7 | 17.4 | 20.4 | 25 | 22.5 | 17.8 | 19.9 | 21.4 | 23.7 |
+| 営業外収益 | 17220 | 24805 | 24170 | 16790 | 18397 | 32274 | 43225 | 43263 | 42340 | 47548 | — |
+| 経常利益 | 168829 | 249525 | 183459 | 102816 | 128744 | 213395 | 231327 | 181755 | 196738 | 227485 | 308800 |
+| 親会社株主に帰属する当期純利益 | 127697 | 181957 | 154163 | 73371 | 94012 | 155273 | 170587 | 133159 | 147557 | 166543 | 228300 |
+| EPS（円） | 658.6 | 938.7 | 795.3 | 381.9 | 490.1 | 809.5 | 178.6 | 140.2 | 157.3 | 178.5 | 246 |
+| 1株当たり配当金（円） | — | — | — | — | — | — | — | — | 94.4 | 107.1 | Not disclosed |
+| 営業キャッシュフロー | 121713 | 175990 | 177738 | 144872 | 117996 | 125581 | 99505 | 171764 | 255273 | 250896 | — |
+| 設備投資 | 87509 | 103016 | 125324 | 75429 | 21768 | 34363 | 47066 | 53884 | 40805 | 21181 | — |
+| 減価償却費 | 26530 | 34190 | 39709 | 45913 | 45102 | 47077 | 49189 | 49001 | 46448 | 47782 | — |
+| 棚卸資産（期末） | 118336 | 150118 | 156146 | 142551 | 164268 | 249564 | 350577 | 362546 | 306439 | 292186 | — |
+| 現金及び現金同等物（期末） | 774761 | 725903 | 607714 | 515008 | 577919 | 574655 | 476953 | 526881 | 502091 | 615075 | — |
+| 有利子負債 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | — |
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26 actuals; FY3/27E is company guidance revised up at Q2 (23 Oct 2026) — not a J-Core Fundamental Research forecast. FY3/22 EPS is on the pre-change share-count basis (191.8mn weighted shares vs 955.4mn in FY3/23) and is not directly comparable. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Key data**
-| Item | Value |
-|---|---|
-| Market cap | ¥4.84tn |
-| 52-week range | ¥4,767 – ¥8,880 |
-| P/E (trailing) | 25.6x |
-| FY3/27E dividend | Interim ¥72.54 declared; full-year not disclosed |
-| Net cash | ¥746,285mn cash & deposits; borrowings ¥0 |
-| Next event | Q3 FY3/27 results |
-
-## Key points
-- **Record order cycle** Q2 FY3/27 (Jul–Sep 2026) orders totalled **¥306.0bn, +49.0% YoY** and the highest quarterly intake in the company's history, with FA orders +130.1% YoY as six quarters of customer inventory destocking reversed (Fanuc Q2 FY3/27 earnings presentation, 23 Oct 2026). H1 orders were ¥587.9bn against H1 sales of ¥473.7bn.
-- **Guidance raised to a record year** FY3/27 company guidance, revised up at Q2 on 23 October 2026: **sales ¥1,013,700mn (+18.2% YoY), operating profit ¥240,700mn (+31.0%)**, ordinary profit ¥308,800mn (+35.7%) and net income to parent ¥228,300mn (+37.1%), EPS ¥246.01 — the first ¥1tn sales year, above the FY3/26 record (Drivers/guidance record in PL/segment sheet; Fanuc presentation, 23 Oct 2026). H2 FX assumptions: ¥150/USD, ¥175/EUR.
-- **CNC franchise and service tail** Fanuc holds **an estimated 50–65% global share in CNC systems** (Morningstar company report, 2026; third-party industry estimates) and the largest industrial-robot installed base (over 1.1mn units by early 2026, third-party estimate). Service sales have grown every year in FY3/22–FY3/26, from ¥93,732mn to ¥141,143mn, smoothing the hardware cycle (Company results via PL/segment sheet (tanshin, JPX archive)).
-- **Ordinary profit is not operating profit** In FY3/26 non-operating income of ¥47,548mn — mainly interest and dividends on the cash pile — lifted ordinary profit to ¥227,485mn, **23.8% above operating profit of ¥183,763mn** (Company results via PL/segment sheet (tanshin, JPX archive)). The same bridge is in the FY3/27 guidance: ordinary profit ¥308,800mn vs operating profit ¥240,700mn (company guidance). Valuation work should start from operating profit.
-- **Returns are formulaic — and procyclical** Fanuc's stated policy (FY3/26 tanshin, 24 Apr 2026) is **a 60% consolidated dividend payout ratio**, flexible buybacks, and cancellation of treasury shares above 5% of issued shares. FY3/26 dividend was ¥107.09/share (60.0% payout). At Q2 FY3/27 the board declared an interim dividend of ¥72.54 and authorised buybacks of up to ¥50bn / 10mn shares (1.08% of shares ex-treasury) from 26 Oct 2026 to 30 Apr 2027 (company disclosures, 23 Oct 2026).
-
-## 1. Key indicators and financial history
-
-Fanuc reports under Japanese GAAP with a March year-end and, by its own statement, as a single operating segment; the history below is therefore consolidated only, with product-line and regional sales as the disclosed sub-views (Company results via PL/segment sheet (tanshin, JPX archive)).
-
-Before that window, the same cycle ran through a higher peak and a deeper trough. Sales rose 35.3% in FY3/18 to ¥726,596mn, with operating profit of ¥229,604mn at **a 31.6% margin — the highest operating margin in the ten-year record** — before sales fell in two consecutive years to a trough of ¥508,252mn in FY3/20, when operating profit fell to ¥88,350mn and the operating margin to 17.4%. FY3/19 sits between the two: sales of ¥635,568mn and operating profit of ¥163,297mn (25.7%), with profit before tax of ¥208,540mn lifted by ¥25,081mn of extraordinary income. The recovery began in FY3/21, when sales rose 8.5% to ¥551,287mn and operating profit recovered to ¥112,514mn (20.4%), still well below the FY3/18 peak that the FY3/22 figures then approached.
-
-The most recent five-year arc is a full factory-automation cycle. Sales rose 16.2% to ¥851,956mn in FY3/23 on post-Covid machine-tool and robot demand, then fell 6.7% to ¥795,274mn in FY3/24 as China — the largest single market — corrected and customers worked down inventories of CNC systems. Sales were flat in FY3/25 (¥797,129mn, +0.2%) before recovering 7.6% to a record ¥857,831mn in FY3/26. Operating profit followed with leverage in both directions: ¥191,359mn in FY3/23 (22.5% margin), ¥141,919mn in FY3/24 (17.8%), ¥158,846mn in FY3/25 (19.9%) and ¥183,763mn in FY3/26 (21.4%). The FY3/22 operating margin of 25.0% (¥183,240mn on ¥733,008mn) remains the high-water mark of this window.
-
-Gross margin tells the same story in one line: 40.3% in FY3/22, 38.2% in FY3/23, a trough of 34.7% in FY3/24, then 37.0% and 38.3% in FY3/25 and FY3/26. SG&A rose steadily from ¥112,394mn (15.3% of sales) in FY3/22 to ¥144,703mn (16.9%) in FY3/26, so the FY3/24 profit decline was a gross-margin (volume and mix) event, not a cost-control failure.
-
-Per-share data need one caution. The weighted share count in the sheet steps from 191.8mn in FY3/22 to 955.4mn in FY3/23, reflecting the change in share count basis over that period; the FY3/22 EPS of ¥809.49 in the KPI table is therefore on the old basis and is not directly comparable with FY3/23 onwards (¥178.55, ¥140.23, ¥157.31 and ¥178.47). On the current basis, FY3/26 EPS of ¥178.47 compares with the FY3/27 company-guidance EPS of ¥246.01.
-
-Cash generation is consistently strong: operating cash flow was ¥125,581mn, ¥99,505mn, ¥171,764mn, ¥255,273mn and ¥250,896mn across FY3/22–FY3/26, against capital expenditure of ¥34,363mn, ¥47,066mn, ¥53,884mn, ¥40,805mn and ¥21,181mn (Company results via PL/segment sheet (tanshin, JPX archive)). Inventory, which peaked at ¥362,546mn at end-FY3/24 (8.7 months of cost of sales on the sheet's calculation), was worked down to ¥292,186mn by end-FY3/26 (6.7 months).
-
-**Figure: Fanuc Corporation — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY3/17 | 536942 |
-
-| FY3/18 | 726596 |
-
-| FY3/19 | 635568 |
-
-| FY3/20 | 508252 |
-
-| FY3/21 | 551287 |
-
-| FY3/22 | 733008 |
-
-| FY3/23 | 851956 |
-
-| FY3/24 | 795274 |
-
-| FY3/25 | 797129 |
-
-| FY3/26 | 857831 |
+**Figure 2. ファナック — 年別の売上高**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Fanuc Corporation — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY3/17 | 153217 |
-
-| FY3/18 | 229604 |
-
-| FY3/19 | 163297 |
-
-| FY3/20 | 88350 |
-
-| FY3/21 | 112514 |
-
-| FY3/22 | 183240 |
-
-| FY3/23 | 191359 |
-
-| FY3/24 | 141919 |
-
-| FY3/25 | 158846 |
-
-| FY3/26 | 183763 |
+**Figure 3. ファナック — 年別の営業利益**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Fanuc Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 28.5 |
-
-| FY3/18 | 31.6 |
-
-| FY3/19 | 25.7 |
-
-| FY3/20 | 17.4 |
-
-| FY3/21 | 20.4 |
-
-| FY3/22 | 25 |
-
-| FY3/23 | 22.5 |
-
-| FY3/24 | 17.8 |
-
-| FY3/25 | 19.9 |
-
-| FY3/26 | 21.4 |
+**Figure 4. ファナック — 年別の営業利益率**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Fanuc Corporation — revenue and operating margin**
+**Figure 5. ファナック — 売上高と営業利益率**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-## H1 FY3/27 in the history
+## 2027年3月期上期を推移の中に置く
 
-The first half of FY3/27 (Apr–Sep 2026) extends the recovery sharply: **sales ¥473,708mn (+16.2% YoY), operating profit ¥116.7bn (+35.7%, 24.6% margin)**, ordinary profit ¥149.0bn (+38.1%) and net income to parent ¥112.6bn (+41.0%) (Fanuc Q2 FY3/27 earnings presentation and interim tanshin, 23 Oct 2026). The implied H2 required by full-year company guidance is sales of c.¥540bn and operating profit of c.¥124bn — demanding, but consistent with the record Q2 order book discussed in Chapter 2.
+2027年3月期の上期（2026年4〜9月）は、回復が一段と進みました。**売上高4,737億円（前年同期比16.2%増）、営業利益1,167億円（同35.7%増、営業利益率24.6%）**、経常利益1,490億円（同38.1%増）、親会社株主に帰属する中間純利益1,126億円（同41.0%増）です（ファナック2027年3月期第2四半期決算説明資料と中間決算短信、2026年10月23日）。通期の会社計画から逆算すると、下期には売上高で約5,400億円、営業利益で約1,240億円が必要です。求められる水準は高いものの、第2四半期の過去最高の受注と矛盾しません。第2章で受注を扱います。
 
-## 2. Latest update — Q2 FY3/27 results and guidance
+## 2. 直近の決算 — 2027年3月期第2四半期の実績と会社計画
 
-Fanuc reported Q2 FY3/27 results on 23 October 2026 (interim tanshin for the six months ended 30 September 2026; earnings presentation the same day). H1 sales were ¥473,708mn (+16.2% YoY), operating profit ¥116.7bn (+35.7%), ordinary profit ¥149.0bn (+38.1%) and net income attributable to owners of the parent ¥112.6bn (+41.0%). The company beat its own H1 forecast (sales ¥466.0bn, operating profit ¥104.4bn) by 1.7% on sales and **11.7% on operating profit**. The operating-profit bridge for H1 attributes the ¥30.7bn YoY increase mainly to revenue growth (+¥23.5bn) and cost variance (+¥6.5bn), partly offset by unrealised-profit effects and higher SG&A (Fanuc presentation, 23 Oct 2026).
+ファナックは2026年10月23日に2027年3月期第2四半期決算を発表しました（2026年9月30日までの6か月間の中間決算短信と、同日の決算説明資料）。上期の売上高は4,737億円（前年同期比16.2%増）、営業利益は1,167億円（同35.7%増）、経常利益は1,490億円（同38.1%増）、親会社株主に帰属する中間純利益は1,126億円（同41.0%増）でした。会社の上期計画（売上高4,660億円、営業利益1,044億円）に対して、売上高は1.7%、営業利益は**11.7%**上回りました。上期の営業利益が前年同期から307億円増えた内訳は、売上増による235億円と原価の改善65億円が中心で、棚卸資産の未実現利益の影響と販管費の増加が一部を相殺しました（ファナック決算説明資料、2026年10月23日）。
 
-The three-month Q2 (Jul–Sep 2026) was the strongest quarter in the window: sales ¥242.7bn (+14.9% YoY, +5.0% QoQ), operating profit ¥63.2bn (+45.1% YoY, 26.0% margin), ordinary profit ¥80.9bn and net income ¥61.6bn (+46.7% YoY). Q2 gross margin recovered to 42.3% as cost of sales fell to 57.7% of sales from 62.6% a year earlier (Fanuc presentation, 23 Oct 2026).
+第2四半期の3か月間（2026年7〜9月）は、この期間で最も強い四半期でした。売上高2,427億円（前年同期比14.9%増、前四半期比5.0%増）、営業利益632億円（同45.1%増、営業利益率26.0%）、経常利益809億円、親会社株主に帰属する四半期純利益616億円（同46.7%増）です。第2四半期の売上総利益率は42.3%まで戻りました。売上原価率は前年同期の62.6%から57.7%へ下がりました（ファナック決算説明資料、2026年10月23日）。
 
-Orders are the headline. Total Q2 orders were ==¥306.0bn, +49.0% YoY== and +8.5% QoQ — a quarterly record. By division, FA orders rose 130.1% YoY to ¥112.2bn (36.7% of intake, up from 23.7% a year earlier), Robot orders rose 12.6% to ¥103.4bn, Robomachine orders rose 72.3% and Service orders rose 12.0%. By region, Q2 orders from Asia excluding China rose 111.9% YoY and China orders rose 79.8%; Japan orders rose 54.3%. H1 orders totalled ¥587.9bn (Q1 ¥281.9bn + Q2 ¥306.0bn) versus H1 sales of ¥473.7bn, a book-to-bill of c.1.24x on presentation figures. Note that orders and backlog are disclosed only in the earnings presentation, not in the tanshin — they are not in the PL/segment sheet and are not disclosed at all in the annual tanshin series used for Chapter 1.
+見出しは受注です。第2四半期の受注高は合計==3,060億円、前年同期比49.0%増==、前四半期比8.5%増で、四半期として過去最高でした。部門別では、FAの受注が同130.1%増の1,122億円（受注全体の36.7%。前年同期は23.7%）となり、ロボットの受注は同12.6%増の1,034億円でした。ロボマシンの受注は同72.3%増、サービスの受注は同12.0%増です。地域別では、中国を除くアジアの受注が同111.9%増、中国の受注が同79.8%増、日本の受注が同54.3%増でした。上期の受注高は合計5,879億円（第1四半期2,819億円と第2四半期3,060億円）で、上期の売上高4,737億円に対して受注売上比率は約1.24倍です（説明資料の数字）。受注高と受注残高は決算説明資料でのみ開示され、決算短信には載りません。PL/セグメントシートにも入っておらず、第1章で使った通期の決算短信の系列には受注の開示自体がありません。
 
-Guidance was revised up on 23 October 2026 from the 31 July 2026 forecast (sales ¥948,100mn / operating profit ¥218,000mn / net income ¥198,000mn) to sales ¥1,013,700mn (+6.9% vs prior forecast, +18.2% YoY), operating profit ¥240,700mn (+10.4%, +31.0% YoY, 23.7% margin), ordinary profit ¥308,800mn (+13.9%, +35.7% YoY) and net income ¥228,300mn (+15.3%, +37.1% YoY), EPS ¥246.01 (company guidance; Drivers/guidance record in PL/segment sheet, sourced to the Q2 FY3/27 tanshin, JPX archive). H2 assumptions are ¥150/USD and ¥175/EUR, versus H1 actual averages of ¥159.37/USD and ¥184.35/EUR — the guidance therefore embeds a stronger yen in H2, a conservatism worth noting. Alongside the revision the board declared an interim dividend of ¥72.54/share (vs ¥51.33 a year earlier; total c.¥67.1bn, payable 1 Dec 2026) and authorised a buyback of up to 10mn shares (1.08% of shares outstanding ex-treasury) for up to ¥50bn between 26 October 2026 and 30 April 2027 (company disclosures, 23 Oct 2026).
+会社計画は2026年10月23日に上方修正されました。2026年7月31日時点の計画（売上高9,481億円、営業利益2,180億円、純利益1,980億円）から、売上高1兆137億円（従来計画比6.9%増、前年同期比18.2%増）、営業利益2,407億円（同10.4%増、同31.0%増、営業利益率23.7%）、経常利益3,088億円（同13.9%増、同35.7%増）、親会社株主に帰属する当期純利益2,283億円（同15.3%増、同37.1%増）、EPS 246.01円へ引き上げられました（会社計画。PL/セグメントシートのDriversと会社計画の記録。原資料は2027年3月期第2四半期決算短信、JPXアーカイブ）。下期の前提は1ドル150円、1ユーロ175円です。上期の実績平均は1ドル159.37円、1ユーロ184.35円でした。会社計画は下期に円高が進む前提を置いており、ここに慎重さがあります。修正と同時に、取締役会は中間配当72.54円（前年同期は51.33円、総額約671億円、支払いは2026年12月1日）を決め、2026年10月26日から2027年4月30日までに上限1,000万株（自己株式を除く発行済株式総数の1.08%）、上限500億円の自己株式取得を承認しました（会社の開示、2026年10月23日）。
 
-## China and regional demand in Q2 FY3/27
+**J-Core予想（2026年11月23日）。**当社の2027年3月期予想は、売上高1兆300億円、営業利益2,500億円で、会社計画を売上高で1.6%、営業利益で3.9%上回ります。組み立ては感情ではなく計算です。上期の実績（売上高4,737億円、営業利益1,167億円、会社の上期計画を営業利益で11.7%上回りました）は確定しています。予想の焦点は下期です。会社計画から逆算した下期は売上高5,400億円、営業利益1,240億円です。当社は下期の売上高を5,563億円、営業利益を1,333億円（営業利益率24.0%）と置きました。根拠は3つあります。上期の受注高5,879億円（受注売上比率は約1.24倍）があり、第2四半期の受注では最も景気に敏感なFAが36.7%を占めました。2026年3月期の売上高構成比24.3%より高い水準です。会社計画の下期の前提為替レート（1ドル150円、1ユーロ175円）は、上期の実績平均（159.37円、184.35円）より約9円円高で、会社計画には為替の逆風が織り込まれています。当社はその一部だけを前提から外しました。回復局面の年（2022年3月期、2023年3月期）には、受注の急増が下期に偏った出荷へつながった実績があります。経常利益は3,150億円と置きました。営業外収支のプラス650億円を加えた数字で、会社計画の681億円の橋渡しと整合します。親会社株主に帰属する当期純利益は2,329億円です。経常利益から純利益への換算率は、会社計画が示す73.9%を使いました。EPSは251.0円で、株式数は会社計画EPSから逆算した加重平均9億2,800万株です。図表4に、会社計画と当社予想を並べました。
 
-The company's market commentary (Fanuc presentation, 23 Oct 2026) describes FA demand as strong, led by China — where AI data centres, semiconductors, humanoid-robot components and new-energy vehicles are driving growth — with Japan, Korea and Taiwan also solid on AI data centres, semiconductors and aerospace, India strong in autos and infrastructure, the Americas favourable in aerospace, and Europe gradually recovering. Robot demand is described as rising sharply on automation investment including AI-related demand, especially in the Americas and China, with Americas automotive investment starting to gain momentum. Robomachine demand remains strong, led by China, across ROBODRILL, ROBOSHOT and ROBOCUT.
+2028年3月期の当社予想は、売上高1兆1,020億円（7.0%増）、営業利益2,710億円（営業利益率24.6%）、親会社株主に帰属する当期純利益2,469億円、EPS 266.1円です（J-Core予想）。受注サイクルは繰り返すのではなく、成熟していく前提を置きました。FAは2027年3月期の急増の後に平常化し、ロボットは米州と中国の自動化投資で伸び、サービスは設置済み基盤の拡大に伴って1桁後半の成長を続け、構成が良くなります。当社の見方を変える条件は3つあります。受注が2四半期続けて減ること。2024年3月期に見たような中国のFAの反転が起きること。価格での相殺がないまま、円相場が会社計画の前提である1ドル150円を大きく超えて円高へ進むことです。2024年3月期の実績（売上高6.7%減、営業利益25.8%減）は、この損益計算書が株主にとってどれだけ速く逆向きに動くかを示す型です。
 
-The divisional detail adds nuance the headline misses. In Q2, China Robot sales fell 14.3% YoY (and 32.0% QoQ) even as **China FA sales rose 25.6% YoY** and total China sales rose 20.8% YoY; third-party reporting of the results (Tokyo Brief, 23 Oct 2026) notes the company described Chinese auto-industry demand as stalled while general industry was strong. In other words, the China recovery in this print is a CNC/FA and general-industry story — semiconductors, AI hardware, NEV components — not yet a China auto-robot story. Q2 sales mix by region (presentation): Japan 13.1%, the Americas 27.8%, Europe 15.9%, China 27.4%, Asia ex-China 14.7%, other 1.1%.
+**Figure 6. 図表4. J-Core予想と会社計画 — ファナック（百万円、1株当たりと%を除く）**
 
-## 3. Business description
+| Item | FY3/26A | FY3/27E (co. guidance) | FY3/27E (J-Core) | FY3/28E (J-Core) |
+|---|---|---|---|---|
+| 売上高 | 857831 | 1013700 | 1030000 | 1102000 |
+| 売上高成長率（%） | 7.6 | 18.2 | 20.1 | 7.0 |
+| 営業利益 | 183763 | 240700 | 250000 | 271000 |
+| 営業利益率（%） | 21.4 | 23.7 | 24.3 | 24.6 |
+| 経常利益 | 227485 | 308800 | 315000 | 334000 |
+| 親会社株主に帰属する当期純利益 | 166543 | 228300 | 232900 | 246900 |
+| EPS（円） | 178.47 | 246.01 | 251.0 | 266.1 |
+| 1株当たり配当金（円） | 107.09 | n.d. (interim ¥72.54 declared) | 150.6 | 159.6 |
 
-Fanuc is a single-segment company by its own statement in the tanshin: there is one reportable segment, and the business block of the PL/segment sheet therefore carries disclosed product-line sales only, with no product-line profit (profit by product line is not disclosed). The four product lines share one technology core — CNC controls and servo systems — one manufacturing footprint in Japan, and one global service network. All products are manufactured at four Japanese locations: the Oshino-mura headquarters campus at the foot of Mt Fuji (Yamanashi), Mibu (Tochigi), Tsukuba (Ibaraki) and Hayato (Kagoshima) (company disclosures as summarised in third-party company profiles, Nov 2026). Production is famously automated — robots building robots — and concentrated in Japan, which concentrates both quality control and yen exposure in one place.
+*Source: FY3/26 actuals: company results via PL/segment sheet (tanshin, JPX archive). FY3/27E (co. guidance): Fanuc Q2 FY3/27 tanshin, 23 Oct 2026. FY3/27E and FY3/28E (J-Core): J-Core Fundamental Research estimates, 23 Nov 2026 — basis in Chapters 2 and 9; dividend estimates apply the company's stated 60% payout policy to estimated EPS.*
 
-In FY3/26 the sales mix was: **Robot ¥378,610mn (44.1%)**, FA ¥208,478mn (24.3%), Service ¥141,143mn (16.5%) and Robomachine ¥129,600mn (15.1%) (Company results via PL/segment sheet (tanshin, JPX archive)). The mix has shifted over the cycle: Robot peaked at ¥380,944mn in FY3/24 even as group sales fell, while FA is the most cyclical line — ¥250,113mn in FY3/23, down 27.9% to ¥180,384mn in FY3/24, recovering to ¥208,478mn in FY3/26.
+## 2027年3月期第2四半期の中国と地域別の需要
 
-## FA — CNC systems, servo motors and lasers
+会社の市場説明（ファナック決算説明資料、2026年10月23日）では、FAの需要は堅調で、中国が中心です。中国ではAIデータセンター、半導体、ヒューマノイドロボットの部品、新エネルギー車が成長を引っ張っています。日本、韓国、台湾もAIデータセンター、半導体、航空宇宙で堅調です。インドは自動車とインフラで強く、米州は航空宇宙が好調で、欧州は緩やかに回復しています。ロボットの需要は、AI関連の需要を含む自動化投資で大きく伸びています。特に米州と中国で強く、米州の自動車投資には勢いが出始めました。ロボマシンの需要は中国を中心に堅調で、ロボドリル、ロボショット、ロボカットのいずれも好調です。
 
-The FA division makes the CNC systems, servo motors/amplifiers and lasers that control machine tools. This is the franchise asset: Fanuc is estimated to hold **above 50% of the world CNC market** — Morningstar (company report, 2026) describes a 50% share the business should be able to maintain, and third-party estimates range from c.50% to 65% of CNC systems worldwide. Cumulative CNC production passed 5mn units (company milestone as reported in third-party summaries, 2026). Because machine-tool builders worldwide design around Fanuc controls, the installed base is sticky: builders, end users, programmers and service technicians are all trained on the Fanuc interface, and switching costs sit with the customer, not with Fanuc. FA is also the most inventory-cyclical line, as the FY3/24 decline (−27.9%) and the Q2 FY3/27 order surge (+130.1% YoY) both show. New-product direction shown at IMTS 2026 (Sep 2026) included the Series 500i-A CNC, αi-D series servos, and 'Physical AI CNC' with digital-twin verification of generative-AI output before it is applied to a real machine (Fanuc presentation, 23 Oct 2026).
+部門別の詳細を見ると、見出しだけでは分からない差があります。第2四半期は、中国のロボット売上高が前年同期比14.3%減（前四半期比32.0%減）でした。一方で、**中国のFA売上高は同25.6%増**で、中国全体の売上高は同20.8%増でした。決算を報じた第三者の記事（Tokyo Brief、2026年10月23日）は、会社が中国の自動車産業の需要を停滞と表現し、一般産業は強いと述べたと伝えています。つまり、この決算における中国の回復は、CNCとFA、そして一般産業の話です。半導体、AIハードウェア、新エネルギー車の部品が中心で、中国の自動車向けロボットの話はまだ始まっていません。第2四半期の地域別売上構成（説明資料）は、日本13.1%、米州27.8%、欧州15.9%、中国27.4%、中国を除くアジア14.7%、その他1.1%でした。
 
-## Robot — yellow robots and the CRX collaborative line
+## 3. 事業の内容
 
-The Robot division makes articulated industrial robots — the yellow arms that are Fanuc's public image — spanning small assembly robots to the M-2000 heavy-payload series, plus the CRX collaborative robot line that works alongside people without safety fences. Cumulative robot production passed 1mn units and third-party estimates put the installed base above 1.1mn units by early 2026, **the largest in the industry**, with an estimated c.17–20% share of annual installations (third-party industry estimates, 2026; share estimates vary by source and definition). Robot is the largest division (44.1% of FY3/26 sales) and the most exposed to automotive capex and to China: Q2 FY3/27 China robot sales fell 14.3% YoY while Americas robot sales rose 11.8% (Fanuc presentation, 23 Oct 2026). At IMTS 2026 Fanuc showed 43 robots including 32 collaborative models and five 'Physical AI' systems, emphasising collaborations with NVIDIA and Google in North America (Fanuc presentation, 23 Oct 2026) — a notable opening for a company historically known for a closed, proprietary platform.
+ファナックは、決算短信で会社自身が述べるとおり単一セグメントです。報告セグメントは1つだけで、PL/セグメントシートの事業ブロックには製品別の売上高だけが載ります。製品別の利益は開示されません。4つの製品群は、CNCとサーボシステムという1つの技術の核、日本国内の生産拠点、世界のサービス網を共有しています。生産はすべて日本国内の4か所です。富士山麓の忍野村にある本社地区（山梨県）、壬生（栃木県）、筑波（茨城県）、隼人（鹿児島県）です（2026年11月の第三者の企業プロフィールに基づく会社の開示）。生産の自動化は徹底し、ロボットがロボットを作る形で知られます。品質管理と円への露出が、同じく日本国内に集中しています。
 
-## Robomachine — ROBODRILL, ROBOSHOT, ROBOCUT
+2026年3月期の売上構成は、**ロボット3,786億円（44.1%）**、FA 2,085億円（24.3%）、サービス1,411億円（16.5%）、ロボマシン1,296億円（15.1%）でした（会社の決算短信に基づくPL/セグメントシート）。構成はサイクルの中で移ってきました。ロボットは2024年3月期に3,809億円で山を作り、グループの売上高が減る中でも伸びました。FAは最も景気に敏感な製品群です。2023年3月期の2,501億円から2024年3月期に27.9%減って1,804億円となり、2026年3月期に2,085億円まで戻りました。
 
-Robomachine builds compact machines that themselves embed Fanuc CNC and servo technology: ROBODRILL machining centres, ROBOSHOT all-electric injection moulding machines and ROBOCUT wire-cut EDM machines. The line is geared to high-volume precision parts — smartphones and IT components historically, and in the current cycle AI-hardware, semiconductor and NEV components, especially in China. It is the smallest and swingiest hardware line: ¥144,633mn (FY3/22), ¥132,788mn (FY3/23), ¥103,388mn (FY3/24), ¥137,588mn (FY3/25) and ¥129,600mn (FY3/26). In H1 FY3/27 it was the fastest-growing division, with **Q2 sales +40.8% YoY** (Fanuc presentation, 23 Oct 2026). The new ROBODRILL DC series (D116CS with extended table stroke) made its overseas debut at IMTS 2026.
+## FA — CNCシステム、サーボモーター、レーザー
 
-## Service — lifetime maintenance on the installed base
+FA部門は、工作機械を制御するCNCシステム、サーボモーターとアンプ、レーザーを作っています。この部門が会社の基盤です。ファナックは世界のCNC市場の**50%超**を持つと推計されます。Morningstar（企業レポート、2026年）は、維持可能な水準として50%のシェアを挙げています。第三者機関の推計は、世界のCNCシステムの約50%から65%の範囲です。CNCの累計生産台数は500万台を超えました（2026年の第三者の要約で伝えられた会社の節目）。世界の工作機械メーカーがファナックの制御装置を前提に機械を設計するため、設置済み基盤は離れにくい構造です。メーカー、利用者、プログラマー、サービス技術者のいずれもファナックの操作体系で訓練を受け、切り替えの負担はファナックではなく顧客の側にあります。FAは在庫のサイクルにも最も敏感な製品群です。2024年3月期の27.9%減と、2027年3月期第2四半期の受注の130.1%増の両方が、それを示しています。IMTS 2026（2026年9月）で示した新製品の方向は、Series 500i-A CNC、αi-Dシリーズのサーボ、そして生成AIの出力を実機へ適用する前にデジタルツインで検証する「Physical AI CNC」でした（ファナック決算説明資料、2026年10月23日）。
 
-Service covers parts, repair and maintenance for the installed base of CNC systems, robots and Robomachines over their working lives — Fanuc's stated model is lifetime maintenance: it continues to service products for as long as customers use them, which for CNC systems can be decades. This is ==the structural ballast of the P&L==. Service sales grew in every year of the window — ¥93,732mn, ¥112,071mn, ¥130,558mn, ¥135,151mn, ¥141,143mn (FY3/22–FY3/26) — including +16.5% in FY3/24 when group sales fell 6.7% (Company results via PL/segment sheet (tanshin, JPX archive)). Service was **16.5% of FY3/26 sales** and 16.6% of Q2 FY3/27 sales. The division runs through a global network of service locations (more than 260 sites, per third-party company summaries, 2026). Because service pricing and attach rates are not disclosed, and product-line profit is not disclosed at all, the market cannot directly verify Service margins — a disclosure gap, not a reason to doubt the revenue resilience the series shows.
+## ロボット — 黄色いロボットと協働ロボットCRX
 
-## 4. Market and value chain
+ロボット部門は、多関節の産業用ロボットを作っています。黄色いアームがファナックの顔です。小型の組立用ロボットからM-2000の重量物用シリーズまでをそろえ、安全柵なしで人の隣で働く協働ロボットCRXのシリーズも持ちます。ロボットの累計生産台数は100万台を超え、設置済み台数は2026年初め時点で110万台を超えると推計され、**業界最大**です。年間の導入台数のシェアは約17〜20%と推計されます（第三者機関の推計、2026年。推計は出所と定義で変わります）。ロボットは最大の部門で、2026年3月期の売上高の44.1%を占めます。自動車の設備投資と中国への感応度が最も高い部門でもあります。2027年3月期第2四半期は、中国のロボット売上高が前年同期比14.3%減、米州のロボット売上高は同11.8%増でした（ファナック決算説明資料、2026年10月23日）。IMTS 2026では、ロボット43台（うち協働ロボット32台）と「Physical AI」のシステム5件を示し、北米でのNVIDIAとGoogleとの協業を前面に出しました（ファナック決算説明資料、2026年10月23日）。閉じた独自プラットフォームで知られてきた会社にとって、目立つ変化です。
 
-Fanuc sits mid-stream in two value chains. Upstream, it buys precision components — reducers, encoders, semiconductors, castings — and makes its core value-added items (CNC, servo motors and amplifiers) in-house in Japan. Downstream, FA products are sold to machine-tool builders (in Japan, names such as DMG Mori, Okuma, Makita's machine-tool peers and hundreds of smaller builders; overseas, builders in China, Korea, Taiwan, Europe and the US), who embed Fanuc controls in their machines; robots and Robomachines are sold more directly to end users in automotive, general industry, electronics, food and logistics, often through integrators. The end-demand drivers are therefore global manufacturing capex: automotive (including NEV) production investment, electronics and semiconductor equipment, AI data-centre hardware supply chains, aerospace, and general-industry automation driven by labour scarcity.
+## ロボマシン — ロボドリル、ロボショット、ロボカット
 
-In CNC, the competitive set is Mitsubishi Electric (the main domestic alternative), Siemens (strong in Europe and high-end 5-axis), Heidenhain (high-end Europe) and a long tail of Chinese entrants at the low end. Fanuc's defence is the installed base and the builder ecosystem described in Chapter 3. In industrial robots, the global 'big four' — Fanuc, ABB (Switzerland), Yaskawa Electric (Japan) and KUKA (Germany, Midea-owned) — together account for **roughly three-quarters of global shipments** on third-party estimates, with Chinese makers (Estun, Inovance and others) gaining share inside China, which accounted for c.54% of global robot installations in 2024 (IFR data as cited in third-party reporting, 2026). The structural risk to Fanuc's robot position is therefore concentrated: China is both its largest growth market and the market where local competitors are strongest and where Q2 FY3/27 robot sales actually fell.
+ロボマシンは、ファナックのCNCとサーボ技術を内蔵した小型の機械を作ります。マシニングセンタのロボドリル、全電動射出成形機のロボショット、ワイヤカット放電加工機のロボカットです。大量生産される精密部品向けで、歴史的にはスマートフォンとIT部品が中心でした。現在のサイクルでは、AIハードウェア、半導体、新エネルギー車の部品が中心で、特に中国の需要が強い分野です。ハードウェアの中で最も小さく、最も振れの大きい製品群です。売上高は2022年3月期に1,446億円、2023年3月期に1,328億円、2024年3月期に1,034億円、2025年3月期に1,376億円、2026年3月期に1,296億円でした。2027年3月期上期は最も速く伸びた部門で、**第2四半期の売上高は前年同期比40.8%増**でした（ファナック決算説明資料、2026年10月23日）。新型のロボドリルDCシリーズ（テーブルストロークを広げたD116CS）は、IMTS 2026で海外初披露となりました。
 
-Market size context: third-party estimates put the global industrial-robotics market at c.US$81.8bn in 2025 (Global Growth Insights, as cited in third-party company reports, 2026); estimates vary widely by definition (robots only vs systems and integration), and Fanuc does not publish market-size or share figures in its tanshin — share figures in this report are third-party estimates and are labelled as such. The demand cycle Fanuc's own numbers describe is clearer than any market model: group orders +49.0% YoY in Q2 FY3/27 after a two-year digestion, driven by AI-related capex (data centres, semiconductors, humanoid-robot components) that the company names explicitly in its market commentary.
+## サービス — 設置済み基盤への生涯保守
 
-**Figure: Fanuc in the CNC / factory-automation value chain**
+サービスは、設置済みのCNCシステム、ロボット、ロボマシンの部品、修理、保守を、製品の使用期間を通じて担います。ファナックの考え方は生涯保守です。顧客が使い続ける限り保守を続け、CNCシステムでは数十年単位になります。この事業が==損益計算書の構造的な安定装置==です。サービス売上高はこの期間の毎年増えました。2022年3月期から2026年3月期まで、937億円、1,121億円、1,306億円、1,352億円、1,411億円です。グループの売上高が6.7%減った2024年3月期にも、サービスは16.5%増えました（会社の決算短信に基づくPL/セグメントシート）。サービスは**2026年3月期の売上高の16.5%**で、2027年3月期第2四半期の売上高でも16.6%でした。部門は世界のサービス拠点のネットワークで運営され、拠点は260か所を超えます（第三者の企業要約、2026年）。サービス価格と付帯率は開示されず、製品別の利益自体も開示されません。そのため、市場はサービスの利益率を直接確かめられません。これは開示の不足であって、売上高の系列が示す底堅さを疑う理由ではありません。
 
-**Silicon, Magnets & Materials**
+## 4. 市場とバリューチェーン
 
-- Control semiconductors: Renesas, TI, NXP
-- AI silicon: NVIDIA, Intel, AMD
-- NdFeB magnets: Shin-Etsu, TDK
-- Copper, aluminium, PCB substrates
+ファナックは2つのバリューチェーンの中流に位置します。上流では、減速機、エンコーダー、半導体、鋳物などの精密部品を調達し、付加価値の中心であるCNC、サーボモーター、アンプは日本国内で内製します。下流では、FA製品は工作機械メーカーへ販売されます。日本ではDMG森精機や大隈をはじめとするメーカーと数百社の中小メーカーで、海外では中国、韓国、台湾、欧州、米国のメーカーです。各社はファナックの制御装置を機械に組み込みます。ロボットとロボマシンは、自動車、一般産業、電子部品、食品、物流の最終利用者へ、より直接的に販売され、システムインテグレーターを通る場合も多くあります。そのため最終需要を決めるのは世界の製造業の設備投資です。自動車（新エネルギー車を含む）の生産投資、電子部品と半導体の設備、AIデータセンターのハードウェアの供給網、航空宇宙、そして人手不足を背景とする一般産業の自動化です。
 
-**Control & Drive Components**
+CNCの競合は、三菱電機（国内の主要な代替先）、シーメンス（欧州と高級な5軸加工に強い）、ハイデンハイン（欧州の高級機）、そして低価格帯の中国の多数の参入者です。ファナックの防御は、第3章で述べた設置済み基盤と工作機械メーカーの生態系です。産業用ロボットでは、世界の4強（ファナック、スイスのABB、安川電機、ドイツのKUKA。KUKAは美的集団の傘下）が、第三者機関の推計で**世界の出荷台数の約4分の3**を占めます。中国のメーカー（エスタン、イノバンスなど）は中国国内でシェアを伸ばしています。中国は2024年に世界のロボット導入台数の約54%を占めました（2026年の第三者の報道が引用したIFRのデータ）。ファナックのロボット事業の構造的なリスクは、ここに集中しています。中国は最大の成長市場であり、現地の競合が最も強く、2027年3月期第2四半期にロボット売上高が実際に減った市場でもあります。
 
-- Encoders: HEIDENHAIN, Renishaw, Nikon
-- Ball screws, guides: THK, HIWIN
-- Power semiconductors: Mitsubishi, Infineon
-- Power supplies, I/O
+市場規模の目安として、第三者機関は世界の産業用ロボット市場を2025年に約818億ドルと推計しています（第三者の企業レポートが引用したGlobal Growth Insights、2026年）。推計は定義（ロボット単体か、システムとインテグレーションを含むか）で大きく変わります。ファナックは決算短信で市場規模やシェアを公表していません。本レポートのシェアの数字は第三者機関の推計で、その旨を明記しています。ファナック自身の数字が示す需要のサイクルは、どの市場モデルよりも明快です。2年間の調整の後、第2四半期のグループ受注は前年同期比49.0%増となりました。会社は市場説明で、AI関連の設備投資（データセンター、半導体、ヒューマノイドロボットの部品）を需要の中心として明示しています。
 
-**Fanuc Corporation (6954)**
+図表5は、競合各社を実績の数字で比べたものです。比較はあえて調整していません。各社の事業構成は違うためです。それでも構造は見えます。ファナックはハードウェア中心のモデルで営業利益率21.4%を稼ぎます。日本のFA各社は届きません。安川電機は8.7%、三菱電機は7.3%（低収益の事業を含むグループ全体の数字）、大隈は6.6%、DMG森精機は3.7%です。CNCの標準とサービスの裾野が、同じ損益計算書の中にあるためです。世界の制御機器の競合は、違う方法で利益率を作ります。ロックウェルのグループ営業利益率20.2%は、ソフトウェアとライフサイクルサービスに支えられ、ソフトウェア＆コントロール部門の利益率は2026年9月期に33.8%でした。シーメンスのデジタルインダストリーズは、2025年9月期に利益率14.9%で、より広いオートメーションの製品群を持ちます。この表におけるファナックの弱さは、強さの裏返しです。同等の重みを持つソフトウェアやインテグレーションの層がありません。IMTS 2026で示したNVIDIAとGoogleとの協業が重要なのはそのためです。その層への初めての確かな一歩ですが、まだ売上にはなっていません。
 
-- FA — CNC systems, servo motors & lasers
-- Robot — industrial & collaborative robots
-- Robomachine — ROBODRILL, ROBOSHOT, ROBOCUT
-- Service — lifetime maintenance
-
-**Software & Platforms**
-
-- CAM, process planning
-- Digital twin, simulation: Siemens Xcelerator
-- Predictive maintenance, monitoring: Fanuc FIELD
-- MES links, AI optimisation
-
-**OEM Integration & Distribution**
-
-- Machine-tool OEMs: DMG Mori, Okuma
-- Semiconductor, robot, packaging OEMs
-- Trading houses, Misumi, MonotaRO
-- System integrators, direct sales: Keyence
-
-**End Users & Lifecycle Service**
-
-- Automotive, aerospace & defence
-- Semiconductor, battery/EV, medical
-- Food, packaging, general machinery
-- Maintenance, retrofit, long-life supply
+**Figure 7. CNCとファクトリーオートメーションのバリューチェーンにおけるファナック**
 
 *Source: FIELDNOTES sector report §4 (CNC, servo & FA value chain); company product lines from §3 and §5 of this report.*
 
-## 5. Product lines and regions
+**Figure 8. 図表5. 競合の比較 — 直近の報告会計年度（特に断りのない限り百万円）**
 
-Product-line sales (Figure 2) show the portfolio rotating through the cycle. Robot is the largest line in every year (36.6% of sales in FY3/22, rising to 47.9% in FY3/24 as FA collapsed, 44.1% in FY3/26). FA's share fell from 30.9% (FY3/22) to 22.7% (FY3/24) before recovering to 24.3% (FY3/26) — and the Q2 FY3/27 order mix (FA 36.7% of intake) points to FA's sales share rising through FY3/27 if orders convert as they historically have. Service's share rose counter-cyclically from 12.8% to 16.5%. Robomachine oscillates between 13.0% and 17.3% with the electronics capex cycle.
+| Company | Competing business | Fiscal year | Sales | Operating profit | OP margin (%) |
+|---|---|---|---|---|---|
+| ファナック | CNC systems, industrial robots, robomachines | FY3/26 | 857831 | 183763 | 21.4 |
+| 安川電機 | Servo drives, inverters, industrial robots | FY2/26 | 542122 | 47307 | 8.7 |
+| 三菱電機 | CNC, servo and FA systems (group consolidated) | FY3/26 | 5894747 | 433095 | 7.3 |
+| 大隈 | Machine tools with in-house CNC (OSP) | FY3/26 | 235888 | 15505 | 6.6 |
+| DMG森精機 | Machine tools (CELOS interface) | FY12/25 | 514976 | 18974 | 3.7 |
+| シーメンス | Digital Industries automation and CNC (group figures) | FY9/25 | €78,914mn | €9,594mn | 12.2 |
+| ロックウェル・オートメーション | Controllers, drives and automation software | FY9/26 | US$8,989mn | US$1,819mn | 20.2 |
+| ABB | Robotics and discrete automation (group figures) | FY12/23 | US$32,235mn | US$4,871mn | 15.1 |
 
-Regional sales (Figure 3) are disclosed annually only, by customer location, in five regions (Company results via PL/segment sheet (tanshin, JPX archive)). Asia (including China) is the largest bloc: ¥346,022mn in FY3/22 (47.2% of sales), ¥372,262mn in FY3/23, ¥284,085mn in FY3/24 (35.7% — the China correction year), ¥321,738mn in FY3/25 and ¥352,599mn in FY3/26 (41.1%). The Americas grew from ¥149,735mn (20.4%) to ¥232,154mn (27.1%) over the window, overtaking a slower Europe (¥120,847mn to ¥152,371mn; 16.5% to 17.8%, peaking at 21.2% in FY3/24). Japan is only 12.9–15.1% of sales — ¥110,782mn in FY3/26 — so **c.87% of revenue is earned outside Japan**, the single most important structural fact for FX sensitivity. Within H1 FY3/27, the presentation's finer split shows China alone at 27–30% of quarterly sales and Asia ex-China at c.15%, with Q2 China sales +20.8% YoY (Fanuc presentation, 23 Oct 2026).
+*Source: PL/segment sheets and in-house Valuation DB, reported figures only. Mitsubishi Electric is group consolidated (FA systems is one segment); Siemens and ABB are group figures with the competing automation businesses inside larger groups; ABB is FY12/23, the latest year in its PL sheet. Year-ends differ: Fanuc, Mitsubishi Electric and Okuma March; Yaskawa February; DMG Mori and ABB December; Siemens and Rockwell September.*
 
-What is not disclosed matters here too: no profit by product line or region in any period, no quarterly regional note in the tanshin (quarterly regional colour comes only from the earnings presentation), and no orders or backlog in the tanshin series. Any divisional-margin analysis of Fanuc is therefore inference, and this report does not present one.
+## 5. 製品別と地域別
 
-**Figure 2. Sales by product line (¥mn) — single-segment company; product-line profit not disclosed**
+製品別の売上高（図表2）を見ると、ポートフォリオがサイクルの中で入れ替わってきました。ロボットは毎年最大の製品群です。売上高構成比は2022年3月期の36.6%から、FAが落ち込んだ2024年3月期に47.9%まで上がり、2026年3月期は44.1%でした。FAの構成比は2022年3月期の30.9%から2024年3月期の22.7%へ下がり、2026年3月期に24.3%まで戻りました。第2四半期の受注構成（FAが受注の36.7%）が過去と同じように売上へ移るなら、2027年3月期を通じてFAの売上構成比は上がります。サービスの構成比は景気と逆の動きで、12.8%から16.5%へ上がりました。ロボマシンは電子部品の設備投資サイクルに伴って13.0%から17.3%の間を動きます。
+
+地域別の売上高（図表3）は、顧客の所在地ベースで通期のみ開示されます（会社の決算短信に基づくPL/セグメントシート）。中国を含むアジアが最大の地域です。2022年3月期に3,460億円（構成比47.2%）、2023年3月期に3,723億円、2024年3月期に2,841億円（同35.7%。中国の調整の年）、2025年3月期に3,217億円、2026年3月期に3,526億円（同41.1%）でした。米州はこの期間に1,497億円（20.4%）から2,322億円（27.1%）へ伸び、伸びの鈍い欧州を上回りました。欧州は1,208億円から1,524億円で、構成比は16.5%から17.8%、2024年3月期に21.2%で山を作りました。日本は売上高の12.9%から15.1%にすぎず、2026年3月期は1,108億円です。つまり、**売上高の約87%は日本国外**で、これが為替感応度を考える上で最も重要な構造です。2027年3月期上期の説明資料の細かい内訳では、中国だけで四半期売上高の27〜30%を占め、中国を除くアジアは約15%でした。第2四半期の中国売上高は前年同期比20.8%増でした（ファナック決算説明資料、2026年10月23日）。
+
+開示されない点も、ここでは重要です。製品別と地域別の利益はどの期間も開示されません。決算短信に四半期の地域別の注記はなく、四半期の地域の情報は決算説明資料からだけ得られます。決算短信の系列に受注高と受注残高はありません。そのため、ファナックの部門別利益率の分析は推論になります。本レポートは推論による部門別利益率を出しません。
+
+**Figure 9. 図表2. 製品別売上高（百万円）— 単一セグメントの会社で、製品別の利益は開示されません**
 
 | Product line | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/26 share (%) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| FA (CNC, servo, laser) | 175016 | 222254 | 211088 | 143247 | 149240 | 226165 | 250113 | 180384 | 194824 | 208478 | 24.3 |
-| Robot | 190043 | 227827 | 217526 | 202491 | 210024 | 268478 | 356984 | 380944 | 329566 | 378610 | 44.1 |
-| Robomachine | 93939 | 190182 | 115056 | 74912 | 114518 | 144633 | 132788 | 103388 | 137588 | 129600 | 15.1 |
-| Service | 77944 | 86333 | 91898 | 87602 | 77505 | 93732 | 112071 | 130558 | 135151 | 141143 | 16.5 |
-| Total sales | 536942 | 726596 | 635568 | 508252 | 551287 | 733008 | 851956 | 795274 | 797129 | 857831 | 100 |
+| FA（CNC、サーボ、レーザー） | 175016 | 222254 | 211088 | 143247 | 149240 | 226165 | 250113 | 180384 | 194824 | 208478 | 24.3 |
+| ロボット | 190043 | 227827 | 217526 | 202491 | 210024 | 268478 | 356984 | 380944 | 329566 | 378610 | 44.1 |
+| ロボマシン | 93939 | 190182 | 115056 | 74912 | 114518 | 144633 | 132788 | 103388 | 137588 | 129600 | 15.1 |
+| サービス | 77944 | 86333 | 91898 | 87602 | 77505 | 93732 | 112071 | 130558 | 135151 | 141143 | 16.5 |
+| 合計 | 536942 | 726596 | 635568 | 508252 | 551287 | 733008 | 851956 | 795274 | 797129 | 857831 | 100 |
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) (annual formal note; FY3/22–FY3/26). History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Figure 3. Sales by region, customer location (¥mn) — annual disclosure only**
+**Figure 10. 図表3. 地域別売上高、顧客の所在地ベース（百万円）— 通期のみ開示**
 
 | Region | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/26 share (%) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Japan | 116598 | 137079 | 149669 | 117134 | 82456 | 111090 | 125247 | 105134 | 109219 | 110782 | 12.9 |
-| Americas | 134915 | 144954 | 128572 | 125121 | 120738 | 149735 | 199448 | 227340 | 214279 | 232154 | 27.1 |
-| Europe | 87449 | 110378 | 122179 | 99157 | 85413 | 120847 | 146642 | 168539 | 142721 | 152371 | 17.8 |
-| Asia | 194698 | 329523 | 230845 | 162941 | 258814 | 346022 | 372262 | 284085 | 321738 | 352599 | 41.1 |
-| Other regions | 3282 | 4662 | 4303 | 3899 | 3866 | 5314 | 8357 | 10176 | 9172 | 9925 | 1.2 |
-| Total sales | 536942 | 726596 | 635568 | 508252 | 551287 | 733008 | 851956 | 795274 | 797129 | 857831 | 100 |
+| 日本 | 116598 | 137079 | 149669 | 117134 | 82456 | 111090 | 125247 | 105134 | 109219 | 110782 | 12.9 |
+| 米州 | 134915 | 144954 | 128572 | 125121 | 120738 | 149735 | 199448 | 227340 | 214279 | 232154 | 27.1 |
+| 欧州 | 87449 | 110378 | 122179 | 99157 | 85413 | 120847 | 146642 | 168539 | 142721 | 152371 | 17.8 |
+| アジア | 194698 | 329523 | 230845 | 162941 | 258814 | 346022 | 372262 | 284085 | 321738 | 352599 | 41.1 |
+| その他 | 3282 | 4662 | 4303 | 3899 | 3866 | 5314 | 8357 | 10176 | 9172 | 9925 | 1.2 |
+| 合計 | 536942 | 726596 | 635568 | 508252 | 551287 | 733008 | 851956 | 795274 | 797129 | 857831 | 100 |
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) (annual only; FY3/22–FY3/26). Asia includes China; the tanshin does not split China annually. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Figure: Fanuc Corporation — regional revenue by year**
+**Figure 11. ファナック — 地域別の売上高**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
-## 6. Financial statements summary
+## 6. 財務諸表の要約
 
-The consolidated P&L is summarised in Figure 1. Two features define Fanuc's financial statements. First, operating leverage is high and symmetric: a 6.7% sales decline in FY3/24 took operating profit down 25.8%, and the FY3/27 guidance implies a 31.0% operating-profit increase on 18.2% sales growth. Second, the balance sheet is exceptionally conservative: total assets of ¥2,090,700mn and net assets of ¥1,882,947mn at 31 March 2026 (equity ratio 89.2%), rising to total assets of ¥2,134,733mn, net assets of ¥1,912,018mn and an equity ratio of 88.7% at 30 September 2026 (Q2 FY3/27 interim tanshin, 23 Oct 2026). No borrowing lines are presented on the tanshin balance sheet in any period in the sheet — interest-bearing debt is recorded as zero throughout, i.e. **the company is debt-free and in a large net cash position** (PL/segment sheet register note S6).
+連結の損益計算書は図表1にまとめました。ファナックの財務諸表には2つの特徴があります。1つ目は、営業レバレッジが高く、両方向に効くことです。2024年3月期は売上高が6.7%減り、営業利益は25.8%減りました。2027年3月期の会社計画は、売上高18.2%増に対して営業利益31.0%増を見込んでいます。2つ目は、貸借対照表が極めて保守的なことです。2026年3月31日時点で総資産2兆907億円、純資産1兆8,829億円（自己資本比率89.2%）でした。2026年9月30日には総資産2兆1,347億円、純資産1兆9,120億円、自己資本比率88.7%となりました（2027年3月期第2四半期中間決算短信、2026年10月23日）。決算短信の貸借対照表には、どの期間も借入金の表示がありません。有利子負債は全期間を通じてゼロと記録され、**会社は無借金で、大きなネットキャッシュの状態**にあります（PL/セグメントシートの登録メモS6）。
 
-## The operating-profit to ordinary-profit bridge (J-GAAP)
+## 営業利益から経常利益への橋渡し（日本基準）
 
-Under Japanese GAAP, ordinary profit (経常利益) sits below operating profit and captures non-operating income and expenses. For most manufacturers this line is noise; for Fanuc it is structural. Non-operating income was ¥32,274mn in FY3/22, ¥43,225mn in FY3/23, ¥43,263mn in FY3/24, ¥42,340mn in FY3/25 and ¥47,548mn in FY3/26, against non-operating expenses of only ¥2,119mn to ¥4,448mn a year (Company results via PL/segment sheet (tanshin, JPX archive)). The income is principally interest and dividends earned on the cash and securities pile (cash and bank deposits alone were ¥718,071mn at 31 March 2026 and ¥746,285mn at 30 September 2026, plus marketable and investment securities; Q2 FY3/27 interim tanshin). The FY3/26 bridge is therefore: operating profit ¥183,763mn + non-operating income ¥47,548mn − non-operating expenses ¥3,826mn = ordinary profit ¥227,485mn, 23.8% above operating profit. Extraordinary items have been nil since FY3/24 (small losses of ¥478mn and ¥1,224mn in FY3/22 and FY3/23), so profit before tax equals ordinary profit in FY3/24–FY3/26, and the effective tax rate has run at 23.1–25.6%.
+日本基準では、経常利益は営業利益の下に位置し、営業外損益を取り込みます。多くのメーカーでは、この行はノイズにすぎません。ファナックでは構造です。営業外収益は、2022年3月期に323億円、2023年3月期に432億円、2024年3月期に433億円、2025年3月期に423億円、2026年3月期に475億円でした。営業外費用は年21億円から44億円の範囲です（会社の決算短信に基づくPL/セグメントシート）。収益の中心は、現金と有価証券に対する受取利息と配当金です。現金及び預金だけでも、2026年3月31日に7,181億円、2026年9月30日に7,463億円あり、有価証券と投資有価証券がこれに加わります（2027年3月期第2四半期中間決算短信）。2026年3月期の橋渡しは、営業利益1,838億円に営業外収益475億円を加え、営業外費用38億円を引いた経常利益2,275億円です。営業利益を23.8%上回ります。特別損益は2024年3月期以降ゼロで（2022年3月期と2023年3月期に5億円と12億円の小さな損失）、税金等調整前当期純利益は2024年3月期から2026年3月期まで経常利益と一致します。実効税率は23.1%から25.6%の範囲でした。
 
-The bridge is even larger in the FY3/27 company guidance — ordinary profit ¥308,800mn vs operating profit ¥240,700mn, **a ¥68,100mn gap** — and in H1 FY3/27 actuals (ordinary profit ¥149.0bn vs operating profit ¥116.7bn). Readers comparing Fanuc with IFRS reporters (most global peers, and Japanese peers such as Yaskawa or DMG Mori) should anchor on operating profit: headline 'ordinary profit' growth rates flatter the operating business by the return on a ¥0.75tn cash pile, and that return itself depends on global interest rates and the yen.
+この橋渡しは、2027年3月期の会社計画ではさらに大きくなります。経常利益3,088億円に対して営業利益は2,407億円で、**差は681億円**です。2027年3月期上期の実績でも、経常利益1,490億円に対して営業利益は1,167億円でした。ファナックをIFRSの報告会社（世界の競合の多くと、安川電機やDMG森精機などの日本の競合）と比べる読者は、営業利益を起点にしてください。経常利益の成長率は、7,500億円規模の現金が生む収益の分だけ、本業の姿より良く見えます。その収益自体も、世界の金利と円相場に左右されます。
 
-## Balance sheet and cash flow
+## 貸借対照表とキャッシュフロー
 
-At 30 September 2026 (Q2 FY3/27 interim tanshin): cash and bank deposits ¥746,285mn, marketable securities ¥40,800mn, trade receivables (notes, electronically recorded claims and accounts) of c.¥162,142mn, inventories of ¥300,712mn (finished goods ¥124,574mn, work in progress ¥94,001mn, raw materials and supplies ¥82,137mn), total current assets ¥1,274,131mn and property, plant and equipment of ¥585,366mn. Liabilities are not disclosed as borrowings in any period; total net assets were ¥1,912,018mn. Cash and cash equivalents at the end of FY3/26 were ¥615,075mn (FY3/26 tanshin cash-flow statement) — lower than cash and bank deposits because the balance-sheet line includes longer-term deposits; both definitions are stated here to avoid mixing them. Note the PL/segment sheet's cash-equivalents cells for FY3/25 and FY3/26 are unusable as extracted, so this report sources cash to the tanshin balance sheet and cash-flow statement directly rather than to those cells.
+2026年9月30日時点（2027年3月期第2四半期中間決算短信）では、現金及び預金7,463億円、有価証券408億円、受取手形、電子記録債権及び売掛金が約1,621億円、棚卸資産3,007億円（製品1,246億円、仕掛品940億円、原材料及び貯蔵品821億円）、流動資産合計1兆2,741億円、有形固定資産5,854億円でした。負債に借入金の表示はどの期間もありません。純資産合計は1兆9,120億円でした。2026年3月期の現金及び現金同等物は6,151億円でした（2026年3月期決算短信のキャッシュフロー計算書）。貸借対照表の現金及び預金より少ないのは、期間の長い預金を含むためです。2つの定義が混ざらないよう、両方を明記します。PL/セグメントシートの2025年3月期と2026年3月期の現金同等物のセルは、抽出の状態が悪く使えません。そのため本レポートの現金は、シートではなく決算短信の貸借対照表とキャッシュフロー計算書から直接取りました。
 
-Cash flow (annual, Company results via PL/segment sheet (tanshin, JPX archive)): **operating cash flow of ¥250,896mn in FY3/26** followed ¥255,273mn in FY3/25, the two strongest years in the window, as the FY3/24 inventory build unwound. Capital expenditure fell to ¥21,181mn in FY3/26 from ¥53,884mn in FY3/24 (sheet basis; the earnings presentation's capital-investment series differs in definition and is not mixed in here). Depreciation and amortisation was ¥47,782mn in FY3/26. Quarterly operating cash flow and capex are not available for Q1/Q3 because those tanshin carry no cash-flow statement — a stated gap in the sheet. Research and development expense is not a tanshin line (it appears in the earnings presentation and securities report, not in the sheet): the presentation's annual R&D series runs at roughly ¥45–53bn a year across FY3/22–FY3/26 on its chart — readers should treat that as presentation data, not tanshin data. Headcount is likewise not disclosed in the tanshin and is not stated in this report.
+キャッシュフロー（通期、会社の決算短信に基づくPL/セグメントシート）では、**2026年3月期の営業キャッシュフローは2,509億円**でした。前年の2,553億円に続く水準で、この期間で最も強い2年です。2024年3月期の棚卸資産の積み上がりが解消しました。設備投資は2024年3月期の539億円から2026年3月期に212億円へ減りました（シートの基準。決算説明資料の設備投資の系列は定義が違うため、混ぜていません）。減価償却費は2026年3月期に478億円でした。第1四半期と第3四半期の決算短信にはキャッシュフロー計算書がないため、四半期の営業キャッシュフローと設備投資は得られません。シートに明記した不足です。研究開発費は決算短信の項目ではありません（決算説明資料と有価証券報告書に載り、シートには入りません）。説明資料の年間の研究開発費の系列は、グラフの形で2022年3月期から2026年3月期まで年約450億円から530億円の範囲です。読者はこれを決算短信の数字ではなく、説明資料の数字として扱ってください。人員数も決算短信では開示されず、本レポートには記載しません。
 
-## 7. Strategy and capital policy
+**バリュエーション。**図表6は、Valuation DBの「モーション＆FA部品」グループとファナックを、2026年11月20日の株価で比べたものです。計算はDBの基準です（ファナックは株式数9億3,320万株、企業価値は現金及び現金同等物6,151億円を差し引き、負債はゼロ）。株価5,047円では、PERは実績ベースで28.3倍です。ただし、そのEPS 178.47円はサイクルの谷の数字です。会社計画EPSでは20.5倍、当社の2027年3月期予想では20.1倍、2028年3月期予想では19.0倍となります。EV/営業利益は、実績で22.3倍、2027年3月期予想で16.4倍、2028年3月期予想で15.1倍です（J-Core予想）。グループのEV/営業利益の中央値は実績ベースで17.3倍です。実績の数字で見たファナックの中央値への上乗せは、成長への上乗せではありません。営業利益率21.4%（グループ中央値は16.1%）という利益率への上乗せが、下がった株価に付いている形です。
 
-Fanuc does not publish a conventional multi-year mid-term plan with numerical targets in the materials reviewed for this report; its communicated strategy is operational rather than financial: defend the CNC standard (new 500i-A platform, αi-D servos), extend robots into collaborative and AI-assisted applications (CRX line, Physical AI systems with NVIDIA and Google shown at IMTS 2026), grow Robomachine into AI-hardware and NEV component machining, and monetise the installed base through lifetime service, including data services built on machine monitoring (FIELD system / Zero Down Time concepts referenced in company materials). The FY3/27 guidance itself — ==record sales above ¥1tn, a 23.7% operating margin== — is the nearest thing to a published numerical commitment, and it is company guidance for one year, not a plan target.
+**目標株価。**目標株価6,400円は、2028年3月期の予想EPS 266.1円（J-Core予想）に目標PER 24.0倍を掛け、100円単位に丸めた数字です。24.0倍は、ファナックの実績PER 28.3倍より低く、グループの会社計画PERの中央値17.4倍より高い水準です。CNCの基盤がサイクルを通じて保つ利益率と、サービスの裾野を反映しました。企業価値で確かめます。6,400円では時価総額は5兆9,720億円、企業価値は5兆3,570億円（2026年3月期の現金及び現金同等物の基準）となり、2028年3月期予想営業利益の19.8倍、2027年3月期予想の21.4倍です。グループの実績EV/営業利益の中央値17.3倍に対して約15%の上乗せで、営業利益率がグループ中央値のほぼ2倍の事業への支払いです。2026年11月20日の終値5,047円に対して、目標株価までの上昇余地は26.8%です。第9章に書いた基準に照らすと、レーティングはオーバーウェイトとなります。
 
-Capital policy, by contrast, is explicit and formulaic. The basic policy stated in the FY3/26 tanshin (24 Apr 2026) has three parts: (1) **dividends at a consolidated payout ratio of 60%**; (2) share buybacks conducted flexibly depending on the share price, balanced against growth investment; (3) treasury shares capped at 5% of issued shares, with the excess cancelled as a general rule each fiscal year. The policy has been in place since April 2019 (shareholder-meeting materials, Jun 2026). Execution matches the formula: FY3/25 dividend ¥94.39/share at a 60.0% payout and 5.2% dividend-on-equity; FY3/26 dividend ¥107.09/share (¥51.33 interim + ¥55.76 year-end) at 60.0% and 5.6% DOE (FY3/26 tanshin). For FY3/27 the interim dividend is ¥72.54; the year-end dividend has not been disclosed — applying the 60% policy to guidance EPS of ¥246.01 would imply c.¥147.6 for the full year, which is an arithmetic implication of the policy, not company guidance, and is labelled as such wherever used in this report. The October 2026 buyback authorisation (up to ¥50bn / 10mn shares to 30 Apr 2027) sits on top of the dividend formula.
+買い場を考えるには、株価の位置も重要です。株価は2026年8月24日の6,052円から11月20日の5,047円まで下がりました（本レポートの日次系列で16.6%の下落）。52週高値8,880円からは43.2%下がり、安値4,767円からは5.9%上の水準です。この四半期に、受注は過去最高となり、会社計画は上方修正されました。株価の下げは、ファナックの出来事ではなく、市場全体の出来事（2026年11月の下落）です。この読みのリスクは、市場が当社の予想にはない2024年3月期型の悪化を織り込んでいる可能性です。だからこそ、受注高が最も見るべき数字となります（第2章）。
 
-The consequence for holders is that returns are fully procyclical by design: the dividend falls when earnings fall (as it would have on FY3/24 EPS of ¥140.23) and rises in recovery years, while the balance sheet retains far more cash than the formula distributes — cash and deposits of ¥746,285mn at Sep 2026 against total FY3/26 dividends of ¥99,932mn. Whether that retention is discipline or drag is the central capital-policy debate on the stock; this initiation records the policy and the numbers and takes no position on it.
+**Figure 12. 図表6. バリュエーションの比較 — モーション＆FA部品グループ（2026年11月20日の株価）**
 
-## 8. Other information
+| Company | Price (¥) | Market cap (¥bn) | P/E trailing (x) | P/E guidance (x) | EV/Sales (x) | EV/OP (x) | OP margin (%) | Yield (%) |
+|---|---|---|---|---|---|---|---|---|
+| ファナック（6954） | 5047 | 4710 | 28.3 | 20.5 | 4.77 | 22.3 | 21.4 | 2.5 |
+| キーエンス（6861） | 14025 | 3401 | 7.6 | n.a. | 2.52 | 5.0 | 51.0 | 0.9 |
+| SMC（6273） | 55300 | 3506 | 20.9 | 14.6 | 3.49 | 15.4 | 22.6 | 1.8 |
+| オムロン（6645） | 4363 | 858 | 27.4 | 20.0 | 1.16 | 14.8 | 7.8 | 2.5 |
+| 安川電機（6506） | 3180 | 826 | 23.4 | 17.4 | 1.61 | 18.5 | 8.7 | 2.2 |
+| ミスミグループ本社（9962） | 3416 | 927 | 22.9 | 17.1 | 1.87 | 17.3 | 10.8 | 2.0 |
+| THK（6481） | 4249 | 480 | n.m. | 8.1 | 2.05 | 34.2 | 6.0 | 5.2 |
+| ニデック（6594） | 1644 | 1885 | n.m. | 18.8 | 0.79 | n.m. | -19.2 | n.a. |
+| グループ中央値 | — | — | 23.2 | 17.4 | 1.96 | 17.3 | 16.1 | 2.2 |
 
-History. Fanuc began in 1955 as a numerical-control project inside Fujitsu, led by engineer Seiuemon Inaba, which produced Japan's first private-sector NC and servo systems in 1956. The computing control division became independent in 1972 as Fujitsu Fanuc Ltd — FANUC is an acronym for Fuji Automatic Numerical Control — introducing CNC the same year, building robots for its own factories from 1974 and shipping the ROBOT-MODEL 1 commercially in 1977. The company was renamed FANUC Ltd in 1982 and moved its head office to Oshino-mura, Yamanashi, at the foot of Mt Fuji, in 1984, where the headquarters, main factories and laboratories remain. Founder Seiuemon Inaba died in 2020; his son Yoshiharu Inaba led the company for two decades and retired as a director in June 2025, becoming a special advisor (company history and third-party company profiles, accessed Nov 2026).
+*Source: In-house Valuation DB, computed on the DB basis: market cap = price × shares outstanding as stored; EV = market cap + total debt − cash and equivalents; multiples on the latest reported fiscal-year fundamentals stored in the DB (Fanuc FY3/26). DPS is trailing declared (Fanuc: FY3/26 year-end ¥55.76 + FY3/27 interim ¥72.54). n.m. = not meaningful (loss-making); n.a. = not available (Keyence publishes no guidance; Nidec DPS not stored in the DB).*
 
-Management. Representative Director, President and CEO is Kenji Yamaguchi (in the role since 2016; the FY3/26 tanshin and the June 2026 shareholder-meeting convocation notice are signed by him as Representative Director, President). Note: he is sometimes misrendered as 'Ken Yamaguchi' in secondary sources; the company's own documents give Kenji Yamaguchi.
+## 7. 戦略と資本政策
 
-Shareholders. Issued shares at 31 March 2026: 982,383,493, with 130,034 shareholders (57th AGM convocation notice, 4 Jun 2026). The register is custodian-heavy: the largest registered holders were The Master Trust Bank of Japan (trust account) with 218,493k shares (23.4%) and Custody Bank of Japan (trust account) with 96,283k shares (10.3%), followed by Citibank N.A. as ADR depositary (3.0%), State Street Bank and Trust 505001 (2.3%) and JPMorgan Chase accounts (2.1% and 1.7%). These are nominee/trust registrations, not beneficial owners; beneficial-ownership estimates from third-party data (Nomura Asset Management c.9.8%, BlackRock c.8.9%, 2026) are compiled on a different basis and should not be mixed with the register. There is no controlling shareholder.
+ファナックは、本レポートが確認した資料の範囲では、数値目標を持つ通常の中期経営計画を公表していません。会社が伝える戦略は財務ではなく事業の言葉です。CNCの標準を守ること（新しい500i-Aの基盤、αi-Dサーボ）。ロボットを協働とAI支援の用途へ広げること（CRXのシリーズ、IMTS 2026で示したNVIDIAとGoogleとのPhysical AIのシステム）。ロボマシンをAIハードウェアと新エネルギー車部品の加工へ伸ばすこと。設置済み基盤を生涯サービスで収益化すること。機械の監視に基づくデータサービス（会社の資料が触れるFIELD systemとZero Down Timeの考え方）も含みます。2027年3月期の会社計画自体（==売上高は1兆円を超えて過去最高、営業利益率23.7%==）が、公表された数値の約束に最も近いものです。これは1年間の会社計画であって、中期計画の目標ではありません。
 
-Shareholder returns are covered in Chapter 7. Employees, R&D headcount and unit volumes are not disclosed in the tanshin and are recorded here as not disclosed rather than estimated.
+一方で、資本政策は明確で、公式の形をしています。2026年3月期決算短信（2026年4月24日）の基本方針は3つです。（1）**連結配当性向60%の配当**。（2）成長投資とのバランスを取りながら、株価に応じて柔軟に行う自己株式の取得。（3）自己株式は発行済株式総数の5%を上限とし、超えた分は原則として毎期消却します。この方針は2019年4月から続いています（株主総会資料、2026年6月）。実行は公式どおりです。2025年3月期の配当は1株94.39円で配当性向60.0%、純資産配当率は5.2%でした。2026年3月期の配当は1株107.09円（中間51.33円と期末55.76円）で配当性向60.0%、純資産配当率5.6%でした（2026年3月期決算短信）。2027年3月期の中間配当は72.54円です。期末配当は開示されていません。会社計画EPS 246.01円に60%の方針を当てはめると、通期で約147.6円となります。これは方針の計算上の帰結であって、会社計画ではありません。本レポートで使う場合は、その旨を明記します。2026年10月の自己株式取得の承認（2027年4月30日までに上限500億円、1,000万株）は、配当の公式の上に乗ります。
 
-## 9. Basis of preparation
+株主にとっての帰結は、還元が設計の段階から景気連動だということです。配当は利益が減れば減ります（2024年3月期のEPS 140.23円なら、その水準になりました）。回復の年には増えます。一方で、貸借対照表には公式が分配する額をはるかに超える現金が残ります。2026年9月時点で現金及び預金7,463億円に対して、2026年3月期の配当総額は999億円でした。この留保が規律なのか停滞なのかが、この銘柄の資本政策をめぐる中心の論点です。本レポートは方針と数字を記録し、この論点には立場を取りません。
 
-Sources. Historical financials (FY3/17–FY3/26 annual and 20 quarters; FY3/17–FY3/21 from the sheet’s supplementary History block) are from the Fanuc PL/segment sheet (J-GAAP template, ¥mn), built from company tanshin sourced from the JPX archive — cited in this report as 'Company results via PL/segment sheet (tanshin, JPX archive)'. H1 and Q2 FY3/27 figures, orders, market commentary and the FY3/27 forecast are from Fanuc's Q2 FY3/27 interim tanshin and earnings presentation dated 23 October 2026 (the presentation is the document filed via TDnet; a translated results PDF was used). Dividend policy and FY3/26 dividend detail are from the FY3/26 tanshin dated 24 April 2026 and the June 2026 AGM convocation notice. Share price, market capitalisation and trailing P/E are Finnhub data as reported in search results for 13–16 November 2026 (price ¥5,541 at the 13 Nov 2026 close); market data from aggregators can be delayed or revised and should be checked against the exchange before use. Market-share figures are third-party estimates (Morningstar company report and industry sources, 2026) and are labelled as estimates wherever they appear.
+経営とガバナンス。創業家が経営の座を離れる流れは、2025年6月に完了しました。稲葉善治氏は取締役を退任し、特別顧問となりました。代表取締役社長の山口賢治氏（2016年から在任）がプロフェッショナルな経営陣を率い、支配株主はいません（第8章）。経営を評価する物差しは、事業の言葉で観察できます。500i-A CNCの基盤が工作機械メーカーにどれだけ採用されるか。NVIDIAとGoogleとの協業が出荷できるPhysical AIの製品になるか。ロボマシンが中国のAIハードウェア加工の需要をどれだけ取るか。サービス売上高がどれだけの速さで積み上がるか。資本配分も、もう1つの物差しです。配当性向60%の公式と2026年10月の自己株式取得（2027年4月までに上限500億円）は実行中です。それでも、2026年9月時点の現金及び預金7,463億円は、2026年3月期の配当の約7年分に当たります。当社の予想は、公式が維持され、余った現金は貸借対照表に残る前提です。配当性向の引き上げや消却の拡大など、還元の水準が上がる動きがあれば、当社の数字への上振れ要因となります。前提にはしていません。
 
-Conventions. Fiscal years are March year-ends: FY3/26 is the year ended 31 March 2026, and the company's own 'FY2026' labelling in English materials is the same year. Amounts are ¥mn unless stated as ¥bn. The template (model) forecast columns in the PL/segment sheet are mechanical extrapolations, are not company guidance and have not been used anywhere in this report; the only forward figures are the company's FY3/27 guidance, labelled 'company guidance'. Known gaps, recorded rather than filled: orders and backlog (presentation only, not in the tanshin/sheet), R&D as a tanshin line, employees, production/sales units, capacity and utilisation (all not disclosed in the tanshin), quarterly operating cash flow and capex for Q1/Q3 (no cash-flow statement in those tanshin), product-line and regional profit (not disclosed in any period), and the FY3/27 year-end dividend (not disclosed). The sheet's cash-and-equivalents cells for FY3/25/FY3/26 did not extract reliably and were replaced with tanshin balance-sheet and cash-flow figures, as noted in Chapter 6.
+**当社の見方に対するリスク。**（1）サイクルの反転です。ファナックの営業レバレッジは両方向に効きます。2024年3月期は、売上高が6.7%減り、営業利益は25.8%減りました。当社の予想は受注の急増が出荷に移る前提で、受注が弱い四半期が2回続けば、2028年3月期の組み立ては崩れます。（2）中国の集中です。中国は2027年3月期第2四半期の売上高の27.4%を占め、アジアは2026年3月期の売上高の41.1%でした。中国のロボット売上高は、第2四半期にすでに前年同期比14.3%減っています。現地の競合（エスタン、イノバンス）が最も強いのは、その中国です。輸出管理や関税の拡大があれば、最大の需要の受け皿が最初に影響を受けます。（3）為替です。売上高の約87%は日本国外で、生産は日本国内に集中しています。会社計画の下期前提は1ドル150円、1ユーロ175円で、上期の実績は159.37円と184.35円でした。前提を超える円高は、そのまま利益率への逆風となります。会社は、本レポートが使った資料の範囲では、円が1円動いた場合の利益への感応度を開示していません。当社も推計しません（未取得）。（4）顧客の在庫サイクルです。FAの受注は、6四半期の在庫調整の後に、第2四半期に前年同期比130.1%増となりました。同じ仕組みは逆向きにも働きます。（5）開示と検証のリスクです。部門別の利益はなく、決算短信に受注はなく、受注残高の系列もありません。市場は世界の競合より薄い情報でファナックの価格を付けています。決算が予想とずれたとき、この薄さは両方向に効きます。（6）バリュエーションのリスクです。実績PER 28.3倍は、失敗を織り込んだ水準ではありません。ただし、その利益はサイクルの谷の利益です。サイクルが反転すれば、下値の目安は、落ちていく営業利益に対する10倍台半ばのEV/営業利益となり、株価と予想の下げが重なります。
 
-Rating and target. The rating ('Under Review') and price target ('Under review') on page 1 are placeholders for this initiation draft: J-Core Fundamental Research has not published a rating or target price for Fanuc in this document, and no investment recommendation is made or implied.
+## 8. その他の情報
+
+沿革。ファナックは1955年に、富士通の数値制御プロジェクトとして始まりました。稲葉清右衛門氏が率い、1956年に日本で初めて民間のNCとサーボシステムを作りました。コンピュータ制御の部門は1972年に富士通ファナックとして独立しました。FANUCはFuji Automatic Numerical Controlの頭文字です。同年にCNCを導入し、1974年から自社工場向けにロボットを作り、1977年にROBOT-MODEL 1を商品として出荷しました。1982年にファナックへ社名を変え、1984年に本社を山梨県の忍野村へ移しました。本社、主力工場、研究所は今も富士山麓の忍野村にあります。創業者の稲葉清右衛門氏は2020年に亡くなりました。息子の稲葉善治氏が20年間会社を率い、2025年6月に取締役を退任して特別顧問となりました（会社の沿革と第三者の企業プロフィール。2026年11月に確認）。
+
+経営陣。代表取締役社長は山口賢治氏です（2016年から在任。2026年3月期決算短信と2026年6月の株主総会招集通知には、代表取締役社長として同氏の署名があります）。二次情報では「Ken Yamaguchi」と誤って書かれる場合があります。会社の文書の表記は「Kenji Yamaguchi」です。
+
+株主。2026年3月31日時点の発行済株式総数は982,383,493株で、株主数は130,034名でした（第57回株主総会招集通知、2026年6月4日）。株主名簿は保管機関の名義が中心です。最大の登録株主は日本マスタートラスト信託銀行（信託口）の218,493千株（23.4%）で、日本カストディ銀行（信託口）の96,283千株（10.3%）が続きます。その後は、ADRの預託機関であるCitibank N.A.（3.0%）、State Street Bank and Trust 505001（2.3%）、JPMorgan Chaseの口座（2.1%と1.7%）です。これらは名義上の登録で、実質の保有者ではありません。第三者のデータによる実質保有の推計（野村アセットマネジメント約9.8%、BlackRock約8.9%。2026年）は別の基準で作られており、名簿の数字と混ぜてはいけません。支配株主はいません。
+
+株主還元は第7章で扱いました。従業員数、研究開発の人員数、販売台数は決算短信で開示されません。本レポートでは、推計せずに、開示なしと記録します。
+
+## 9. 作成の前提
+
+出所。過去の財務数値（2017年3月期から2026年3月期の通期と20四半期。2017年3月期から2021年3月期はシートの補足のHistoryブロック）は、ファナックのPL/セグメントシート（日本基準のテンプレート、百万円単位）に基づきます。シートはJPXアーカイブの会社の決算短信から作られ、本レポートでは「会社の決算短信に基づくPL/セグメントシート」と表記します。2027年3月期上期と第2四半期の数字、受注、市場の説明、2027年3月期の会社計画は、2026年10月23日の第2四半期中間決算短信と決算説明資料に基づきます（説明資料はTDnetで提出された文書で、翻訳された決算資料のPDFを使いました）。配当方針と2026年3月期の配当の詳細は、2026年4月24日の2026年3月期決算短信と、2026年6月の株主総会招集通知に基づきます。株価、時価総額、実績PERは、2026年11月13日から16日の検索結果で伝えられたFinnhubのデータです（株価は2026年11月13日終値の5,541円）。集約サイトの市場データは遅れたり修正されたりする場合があります。利用の前に取引所の数字と確かめてください。市場シェアの数字は第三者機関の推計（Morningstarの企業レポートと業界の出所、2026年）で、該当箇所すべてに推計と明記しています。
+
+表記の決まり。会計年度は3月決算です。FY3/26は2026年3月31日に終わる年度で、会社の英語資料の「FY2026」の表記と同じ年度です。金額は、特に断りのない限り百万円単位です。PL/セグメントシートのテンプレート（モデル）の予想列は機械的な外挿で、会社計画ではなく、本レポートでは使っていません。今後の数字は、会社計画と明記した2027年3月期の会社計画と、以下に述べるJ-Core予想（該当箇所すべてに「J-Core予想」と明記）だけです。不足として記録し、埋めていない項目は次のとおりです。受注高と受注残高（説明資料のみで、決算短信とシートにはありません）、決算短信の項目としての研究開発費、従業員数、生産台数と販売台数、生産能力と稼働率（いずれも決算短信では未開示）、第1四半期と第3四半期の四半期営業キャッシュフローと設備投資（その決算短信にキャッシュフロー計算書がありません）、製品別と地域別の利益（どの期間も未開示）、2027年3月期の期末配当（未開示）。シートの2025年3月期と2026年3月期の現金同等物のセルは正しく抽出できなかったため、第6章で述べたとおり、決算短信の貸借対照表とキャッシュフロー計算書の数字に置き換えました。
+
+レーティング、目標株価、J-Core予想（2026年11月23日に追加）。本レポートのJ-Core予想（2027年3月期と2028年3月期）は、2027年3月期上期の実績、会社の2027年3月期計画（2026年10月23日）、開示された受注高から、第2章と第6章に書いた決まりで作りました。EPSの予想は、会社計画EPSから逆算した加重平均株式数9億2,800万株を使います。配当の予想は、予想EPSに会社の配当性向60%の方針を当てはめます。これらはJ-Core Fundamental Researchの予想で、会社計画ではありません。該当箇所すべてに、その旨を明記しています。目標株価6,400円は、2028年3月期の予想EPS 266.1円の24.0倍で、100円単位に丸めました。第6章のとおり、企業価値でも確かめています。レーティングは、レーティング設定時点の株価に対する12か月の枠組みです。上昇余地が15%以上でオーバーウェイト、マイナス10%からプラス15%でニュートラル、マイナス10%以下でアンダーウェイトとします。2026年11月20日の終値5,047円に対して、目標株価までの上昇余地は26.8%です。そのため、レーティングはオーバーウェイトとなります。バリュエーションの比較は、社内のValuation DBで計算しました（株価は2026年11月20日時点。株式数、負債、現金はDBに保存された値）。2026年11月16日の原文で引用したFinnhubの数字と異なる場合は、Valuation DBの数字を優先します。
 
 ---
 
-Rating (as stated in the report): Under Review
+Rating (as stated in the report): Overweight
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
