@@ -11,7 +11,7 @@ lang: ja
 
 A ¥12tn revenue guide built on an Energy order boom, with the mix story now carried by Lumada: Hitachi, Ltd. (6501, TSE Prime) is Japan's largest industrial conglomerate, reorganised since April 2025 into four sectors — Digital Systems & Services (DSS), Energy, Mobility and Connective Industries (CI) — under President & CEO Toshiaki Tokunaga. FY3/26 (IFRS) printed revenue of ¥10,586,781mn, adjusted operating profit of ¥1,199,275mn (11.3% margin), record profit before tax of ¥1,273,109mn and record net income attributable to owners of ¥802,368mn. The FY3/27 guide has been raised twice — revenue to ¥12,000,000mn, adjusted operating profit to ¥1,450,000mn, Adjusted EBITA to ¥1,560,000mn — on **an Energy order boom (H1 orders +66% YoY; Hitachi Energy backlog $66.9bn at September 2026)** and a Lumada digital layer that reached 44% of H1 revenue. The initiation question is not backlog size but backlog quality: **whether Energy's embedded margins, DSS productivity gains and continued portfolio exits can lift group Adjusted EBITA margin from 12.5% (H1 FY3/27) into the Inspire 2027 target band of 13–15%**. Strengths: (1) the Energy franchise — backlog coverage of roughly 2.8 years on the Hitachi Energy revenue plan, data-centre demand above 10% of Hitachi Energy revenue, and an H1 sector margin of 14.7% against a 15.0% full-year guide; (2) earnings momentum with discipline — two guidance raises in FY3/27, ~¥290bn of buybacks executed in H1, and an interim dividend raised to ¥32; (3) a decade of portfolio surgery (Hitachi Metals, Hitachi Chemical, Hitachi Construction Machinery, Astemo, home appliances) that has lifted the adjusted operating margin from 6.4% in FY3/17 to 11.3% in FY3/26. Weaknesses: (1) the margin evidence is not uniform — listed arm Hitachi Energy India printed a Q2 FY2027 EBITDA margin of 13.5%, down from 16.3%, on mix and materials, with H1 operating cash flow sharply lower on HVDC contract assets; (2) CI remains the margin laggard at 11.2% in H1 against an 11.8% full-year guide, and DSS absorbed a ¥9.0bn domestic project one-off in Q2; (3) disclosure breaks are frequent — the segment basis has been rebuilt four times in ten years and the Adjusted EBITA formula was revised in FY3/26, so long histories must be read basis by basis, as this report does.
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (IFRS) and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (IFRS) and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -37,6 +37,7 @@ A ¥12tn revenue guide built on an Energy order boom, with the mix story now car
 *Source: Company results via PL/segment sheet (tanshin, JPX archive; FY3/17–21 supplementary history block, FY3/22–26 main block). Profit line is Adjusted Operating Profit (Hitachi presents no plain operating-profit subtotal — register S3). Adjusted EBITA is shown only where the revised-formula figure is disclosed (FY3/25 restated; FY3/25 as originally reported on the old formula was ¥1,141,845mn). EPS is calculated (owners' net income ÷ diluted weighted shares as reported each year) and crosses two capital breaks — 5-for-1 consolidation 1 Oct 2018 and 5-for-1 split 1 Jul 2024 — so it is not a continuous series; FY3/27E EPS is the company's guided basic EPS. Operating cash flow is carried in the sheet only for FY3/17–21. FY3/27E = company guidance as revised at Q2 FY3/27, 28 Oct 2026 (PBT from the Q2 tanshin forecast section via the sheet register). Overseas ratio calculated from the disclosed regional split.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥22.04tn |
@@ -47,6 +48,7 @@ A ¥12tn revenue guide built on an Energy order boom, with the mix story now car
 | Next event | Q3 FY3/27 results, early Feb 2027 |
 
 ## Key points
+
 - **H1 FY3/27: a record half, profit up, owners' net income down on a high base.** For the six months to 30 September 2026, revenue was ¥5,614.0bn (+17% YoY, company presentation), **Adjusted EBITA ¥699.6bn (12.5% margin, +80bps YoY)**, adjusted operating income ¥643.3bn (+27%) and net income attributable to owners ¥416.6bn, down from ¥472.9bn a year earlier, when the result included the gain on sale of the air-conditioning joint venture. Q2 standalone revenue of ¥2,904.4bn was a record for a second quarter. All four sectors grew revenue and profit YoY in both Q2 and H1.
 - **Guidance raised twice: revenue ¥12,000,000mn, Adjusted EBITA ¥1,560,000mn.** Initial FY3/27 guidance (27 April 2026) of revenue ¥11,100,000mn / adjusted operating profit ¥1,315,000mn / Adjusted EBITA ¥1,420,000mn / owners' net income ¥850,000mn was raised at Q1 (29 July 2026) to ¥11,700,000mn / ¥1,408,000mn / ¥1,520,000mn / ¥900,000mn and again at Q2 (28 October 2026) to ¥12,000,000mn / ¥1,450,000mn / ¥1,560,000mn / ¥920,000mn, with basic EPS guided at ¥206.41. **The Q2 raise was revenue-led by DSS and CI (+¥300,000mn) and profit-led by Energy and CI (+¥40,000mn of Adjusted EBITA), per the company's own revision summary**.
 - **Energy is the engine: H1 orders +66%, backlog $66.9bn, margin 14.7%.** Energy took ¥3,472.5bn of orders in H1 FY3/27 on large European HVDC awards, data-centre orders and transmission-equipment demand; **Hitachi Energy's order backlog reached $66.9bn (¥10.5tn) at end-September 2026, up from $57.9bn at end-March**. Management attributes margin improvement mainly to productivity (ERP/AI) and large-project loss containment, with backlog gross margin 'continuing to improve' — the claim the next prints must evidence, against Hitachi Energy India's margin compression to 13.5%.
@@ -63,91 +65,19 @@ Profitability has structurally improved. **Adjusted operating profit rose from �
 
 Per-share history crosses two capital-structure breaks and is never spliced in this report: a 5-for-1 share consolidation on 1 October 2018 and a 5-for-1 share split on 1 July 2024. EPS in Exhibit 1 is calculated (owners' net income ÷ diluted weighted shares as reported in each year's EPS note): ¥47.9 (FY3/17, pre-consolidation basis), ¥230.3 (FY3/19, post-consolidation), ¥603.7 (FY3/22, pre-split), ¥133.9 (FY3/25, post-split) and ¥176.8 (FY3/26, post-split). The overseas revenue ratio has risen from 48.1% in FY3/17 to 63.0% in FY3/26 (calculated from the disclosed regional split), with Europe the fastest-growing region over the last three years on HVDC and grid awards.
 
-**Figure: Hitachi, Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 9162264 |
-
-| FY3/18 | 9368614 |
-
-| FY3/19 | 9480619 |
-
-| FY3/20 | 8767263 |
-
-| FY3/21 | 8729196 |
-
-| FY3/22 | 10264602 |
-
-| FY3/23 | 10881150 |
-
-| FY3/24 | 9728716 |
-
-| FY3/25 | 9783370 |
-
-| FY3/26 | 10586781 |
+**Figure 2. Hitachi, Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Hitachi, Ltd. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 587309 |
-
-| FY3/18 | 714630 |
-
-| FY3/19 | 754976 |
-
-| FY3/20 | 661883 |
-
-| FY3/21 | 495180 |
-
-| FY3/22 | 738236 |
-
-| FY3/23 | 748144 |
-
-| FY3/24 | 755816 |
-
-| FY3/25 | 971606 |
-
-| FY3/26 | 1199275 |
+**Figure 3. Hitachi, Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Hitachi, Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 6.4 |
-
-| FY3/18 | 7.6 |
-
-| FY3/19 | 8 |
-
-| FY3/20 | 7.5 |
-
-| FY3/21 | 5.7 |
-
-| FY3/22 | 7.2 |
-
-| FY3/23 | 6.9 |
-
-| FY3/24 | 7.8 |
-
-| FY3/25 | 9.9 |
-
-| FY3/26 | 11.3 |
+**Figure 4. Hitachi, Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Hitachi, Ltd. — revenue and operating margin**
+**Figure 5. Hitachi, Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -169,7 +99,7 @@ Sector guidance for FY3/27 (company presentation, 28 October 2026): DSS revenue 
 
 Implied H2 FY3/27 (calculated from the figures above): revenue ¥6,386,000mn, adjusted operating profit ¥806,700mn, Adjusted EBITA ¥860,400mn (a 13.5% margin, vs 12.5% in H1), owners' net income ¥503,400mn. The guide therefore assumes the usual H2-weighted delivery pattern plus a further margin step-up — concentrated, as in FY3/26, in Energy backlog conversion and DSS productivity.
 
-**Exhibit 3. H1 results and the FY3/27 guidance chain (company guidance)**
+**Figure 6. Exhibit 3. H1 results and the FY3/27 guidance chain (company guidance)**
 
 | ¥mn unless stated | H1 FY3/26 | H1 FY3/27 | FY3/27E initial (27 Apr 26) | FY3/27E Rev.1 (29 Jul 26) | FY3/27E current (28 Oct 26) |
 |---|---|---|---|---|---|
@@ -209,49 +139,7 @@ In digital, the value-chain question is different: whether Lumada/HMAX converts 
 
 The order book behind the Energy story is quantifiable at sector level for the latest half. In H1 FY3/27, sector orders were ¥1,822.0bn in DSS, ¥3,472.5bn in Energy, ¥973.1bn in Mobility and ¥1,945.8bn in Connective Industries, against H1 revenue of ¥1,533.1bn, ¥1,872.3bn, ¥692.9bn and ¥1,586.6bn respectively — Energy took in roughly 1.9 yen of orders for every yen of revenue recognised in the half. Hitachi Energy's backlog stood at $66.9bn (about ¥10.5tn) at end-September 2026, up from $57.9bn at end-March 2026, which the FIELDNOTES Transformers report calculates as roughly 2.8 years of cover on the FY3/26 Hitachi Energy revenue plan. Management has said data-centre business is more than 10% of Hitachi Energy revenue and a low-teens share of its orders, that it has seen no delays, postponements or payment problems on secured projects, and that orders taken this fiscal year convert to revenue on average next fiscal year.
 
-**Figure: Hitachi in the power & industrial value chain**
-
-**Raw materials**
-
-- Grain-oriented steel (GOES)
-- Copper windings
-- Insulating oil & paper
-- Nippon Steel, Baosteel, Cleveland-Cliffs
-
-**Components**
-
-- HV bushings
-- On-load tap changers (OLTC)
-- Cooling, monitoring devices
-- Trench Group, Reinhausen (MR), Hitachi Energy
-
-**Hitachi, Ltd. (6501)**
-
-- Energy — Hitachi Energy (HVDC, transformers, switchgear, grid automation), nuclear & power systems
-- Digital Systems & Services — IT services, GlobalLogic, Lumada/HMAX digital solutions
-- Mobility — rail systems, elevators & escalators
-- Connective Industries — industrial products, semiconductor equipment, measurement & inspection
-
-**System integration**
-
-- GIS / AIS switchgear
-- HVDC converter stations
-- STATCOM, substations
-- Mitsubishi Electric, LS Electric, Toshiba ESS
-
-**EPC & installation**
-
-- Substation EPC
-- Heavy transport & installation
-- Commissioning
-- Larsen & Toubro, KEC International
-
-**End users & service**
-
-- TSOs, utilities, data centres
-- Preventive maintenance, oil analysis
-- Refurbishment & spares
-- National Grid, TenneT, POWERGRID, hyperscalers
+**Figure 7. Hitachi in the power & industrial value chain**
 
 *Source: FIELDNOTES sector report §4 (transformers & power equipment value chain); company sectors from §3 of this report.*
 
@@ -259,25 +147,11 @@ The order book behind the Energy story is quantifiable at sector level for the l
 
 Segment history is presented basis by basis and never spliced, because Hitachi has rebuilt the presentation four times in the window: the FY3/22 nine-sector basis (profit = adjusted operating profit, sales including intersegment); the FY3/23–24 summary-table basis (total sales including internal sales, profit = Adjusted EBITA on the pre-revision formula); the FY3/25 basis as originally reported (DSS / Green Energy & Mobility / CI / Automotive Systems / Other, external sales, Adjusted EBITA including equity income); and the current basis from FY3/26 (DSS / Energy / Mobility / CI / Other, external sales, Adjusted EBITA on the revised formula), under which FY3/25 is restated in the FY3/26 documents. The FY3/17–21 history blocks (four further bases, held in the sheet's supplementary block) are summarised in Chapter 1's sources and not tabulated here. Regional profit is not disclosed in any year (未取得).
 
-**Figure: Hitachi, Ltd. — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| DSS — revenue | 2756551 |
-
-| Energy — revenue | 3200844 |
-
-| Mobility — revenue | 1320631 |
-
-| Connective Industries — revenue | 3000760 |
-
-| Other — revenue | 275252 |
+**Figure 8. Hitachi, Ltd. — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Hitachi, Ltd. — regional revenue by year**
+**Figure 9. Hitachi, Ltd. — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -287,7 +161,7 @@ On the current basis (Exhibit 2), FY3/26 segment revenue and profit (Adjusted EB
 
 On the FY3/25 basis as originally reported, FY3/25 showed DSS ¥2,653,087mn / ¥397,369mn, Green Energy & Mobility ¥3,849,255mn / ¥369,049mn, CI ¥2,969,164mn / ¥362,047mn and Other ¥270,915mn / ¥12,357mn (external sales; profit = Adjusted EBITA, pre-revision formula) — not comparable line-by-line with the restated block above, which is precisely why both are kept. The FY3/23–24 summary-table basis (total sales incl. internal) had DSS at ¥2,389,095mn (FY3/23) and ¥2,598,659mn (FY3/24), Green Energy & Mobility at ¥2,492,522mn and ¥3,052,302mn, and CI at ¥2,975,272mn and ¥3,057,960mn, with Hitachi Construction Machinery and Hitachi Metals still present in FY3/23. The FY3/22 nine-sector basis (adjusted operating profit) is held in the sheet (IT ¥2,153,625mn / ¥268,122mn the largest profit contributor that year).
 
-**Exhibit 2. Business segments — revenue and segment profit (current basis; FY3/25 restated)**
+**Figure 10. Exhibit 2. Business segments — revenue and segment profit (current basis; FY3/25 restated)**
 
 | ¥mn | FY3/25 (restated) | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|
@@ -307,7 +181,7 @@ On the FY3/25 basis as originally reported, FY3/25 showed DSS ¥2,653,087mn / ¥
 
 *Source: PL/segment sheet, Segments tab (FY3/26 tanshin segment note; external sales; profit = Adjusted EBITA definition — see the reconciliation note in the Basis of preparation: segment rows plus corporate & eliminations sum to consolidated Adjusted Operating Profit, the ¥112,161mn gap to consolidated Adjusted EBITA being the PPA-amortisation bridge, calculated). FY3/27E revenue and margins are company guidance by sector (Q2 FY3/27 presentation, 28 Oct 2026); FY3/27E segment profit is calculated from the guided revenue × guided margin. Other and corporate are not guided. Older segment bases (FY3/22 nine-sector; FY3/23–24 summary table; FY3/25 as originally reported) are held in the sheet's supplementary blocks and summarised in Chapter 5 — never spliced into this table.*
 
-**Exhibit 2A. Business segments — earlier disclosed bases, as reported in those years**
+**Figure 11. Exhibit 2A. Business segments — earlier disclosed bases, as reported in those years**
 
 | ¥mn | FY3/25 (Block A, as originally reported) | FY3/23 (Block B) | FY3/24 (Block B) | FY3/22 (Block C) |
 |---|---|---|---|---|
@@ -352,7 +226,7 @@ On the FY3/25 basis as originally reported, FY3/25 showed DSS ¥2,653,087mn / ¥
 
 *Source: PL/segment workbook, supplementary segment blocks — each block on its own disclosed basis, as reported in those years: Block A = FY3/25 as originally reported (external sales; profit = Adjusted EBITA under the pre-revision formula); Block B = FY3/23–FY3/24 summary-table basis (total sales including intersegment transactions; profit = Adjusted EBITA); Block C = FY3/22 former nine-sector basis (total sales; profit = Adjusted Operating Profit). Blocks are not restated into one another or into Exhibit 2.*
 
-**Exhibit 2B. Revenue by region (customer location)**
+**Figure 12. Exhibit 2B. Revenue by region (customer location)**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -406,6 +280,6 @@ Gaps (未取得 / not disclosed): order intake and order backlog at group level 
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
