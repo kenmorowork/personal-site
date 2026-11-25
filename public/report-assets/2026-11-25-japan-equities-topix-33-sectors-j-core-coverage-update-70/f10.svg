@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="594.4pt" height="257.7pt" viewBox="0 0 594.4 257.7" xmlns="http://www.w3.org/2000/svg" version="1.1"><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M -0 257.7 
+L 594.4 257.7 
+L 594.4 0 
+L -0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 31.5 221.5 
+L 567.2 221.5 
+L 567.2 10.8 
+L 31.5 10.8 
+z
+" style="fill: #ffffff"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"/><g id="text_1"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="55.8" y="231.8" transform="rotate(-0 55.8 231.8)">Nov 25</text></g></g><g id="xtick_2"><g id="line2d_2"/><g id="text_2"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="96.4" y="231.8" transform="rotate(-0 96.4 231.8)">Dec</text></g></g><g id="xtick_3"><g id="line2d_3"/><g id="text_3"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="137.0" y="231.8" transform="rotate(-0 137.0 231.8)">Jan</text></g></g><g id="xtick_4"><g id="line2d_4"/><g id="text_4"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="177.6" y="231.8" transform="rotate(-0 177.6 231.8)">Feb</text></g></g><g id="xtick_5"><g id="line2d_5"/><g id="text_5"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="218.2" y="231.8" transform="rotate(-0 218.2 231.8)">Mar</text></g></g><g id="xtick_6"><g id="line2d_6"/><g id="text_6"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="258.7" y="231.8" transform="rotate(-0 258.7 231.8)">Apr</text></g></g><g id="xtick_7"><g id="line2d_7"/><g id="text_7"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="299.3" y="231.8" transform="rotate(-0 299.3 231.8)">May</text></g></g><g id="xtick_8"><g id="line2d_8"/><g id="text_8"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="339.9" y="231.8" transform="rotate(-0 339.9 231.8)">Jun</text></g></g><g id="xtick_9"><g id="line2d_9"/><g id="text_9"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="380.5" y="231.8" transform="rotate(-0 380.5 231.8)">Jul</text></g></g><g id="xtick_10"><g id="line2d_10"/><g id="text_10"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="421.1" y="231.8" transform="rotate(-0 421.1 231.8)">Aug</text></g></g><g id="xtick_11"><g id="line2d_11"/><g id="text_11"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="461.6" y="231.8" transform="rotate(-0 461.6 231.8)">Sep</text></g></g><g id="xtick_12"><g id="line2d_12"/><g id="text_12"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="502.2" y="231.8" transform="rotate(-0 502.2 231.8)">Oct</text></g></g><g id="xtick_13"><g id="line2d_13"/><g id="text_13"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="542.8" y="231.8" transform="rotate(-0 542.8 231.8)">24 Nov 26</text></g></g><g id="text_14"><text style="fill: #0a2e5c; font: 9.5px 'DejaVu Sans'; text-anchor: start" x="31.5" y="244.9" transform="rotate(-0 31.5 244.9)">USD/JPY — month-end rate (Nov 2026: 24 Nov)</text></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_14"><path d="M 31.5 221.5 
+L 567.2 221.5 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_15"/><g id="text_15"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="224.9" transform="rotate(-0 28.0 224.9)">150</text></g></g><g id="ytick_2"><g id="line2d_16"><path d="M 31.5 196.7 
+L 567.2 196.7 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_17"/><g id="text_16"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="200.1" transform="rotate(-0 28.0 200.1)">152</text></g></g><g id="ytick_3"><g id="line2d_18"><path d="M 31.5 171.9 
+L 567.2 171.9 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_19"/><g id="text_17"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="175.3" transform="rotate(-0 28.0 175.3)">154</text></g></g><g id="ytick_4"><g id="line2d_20"><path d="M 31.5 147.1 
+L 567.2 147.1 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_21"/><g id="text_18"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="150.5" transform="rotate(-0 28.0 150.5)">156</text></g></g><g id="ytick_5"><g id="line2d_22"><path d="M 31.5 122.3 
+L 567.2 122.3 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_23"/><g id="text_19"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="125.8" transform="rotate(-0 28.0 125.8)">158</text></g></g><g id="ytick_6"><g id="line2d_24"><path d="M 31.5 97.5 
+L 567.2 97.5 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_25"/><g id="text_20"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="101.0" transform="rotate(-0 28.0 101.0)">160</text></g></g><g id="ytick_7"><g id="line2d_26"><path d="M 31.5 72.8 
+L 567.2 72.8 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_27"/><g id="text_21"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="76.2" transform="rotate(-0 28.0 76.2)">162</text></g></g><g id="ytick_8"><g id="line2d_28"><path d="M 31.5 48.0 
+L 567.2 48.0 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_29"/><g id="text_22"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="51.4" transform="rotate(-0 28.0 51.4)">164</text></g></g><g id="ytick_9"><g id="line2d_30"><path d="M 31.5 23.2 
+L 567.2 23.2 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_31"/><g id="text_23"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="28.0" y="26.6" transform="rotate(-0 28.0 26.6)">166</text></g></g></g><g id="line2d_32"><path d="M 55.8 143.6 
+L 96.4 142.0 
+L 137.0 182.3 
+L 177.6 148.9 
+L 218.2 115.1 
+L 258.7 135.0 
+L 299.3 105.6 
+L 339.9 65.0 
+L 380.5 95.3 
+L 421.1 100.6 
+L 461.6 127.8 
+L 502.2 124.8 
+L 542.8 109.8 
+" clip-path="url(#p71a7754ca8)" style="fill: none; stroke: #0a2e5c; stroke-width: 1.8; stroke-linecap: square"/></g><g id="patch_3"><path d="M 31.5 221.5 
+L 31.5 10.8 
+" style="fill: none; stroke: #d9dee7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_4"><path d="M 31.5 221.5 
+L 567.2 221.5 
+" style="fill: none; stroke: #d9dee7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_5"><path d="M 388.5 46.2 
+Q 365.1 55.2 341.8 64.2 
+" style="fill: none; stroke: #8a94a6; stroke-width: 0.7; stroke-linecap: round"/></g><g id="text_24"><text style="fill: #1c2733; font: 8px 'DejaVu Sans'" transform="translate(352.1 32.8)">22 Jul 2026: ¥163.99 intraday —</text><text style="fill: #1c2733; font: 8px 'DejaVu Sans'" transform="translate(352.1 41.8)">weakest yen in ~40 years</text></g><g id="patch_6"><path d="M 445.0 146.2 
+Q 413.5 121.4 382.1 96.6 
+" style="fill: none; stroke: #8a94a6; stroke-width: 0.7; stroke-linecap: round"/></g><g id="text_25"><text style="fill: #1c2733; font: 8px 'DejaVu Sans'" transform="translate(388.6 155.5)">30 Jul–3 Aug: ¥15.39tn intervention</text><text style="fill: #1c2733; font: 8px 'DejaVu Sans'" transform="translate(388.6 164.5)">(incl. joint US–Japan action)</text></g><g id="text_26"><text style="fill: #0a2e5c; font: 700 9px 'DejaVu Sans'; text-anchor: start" x="548.9" y="112.3" transform="rotate(-0 548.9 112.3)">159.01</text></g></g></g><defs><clipPath id="p71a7754ca8"><rect x="31.5" y="10.8" width="535.68" height="210.7"/></clipPath></defs></svg>

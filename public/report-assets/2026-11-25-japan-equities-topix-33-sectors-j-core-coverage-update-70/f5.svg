@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="713.4pt" height="735.6pt" viewBox="0 0 713.4 735.6" xmlns="http://www.w3.org/2000/svg" version="1.1"><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M -0 735.6 
+L 713.4 735.6 
+L 713.4 0 
+L -0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 166.9 699.4 
+L 702.6 699.4 
+L 702.6 10.8 
+L 166.9 10.8 
+z
+" style="fill: #ffffff"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><path d="M 185.8 699.4 
+L 185.8 10.8 
+" clip-path="url(#p8bfee0d8eb)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_2"/><g id="text_1"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="185.8" y="709.7" transform="rotate(-0 185.8 709.7)">−20</text></g></g><g id="xtick_2"><g id="line2d_3"><path d="M 301.3 699.4 
+L 301.3 10.8 
+" clip-path="url(#p8bfee0d8eb)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_4"/><g id="text_2"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="301.3" y="709.7" transform="rotate(-0 301.3 709.7)">0</text></g></g><g id="xtick_3"><g id="line2d_5"><path d="M 416.8 699.4 
+L 416.8 10.8 
+" clip-path="url(#p8bfee0d8eb)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_6"/><g id="text_3"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="416.8" y="709.7" transform="rotate(-0 416.8 709.7)">20</text></g></g><g id="xtick_4"><g id="line2d_7"><path d="M 532.3 699.4 
+L 532.3 10.8 
+" clip-path="url(#p8bfee0d8eb)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_8"/><g id="text_4"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="532.3" y="709.7" transform="rotate(-0 532.3 709.7)">40</text></g></g><g id="xtick_5"><g id="line2d_9"><path d="M 647.7 699.4 
+L 647.7 10.8 
+" clip-path="url(#p8bfee0d8eb)" style="fill: none; stroke: #d9dee7; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_10"/><g id="text_5"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: middle" x="647.7" y="709.7" transform="rotate(-0 647.7 709.7)">60</text></g></g><g id="text_6"><text style="fill: #0a2e5c; font: 9.5px 'DejaVu Sans'; text-anchor: start" x="166.9" y="722.8" transform="rotate(-0 166.9 722.8)">Price return, 30 Dec 2025 → 30 Oct 2026 (%)</text></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_11"/><g id="text_7"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="665.0" transform="rotate(-0 163.4 665.0)">Construction</text></g></g><g id="ytick_2"><g id="line2d_12"/><g id="text_8"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="645.8" transform="rotate(-0 163.4 645.8)">Real Estate</text></g></g><g id="ytick_3"><g id="line2d_13"/><g id="text_9"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="626.7" transform="rotate(-0 163.4 626.7)">Transportation Equipment</text></g></g><g id="ytick_4"><g id="line2d_14"/><g id="text_10"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="607.5" transform="rotate(-0 163.4 607.5)">Fishery, Agriculture &amp; Forestry</text></g></g><g id="ytick_5"><g id="line2d_15"/><g id="text_11"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="588.4" transform="rotate(-0 163.4 588.4)">Other Products</text></g></g><g id="ytick_6"><g id="line2d_16"/><g id="text_12"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="569.2" transform="rotate(-0 163.4 569.2)">Land Transportation</text></g></g><g id="ytick_7"><g id="line2d_17"/><g id="text_13"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="550.0" transform="rotate(-0 163.4 550.0)">Iron &amp; Steel</text></g></g><g id="ytick_8"><g id="line2d_18"/><g id="text_14"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="530.9" transform="rotate(-0 163.4 530.9)">Machinery</text></g></g><g id="ytick_9"><g id="line2d_19"/><g id="text_15"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="511.7" transform="rotate(-0 163.4 511.7)">Retail Trade</text></g></g><g id="ytick_10"><g id="line2d_20"/><g id="text_16"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="492.6" transform="rotate(-0 163.4 492.6)">Air Transportation</text></g></g><g id="ytick_11"><g id="line2d_21"/><g id="text_17"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="473.4" transform="rotate(-0 163.4 473.4)">Information &amp; Communication</text></g></g><g id="ytick_12"><g id="line2d_22"/><g id="text_18"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="454.3" transform="rotate(-0 163.4 454.3)">Electric Power &amp; Gas</text></g></g><g id="ytick_13"><g id="line2d_23"/><g id="text_19"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="435.1" transform="rotate(-0 163.4 435.1)">Pulp &amp; Paper</text></g></g><g id="ytick_14"><g id="line2d_24"/><g id="text_20"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="416.0" transform="rotate(-0 163.4 416.0)">Warehousing &amp; Harbor Transport</text></g></g><g id="ytick_15"><g id="line2d_25"/><g id="text_21"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="396.8" transform="rotate(-0 163.4 396.8)">Securities &amp; Commodities Futures</text></g></g><g id="ytick_16"><g id="line2d_26"/><g id="text_22"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="377.7" transform="rotate(-0 163.4 377.7)">Rubber Products</text></g></g><g id="ytick_17"><g id="line2d_27"/><g id="text_23"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="358.5" transform="rotate(-0 163.4 358.5)">Metal Products</text></g></g><g id="ytick_18"><g id="line2d_28"/><g id="text_24"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="339.3" transform="rotate(-0 163.4 339.3)">Pharmaceutical</text></g></g><g id="ytick_19"><g id="line2d_29"/><g id="text_25"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="320.2" transform="rotate(-0 163.4 320.2)">Precision Instruments</text></g></g><g id="ytick_20"><g id="line2d_30"/><g id="text_26"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="301.0" transform="rotate(-0 163.4 301.0)">Textiles &amp; Apparels</text></g></g><g id="ytick_21"><g id="line2d_31"/><g id="text_27"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="281.9" transform="rotate(-0 163.4 281.9)">Other Financing Business</text></g></g><g id="ytick_22"><g id="line2d_32"/><g id="text_28"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="262.7" transform="rotate(-0 163.4 262.7)">Glass &amp; Ceramics</text></g></g><g id="ytick_23"><g id="line2d_33"/><g id="text_29"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="243.6" transform="rotate(-0 163.4 243.6)">Chemicals</text></g></g><g id="ytick_24"><g id="line2d_34"/><g id="text_30"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="224.4" transform="rotate(-0 163.4 224.4)">Wholesale Trade</text></g></g><g id="ytick_25"><g id="line2d_35"/><g id="text_31"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="205.3" transform="rotate(-0 163.4 205.3)">Foods</text></g></g><g id="ytick_26"><g id="line2d_36"/><g id="text_32"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="186.1" transform="rotate(-0 163.4 186.1)">Electric Appliances</text></g></g><g id="ytick_27"><g id="line2d_37"/><g id="text_33"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="167.0" transform="rotate(-0 163.4 167.0)">Oil &amp; Coal Products</text></g></g><g id="ytick_28"><g id="line2d_38"/><g id="text_34"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="147.8" transform="rotate(-0 163.4 147.8)">Mining</text></g></g><g id="ytick_29"><g id="line2d_39"/><g id="text_35"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="128.6" transform="rotate(-0 163.4 128.6)">Nonferrous Metals</text></g></g><g id="ytick_30"><g id="line2d_40"/><g id="text_36"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="109.5" transform="rotate(-0 163.4 109.5)">Banks</text></g></g><g id="ytick_31"><g id="line2d_41"/><g id="text_37"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="90.3" transform="rotate(-0 163.4 90.3)">Insurance</text></g></g><g id="ytick_32"><g id="line2d_42"/><g id="text_38"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="71.2" transform="rotate(-0 163.4 71.2)">Services</text></g></g><g id="ytick_33"><g id="line2d_43"/><g id="text_39"><text style="fill: #1c2733; font: 9px 'DejaVu Sans'; text-anchor: end" x="163.4" y="52.0" transform="rotate(-0 163.4 52.0)">Marine Transportation</text></g></g></g><g id="patch_3"><path d="M 301.3 668.1 
+L 245.0 668.1 
+L 245.0 655.0 
+L 301.3 655.0 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #c0392b"/></g><g id="patch_4"><path d="M 301.3 648.9 
+L 268.0 648.9 
+L 268.0 635.9 
+L 301.3 635.9 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #c0392b"/></g><g id="patch_5"><path d="M 301.3 629.8 
+L 271.0 629.8 
+L 271.0 616.7 
+L 301.3 616.7 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #c0392b"/></g><g id="patch_6"><path d="M 301.3 610.6 
+L 283.6 610.6 
+L 283.6 597.6 
+L 301.3 597.6 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #c0392b"/></g><g id="patch_7"><path d="M 301.3 591.4 
+L 291.4 591.4 
+L 291.4 578.4 
+L 301.3 578.4 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #c0392b"/></g><g id="patch_8"><path d="M 301.3 572.3 
+L 296.2 572.3 
+L 296.2 559.3 
+L 301.3 559.3 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #c0392b"/></g><g id="patch_9"><path d="M 301.3 553.1 
+L 305.3 553.1 
+L 305.3 540.1 
+L 301.3 540.1 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_10"><path d="M 301.3 534.0 
+L 322.0 534.0 
+L 322.0 521.0 
+L 301.3 521.0 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_11"><path d="M 301.3 514.8 
+L 322.1 514.8 
+L 322.1 501.8 
+L 301.3 501.8 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_12"><path d="M 301.3 495.7 
+L 324.2 495.7 
+L 324.2 482.7 
+L 301.3 482.7 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_13"><path d="M 301.3 476.5 
+L 328.1 476.5 
+L 328.1 463.5 
+L 301.3 463.5 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_14"><path d="M 301.3 457.4 
+L 331.9 457.4 
+L 331.9 444.3 
+L 301.3 444.3 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_15"><path d="M 301.3 438.2 
+L 339.6 438.2 
+L 339.6 425.2 
+L 301.3 425.2 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_16"><path d="M 301.3 419.1 
+L 345.2 419.1 
+L 345.2 406.0 
+L 301.3 406.0 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_17"><path d="M 301.3 399.9 
+L 350.0 399.9 
+L 350.0 386.9 
+L 301.3 386.9 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_18"><path d="M 301.3 380.7 
+L 351.1 380.7 
+L 351.1 367.7 
+L 301.3 367.7 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_19"><path d="M 301.3 361.6 
+L 352.2 361.6 
+L 352.2 348.6 
+L 301.3 348.6 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_20"><path d="M 301.3 342.4 
+L 357.5 342.4 
+L 357.5 329.4 
+L 301.3 329.4 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_21"><path d="M 301.3 323.3 
+L 364.1 323.3 
+L 364.1 310.3 
+L 301.3 310.3 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_22"><path d="M 301.3 304.1 
+L 364.2 304.1 
+L 364.2 291.1 
+L 301.3 291.1 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_23"><path d="M 301.3 285.0 
+L 398.7 285.0 
+L 398.7 272.0 
+L 301.3 272.0 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_24"><path d="M 301.3 265.8 
+L 400.2 265.8 
+L 400.2 252.8 
+L 301.3 252.8 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_25"><path d="M 301.3 246.7 
+L 410.8 246.7 
+L 410.8 233.6 
+L 301.3 233.6 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_26"><path d="M 301.3 227.5 
+L 417.0 227.5 
+L 417.0 214.5 
+L 301.3 214.5 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_27"><path d="M 301.3 208.4 
+L 423.0 208.4 
+L 423.0 195.3 
+L 301.3 195.3 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_28"><path d="M 301.3 189.2 
+L 439.5 189.2 
+L 439.5 176.2 
+L 301.3 176.2 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_29"><path d="M 301.3 170.1 
+L 446.9 170.1 
+L 446.9 157.0 
+L 301.3 157.0 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_30"><path d="M 301.3 150.9 
+L 460.8 150.9 
+L 460.8 137.9 
+L 301.3 137.9 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_31"><path d="M 301.3 131.7 
+L 471.2 131.7 
+L 471.2 118.7 
+L 301.3 118.7 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_32"><path d="M 301.3 112.6 
+L 512.3 112.6 
+L 512.3 99.6 
+L 301.3 99.6 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_33"><path d="M 301.3 93.4 
+L 526.5 93.4 
+L 526.5 80.4 
+L 301.3 80.4 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_34"><path d="M 301.3 74.3 
+L 598.2 74.3 
+L 598.2 61.3 
+L 301.3 61.3 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="patch_35"><path d="M 301.3 55.1 
+L 624.5 55.1 
+L 624.5 42.1 
+L 301.3 42.1 
+z
+" clip-path="url(#p8bfee0d8eb)" style="fill: #0a2e5c"/></g><g id="line2d_44"><path d="M 301.3 699.4 
+L 301.3 10.8 
+" clip-path="url(#p8bfee0d8eb)" style="fill: none; stroke: #1c2733; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_45"><path d="M 395.5 699.4 
+L 395.5 10.8 
+" clip-path="url(#p8bfee0d8eb)" style="fill: none; stroke-dasharray: 4.4,2.2; stroke-dashoffset: 0; stroke: #4472a8; stroke-width: 1.1"/></g><g id="patch_36"><path d="M 166.9 699.4 
+L 166.9 10.8 
+" style="fill: none; stroke: #d9dee7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_37"><path d="M 166.9 699.4 
+L 702.6 699.4 
+" style="fill: none; stroke: #d9dee7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_40"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: end" x="239.8" y="663.9" transform="rotate(-0 239.8 663.9)">-9.8%</text></g><g id="text_41"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: end" x="262.8" y="644.7" transform="rotate(-0 262.8 644.7)">-5.8%</text></g><g id="text_42"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: end" x="265.8" y="625.6" transform="rotate(-0 265.8 625.6)">-5.2%</text></g><g id="text_43"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: end" x="278.4" y="606.4" transform="rotate(-0 278.4 606.4)">-3.1%</text></g><g id="text_44"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: end" x="286.2" y="587.3" transform="rotate(-0 286.2 587.3)">-1.7%</text></g><g id="text_45"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: end" x="291.0" y="568.1" transform="rotate(-0 291.0 568.1)">-0.9%</text></g><g id="text_46"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="310.5" y="549.0" transform="rotate(-0 310.5 549.0)">+0.7%</text></g><g id="text_47"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="327.2" y="529.8" transform="rotate(-0 327.2 529.8)">+3.6%</text></g><g id="text_48"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="327.3" y="510.7" transform="rotate(-0 327.3 510.7)">+3.6%</text></g><g id="text_49"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="329.4" y="491.5" transform="rotate(-0 329.4 491.5)">+4.0%</text></g><g id="text_50"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="333.3" y="472.4" transform="rotate(-0 333.3 472.4)">+4.6%</text></g><g id="text_51"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="337.1" y="453.2" transform="rotate(-0 337.1 453.2)">+5.3%</text></g><g id="text_52"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="344.8" y="434.0" transform="rotate(-0 344.8 434.0)">+6.6%</text></g><g id="text_53"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="350.4" y="414.9" transform="rotate(-0 350.4 414.9)">+7.6%</text></g><g id="text_54"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="355.2" y="395.7" transform="rotate(-0 355.2 395.7)">+8.4%</text></g><g id="text_55"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="356.3" y="376.6" transform="rotate(-0 356.3 376.6)">+8.6%</text></g><g id="text_56"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="357.4" y="357.4" transform="rotate(-0 357.4 357.4)">+8.8%</text></g><g id="text_57"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="362.7" y="338.3" transform="rotate(-0 362.7 338.3)">+9.7%</text></g><g id="text_58"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="369.3" y="319.1" transform="rotate(-0 369.3 319.1)">+10.9%</text></g><g id="text_59"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="369.4" y="300.0" transform="rotate(-0 369.4 300.0)">+10.9%</text></g><g id="text_60"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="403.9" y="280.8" transform="rotate(-0 403.9 280.8)">+16.9%</text></g><g id="text_61"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="405.4" y="261.7" transform="rotate(-0 405.4 261.7)">+17.1%</text></g><g id="text_62"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="416.0" y="242.5" transform="rotate(-0 416.0 242.5)">+19.0%</text></g><g id="text_63"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="422.2" y="223.3" transform="rotate(-0 422.2 223.3)">+20.0%</text></g><g id="text_64"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="428.2" y="204.2" transform="rotate(-0 428.2 204.2)">+21.1%</text></g><g id="text_65"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="444.7" y="185.0" transform="rotate(-0 444.7 185.0)">+23.9%</text></g><g id="text_66"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="452.1" y="165.9" transform="rotate(-0 452.1 165.9)">+25.2%</text></g><g id="text_67"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="466.0" y="146.7" transform="rotate(-0 466.0 146.7)">+27.6%</text></g><g id="text_68"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="476.4" y="127.6" transform="rotate(-0 476.4 127.6)">+29.4%</text></g><g id="text_69"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="517.5" y="108.4" transform="rotate(-0 517.5 108.4)">+36.5%</text></g><g id="text_70"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="531.7" y="89.3" transform="rotate(-0 531.7 89.3)">+39.0%</text></g><g id="text_71"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="603.4" y="70.1" transform="rotate(-0 603.4 70.1)">+51.4%</text></g><g id="text_72"><text style="fill: #1c2733; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="629.7" y="51.0" transform="rotate(-0 629.7 51.0)">+56.0%</text></g><g id="text_73"><text style="fill: #4472a8; font: 8.5px 'DejaVu Sans'; text-anchor: start" x="395.5" y="40.7" transform="rotate(-0 395.5 40.7)">  TOPIX +16.3%</text></g></g></g><defs><clipPath id="p8bfee0d8eb"><rect x="166.9" y="10.8" width="535.68" height="688.6"/></clipPath></defs></svg>
