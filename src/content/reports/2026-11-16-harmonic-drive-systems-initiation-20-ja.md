@@ -11,7 +11,7 @@ lang: ja
 
 A global niche monopoly whose earnings are a factory-utilisation story: Harmonic Drive Systems Inc. (6324, TSE Prime) is the world's leading maker of strain-wave gearing — the HarmonicDrive® precision speed reducers that sit in the joints of industrial robots, semiconductor production equipment and, increasingly, humanoid and medical robots — together with planetary reducers (Harmonic Planetary®, AccuDrive®) and mechatronics products (actuators, motors and controllers) sold under a 'Total Motion Control' proposition. No competitor mass-produces strain-wave gears of equivalent precision, and Shared Research (report of 11 November 2026) estimates the company's standalone marginal profit ratio at about 55%, which is why earnings swing so violently with volume: **operating profit was ¥16,624mn in FY3/19, ¥124mn in FY3/24 and ¥2,567mn in FY3/26** (revenue ¥59,557mn, +7.0% YoY), and company guidance for FY3/27 — raised twice, most recently on 11 November 2026 — is revenue of ¥78,000mn and operating profit of ¥10,200mn after **H1 order intake rose about 71% YoY**. Strengths: (1) a defensible technology moat in strain-wave gearing, built on the flexspline principle, proprietary materials and machining know-how, and decades of qualification history with robot and equipment makers; (2) exceptional operating leverage and disclosure — orders and backlog are published with the results materials, and H1 FY3/27 converted a 29.8% revenue increase into an 803.5% operating-profit increase; (3) a fortress balance sheet (equity ratio 72.2% at March 2026, 73.2% at September 2026) funding capacity built ahead of demand at the Hotaka/Ariake plants in Nagano. Weaknesses: (1) profitability is still far below both history and plan — the FY3/26 operating margin was 4.3% against 24.5% in FY3/19, ROE was 2.0%, and the previous mid-term plan's FY3/26 targets (revenue ¥90bn, operating margin 15–20%, ROE 10%+) were missed by wide margins; (2) the bottom line has been repeatedly distorted below the operating line — FY3/24 recorded a net loss to parent of ¥24,806mn despite a small operating profit, and FY3/25 net profit of ¥3,473mn rested on a ¥5,865mn gain on sales of investment securities while operating profit was ¥7mn; (3) demand concentration and cyclicality — industrial robots were 41.4% of the FY3/26 application mix on the Shared Research reading, China segment sales fell 28.0% in FY3/26, and revenue halved once before (FY3/19 ¥67,809mn to FY3/20 ¥37,487mn) when the robot capex cycle turned. Historical figures are as reported by the company (J-GAAP) from its tanshin and its published 11-year financial data, cross-checked against the Shared Research report of 11 November 2026; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -30,6 +30,7 @@ A global niche monopoly whose earnings are a factory-utilisation story: Harmonic
 *Source: Company 11-year financial data (HDS Report 2024 data profile, hds.co.jp) for FY3/17–FY3/24, relabelled to March year-ends (company labels by start year); FY3/25–FY3/26 from the FY3/26 tanshin, 13 May 2026; FY3/27E = company guidance as revised 11 Nov 2026. FY3/25 operating profit ¥7mn per the detailed statement (¥6mn truncated in the tanshin header); FY3/26 revenue/operating profit are the truncated header figures (statements round to ¥59,558mn/¥2,568mn — see Basis of preparation).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥396.2bn |
@@ -40,6 +41,7 @@ A global niche monopoly whose earnings are a factory-utilisation story: Harmonic
 | Next event | Q3 FY3/27 results, early Feb 2027 |
 
 ## Key points
+
 - **Second guidance raise of the year; H1 orders +71%.** On 11 November 2026 the company raised FY3/27 guidance for the second time — revenue ¥68,000mn (May) to ¥74,500mn (August) to ¥78,000mn, **operating profit ¥6,200mn to ¥8,500mn to ¥10,200mn**, net income to parent ¥4,500mn to ¥6,000mn to ¥7,200mn, EPS ¥76.05 — and lifted the year-end dividend forecast from ¥10 to ¥16 (annual ¥28). H1 order intake was about ¥50,390mn (+70.7% YoY, as reported from the Q2 filing by third-party summaries of the results materials) after Q1 intake of ¥24,128mn (+55.7%) took the backlog to ¥29,457mn (+45.6%). FX assumptions for the revised forecast: USD/JPY 157.0, EUR/JPY 180.0, CNY/JPY 23.0. Source: Q2 FY3/27 tanshin and forecast-revision notice, 11 November 2026; Q1 FY3/27 results materials, 7 August 2026.
 - **H1 FY3/27: the operating leverage, in one half.** H1 (April–September 2026) revenue was ¥36,124mn (+29.8% YoY), **operating profit ¥4,205mn (+803.5%)**, ordinary profit ¥4,084mn and net income to parent ¥2,986mn; H1 EPS was ¥31.54. Gross margin recovered to 35.4% from 28.6% in the prior-year half as Nagano plant utilisation refilled. H1 delivered 46.3% of guided full-year revenue but only 41.2% of guided operating profit, so the ¥10,200mn full-year operating target depends on H2 order conversion and mix. Source: Q2 FY3/27 tanshin, 11 November 2026.
 - **Strength — no mass-production rival in precision strain-wave gears.** Shared Research records that **no competitor mass-produces strain-wave gears of equivalent precision**; the moat is the combination of the strain-wave principle itself, thin-walled flexspline materials and machining, and long qualification cycles at robot, semiconductor-equipment and medical-device makers. The FY3/26 sales split by category was reducers ¥46,333mn (77.8% of revenue) and mechatronics about ¥13,224mn (22.2%, derived as the residual), so the gear itself remains the profit core. Source: Shared Research report on 6324, 11 November 2026 (teardown notes); company FY3/26 results presentation, 21 May 2026 (category sales as compiled by third-party research summaries).
@@ -56,95 +58,23 @@ The FY3/24–FY3/26 trough is the second lesson. Revenue fell 22.0% to ¥55,796m
 
 The balance sheet has carried the group through both troughs. Total assets were ¥111,400mn and net assets ¥80,390mn at 31 March 2026 (equity ratio 72.2%; book value per share ¥849.20); net assets had been ¥113,277mn at the FY3/19 peak and ¥79,401mn at March 2024 after the FY3/24 loss. Cash and deposits were ¥21,564mn at March 2026 against borrowings of ¥13,219mn (short-term ¥2,204mn, current portion of long-term ¥1,890mn, long-term ¥9,125mn) plus lease liabilities — the company is in a modest net-cash position on this definition before leases. Operating cash flow was ¥6,425mn in FY3/26 (FY3/25: ¥7,516mn; FY3/24: ¥12,728mn) and cash and equivalents ended FY3/26 at ¥19,091mn. Depreciation was ¥7,361mn in FY3/26, so the EBITDA proxy (operating profit + depreciation) was about ¥9,928mn — the cash earnings power that the P/E on reported EPS obscures. Dividends were held at ¥20 per share through FY3/24–FY3/26 (payout ratio 117.7% in FY3/26 on EPS of ¥16.99, as reported), a deliberate through-cycle signal. Source for this chapter: company 11-year financial data (HDS Report 2024 data profile, hds.co.jp); FY3/26 tanshin, 13 May 2026; Q2 FY3/27 tanshin, 11 November 2026.
 
-**Figure: Harmonic Drive Systems Inc. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 30069 |
-
-| FY3/18 | 54339 |
-
-| FY3/19 | 67809 |
-
-| FY3/20 | 37487 |
-
-| FY3/21 | 37034 |
-
-| FY3/22 | 57087 |
-
-| FY3/23 | 71527 |
-
-| FY3/24 | 55796 |
-
-| FY3/25 | 55645 |
-
-| FY3/26 | 59557 |
+**Figure 2. Harmonic Drive Systems Inc. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Harmonic Drive Systems Inc. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 7813 |
-
-| FY3/18 | 12316 |
-
-| FY3/19 | 16624 |
-
-| FY3/20 | -195 |
-
-| FY3/21 | 865 |
-
-| FY3/22 | 8739 |
-
-| FY3/23 | 10224 |
-
-| FY3/24 | 124 |
-
-| FY3/25 | 7 |
-
-| FY3/26 | 2567 |
+**Figure 3. Harmonic Drive Systems Inc. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Harmonic Drive Systems Inc. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 26 |
-
-| FY3/18 | 22.7 |
-
-| FY3/19 | 24.5 |
-
-| FY3/20 | -0.5 |
-
-| FY3/21 | 2.3 |
-
-| FY3/22 | 15.3 |
-
-| FY3/23 | 14.3 |
-
-| FY3/24 | 0.2 |
-
-| FY3/25 | 0 |
-
-| FY3/26 | 4.3 |
+**Figure 4. Harmonic Drive Systems Inc. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Harmonic Drive Systems Inc. — revenue and operating margin**
+**Figure 5. Harmonic Drive Systems Inc. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Harmonic Drive Systems Inc. — revenue vs operating profit**
+**Figure 6. Harmonic Drive Systems Inc. — revenue vs operating profit**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -194,49 +124,7 @@ Market structure favours the incumbent at the precision end. In strain-wave gear
 
 Demand context at initiation is strongly positive but late-cycle in character. The company's own order book (Chapter 5) is the hardest evidence: ==H1 FY3/27 intake up about 71% YoY with semiconductor-equipment orders reportedly up about 178% in Q2==, on the same AI-capex wave lifting the whole Japanese equipment complex. The humanoid field is the option on top: management's new mid-term plan names AI robots as a focus field, but disclosed AI/humanoid order amounts remain small (about ¥200mn in Q2 FY3/27 on reported results commentary, with about ¥1,000mn expected in Q3), and the company has not published humanoid unit or revenue targets. Readers should therefore underwrite the robot and semiconductor-equipment recovery that is in the filings, and treat humanoid volume production as unpriced optionality rather than as a forecast input. Sources: Shared Research report on 6324, 11 November 2026; Q1/Q2 FY3/27 results materials and commentary, August and November 2026; company mid-term plan materials, 2026.
 
-**Figure: Harmonic Drive Systems in the motion-components value chain**
-
-**Raw Materials**
-
-- Bearing steel, special steel: Daido
-- NdFeB, ferrite magnets: Shin-Etsu, TDK
-- Copper, aluminium, resins, seals
-- Winding wire: Sumitomo Electric
-
-**Element Processing**
-
-- Grinding, superfinishing
-- Gear cutting, gear grinding
-- Heat treatment
-- Winding, precision casting
-
-**Harmonic Drive Systems Inc. (6324)**
-
-- Strain-wave gears — HarmonicDrive® reducers (77.8% of FY3/26 sales)
-- Planetary reducers — Harmonic Planetary®, AccuDrive®
-- Mechatronics — actuators, motors, encoders, drivers (22.2%)
-- Total Motion Control integrated modules
-
-**Units & Modules**
-
-- Joint modules: motor + reducer + driver
-- Electric actuators: THK, SMC
-- Hydraulic units
-- Guide-integrated actuators
-
-**Distribution & Integration**
-
-- Catalogue/EC: Misumi, MonotaRO
-- Trading houses: Yamazen, Yuasa, Trusco
-- Direct sales: SMC, THK
-- Equipment assembly, system integration
-
-**End OEMs & Service**
-
-- Machine tools, semiconductor equipment
-- Industrial robots, construction machinery
-- Automotive, medical equipment
-- Spares, condition monitoring, overhaul
+**Figure 7. Harmonic Drive Systems in the motion-components value chain**
 
 *Source: FIELDNOTES sector report §4 (motion components value chain); company product categories from §3 of this report.*
 
@@ -250,7 +138,7 @@ FY3/26 external sales and segment profit (ordinary-profit basis) were: Japan ¥2
 
 The patterns to monitor are three. **Japan is the manufacturing hub: its 13.9% segment margin in FY3/26** (¥3,693mn on ¥26,626mn) reflects parent-company production for the group, so Japan's margin is the cleanest read on Nagano utilisation. China is the swing segment: sales fell 28.0% in FY3/26 on weak industrial-robot demand even as segment profit rose on mix, and China is where local strain-wave competition is most direct. Europe is structurally diluted by the SE intangible amortisation (customer-related assets of ¥9,187mn and technical assets of ¥2,453mn remained on the March 2026 balance sheet), so Europe's reported margin understates its cash contribution until that amortisation rolls off. In H1 FY3/27 the tanshin reports sales growth in all four segments, led by Japan, Europe and North America, with a rising overseas sales ratio supporting profit. Source: FY3/26 tanshin, 13 May 2026 (segment narrative and segment note); Q2 FY3/27 tanshin, 11 November 2026; Shared Research report on 6324, 11 November 2026.
 
-**Exhibit 2. Geographic segments (entity location) — external sales and segment profit (ordinary-profit basis)**
+**Figure 8. Exhibit 2. Geographic segments (entity location) — external sales and segment profit (ordinary-profit basis)**
 
 | ¥mn | FY3/25 sales | FY3/26 sales | FY3/26 sales growth (%) | FY3/25 segment profit | FY3/26 segment profit |
 |---|---|---|---|---|---|
@@ -268,7 +156,7 @@ Orders are the leading indicator this company is managed by, and the disclosure 
 
 The investment-relevant distinction is between the two order engines. The semiconductor-equipment engine is tied to AI-driven wafer-fab capex and is growing fastest (Q2 orders reportedly +178% YoY) but is the most cyclical and the most prone to the double-ordering that produced the FY3/24 air pocket. The robot engine — articulated robots restocking after destocking, collaborative robots, medical robots and, prospectively, humanoids — is broader but slower: industrial-robot orders grew about 26.5% in Q1 and about 51% in Q2 on the reported summaries, from a depressed base. Automotive parts (16.2% of the FY3/26 mix) was the declining leg in FY3/26, with Japan-segment automotive sales down on the year. Source: Q1 FY3/27 results materials, 7 August 2026; FY3/26 and Q2 FY3/27 results materials as summarised in third-party research, May and November 2026; Shared Research report on 6324, 11 November 2026.
 
-**Exhibit 3. FY3/26 sales by category and application mix, and the order book**
+**Figure 9. Exhibit 3. FY3/26 sales by category and application mix, and the order book**
 
 | Item | ¥mn | Share / change |
 |---|---|---|
@@ -326,6 +214,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
