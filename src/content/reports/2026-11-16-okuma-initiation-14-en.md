@@ -11,7 +11,7 @@ lang: en
 
 Single-source machine tools at a cyclical inflection: Okuma Corporation (6103, TSE Prime) is a comprehensive machine-tool builder that designs and manufactures both the machine and its CNC control (the proprietary OSP) in-house — its long-standing 'single source' model. The investment case at initiation rests on an order cycle that has rarely been stronger: **order intake in H1 FY3/27 (April–September 2026) was a record ¥161,440mn (+44.4% YoY)** and the order backlog reached ¥144,716mn at end-September 2026, while full-year FY3/27 company guidance (unchanged at Q2, 4 November 2026) calls for revenue of ¥260,000mn and operating profit of ¥26,000mn, a 10.0% operating margin. Strengths: (1) a differentiated product core in multitasking machines (MULTUS series) and five-axis machining centres, the process-integration categories customers are buying for labour-saving and automation; (2) disclosure quality unusual in the sector — order intake, backlog and product sales are published in every quarterly tanshin; (3) a fortress balance sheet (equity ratio 69.6% at end-September 2026) and a new shareholder-return policy of a payout ratio of 35% or more under Mid-term Management Plan 2028. Weaknesses: (1) profitability has not kept pace with scale — **the operating margin fell from 11.1% in FY3/24 to 6.6% in FY3/26 and ROE was 5.3% in FY3/26**, below the level the previous mid-term plan targeted, as personnel investment, parts costs and US tariffs absorbed volume gains; (2) the geographic segment structure (entity location) shows Japan carrying group profit while Europe earned a segment margin of only 2.0% in FY3/26; (3) the business remains a classic capital-goods cycle exposure — Japan Machine Tool Builders' Association (JMTBA) orders are at all-time highs in late 2026, and Okuma's own history (revenue −9.3% and operating profit −42.2% in FY3/25) shows how quickly the cycle can reverse. All historical figures in this report are as reported by the company (J-GAAP) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -30,6 +30,7 @@ Single-source machine tools at a cyclical inflection: Okuma Corporation (6103, T
 *Source: Company results via PL/segment sheet (tanshin, JPX archive); FY3/27E = company guidance (Q2 FY3/27 tanshin, 4 Nov 2026). EPS split-adjusted for the 2-for-1 split of 1 Oct 2024 (FY3/22–23 calculated from as-reported pre-split EPS). Dividend FY3/23–24 shown split-adjusted from as-reported ¥180 / ¥200; FY3/25 ¥100 is the split-adjusted equivalent of the as-reported ¥150 mixed-basis total. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥258.4bn |
@@ -40,6 +41,7 @@ Single-source machine tools at a cyclical inflection: Okuma Corporation (6103, T
 | Next event | Q3 FY3/27 results, early Feb 2027 |
 
 ## Key points
+
 - **Record orders, record backlog.** H1 FY3/27 order intake was **¥161,440mn (+44.4% YoY)**, which the company describes as a record, and the backlog rose to ¥144,716mn at 30 September 2026 (+40.5% YoY) — a book-to-bill of 1.37x for the half. Full-year FY3/27 order guidance was raised to ¥276,000mn on 5 August 2026 (from ¥250,000mn). Source: Q2 FY3/27 tanshin, 4 November 2026; company revision notice, 5 August 2026.
 - **Guidance implies a sharp margin step-up.** FY3/27 company guidance — revenue ¥260,000mn (+10.2% YoY), **operating profit ¥26,000mn (+67.7%)**, ordinary profit ¥26,500mn, net income to parent ¥20,000mn, EPS ¥343.81 — was raised at Q1 and left unchanged at Q2. H1 delivered 45.4% of guided revenue and 46.3% of guided operating profit, so delivery depends on converting the record backlog in H2. Source: Q2 FY3/27 tanshin, 4 November 2026.
 - **Strength — the single-source model and mix.** Okuma develops the machine and the OSP CNC control together, and its mix is weighted to process-integration machines: in FY3/26 **machining centres were 56.1% of product sales and multitasking machines 25.8%**, against 14.5% for NC lathes. Its Thermo-Friendly Concept and 'Green-Smart Machine' positioning target precision stability and energy saving, the two specifications aerospace, defence, data-centre/energy and semiconductor-equipment customers are currently paying for. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin qualitative section.
@@ -60,91 +62,19 @@ The balance sheet is conservatively financed. Total assets were ¥340,386mn and 
 
 Orders frame the cycle. Total order intake was ¥215,282mn in FY3/22, ¥247,469mn in FY3/23, ¥204,019mn in FY3/24, ¥215,627mn in FY3/25 and ¥240,844mn in FY3/26; the period-end backlog was ¥91,789mn, ¥111,621mn, ¥87,646mn, ¥96,452mn and ¥101,407mn respectively. Depreciation and amortisation was ¥9,288mn in FY3/26, giving an EBITDA proxy (operating profit + D&A) of ¥24,793mn. The full KPI table, including FY3/27 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26.
 
-**Figure: Okuma Corporation — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 162679 |
-
-| FY3/18 | 182130 |
-
-| FY3/19 | 211732 |
-
-| FY3/20 | 172094 |
-
-| FY3/21 | 123394 |
-
-| FY3/22 | 172809 |
-
-| FY3/23 | 227636 |
-
-| FY3/24 | 227994 |
-
-| FY3/25 | 206822 |
-
-| FY3/26 | 235888 |
+**Figure 2. Okuma Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Okuma Corporation — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 15560 |
-
-| FY3/18 | 22493 |
-
-| FY3/19 | 27575 |
-
-| FY3/20 | 14995 |
-
-| FY3/21 | 4820 |
-
-| FY3/22 | 14462 |
-
-| FY3/23 | 24804 |
-
-| FY3/24 | 25364 |
-
-| FY3/25 | 14651 |
-
-| FY3/26 | 15505 |
+**Figure 3. Okuma Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Okuma Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 9.6 |
-
-| FY3/18 | 12.3 |
-
-| FY3/19 | 13 |
-
-| FY3/20 | 8.7 |
-
-| FY3/21 | 3.9 |
-
-| FY3/22 | 8.4 |
-
-| FY3/23 | 10.9 |
-
-| FY3/24 | 11.1 |
-
-| FY3/25 | 7.1 |
-
-| FY3/26 | 6.6 |
+**Figure 4. Okuma Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Okuma Corporation — revenue and operating margin**
+**Figure 5. Okuma Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -194,49 +124,7 @@ The value chain runs from components (castings, ball screws, spindles, servo mot
 
 For Okuma specifically, three market sensitivities follow from its disclosure. First, the US is the single largest demand pool: 29.4% of H1 FY3/27 revenue by customer location (overseas-sales note), and the Americas segment (entity location) was 29.0% of FY3/26 segment sales — so US capex, the dollar and US tariff policy transmit directly; management cited tariff cost effects during FY3/26. Second, China was 15.4% of H1 FY3/27 revenue by customer location and is contested by both local builders and export-control risk. Third, the demand mix driving the 2026 record — data centres, semiconductors, aerospace/defence — is capex-concentrated and policy-sensitive; Okuma's backlog gives near-term visibility, but order intake, published every quarter by product, is the variable that will show any turn first. Sources: JMTBA flash statistics via press reports, 11 November 2026; company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin overseas-sales note.
 
-**Figure: Okuma in the machine-tool value chain**
-
-**Materials & Machine Structures**
-
-- Castings: beds, columns
-- Structural steel
-- In-house: DMG Mori, Okuma
-- In-house: Yamazaki Mazak
-
-**Precision Components**
-
-- Ball screws, linear guides: THK
-- Spindles, bearings: NSK, JTEKT
-- Measurement: Renishaw, HEIDENHAIN
-- Taiwan: HIWIN
-
-**Control & Drive Systems**
-
-- CNC: Fanuc, Mitsubishi Electric, Siemens
-- Servo, spindle drives: Yaskawa
-- PLC, motion, safety control
-- Sensors, machine vision: Keyence, Omron
-
-**Okuma Corporation (6103)**
-
-- Machining centres — 56.1% of FY3/26 product sales
-- Multitasking machines (MULTUS) — 25.8%
-- NC lathes — 14.5%; NC grinders
-- OSP CNC control developed in-house ('single source')
-
-**Distribution, Integration & Service**
-
-- Trading houses: Yamazen
-- Automation cells, system integrators
-- CAD/CAM, monitoring software
-- Maintenance, retrofit, used machines
-
-**End Customers**
-
-- Automotive OEMs, Tier 1s
-- Semiconductor equipment makers
-- Aerospace & defence
-- AI data centres, medical, general machinery
+**Figure 6. Okuma in the machine-tool value chain**
 
 *Source: FIELDNOTES sector report §4 (machine tools & FA value chain); company product mix from §3 of this report.*
 
@@ -244,47 +132,15 @@ For Okuma specifically, three market sensitivities follow from its disclosure. F
 
 Okuma's order disclosure is the most informative part of its reporting and the part of this initiation with the hardest data. Two cuts are published: geographic reportable segments (entity location) in the segment note, and orders/backlog/sales by product in the orders note, both in every tanshin.
 
-**Figure: Okuma Corporation — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Japan — sales | 117355 |
-
-| Americas — sales | 68495 |
-
-| Europe — sales | 34351 |
-
-| Asia-Pacific — sales | 15686 |
+**Figure 7. Okuma Corporation — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Okuma Corporation — segment revenue by year**
+**Figure 8. Okuma Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Okuma Corporation — segment revenue mix, FY3/26**
-
-**Japan**
-
-- ¥117,355mn
-- 49.8% of revenue
-
-**Americas**
-
-- ¥68,495mn
-- 29.0% of revenue
-
-**Europe**
-
-- ¥34,351mn
-- 14.6% of revenue
-
-**Asia-Pacific**
-
-- ¥15,686mn
-- 6.6% of revenue
+**Figure 9. Okuma Corporation — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -294,7 +150,7 @@ Reportable segments are Japan, the Americas, Europe and Asia-Pacific, based on t
 
 Two patterns stand out. **Japan is both the largest segment (49.7% of FY3/26 segment sales) and the profit engine**, but its margin has compressed every year since FY3/23 (16.6% → 15.1% → 9.6% → 7.5%), because the Japan segment carries the group's manufacturing cost base — personnel investment, parts inflation and export mix land there first. The overseas sales companies, by contrast, earn distribution-like margins on transferred product: the Americas peaked at 9.4% in FY3/23 and has since halved to 4.3%, and Europe has fallen from 7.2% (FY3/23–24) to 2.0%. Readers should not map these segments to end-demand: because they are entity-location based, 'Japan' sales include exports manufactured in Japan, and no customer-location segment profit is disclosed. The customer-location view exists only as the overseas-sales note (H1 FY3/27: overseas ratio 71.5%; US 29.4%, Europe 15.4%, China 15.4% of revenue). In H1 FY3/27 the segment note (including intersegment sales) showed Japan segment profit of ¥7,794mn and the Americas ¥5,197mn, against small losses in Europe (−¥119mn) and Asia-Pacific (−¥53mn), with a −¥773mn adjustment to consolidated operating profit of ¥12,045mn — the overseas sales entities' half-year margins remain the weak point even in a record order environment. Source: company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin segment note.
 
-**Exhibit 2. Geographic segments (entity location) — external sales and segment profit (operating profit)**
+**Figure 10. Exhibit 2. Geographic segments (entity location) — external sales and segment profit (operating profit)**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -317,7 +173,7 @@ Total order intake and the period-end backlog (¥mn) were: FY3/22 ¥215,282mn / 
 
 The momentum into FY3/27 is strong on this disclosure: H1 intake of ¥161,440mn was split machining centres ¥84,584mn, multitasking ¥45,611mn, NC lathes ¥25,449mn, grinders ¥1,573mn and other ¥4,220mn, **lifting the backlog to ¥144,716mn at September 2026** — equivalent to about 55% of the FY3/27 revenue guidance and 61% of FY3/26 revenue. Multitasking machines are the fastest-compounding line: order intake rose from ¥49,935mn (FY3/22) to ¥66,714mn (FY3/26) and H1 FY3/27 alone added ¥45,611mn (+57% YoY), consistent with the process-integration demand described in Chapter 4. The watch item is symmetrical: this same note showed intake falling to ¥204,019mn in FY3/24 within a year of the FY3/23 record, and it will be the first place a data-centre or semiconductor capex pause appears. Source: company results via PL/segment sheet (tanshin, JPX archive), orders note (register S4); Q2 FY3/27 tanshin orders note.
 
-**Exhibit 3. Order intake and period-end backlog by product, and product sales**
+**Figure 11. Exhibit 3. Order intake and period-end backlog by product, and product sales**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -381,6 +237,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
