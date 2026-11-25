@@ -172,6 +172,6 @@ Sources: company FY3/2026 results release (12 May 2026) including segment and re
 
 Rating (as stated in the report): Overweight
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
