@@ -11,7 +11,7 @@ lang: ja
 
 A debt-free drill maker at the choke point of the AI-server board build-out, repricing its niche twice in seven months: Union Tool Co. (6278, TSE Prime) is the Niigata-based maker of carbide drills for printed circuit boards (PCBs) — the consumable tool that drills the holes in package substrates and high-multilayer boards for AI servers and data centres — alongside carbide end mills, linear-motion products and other cutting tools. It reports four regional segments by entity location (Japan / Asia / North America / Europe), is debt-free with an equity ratio of 90.7% at December 2025, and builds much of its own production equipment in-house. The initiation question is how much of the current step-change is durable. The step-change itself is not in doubt: FY12/25 closed at record revenue of ¥40,165mn (+23.2% YoY) and record operating profit of ¥8,728mn (21.7% margin), and in the nine months to September 2026 revenue reached ¥43,330mn (+54.7% YoY) with operating profit of ¥13,581mn (+105.3%, a 31.3% margin) — nine-month revenue alone above the whole of FY12/25. **Full-year FY12/26 company guidance has been raised three times in nine months, from ¥45,000mn / ¥10,000mn on 12 February 2026 to ¥60,200mn / ¥19,000mn on 11 November 2026 (company guidance)**. Strengths: (1) a genuine niche choke point — PCB drills are a small-cost, high-criticality consumable, **the company cites a world share of roughly 30% (company estimate, via the interview pack)**, and demand is being pulled by AI package-substrate and high-layer-count board capacity, with high-value ULF-coated drills at 36.9% of drill unit volume in June 2026 (company briefing materials); (2) demonstrated pricing power — PCB tools were raised +15% or +20%+ by item from January 2026 shipments and PCB drills a further +20%+ from July 2026 shipments (company price-revision notices), and the guide was still raised after both; (3) a fortress balance sheet funding the response — zero interest-bearing debt on every tanshin balance sheet in the sheet, ¥16,423mn of cash at December 2025, and an April 2026 financing (including a treasury-share disposal) taken specifically to fund the 2026–2028 investment plan (company briefing materials). Weaknesses: (1) the growth decomposition is undisclosed where it matters most — of the +54.7% nine-month revenue growth, units (H1 drill units +35% YoY, per a broker summary of company materials), ULF mix and the two price hikes are not bridged by the company, and price is the reversible component if tungsten/carbide costs normalise; (2) capacity is the binding constraint and the relief is late — orders are not disclosed (未取得), the company concedes orders exceed capacity only for large-shank end mills, and the big additions (Nagaoka Factory No. 6, completion June 2027; Mitsuke No. 4, targeted February 2028, investment amount undisclosed) land after the current demand wave peaks or not; (3) disclosure is thin for the rating the market now pays — no order intake or backlog, no unit or capacity disclosure in the tanshin, no quantified mid-term profit targets in the sources used, and no published Q&A — while the shares, even after falling about 61% from the June 2026 high of ¥27,150 to ¥10,560 on 16 November 2026, still trade at 29.8x FY12/25 earnings. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (J-GAAP, December year-end, FY12/16–FY12/25); the only forward figures are company guidance and company plan figures, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY12/16–FY12/25 actuals (J-GAAP, as reported) and FY12/26E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY12/16–FY12/25 actuals (J-GAAP, as reported) and FY12/26E company guidance**
 
 | ¥mn unless stated | FY12/16 | FY12/17 | FY12/18 | FY12/19 | FY12/20 | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 | FY12/26E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@ A debt-free drill maker at the choke point of the AI-server board build-out, rep
 *Source: Company results via PL/segment sheet (tanshin, JPX archive). FY12/16–20 converted from JPY-thousands tanshin at 3-decimal precision and rounded (register S12); FY12/16 statements from FY12/17 tanshin comparatives. EPS is basic (no dilutive securities); FY12/24–25 as reported in tanshin headers, other years calculated from sheet net income and weighted shares (FY12/17 weighted shares not carried in the history block — EPS shown as —). FY12/26E = company guidance as revised in the Q3 FY12/26 revision notice, 11 Nov 2026 (EPS ¥743.17; dividend ¥180).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥202.4bn |
@@ -37,6 +38,7 @@ A debt-free drill maker at the choke point of the AI-server board build-out, rep
 | Next event | FY12/26 full-year results, Feb 2027 |
 
 ## Key points
+
 - **9M FY12/26: nine months already bigger than FY12/25's full year.** For the nine months to 30 September 2026 (J-GAAP), revenue was ¥43,330mn (+54.7% YoY), operating profit ¥13,581mn (+105.3%; margin 31.3%, calculated), ordinary profit ¥14,323mn (+127.9%) and net income attributable to owners ¥10,510mn (+125.8%); EPS was ¥564.43. **Q3 standalone (derived: 9M minus H1, both as reported) contributed revenue of ¥16,275mn and operating profit of ¥5,986mn — a 36.8% margin** — so momentum accelerated into the quarter in which the July +20% drill price hike took effect. Source: Q3 FY12/26 tanshin, 11 November 2026 (via the programme's interview pack and transcript library); H1 FY12/26 briefing materials, 7 August 2026.
 - **Guidance raised three times — OP +90% against the February plan.** Full-year FY12/26 company guidance (会社計画) now stands at revenue ¥60,200mn, operating profit ¥19,000mn and owners' net income ¥14,000mn (EPS ¥743.17), revised up on 13 May 2026 (¥49,600mn / ¥13,000mn), 6 August 2026 (¥56,100mn / ¥16,800mn) and 11 November 2026 from the initial ¥45,000mn / ¥10,000mn / ¥7,200mn of 12 February 2026 — **three raises, verified against JPX/TDnet notices** (guidance tracker, 17 November 2026; the interview pack's 'raised twice' is superseded — see Basis of preparation). The dividend forecast was raised with the revisions to ¥180 per share. The guide implies Q4 revenue of ¥16,870mn and operating profit of ¥5,419mn (calculated) — no Q4 air pocket is assumed. Source: FY12/25 tanshin, 12 February 2026; revision notices of 13 May, 6 August and 11 November 2026.
 - **Strength — mix and price, not just volume: ULF at 36.9% of drill units.** H1 FY12/26 product detail (company briefing materials, English edition): PCB drill sales were ¥18,959mn (+54.0% YoY), of which Japan & Taiwan ¥16,727mn (+61.0%); cutting tools ¥5,046mn (+40.6%), linear-motion products ¥1,755mn (+20.4%) and others ¥1,294mn (+48.4%). **ULF-coated products reached 36.9% of PCB drill sales quantity in June 2026, and H1 drill unit sales rose 35% YoY to 252mn drills** (broker summary of company materials, via the interview pack) — volume, high-end mix and two price hikes are compounding in the same direction, which is why the operating margin expanded from 22.9% in H1 FY12/25 to 28.1% in H1 FY12/26 and 31.3% for 9M FY12/26. Source: H1 FY12/26 briefing materials, 7 August 2026; interview pack, 16 November 2026.
@@ -53,91 +55,19 @@ Below operating profit the J-GAAP lines are small by design: this is a company w
 
 The balance sheet absorbed every downturn without borrowing. Cash and equivalents rose from ¥6,007mn (FY12/16) to ¥16,423mn (FY12/25); interest-bearing debt is zero in all ten years as reported (register S6 — the tanshin balance sheet presents no borrowing or bond lines; lease liabilities are outside the sheet's debt definition). Total assets were ¥52,851mn at FY12/16 and ¥57,605mn at FY12/17 (tanshin qualitative text), ¥78,863mn at FY12/24 and ¥88,202mn at FY12/25, with net assets of ¥79,998mn and an equity ratio of 90.7% at December 2025 (92.7% a year earlier; the five-year tanshin series runs 91.5% / 92.0% / 95.3% / 92.7% / 90.7% for FY12/21–25). Operating cash flow was positive in all ten years: ¥3,637mn / ¥4,924mn / ¥4,554mn / ¥5,042mn / ¥5,072mn / ¥5,825mn / ¥6,707mn / ¥4,688mn / ¥7,283mn / ¥7,507mn. Working capital is the watch item as growth accelerates: receivables rose from ¥9,482mn (FY12/21) to ¥14,478mn (FY12/25) and inventory from ¥9,211mn to ¥11,708mn, with the FY12/25 cash-flow statement citing a ¥2,778mn receivables build as the main offset to profit. Exhibit 1 (page 1) gives the full KPI table including FY12/26 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY12/16–FY12/25; FY12/25 tanshin header and qualitative section, 12 February 2026.
 
-**Figure: Union Tool Co. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY12/16 | 20754 |
-
-| FY12/17 | 23189 |
-
-| FY12/18 | 24515 |
-
-| FY12/19 | 22878 |
-
-| FY12/20 | 22818 |
-
-| FY12/21 | 28174 |
-
-| FY12/22 | 29091 |
-
-| FY12/23 | 25338 |
-
-| FY12/24 | 32606 |
-
-| FY12/25 | 40165 |
+**Figure 2. Union Tool Co. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Union Tool Co. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY12/16 | 3050 |
-
-| FY12/17 | 3698 |
-
-| FY12/18 | 4176 |
-
-| FY12/19 | 3075 |
-
-| FY12/20 | 2864 |
-
-| FY12/21 | 5430 |
-
-| FY12/22 | 6190 |
-
-| FY12/23 | 3778 |
-
-| FY12/24 | 6878 |
-
-| FY12/25 | 8728 |
+**Figure 3. Union Tool Co. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Union Tool Co. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY12/16 | 14.7 |
-
-| FY12/17 | 15.9 |
-
-| FY12/18 | 17 |
-
-| FY12/19 | 13.4 |
-
-| FY12/20 | 12.6 |
-
-| FY12/21 | 19.3 |
-
-| FY12/22 | 21.3 |
-
-| FY12/23 | 14.9 |
-
-| FY12/24 | 21.1 |
-
-| FY12/25 | 21.7 |
+**Figure 4. Union Tool Co. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Union Tool Co. — revenue and operating margin**
+**Figure 5. Union Tool Co. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -157,7 +87,7 @@ Full-year FY12/26 guidance, as revised in the Q3 release of 11 November 2026, is
 
 Against guidance, nine-month progress was 72.0% on revenue and 71.5% on operating profit, so delivery requires a Q4 of ¥16,870mn of revenue and ¥5,419mn of operating profit (calculated) — revenue in line with Q3 standalone (¥16,275mn) but operating profit below Q3's ¥5,986mn, i.e. **the guide does not assume a Q4 air pocket, but neither does it extrapolate Q3's 36.8% margin**. Exhibit 3 sets out the FY12/26 build. The open questions the print leaves — the units/price/mix bridge behind +54.7%, whether drill demand is being pulled forward by substrate makers' capacity races, and realised (not list) pricing on the July hike — are the interview pack's live debates and are carried into Chapter 7's monitoring list. Source: FY12/25 tanshin section 3, 12 February 2026; revision notices of 13 May, 6 August and 11 November 2026 (JPX/TDnet); guidance tracker, 17 November 2026; rollout log fix entry, 17 November 2026.
 
-**Exhibit 3. FY12/26 build — H1 and 9M actuals, Q4 implied by guidance, and the guidance revision chain**
+**Figure 6. Exhibit 3. FY12/26 build — H1 and 9M actuals, Q4 implied by guidance, and the guidance revision chain**
 
 | ¥mn unless stated | H1 FY12/26 actual | 9M FY12/26 actual | Q4 FY12/26 implied (calc.) | FY12/26E guidance (11 Nov 2026) |
 |---|---|---|---|---|
@@ -197,49 +127,7 @@ Union Tool sits one step removed from the semiconductor cycle: it sells no chips
 
 Competitively, PCB micro-drills are a concentrated global niche: the company estimates its own world share at roughly 30% (company estimate, via the interview pack; no independent market-size or share series is disclosed in the sources used, and none is substituted). Rivals are Taiwanese and Chinese drill makers competing on price at the standard end, and the moat at the high end is process know-how — micro-diameter grinding precision, coating technology (the ULF range), and the self-built production equipment that makes unit costs and quality hard to replicate quickly. Entry barriers are qualification stickiness (a qualified drill in a substrate line is not switched for a small price gap when board scrap is the alternative) and accumulated application know-how by board type; the substitute risk is technological — laser drilling and other hole-formation methods at the finest pitches — which the sources used do not quantify, and which belongs on the monitoring list rather than in a forecast. The two sensitivities that follow for the equity: first, input costs — the 2026 price hikes were justified by the company as raw-material (carbide/tungsten) cost pass-through, so a normalisation in tungsten prices hands customers a clawback argument at 2027 renewals (interview pack debate); second, customer concentration is real but undisclosed — drill demand is levered to a handful of substrate makers' capex, the top-five share of drill sales is not disclosed (未取得), and with no order disclosure the first observable of any pause is the quarterly print itself. Sources: FY12/25 tanshin qualitative section; H1 FY12/26 briefing materials; interview pack, 16 November 2026.
 
-**Figure: Union Tool in the cutting-tools value chain**
-
-**Tungsten & Cobalt Mining**
-
-- Tungsten concentrates (WO3), cobalt
-- China: Minmetals, Xiamen Tungsten (~79%)
-- Almonty (Sangdong, Korea)
-- Nui Phao (Vietnam), Boguty (Kazakhstan)
-
-**Powders & Intermediates**
-
-- APT → oxides → W powder → WC powder
-- H.C. Starck (Mitsubishi Materials)
-- Nippon New Metal, Allied Material
-- Plansee/CERATIZIT, Xiamen Golden Egret
-
-**Cemented-Carbide Blanks**
-
-- Sintered WC-Co rods & plates
-- Mitsubishi Materials, Sumitomo Electric
-- CERATIZIT, Kennametal, Hyperion
-- ZCC (China)
-
-**Union Tool Co. (6278)**
-
-- PCB carbide drills — incl. ULF-coated range (36.9% of drill units, Jun 2026)
-- Carbide end mills — moulds, dies, precision parts
-- Linear-motion products
-- In-house production equipment — self-built grinding/coating lines
-
-**Peripherals & Distribution**
-
-- Holders: BIG Daishowa, NT Tool
-- Workholding, cutting oils, presetters: Zoller
-- Trading houses: Yamazen, Yuasa, NaITO
-- VMI / vending, tool management
-
-**End Users & Recycling**
-
-- Automotive: Toyota, Denso, GM, BYD
-- Aerospace: GE Aerospace, Rolls-Royce, IHI
-- PCB drills: Ibiden, Shinko, AT&S
-- Regrinding, used-carbide recycling
+**Figure 7. Union Tool in the cutting-tools value chain**
 
 *Source: FIELDNOTES sector report §4 (cutting tools value chain); company product lines from §3 of this report.*
 
@@ -247,61 +135,15 @@ Competitively, PCB micro-drills are a concentrated global niche: the company est
 
 Union Tool's tanshin disclosure gives two complete, separate cuts: reportable segments by entity location (Japan / Asia / North America / Europe, external sales and operating profit) in the segment note, and sales by customer location from the overseas-sales note (supplement (2): Asia / North America / Europe / Other as disclosed, Japan as the exact residual — sheet register S4). Regional profit on the customer-location basis is not disclosed. The two cuts answer different questions — where value is produced versus where it is consumed — and are kept separate and labelled throughout this chapter, as is the product-department view of Chapter 3.
 
-**Figure: Union Tool Co. — segment revenue, FY12/25**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Japan (entity) — external revenue | 12646 |
-
-| Asia (entity) — external revenue | 23030 |
-
-| North America (entity) — external revenue | 2037 |
-
-| Europe (entity) — external revenue | 2450 |
-
-| Supplementary (dept): Cutting tools — sales | 37400 |
-
-| Supplementary (dept): Other businesses — sales | 2764 |
+**Figure 8. Union Tool Co. — segment revenue, FY12/25**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Union Tool Co. — segment revenue by year**
+**Figure 9. Union Tool Co. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Union Tool Co. — segment revenue mix, FY12/25**
-
-**Supplementary (dept): Cutting tools**
-
-- ¥37,400mn
-- 46.6% of revenue
-
-**Asia (entity)**
-
-- ¥23,030mn
-- 28.7% of revenue
-
-**Japan (entity)**
-
-- ¥12,646mn
-- 15.7% of revenue
-
-**Supplementary (dept): Other businesses**
-
-- ¥2,764mn
-- 3.4% of revenue
-
-**Europe (entity)**
-
-- ¥2,450mn
-- 3.1% of revenue
-
-**North America (entity)**
-
-- ¥2,037mn
-- 2.5% of revenue
+**Figure 10. Union Tool Co. — segment revenue mix, FY12/25**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -309,7 +151,7 @@ Union Tool's tanshin disclosure gives two complete, separate cuts: reportable se
 
 Exhibit 2 gives the five-year history on the basis disclosed in each year's own tanshin (external sales; segment profit = operating profit). Three facts organise it. First, Japan is the profit engine on this basis: FY12/25 external sales of ¥12,646mn with segment profit of ¥4,214mn — and on the tanshin's qualitative basis (sales including intersegment transfers) Japan segment sales were ¥25,906mn (+15.5% YoY) with the same ¥4,214mn of profit, the difference being drills produced in Nagaoka and sold through group entities abroad; Japan segment profit actually fell 15.5% YoY in FY12/25 despite record group profit, which the company attributes to the cost burden of the large-scale capacity build at Nagaoka. Second, Asia is the inflection: external sales of ¥23,030mn in FY12/25 (57.3% of the group) with segment profit of ¥3,150mn, up 107.7% YoY (tanshin qualitative basis: sales ¥24,259mn, +33.0%), as Taiwan/China plant utilisation rose on AI-substrate demand — **Asia segment profit had been just ¥279mn in FY12/23 on sales of ¥11,555mn, so the segment's operating leverage, not Japan's, explains most of the group's FY12/24–25 profit step-up**. Third, the Western segments are small and currently soft: North America sales ¥2,037mn / profit ¥89mn (−48.3% YoY on the qualitative basis) and Europe ¥2,450mn / ¥114mn (−40.7%) in FY12/25 — distribution-margin businesses whose FY12/25 profit fell even as the group set records, a reminder that the AI demand wave is geographically narrow. The segment-profit adjustment to consolidated operating profit was −¥169mn / −¥459mn / +¥532mn / +¥8mn / +¥1,161mn across FY12/21–25 (as carried in the sheet) — the positive FY12/24–25 adjustments are as reported and are not re-explained here. The ten-year view (history block, as originally reported) shows the same structure at smaller scale: in FY12/16 Japan earned ¥1,676mn and Asia ¥724mn of segment profit; Asia's sales first passed Japan's (entity basis) in FY12/17 and never gave the lead back. Source: company results via PL/segment sheet (tanshin segment note, JPX archive); FY12/25 tanshin qualitative section.
 
-**Exhibit 2. Segments (entity location) and departments — external revenue and profit, FY12/21–FY12/25**
+**Figure 11. Exhibit 2. Segments (entity location) and departments — external revenue and profit, FY12/21–FY12/25**
 
 | ¥mn | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 |
 |---|---|---|---|---|---|
@@ -376,6 +218,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
