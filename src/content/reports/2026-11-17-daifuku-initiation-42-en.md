@@ -11,7 +11,7 @@ lang: en
 
 Material handling's global leader, repriced as a semiconductor-capex name: Daifuku Co., Ltd. (6383, TSE Prime) is the Osaka-based material-handling group whose systems move things inside factories, warehouses, semiconductor fabs and airports: intralogistics systems for general manufacturing and distribution, cleanroom transport systems for semiconductor production lines, automotive production-line systems and airport systems, plus the Contec electronics business. Unusually, its reportable segments are not those business fields but its core group entities — the parent company, Contec, Daifuku North America (DNA), Clean Factomation (CFI, Korea) and Daifuku (Suzhou) (DSA, China) — and segment profit is defined on an owners'-net-income basis, not operating profit (PL/segment sheet register S4/S5). The initiation question is whether the current order surge is a cycle peak or a new earnings base. The demand evidence is extreme: **in the nine months to September 2026 orders reached ¥781,230mn (+56.5% YoY), already above the previous full-year record**, with CFI's orders up 199.2% YoY on generative-AI semiconductor investment (interview pack, from the Q3 FY2026 tanshin/briefing of 11 November 2026), and full-year FY2026 company guidance was raised for the second time to revenue of ¥770,000mn and operating profit of ¥119,000mn (J-GAAP). Strengths: (1) a decade of margin rebuild — the operating margin rose from 7.2% in FY3/17 to 15.3% in FY12/25, with operating profit exceeding ¥100bn for the first time in FY12/25 (¥100,816mn) on production-efficiency and project-management gains the company itself cites; (2) order visibility — **the order backlog at September 2026 was a record ¥929.4bn (briefing materials only; backlog is not disclosed in the tanshin), roughly 1.2x guided FY2026 revenue (calculated)**; (3) a net-cash balance sheet (cash ¥245,256mn against interest-bearing debt of ¥61,380mn at December 2025, per the PL/segment sheet) funding a ¥40bn buyback and a dividend raised to a forecast ¥90 for FY2026 under a payout policy of 35% or more. Weaknesses: (1) concentration — electronics was 52.8% of 9M FY2026 orders, and the FY2026 guidance raise rests partly on cleanroom revenue pulled forward from FY2027 and on the July 2026 consolidation of Eisenmann GmbH, not only on new demand (company-stated reasons, Q3 FY2026); (2) margin is diluting at the margin — the 9M FY2026 operating margin of 15.1% was 0.4pt below the prior year despite revenue up 13.9%, as growth and acquired work enter the mix; (3) comparability breaks everywhere — the fiscal year-end changed from March to December, so FY12/24 is a transitional nine-month period (April–December 2024) that is never annualised in this report, FY12/25 growth is shown only against the company's adjusted same-period reference values, a 3-for-1 share split (1 April 2023) breaks the per-share series, order intake changed basis in FY12/25 (opening-backlog FX revaluation excluded), and the accounts switch voluntarily to IFRS from the FY2026 year-end, with FY2026 operating profit guided at ¥117,000mn on IFRS against ¥119,000mn on J-GAAP. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY12/25 actuals (J-GAAP, as reported) and FY12/26E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY12/25 actuals (J-GAAP, as reported) and FY12/26E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY12/24T (9M) | FY12/25 | FY12/26E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -30,6 +30,7 @@ Material handling's global leader, repriced as a semiconductor-capex name: Daifu
 *Source: Company results via PL/segment sheet (tanshin, JPX archive): main block FY3/22–FY12/25 and supplementary history block FY3/17–FY3/21. FY12/24T is the transitional nine-month period (Apr–Dec 2024) — entered exactly as disclosed, never annualised; the company prints no YoY growth for FY12/24T or FY12/25 (prior period is nine months), hence '—'. EPS is the sheet's calculated basic EPS (owners' net income / weighted shares as reported in each year): the 3-for-1 split on 1 Apr 2023 breaks the series (pre-split counts through FY3/22, post-split from FY3/23). FY12/26E = company guidance as revised in the Q3 FY2026 tanshin, 11 Nov 2026 (orders guidance is a range; operating profit on J-GAAP — IFRS reference ¥117,000mn; guided revenue growth +16.5% YoY as stated by the company). Interest-bearing debt = borrowings and bonds as presented (sheet definition).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥1,677.1bn |
@@ -40,6 +41,7 @@ Material handling's global leader, repriced as a semiconductor-capex name: Daifu
 | Next event | FY2026 full-year results, Feb 2027 |
 
 ## Key points
+
 - **9M FY2026: orders ¥781,230mn already beat the previous full-year record.** For the nine months to 30 September 2026 (J-GAAP), orders received were ¥781,230mn (+56.5% YoY), revenue ¥553,776mn (+13.9%), operating profit ¥83,487mn (+11.0%; margin 15.1%, −0.4pt YoY), ordinary profit ¥85,928mn (+10.8%) and net income attributable to owners ¥63,284mn (+8.2%); basic EPS was ¥171.15. Revenue, operating profit and orders were all nine-month records, and **the order backlog at 30 September 2026 was a record ¥929.4bn including about ¥36bn from Eisenmann GmbH, consolidated on 1 July 2026** (briefing materials; backlog is not numerically disclosed in the tanshin — sheet register S10/S13). Q3 standalone (derived as 9M minus H1, both as reported) contributed revenue of ¥198,263mn (+24.3% YoY on the same derivation) and operating profit of ¥26,807mn (+11.2%). Source: Q3 FY2026 tanshin, 11 November 2026; Q2 FY2026 tanshin, 6 August 2026; interview pack.
 - **Guidance raised twice — revenue ¥770,000mn, operating profit ¥119,000mn (company guidance).** Full-year FY2026 company guidance (J-GAAP) was raised on 11 November 2026 to revenue ¥770,000mn (initial ¥700,000mn on 12 February 2026; ¥735,000mn at Q2 on 6 August 2026), operating profit ¥119,000mn (initial ¥105,000mn; then ¥113,000mn), ordinary profit ¥122,000mn, owners' net income ¥89,500mn and EPS ¥241.95; orders guidance is a range of ¥970,000mn–¥1,000,000mn. On the voluntary IFRS basis adopted from the FY2026 year-end, the same year's operating profit is guided at ¥117,000mn and owners' net income at ¥87,500mn — the two bases are kept separate throughout this report. **The company-stated reasons for the Q3 raise are smooth progress on the opening backlog, pull-forward of some cleanroom project revenue, and the Eisenmann consolidation — one of the three is timing, not new demand**. Nine-month progress is 71.9% of guided revenue and 70.2% of guided operating profit, implying a Q4 of ¥216,224mn of revenue and ¥35,513mn of operating profit (calculated). Source: guidance tracker verification against the FY2025, Q2 FY2026 and Q3 FY2026 tanshin; Q3 FY2026 briefing materials.
 - **Strength — the parent and the cleanroom entities carry a rebuilt margin structure.** In FY12/25 the parent company earned segment profit (owners'-net-income basis, as disclosed) of ¥55,611mn on sales of ¥246,560mn — a 22.6% segment margin on that definition — as production-efficiency and project-management gains compounded; DSA earned ¥10,821mn on ¥40,952mn (26.4%) and DNA ¥15,217mn on ¥165,894mn (9.2%). **Group gross margin has risen every year since FY3/23, from 18.2% to 24.5% in FY12/25, and the operating margin reached 15.3%**. The demand engine is disclosed by industry: electronics sales were ¥251,057mn in FY12/25 (38.0% of revenue, calculated) and electronics took 52.8% of 9M FY2026 orders. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 tanshin qualitative section, 12 February 2026.
@@ -54,91 +56,19 @@ The decade is a margin story built on a cyclical revenue base. Revenue rose from
 
 Order intake — disclosed in the qualitative text of every tanshin and filled in full in the sheet — shows the cycle the P&L smooths: ¥356,518mn in FY3/17, ¥503,399mn in FY3/19, ¥451,065mn in FY3/21, a peak of ¥737,475mn in FY3/23, then ¥620,312mn in FY3/24, ¥594,769mn in the transitional nine months and ¥672,618mn in FY12/25 (+3.0% against the adjusted reference; +7.0% excluding the ¥24.2bn FX revaluation of the opening backlog that the old basis included and the FY12/25 basis excludes — register S10). Cash generation is lumpier than profit: operating cash flow was ¥8,559mn in FY3/19 and ¥13,502mn in FY3/20 against operating profit of ¥54,681mn and ¥40,497mn (working capital absorbed by growth), recovered to ¥56,691mn in FY3/22, and printed ¥116,129mn in the transitional period and ¥76,137mn in FY12/25. The balance sheet ended FY12/25 net cash: cash and equivalents of ¥245,256mn against interest-bearing debt of ¥61,380mn on the sheet's definition (borrowings and bonds as presented). Per-share figures carry a break: a 3-for-1 share split on 1 April 2023 means the sheet's calculated basic EPS (owners' net income over weighted shares as reported in each year) runs ¥137.6 / ¥235.6 / ¥314.5 / ¥223.0 / ¥257.1 / ¥284.7 for FY3/17–FY3/22 on the pre-split share count (~122–126mn shares) and ¥109.1 / ¥121.6 / ¥154.2 / ¥212.4 for FY3/23 / FY3/24 / FY12/24T / FY12/25 on the post-split count (~368–378mn shares); the two sub-series must not be spliced into a single growth rate. Exhibit 1 (page 1) gives the full KPI table including FY2026 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY12/25; FY12/25 tanshin, 12 February 2026.
 
-**Figure: Daifuku Co., Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 320825 |
-
-| FY3/18 | 404925 |
-
-| FY3/19 | 459486 |
-
-| FY3/20 | 443694 |
-
-| FY3/21 | 473902 |
-
-| FY3/22 | 512268 |
-
-| FY3/23 | 601922 |
-
-| FY3/24 | 611477 |
-
-| FY12/24T (9M) | 563228 |
-
-| FY12/25 | 660724 |
+**Figure 2. Daifuku Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Daifuku Co., Ltd. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 23099 |
-
-| FY3/18 | 39924 |
-
-| FY3/19 | 54681 |
-
-| FY3/20 | 40497 |
-
-| FY3/21 | 44566 |
-
-| FY3/22 | 50252 |
-
-| FY3/23 | 58854 |
-
-| FY3/24 | 62079 |
-
-| FY12/24T (9M) | 71546 |
-
-| FY12/25 | 100816 |
+**Figure 3. Daifuku Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Daifuku Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 7.2 |
-
-| FY3/18 | 9.9 |
-
-| FY3/19 | 11.9 |
-
-| FY3/20 | 9.1 |
-
-| FY3/21 | 9.4 |
-
-| FY3/22 | 9.8 |
-
-| FY3/23 | 9.8 |
-
-| FY3/24 | 10.2 |
-
-| FY12/24T (9M) | 12.7 |
-
-| FY12/25 | 15.3 |
+**Figure 4. Daifuku Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Daifuku Co., Ltd. — revenue and operating margin**
+**Figure 5. Daifuku Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -156,7 +86,7 @@ By entity segment (orders / sales, ¥bn as rounded in the Q3 briefing deck; segm
 
 Full-year FY2026 guidance, as revised in the Q3 release of 11 November 2026, is revenue ¥770,000mn, operating profit ¥119,000mn, ordinary profit ¥122,000mn, owners' net income ¥89,500mn and EPS ¥241.95 — company guidance (会社計画), J-GAAP basis, not a J-Core Fundamental Research forecast. The verified revision chain (guidance tracker, against the tanshin) is: initial guidance on 12 February 2026 of revenue ¥700,000mn / operating profit ¥105,000mn / owners' net income ¥80,000mn; revision 1 on 6 August 2026 (Q2) to ¥735,000mn / ¥113,000mn / ¥86,500mn; revision 2 on 11 November 2026 (Q3) to ¥770,000mn / ¥119,000mn / ¥89,500mn. At Q1 (14 May 2026) the full-year guide was left unchanged while the interim outlook was raised — a staging detail the chain preserves. Orders guidance, disclosed as a range from FY2026, now stands at ¥970,000mn–¥1,000,000mn. Two labelling points matter. First, the IFRS reference: from the FY2026 year-end the company voluntarily adopts IFRS (announced 28 October 2026), and the FY2026 forecast on that basis is operating profit ¥117,000mn and owners' net income ¥87,500mn — ¥2,000mn below the J-GAAP figures on both lines; no IFRS revenue guide is given in the sources used. Second, the stated reasons for the Q3 raise (company, paraphrased in the guidance tracker) are smooth progress on projects from the opening backlog, pull-forward of revenue recognition on some cleanroom projects, and the consolidation of Eisenmann GmbH (acquired 1 July 2026; the FY2026 guide includes about €110mn, about ¥20.0bn, of Eisenmann sales from July onward, per the Q3 deck) — so part of the raise is timing pulled from FY2027 and part is acquired scope. Against guidance, 9M progress was 80.5% of the low end of the orders range, 71.9% of revenue, 70.2% of operating profit and 70.7% of owners' net income, implying a Q4 of ¥216,224mn of revenue and ¥35,513mn of operating profit (calculated) — **a Q4 operating margin of about 16.4% (calculated), above the 9M print, which requires the pulled-forward cleanroom projects to convert on schedule**. The dividend forecast is ¥90 per share for FY2026 (interim ¥40, year-end ¥50), raised from the initial ¥82 plan during the year. Exhibit 3 sets out the 9M actuals against guidance. Source: Q3 FY2026 tanshin, 11 November 2026; guidance tracker verification (FY2025 tanshin, 12 February 2026; Q2 FY2026 tanshin, 6 August 2026); Q3 FY2026 briefing deck.
 
-**Exhibit 3. Q3 FY2026 (9M) results and FY2026 company guidance (J-GAAP, with IFRS reference)**
+**Figure 6. Exhibit 3. Q3 FY2026 (9M) results and FY2026 company guidance (J-GAAP, with IFRS reference)**
 
 | ¥mn unless stated | 9M FY2026 actual | FY2026E (co. guidance) | 9M progress (%) |
 |---|---|---|---|
@@ -188,49 +118,7 @@ The parent company is the largest entity and the profit centre: FY12/25 sales of
 
 Daifuku sits at the systems layer of the material-handling value chain: it designs the line or the fab's transport architecture, manufactures core equipment (storage/retrieval machines, conveyors, sorting systems, overhead hoist transport for cleanrooms, airport baggage and handling systems), integrates purchased components and controls, installs and commissions on the customer's site, and services the installed base. Revenue recognition follows project progress and delivery, which is why the order backlog — not spot demand — drives the P&L, and why project management quality shows up directly in gross margin: the company's own attribution of its FY12/25 margin gain is production efficiency, project-management strengthening and order-profitability discipline. ==Entry barriers are application know-how accumulated over decades of installed lines, the ability to execute large fixed-scope projects without cost overruns, global service coverage, and — in cleanroom transport — qualification inside a small number of leading-edge fabs, where a supplier change is a production risk the customer rarely takes mid-generation==. Competition is field-by-field rather than group-against-group: in intralogistics, global systems integrators and warehouse-automation specialists; in cleanroom transport, a concentrated set of Japanese and Korean suppliers around the major fab builders; in airport systems, the international baggage-handling majors. No company-disclosed market-size or share figure is carried in the sources used here, and none is substituted: the verifiable demand evidence is Daifuku's own reported orders by industry and destination (electronics orders +¥242.1bn YoY in 9M FY2026; overseas orders 78.9% of the total) and the demand drivers the company names — labour shortage and wage inflation for intralogistics, generative-AI semiconductor capex for cleanroom, US automotive capex, and airport automation on passenger growth. The two sensitivities that follow: first, the current cycle is a semiconductor-capex cycle — electronics was 52.8% of 9M FY2026 orders, so a pause in advanced-fab investment hits orders a year before it hits revenue; second, with backlog disclosed only in briefing materials and fixed-price exposure undisclosed, cost inflation on the ¥929.4bn backlog is an unobservable that only the quarterly gross margin reveals. Sources: FY12/25 tanshin qualitative section; Q3 FY2026 tanshin and briefing deck, 11 November 2026; PL/segment sheet register.
 
-**Figure: Daifuku in the intralogistics value chain**
-
-**Components & Parts**
-
-- Servo motors & controls — Yaskawa, Mitsubishi Electric, Fanuc
-- Linear guides & ball screws — THK, HIWIN
-- Sensors & safety devices
-- Li-ion batteries, racks & steel
-
-**Equipment & Subsystems**
-
-- Cube storage — AutoStore, Ocado
-- Shuttles — Dematic, KNAPP, TGW, Exotec
-- AMR / AGV — Geek+, Hai Robotics, Locus
-- Sorters & conveyors — Vanderlande, Interroll, BEUMER
-
-**Software (WMS / WES / WCS)**
-
-- WMS — Manhattan Associates, Blue Yonder
-- Körber Supply Chain, SAP EWM, Oracle
-- AMR fleet management
-- Integrator in-house software — Daifuku, Dematic iQ
-
-**Daifuku Co., Ltd. (6383)**
-
-- Intralogistics systems — general manufacturing & distribution
-- Cleanroom transport systems — semiconductor fabs (CFI Korea, DSA China)
-- Automotive production-line systems
-- Airport systems; Contec — industrial computers & electronics
-
-**Sales, Rental & RaaS**
-
-- Forklift networks — Toyota Material Handling, Linde / STILL, Jungheinrich
-- Regional SIers & dealers
-- Robot-as-a-Service — Locus, Geek+
-- Leasing & rental
-
-**End Users & Lifecycle Service**
-
-- E-commerce & retail — Amazon, Walmart
-- 3PL — DHL Supply Chain, GXO
-- Food, apparel, pharma, parcel
-- Maintenance contracts, spare parts, refurbishment
+**Figure 7. Daifuku in the intralogistics value chain**
 
 *Source: FIELDNOTES sector report §4 (intralogistics value chain); company business fields from §3 of this report.*
 
@@ -238,53 +126,15 @@ Daifuku sits at the systems layer of the material-handling value chain: it desig
 
 Daifuku's tanshin disclosure gives a complete entity-segment history (sales and owners'-NI-basis profit, plus order intake by segment in the qualitative text), a formal regional sales note (annual only), and — in every tanshin — revenue disaggregation by destination and by industry. The layers are kept separate and labelled in this chapter, as in the sheet: the formal region note and the destination cut differ slightly and are never mixed (register S6/S7).
 
-**Figure: Daifuku Co., Ltd. — segment revenue, FY12/25**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Daifuku Co. (parent) — sales | 246560 |
-
-| Contec — sales | 20235 |
-
-| Daifuku North America (DNA) — sales | 165894 |
-
-| Clean Factomation (CFI) — sales | 37587 |
-
-| Daifuku (Suzhou) (DSA) — sales (reportable from FY3/24) | 40952 |
-
-| Other — sales | 149994 |
-
-| Other sales + consolidation adjustment (sheet supplementary row) | 149496 |
+**Figure 8. Daifuku Co., Ltd. — segment revenue, FY12/25**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Daifuku Co., Ltd. — segment revenue by year**
+**Figure 9. Daifuku Co., Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Daifuku Co., Ltd. — segment revenue mix, FY12/25**
-
-**Daifuku Co. (parent)**
-
-- ¥246,560mn
-- 52.4% of revenue
-
-**Daifuku North America (DNA)**
-
-- ¥165,894mn
-- 35.3% of revenue
-
-**Clean Factomation (CFI)**
-
-- ¥37,587mn
-- 8.0% of revenue
-
-**Contec**
-
-- ¥20,235mn
-- 4.3% of revenue
+**Figure 10. Daifuku Co., Ltd. — segment revenue mix, FY12/25**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -292,7 +142,7 @@ Daifuku's tanshin disclosure gives a complete entity-segment history (sales and 
 
 Exhibit 2 gives the main-block history on the basis disclosed in each year's own tanshin. Three facts organise it. First, the reconciliation itself: total segment profit reconciles to owners' net income, not to operating profit (register S5). For FY12/25 the disclosed bridge is reportable-segment profit of ¥86,089mn (the sum of the five segment profits as entered in the sheet is ¥86,087mn — a ¥2mn rounding difference flagged in Chapter 9) plus Other's ¥17,379mn, minus ¥24,399mn of eliminated dividends from affiliates, minus ¥972mn of other consolidation adjustments, equals owners' net income of ¥78,096mn. The large dividend-elimination line is the signature of the entity basis: the parent books dividend income from subsidiaries that consolidation removes. Second, profit concentration: **the parent alone contributed ¥55,611mn of FY12/25 segment profit (a 22.6% margin on its sales on this basis)**, DNA ¥15,217mn (9.2%), DSA ¥10,821mn (26.4%), CFI ¥3,320mn (8.8%) and Contec ¥1,118mn (5.5%) — so the group's bottom line is a parent-company margin story with a high-margin China cleanroom kicker. Third, the basis break: through FY3/23 only four segments were reportable (DSA sat inside Other); DSA was broken out from FY3/24, with FY3/23 restated onto the five-segment basis in the FY3/24 tanshin (DSA sales ¥25,132mn, segment profit ¥1,953mn — supplementary rows of the sheet, shown separately in Exhibit 2 and never spliced into the as-originally-disclosed FY3/23 column). The history block (FY3/17–FY3/21) carries yet older compositions — Daifuku Plusmore was a separate segment in FY3/17–FY3/19 and CFI became a segment from FY3/19 — held on separate rows in the sheet and not merged into the main block. Order intake by segment (FY12/25, as disclosed): parent ¥226,642mn, DNA ¥196,191mn, Other ¥134,383mn, CFI ¥49,434mn, DSA ¥47,039mn, Contec ¥18,926mn. Source: company results via PL/segment sheet (tanshin, JPX archive); FY12/25 tanshin segment note and commentary.
 
-**Exhibit 2. Entity segments — external sales and segment profit (owners'-net-income basis, as disclosed)**
+**Figure 11. Exhibit 2. Entity segments — external sales and segment profit (owners'-net-income basis, as disclosed)**
 
 | ¥mn | FY3/22 | FY3/23 | FY3/24 | FY12/24T (9M) | FY12/25 |
 |---|---|---|---|---|---|
@@ -351,6 +201,6 @@ Gaps (未取得 / not disclosed in the sources used; never estimated). Order bac
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
