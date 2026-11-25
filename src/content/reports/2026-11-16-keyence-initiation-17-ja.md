@@ -11,7 +11,7 @@ lang: ja
 
 The highest-margin large-cap in Japanese industrials, disclosed on its own terms: Keyence Corporation (6861, TSE Prime) develops and sells factory-automation sensors, machine-vision systems, measuring instruments, laser markers, microscopes and barcode readers through a direct-sales, fabless model: products are planned in-house, production is outsourced, and its own sales engineers sell directly to factories, typically shipping the same day. The financial record compiled in the PL/segment sheet (J-GAAP tanshin, JPX archive) is without peer in this coverage: revenue of ¥1,169,289mn in FY3/26 (+10.4% YoY), **an operating margin of 51.0% — the fifth consecutive year above 50%** — a gross margin of 83.0%, ROE of 13.5%, an equity ratio of 94.6% and zero interest-bearing debt. H1 FY3/27 (to 20 September 2026) accelerated sharply: **revenue ¥735,399mn (+34.9% YoY) and operating profit ¥408,262mn (+50.0%), a 55.5% operating margin**. Strengths: (1) a structural, not cyclical, margin architecture — value-added product planning, direct distribution that captures the distributor margin and feeds customer problems back into development, and an asset-light fabless cost base; (2) compounding through cycles — revenue has risen every year in the five-year record, from ¥755,174mn in FY3/22, a 11.5% CAGR, with overseas sales reaching 66.6% of the total in FY3/26; (3) a balance sheet that removes financial risk from the equity story (net cash, no borrowings, operating cash flow of ¥430,680mn in FY3/26). Weaknesses: (1) disclosure minimalism that is itself an analytical and governance issue — Keyence is a single segment by its own statement, omits the segment note in every tanshin, discloses no product split, no regional profit, no order intake or backlog, no R&D figure and no headcount in its earnings releases; (2) no earnings guidance and no mid-term plan, as a matter of stated policy, so there is no company anchor against which to measure delivery — monitoring reduces to quarterly prints, the overseas ratio and the margin structure; (3) valuation leaves no room for the cycle — at ¥74,580 (13 November 2026) the shares trade at 40.6x FY3/26 EPS and 5.2x book value, and the current demand wave is tied to the same AI/data-centre and semiconductor capex that is lifting the whole IME complex. This report contains no J-Core Fundamental Research forecasts and no company guidance exists to quote; third-party consensus, where mentioned, is labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (no company guidance exists; the dividend forecast is the only company forward figure)**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (no company guidance exists; the dividend forecast is the only company forward figure)**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -31,6 +31,7 @@ The highest-margin large-cap in Japanese industrials, disclosed on its own terms
 *Source: Company results via PL/segment sheet (tanshin, JPX archive). Keyence discloses no earnings forecast as a matter of policy, so no guidance column is shown. Dividend FY3/27 forecast ¥550 (pre-split) per FY3/26 tanshin, 24 Apr 2026. Per-share figures pre-split (5-for-1 split effective 21 Nov 2026). History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥3.57tn |
@@ -41,6 +42,7 @@ The highest-margin large-cap in Japanese industrials, disclosed on its own terms
 | Next event | 5-for-1 stock split effective 21 Nov 2026; Q3 FY3/27 results, late Jan 2027 |
 
 ## Key points
+
 - **H1 FY3/27: the model at full stretch.** For the six months to 20 September 2026, revenue was ¥735,399mn (+34.9% YoY), **operating profit ¥408,262mn (+50.0%)**, ordinary profit ¥424,348mn (+48.9%) and net income to parent ¥298,675mn (+49.4%); the operating margin widened 5.6pt YoY to 55.5% and the gross margin rose 3.0pt to 85.7%, as SG&A leverage (ratio down 2.7pt to 30.1%) compounded volume growth. Source: Q2 FY3/27 tanshin, 29 October 2026, as compiled from the release (Japan IR / IR-Tracker summaries of the TDnet filing).
 - **Five years above a 50% operating margin.** **Operating margin was 55.4% in FY3/22, 54.1% in FY3/23, 51.2% in FY3/24, 51.9% in FY3/25 and 51.0% in FY3/26**, on gross margins of 82–84% throughout. Revenue compounded at 11.5% a year (¥755,174mn → ¥1,169,289mn) with no down year, and operating cash flow rose from ¥271,476mn to ¥430,680mn over the same period. Source: company results via PL/segment sheet (tanshin, JPX archive).
 - **Strength — the direct-sales / fabless architecture.** Keyence plans products in-house around customer problems identified by its own sales engineers, outsources production, sells direct (no distributors) and ships the same day from stock. The structure captures the distribution margin, keeps fixed assets and headcount in production near zero, and turns the sales force into the R&D sensor network — **the mechanism behind both the 83% gross margin and the product hit rate**. Source: company product and corporate materials, accessed November 2026.
@@ -59,91 +61,19 @@ Net income attributable to owners of the parent was ¥303,360mn in FY3/22, ¥362
 
 The balance sheet is the most conservative in this coverage. At 20 March 2026 total assets were ¥3,670,655mn and net assets ¥3,471,472mn (equity ratio 94.6%; book value per share ¥14,313.86). Interest-bearing debt is zero, as presented in every period of the sheet. Cash and equivalents were ¥451,269mn at FY3/26 year-end (FY3/22: ¥396,165mn; FY3/23: ¥344,002mn; FY3/24: ¥406,065mn; FY3/25: ¥451,715mn) — the FY3/26 cash balance was flat YoY despite record profit because investing outflow of ¥312,387mn (largely securities and time-deposit placement, per the FY3/26 tanshin cash-flow statement) and financing outflow of ¥113,722mn (dividends) absorbed the ¥430,680mn of operating cash flow. Receivables were ¥379,590mn and inventory ¥85,273mn at FY3/26 year-end; the sheet's calculated inventory measure is about 5.2 months of cost of sales. Depreciation and amortisation was ¥17,227mn in FY3/26, giving an EBITDA proxy of ¥612,986mn — depreciation is only 1.5% of sales, the clearest single marker of the fabless model. Exhibit 1 (page 1) gives the full KPI table. There is deliberately no guidance column: Keyence discloses no earnings forecast (Chapter 7). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/22–FY3/26; FY3/26 tanshin, 24 April 2026.
 
-**Figure: Keyence Corporation — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 316347 |
-
-| FY3/18 | 526847 |
-
-| FY3/19 | 587095 |
-
-| FY3/20 | 551843 |
-
-| FY3/21 | 538134 |
-
-| FY3/22 | 755174 |
-
-| FY3/23 | 922422 |
-
-| FY3/24 | 967288 |
-
-| FY3/25 | 1059145 |
-
-| FY3/26 | 1169289 |
+**Figure 2. Keyence Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Keyence Corporation — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 169750 |
-
-| FY3/18 | 292890 |
-
-| FY3/19 | 317868 |
-
-| FY3/20 | 277631 |
-
-| FY3/21 | 276758 |
-
-| FY3/22 | 418045 |
-
-| FY3/23 | 498914 |
-
-| FY3/24 | 495014 |
-
-| FY3/25 | 549775 |
-
-| FY3/26 | 595759 |
+**Figure 3. Keyence Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Keyence Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 53.7 |
-
-| FY3/18 | 55.6 |
-
-| FY3/19 | 54.1 |
-
-| FY3/20 | 50.3 |
-
-| FY3/21 | 51.4 |
-
-| FY3/22 | 55.4 |
-
-| FY3/23 | 54.1 |
-
-| FY3/24 | 51.2 |
-
-| FY3/25 | 51.9 |
-
-| FY3/26 | 51 |
+**Figure 4. Keyence Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Keyence Corporation — revenue and operating margin**
+**Figure 5. Keyence Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -189,50 +119,7 @@ Keyence operates in factory automation (FA) sensing, inspection and measurement 
 
 The value chain runs from components (image sensors, lasers, optics, processors) through product planning/assembly — outsourced, in Keyence's case — to the customer interface. Keyence's position is unusual: it occupies the planning, branding, stocking and selling layers and rents the manufacturing layer, the mirror image of a traditional manufacturer. Competition is family-by-family rather than group-against-group: Omron (sensors and vision, distribution-led, the closest domestic overlap), Cognex (machine vision, US), Panasonic and Mitsubishi Electric (broad FA portfolios where sensors/vision are one division among many), Basler (vision components, Germany), and specialists such as Sick and Banner Engineering in sensing. Entry barriers are not patents alone: they are the installed problem-knowledge of the direct sales force, the breadth of a catalogue stocked for same-day delivery, and the switching cost once a sensor or vision recipe is written into a customer's line. Substitutes are principally the customer's own labour (manual inspection) and, increasingly, general-purpose AI cameras and software — the same technology Keyence itself embeds in its newer vision and code-reader products. The structural contest for the next cycle is whether value migrates to the sensing hardware with embedded know-how (Keyence's model) or to platform software and commodity cameras (the Cognex/Basler flank); **the reported gross margin — 85.7% in H1 FY3/27 — is the scoreboard**, and so far it shows no migration. Sources: company product materials, accessed November 2026; competitor positioning from company materials (general); PL/segment sheet.
 
-**Figure: Keyence in the sensing & machine-vision value chain**
-
-**Raw Materials**
-
-- Compound semiconductors: LED, laser
-- Optical glass & resins: HOYA
-- Lens materials
-- Housing materials
-
-**Key Components**
-
-- CMOS image sensors: Sony Semiconductor
-- Lenses, illumination LEDs
-- ToF / LiDAR devices
-- Image-processing SoCs: NVIDIA, Intel
-
-**Keyence Corporation (6861)**
-
-- Sensors — photoelectric, fibre-optic, laser, pressure, flow
-- Machine vision & AI-assisted inspection
-- Measuring instruments, 3D measurement
-- Laser markers, digital microscopes, code readers
-- Direct sales & same-day shipping (fabless production)
-
-**Software & Algorithms**
-
-- Vision libraries: MVTec HALCON
-- Deep-learning inspection: Cognex ViDi
-- Embedded AI: Keyence
-- Edge learning, management software
-
-**Distribution & Integration**
-
-- Direct sales: Keyence
-- Distributors + direct: SICK, ifm
-- Vision system integrators
-- Line integration, application support
-
-**End Customers & Service**
-
-- Automotive, EV & batteries
-- Semiconductors, electronics
-- Logistics/EC, food, pharmaceuticals
-- Safety verification, calibration, software updates
+**Figure 6. Keyence in the sensing & machine-vision value chain**
 
 *Source: FIELDNOTES sector report §4 (sensors & machine vision value chain); company product families from §3 of this report.*
 
@@ -240,19 +127,11 @@ The value chain runs from components (image sensors, lasers, optics, processors)
 
 This chapter replaces the segment chapter of the standard skeleton, because Keyence has no segments to describe. What exists is an annual Japan/overseas sales split; what does not exist is almost everything else an analyst would normally use.
 
-**Figure: Keyence Corporation — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Japan — sales | 390066 |
-
-| Overseas — sales | 779222 |
+**Figure 7. Keyence Corporation — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Keyence Corporation — regional revenue by year**
+**Figure 8. Keyence Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -260,7 +139,7 @@ This chapter replaces the segment chapter of the standard skeleton, because Keye
 
 From the annual related-information note (quarterly tanshin carry no regional split), sales by location were: Japan ¥310,180mn and overseas ¥444,994mn in FY3/22 (overseas ratio 58.9%); Japan ¥348,079mn / overseas ¥574,342mn in FY3/23 (62.3%); Japan ¥344,567mn / overseas ¥622,720mn in FY3/24 (64.4%); Japan ¥372,753mn / overseas ¥686,391mn in FY3/25 (64.8%); and Japan ¥390,066mn / overseas ¥779,222mn in FY3/26 (66.6%). Exhibit 2 gives the history. **Overseas sales compounded at 15.0% a year over the five years against 5.9% for Japan**, and overseas growth exceeded domestic growth in every year — the geographic engine is the direct-sales model being replicated market by market, funded by the rising SG&A ratio. Regional profit is not disclosed at any frequency, and no finer geographic split (Americas / Europe / Asia) is given in the tanshin, so neither the profitability nor the precise location of the overseas build-out can be verified from the earnings releases. Source: company results via PL/segment sheet (tanshin, JPX archive), related-information note.
 
-**Exhibit 2. Regional sales — Japan / overseas (the only geographic disclosure; annual only, no regional profit)**
+**Figure 9. Exhibit 2. Regional sales — Japan / overseas (the only geographic disclosure; annual only, no regional profit)**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -281,7 +160,7 @@ Condensed consolidated statements (J-GAAP, ¥mn), as reported via the PL/segment
 
 Balance sheet (20 March 2026): total assets ¥3,670,655mn; net assets ¥3,471,472mn; **equity ratio 94.6%**; book value per share ¥14,313.86 (FY3/25: total assets ¥3,289,224mn, net assets ¥3,108,552mn, equity ratio 94.5%, BPS ¥12,817.43). Interest-bearing debt is zero in every period presented. Cash and equivalents ¥451,269mn; receivables ¥379,590mn; inventory ¥85,273mn; trade payables just ¥10,890mn — the payable base is tiny because production partners are paid promptly and the cost base is people, not parts. Cash flow: operating cash flow ¥271,476mn / ¥302,628mn / ¥387,916mn / ¥409,522mn / ¥430,680mn (FY3/22–26); FY3/26 investing outflow ¥312,387mn and financing outflow ¥113,722mn (dividends), leaving cash broadly flat at ¥451,269mn (FY3/25: ¥451,715mn). Per-share data: EPS ¥1,250.83 / ¥1,496.59 / ¥1,524.13 / ¥1,643.77 / ¥1,835.63; dividends per share ¥200 / ¥300 / ¥300 / ¥350 / ¥550 (payout ratio 30.0% in FY3/26, as reported). Shares issued: 243,207,684, with treasury shares of about 0.68mn — buybacks are negligible, and the share count has been essentially flat for years (weighted average ~242.5mn). A 5-for-1 stock split takes effect on 21 November 2026; all per-share figures in this report are pre-split, as reported. Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin, 24 April 2026.
 
-**Exhibit 3. Income statement summary — FY3/22–FY3/26**
+**Figure 10. Exhibit 3. Income statement summary — FY3/22–FY3/26**
 
 | ¥mn | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|
@@ -331,6 +210,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
