@@ -11,7 +11,7 @@ lang: en
 
 Volumes strong, prices whipsawed: This week's prints confirmed AI data-centre demand in volume terms across chips, servers, power equipment and machine tools. Prices told a different story: **Nvidia lost its founder-CEO mid-week and US producer prices rose at the fastest annual pace since November 2022**, unwinding the early-week semiconductor rotation by Friday.
 
-**Fixed tracker — the week's key prints**
+**Figure 1. Fixed tracker — the week's key prints**
 
 | Tracker | This week | Reference |
 |---|---|---|
@@ -27,6 +27,7 @@ Volumes strong, prices whipsawed: This week's prints confirmed AI data-centre de
 *Source: Company results and official statistics as cited in the daily packets, 10–14 Nov 2026.*
 
 ## Key points
+
 - **Demand was confirmed in volumes.** **TSMC's October revenue was a record NT$586.89bn (+59.7% YoY)**; Hon Hai's Q3 net profit was a record NT$77.5bn (+34%) with AI servers at 54% of sales; Applied Materials' Q4 revenue was a record (+53% YoY) and Cisco's Q1 revenue a record (+24%) with FY27 guidance raised.
 - **Nvidia was the week's price event.** Jensen Huang resigned as President, CEO and director with immediate effect (announced 12 Nov); CFO Colette Kress is interim CEO. **The shares opened -13.1% on 12 Nov, recovered to close -4.34%, then fell a further 2.0% on 13 Nov to $162.85**, below a $4tn market cap.
 - **Power and machinery breadth was the second story.** **Siemens' Q4 orders rose 58% to a record €34.77bn; Hitachi Energy India's orders rose 85.9% with a record backlog of ₹333.35bn** and data centres its No. 2 order source; Japan's machine-tool orders hit an annual record in ten months; India approved its first 1,150 kV transmission project.
@@ -47,47 +48,11 @@ TradingView's Japan industry table (latest session, retrieved 15 Nov) shows how 
 
 Company-level, the week's defining path was Nvidia's (Figure 3): a -13.1% open on the resignation, a recovery to -4.34% by that close, and a further slide to $162.85 on 13 Nov. The pattern — an idiosyncratic governance shock, rotation into AMD and Broadcom early in the week, then a sector-wide unwind on the PPI print — is the template the catalyst table in Part 3 works through event by event.
 
-**Figure: Nvidia share price path, 11–13 Nov ($)**
-
-| Item | Value ($) |
-
-|---|---|
-
-| 11 Nov close | 173.73 |
-
-| 12 Nov open | 150.99 |
-
-| 12 Nov low | 148.8 |
-
-| 12 Nov close | 166.19 |
-
-| 13 Nov close | 162.85 |
+**Figure 2. Nvidia share price path, 11–13 Nov ($)**
 
 *Source: Finnhub market data via the daily packets, 12–13 Nov 2026.*
 
-**Figure: Japan industry performance, latest session (%)**
-
-| Item | Value (%) |
-
-|---|---|
-
-| Electrical products | -4.05 |
-
-| Communications equipment | -2.36 |
-
-| Electronic components | -1.66 |
-
-| Trucks & construction machinery | -1.17 |
-
-| Semiconductors | -1.06 |
-
-| Semi production equipment | -0.62 |
-
-| Industrial machinery | 0.17 |
-
-| Electronic equipment & instruments | 0.72 |
-
-| Computer hardware | 1.68 |
+**Figure 3. Japan industry performance, latest session (%)**
 
 *Source: TradingView Japan sector/industry table, retrieved 15 Nov 2026 (latest session). Daily, not weekly, moves — shown as the format sample for the sector pack.*
 
@@ -99,29 +64,7 @@ TSMC's October revenue of NT$586.89bn (+59.7% YoY) was its largest month on reco
 
 On the demand side, **CoreWeave's Q3 revenue was $3.66bn (+168% YoY) with backlog of $132.5bn, but a net loss of $709M and interest expense of $846M**; Nebius' Q3 revenue was $980.8M (+571%) while 2026 capex guidance rose to about $27bn and some third-party capacity slipped into H1 2027. Anthropic's Q3 compute and infrastructure spend was $9.9bn, 58% of its revenue. The constraint set — funding cost and delivery capacity, not end demand — is unchanged. Figure 2 puts the week's growth prints side by side.
 
-**Figure: Growth prints of the week (% YoY, as reported)**
-
-| Item | Value (% YoY) |
-
-|---|---|
-
-| Nebius revenue | 571 |
-
-| CoreWeave revenue | 168 |
-
-| Japan Micronics OP (9M) | 138.9 |
-
-| Hitachi Energy India orders | 85.9 |
-
-| TSMC Oct revenue | 59.7 |
-
-| Applied Materials revenue | 53 |
-
-| JP machine-tool orders | 42.5 |
-
-| Hon Hai net profit | 34 |
-
-| Cisco revenue | 24 |
+**Figure 4. Growth prints of the week (% YoY, as reported)**
 
 *Source: Company results, 10–14 Nov 2026. Each bar is the metric named in its label; metrics differ by company and are not directly comparable.*
 
@@ -137,7 +80,7 @@ The statistics tracker (Figure 5) is the fixed panel for this report: country ca
 
 GlobalFoundries' Q3 gross margin was a record 31.4% and its 2026 silicon-photonics outlook was raised to $500M — a data point for the optical/CPO theme that now sits in this report's coverage. ams OSRAM was the week's counter-example: Q3 sales of €829M and €3.8bn of cumulative design wins, but shares down 9.2% on disappointing Q4 guidance.
 
-**Statistics tracker — capex, trade, shipments, demand**
+**Figure 5. Statistics tracker — capex, trade, shipments, demand**
 
 | Indicator | Latest | Source / date |
 |---|---|---|
@@ -157,7 +100,7 @@ GlobalFoundries' Q3 gross margin was a record 31.4% and its 2026 silicon-photoni
 
 Figure 6 lists the events that actually drove the week's performance, with the mechanism in each case. Two patterns matter. First, ==the largest single-stock move (Nvidia) was a governance event, not a demand event== — the announcement came because a board investigation into the founder's conduct left no alternative, and the price fell on succession uncertainty (no designated No. 2, a CFO as interim CEO) rather than on any change to orders or guidance. Second, the sector-level moves were expectation trades: hot CPI and PPI prints moved the discount rate, and the same names that had been bought on prints early in the week were sold on macro by Friday.
 
-**Catalyst attribution — the week's drivers**
+**Figure 6. Catalyst attribution — the week's drivers**
 
 | Date | Catalyst | Why it moved | Why it happened |
 |---|---|---|---|
@@ -183,6 +126,6 @@ Candidates only; the analysis and any decision sit with the reader. (1) Power-eq
 
 Rating (as stated in the report): Not Rated
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. TEST RUN — prepared to test the Weekly Market Report format in the Research Report Editor; not investment advice and not for distribution.
