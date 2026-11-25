@@ -1,7 +1,7 @@
 ---
 title: "The beat was real, the guide didn't move: ¥4.4bn of integration costs is the price of the NSK merger — on a 4% margin base"
 company: "NTN Corporation"
-ticker: "6472"
+ticker: "—"
 sector: "Industrials"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: en
 
 NTN is Japan's third-largest bearing maker and the world's leading supplier of constant-velocity joints (CVJ) and axles, reporting by entity-location region (Japan / Americas / Europe / Asia & other) and, since FY3/2025, by product (Bearings & others / CVJ & Axle). On 12 May 2026 it agreed with NSK to integrate under a joint holding company — a merger that would create the world's largest bearing group by sales. In FY3/2026 net sales were ¥826,344mn, operating profit ¥31,034mn (3.8% margin), ordinary profit ¥23,484mn and owners' net income ¥12,871mn (EPS ¥23.40). FY3/2027 guidance was revised on 30 October 2026: sales raised to ¥825,000mn, but OP held at ¥33,000mn and owners' net income at ¥15,000mn because ¥4,400mn of NSK-integration costs are now factored in (revision notice). Strengths: (1) the underlying H1 beat was genuine — **ex-integration OP margin reached ~4.5% on price increases (+¥4.0bn), structural reform (+¥2.4bn) and FX (+¥4.2bn)**, against a volume decline the headline sales growth conceals; (2) Asia & other is a real profit pool (¥17,573mn, 11.4% margin in FY3/2026) and Japan earns steadily; (3) the aftermarket engine is working — 19.1% of H1 sales, guided to 19.6%, with the FIRST immediate-delivery system deployed at all target sales companies and lifting covered part numbers; (4) cash discipline in H1: inventories cut ¥8.2bn to ¥237.7bn, free cash flow +¥24.7bn; (5) niche technology positions with disclosed share — fluid dynamic bearings for notebook cooling fans at a claimed 40% world share (president), directly exposed to AI-PC demand; (6) the NSK integration addresses the industry's core problem — two sub-scale, 4–5%-margin domestic players — with a defined timetable (definitive agreement targeted around November 2026, June 2027 AGM approvals, joint holding company in October 2027). Weaknesses: (1) a brutal decade in the P&L — owners' net losses in three of the ten years (FY3/2019 −¥6,958mn; FY3/2020 −¥43,992mn; FY3/2021 −¥11,641mn) plus FY3/2025's −¥23,801mn, when ¥19,815mn of extraordinary losses and a deferred-tax charge hit a profitable operating year; (2) Europe has lost money for years on the disclosed figures (FY3/2026 −¥1,061mn; FY3/2025 −¥4,163mn) and the Americas earned 2.1%; (3) **the mid-term plan 'DRIVE NTN100 Final' ends in explicit failure** — final-year targets of OP ¥50bn / 6.0% margin / ROE 8.0% against a guide of ¥33bn / ~4.0%, with ROE (4.9% at FY3/2026-end) pushed to the next plan; (4) leverage: interest-bearing debt of ¥319,172mn against cash of ¥131,255mn at FY3/2026-end (net debt ¥187,917mn, calculated, tanshin definition), with subordinated bonds issued in December 2025; (5) the integration bill is large and front-loaded — ¥4.4bn for NTN and ~¥5.0bn for NSK this year (NTN CFO), ~¥9.4bn combined (calculated), including an SEC F-4 filing that forces NTN (J-GAAP) through an IFRS conversion and re-audits — before any synergy is disclosed, let alone booked; (6) H1 sales volume actually fell ¥14.2bn YoY — reported growth is FX, price and tariffs, and Americas CVJ volume fell ¥8.8bn as mass-production projects ended. Rating and price target are Under Review placeholders (see Basis of preparation).
 
-**Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
+**Figure 1. Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
 
 |  | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -35,6 +35,7 @@ NTN is Japan's third-largest bearing maker and the world's leading supplier of c
 *Source: Company tanshin via PL/segment sheet (register S1, S13–S15). J-GAAP as originally reported. EPS calculated in the sheet on diluted weighted shares (FY26: 550.1mn after convertible-bond conversion). Margins calculated.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥345.3 |
@@ -45,6 +46,7 @@ NTN is Japan's third-largest bearing maker and the world's leading supplier of c
 | H1 FY3/27 operating profit | ¥17,400mn (+35.0% YoY) |
 
 ## Key points
+
 - **Revenue guide up, profit guide deliberately flat** The 30 October 2026 revision raised FY3/2027 sales from ¥810,000mn to ¥825,000mn on volume and FX, but held OP at ¥33,000mn, ordinary profit at ¥21,000mn and owners' NI at ¥15,000mn: **the notice states the forecast now includes ¥4,400mn of NSK-integration-related costs, absorbed by scale and other profit gains**. Ex-integration, OP margin would be ~4.5% (company briefing). The dividend guide is ¥13 (¥6.5 + ¥6.5), unchanged.
 - **What the ¥4.4bn buys** Per the CFO (Q&A, 5 November 2026): financial-adviser fees, antitrust response in Japan, the US and Europe, and the SEC F-4 filing — larger than expected because both companies' US shareholding exceeds 10%, requiring IFRS conversion of NTN's J-GAAP accounts and audits redone to US/international independence standards. **Only ¥0.4bn was spent in H1; ~¥4.0bn lands in H2 (calculated). NSK's parallel bill is ~¥5.0bn — ~¥9.4bn combined before any synergy disclosure**.
 - **H1: price and reform beat volume** H1 FY3/2027 sales ¥413.6bn (+2.8%) but volume −¥14.2bn YoY — growth was FX, selling price and tariffs. **OP ¥17.4bn (+35.0%): scale −¥6.1bn, personnel/other −¥0.9bn, tariffs −¥0.6bn, offset by price +¥4.0bn, structural reform +¥2.4bn, variable costs +¥1.5bn, FX +¥4.2bn (CFO bridge)**. By product: Bearings & others OP ¥6.5bn (3.6%); CVJ & Axle OP ¥10.9bn residual (4.7%). Europe stayed loss-making (−¥0.9bn); Asia & others earned ¥8.7bn.
@@ -57,87 +59,19 @@ Exhibit 1 (page 1) summarises ten fiscal years, FY3/2017–FY3/2026, all J-GAAP 
 
 Scale recovered faster than profit: sales troughed at ¥562,847mn in FY3/2021 and reached ¥836,285mn by FY3/2024, but OP margin has never exceeded 5.3% in the window (FY3/2018) and printed 3.8% in FY3/2026 — the best since FY3/2018 despite being only ¥31,034mn on ¥826,344mn. Operating cash flow was positive in all ten years (¥8,956mn at the FY3/2022 low; ¥65,103mn in FY3/2024). Two structural notes: (i) diluted share count jumps to 550.1mn in FY3/2026 from ~531mn because dilutive convertible bonds were exercised/converted during the year (register S8); (ii) NTN does not disclose order intake or backlog (ND throughout) — machine-tool unit demand is the company's own cited leading indicator.
 
-**Figure: NTN Corporation — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 683328 |
-
-| FY18 | 744372 |
-
-| FY19 | 733569 |
-
-| FY20 | 651495 |
-
-| FY21 | 562847 |
-
-| FY22 | 642023 |
-
-| FY23 | 773960 |
-
-| FY24 | 836285 |
-
-| FY25 | 825587 |
-
-| FY26 | 826344 |
+**Figure 2. NTN Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: NTN Corporation — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 35622 |
-
-| FY18 | 39608 |
-
-| FY19 | 26945 |
-
-| FY20 | 7056 |
-
-| FY22 | 6880 |
-
-| FY23 | 17145 |
-
-| FY24 | 28149 |
-
-| FY25 | 22959 |
-
-| FY26 | 31034 |
+**Figure 3. NTN Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: NTN Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY17 | 5.2 |
-
-| FY18 | 5.3 |
-
-| FY19 | 3.7 |
-
-| FY20 | 1.1 |
-
-| FY22 | 1.1 |
-
-| FY23 | 2.2 |
-
-| FY24 | 3.4 |
-
-| FY25 | 2.8 |
-
-| FY26 | 3.8 |
+**Figure 4. NTN Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: NTN Corporation — revenue and operating margin**
+**Figure 5. NTN Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -153,7 +87,7 @@ H1 (April–September 2026): net sales ¥413.6bn (+2.8% YoY), OP ¥17.4bn (+35.0
 
 Initial (14 May 2026, FY2026 tanshin): sales ¥810,000mn, OP ¥33,000mn, owners' NI ¥15,000mn — confirmed unchanged at Q1 (4 August 2026). Revision 1 (30 October 2026): sales ¥825,000mn; OP ¥33,000mn, ordinary profit ¥21,000mn and NI ¥15,000mn all unchanged; EPS guide ¥25.23; dividend ¥13 unchanged. The notice's stated logic: sales will exceed the previous forecast on volume growth and FX, and although the forecast now includes ¥4,400mn of NSK-integration-related costs, **profit lines are held on scale and other gains (tracker extract of the notice)**. Full-year product guides: Bearings & others sales ¥364.5bn / OP ¥14.9bn (4.1%); CVJ & Axle ¥460.5bn / ¥18.1bn (3.9%); implied H2 margins are 4.6% and 3.2% respectively (5.5% / 4.1% ex-integration). Cash guides: operating cash flow ¥63.0bn, free cash flow ¥36.0bn, year-end inventories ¥225.0bn (a further ¥7.0bn volume reduction needed in H2). Discrepancy flagged: the guide EPS of ¥25.23 against owners' NI of ¥15,000mn implies ~594.5mn shares, versus the sheet's FY3/2026 diluted count of 550.1mn (which would give ¥27.27) — the basis of the tanshin's forecast EPS is not reconciled in the sources read.
 
-**Exhibit 3: FY3/2027 guidance chain (¥mn)**
+**Figure 6. Exhibit 3: FY3/2027 guidance chain (¥mn)**
 
 | Step | Net sales | OP | Ordinary profit | Owners' NI | EPS (¥) |
 |---|---|---|---|---|---|
@@ -190,41 +124,7 @@ NTN sells into the same bearing oligopoly as NSK (SKF, Schaeffler, Timken, JTEKT
 
 The market NTN sells into is mature in units and supported in value by mix and price pass-through. FIELDNOTES' bearings industry report (16 November 2026) records that no official global market-size statistic exists and that research-firm estimates differ by definition — a narrow rolling-bearing definition of US$58.6bn in 2024 growing at a 9.0% CAGR to 2034 (Global Market Insights series), ball/roller bearings only at US$29.5bn in 2024 at a 2.5% CAGR (WiseGuy Reports), and a broad definition of US$154.4bn in 2025 at a 4.5% CAGR (Reports and Data) — with automotive the largest application (about 40% on the broad definition) and Asia-Pacific the largest region. Japanese bearing production volumes fell from 2.84bn units in 2021 to 2.31bn in 2025, while the EV-bearing niche is estimated at about US$2.94bn in 2025 rising to about US$5.87bn by 2030 (a 14.9% CAGR, research-firm estimates), where electrical-erosion protection — NTN's resin-moulded insulated bearings for 800V systems among them — is becoming a qualification requirement rather than an option.
 
-**Figure: NTN in the bearings value chain**
-
-**Raw Materials**
-
-- Bearing steel SUJ2: Nippon Steel
-- Special steel: Daido, Sanyo, Aichi
-- Ceramic balls Si3N4: Kyocera, Denka
-- Grease, resin cage materials
-
-**Components**
-
-- Forged, turned rings & rolling elements
-- Cages, seals
-- Ceramic balls (with material makers)
-- Sensor units
-
-**NTN Corporation (6472)**
-
-- Bearings & others — ball/roller bearings; precision incl. fluid dynamic bearings (claimed 40% world share in notebook fan motors)
-- CVJ & Axle — constant-velocity joints & axle assemblies (58% of FY3/26 sales)
-- Aftermarket — replacement bearings via the FIRST immediate-delivery system (19.1% of H1 sales)
-
-**Distribution & Integration**
-
-- Industrial distributors, trading houses
-- EC: Misumi, MonotaRO
-- OEM direct delivery (automotive)
-- Genuine-parts networks, anti-counterfeit checks
-
-**End Customers & Aftermarket**
-
-- Automotive OEMs & Tier 1s: Toyota group
-- Machine tools, semiconductor equipment
-- Construction, rail, aero engines, wind
-- Condition monitoring, remanufacturing: SKF, NSK
+**Figure 7. NTN in the bearings value chain**
 
 *Source: FIELDNOTES sector report §4 (bearings value chain); company product lines from §3 of this report.*
 
@@ -232,7 +132,7 @@ The market NTN sells into is mature in units and supported in value by mix and p
 
 Segment profit is operating profit. The sheet carries segment profit for FY3/2025–26 only (FY3/2022–24 segment profit is not in the sheet's main block — see Basis); segment sales are complete for all years, and the history block carries segment profit for FY3/2017–21.
 
-**Figure: NTN Corporation — regional revenue by year**
+**Figure 8. NTN Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -240,7 +140,7 @@ Segment profit is operating profit. The sheet carries segment profit for FY3/202
 
 FY3/2026: Japan sales ¥216,392mn / profit ¥9,192mn (4.2%); Americas ¥262,523mn / ¥5,469mn (2.1%); Europe ¥193,562mn / −¥1,061mn (−0.5%); Asia & other ¥153,866mn / ¥17,573mn (11.4%); adjustment −¥139mn. FY3/2025: Japan ¥215,245mn / ¥11,207mn (5.2%); Americas ¥269,503mn / −¥395mn (−0.1%); Europe ¥186,328mn / −¥4,163mn (−2.2%); Asia & other ¥154,510mn / ¥14,757mn (9.6%); adjustment +¥1,553mn. The pattern is stable and stark: **Asia & other — the smallest sales base — produces over half of segment profit, while Europe has been loss-making in both disclosed years** and across the history block's later years (FY3/2020 +¥402mn; FY3/2021 −¥2,427mn; Japan itself lost ¥10,792mn in FY3/2021). Product view (separate basis): FY3/2026 Bearings & others ¥348,890mn, CVJ & Axle ¥477,453mn; on the discontinued market basis, FY3/2024 was aftermarket ¥138,946mn (16.6% of sales), industrial machinery ¥126,544mn, automotive ¥570,794mn.
 
-**Exhibit 2: Segments by entity location (¥mn)**
+**Figure 9. Exhibit 2: Segments by entity location (¥mn)**
 
 | Region (entity) | FY22 sales | FY23 sales | FY24 sales | FY25 sales | FY26 sales | FY25 profit | FY26 profit | FY26 margin % |
 |---|---|---|---|---|---|---|---|---|
@@ -253,7 +153,7 @@ FY3/2026: Japan sales ¥216,392mn / profit ¥9,192mn (4.2%); Americas ¥262,523m
 
 *Source: Company tanshin via PL/segment sheet (register S3). Segment profit = operating profit; FY22–24 segment profit not carried in the sheet's main block.*
 
-**Exhibit 2A. Segments by entity location — FY3/17–FY3/21, as reported**
+**Figure 10. Exhibit 2A. Segments by entity location — FY3/17–FY3/21, as reported**
 
 | Region (entity) | FY17 sales | FY17 profit | FY18 sales | FY18 profit | FY19 sales | FY19 profit | FY20 sales | FY20 profit | FY21 sales | FY21 profit |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -266,7 +166,7 @@ FY3/2026: Japan sales ¥216,392mn / profit ¥9,192mn (4.2%); Americas ¥262,523m
 
 *Source: PL/segment workbook — History block, same entity-location basis as Exhibit 2, J-GAAP as originally reported; shown as a separate block, not spliced into the main-window table.*
 
-**Exhibit 2B. Regional sales (customer location)**
+**Figure 11. Exhibit 2B. Regional sales (customer location)**
 
 | Region (customer) | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|
@@ -279,7 +179,7 @@ FY3/2026: Japan sales ¥216,392mn / profit ¥9,192mn (4.2%); Americas ¥262,523m
 
 *Source: PL/segment workbook — Customer-location regional sales, a separate basis from the entity-location segments; regional profit is not disclosed in any year.*
 
-**Exhibit 2C. Sales by market (as disclosed in those years)**
+**Figure 12. Exhibit 2C. Sales by market (as disclosed in those years)**
 
 | Market | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 |
 |---|---|---|---|---|---|---|---|---|
@@ -316,6 +216,6 @@ Sources: the PL/segment sheet for NTN (6472) — main window FY3/2022–FY3/2026
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
