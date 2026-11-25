@@ -1,7 +1,7 @@
 ---
 title: "First full-year FY3/27 guide — sales ¥3.70tn (+51%), OP ¥1.17tn — clears the mid-term plan's revenue target but not its 35% OP-margin target"
 company: "Tokyo Electron Limited"
-ticker: "8035"
+ticker: "—"
 sector: "Semiconductors"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: en
 
 Tokyo Electron (TEL) is Japan's largest semiconductor production equipment (SPE) maker and a top-three global WFE supplier, with a near-monopoly in coater/developers and leading positions in etch, deposition, cleaning and wafer probers. FY3/2026 (J-GAAP) sales were ¥2,443,533mn (+0.5%) with operating profit of ¥624,936mn (25.6%, −10.4% YoY) — but net income rose to a record ¥574,454mn because ¥115,494mn of gains on sales of policy-held shares sat in extraordinary income. The cycle has since inflected violently: **H1 FY3/2027 sales were ¥1,667.4bn (+41.3%) and OP ¥506.7bn (30.4%)**, and on 30 October 2026 the company published its first full-year FY3/2027 guidance — sales ¥3,700,000mn (+51.4%), OP ¥1,169,000mn (+87.1%), net income ¥865,000mn — built on its view that CY2027 WFE exceeds $210bn. Strengths: **a >90% share in coater/developers**, a debt-free balance sheet (cash ¥505,414mn, zero borrowings), FY3/26 operating cash flow of ¥539,732mn, and a ¥150bn buyback running to March 2027. Weaknesses: the medium-term plan expiring this year targeted an OP margin of 35% or more — the FY3/2027 guide implies 31.6% (calculated) — China was 36.4% of Q2 sales against a low-30% full-year guide, segment disclosure collapsed to a single segment from FY3/2024 (no regional split in the tanshin since), and the shares at ¥8,794 trade on 35.0x FY3/2026 earnings (calculated) after a 5-for-1 split in October 2026. Rating and price target are Under Review; this report organises the reported record and the questions it raises — the investment judgement is the reader's.
 
-**Exhibit 1 — Ten-year KPI history (J-GAAP, ¥mn unless stated)**
+**Figure 1. Exhibit 1 — Ten-year KPI history (J-GAAP, ¥mn unless stated)**
 
 | Fiscal year | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -37,6 +37,7 @@ Tokyo Electron (TEL) is Japan's largest semiconductor production equipment (SPE)
 *Source: PL/segment sheet 8035 (register S1/S2/S14); EPS calculated on documented share counts only — see Ch.9*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥8,794 |
@@ -47,6 +48,7 @@ Tokyo Electron (TEL) is Japan's largest semiconductor production equipment (SPE)
 | P/E on FY3/26 EPS (calc.) | 35.0x |
 
 ## Key points
+
 - **Guidance arrived late and large.** FY3/2027 full-year guidance was 未定 (undetermined) at both the April results and Q1; only H1 was guided (raised in July to sales ¥1,620,000mn / OP ¥458,000mn). The full-year guide first published on 30 Oct 2026 — sales ¥3,700,000mn, OP ¥1,169,000mn, EPS ¥381.69 (post-split) — **implies an H2 of ¥2,032.5bn sales and ¥662.2bn OP at a 32.6% margin (calculated)**.
 - **The mid-term plan scores 2 of 3.** The June 2022 plan targeted FY3/2027 sales of ¥3tn or more, OP margin 35% or more and ROE 30% or more (company plan). **The guide clears revenue (¥3.70tn) but implies a 31.6% OP margin**; FY3/2026 ROE was about 29.6% (secondary source). Whether the next plan rebases the margin ambition or bridges to it is the central strategy question.
 - **China mix has to fall while sales rise 51%.** **China was 36.4% of Q2 FY3/2027 sales (presentation basis) against a low-30% full-year guide**, so H2 requires leading-edge logic and DRAM outside China to outgrow China materially. The within-China split between leading-edge-capable and mature-node tools is not disclosed.
@@ -63,91 +65,19 @@ Net income attributable to owners reached a record ¥574,454mn in FY3/2026 — b
 
 Cash generation is consistently strong: operating cash flow was positive in all ten years (¥136,948mn in FY3/2017 to ¥539,732mn in FY3/2026, peaking at ¥582,174mn in FY3/2025), and the company has carried zero borrowings at every period-end in the window (register S6).
 
-**Figure: Tokyo Electron Limited — revenue by year**
-
-| Item | Value (Fiscal year) |
-
-|---|---|
-
-| FY3/17 | 799719 |
-
-| FY3/18 | 1130728 |
-
-| FY3/19 | 1278240 |
-
-| FY3/20 | 1127286 |
-
-| FY3/21 | 1399102 |
-
-| FY3/22 | 2003805 |
-
-| FY3/23 | 2209025 |
-
-| FY3/24 | 1830527 |
-
-| FY3/25 | 2431568 |
-
-| FY3/26 | 2443533 |
+**Figure 2. Tokyo Electron Limited — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Tokyo Electron Limited — operating profit by year**
-
-| Item | Value (Fiscal year) |
-
-|---|---|
-
-| FY3/17 | 155697 |
-
-| FY3/18 | 281172 |
-
-| FY3/19 | 310571 |
-
-| FY3/20 | 237292 |
-
-| FY3/21 | 320685 |
-
-| FY3/22 | 599271 |
-
-| FY3/23 | 617723 |
-
-| FY3/24 | 456263 |
-
-| FY3/25 | 697319 |
-
-| FY3/26 | 624936 |
+**Figure 3. Tokyo Electron Limited — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Tokyo Electron Limited — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 19.5 |
-
-| FY3/18 | 24.9 |
-
-| FY3/19 | 24.3 |
-
-| FY3/20 | 21.1 |
-
-| FY3/21 | 22.9 |
-
-| FY3/22 | 29.9 |
-
-| FY3/23 | 28 |
-
-| FY3/24 | 24.9 |
-
-| FY3/25 | 28.7 |
-
-| FY3/26 | 25.6 |
+**Figure 4. Tokyo Electron Limited — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Tokyo Electron Limited — revenue and operating margin**
+**Figure 5. Tokyo Electron Limited — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -167,7 +97,7 @@ Exhibit 3 (this section) sets out the chain. At the FY3/2026 results (30 April 2
 
 The guide rests on the company's WFE view (Q&A, 2 November 2026): CY2026 WFE of ~$160bn (logic/foundry high-$80bn range, DRAM high-$40bn, NAND mid-$10bn) and CY2027 of $210bn or more (logic/foundry ~$100bn, DRAM low-$70bn range), explicitly a build-up of customer capex plans received rather than a supply-constrained number, "with possible upside". Management also guided the full-year China sales share to the low-30% range — below Q2's 36.4% print — and announced a buyback of up to ¥150bn (running June 2026 to March 2027) with the results. Dividend guidance for FY3/2027 was not captured in the sources used (未取得); the FY3/2026 dividend was ¥628 per share (pre-split; secondary source).
 
-**Exhibit 3 — Latest results and the FY3/2027 guidance chain (¥mn)**
+**Figure 6. Exhibit 3 — Latest results and the FY3/2027 guidance chain (¥mn)**
 
 | Period / step | Sales | Operating profit | Net income (owners) |
 |---|---|---|---|
@@ -208,49 +138,7 @@ WFE is the largest pool in the semiconductor equipment value chain. TEL's compan
 
 Two WFE frames now coexist and should not be mixed. SEMI's forecast, as compiled in the FIELDNOTES semiconductor equipment report, puts WFE at $116.9bn in 2025, rising 23.1% to $143.9bn in 2026 and to roughly $200bn by 2028, with 2026 foundry/logic at $78.0bn, DRAM at $38.8bn and NAND at $13.9bn. The company's own view, built up from customer capex plans, is higher — about $160bn for CY2026 and $210bn or more for CY2027. The gap between an industry-association forecast and a customer-plan build-up is itself information: the company number is procyclical by construction, and management answered the CY2028 payback question only by saying it sees no slowdown signals in customer dialogue.
 
-**Figure: Tokyo Electron in the semiconductor equipment value chain**
-
-**Raw materials**
-
-- Specialty gases
-- High-purity chemicals & targets
-- Quartz, SiC materials
-- RO membranes, ion-exchange resin
-
-**Common components**
-
-- Vacuum pumps
-- RF power, mass-flow controllers
-- Valves, heaters
-- Ebara, MKS, Horiba STEC, Fujikin
-
-**Tokyo Electron Limited (8035)**
-
-- Coater/developers — lithography track systems (>90% share)
-- Etch, deposition (CVD/ALD) & surface-preparation/cleaning systems
-- Wafer probers; bonders/debonders for 3D integration & advanced packaging
-- Field Solutions — parts, maintenance, modifications, used equipment (~21% of Q2 FY3/27 sales)
-
-**Process materials**
-
-- Resist, CMP slurry, cleaning chemicals
-- Photomasks
-- Moulding & substrate materials
-- JSR, TOK, DNP, Resonac
-
-**Fab infrastructure & utilities**
-
-- Ultrapure water (UPW)
-- Gas / chemical supply
-- Cleanrooms
-- Kurita, Organo, Nomura Micro
-
-**Customer fabs & services**
-
-- Foundry, memory & IDM capex
-- Installed-base maintenance
-- Spares & consumables
-- TSMC, Samsung, SK hynix, Micron
+**Figure 7. Tokyo Electron in the semiconductor equipment value chain**
 
 *Source: FIELDNOTES sector report §4 (semiconductor equipment & materials value chain); company product lines from §3 of this report.*
 
@@ -258,84 +146,15 @@ Two WFE frames now coexist and should not be mixed. SEMI's forecast, as compiled
 
 Disclosure structure changed fundamentally in FY3/2024: three reportable segments (SPE / FPD / Other) through FY3/2023, a single segment thereafter. Regional sales were disclosed in the annual tanshin reference table through FY3/2023 and are not disclosed in the FY3/2024–26 tanshin at all (register S5); a presentation-basis regional split continues in briefing materials. The blocks below are never spliced across these breaks.
 
-**Figure: Tokyo Electron Limited — segment revenue, FY3/23**
-
-| Item | Value (Fiscal year) |
-
-|---|---|
-
-| SPE — sales | 2155206 |
-
-| FPD — sales | 53674 |
-
-| Other — sales | 34214 |
-
-| Adjustments — sales (eliminations) | -34069 |
-
-| Japan sales | 238394 |
-
-| North America sales | 344327 |
-
-| Europe sales | 184261 |
-
-| Korea sales | 349568 |
-
-| Taiwan sales | 420269 |
-
-| China sales | 672206 |
+**Figure 8. Tokyo Electron Limited — segment revenue, FY3/23**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Tokyo Electron Limited — segment revenue by year**
+**Figure 9. Tokyo Electron Limited — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Tokyo Electron Limited — segment revenue mix, FY3/23**
-
-**SPE**
-
-- ¥2,155,206mn
-- 48.4% of revenue
-
-**China**
-
-- ¥672,206mn
-- 15.1% of revenue
-
-**Taiwan**
-
-- ¥420,269mn
-- 9.4% of revenue
-
-**Korea**
-
-- ¥349,568mn
-- 7.9% of revenue
-
-**North America**
-
-- ¥344,327mn
-- 7.7% of revenue
-
-**Japan**
-
-- ¥238,394mn
-- 5.4% of revenue
-
-**Europe**
-
-- ¥184,261mn
-- 4.1% of revenue
-
-**FPD**
-
-- ¥53,674mn
-- 1.2% of revenue
-
-**Other**
-
-- ¥34,214mn
-- 0.8% of revenue
+**Figure 10. Tokyo Electron Limited — segment revenue mix, FY3/23**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -343,7 +162,7 @@ Disclosure structure changed fundamentally in FY3/2024: three reportable segment
 
 Exhibit 2 (this section) shows FY3/2022–23. **SPE dominated: sales ¥1,943,843mn and segment profit ¥667,437mn (34.3% margin) in FY3/2022**; ¥2,155,206mn and ¥696,378mn (32.3%) in FY3/2023. FPD shrank (¥59,830mn → ¥53,674mn; profit ¥3,874mn → ¥1,061mn) and Other was small (¥28,132mn → ¥34,214mn). In the history block (FY3/2017–21, register S15), SPE sales rose from ¥749,893mn to ¥1,315,200mn with profit of ¥182,709mn → ¥362,526mn; FPD peaked at ¥111,261mn of sales in FY3/2019 (profit ¥24,241mn) before fading to ¥83,772mn by FY3/2021. Segment profit definitions: in the history block the segment total ties to profit before tax (block checks = 0); in the sheet's FY3/2022–23 block the segment total ties to operating profit. The register (S3) describes the disclosed definition as reconciling to profit before tax — the tension is flagged in Chapter 9 and the figures are shown as entered in the sheet. Segment sales are totals including intersegment sales (the only basis disclosed in quarterly tanshin), with eliminations of −¥28,000mn (FY3/2022) and −¥34,069mn (FY3/2023) on the adjustment line. From FY3/2024 there is no segment split to report: the single-segment statement is all the tanshin carries.
 
-**Exhibit 2 — Segments and regions, last disclosed bases (¥mn)**
+**Figure 11. Exhibit 2 — Segments and regions, last disclosed bases (¥mn)**
 
 | Item | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 |
 |---|---|---|---|---|---|---|---|
@@ -400,6 +219,6 @@ Gaps (未取得/not disclosed): order intake and backlog (all periods); employee
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
