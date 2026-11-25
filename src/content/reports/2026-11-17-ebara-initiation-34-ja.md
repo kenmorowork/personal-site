@@ -11,7 +11,7 @@ lang: ja
 
 Fluid machinery, rebuilt around a semiconductor-equipment engine: Ebara Corporation (6361, TSE Prime) is the Tokyo-based fluid-machinery group founded in 1912: standard and custom pumps, compressors and turbines, chillers and waste-treatment plants, and — decisively for the current equity story — CMP systems, plating tools and dry vacuum pumps for semiconductor fabs. Since the FY2023 reorganisation it reports five segments: Precision & Electronics, Energy, Building & Industrial, Infrastructure and Environmental. The initiation question is mix and conversion, not demand. Nine months into FY12/26, orders reached a record ¥979,050mn (+43.9% YoY), revenue ¥745,937mn (+12.4%) and operating profit ¥83,597mn (+20.2%), and the full-year orders plan was raised on 13 November 2026 to ¥1,295,000mn — yet full-year revenue and operating-profit guidance were left unchanged at ¥1,053,000mn and ¥125,000mn (company guidance), because **the Precision & Electronics order surge (9M orders ¥426.6bn, +112.2% YoY, on AI-driven fab investment) converts with lead times the company puts at over a year in places**. Strengths: (1) Precision & Electronics is a genuine second growth engine with pricing and mix support — 9M FY12/26 segment profit of ¥58,193mn at a 19.8% margin, 67% of reported segment profit, against an E-Plan 2028 target of a ≥20% margin and FY2028 sales of about 1.5× FY2025; (2) orders and backlog are fully disclosed and at records — backlog of ¥1,138,900mn at September 2026 (about 1.1× guided FY12/26 revenue, calculated) gives unusual forward visibility for a Japanese machinery name; (3) the balance sheet and returns are solid — owners' equity ratio 48.6% at September 2026 and ROE of 15.6% in FY12/25, with the new E-Plan 2028 (announced 13 February 2026) targeting FY2028 revenue of about ¥1.2tn, an operating margin of ≥14.5%, ROIC of ≥13% and ROE of ≥18% (company plan targets). Weaknesses: (1) profit concentration is now extreme and cyclical — the segment carrying two-thirds of profit is geared to wafer-fab-equipment spending the company itself assumes grows ≥20% in 2026, and the Q2 briefing conceded part of Q1's order surge was customer pull-forward; (2) Energy, the second-largest segment by sales, printed a 1.0% segment margin in 9M FY12/26 (¥1,411mn, −91.7% YoY) on Middle East service-and-support disruption, a loss-making US plant and hydrogen fixed costs, and **its unchanged full-year plan of ¥13,000mn implies about ¥11.6bn of profit in Q4 alone (calculated) — the single most aggressive implied number in the print**; (3) headline quality needs care — 9M pre-tax profit (+53.1%) was flattered by a ¥17,225mn gain on selling the Suing (水ing) equity-method stake, which sits below operating profit, and the ¥125,000mn operating-profit guide itself absorbs a ¥4,000mn non-cash pension-plan (DB→DC) accounting loss in Other. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and company plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY12/25 actuals (J-GAAP to FY2020, IFRS from FY2021, as reported) and FY12/26E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY12/25 actuals (J-GAAP to FY2020, IFRS from FY2021, as reported) and FY12/26E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY12/17 (9M) | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY12/26E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -31,6 +31,7 @@ Fluid machinery, rebuilt around a semiconductor-equipment engine: Ebara Corporat
 *Source: Company results via PL/segment sheet (tanshin, JPX archive). FY12/17 is a 9-month transitional period (Apr–Dec 2017), shown as reported, never annualised; growth rates spanning it are not shown. Basic EPS and dividends are as printed in each year's own tanshin: FY2021–23 EPS/dividends are on the pre-split basis (5-for-1 split, 1 Jul 2024), FY2024–25 on the split-restated basis those tanshin print; FY2024 dividend is the split-adjusted equivalent (tanshin note). ROE is as reported in the tanshin headers where stated. FY2021 revenue growth (15.2%) is calculated against FY2020 as reported (J-GAAP); the FY2021 tanshin prints +15.5% against its IFRS-restated FY2020 comparative. FY12/26E = company guidance as revised in the Q3 FY12/26 tanshin, 13 Nov 2026 (orders ¥1,295,000mn).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥1.55tn |
@@ -41,6 +42,7 @@ Fluid machinery, rebuilt around a semiconductor-equipment engine: Ebara Corporat
 | Next event | FY12/26 results, mid-Feb 2027 |
 
 ## Key points
+
 - **9M FY12/26: record orders, sales and profit — with a flattered pre-tax line.** For the nine months to 30 September 2026 (IFRS), orders were ¥979,050mn (+43.9% YoY), revenue ¥745,937mn (+12.4%), operating profit ¥83,597mn (+20.2%; margin 11.2%), profit before tax ¥101,364mn (+53.1%) and net income attributable to owners ¥71,476mn (+60.0%); basic EPS was ¥156.67. The company describes orders, revenue and operating profit as 9-month records. **The pre-tax growth rate is not the clean read: it includes a ¥17,225mn gain on the sale of the Suing equity-method stake** and ¥4,818mn of finance income, both below operating profit. Backlog at 30 September 2026 was ¥1,138,900mn (+23.8% YoY, tanshin supplement). Source: Q3 FY12/26 tanshin, 13 November 2026.
 - **Guidance: orders raised twice, P&L held — delivery now rests on a very large Q4.** Full-year FY12/26 company guidance (会社計画) as revised on 13 November 2026 is orders ¥1,295,000mn (raised from ¥1,245,000mn at Q2 and an initial ¥1,070,000mn in February 2026; the entire Q3 raise is Precision & Electronics, whose order plan is now ¥600,000mn), revenue ¥1,053,000mn (unchanged since the Q2 raise from ¥1,020,000mn), operating profit ¥125,000mn (unchanged all year), profit before tax ¥142,000mn and owners' net income ¥99,500mn with basic EPS of ¥218.10. Nine-month progress is 70.8% of guided revenue but only 66.9% of guided operating profit (calculated), so **Q4 must deliver about ¥41,403mn of operating profit** — seasonally the largest quarter, but the test of the print. The dividend forecast is unchanged at ¥66 per share. Source: Q3 FY12/26 tanshin, 13 November 2026; guidance tracker verification against the tanshin chain.
 - **Strength — Precision & Electronics: orders +112%, margin 19.8%, two-thirds of segment profit.** Precision & Electronics (CMP, plating, dry vacuum pumps and components) took 9M FY12/26 orders of ¥426.6bn (+112.2% YoY, ¥100mn-rounded supplement) on AI-driven logic/foundry and memory investment, with external revenue of ¥293,569mn (+31.5%) and **segment profit of ¥58,193mn (+77.0%) — a 19.8% margin, already close to the E-Plan 2028 target of ≥20%**. The full-year segment plan was raised to orders of ¥600,000mn and segment profit of ¥79,000mn on revenue of ¥425,000mn (company guidance). The open questions are conversion and pull-forward: management notes lead times over one year in some businesses and conceded Q1 pull-forward orders in the Q2 Q&A. Source: Q3 FY12/26 tanshin segment note and supplement, 13 November 2026; Q2 FY12/26 briefing Q&A, 14 August 2026.
@@ -55,91 +57,19 @@ The decade is a compounding story with one flat patch. Revenue grew from ¥476,1
 
 Orders and backlog — disclosed in full, which is not the Japanese machinery norm — trace the demand build: order intake of ¥771,483mn / ¥815,218mn / ¥820,598mn / ¥860,579mn / ¥949,683mn across FY2021–25 (FY3/17: ¥477,956mn) and period-end backlog of ¥651,500mn / ¥818,100mn / ¥890,700mn / ¥917,100mn / ¥912,000mn. The balance sheet stayed conservative through the build: total assets were ¥1,082,201mn and total equity ¥521,666mn at 31 December 2025 (owners' equity ¥508,875mn; owners' equity ratio 47.0%; book value per share ¥1,114.52), with cash of ¥143,485mn against bonds, borrowings and lease liabilities of ¥224,735mn on the sheet's combined definition. Operating cash flow is volatile by project timing — ¥72,858mn / ¥37,070mn / ¥70,012mn / ¥100,940mn / ¥40,755mn across FY2021–25 — and FY2025's soft print against record profit (working capital: receivables rose to ¥209,180mn) is a monitoring item, not yet a trend. Exhibit 1 (page 1) gives the full KPI table including FY12/26 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY12/25; FY12/25 tanshin header, 13 February 2026.
 
-**Figure: Ebara Corporation — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 476104 |
-
-| FY12/17 (9M) | 381993 |
-
-| FY2018 | 509175 |
-
-| FY2019 | 522424 |
-
-| FY2020 | 523727 |
-
-| FY2021 | 603213 |
-
-| FY2022 | 680870 |
-
-| FY2023 | 759328 |
-
-| FY2024 | 866668 |
-
-| FY2025 | 958285 |
+**Figure 2. Ebara Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Ebara Corporation — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 29995 |
-
-| FY12/17 (9M) | 18115 |
-
-| FY2018 | 32482 |
-
-| FY2019 | 35298 |
-
-| FY2020 | 37879 |
-
-| FY2021 | 61372 |
-
-| FY2022 | 70572 |
-
-| FY2023 | 86025 |
-
-| FY2024 | 97953 |
-
-| FY2025 | 113802 |
+**Figure 3. Ebara Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Ebara Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 6.3 |
-
-| FY12/17 (9M) | 4.7 |
-
-| FY2018 | 6.4 |
-
-| FY2019 | 6.8 |
-
-| FY2020 | 7.2 |
-
-| FY2021 | 10.2 |
-
-| FY2022 | 10.4 |
-
-| FY2023 | 11.3 |
-
-| FY2024 | 11.3 |
-
-| FY2025 | 11.9 |
+**Figure 4. Ebara Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Ebara Corporation — revenue and operating margin**
+**Figure 5. Ebara Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -159,7 +89,7 @@ Full-year FY12/26 guidance, as revised in the Q3 release of 13 November 2026, is
 
 Segment guidance (Q3 tanshin) concentrates both the opportunity and the risk. Orders: Precision & Electronics ¥600,000mn (raised ¥50,000mn at Q3), Energy ¥220,000mn, Building & Industrial ¥280,000mn, Infrastructure ¥60,000mn, Environmental ¥135,000mn. Revenue: ¥425,000mn / ¥205,000mn / ¥265,000mn / ¥60,000mn / ¥98,000mn respectively, all unchanged at Q3. Segment profit: Precision & Electronics ¥79,000mn (raised ¥2,000mn), Energy ¥13,000mn (cut ¥5,000mn), Building & Industrial ¥19,000mn (unchanged), Infrastructure ¥6,000mn (raised ¥500mn), Environmental ¥13,500mn (raised ¥500mn), Other −¥5,500mn — summing to the unchanged ¥125,000mn. Against these plans, 9M progress is 71.1% of guided orders, 70.8% of guided revenue and 66.9% of guided operating profit (calculated); by segment, Energy has delivered 10.9% of its guided profit while Precision & Electronics has delivered 73.7%. The company's stated market assumption for Precision & Electronics is wafer-fab-equipment (WFE) growth of ≥20% in 2026, raised during the year from about +10% (initial) to +18% or more at Q2 (briefing materials). Exhibit 3 sets out the 9M segment actuals and full-year segment guidance. Source: Q3 FY12/26 tanshin, 13 November 2026 (guidance section and segment supplement); guidance tracker verification, 17 November 2026.
 
-**Exhibit 3. 9M FY12/26 segment results and FY12/26 company guidance by segment**
+**Figure 6. Exhibit 3. 9M FY12/26 segment results and FY12/26 company guidance by segment**
 
 | ¥mn | 9M FY12/26 orders | 9M FY12/26 revenue | 9M FY12/26 profit | FY12/26E orders (guidance) | FY12/26E revenue (guidance) | FY12/26E profit (guidance) |
 |---|---|---|---|---|---|---|
@@ -195,49 +125,7 @@ Ebara sits at two very different points of two value chains that share one compe
 
 In fluid machinery, Energy and Building & Industrial compete on engineered performance, installed-base trust and global service coverage against global pump and turbomachinery makers (among them Sulzer, Flowserve and Elliott's peers) and, in standard pumps, a broad industrial field; the moat is the S&S annuity on a decades-long installed base, which is precisely what the Middle East disruption interrupted in 2026 — parts shipments and supervisor dispatch are the physical form of that moat. Infrastructure and Environmental compete for Japanese public spending, where entry barriers are track record, qualification and long O&M references rather than technology, and where the ¥436,000mn Environmental backlog (about 4.5× segment revenue) is the barrier made visible. Entry barriers across the group are application know-how, qualification cycles (a CMP tool or a custom compressor written into a customer's process is sticky), and service networks; the substitute risks are platform shifts in semiconductor processes (new polishing/planarisation architectures), customer insourcing of service, and price competition in standard pumps. The two sensitivities that follow for the equity: first, the profit pool has migrated to the most cyclical chain — Precision & Electronics was 67% of 9M FY12/26 reported segment profit — so group earnings beta to WFE is now the dominant risk factor; second, orders convert slowly (management: lead times over one year in some businesses), so the earliest observable of a demand turn is the quarterly order print itself, which Ebara, to its credit, discloses in full. Sources: Q3 FY12/26 tanshin outlook section; Q2 FY12/26 briefing Q&A, 14 August 2026; PL/segment sheet (tanshin, JPX archive).
 
-**Figure: Ebara in the pumps, compressors & vacuum value chain**
-
-**Raw Materials & Castings**
-
-- Cast iron / cast steel, stainless castings
-- Special steels — Proterial
-- Titanium & corrosion-resistant alloys
-- Motor magnet materials
-
-**Components & Parts**
-
-- Mechanical seals — Eagle Industry, Nippon Pillar
-- Bearings
-- Motors & inverters
-- Screw elements, TMP magnetic bearings, vacuum gauges
-
-**Ebara Corporation (6361)**
-
-- Precision & Electronics — CMP, plating, dry vacuum pumps (35.7% of FY12/25 sales)
-- Energy — custom pumps, compressors, turbines incl. Elliott (22.7%)
-- Building & Industrial — standard pumps, chillers (25.3%)
-- Infrastructure & Environmental — water pumps, waste plants & O&M (16.2%)
-
-**Systems, Control & Software**
-
-- Variable-speed control
-- Air management & condition monitoring
-- Predictive maintenance
-- Vacuum subsystems (pump + valve + gauge + abatement)
-
-**Distribution, Installation & EPC**
-
-- Direct sales & regional dealers
-- Portable equipment rental
-- EPC channel — JGC, Chiyoda, Toyo
-- Semiconductor OEM channel (vacuum)
-
-**End Users & Service**
-
-- Semiconductor fabs, LNG & petrochemical plants
-- Power stations, water utilities, data centres
-- Parts, overhaul & rebuild — KSB SupremeServ, Sulzer Services
-- Long-term service & vacuum remanufacturing
+**Figure 7. Ebara in the pumps, compressors & vacuum value chain**
 
 *Source: FIELDNOTES sector report §4 (compressors, pumps & vacuum value chain); company segments from §3 of this report.*
 
@@ -245,54 +133,15 @@ In fluid machinery, Energy and Building & Industrial compete on engineered perfo
 
 Ebara's tanshin disclosure gives a complete business-segment history on two successive bases, full order intake and backlog by segment, and regional sales in the area-information note (億円-rounded source). This chapter keeps the two segment bases separate and labelled, as the sheet does: the current five segments from FY2023, and the pre-reorganisation three segments for FY3/17–FY2022. Regional profit on a customer-location basis is not disclosed; entity-location operating profit is disclosed in the area information and is noted where relevant in the sheet, but is not presented as a regional profit series here.
 
-**Figure: Ebara Corporation — segment revenue, FY2025**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Precision & Electronics — sales (5-seg basis) | 342267 |
-
-| Energy — sales | 217845 |
-
-| Building & Industrial — sales | 241938 |
-
-| Infrastructure — sales | 57143 |
-
-| Environmental — sales | 97864 |
+**Figure 8. Ebara Corporation — segment revenue, FY2025**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Ebara Corporation — segment revenue by year**
+**Figure 9. Ebara Corporation — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Ebara Corporation — segment revenue mix, FY2025**
-
-**Precision & Electronics**
-
-- ¥342,267mn
-- 35.8% of revenue
-
-**Building & Industrial**
-
-- ¥241,938mn
-- 25.3% of revenue
-
-**Energy**
-
-- ¥217,845mn
-- 22.8% of revenue
-
-**Environmental**
-
-- ¥97,864mn
-- 10.2% of revenue
-
-**Infrastructure**
-
-- ¥57,143mn
-- 6.0% of revenue
+**Figure 10. Ebara Corporation — segment revenue mix, FY2025**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -300,7 +149,7 @@ Ebara's tanshin disclosure gives a complete business-segment history on two succ
 
 Exhibit 2 gives the history. On the current basis (FY2023–25), three facts organise it. First, the profit migration: Precision & Electronics' share of reported segment profit rose from 43.5% in FY2023 to 49.5% in FY2025 and about 67% in 9M FY12/26 (calculated) — ==Ebara is, on current earnings, a semiconductor-equipment company with a pumps annuity attached, which is the interview pack's central framing question==. Second, Energy is the swing factor in the other direction: segment profit of ¥22,347mn / ¥28,008mn / ¥25,943mn across FY2023–25 became ¥1,411mn in 9M FY12/26, and its backlog (¥238,900mn at September 2026) says the demand is intact — the failure is execution and S&S logistics, per the company's own qualitative disclosure. Third, the quiet compounders: Environmental's margin reached 13.3% in FY2025 on O&M mix, and Building & Industrial remains the margin laggard (6.3% in FY2025) despite being the second-largest revenue block. On the old basis (FY3/17–FY2022, J-GAAP to FY2020 and IFRS from FY2021), Fluid Machinery & Systems was the largest block throughout (sales ¥292,246mn in FY3/17 to ¥383,393mn in FY2022; profit ¥9,476mn to ¥32,038mn, with the FY12/17 9-month profit of ¥1,262mn the era's trough), Precision Machinery compounded from ¥114,120mn of sales and ¥14,115mn of profit (FY3/17) to ¥222,259mn and ¥36,183mn (FY2022), and Environmental Engineering stayed small and backlog-driven (sales ¥68,064mn to ¥73,738mn). Orders by segment on the current basis (FY2025): Precision & Electronics ¥303,447mn, Building & Industrial ¥249,285mn, Energy ¥194,777mn, Environmental ¥135,392mn, Infrastructure ¥62,973mn; backlog at FY2025 year-end was concentrated in Environmental (¥384,600mn) and Energy (¥213,700mn). Source: company results via PL/segment sheet (tanshin, JPX archive), segment note and supplement.
 
-**Exhibit 2. Business segments — sales and segment profit on each era's own disclosed basis (never spliced)**
+**Figure 11. Exhibit 2. Business segments — sales and segment profit on each era's own disclosed basis (never spliced)**
 
 | ¥mn | FY3/17 | FY12/17 (9M) | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -371,6 +220,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
