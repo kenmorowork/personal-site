@@ -11,7 +11,7 @@ lang: en
 
 EDM depth, suddenly scarce capacity: Sodick Co., Ltd. (6143, TSE Prime) is the Yokohama-based pioneer of numerically controlled electrical discharge machines (EDM) — die-sinker and wire-cut machines that erode hardened metal with spark discharges to micron accuracy — and the company that put flat linear-motor drives into EDM from 1998. Machine tools were 72.4% of FY12/25 revenue of ¥80,572mn; the balance is injection-moulding machines (industrial machinery), noodle and packaged-rice food machinery, and an 'Other' bucket of precision moulding and element technology (ceramics, linear motors, LED). The initiation story is a demand shock meeting a restructured cost base: **nine-month FY12/26 revenue rose 27.3% YoY to ¥71,752mn and operating profit 141.6% to ¥7,292mn** on data-centre demand for optical connectors, electronic components and semiconductors, concentrated in Greater China (38.7% of nine-month revenue by customer location), and on 6 November 2026 the company raised full-year FY12/26 guidance to revenue of ¥101,400mn and operating profit of ¥11,000mn — **already above the FY12/29 targets (¥100,000mn / ¥10,000mn) of its Mid-term Plan 'Grow Forward 2029'**, announced only in February 2026. Strengths: (1) genuine technology depth — world-first NC EDM, proprietary linear-motor drives, ceramics and in-house NC/power-supply development, with more than 60,000 linear-motor machines shipped cumulatively (company materials); (2) a recurring tail — maintenance services and consumables were ¥16,593mn, 20.6% of FY12/25 revenue; (3) a solid balance sheet (equity ratio 60.5% at end-September 2026) and a step-change in returns policy — a progressive dividend, a total payout target of 70% or more over FY12/26–29, and a buyback of up to 2.4mn shares / ¥3,000mn running to 23 December 2026. Weaknesses: (1) earnings quality through the cycle is unproven — the five-year record includes an operating loss of ¥2,819mn in FY12/23, ROE has not exceeded 10.0% in the period and was 5.2% in FY12/25, and the FY12/29 plan's own ROE target is only 8% or more; (2) concentration — Greater China was 33.7% of FY12/25 revenue and 38.7% in 9M FY12/26, and the current surge rests substantially on one demand complex (data-centre optical connectors) across both the machine-tool and injection-moulding segments; (3) disclosure gaps — order intake, backlog, unit volumes, capacity and utilisation are not disclosed in the tanshin, so the durability of the surge cannot be verified from orders, and a dilutive convertible bond (partially converted in 2026 using treasury shares; diluted EPS of ¥115.52 vs basic ¥137.34 in 9M FY12/26) complicates per-share arithmetic. All historical figures are as reported by the company (J-GAAP) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance and plan targets, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY12/25 actuals and FY12/26E company guidance**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY12/25 actuals and FY12/26E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY12/17 (9M) | FY12/18 | FY12/19 | FY12/20 | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 | FY12/26E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -30,6 +30,7 @@ EDM depth, suddenly scarce capacity: Sodick Co., Ltd. (6143, TSE Prime) is the Y
 *Source: Company results via PL/segment sheet (tanshin, JPX archive); ROE, BPS and equity ratio as reported in annual tanshin headers. EPS is reported basic EPS (see Basis of preparation on the sheet's calculated EPS). FY12/26E = company guidance revised at Q3 FY12/26 (tanshin, 6 Nov 2026). Dividend FY12/26E ¥35 includes a ¥6 commemorative dividend. History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥65.5bn |
@@ -40,6 +41,7 @@ EDM depth, suddenly scarce capacity: Sodick Co., Ltd. (6143, TSE Prime) is the Y
 | Next event | FY12/26 full-year results, mid-Feb 2027 |
 
 ## Key points
+
 - **Guidance now exceeds the 2029 plan.** FY12/26 company guidance, revised up at Q3 on 6 November 2026, is revenue ¥101,400mn (+25.9% YoY), operating profit ¥11,000mn (+160.4%), ordinary profit ¥12,000mn, net income to parent ¥9,500mn and EPS ¥179.30 — **above Mid-term Plan 'Grow Forward 2029' FY12/29 targets of ¥100,000mn revenue and ¥10,000mn operating profit, three years early**. The path was ¥88,500mn / ¥5,500mn at the February 2026 initial forecast and ¥97,000mn / ¥9,200mn at the Q2 revision (7 August 2026). Source: Q3 FY12/26 tanshin, 6 November 2026; PL/segment sheet register S9.
 - **9M FY12/26: the machine-tool segment did the work.** Nine-month revenue was ¥71,752mn (+27.3% YoY), operating profit ¥7,292mn (+141.6%) and net income to parent ¥6,888mn (+217.4%). **Machine tools contributed ¥55,645mn of revenue (+33.7%) and ¥8,738mn of segment profit** — more than consolidated operating profit, after ¥2,600mn of corporate costs and eliminations — as utilisation rose on Greater China demand for electronic components, semiconductors and NEV applications. Source: Q3 FY12/26 tanshin, 6 November 2026.
 - **Strength — technology and the recurring tail.** Sodick developed the world's first NC die-sinker EDM, introduced flat linear-motor EDM drives in 1998 and has shipped more than 60,000 linear-motor machines; it develops its NC units, power supplies, linear motors and ceramics in-house. Maintenance services and consumables — the aftermarket on that installed base — **were 20.6% of FY12/25 revenue and grew in every year of the five-year record** even when machine sales fell. Source: company corporate materials, accessed November 2026; company results via PL/segment sheet (tanshin, JPX archive).
@@ -56,91 +58,19 @@ Revenue was ¥75,174mn in FY12/21, ¥80,495mn in FY12/22 (+7.1% YoY), ¥67,174mn
 
 The balance sheet strengthened through the loss year. Total assets were ¥155,695mn and net assets ¥90,592mn at 31 December 2025 (equity attributable to parent ¥90,502mn; equity ratio 58.1%; book value per share ¥1,786.89). Cash and equivalents were ¥44,983mn against borrowings of ¥24,428mn and bonds of ¥8,174mn (sheet and FY12/25 tanshin balance sheet). Operating cash flow was ¥7,642mn / ¥3,543mn / −¥14mn / ¥9,969mn / ¥7,147mn across FY12/21–25 — the FY12/23 near-zero print, in a loss year with inventory still rising, is the cash-flow signature of the downturn. Inventory ended FY12/25 at ¥33,387mn, about 7.2 months of cost of sales on the sheet's average-inventory calculation, down from a peak of 8.6 months in FY12/23 but still the working-capital item to watch; 'inventory optimisation' is an explicit workstream of the Advantage Partners alliance (Chapter 7). R&D expenditure, disclosed inside the SG&A breakdown, was ¥2,345mn in FY12/25 (2.9% of revenue), within a narrow ¥2,065–2,345mn band across the five years. Depreciation and amortisation was ¥3,435mn in FY12/25, giving an EBITDA proxy (operating profit + D&A) of ¥7,659mn. The full KPI table, including FY12/26 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY12/21–FY12/25; tanshin header indicators for ROE, BPS, equity ratio and cash-flow lines.
 
-**Figure: Sodick Co., Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 61812 |
-
-| FY12/17 (9M) | 65604 |
-
-| FY12/18 | 82716 |
-
-| FY12/19 | 67591 |
-
-| FY12/20 | 58030 |
-
-| FY12/21 | 75174 |
-
-| FY12/22 | 80495 |
-
-| FY12/23 | 67174 |
-
-| FY12/24 | 73668 |
-
-| FY12/25 | 80572 |
+**Figure 2. Sodick Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sodick Co., Ltd. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 5236 |
-
-| FY12/17 (9M) | 7490 |
-
-| FY12/18 | 9888 |
-
-| FY12/19 | 3422 |
-
-| FY12/20 | 1852 |
-
-| FY12/21 | 6813 |
-
-| FY12/22 | 5813 |
-
-| FY12/23 | -2819 |
-
-| FY12/24 | 2231 |
-
-| FY12/25 | 4224 |
+**Figure 3. Sodick Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sodick Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 8.5 |
-
-| FY12/17 (9M) | 11.4 |
-
-| FY12/18 | 12 |
-
-| FY12/19 | 5.1 |
-
-| FY12/20 | 3.2 |
-
-| FY12/21 | 9.1 |
-
-| FY12/22 | 7.2 |
-
-| FY12/23 | -4.2 |
-
-| FY12/24 | 3 |
-
-| FY12/25 | 5.2 |
+**Figure 4. Sodick Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sodick Co., Ltd. — revenue and operating margin**
+**Figure 5. Sodick Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -188,49 +118,7 @@ EDM is a niche inside the machine-tool market: third-party estimates of the glob
 
 The value chain runs from components (linear motors and drives, NC controls, discharge power supplies, ceramics, EDM wire and other consumables) through machine builders to dealers, technical centres and end-users, with a long aftermarket tail of maintenance, parts and consumables — **20.6% of Sodick's FY12/25 revenue** — that monetises the installed base of more than 60,000 linear-motor machines. Sodick is vertically integrated across the high-value elements of that chain (motors, controls, power supplies, ceramics, wire), which supports both its precision claims and its aftermarket attach, at the cost of carrying the full development burden. Competition is a concentrated global oligopoly of specialists: Mitsubishi Electric (the largest EDM supplier on third-party estimates, at roughly 15–19% share), Makino Milling Machine (6135; premium die-sinker and wire EDM alongside machining centres), GF Machining Solutions (Switzerland; the AgieCharmilles heritage), FANUC (6954; Robocut wire EDM, leveraging its CNC installed base), and Taiwanese makers such as CHMER and Excetek at the value end; the top five suppliers hold roughly half the market on GMI's estimate. Sodick is consistently placed in the leading group — company materials describe it as holding top-class global share in EDM, and FISCO's March 2026 company report calls it world top-class in EDM share — but no audited share series exists, and Sodick does not disclose order intake against which share could be tracked. Entry barriers are the accumulated discharge-control know-how, precision mechanics, application engineering and the service network an installed base requires; substitutes are high-speed hard milling (which has taken some mould work from die-sinkers), laser machining and, at the margin, additive manufacturing — which Sodick has chosen to own via AltForm rather than cede. Sources: Global Market Insights, 'Electrical Discharge Machine Market', 2026; Dataintelo industrial EDM report, 2026 (both via web search, November 2026); company results via PL/segment sheet; FISCO company report via news release, March 2026.
 
-**Figure: Sodick in the cutting-machine-tool value chain**
-
-**Materials & Machine Structures**
-
-- Castings: beds, columns, tables
-- Structural steel, mineral casting
-- In-house: DMG Mori, Okuma
-- In-house: Makino, Yamazaki Mazak
-
-**Precision Components**
-
-- Ball screws, linear guides: THK
-- Spindles, bearings: NSK, JTEKT
-- Measurement: Renishaw, HEIDENHAIN
-- ATC, pallet mechanisms
-
-**Control & Drive Systems**
-
-- CNC: Fanuc, Mitsubishi Electric, Siemens
-- Okuma OSP in-house CNC
-- Servo motors & amplifiers
-- PLC, safety control, sensors
-
-**Sodick Co., Ltd. (6143)**
-
-- Machine tools — die-sinker & wire-cut EDM, machining centres, metal 3D printers (72.4% of FY12/25 sales)
-- Industrial machinery — V-LINE injection moulding
-- Food machinery — noodle & packaged-rice plants
-- Other — ceramics, linear motors, precision moulding
-
-**Peripherals, Distribution & Integration**
-
-- Cutting tools: OSG, Sandvik
-- Holders, workholding, coolant
-- Trading houses: Yamazen, Yuasa
-- Automation cells, CAD/CAM, service
-
-**End Customers**
-
-- Automotive: Toyota, BYD, Tesla
-- Semiconductor equipment makers
-- Aerospace: GE Aerospace, Rolls-Royce
-- Dies & moulds, medical, AI data centres
+**Figure 6. Sodick in the cutting-machine-tool value chain**
 
 *Source: FIELDNOTES sector report §4 (cutting machine tools value chain); company segments from §5 of this report.*
 
@@ -238,47 +126,15 @@ The value chain runs from components (linear motors and drives, NC controls, dis
 
 Sodick discloses three reportable segments — machine tools, industrial machinery and food machinery — plus 'Other' (non-reportable), with segment profit defined as operating profit. It does not disclose geographic segments; the geographic cut in this chapter is the revenue-disaggregation note (sales by customer location), for which no profit split exists. Both cuts are published in every tanshin from FY12/22; the FY12/21 tanshin has no disaggregation note, so FY12/21 regional and type cells are blank in the sheet and in Exhibit 3.
 
-**Figure: Sodick Co., Ltd. — segment revenue, FY12/25**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Machine tools — sales | 58332 |
-
-| Industrial machinery — sales | 9730 |
-
-| Food machinery — sales | 6952 |
-
-| Other — sales | 5557 |
+**Figure 7. Sodick Co., Ltd. — segment revenue, FY12/25**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Sodick Co., Ltd. — segment revenue by year**
+**Figure 8. Sodick Co., Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Sodick Co., Ltd. — segment revenue mix, FY12/25**
-
-**Machine tools**
-
-- ¥58,332mn
-- 72.4% of revenue
-
-**Industrial machinery**
-
-- ¥9,730mn
-- 12.1% of revenue
-
-**Food machinery**
-
-- ¥6,952mn
-- 8.6% of revenue
-
-**Other**
-
-- ¥5,557mn
-- 6.9% of revenue
+**Figure 9. Sodick Co., Ltd. — segment revenue mix, FY12/25**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -286,7 +142,7 @@ Sodick discloses three reportable segments — machine tools, industrial machine
 
 Exhibit 2 gives the five-year history. Machine tools were ¥58,332mn of FY12/25 sales (72.4% of the group) and ¥5,465mn of segment profit (9.4% margin). The segment's arc explains the group's: profit of ¥7,176mn in FY12/21 and ¥7,046mn in FY12/22 **collapsed to ¥798mn in FY12/23 (1.7% margin)** as Greater China mould demand fell, then rebuilt to ¥3,447mn in FY12/24 and ¥5,465mn in FY12/25 on China plant consolidation and utilisation. Industrial machinery is the smallest reportable segment and the least profitable: ¥9,730mn sales and ¥518mn profit (5.3%) in FY12/25, with a loss of ¥478mn in FY12/23; its mix shift to high-value models is a stated restructuring theme, and its FY12/26 demand (optical connectors) is currently the strongest in its history on company commentary. Food machinery is the stabiliser: sales held a ¥6,813–7,695mn band across all five years — including the FY12/23 group downturn, when it earned ¥876mn at a 12.7% margin — and **its FY12/25 margin of 14.1% was the group's highest**. 'Other' swung from ¥811mn profit (FY12/21) to a ¥954mn loss (FY12/23) and back to ¥428mn (FY12/25). Corporate costs and eliminations — the adjustment between segment profit and consolidated operating profit — were −¥3,168mn in FY12/25 and have run at ¥2.5–3.2bn a year throughout, a fixed drag equal to 75% of FY12/25 operating profit that any segment-level analysis must carry. Source: company results via PL/segment sheet (tanshin, JPX archive), segment note (register S3).
 
-**Exhibit 2. Business segments — external sales and segment profit (operating profit)**
+**Figure 10. Exhibit 2. Business segments — external sales and segment profit (operating profit)**
 
 | ¥mn | FY3/17 | FY12/17 (9M) | FY12/18 | FY12/19 | FY12/20 | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -309,7 +165,7 @@ By customer location (Exhibit 3), FY12/25 revenue was: Greater China ¥27,156mn 
 
 By type, product sales were ¥63,979mn in FY12/25 (79.4%) and maintenance services and consumables ¥16,593mn (20.6%, derived as the disaggregation-note total less product sales; the note itself is in the sheet at register S5). ==The recurring line grew every year== — ¥14,404mn (FY12/22), ¥14,755mn (FY12/23), ¥15,696mn (FY12/24), ¥16,593mn (FY12/25) — including through the FY12/23 machine downturn, when its share of revenue reached 22.0%. That stability is the clearest structural offset to EDM cyclicality in the disclosure, and its growth rate (+5.7% in FY12/25; +19.7% YoY in 9M FY12/26 on the Q3 note) is one of the 2–3 numbers to monitor each quarter. Source: company results via PL/segment sheet (tanshin, JPX archive), revenue disaggregation note (registers S4–S5); Q3 FY12/26 tanshin revenue note.
 
-**Exhibit 3. Revenue by customer location and by type (revenue disaggregation note)**
+**Figure 11. Exhibit 3. Revenue by customer location and by type (revenue disaggregation note)**
 
 | ¥mn | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 |
 |---|---|---|---|---|---|
@@ -366,6 +222,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
