@@ -3,15 +3,21 @@ title: "A century-old phosphorus chemist riding the AI cycle: initiation on Rasa
 company: "Rasa Industries, Ltd."
 ticker: "4022"
 sector: "Chemicals"
-date: 2026-11-17
+date: 2026-11-23
 type: initiation
 externalUrl: "/en/reports/2026-11-17-rasa-industries-initiation-45/"
 lang: en
 ---
 
-Phosphorus chemistry, levered to the semiconductor cycle: Rasa Industries, Ltd. (4022, TSE Prime; formerly Rasa Kogyo) is the Tokyo-based chemicals group founded in 1913 on phosphate rock from Rasa Island, today organised into three reportable segments — Chemicals (phosphoric acid and phosphorus compounds, water-treatment coagulants and high-purity chemicals for electronics; 83.7% of FY3/26 external sales), Machinery (tunnelling machines, crushers, waste-treatment machinery, cast steel and precision machining) and Electronic Materials (high-purity inorganic materials for compound semiconductors and radioactive-iodine adsorbents) — plus a small, highly profitable Other business (petroleum-refining catalyst regeneration and real-estate leasing). The initiation question is whether FY3/27's step-up is a semiconductor-materials re-rating or a one-cycle spike in a single product. The exposure is unusually concentrated: **semiconductor-related sales were 51.1% of FY3/26 revenue (¥24,369mn) and semiconductor-grade high-purity phosphoric acid alone 35.2% (¥16,796mn), with TSMC at 13.8% of sales** (company securities report, via the interview pack). H1 FY3/27 printed revenue of ¥28,782mn (+26.8% YoY) and operating profit of ¥3,463mn (+21.1%), and **on 4 November 2026 the company raised full-year guidance to revenue ¥62,000mn and operating profit ¥7,400mn (company guidance)**. Strengths: (1) a dominant, hard-to-qualify position in high-purity phosphoric acid into the AI/data-centre semiconductor capex cycle, with Chemicals earning ¥5,531mn of segment profit in FY3/26 (13.8% margin) and Electronic Materials growing sales 52.1% that year at a 29.1% margin on InP-related demand; (2) a balance sheet that has been rebuilt over the decade — equity ratio 34.3% in FY3/17 to 63.7% at FY3/26, interest-bearing debt down from ¥13,392mn (FY3/19) to ¥7,507mn, operating cash flow up to ¥6,149mn in FY3/26; (3) a stable profit ballast in Other (¥746mn of segment profit in FY3/26, a 63.4% margin) that cushions the cycle. Weaknesses: (1) concentration and input risk — one product is over a third of sales, the largest customer is 13.8%, and the main raw material, yellow phosphorus, is imported and price-volatile, so earnings hinge on volume holding and on cost pass-through keeping pace; (2) disclosure is thin — regional sales and profit are not disclosed at all (regions ND), there are no order, R&D or employee figures in the tanshin, no segment guidance, and no quantified mid-term financial plan exists against which to judge FY3/28 and beyond; (3) the rest of the portfolio is not growing — Machinery sales have fallen from ¥6,131mn (FY3/20) to ¥4,197mn (FY3/26), and Q2 FY3/27 standalone operating profit growth already slowed versus Q1. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (J-GAAP, March year-end, ten annual years FY3/17–FY3/26); the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
+Phosphorus chemistry, levered to the semiconductor cycle: Rasa Industries, Ltd. (4022, TSE Prime; formerly Rasa Kogyo)
 
-**Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and FY3/27E company guidance**
+-  is the Tokyo-based chemicals group founded in 1913 on phosphate rock from 
+
+- 
+
+- Rasa Island, today organised into three reportable segments — Chemicals (phosphoric acid and phosphorus compounds, water-treatment coagulants and high-purity chemicals for electronics; 83.7% of FY3/26 external sales), Machinery (tunnelling machines, crushers, waste-treatment machinery, cast steel and precision machining) and Electronic Materials (high-purity inorganic materials for compound semiconductors and radioactive-iodine adsorbents) — plus a small, highly profitable Other business (petroleum-refining catalyst regeneration and real-estate leasing). The initiation question is whether FY3/27's step-up is a semiconductor-materials re-rating or a one-cycle spike in a single product. The exposure is unusually concentrated: **semiconductor-related sales were 51.1% of FY3/26 revenue (¥24,369mn) and semiconductor-grade high-purity phosphoric acid alone 35.2% (¥16,796mn), with TSMC at 13.8% of sales** (company securities report, via the interview pack). H1 FY3/27 printed revenue of ¥28,782mn (+26.8% YoY) and operating profit of ¥3,463mn (+21.1%), and **on 4 November 2026 the company raised full-year guidance to revenue ¥62,000mn and operating profit ¥7,400mn (company guidance)**. Strengths: (1) a dominant, hard-to-qualify position in high-purity phosphoric acid into the AI/data-centre semiconductor capex cycle, with Chemicals earning ¥5,531mn of segment profit in FY3/26 (13.8% margin) and Electronic Materials growing sales 52.1% that year at a 29.1% margin on InP-related demand; (2) a balance sheet that has been rebuilt over the decade — equity ratio 34.3% in FY3/17 to 63.7% at FY3/26, interest-bearing debt down from ¥13,392mn (FY3/19) to ¥7,507mn, operating cash flow up to ¥6,149mn in FY3/26; (3) a stable profit ballast in Other (¥746mn of segment profit in FY3/26, a 63.4% margin) that cushions the cycle. Weaknesses: (1) concentration and input risk — one product is over a third of sales, the largest customer is 13.8%, and the main raw material, yellow phosphorus, is imported and price-volatile, so earnings hinge on volume holding and on cost pass-through keeping pace; (2) disclosure is thin — regional sales and profit are not disclosed at all (regions ND), there are no order, R&D or employee figures in the tanshin, no segment guidance, and no quantified mid-term financial plan exists against which to judge FY3/28 and beyond; (3) the rest of the portfolio is not growing — Machinery sales have fallen from ¥6,131mn (FY3/20) to ¥4,197mn (FY3/26), and Q2 FY3/27 standalone operating profit growth already slowed versus Q1. All historical figures are as reported by the company via the PL/segment sheet built from tanshin in the JPX disclosure archive (J-GAAP, March year-end, ten annual years FY3/17–FY3/26); the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
+
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY3/26 actuals (J-GAAP, as reported) and FY3/27E company guidance**
 
 | ¥mn unless stated | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 | FY3/27E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +35,7 @@ Phosphorus chemistry, levered to the semiconductor cycle: Rasa Industries, Ltd. 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive): main window FY3/22–FY3/26 plus supplementary history block FY3/17–FY3/21, each year as originally reported. EPS and dividend per share are adjusted (calculated) for the 10-for-1 share consolidation of 1 Oct 2017 and the 5-for-1 share split of 1 Apr 2026 (FY3/25–26 EPS as restated in the FY3/26 tanshin: ¥79.75 / ¥111.63). ROE as reported in the tanshin headers (FY3/17 ROE reflects a −¥749mn deferred-tax credit). FY3/27E = company guidance as revised in the notice of 4 Nov 2026 and confirmed in the Q2 FY3/27 tanshin, 11 Nov 2026.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥50.5bn |
@@ -39,11 +46,12 @@ Phosphorus chemistry, levered to the semiconductor cycle: Rasa Industries, Ltd. 
 | Next event | Q3 FY3/27 results, Feb 2027 |
 
 ## Key points
+
 - **H1 FY3/27: revenue +26.8%, operating profit +21.1% — and a pre-announced raise that the print then matched.** For the six months to 30 September 2026 (J-GAAP), revenue was ¥28,782mn (+26.8% YoY), operating profit ¥3,463mn (+21.1%; margin 12.0% vs 12.6% a year earlier), ordinary income ¥3,604mn (+22.2%) and net income attributable to owners ¥2,518mn (+23.1%); basic EPS was ¥64.48 (post-split basis). H1 landed almost exactly on the revised H1 forecast issued on 4 November 2026 (revenue ¥28,700mn / operating profit ¥3,450mn). The quarterly split shows the momentum question: Q1 standalone printed revenue ¥13,709mn (+30.9%) and operating profit ¥1,805mn (+37.0%), so Q2 standalone (derived as H1 minus Q1, both as reported) contributed revenue ¥15,073mn and operating profit ¥1,658mn — **growth decelerated even as the full-year guide was raised**. Source: Q2 FY3/27 tanshin, 11 November 2026; Q1 FY3/27 tanshin, 12 August 2026.
 - **Guidance raised once, by a fifth on operating profit — and H2 must accelerate.** Full-year FY3/27 company guidance (会社計画) was raised on 4 November 2026 to revenue ¥62,000mn (from an initial ¥54,000mn set on 14 May 2026), operating profit ¥7,400mn (from ¥6,200mn, +19.4%), ordinary income ¥7,600mn and owners' net income ¥5,200mn with EPS of ¥133.08; the dividend forecast was raised in the same notice from ¥36 to ¥43 per share (post-split basis). The Q2 tanshin of 11 November 2026 carried the revised figures unchanged. H1 delivered 46.4% of guided revenue and 46.8% of guided operating profit, so **the guide implies H2 operating profit of ¥3,937mn (calculated), 13.7% above the H1 print**, on semiconductor high-purity phosphoric acid demand in Japan and overseas and continued high levels of compound-semiconductor inorganic-materials sales, against rising main-raw-material costs (company-stated reason, revision notice of 4 November 2026). Source: revision notice, 4 November 2026; guidance tracker, 17 November 2026; Q2 FY3/27 tanshin.
 - **Strength — Chemicals is the story: 83.7% of sales, and the semiconductor slice is the growth.** Chemicals' external sales were ¥39,956mn in FY3/26 (83.7% of consolidated revenue) with segment profit of ¥5,531mn (13.8% margin); in H1 FY3/27 its sales rose 28.8% YoY to ¥24,656mn and segment profit 16.5% to ¥3,158mn, on firm semiconductor-grade high-purity phosphoric acid in Japan and overseas and firm purchased-goods sales (company, Q2 tanshin). Semiconductor-related sales were 51.1% of FY3/26 group revenue and high-purity phosphoric acid alone 35.2% (securities report via the interview pack) — **the segment is, in effect, a purified-chemicals supplier to the wafer-fab cycle, levered to AI/data-centre capex**. Electronic Materials is the second lever: H1 FY3/27 sales +45.9% to ¥1,675mn and segment profit ¥619mn (37.0% margin) on compound-semiconductor demand. Source: Q2 FY3/27 tanshin segment note; FY3/26 tanshin segment note; interview pack (securities-report figures).
 - **Weakness — the ten-year record is a long flat line with one spike, and disclosure gives no forward anchor.** Revenue was ¥23,283mn in FY3/17 and ¥28,978mn in FY3/21 — four years of drift — before the FY3/23 spike to ¥49,600mn (+40.1%, Chemicals-led) and the FY3/24 relapse to ¥42,788mn (−13.7%); **FY3/26 revenue of ¥47,727mn is still below the FY3/23 peak**, and operating profit has ranged between ¥1,622mn (FY3/17) and ¥6,012mn (FY3/26) with no stable trend. Against that record the company offers no quantified mid-term financial plan (the Mid-term Plan 2026 is in its final year and the tanshin discloses no numerical targets), no regional split, and no segment guidance — so the FY3/27 guide is the only forward anchor, and it is one year deep. Source: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; sheet register S4/S7/S8.
-- **Balance sheet and returns: the quiet improvement is real.** **The equity ratio rose from 34.3% (FY3/17) to 63.7% at 31 March 2026** (total assets ¥49,973mn, net assets ¥31,840mn); interest-bearing debt fell from a decade peak of ¥13,392mn at FY3/19 to ¥7,507mn at FY3/26 against cash and equivalents of ¥4,823mn, and operating cash flow reached ¥6,149mn in FY3/26 — funding FY3/26 capital expenditure of ¥4,373mn (sheet definition: tangible fixed-asset acquisitions) internally. Dividends per share on the current post-split basis (calculated adjustment) rose from ¥8 (FY3/18–20) to ¥36 in FY3/26, and the FY3/27 forecast is ¥43 — a payout of about 32% of guided EPS and a 3.4% yield at ¥1,259 (calculated). ROE was 14.6% in FY3/26 as reported. Source: company results via PL/segment sheet; FY3/26 tanshin header; revision notice, 4 November 2026.
+- **Balance sheet and returns: the quiet improvement is real.** **The equity ratio rose from 34.3% (FY3/17) to 63.7% at 31 March 2026** (total assets ¥49,973mn, net assets ¥31,840mn); interest-bearing debt fell from a decade peak of ¥13,392mn at FY3/19 to ¥7,507mn at FY3/26 against cash and equivalents of ¥4,823mn, and operating cash flow reached ¥6,149mn in FY3/26 — funding FY3/26 capital expenditure of ¥4,373mn (sheet definition: tangible fixed-asset acquisitions) internally. Dividends per share on the current post-split basi**s (calculated **adjustment) rose from ¥8 (FY3/18–20) to ¥36 in FY3/26, and the FY3/27 forecast is ¥43 — a payout of about 32% of guided EPS and a 3.4% yield at ¥1,259 (calculated). ROE was 14.6% in FY3/26 as reported. Source: company results via PL/segment sheet; FY3/26 tanshin header; revision notice, 4 November 2026.
 
 ## 1. Key indicators and financial history
 
@@ -55,91 +63,19 @@ Below operating profit the J-GAAP lines are small and clean by recent standards.
 
 The balance sheet is where the decade's progress is unambiguous. Total assets rose from ¥31,310mn (FY3/17) to ¥49,973mn at 31 March 2026; net assets from ¥10,780mn to ¥31,840mn; the equity ratio from 34.3% to 63.7%. Interest-bearing debt (borrowings and bonds as presented, sheet definition) peaked at ¥13,392mn at FY3/19 and was cut to ¥7,507mn by FY3/26, against cash and equivalents of ¥4,823mn — a net debt position of about ¥2,684mn (calculated) that is modest against FY3/26 operating cash flow of ¥6,149mn. Operating cash flow itself stepped up from the ¥1,803mn–¥2,963mn range of FY3/17–21 to ¥1,996mn / ¥2,042mn / ¥4,972mn / ¥5,038mn / ¥6,149mn in FY3/22–26. Capital expenditure (tangible fixed-asset acquisitions, sheet definition) was ¥944mn–¥3,561mn a year in the history block and ¥2,430mn / ¥919mn / ¥983mn / ¥1,872mn / ¥4,373mn in the main window — the FY3/26 step-up coincides with the Taiwan capacity expansion discussed in Chapter 7 (the tanshin does not itemise capex by project). Exhibit 1 (page 1) gives the full KPI table including FY3/27 company guidance. Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY3/17–FY3/26; FY3/26 tanshin header, 14 May 2026.
 
-**Figure: Rasa Industries, Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 23283 |
-
-| FY3/18 | 27427 |
-
-| FY3/19 | 30999 |
-
-| FY3/20 | 29759 |
-
-| FY3/21 | 28978 |
-
-| FY3/22 | 35411 |
-
-| FY3/23 | 49600 |
-
-| FY3/24 | 42788 |
-
-| FY3/25 | 45421 |
-
-| FY3/26 | 47727 |
+**Figure 2. Rasa Industries, Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Rasa Industries, Ltd. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 | 1622 |
-
-| FY3/18 | 2842 |
-
-| FY3/19 | 2573 |
-
-| FY3/20 | 1871 |
-
-| FY3/21 | 2659 |
-
-| FY3/22 | 3475 |
-
-| FY3/23 | 4622 |
-
-| FY3/24 | 3591 |
-
-| FY3/25 | 4736 |
-
-| FY3/26 | 6012 |
+**Figure 3. Rasa Industries, Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Rasa Industries, Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 | 7 |
-
-| FY3/18 | 10.4 |
-
-| FY3/19 | 8.3 |
-
-| FY3/20 | 6.3 |
-
-| FY3/21 | 9.2 |
-
-| FY3/22 | 9.8 |
-
-| FY3/23 | 9.3 |
-
-| FY3/24 | 8.4 |
-
-| FY3/25 | 10.4 |
-
-| FY3/26 | 12.6 |
+**Figure 4. Rasa Industries, Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Rasa Industries, Ltd. — revenue and operating margin**
+**Figure 5. Rasa Industries, Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -161,7 +97,7 @@ Full-year FY3/27 guidance, as revised in the notice of 4 November 2026 and confi
 
 The company's stated reason (revision notice, 4 November 2026): in Chemicals, despite cost increases in the main raw materials for phosphoric acid, semiconductor-grade high-purity phosphoric acid is expected to perform firmly in Japan and overseas on the back of a firm semiconductor market and strong demand; in Electronic Materials, sales of high-purity inorganic materials for compound semiconductors are expected to remain at a high level; and the H1 progress plus these full-year prospects put the year above the previous forecast. No segment-level guidance is disclosed, and no FX or raw-material price assumptions are published in the tanshin — both are gaps for the H2 debate. Against the guide, H1 progress was 46.4% on revenue and 46.8% on operating profit, so delivery requires H2 revenue of ¥33,218mn and H2 operating profit of ¥3,937mn (both calculated), an H2 operating margin of about 11.9% — below the H1 margin of 12.0% but on 15.4% more revenue than H1, i.e. **the guide is a volume step-up story concentrated in Chemicals**. Exhibit 3 sets out the H1 actuals, the H1 segment detail and the full-year guidance. The monitoring yardstick for Q3 (expected February 2027) is the interview pack's: cumulative operating-profit progress against ¥7,400mn, Chemicals segment profit and the semiconductor-related sales ratio, and whether Electronic Materials holds above +50% YoY. Source: FY3/26 tanshin section 3, 14 May 2026; revision notice, 4 November 2026; Q2 FY3/27 tanshin, 11 November 2026; guidance tracker, 17 November 2026.
 
-**Exhibit 3. H1 FY3/27 results (as reported) and FY3/27 company guidance**
+**Figure 6. Exhibit 3. H1 FY3/27 results (as reported) and FY3/27 company guidance**
 
 | ¥mn | H1 FY3/27 actual | H1 FY3/26 actual | FY3/27E (co. guidance) | H1 progress (%) |
 |---|---|---|---|---|
@@ -204,49 +140,7 @@ Rasa sits at the materials layer of two value chains. In semiconductors, the cha
 
 In the domestic chain, Chemicals' coagulants sell into waterworks demand (stable, public), and Machinery sells tunnelling and crushing equipment into sewerage and construction spending — lower growth, but uncorrelated with the semiconductor cycle. Entry barriers in the growth chain are qualification and purity: a high-purity chemical written into a fab's process is sticky, purification know-how accumulated over a century of phosphoric-acid technology (the company's own framing) is the moat, and supply responsibility — the company's stated commitment to a production system that meets global demand, including the Taiwan expansion — is part of the offer. The substitute and share risks are the standard ones for a niche materials supplier: competing high-purity chemical makers qualifying at the same fabs, customer dual-sourcing against a 13.8% concentration, and the lumpiness of the AI capex cycle itself. No company-disclosed market-size or market-share figure for high-purity phosphoric acid or InP feedstock is carried in the sources used here, and none is substituted (未取得). Sources: Q2 FY3/27 tanshin; revision notice, 4 November 2026; interview pack (securities-report risk and customer figures); company president's message (accessed November 2026).
 
-**Figure: Rasa Industries in the phosphorus & materials value chain**
-
-**Raw Materials & Energy**
-
-- Air & electricity (gas feedstock)
-- Natural gas, naphtha
-- Iron ore & coking coal, copper concentrate
-- Helium sources, high-purity tungsten powder
-
-**Rasa Industries, Ltd. (4022)**
-
-- Chemicals — phosphoric acid & phosphorus compounds, semiconductor-grade high-purity phosphoric acid (83.7% of FY3/26 sales)
-- Machinery — tunnelling machines, crushers, waste-treatment machinery
-- Electronic Materials — high-purity inorganic materials for compound semiconductors (InP), iodine adsorbents
-- Other — catalyst regeneration, real-estate leasing
-
-**Equipment & Engineering**
-
-- ASU / HyCO plant EPC
-- Linde Engineering
-- Air Liquide, Air Products, Nippon Sanso equipment divisions
-- Chinese ASU makers — Hangyang
-
-**Supply Forms & Electronic Materials**
-
-- Onsite / pipeline supply (15–20 yr take-or-pay)
-- Bulk (merchant) & packaged cylinders
-- Specialty gases — SK Specialty, Kanto Denka, Central Glass
-- Electronic materials — JSR, TOK, Resonac, Fujifilm
-
-**Distribution & Integration**
-
-- Filling & tanker / cylinder logistics
-- Iwatani (distributor + machinery)
-- Air Water (domestic density + medical)
-- Dealer & agent networks
-
-**End Users, Service & Recycling**
-
-- Steel & chemical complexes
-- Semiconductor fabs — Samsung
-- Hospitals, food & beverage (CO2)
-- ASU operation contracts, scrap & copper recycling — JX Metals
+**Figure 7. Rasa Industries in the phosphorus & materials value chain**
 
 *Source: FIELDNOTES sector report §4 (materials & industrial gases value chain); company segments from §3 of this report.*
 
@@ -254,47 +148,15 @@ In the domestic chain, Chemicals' coagulants sell into waterworks demand (stable
 
 Rasa's tanshin disclosure gives a complete business-segment history — three reportable segments plus Other, unchanged in structure across all ten years — and no regional disclosure of any kind. Regional sales and regional profit are NOT disclosed by this company: the tanshin presents no regional or overseas sales split and no related-information regional note, in any year of the main window or the history block (verified in all five era tanshin, sheet register S4/S13). The regional block of the PL/segment sheet is therefore intentionally empty and nothing in this chapter estimates a split. This chapter covers the business segments only.
 
-**Figure: Rasa Industries, Ltd. — segment revenue, FY3/26**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Chemicals — external revenue | 39956 |
-
-| Machinery — external revenue | 4197 |
-
-| Electronic Materials — external revenue | 2395 |
-
-| Other — external revenue | 1176 |
+**Figure 8. Rasa Industries, Ltd. — segment revenue, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Rasa Industries, Ltd. — segment revenue by year**
+**Figure 9. Rasa Industries, Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: Rasa Industries, Ltd. — segment revenue mix, FY3/26**
-
-**Chemicals**
-
-- ¥39,956mn
-- 83.7% of revenue
-
-**Machinery**
-
-- ¥4,197mn
-- 8.8% of revenue
-
-**Electronic Materials**
-
-- ¥2,395mn
-- 5.0% of revenue
-
-**Other**
-
-- ¥1,176mn
-- 2.5% of revenue
+**Figure 10. Rasa Industries, Ltd. — segment revenue mix, FY3/26**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -302,7 +164,7 @@ Rasa's tanshin disclosure gives a complete business-segment history — three re
 
 Exhibit 2 gives the ten-year history on the basis disclosed in each year's own tanshin (external sales; segment profit on the operating-profit basis; adjustment = unallocated corporate expenses). Three facts organise it. First, **profit concentration: in FY3/26 the four segments earned ¥7,378mn of segment profit before the corporate adjustment — Chemicals ¥5,531mn (75.0%)**, Other ¥746mn, Electronic Materials ¥696mn and Machinery ¥405mn — so the group's earnings power is a Chemicals margin question, and Chemicals' margin has printed 8.8%–13.8% across the decade with the two best years the most recent two. Second, the growth option is real but small: Electronic Materials' FY3/26 segment profit (¥696mn) already exceeded Machinery's (¥405mn) on 57% of its sales, and its H1 FY3/27 margin of 37.0% is the group's highest — but at 5.0% of group sales it cannot yet offset a Chemicals downturn. Third, stability sits in Other: ¥688mn–¥764mn of segment profit in every year of the decade at a margin above 60%, the closest thing Rasa has to a bond inside the P&L — which makes its H1 FY3/27 decline (−19.9% YoY) the half's quiet negative. There are no segment basis changes to flag in the ten years: the same three reportable segments plus Other are presented throughout, and segment profit is on the operating-profit basis in every year (register S3/S11). The only reconciling items are rounding: the printed corporate adjustments differ from the sheet's formula adjustments by ¥1mn–¥2mn in several years (Chapter 9). Source: company results via PL/segment sheet (tanshin, JPX archive); FY3/26 tanshin segment note.
 
-**Exhibit 2. Business segments — external revenue and segment profit (operating-profit basis)**
+**Figure 11. Exhibit 2. Business segments — external revenue and segment profit (operating-profit basis)**
 
 | ¥mn | FY3/17 | FY3/18 | FY3/19 | FY3/20 | FY3/21 | FY3/22 | FY3/23 | FY3/24 | FY3/25 | FY3/26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -363,6 +225,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
