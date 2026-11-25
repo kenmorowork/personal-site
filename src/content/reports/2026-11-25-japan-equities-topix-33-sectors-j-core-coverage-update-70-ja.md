@@ -331,6 +331,6 @@ TOPIXは2026年11月24日までの12カ月で+14.40%（3,290.89 → 3,764.88）�
 
 Rating (as stated in the report): Not Rated
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution.
