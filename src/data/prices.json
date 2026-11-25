@@ -2,9 +2,9 @@
   "updatedAt": "2026-11-25",
   "prices": {
     "1407": {
-      "asOf": "2026-11-24",
+      "price": 1674,
       "currency": "JPY",
-      "price": 1687
+      "asOf": "2026-11-20"
     },
     "2395": {
       "price": 536,
