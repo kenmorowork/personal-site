@@ -11,7 +11,7 @@ lang: en
 
 A category inventor at a portfolio and cycle inflection: THK Co., Ltd. (6481, TSE Prime) invented the LM Guide — in 1972 it was the first company in the world to commercialise linear motion with rolling contact — and remains the reference supplier of LM guides, ball screws, ball splines and actuators to machine-tool, semiconductor-equipment, robot and factory-automation builders. This initiation is written at the moment 'THK' changes meaning. In FY12/25 the transportation equipment business (the THK Rhythm automotive link-ball and suspension business) was classified as a discontinued operation under IFRS 5, and the transfer to an SPC of the AP87 fund, agreed on 2 February 2026, completed on 1 June 2026. The FY12/25 income statement is therefore continuing-operations only — sales of ¥240,444mn and operating profit of ¥14,436mn — with **a post-tax discontinued loss of ¥80,040mn (including a ¥81,639mn business-reorganisation loss)** below the line and a net loss to owners of ¥69,891mn; FY12/24 and earlier in this report are on the original combined basis, and every year in the KPI table is labelled accordingly. What remains is an industrial-machinery pure play, and its first clean year is printing at a cyclical high: in 9M FY12/26 (January–September 2026) continuing sales rose 34.5% YoY to ¥235,939mn and **continuing operating profit rose 286.6% to ¥37,741mn (16.0% margin)** on AI-related semiconductor capex, and on 13 November 2026 the company raised FY12/26 guidance for a second time, to sales of ¥320,000mn and operating profit of ¥52,000mn (continuing basis) — above the ¥40,000mn operating-profit level management itself set in February 2025 as the profit required for ROE above 10%. Strengths: (1) a genuine invention franchise — the LM Guide created the category, and THK's precision-grinding, materials and installed-specification base is the barrier competitors still cite; (2) operating leverage is now visible in the continuing business — the 9M FY12/26 cost-of-sales ratio fell 5.0 points YoY to 65.4% and the SG&A ratio fell 4.6 points to 18.6%; (3) China, the profit engine, grew sales 41.2% in 9M FY12/26 with segment profit of ¥14,424mn, and the portfolio exit removes the business that dragged group ROIC. Weaknesses: (1) comparability is broken by construction — FY12/25 segment data are disclosed including the discontinued business (five-region sales of ¥366,260mn), the FY12/25 Americas and Europe segment 'profits' of −¥36,279mn and −¥26,219mn are on that incl.-discontinued basis, and Q4 FY12/25 standalone flows are not derivable; (2) profitability through the last combined cycle was thin — group operating margin fell from 9.5% in FY12/21 to 4.9% in FY12/24 and ROE sat around 5%, which is why the FY2026 five-year targets (revenue ¥500,000mn, operating profit ¥100,000mn, ROE 17%) were abandoned in November 2024; (3) the current print is a semiconductor-capex print — the same demand wave that lifts FY12/26 guidance can reverse, orders and backlog are not disclosed in the tanshin, and the Americas business earned a segment margin of only about 1–2% in H1 FY12/26 under US tariff pressure. All historical figures are as reported by the company (IFRS) via the PL/segment sheet built from tanshin in the JPX disclosure archive; the only forward figures are company guidance, labelled as such. No rating or price target is assigned at initiation (Under Review).
 
-**Exhibit 1. Key indicators — FY3/17–FY12/25 actuals and FY12/26E company guidance (basis as labelled)**
+**Figure 1. Exhibit 1. Key indicators — FY3/17–FY12/25 actuals and FY12/26E company guidance (basis as labelled)**
 
 | ¥mn unless stated | FY3/17 (combined) | FY12/17 (9M, combined) | FY12/18 (combined) | FY12/19 (combined) | FY12/20 (combined) | FY12/21 (combined) | FY12/22 (combined) | FY12/23 (combined) | FY12/24 (combined) | FY12/25 (continuing) | FY12/26E (co. guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@ A category inventor at a portfolio and cycle inflection: THK Co., Ltd. (6481, TS
 *Source: Company results via PL/segment sheet (tanshin, JPX archive); FY12/26E = company guidance (Q3 FY12/26 tanshin, 13 Nov 2026). FY12/21–24 combined basis (industrial + transportation) as originally reported; FY12/25 continuing basis (industrial only) — no FY12/25 growth rate is meaningful against combined FY12/24 and none is shown. FY12/26E growth (+33.1% / +260.2%) is the company's, vs restated continuing FY12/25. Owners' net income and EPS for FY12/26E are combined (continuing + discontinued, incl. transfer gain). Dividend: FY12/21–24 not captured in the sheet (shown —). History for the added years is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥505.4bn |
@@ -39,6 +40,7 @@ A category inventor at a portfolio and cycle inflection: THK Co., Ltd. (6481, TS
 | Next event | Full-year FY12/26 results, mid-Feb 2027 |
 
 ## Key points
+
 - **The divestiture defines the equity story.** The transportation equipment business was classified as discontinued in FY12/25 (IFRS 5); the basic transfer agreement with the AP87 fund SPC was signed on 2 February 2026 and the share and claim transfer completed on 1 June 2026. FY12/25 therefore shows continuing sales of ¥240,444mn and operating profit of ¥14,436mn, **a post-tax discontinued result of −¥80,040mn including a ¥81,639mn reorganisation loss**, and a net loss to owners of ¥69,891mn (EPS −¥618.66). On completion in 2026 the discontinued line swung to a profit — 9M FY12/26 discontinued profit was ¥15,750mn, including a ¥16,436mn gain on recycling of foreign-currency translation differences. Source: FY12/25 annual tanshin, 12 February 2026; Q3 FY12/26 tanshin, 13 November 2026; PL/segment sheet register S5.
 - **Guidance raised twice; 9M delivery is strong.** FY12/26 company guidance (continuing basis) was raised at Q2 (5 August 2026: sales ¥310,000mn, operating profit ¥48,000mn) and again at Q3 (13 November 2026: sales ¥320,000mn, +33.1% vs the restated FY12/25 continuing base; **operating profit ¥52,000mn, +260.2%**; profit before tax ¥51,800mn; net income to owners ¥58,800mn on a combined continuing-plus-discontinued basis; EPS ¥524.66). 9M FY12/26 delivered 73.7% of guided sales and 72.6% of guided operating profit. Source: Q3 FY12/26 tanshin, 13 November 2026; PL/segment sheet register S9.
 - **Strength — operating leverage in the pure play.** In 9M FY12/26 continuing gross profit was ¥81,651mn on sales of ¥235,939mn (34.6% gross margin); management states the cost-of-sales ratio fell 5.0 points YoY to 65.4% on volume and structural-reform effects despite US tariffs and reform costs, while SG&A rose only 7.9% YoY to ¥43,934mn (18.6% of sales, −4.6 points). **The continuing operating margin reached 16.0%, against 6.0% for FY12/25 continuing operations** and 4.9% for the combined group in FY12/24. Source: Q3 FY12/26 tanshin, 13 November 2026.
@@ -57,91 +59,19 @@ FY12/25, continuing basis: sales ¥240,444mn, gross profit ¥70,495mn — a 29.3
 
 The balance sheet at 31 December 2025 (comparative column of the Q3 FY12/26 tanshin): total assets ¥472,992mn; total equity ¥265,749mn, of which owners' equity ¥261,333mn (equity ratio 55.3%); cash and equivalents ¥110,008mn; inventories ¥65,177mn (down from ¥91,660mn at end-FY12/24, as the held-for-sale disposal group was carved out); bonds and borrowings ¥123,205mn (¥33,205mn current, ¥90,000mn non-current; excludes lease liabilities); trade receivables ¥63,528mn and trade payables ¥18,585mn. Inventory on the sheet's calculation was about 3.7–4.1 months of cost of sales through FY12/24. The full KPI table, including FY12/26 company guidance, is Exhibit 1 (page 1). Source for this chapter: company results via PL/segment sheet (tanshin, JPX archive), FY12/21–FY12/25; Q3 FY12/26 tanshin balance-sheet comparatives, 13 November 2026.
 
-**Figure: THK Co., Ltd. — revenue by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 (combined) | 273577 |
-
-| FY12/17 (9M, combined) | 286603 |
-
-| FY12/18 (combined) | 353479 |
-
-| FY12/19 (combined) | 274599 |
-
-| FY12/20 (combined) | 218998 |
-
-| FY12/21 (combined) | 318188 |
-
-| FY12/22 (combined) | 393687 |
-
-| FY12/23 (combined) | 351939 |
-
-| FY12/24 (combined) | 352759 |
-
-| FY12/25 (continuing) | 240444 |
+**Figure 2. THK Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: THK Co., Ltd. — operating profit by year**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| FY3/17 (combined) | 24653 |
-
-| FY12/17 (9M, combined) | 29279 |
-
-| FY12/18 (combined) | 49832 |
-
-| FY12/19 (combined) | 18277 |
-
-| FY12/20 (combined) | -8499 |
-
-| FY12/21 (combined) | 30268 |
-
-| FY12/22 (combined) | 34460 |
-
-| FY12/23 (combined) | 23707 |
-
-| FY12/24 (combined) | 17349 |
-
-| FY12/25 (continuing) | 14436 |
+**Figure 3. THK Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: THK Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY3/17 (combined) | 9 |
-
-| FY12/17 (9M, combined) | 10.2 |
-
-| FY12/18 (combined) | 14.1 |
-
-| FY12/19 (combined) | 6.7 |
-
-| FY12/20 (combined) | -3.9 |
-
-| FY12/21 (combined) | 9.5 |
-
-| FY12/22 (combined) | 8.8 |
-
-| FY12/23 (combined) | 6.7 |
-
-| FY12/24 (combined) | 4.9 |
-
-| FY12/25 (continuing) | 6 |
+**Figure 4. THK Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: THK Co., Ltd. — revenue and operating margin**
+**Figure 5. THK Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -185,50 +115,7 @@ Linear-motion components are a classic 'picks and shovels' layer of the capital-
 
 The value chain runs from specialty steels and precision components through THK's grinding, heat-treatment and assembly plants to machine builders (OEMs), distributors and end-users, with a replacement and retrofit tail. THK's position is the branded-component position: it sells to OEMs at design-in and to the aftermarket through distribution, and its catalogue standardisation is itself a channel asset. Competition is global and named: NSK (Japan; ball screws and linear guides from a bearing base), Nippon Thompson / IKO (Japan; linear motion, including needle-roller-based guides), HIWIN (Taiwan; the closest pure-play analogue, with aggressive capacity and pricing), Schaeffler / INA (Germany; linear technology within a bearing group) and Bosch Rexroth (Germany; profiled rail systems within an automation portfolio), plus Chinese domestic entrants at the standard-accuracy end. Entry barriers are the precision-manufacturing system, catalogue breadth, OEM qualification and global service reach described in Chapter 3; they are strongest in high-accuracy, high-load and semiconductor-grade applications and weakest in standard catalogue products, where HIWIN and Chinese makers compete on price and lead time. Substitutes exist at the extremes — plain sliding guides at the low end, linear motors and air bearings in ultra-precision niches — but none displaces rolling-contact guides across the load/accuracy/cost envelope THK occupies. The practical investment sensitivities follow: (1) semiconductor-equipment capex is the swing demand factor, and THK gives no order or backlog data in the tanshin with which to see it turn (briefing materials carry orders commentary only); (2) China is simultaneously the largest growth market, the strongest profit pool (Chapter 5) and the home turf of rising local competition; (3) US tariff policy transmits directly into the Americas segment margin, which was only about 1–2% in H1 FY12/26. Sources: Q3 FY12/26 tanshin, 13 November 2026; company materials (accessed November 2026); third-party industry coverage as flagged in the text.
 
-**Figure: THK in the motion-components value chain**
-
-**Raw Materials**
-
-- Bearing steel, special steel: Daido
-- NdFeB, ferrite magnets: Shin-Etsu, TDK
-- Copper, aluminium, resins, seals
-- Winding wire: Sumitomo Electric
-
-**Element Processing**
-
-- Grinding, superfinishing
-- Gear cutting, gear grinding
-- Heat treatment
-- Winding, precision casting
-
-**THK Co., Ltd. (6481)**
-
-- LM Guides — the original linear-motion guide (1972)
-- Ball screws & ball splines
-- Cross-roller rings for rotary axes
-- Actuators — LM-guide / ball-screw modules, electric & linear-motor
-- Seismic isolation & OMNIedge FA solutions
-
-**Units & Modules**
-
-- Joint modules: motor + reducer + driver
-- Electric actuators: THK, SMC
-- Hydraulic units
-- Guide-integrated actuators
-
-**Distribution & Integration**
-
-- Catalogue/EC: Misumi, MonotaRO
-- Trading houses: Yamazen, Yuasa, Trusco
-- Direct sales: SMC, THK
-- Equipment assembly, system integration
-
-**End OEMs & Service**
-
-- Machine tools, semiconductor equipment
-- Industrial robots, construction machinery
-- Automotive, medical equipment
-- Spares, condition monitoring, overhaul
+**Figure 6. THK in the motion-components value chain**
 
 *Source: FIELDNOTES sector report §4 (motion components value chain); company product lines from §3 of this report.*
 
@@ -236,58 +123,19 @@ The value chain runs from specialty steels and precision components through THK'
 
 THK's reportable segments are five regions — Japan, the Americas, Europe, China and Other — based on the location of the manufacturing and sales entities; segment profit is operating profit. There is no business-segment split and no customer-location regional split in the tanshin: the region of the selling/manufacturing entity is the only geography disclosed, so segment sales must not be read as end-demand by region. Two basis warnings apply to everything in this chapter: FY12/21–FY12/24 are combined (industrial plus transportation) as originally reported, and FY12/25 segment data are disclosed including the discontinued business — the FY12/25 segment columns therefore describe the old group, and the bridge to continuing consolidated figures is the adjustment line (−¥125,816mn of sales; +¥78,567mn of profit).
 
-**Figure: THK Co., Ltd. — segment revenue, FY12/25 (incl. discontinued)**
-
-| Item | Value (¥mn unless stated) |
-
-|---|---|
-
-| Japan — sales | 110859 |
-
-| Americas — sales | 90248 |
-
-| Europe — sales | 67516 |
-
-| China — sales | 76034 |
-
-| Other — sales | 21603 |
+**Figure 7. THK Co., Ltd. — segment revenue, FY12/25 (incl. discontinued)**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: THK Co., Ltd. — segment revenue by year**
+**Figure 8. THK Co., Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: THK Co., Ltd. — segment revenue mix, FY12/24**
-
-**Japan**
-
-- ¥112,905mn
-- 32.0% of revenue
-
-**Americas**
-
-- ¥91,756mn
-- 26.0% of revenue
-
-**Europe**
-
-- ¥67,599mn
-- 19.2% of revenue
-
-**China**
-
-- ¥62,525mn
-- 17.7% of revenue
-
-**Other**
-
-- ¥17,972mn
-- 5.1% of revenue
+**Figure 9. THK Co., Ltd. — segment revenue mix, FY12/24**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: THK Co., Ltd. — regional revenue by year**
+**Figure 10. THK Co., Ltd. — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -295,7 +143,7 @@ THK's reportable segments are five regions — Japan, the Americas, Europe, Chin
 
 External segment sales (¥mn) were: Japan ¥123,373mn in FY12/21, ¥144,189mn in FY12/22, ¥115,357mn in FY12/23, ¥112,905mn in FY12/24 and ¥110,859mn in FY12/25 (incl.-discontinued basis); the Americas ¥57,220mn / ¥80,855mn / ¥89,225mn / ¥91,756mn / ¥90,248mn; Europe ¥50,247mn / ¥62,715mn / ¥70,548mn / ¥67,599mn / ¥67,516mn; China ¥67,072mn / ¥83,312mn / ¥59,410mn / ¥62,525mn / ¥76,034mn; and Other ¥20,274mn / ¥22,614mn / ¥17,397mn / ¥17,972mn / ¥21,603mn (Exhibit 2). Read on the combined/incl.-discontinued bases as disclosed, the five-year story is mix shift: Japan's share of the five-region total fell from 38.8% in FY12/21 to 30.3% in FY12/25, while China rose from 21.1% to 20.8% with a deep FY12/23 air pocket (−28.7% YoY) in between, and the Americas rose from 18.0% to 24.6% — a share that flatters the continuing business, because much of the Americas (and European) entity sales were the divested automotive business. The clean read on the continuing mix comes from 9M FY12/26 segment data (disclosed, as the tanshin notes, on the pre-transfer basis, so still including transportation sales up to the June completion): Japan ¥95,602mn (+18.9% YoY), the Americas ¥55,572mn (−16.4%, the decline being the deconsolidation effect), Europe ¥40,820mn (−18.6%, same effect), China ¥78,712mn (+41.2%) and Other ¥20,616mn (+33.6%). On that print **China alone was 27% of the five-region 9M total and the largest single growth contributor (+¥22,948mn YoY)**. Source: company results via PL/segment sheet (tanshin, JPX archive); Q3 FY12/26 tanshin segment note, 13 November 2026.
 
-**Exhibit 2. Regional segments (entity location) — external sales**
+**Figure 11. Exhibit 2. Regional segments (entity location) — external sales**
 
 | ¥mn | FY3/17 | FY12/17 (9M) | FY12/18 | FY12/19 | FY12/20 | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 (incl. discontinued) |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -313,7 +161,7 @@ External segment sales (¥mn) were: Japan ¥123,373mn in FY12/21, ¥144,189mn in
 
 Segment profit (operating profit, ¥mn) was: Japan ¥22,262mn in FY12/21, ¥17,014mn in FY12/22, ¥10,619mn in FY12/23, ¥7,845mn in FY12/24 and −¥3,618mn in FY12/25 (incl.-discontinued basis); the Americas −¥1,134mn / −¥2,351mn / ¥2,219mn / ¥2,408mn / −¥36,279mn; Europe −¥1,337mn / −¥9,684mn / ¥1,680mn / −¥407mn / −¥26,219mn; China ¥9,459mn / ¥13,773mn / ¥7,486mn / ¥7,202mn / ¥1,874mn; Other ¥2,278mn / ¥2,861mn / ¥981mn / ¥746mn / ¥111mn; with adjustments of −¥1,260mn / +¥12,847mn / +¥722mn / −¥445mn / +¥78,567mn reconciling to consolidated operating profit (Exhibit 3). Three observations. First, **China is the most consistently profitable region** — segment margins of 14.1% (FY12/21), 16.5% (FY12/22), 12.6% (FY12/23) and 11.5% (FY12/24) — reflecting local production for local FA demand at scale. Second, Japan's margin compressed relentlessly through the downturn (18.0% → 11.8% → 9.2% → 6.9%), because the Japan segment carries the group's upfront investment and export manufacturing cost base. Third, the FY12/25 regional losses in the Americas and Europe are on the incl.-discontinued basis and include the transportation business's results and exit effects; they are not a read on the continuing industrial business in those regions — for which the best current evidence is 9M FY12/26: Japan segment profit of ¥33,799mn (including the ¥16,436mn transfer recycling gain recorded in the Japan segment; ¥17,363mn excluding it, on the tanshin's segment presentation), the Americas ¥1,287mn, Europe ¥216mn (from a ¥1,586mn loss a year earlier), China ¥14,424mn (+113.2% YoY; an 18.3% margin) and Other ¥3,548mn (+338.1%). Even in a boom nine months, the continuing Americas and Europe industrial margins remain thin — tariffs in the Americas and cost structure in Europe are the two regional problems the structural reform still has to solve. Source: company results via PL/segment sheet (tanshin, JPX archive); Q3 FY12/26 tanshin segment note, 13 November 2026.
 
-**Exhibit 3. Regional segments (entity location) — segment profit (operating profit)**
+**Figure 12. Exhibit 3. Regional segments (entity location) — segment profit (operating profit)**
 
 | ¥mn | FY3/17 | FY12/17 (9M) | FY12/18 | FY12/19 | FY12/20 | FY12/21 | FY12/22 | FY12/23 | FY12/24 | FY12/25 (incl. discontinued) |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -369,6 +217,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
