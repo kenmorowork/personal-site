@@ -11,7 +11,7 @@ lang: ja
 
 Under review: We keep our rating and price target for NVIDIA under review, as set on 12 Nov following the resignation of founder-CEO Jensen Huang. The Q3 FY27 print re-anchors the story on fundamentals — **a 7% revenue beat against the company's own guide and a Q4 outlook above consensus** — but the succession question is untouched by it, and the first formal outlook under interim CEO Colette Kress carries a gross-margin step-down that the market will interrogate.
 
-**Q3 FY27 results and Q4 outlook versus guide and consensus**
+**Figure 1. Q3 FY27 results and Q4 outlook versus guide and consensus**
 
 | US$bn unless stated | Guide / consensus | Actual / guide |
 |---|---|---|
@@ -25,6 +25,7 @@ Under review: We keep our rating and price target for NVIDIA under review, as se
 *Source: Company release, 17 Nov 2026; consensus: Bloomberg via Yahoo Finance (revenue, EPS), LSEG via Reuters (Q4 revenue).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | US$3.52tn |
@@ -36,6 +37,7 @@ Under review: We keep our rating and price target for NVIDIA under review, as se
 | Next event | Permanent CEO search — no date set |
 
 ## Key points
+
 - **Beat on every line.** **Q3 FY27 revenue was US$115.8bn (+103% YoY, +20% QoQ) against company guidance of US$108.0bn ±2%** and Bloomberg consensus of ~US$109.1bn. GAAP gross margin of 74.8% beat the 74.0% ±50bp guide; non-GAAP EPS of US$2.68 compares with US$2.47 expected; GAAP net income was US$65.3bn.
 - **Data Center did the work — and the mix broadened.** Data Center revenue reached US$107.6bn (+110% YoY), 93% of total sales. Within it, Hyperscale was US$60.1bn (+71% YoY) while **AI Clouds, Industrial and Enterprise reached US$47.5bn (+195% YoY) — the non-hyperscaler book is now growing nearly three times as fast**. Edge Computing contributed US$8.2bn (+42%).
 - **Q4 guided up on revenue, down on margin.** Q4 FY27 revenue is guided to US$130.0bn ±3% versus ~US$125.3bn LSEG consensus, helped by an additional week in the quarter. **GAAP and non-GAAP gross margin are guided to 71.0–72.0%, a step-down of roughly 3 points from Q3's 74.8%** as Vera Rubin systems ramp. The outlook again assumes zero Data Center compute revenue from China; Q3 itself included US$2.4bn of Hopper shipments to China.
@@ -48,17 +50,7 @@ NVIDIA reported Q3 FY27 (quarter ended 25 Oct 2026) after the US close on Tue 17
 
 The quality of the beat matters more than its size. Gross margin expanded to 74.8% GAAP (74.9% non-GAAP) against a 74.0% ±50bp guide, which management attributed to Blackwell Ultra mix. Nothing in the release suggests the beat was bought with price or pulled forward from Q4: the Q4 guide itself was raised above consensus.
 
-**Figure: Revenue trajectory — actuals and Q4 guide**
-
-| Item | Value (US$bn) |
-
-|---|---|
-
-| Q2 FY27 | 96.2 |
-
-| Q3 FY27 | 115.8 |
-
-| Q4 FY27E | 130 |
+**Figure 2. Revenue trajectory — actuals and Q4 guide**
 
 *Source: Company releases; Q4 FY27 is company guidance midpoint.*
 
@@ -98,6 +90,6 @@ On the demand side, **hyperscaler capex guides in January will either validate t
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
