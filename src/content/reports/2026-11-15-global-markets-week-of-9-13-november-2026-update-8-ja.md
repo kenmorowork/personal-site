@@ -11,7 +11,7 @@ lang: ja
 
 A rebound week that ended on a warning: Every major index except Hong Kong and Shanghai rose in the week of 9–13 November, led by Taiwan (+10.0%) and Japan (+6.5%), as earnings confirmed AI data-centre demand in volume terms — record TSMC monthly revenue, record Hon Hai profit, record Applied Materials and Cisco revenue, record Siemens and Japan machine-tool orders. Prices, however, were set by two shocks: Nvidia's founder-CEO resigned mid-week (shares −12.75% on the week) and **US producer prices rose +6.5% year on year** (前年比), the fastest since November 2022, pushing the US 10-year yield up 29bp to 5.15% and unwinding the semiconductor rotation on Friday.
 
-**Fixed tracker — the week's key prints**
+**Figure 1. Fixed tracker — the week's key prints**
 
 | Tracker | This week | Reference |
 |---|---|---|
@@ -27,6 +27,7 @@ A rebound week that ended on a warning: Every major index except Hong Kong and S
 *Source: Company results and official statistics as cited in the daily packets, 10–14 Nov 2026.*
 
 ## Key points
+
 - **Demand was confirmed in volumes, everywhere.** **TSMC October revenue was a record NT$586.89bn (+59.7% YoY)**; Hon Hai Q3 net profit was a record NT$77.5bn (+34%) with AI servers at 54% of sales; Applied Materials Q4 revenue was a record $10.41bn (+53%); Cisco Q1 revenue was a record $18.5bn (+24%) with FY27 guidance raised; SMIC utilisation reached 97.3% on record revenue of $3.19bn.
 - **Nvidia was the week's price event — governance, not demand.** Jensen Huang resigned as President, CEO and director with immediate effect (announced 12 Nov); CFO Colette Kress is interim CEO. **The shares opened −13.1% on 12 Nov, recovered to close −4.34%, and ended the week at $162.85, −12.75% week on week** and below a $4tn market cap. Interim management is also reviewing Huang-era financing commitments (the OpenAI Ohio support was reportedly cut from $250bn to $120bn).
 - **Power and machinery breadth was the second story.** **Siemens Q4 orders rose 58% to a record €34.77bn; Hitachi Energy India's orders rose 85.9% with a record backlog of ₹333.35bn** and data centres its No. 2 order source; GE Vernova won 765 kV orders (70+ units) from POWERGRID; India approved its first 1,150 kV project (₹68,816 crore); Japan machine-tool orders hit an annual record in ten months (October ¥204.4bn, +42.5% YoY).
@@ -43,31 +44,7 @@ Rates and FX moved against equities all week. The US 10-year Treasury yield clos
 
 What was bought and what was sold (sector rotation, 回転): bought — semiconductors ex-Nvidia (the SOX +8.05% with Nvidia −12.75% means the rest of the index did the work; AMD rose roughly +30% intraw-week before Friday's −8.8%), Taiwan and Japan beta, power equipment and grid names in India (Hitachi Energy India +12% on Friday), and, in the US, breadth itself (all 11 S&P 500 sectors positive on the week; more than 60% of S&P 500 stocks rose even on Friday). Sold — Nvidia specifically, Hong Kong/China exposure, gold and long duration (債券のデュレーション), and on Friday the week's rotation winners (AMD −8.8%, Broadcom −4.8%, Cisco −6.24% despite a beat-and-raise). **The pattern is positioning, not fundamentals**: the same names were bought on prints early in the week and sold on the discount rate (割引率) by Friday.
 
-**Figure: Index performance, week to 13 Nov 2026 (% w/w)**
-
-| Item | Value (% w/w) |
-
-|---|---|
-
-| TAIEX | 10.01 |
-
-| SOX | 8.05 |
-
-| Nikkei 225 | 6.46 |
-
-| TOPIX | 6.3 |
-
-| KOSPI | 4.56 |
-
-| Euro Stoxx 50 | 3.19 |
-
-| S&P 500 | 2.51 |
-
-| Nasdaq | 2.27 |
-
-| Shanghai Comp | -0.41 |
-
-| Hang Seng | -3.45 |
+**Figure 2. Index performance, week to 13 Nov 2026 (% w/w)**
 
 *Source: Exchange closes, Fri 6 Nov to Fri 13 Nov 2026: Reuters / Dow Jones Market Data via Morningstar (Japan); AP and CNBC (US); CNA (Taiwan); closes computed from Naver Finance levels (Korea); weekly reviews (Europe, Hong Kong).*
 
@@ -77,47 +54,11 @@ Using the TradingView sector/industry taxonomy as the reference framework: at in
 
 Coverage watchlist movers, each tied to its catalyst in Part 3: top — Hitachi Energy India +12% (13 Nov, print + 1,150 kV approval); CoreWeave +24.71% (11 Nov, Q3 beat); the SOX ex-Nvidia complex mid-week (SOX +5.66% on 11 Nov with all 30 constituents up). Bottom — Nvidia −12.75% on the week (CEO resignation); Nebius −16.84% on 12 Nov (capex raise plus capacity slippage, despite a revenue beat); ams OSRAM −9.2% on Friday (Q4 guidance below consensus); SoftBank Group −5.11% on 13 Nov in Tokyo (follow-through from its H1 loss on the US AIDC power-procurement write-down); Cisco −6.24% on Friday despite record results — the clearest sign that by Friday the discount rate, not the print, was setting prices.
 
-**Figure: Nvidia share price path, 11–13 Nov ($)**
-
-| Item | Value ($) |
-
-|---|---|
-
-| 11 Nov close | 173.73 |
-
-| 12 Nov open | 150.99 |
-
-| 12 Nov low | 148.8 |
-
-| 12 Nov close | 166.19 |
-
-| 13 Nov close | 162.85 |
+**Figure 3. Nvidia share price path, 11–13 Nov ($)**
 
 *Source: Finnhub market data via the daily packets, 12–13 Nov 2026; weekly close data via Longbridge.*
 
-**Figure: Japan industry performance, latest session (%)**
-
-| Item | Value (%) |
-
-|---|---|
-
-| Electrical products | -4.05 |
-
-| Communications equipment | -2.36 |
-
-| Electronic components | -1.66 |
-
-| Trucks & construction machinery | -1.17 |
-
-| Semiconductors | -1.06 |
-
-| Semi production equipment | -0.62 |
-
-| Industrial machinery | 0.17 |
-
-| Electronic equipment & instruments | 0.72 |
-
-| Computer hardware | 1.68 |
+**Figure 4. Japan industry performance, latest session (%)**
 
 *Source: TradingView Japan sector/industry table, retrieved 15 Nov 2026 (latest session). Daily, not weekly, moves.*
 
@@ -129,29 +70,7 @@ Semiconductors. TSMC's October revenue of NT$586.89bn (+59.7% YoY, +14.7% MoM) w
 
 AIDC. **CoreWeave's Q3 revenue was $3.661bn (+168% YoY vs $3.54bn consensus), backlog $132.5bn (from $104.2bn at Q2-end)**, adjusted EBITDA margin 62%, active power above 1.7GW — against a net loss of $709M and interest expense of $846M; FY26 revenue guidance was raised to $13.0–13.3bn. Nebius' Q3 revenue was $980.8M (+571% YoY vs $907.5M consensus), but about $325M was asset-light partner revenue of a temporary nature, some third-party capacity slipped into H1 2027, the $7–9bn ARR target moved from December to February 2027, and 2026 capex guidance rose to about $27bn (from $20–25bn), with an initial 2027 view of $40–45bn capex on $12–13bn revenue. Hon Hai's Q3 net profit was a record NT$77.52bn (+34% YoY vs NT$69.6bn consensus) on revenue of NT$3.02tn (+46%), with cloud & networking (AI servers) at 54% of sales and gross margin of 6.02%; Pegatron's October revenue rose +59.6% YoY to NT$188.08bn and Wistron's Q3 net profit rose +149% (held item, noon packet 12 Nov). Cisco's record Q1 revenue of $18.5bn (+24%) and FY27 guide raise (to $74.8–75.8bn, with hyperscaler AI-infrastructure revenue seen at about $9bn, more than double FY26) show capex broadening from GPUs to networking. Cerebras posted record core revenue of $230.9M (+70%), a first adjusted net profit of about $30M, 700MW of contracted capacity and RPO (remaining performance obligations, 残存履行義務) of $26.1bn, with Microsoft its third hyperscaler customer. Anthropic's amended S-1 showed Q3 revenue of $16.96bn with compute/infrastructure spend of $9.9bn (58% of revenue, up from 48% in Q2) and purchase/lease commitments of about $895.4bn. Naver disclosed a roughly ₩2tn, five-year, ~20MW inference-compute contract and an AI-factory ramp of 55MW (H1 2027) → 100MW (end-2027) → 200MW (2028), with secured capacity already above its 2028 disclosure target. SoftBank Group's H1 net loss of ¥768.0bn (vs a ¥2,924.1bn profit a year earlier) was driven by a ¥597.2bn loss on revising US AIDC power-equipment procurement and ¥270.1bn of Intel/derivative losses — execution risk in the AIDC build-out, in print. Weekend follow-ups (15 Nov packets): Digital Realty plans a further $10bn of investment in Japanese data centres; TI Korea flagged the AI bottleneck spreading to mature-node power and embedded chips; Atlanta Electricals reported new transformer orders.
 
-**Figure: Growth prints of the week (% YoY, as reported)**
-
-| Item | Value (% YoY) |
-
-|---|---|
-
-| Nebius revenue | 571 |
-
-| CoreWeave revenue | 168 |
-
-| Micronics Japan OP (9M) | 138.9 |
-
-| Hitachi Energy India orders | 85.9 |
-
-| TSMC Oct revenue | 59.7 |
-
-| Applied Materials revenue | 53 |
-
-| JP machine-tool orders | 42.5 |
-
-| Hon Hai net profit | 34 |
-
-| Cisco revenue | 24 |
+**Figure 5. Growth prints of the week (% YoY, as reported)**
 
 *Source: Company results, 10–14 Nov 2026. Each bar is the metric named in its label; metrics differ by company and are not directly comparable.*
 
@@ -165,7 +84,7 @@ Machinery, FA and components. Japan's October machine-tool orders were ¥204.4bn
 
 The fixed panel (Figure 6) reads this week as one connected story across its four blocks. Capex: guidance is still being raised, not cut — Nebius 2026 capex to about $27bn with a $40–45bn 2027 view, CoreWeave backlog $132.5bn, Cisco's hyperscaler AI-infrastructure revenue view doubled to about $9bn, Naver's secured AI-factory capacity already above its 2028 target — while the funding side tightened in the same week (US 10-year at 5.15%; CoreWeave quarterly interest of $846M against $3.66bn of revenue). Anchor-company orders and backlog: Siemens orders +58%, Hitachi Energy India backlog at a record (about 11.1x quarterly revenue), Japan machine-tool backlog ¥1,098.2bn, Daifuku's order range raised to up to ¥1tn. Trade and country statistics: the week's hard releases were prices, not volumes — US CPI +0.4% MoM (core +0.3%, a third straight +0.3%, about +3.6% annualised; the YoY print was not published because the shutdown left October 2025 data uncollected) and PPI +6.5% YoY with goods +10.2% YoY. Japan machinery orders (September) and October trade are due next week (19 and 18 Nov) and will be scored in the next edition; JMTBA orders (above) are the freshest Japan capex-volume print. Shipments and demand: TSMC's record month and SMIC's 97.3% utilisation say foundry demand is supply-bound into 2027 (SMIC's co-CEO: AI-related supply constraints persist through 2027); China's domestic accelerators shipped more units than Nvidia in China for the first time (Huawei Ascend above 570k units, 28% share) as export controls bite — Bessent said on 13 Nov that he had himself argued Megaspeed should be added to the Entity List, with a House closed-door briefing requested for 18 Nov. **Korea concentration is the panel's risk marker: Samsung Electronics and SK hynix margin balances totalled ₩6.9669tn as of 12 Nov** — 27.2% of all KOSPI+KOSDAQ margin loans and 36.5% of KOSPI-only margin loans (FnGuide via BigGo, 15 Nov noon packet). Transformer lead times: no new headline number this week (未取得); the order flow (CG Power 12–20 months execution; GE Vernova deliveries into end-2027) is consistent with the standing 128-week reference from the 11 Nov deep-dive. Data-centre capacity additions: Naver 55MW → 200MW (2027–28), SpaceX's Memphis campus reportedly to 2.4GW (SemiAnalysis via 15 Nov morning packet), Cerebras 700MW contracted, Digital Realty a further $10bn for Japan.
 
-**Statistics tracker — capex, trade, shipments, demand**
+**Figure 6. Statistics tracker — capex, trade, shipments, demand**
 
 | Indicator | Latest | Source / date |
 |---|---|---|
@@ -187,7 +106,7 @@ The fixed panel (Figure 6) reads this week as one connected story across its fou
 
 Figure 7 lists the events that actually drove the week's performance. Two mechanisms matter. First, ==the largest single-stock move (Nvidia, −12.75% on the week) was a governance event, not a demand event==: reporting on 12 Nov that the board was considering removing the founder became, the same day, a confirmed immediate resignation after a board investigation, with no designated successor and the CFO doubling as interim CEO — the price fell on succession and commitment uncertainty (including the review of Huang-era financing deals), not on any change to orders, and the quarter being reported next week closed on 25 October, before he left. Second, the sector-level moves were expectation trades on the discount rate: hot CPI (10 Nov) set the headwind, record prints (TSMC, CoreWeave) drove the mid-week rotation into everything-but-Nvidia (SOX +5.66% on 11 Nov), and hot PPI (13 Nov) plus a 5.15% 10-year yield unwound it on Friday — including in names that had just beaten (Cisco −6.24%). Positioning amplified both legs: Korea's ₩6.97tn two-stock margin concentration is the regional marker of the same crowding.
 
-**Catalyst attribution — the week's drivers**
+**Figure 7. Catalyst attribution — the week's drivers**
 
 | Date | Company / sector | Event | Numbers | Why it moved | Why it happened / watch next |
 |---|---|---|---|---|---|
@@ -220,6 +139,6 @@ Monday 16 Nov, 08:50 — Japan Q3 GDP, first estimate: the split between domesti
 
 Rating (as stated in the report): Not Rated
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution.
