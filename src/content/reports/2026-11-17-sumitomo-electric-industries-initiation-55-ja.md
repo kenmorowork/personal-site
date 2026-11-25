@@ -1,7 +1,7 @@
 ---
 title: "The optical segment is carrying the group: a 30% Infocommunications margin against a 3% harness margin, and a guide that needs H2 to be bigger than H1"
 company: "Sumitomo Electric Industries, Ltd."
-ticker: "5802"
+ticker: "—"
 sector: "Industrials"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: ja
 
 Sumitomo Electric is a five-segment industrial conglomerate — Automotive (wiring harnesses, 57% of sales), Environment & Energy (power cable), Infocommunications (optical fibre, connectors and devices), Electronics, and Industrial Materials & Others (cemented-carbide tools) — whose profit centre has abruptly rotated from harnesses to data-centre optics. In FY3/2026 net sales were ¥5,110,171mn, operating profit ¥418,173mn (8.2%), ordinary profit ¥431,274mn and owners' net income ¥369,508mn (EPS ¥473.78 pre-split; ¥118.44 post-split equivalent) — net income flattered by ¥98,149mn of extraordinary income, including a ¥79,154mn gain on sale of shares of subsidiaries and associates. FY3/2027 guidance has been raised twice, to sales ¥5,750,000mn / OP ¥500,000mn / owners' NI ¥370,000mn (30 October 2026). Strengths: (1) **Infocommunications is a genuine AI-infrastructure franchise — FY3/2026 OP ¥77,435mn at a 24.6% margin, then H1 FY3/2027 OP of ¥61.2bn at 30.4% (+177% YoY)** on fibre, high-density connectors/MT ferrules, fusion splicers and optical devices (EML chips, CW lasers for CPO/NPO, InP substrates), with device/InP capacity planned to ~4.5× the 2024 level by 2028 (company DC strategy deck, 12 November 2026); (2) the whole P&L is inflecting — OP margin 3.6% (FY3/2022) → 8.2% (FY3/2026), guide 8.7% (calculated), mid-term plan 10.0% by FY3/2028; (3) Automotive profit has been rebuilt from ¥12,264mn (0.7%, FY3/2022) to ¥179,700mn (6.1%, FY3/2026); (4) balance-sheet repair is real — interest-bearing debt down from ¥891,680mn (FY3/2023) to ¥557,266mn, pre-tax ROIC 14.7% in FY3/2026 (company, vs 9.3%); (5) two guidance raises in FY3/2027 already, with the dividend raised to ¥44 post-split (¥176 pre-split equivalent); (6) breadth of the DC portfolio across every distance class — submarine fibre (incl. a claimed first multi-core submarine project order), inter-building ultra-high-count cable, intra-DC connectors and devices. Weaknesses: (1) **the guide is heavily H2-loaded — H1 delivered 43.9% of guided OP (calculated), so H2 needs ¥280.4bn (+28% vs H1)**, and Infocommunications alone must print ¥94.8bn in H2 against ¥61.2bn in H1, with no disclosed order backlog to underwrite it; (2) the largest business is the weakest — Automotive OP fell 17.7% in H1 on +17.3% sales (3.3% margin) on Middle East volume loss and copper costs, and the pass-through lag is undisclosed; (3) cash conversion broke in H1 — operating cash flow halved to ¥139.4bn as inventories rose ¥201.7bn to ¥1,219.8bn despite record OP; (4) FY3/2026 net income quality — ¥79,154mn of the PBT came from selling affiliate shares, so the 'record' NI is not an operating run-rate; (5) disclosure gaps are material for a ¥5.1tn-sales company — no regional sales or profit in the tanshin at all (register S4), no orders/backlog, no DC revenue figure despite a 14-page DC strategy deck, and no Q&A at interim briefings (slides only); (6) the stock de-rated violently into the print (¥1,413 on 16 November, −6.98% on the day, ~62% below the June 2026 high on a split-adjusted basis per secondary data) — the market is pricing the optical cycle, not the plan. Rating and price target are Under Review placeholders (see Basis of preparation).
 
-**Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
+**Figure 1. Exhibit 1: Key indicators, FY3/2017–FY3/2026 (¥mn unless stated)**
 
 |  | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ Sumitomo Electric is a five-segment industrial conglomerate — Automotive (wiri
 *Source: Company tanshin via PL/segment sheet (register S1, S11). J-GAAP as originally reported. EPS pre-split as reported in each year's tanshin (4-for-1 split 1 Jul 2026; FY26 post-split equivalent ¥118.44). Margins calculated.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥1,413 (post-split) |
@@ -44,6 +45,7 @@ Sumitomo Electric is a five-segment industrial conglomerate — Automotive (wiri
 | H1 FY3/27 Infocommunications OP | ¥61,200mn (30.4% margin) |
 
 ## Key points
+
 - **Two raises, and still back-loaded** FY3/2027 guidance: initial (12 May 2026) sales ¥5,300,000mn / OP ¥425,000mn → Rev.1 (31 July) ¥5,400,000mn / ¥450,000mn → Rev.2 (30 October) ¥5,750,000mn / OP ¥500,000mn / ordinary ¥515,000mn / NI ¥370,000mn, dividend raised to ¥44 post-split. But H1 OP of ¥219.6bn is only 43.9% of the guide (calculated): **H2 must deliver ¥280.4bn, +28% half-on-half, in a company whose H2 skew is normally modest**.
 - **Infocommunications is the group now** H1 FY3/2027: Infocommunications sales ¥201.5bn (+48.8%), OP ¥61.2bn (+177.4%) at a 30.4% margin (calculated) — 28% of group OP on 7% of sales. The supplementary full-year segment forecast is ¥156.0bn of OP, implying ¥94.8bn in H2 alone. **Whether a 30% margin is a structural device-mix level or a fibre-shortage peak is the central valuation question**; the company discloses neither the price/volume split nor a backlog.
 - **Automotive went the other way** H1 Automotive sales rose 17.3% to ¥1,616.6bn but OP fell 17.7% to ¥53.8bn (3.3% margin vs 4.7%). Disclosed H1 group drags: Middle East situation −¥14.0bn, R&D/depreciation −¥8.0bn, and the Sumitomo Densetsu deconsolidation (now Semlinks) −¥8.6bn (briefing materials). **Copper pass-through lag — the segment's largest cost variable — is not quantified**. The FY3/2026 recovery to a 6.1% margin is not yet proven durable.
@@ -54,95 +56,23 @@ Sumitomo Electric is a five-segment industrial conglomerate — Automotive (wiri
 
 Exhibit 1 (page 1) summarises ten fiscal years, FY3/2017–FY3/2026, all J-GAAP as originally reported. The decade divides into a long margin fade and a sharp two-year repair. OP peaked at ¥173,139mn (5.6%) in FY3/2018, slid to ¥113,926mn (3.9%) by FY3/2021 and ¥122,195mn (3.6%) in FY3/2022, then climbed every year to ¥418,173mn (8.2%) in FY3/2026 — sales nearly doubling across the window to ¥5,110,171mn. Owners' net income tracks the same arc (¥56,344mn in FY3/2021 → ¥369,508mn in FY3/2026), though FY3/2026 includes ¥98,149mn of extraordinary income (a ¥79,154mn gain on sale of shares of subsidiaries and associates, ¥10,360mn of fixed-asset sale gains and ¥8,635mn of securities gains, per the FY2026 tanshin) against ¥24,264mn of extraordinary losses — **the operating story is the OP line, not the NI line**. Operating cash flow was positive in all ten years but volatile (¥76,002mn in FY3/2022 against ¥425,192mn in FY3/2026). Per-share figures cross a break: a 4-for-1 split took effect on 1 July 2026 (register S6); Exhibit 1 EPS is pre-split as reported in each year's tanshin, and FY3/2026 EPS of ¥473.78 equals ¥118.44 post-split (Finnhub's annual EPS agrees).
 
-**Figure: Sumitomo Electric Industries, Ltd. — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 2814483 |
-
-| FY18 | 3082247 |
-
-| FY19 | 3177985 |
-
-| FY20 | 3107027 |
-
-| FY21 | 2918580 |
-
-| FY22 | 3367863 |
-
-| FY23 | 4005561 |
-
-| FY24 | 4402814 |
-
-| FY25 | 4679789 |
-
-| FY26 | 5110171 |
+**Figure 2. Sumitomo Electric Industries, Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sumitomo Electric Industries, Ltd. — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY17 | 150503 |
-
-| FY18 | 173139 |
-
-| FY19 | 166260 |
-
-| FY20 | 127216 |
-
-| FY21 | 113926 |
-
-| FY22 | 122195 |
-
-| FY23 | 177443 |
-
-| FY24 | 226618 |
-
-| FY25 | 320663 |
-
-| FY26 | 418173 |
+**Figure 3. Sumitomo Electric Industries, Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sumitomo Electric Industries, Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY17 | 5.3 |
-
-| FY18 | 5.6 |
-
-| FY19 | 5.2 |
-
-| FY20 | 4.1 |
-
-| FY21 | 3.9 |
-
-| FY22 | 3.6 |
-
-| FY23 | 4.4 |
-
-| FY24 | 5.1 |
-
-| FY25 | 6.9 |
-
-| FY26 | 8.2 |
+**Figure 4. Sumitomo Electric Industries, Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sumitomo Electric Industries, Ltd. — revenue and operating margin**
+**Figure 5. Sumitomo Electric Industries, Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Sumitomo Electric Industries, Ltd. — revenue vs operating profit**
+**Figure 6. Sumitomo Electric Industries, Ltd. — revenue vs operating profit**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -158,7 +88,7 @@ H1 (April–September 2026) set first-half records at every line (company): sale
 
 Initial (12 May 2026): sales ¥5,300,000mn, OP ¥425,000mn, owners' NI ¥320,000mn. Revision 1 (31 July 2026, Q1 tanshin): sales ¥5,400,000mn, OP ¥450,000mn, NI ¥340,000mn. Revision 2 (30 October 2026, Q2 tanshin): sales ¥5,750,000mn, OP ¥500,000mn, ordinary profit ¥515,000mn, NI ¥370,000mn; dividend raised to ¥44 post-split (interim ¥19, year-end ¥25; ¥176 pre-split equivalent). No explicit company-stated reason for the latest revision was extracted from the tanshin text checked (tracker) — the company published slides only. The arithmetic is demanding: H1 OP progress is 43.9% (calculated), implying H2 OP of ¥280.4bn (+28% vs H1); the supplementary materials' Infocommunications full-year OP forecast of ¥156.0bn implies ¥94.8bn in H2 (vs ¥61.2bn in H1). FX and segment assumptions beyond the Info OP figure are 未取得 in the sources read.
 
-**Exhibit 3: FY3/2027 guidance chain (¥mn)**
+**Figure 7. Exhibit 3: FY3/2027 guidance chain (¥mn)**
 
 | Step | Net sales | OP | Ordinary profit | Owners' NI |
 |---|---|---|---|---|
@@ -195,46 +125,7 @@ Industrial Materials & Others was the group's third-largest profit pool in H1 FY
 
 Sumitomo Electric's value chain runs from materials (glass preforms, InP/GaAs substrates, carbide powders) through components (fibre, connectors, devices, harnesses) to systems (submarine cable projects). Its competitive sets differ by segment: optical fibre/cable against Corning, Furukawa/Lightera, YOFC and Prysmian in a documented fibre shortage; optical devices against Lumentum, Coherent and domestic peers into the CPO/NPO transition the company dates from 2027; harnesses against Yazaki and Furukawa Electric in a structurally low-margin, copper-linked business; submarine cable against Prysmian, Nexans and NKT. ==The strategic question the print poses is capital allocation across the barbell: the DC deck's ~4.5× device-capacity expansion and the FY2028 Digital & AI target (¥970bn sales) imply capital following optics, while 57% of sales remain in harnesses at a 3–6% margin==.
 
-**Figure: Sumitomo Electric in the wire & cable value chain**
-
-**Raw materials**
-
-- Copper cathode, aluminium ingot
-- Copper scrap
-- JX Metals, Mitsubishi Materials, Freeport, Codelco
-
-**Components & materials**
-
-- Copper wire rod
-- Insulation & sheath materials
-- Connectors & terminals
-- JST, Yazaki Parts, TE Connectivity
-
-**Sumitomo Electric Industries, Ltd. (5802)**
-
-- Automotive — wiring harnesses & connectors via Sumitomo Wiring Systems (57% of FY3/26 sales)
-- Environment & Energy — power cable, magnet wire & energy systems
-- Infocommunications — optical fibre & cable, high-density connectors, optical devices (EML/CW lasers, InP substrates)
-- Electronics & Industrial Materials — FPC, fine polymer, cemented-carbide tools
-
-**Distribution & construction**
-
-- Cable distributors (inventory / cutting)
-- Electrical contractors
-- Senshu Electric, Inaba Denki, WESCO, Rexel
-
-**End customers**
-
-- Construction & buildings
-- Power utilities (grid)
-- Automotive, industrial
-- Obayashi, TEPCO Power Grid, Toyota, Fanuc
-
-**Service & recycling**
-
-- Installed cable renewal
-- Copper scrap recovery & refining
-- JX Metals, Mitsubishi Materials, Nexans
+**Figure 8. Sumitomo Electric in the wire & cable value chain**
 
 *Source: FIELDNOTES sector report §4 (wire & cable value chain); company segments from §3 of this report.*
 
@@ -246,7 +137,7 @@ Segment profit is operating profit; the disclosed adjustment (mainly unrealised-
 
 FY3/2026: Automotive ¥2,935,389mn / ¥179,700mn (6.1%); Environment & Energy ¥1,142,598mn / ¥90,615mn (7.9%); Infocommunications ¥315,030mn / ¥77,435mn (24.6%); Electronics ¥350,638mn / ¥39,528mn (11.3%); Industrial Materials & Others ¥366,516mn / ¥31,399mn (8.6%). The five-year rotation is the story: **in FY3/2022 Automotive earned ¥12,264mn (0.7%) and Infocommunications ¥23,398mn (9.9%); by FY3/2026 Automotive had recovered to ¥179,700mn while Infocommunications' margin had reached 24.6%** — and H1 FY3/2027 then pushed Info to 30.4% while Automotive fell back to 3.3%. On the history block (same five-segment basis), FY3/2017 was Automotive ¥1,511,739mn / ¥98,616mn (6.5%), E&E ¥607,494mn / ¥20,807mn, Info ¥196,173mn / ¥21,509mn, Electronics ¥235,981mn / −¥10,898mn (loss), IM&O ¥263,096mn / ¥20,491mn.
 
-**Exhibit 2: Segments (¥mn) — corrected basis (register S15)**
+**Figure 9. Exhibit 2: Segments (¥mn) — corrected basis (register S15)**
 
 | Segment | FY22 sales | FY22 profit | FY23 sales | FY23 profit | FY24 sales | FY24 profit | FY25 sales | FY25 profit | FY26 sales | FY26 profit | FY26 margin % |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -260,7 +151,7 @@ FY3/2026: Automotive ¥2,935,389mn / ¥179,700mn (6.1%); Environment & Energy ¥
 
 *Source: Company tanshin via PL/segment sheet, corrected copy (register S3, S15). Segment profit = operating profit. FY2022–23 cells corrected 17 Nov 2026 after a positional mislabelling in the original build.*
 
-**Exhibit 2A. Segments — FY3/17–FY3/21 (five-segment basis, as reported)**
+**Figure 10. Exhibit 2A. Segments — FY3/17–FY3/21 (five-segment basis, as reported)**
 
 | Segment | FY17 sales | FY17 profit | FY18 sales | FY18 profit | FY19 sales | FY19 profit | FY20 sales | FY20 profit | FY21 sales | FY21 profit |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -272,7 +163,7 @@ FY3/2026: Automotive ¥2,935,389mn / ¥179,700mn (6.1%); Environment & Energy ¥
 
 *Source: PL/segment workbook — History block, the same five-segment basis as the main window, J-GAAP as originally reported; shown separately, not spliced into Exhibit 2.*
 
-**Exhibit 2B. Regional sales — FY3/17–FY3/19 (bases as disclosed)**
+**Figure 11. Exhibit 2B. Regional sales — FY3/17–FY3/19 (bases as disclosed)**
 
 | Region | FY17 sales | FY17 profit (entity only) | FY18 sales | FY18 profit (entity only) | FY19 sales | FY19 profit (entity only) |
 |---|---|---|---|---|---|---|
@@ -315,6 +206,6 @@ Sources: the PL/segment sheet for Sumitomo Electric (5802) in its CORRECTED form
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
