@@ -11,7 +11,7 @@ lang: ja
 
 Record orders, thin current margins. DMG Mori is the world's largest machine-tool builder by revenue — FY2025 sales of ¥515.0bn (Company results via PL/segment sheet (tanshin), FY2025 results announced 10 February 2026) — formed by the 2009–2016 integration of Japan's Mori Seiki (founded 1948) and Germany's Gildemeister (founded 1870). The investment question at initiation is timing, not franchise quality. Strengths: **order intake is at a record — ¥522.0bn in January–September 2026, +36.7% year on year**, with three successive quarterly records (Q3 2026 tanshin, 30 October 2026) — the machine order backlog has rebuilt to ¥328.0bn (September 2026) from ¥240.0bn (December 2025), and the Industrial Services segment earns a structurally higher margin (13.6% in FY2025; 16.3% in 9M 2026) on repair, parts and engineering tied to the installed base. Weaknesses: consolidated profitability is currently poor — **the FY2025 operating margin was 3.7% and the 9M 2026 margin 4.0%** — the Machine Tool segment margin fell to 2.5% in FY2025, reported net income has been dominated for two years by the discontinued Russian operation (a ¥15.1bn post-tax loss in FY2024 and a ¥17.2bn insurance gain in FY2025), and the equity base was diluted in August 2026 by an overseas offering of about ¥48bn. Company guidance for FY2026 (revised up on 4 August 2026 and confirmed on 30 October 2026) is sales of ¥580,000mn and operating profit of ¥30,000mn — a 5.2% margin that still sits well below the FY2023 peak of 10.0% and below the company's own FY2027 plan (EBIT margin 8.1%) and FY2028 plan (10.1%). The rating and price target are Under Review at initiation; this report establishes the factual base — five years of reported financials, segment economics, the order cycle and the company's published plan — on which a valuation will be set.
 
-**Exhibit 1 — Key indicators, FY2016–FY2025 actuals and FY2026E company guidance (¥mn unless stated)**
+**Figure 1. Exhibit 1 — Key indicators, FY2016–FY2025 actuals and FY2026E company guidance (¥mn unless stated)**
 
 | Item | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E (company guidance) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@ Record orders, thin current margins. DMG Mori is the world's largest machine-too
 *Source: Company results via PL/segment sheet (tanshin), FY2021–FY2025; FY2026E: company guidance revised 4 Aug 2026, confirmed in Q3 2026 tanshin, 30 Oct 2026 History for FY2016–FY2020 is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Market cap | ¥397.6bn |
@@ -39,6 +40,7 @@ Record orders, thin current margins. DMG Mori is the world's largest machine-too
 | Next event | FY2026 full-year results (expected early Feb 2027, based on prior-year timing) |
 
 ## Key points
+
 - **Orders are the story.** **Consolidated order intake was ¥522.0bn in 9M 2026 (+36.7% YoY)**, with quarterly intake rising through the year — ¥155.4bn (Q1), ¥179.8bn (Q2), ¥186.8bn (Q3, an all-time quarterly high). The company raised its FY2026 order outlook to more than ¥650bn from ¥630bn (Q3 2026 tanshin, 30 October 2026). Against FY2025 intake of ¥523.4bn (Company results via PL/segment sheet (tanshin)), the order book — not current shipments — is what supports the FY2027–28 plan.
 - **Backlog rebuilt.** **The machine order backlog reached ¥328.0bn at end-September 2026**, up 36.7% from ¥240.0bn at end-December 2025, with a rising share of long-lead-time orders. Management states the backlog supports revenue growth in FY2027 and FY2028 as well as Q4 2026 (Q3 2026 tanshin, 30 October 2026). Backlog is not disclosed in the tanshin financial statements themselves; the figure comes from the qualitative section of the Q3 release.
 - **Two-speed segment economics.** In FY2025, **Machine Tool earned a 2.5% segment margin** on sales of ¥343,277mn, while **Industrial Services earned 13.6%** on ¥171,652mn (Company results via PL/segment sheet (tanshin)). In 9M 2026 the gap persisted: 3.0% versus 16.3%. Consolidated margin recovery therefore depends mainly on Machine Tool volume and mix — 5-axis and multitasking 'MX' machines and automation — not on services, which are already performing.
@@ -59,91 +61,19 @@ Order intake (disclosed in the qualitative section of each tanshin, rounded to �
 
 The balance sheet expanded steadily: total assets of ¥597,117mn (FY2021), ¥680,334mn (FY2022), ¥765,806mn (FY2023), ¥797,567mn (FY2024) and ¥868,965mn (FY2025), with equity attributable to owners of ¥213,139mn, ¥245,897mn, ¥267,990mn, ¥314,522mn and ¥340,484mn respectively (owners' equity ratio 35.7%, 36.1%, 35.0%, 39.4%, 39.2%; Company results via PL/segment sheet (tanshin)). Goodwill of ¥100,100mn at end-FY2025 — a legacy of the German consolidation — is the single largest intangible exposure. Operating cash flow was positive in all five years (¥49,733mn, ¥69,749mn, ¥51,608mn, ¥44,579mn, ¥25,984mn) but weakened in FY2025 as inventories rose to ¥201,821mn. Capital expenditure (purchases of property, plant and equipment plus intangibles, per the sheet) was ¥23,251mn, ¥41,112mn, ¥42,472mn, ¥43,805mn and ¥29,519mn across FY2021–FY2025.
 
-**Figure: DMG Mori Co., Ltd. — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY2016 | 376631 |
-
-| FY2017 | 429664 |
-
-| FY2018 | 501248 |
-
-| FY2019 | 485778 |
-
-| FY2020 | 328283 |
-
-| FY2021 | 396011 |
-
-| FY2022 | 474771 |
-
-| FY2023 | 539450 |
-
-| FY2024 | 540945 |
-
-| FY2025 | 514976 |
+**Figure 2. DMG Mori Co., Ltd. — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: DMG Mori Co., Ltd. — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY2016 | 1961 |
-
-| FY2017 | 29391 |
-
-| FY2018 | 36261 |
-
-| FY2019 | 37339 |
-
-| FY2020 | 10674 |
-
-| FY2021 | 23067 |
-
-| FY2022 | 41213 |
-
-| FY2023 | 54150 |
-
-| FY2024 | 43726 |
-
-| FY2025 | 18974 |
+**Figure 3. DMG Mori Co., Ltd. — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: DMG Mori Co., Ltd. — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY2016 | 0.5 |
-
-| FY2017 | 6.8 |
-
-| FY2018 | 7.2 |
-
-| FY2019 | 7.7 |
-
-| FY2020 | 3.3 |
-
-| FY2021 | 5.8 |
-
-| FY2022 | 8.7 |
-
-| FY2023 | 10 |
-
-| FY2024 | 8.1 |
-
-| FY2025 | 3.7 |
+**Figure 4. DMG Mori Co., Ltd. — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: DMG Mori Co., Ltd. — revenue and operating margin**
+**Figure 5. DMG Mori Co., Ltd. — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -157,7 +87,7 @@ Full-year FY2026 guidance — first raised at the Q2 release on 4 August 2026 an
 
 Two balance-sheet events in the period matter for per-share analysis. First, in August 2026 the company issued new shares by overseas offering, raising about ¥48bn (capital and capital surplus rose ¥47,781mn in the quarter); issued shares increased from 142,325,934 at end-FY2025 to 157,325,934 at end-September 2026. Proceeds are earmarked for the Nagaoka plant, the Poland plant and a Chicago R&D/solutions centre, for in-house production of key components, and for future M&A and alliances. Second, total assets reached ¥877,625mn and the owners' equity ratio 40.6% at end-September 2026, with inventories up to ¥220,055mn and contract liabilities of ¥116,941mn reflecting the order book (Q3 2026 tanshin, 30 October 2026).
 
-**Exhibit 3 — Order intake versus revenue, FY2021–FY2025 and FY2026 (¥mn)**
+**Figure 6. Exhibit 3 — Order intake versus revenue, FY2021–FY2025 and FY2026 (¥mn)**
 
 | Item | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E |
 |---|---|---|---|---|---|---|
@@ -189,49 +119,7 @@ Within that market DMG Mori is the revenue leader among listed builders — FY20
 
 Value-chain position: DMG Mori buys castings, ball screws, spindles, linear scales (partly in-house via Magnescale) and CNC controls, and sells increasingly complete production systems — machine plus automation plus software plus service contract — which raises revenue per installation (the average order price per machine of ¥80.6mn in 9M 2026 versus ¥79.6mn average in FY2025; Q3 2026 tanshin) and lengthens lead times, feeding the backlog discussed in Section 2.
 
-**Figure: DMG Mori in the machine-tool value chain**
-
-**Materials & Machine Structures**
-
-- Castings: beds, columns
-- Structural steel
-- In-house: DMG Mori, Okuma
-- In-house: Yamazaki Mazak
-
-**Precision Components**
-
-- Ball screws, linear guides: THK
-- Spindles, bearings: NSK, JTEKT
-- Measurement: Renishaw, HEIDENHAIN
-- Taiwan: HIWIN
-
-**Control & Drive Systems**
-
-- CNC: Fanuc, Mitsubishi Electric, Siemens
-- Servo, spindle drives: Yaskawa
-- PLC, motion, safety control
-- Sensors, machine vision: Keyence, Omron
-
-**DMG Mori Co., Ltd. (6141)**
-
-- Machine Tool — 5-axis, multitasking 'MX', machining centres, lathes
-- Industrial Services — repair, parts, engineering
-- Magnescale & Saki — semiconductor-related equipment
-- Production: Japan, Germany, Poland, US, China, India
-
-**Distribution, Integration & Service**
-
-- Trading houses: Yamazen
-- Automation cells, system integrators
-- CAD/CAM, monitoring software
-- Maintenance, retrofit, used machines
-
-**End Customers**
-
-- Automotive OEMs, Tier 1s
-- Semiconductor equipment makers
-- Aerospace & defence
-- AI data centres, medical, general machinery
+**Figure 7. DMG Mori in the machine-tool value chain**
 
 *Source: FIELDNOTES sector report §4 (machine tools & FA value chain); company segments from §5 of this report.*
 
@@ -243,7 +131,7 @@ The five-year segment record (Exhibit 2) shows the two businesses moving differe
 
 Geographic split: the company does not disclose revenue or profit by region (customer location) in its tanshin, and the PL/segment sheet therefore carries no regional block — regional sales and profit are not disclosed on that basis. Qualitatively, the group sells worldwide through direct sales and service companies in the Americas (Chicago technology centre and US production), Europe (the German AG organisation is the largest single operating block), Japan and the rest of Asia, and its order commentary for 9M 2026 reports double-digit order growth in every region without quantifying the split (Q3 2026 tanshin, 30 October 2026). Investors should treat any third-party regional revenue split for DMG Mori as an estimate, not a disclosure.
 
-**Exhibit 2 — Segment sales (external) and segment profit, FY2021–FY2025 (¥mn)**
+**Figure 8. Exhibit 2 — Segment sales (external) and segment profit, FY2021–FY2025 (¥mn)**
 
 | Segment | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -258,33 +146,15 @@ Geographic split: the company does not disclose revenue or profit by region (cus
 
 *Source: Company results via PL/segment sheet (tanshin). Segment profit = operating profit + share of profit of associates, per company definition; adjustments are corporate functions and eliminations. History for FY2016–FY2020 is from the PL/segment sheet's supplementary History block (company tanshin for those years, as reported).*
 
-**Figure: DMG Mori Co., Ltd. — segment revenue, FY2025**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| Machine Tool — sales | 343277 |
-
-| Industrial Services — sales | 171652 |
+**Figure 9. DMG Mori Co., Ltd. — segment revenue, FY2025**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: DMG Mori Co., Ltd. — segment revenue by year**
+**Figure 10. DMG Mori Co., Ltd. — segment revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
-**Figure: DMG Mori Co., Ltd. — segment revenue mix, FY2025**
-
-**Machine Tool**
-
-- 343,277 Segment
-- 66.7% of revenue
-
-**Industrial Services**
-
-- 171,652 Segment
-- 33.3% of revenue
+**Figure 11. DMG Mori Co., Ltd. — segment revenue mix, FY2025**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 2 of this report.*
 
@@ -324,6 +194,6 @@ Rating and target. The rating ('Under Review') and price target ('Under review')
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
