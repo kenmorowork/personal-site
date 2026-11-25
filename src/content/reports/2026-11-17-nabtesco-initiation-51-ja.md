@@ -1,7 +1,7 @@
 ---
 title: "The reducer cycle trough is behind it; the portfolio is smaller, purer — and the 2027 reference targets now rest on Transport and Accessibility"
 company: "Nabtesco Corporation"
-ticker: "6268"
+ticker: "—"
 sector: "Industrials"
 date: 2026-11-17
 type: initiation
@@ -11,7 +11,7 @@ lang: ja
 
 Nabtesco is Japan's motion-control specialist: the world's leading maker of precision reduction gears for industrial robots (Component Solutions), alongside railway, aircraft and marine control equipment (Transport Solutions) and automatic doors and platform systems (Accessibility Solutions). In FY12/2025 revenue was ¥307,912mn and operating profit ¥20,726mn (6.7% margin) on the continuing basis — the hydraulics business was classified as a discontinued operation from Q3 FY2025 and 70% of it was transferred to Comer Industries on 1 January 2026. FY12/2026 guidance, raised on 31 July 2026 and left unchanged at Q3 (13 November 2026), is revenue ¥344,000mn, operating profit ¥32,600mn, profit before tax ¥36,300mn and owners' net income ¥24,100mn (basic EPS ¥206.20, dividend ¥82). Strengths: (1) a structural franchise in RV precision reducers for industrial robots, where Nabtesco holds the leading global share and the FY2023–25 downturn was a customer inventory cycle, not share loss on any disclosed evidence; (2) **Transport Solutions has compounded steadily — sales ¥67,744mn (FY2021) to ¥100,473mn (FY2025) at a 13.5% margin** — on rail, aircraft and marine demand, and now carries ¥100,199mn of the ¥180,055mn group backlog; (3) Accessibility grows through cycles (¥75,108mn to ¥110,668mn over the same span) on platform-door and automatic-door demand; (4) order intake has exceeded ¥320bn for four consecutive years (FY2022–25) and the backlog is at a record; (5) the balance sheet is in net cash (cash ¥73,340mn vs borrowings ¥44,985mn at FY2025-end, register definition). Weaknesses: (1) profitability has structurally de-rated — group OP margin fell from 10.0% (FY2021) to 4.6% (FY2024) before recovering to 6.7%, and **Component Solutions' profit collapsed from ¥22,903mn to ¥5,420mn** as reducer demand and then the hydraulics exit shrank the segment from ¥138,130mn to ¥79,325mn of sales; (2) the FY2025/FY2026 comparison crosses the hydraulics discontinuation, so reported growth rates flatter or depress underlying trends depending on the line; (3) the mid-term plan's hard targets are financial-engineering metrics (ROIC ≥10%, DOE ≥3.5% by 2027) while the operating reference targets (2027 revenue ¥400bn, OP ¥42bn) were set in February 2025 — whether they include the transferred hydraulics profit is an open question the company has not answered in the sources read; (4) on 30 September 2026 the company filed amendments to internal control reports for prior fiscal years and disclosed material weaknesses in internal control over financial reporting; (5) FY2021's headline profit is unusable as a base — a ¥117,221mn first-quarter financial gain, partly reversed over the rest of that year, took owners' net income to ¥64,818mn and diluted EPS to ¥534.53. Rating and price target are Under Review placeholders (see Basis of preparation).
 
-**Exhibit 1: Key indicators, FY12/2016–FY12/2025 (¥mn unless stated)**
+**Figure 1. Exhibit 1: Key indicators, FY12/2016–FY12/2025 (¥mn unless stated)**
 
 |  | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -37,6 +37,7 @@ Nabtesco is Japan's motion-control specialist: the world's leading maker of prec
 *Source: Company tanshin via PL/segment sheet (register S1, S14–S15). FY2016 J-GAAP as filed; FY2017–24 IFRS combined basis; FY2025 IFRS continuing only. EPS: diluted as calculated in the sheet (FY2016 on the basic count — no diluted count presented). Margins and P/E calculated.*
 
 **Key data**
+
 | Item | Value |
 |---|---|
 | Share price (16 Nov 2026) | ¥3,574 |
@@ -47,6 +48,7 @@ Nabtesco is Japan's motion-control specialist: the world's leading maker of prec
 | Order backlog (FY12/25-end) | ¥180,055mn |
 
 ## Key points
+
 - **Guidance raised once, held at Q3** FY12/2026 guidance was set on 12 February 2026 (revenue ¥327,000mn / OP ¥27,700mn / owners' NI ¥17,600mn), the net-income line alone was raised in April (to ¥18,600mn — a step the guidance tracker flags as only partially verified), and the full guide was raised on 31 July 2026 to revenue ¥344,000mn / OP ¥32,600mn / PBT ¥36,300mn / NI ¥24,100mn; it was left unchanged at Q3 on 13 November 2026. At Q3 the company reported progress of 73% on revenue and 72% on OP, **implying a Q4 of ¥93.2bn revenue and ¥9.2bn OP (calculated)**; management attributed the soft implied Q4 segment margins to Q4-weighted expenses and cost-recognition timing in the Q&A.
 - **Hydraulics exit redraws the group** The hydraulics business was split off (as Comtesco) and 70% transferred to Comer Industries on 1 January 2026; it is a discontinued operation from Q3 FY2025 (post-tax result +¥1,901mn in FY2025). FY2025 is therefore continuing-only while FY2024 and earlier are on the combined basis — **Component Solutions' reported fall from ¥110,571mn (FY2024) to ¥79,325mn (FY2025) is mostly scope, not demand**.
 - **Component trough, Transport engine** Component Solutions earned ¥22,903mn on ¥138,130mn of sales in FY2021 (16.6% margin) and ¥5,420mn on ¥79,325mn in FY2025 (6.8%) — reducer destocking plus the hydraulics exit. **Transport Solutions moved the other way every year: ¥67,744mn → ¥100,473mn of sales and ¥5,617mn → ¥13,586mn of profit (FY2021–25), and holds 56% of the group order backlog**.
@@ -61,91 +63,19 @@ Three eras are visible. First, steady scale on thin margins: sales rose from ¥2
 
 Cash generation held up better than profit: operating cash flow was positive in all ten years (¥7,717mn at the FY2022 low; ¥32,824mn in FY2025). Order intake has run at ¥286–335bn a year and the backlog has built every year since FY2020, from ¥130,944mn to ¥180,055mn. Capital expenditure peaked at ¥28,351mn in FY2024 (capacity additions ahead of the cycle) and fell back to ¥16,015mn in FY2025. R&D and headcount are disclosed in the annual supplement only: R&D was ¥7,362mn and employees 7,162 in FY2016, rising to ¥10,214mn and 7,713 by FY2018 (history block); the FY2021–25 supplement values were not carried into the sheet's main block and are marked as a gap.
 
-**Figure: Nabtesco Corporation — revenue by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY16 | 244618 |
-
-| FY17 | 282422 |
-
-| FY18 | 294626 |
-
-| FY19 | 289808 |
-
-| FY20 | 279358 |
-
-| FY21 | 299802 |
-
-| FY22 | 308691 |
-
-| FY23 | 333631 |
-
-| FY24 | 323384 |
-
-| FY25 | 307912 |
+**Figure 2. Nabtesco Corporation — revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Nabtesco Corporation — operating profit by year**
-
-| Item | Value (¥mn) |
-
-|---|---|
-
-| FY16 | 23471 |
-
-| FY17 | 29468 |
-
-| FY18 | 21889 |
-
-| FY19 | 25320 |
-
-| FY20 | 28533 |
-
-| FY21 | 30017 |
-
-| FY22 | 18097 |
-
-| FY23 | 17376 |
-
-| FY24 | 14788 |
-
-| FY25 | 20726 |
+**Figure 3. Nabtesco Corporation — operating profit by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Nabtesco Corporation — operating margin by year**
-
-| Item | Value (%) |
-
-|---|---|
-
-| FY16 | 9.6 |
-
-| FY17 | 10.4 |
-
-| FY18 | 7.4 |
-
-| FY19 | 8.7 |
-
-| FY20 | 10.2 |
-
-| FY21 | 10 |
-
-| FY22 | 5.9 |
-
-| FY23 | 5.2 |
-
-| FY24 | 4.6 |
-
-| FY25 | 6.7 |
+**Figure 4. Nabtesco Corporation — operating margin by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
-**Figure: Nabtesco Corporation — revenue and operating margin**
+**Figure 5. Nabtesco Corporation — revenue and operating margin**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in Figure 1 of this report.*
 
@@ -161,7 +91,7 @@ At Q3 FY2026 the company reported cumulative progress of 73% of the full-year re
 
 Initial guidance (12 February 2026, with the FY2025 tanshin): revenue ¥327,000mn, OP ¥27,700mn, owners' NI ¥17,600mn. Revision 1 (30 April 2026, Q1): revenue and OP unchanged, owners' NI raised to ¥18,600mn — the guidance tracker flags this step as only partially verified: it rests on the TDnet XBRL forecast history, and the net-income basis (continuing vs total including discontinued hydraulics) differs between sources. Revision 2 (31 July 2026, Q2 tanshin): revenue ¥344,000mn, OP ¥32,600mn, PBT ¥36,300mn, owners' NI ¥24,100mn, basic EPS ¥206.20, dividend ¥82 (¥41 interim + ¥41 year-end). Q3 (13 November 2026): unchanged. Against FY2025 continuing actuals, the guide implies revenue +11.7%, OP +57.3% and owners' NI +53.5% (calculated) — a steep second-half-weighted recovery that leans on reducer demand normalisation and the Transport/Accessibility backlog.
 
-**Exhibit 3: FY12/2026 guidance chain (¥mn)**
+**Figure 6. Exhibit 3: FY12/2026 guidance chain (¥mn)**
 
 | Step | Revenue | OP | PBT | Owners' NI | Basic EPS (¥) |
 |---|---|---|---|---|---|
@@ -199,49 +129,7 @@ Packaging machinery, 3D modelling equipment and other non-reportable businesses:
 
 Component Solutions sells into industrial-robot and machine-tool capex: the reducer cycle follows robot orders (JARA/IFR data) with a lag, and the FY2023–25 downturn was a post-COVID inventory correction in robots layered on weak China demand. **Competition in precision reducers is concentrated — Harmonic Drive Systems in harmonic gears, Nabtesco in RV reducers** — with Chinese makers (e.g. Leaderdrive and others) pressing at the mid-range; the humanoid-robot option is the market's upside case for both technologies and the company's own Q&A treats it as unquantified. Transport demand is driven by rail fleet renewal and platform-door installation in Japan and Asia, aircraft build rates (Boeing/Airbus supply chains) and marine newbuild cycles. Accessibility demand follows construction and station-modernisation spending. Cost side: steel and materials inflation ran ahead of the company's initial assumptions in the current plan period (company Q&A), partly offset by the price increases management says are now achieved.
 
-**Figure: Nabtesco in the gears & motion value chain**
-
-**Gear Steel & Materials**
-
-- Carburising gear steel (SCM)
-- Forging stock, ductile-iron castings
-- Nippon Steel, Daido, Kobe Steel
-- China steel: Baosteel
-
-**Components**
-
-- Bearings: NSK, SKF, Schaeffler, Timken
-- Seals, lubrication systems
-- Condition-monitoring sensors
-- Couplings
-
-**Gear Cutting & Heat Treatment**
-
-- Hobbing, shaping, skiving
-- Carburising & quenching
-- Gear grinding, honing
-- Standard gears: KHK (Kohara)
-
-**Nabtesco Corporation (6268)**
-
-- Component Solutions — RV precision reducers for industrial robots & machine tools
-- Transport Solutions — railway, aircraft & marine control equipment
-- Accessibility Solutions — automatic doors, platform screen doors, welfare equipment
-- Other — packaging machinery, 3D modelling equipment
-
-**Distribution & OEM Integration**
-
-- Catalogue/MRO: Misumi, MonotaRO, Trusco
-- KHK stock sales (27,000+ types)
-- OEM direct sales: SEW, NORD
-- Machine & plant integration
-
-**End Users & Service**
-
-- Wind OEMs: Vestas, Goldwind, GE Vernova
-- Automotive OEMs: Toyota, Tesla, BYD
-- Mining, plants, defence forces
-- Overhaul, uprating, repowering support
+**Figure 7. Nabtesco in the gears & motion value chain**
 
 *Source: FIELDNOTES sector report §4 (gears & transmissions value chain); company segments from §3 of this report.*
 
@@ -251,7 +139,7 @@ Segment profit is operating profit on the company's definition (register, Driver
 
 The regional history tempers the China narrative. Japan was 55.5% of sales in FY2017 (¥156,800mn of ¥282,422mn) and 50.4% in FY2025 (¥155,240mn of ¥307,912mn) — Japanese sales were essentially flat in yen across eight years while the group grew. China sales peaked in the window at ¥59,510mn in FY2021 and fell to ¥43,403mn by FY2025, a 27% decline from the peak, even as reducer orders from Chinese automakers drove the FY12/2026 recovery described in Chapter 2. Europe was the growth region of the main window, rising from ¥42,259mn in FY2021 to ¥59,671mn in FY2025, and North America rose from ¥16,623mn to ¥27,490mn over the same span. Regional profit is not disclosed in any year.
 
-**Figure: Nabtesco Corporation — regional revenue by year**
+**Figure 8. Nabtesco Corporation — regional revenue by year**
 
 *Source: Company results via PL/segment sheet (tanshin, JPX archive) — as tabulated in the regional sales exhibit of this report.*
 
@@ -259,7 +147,7 @@ The regional history tempers the China narrative. Japan was 55.5% of sales in FY
 
 FY2025 vs FY2021 tells the portfolio story. **Component: sales ¥138,130mn → ¥79,325mn, profit ¥22,903mn → ¥5,420mn** (the FY2024 combined-basis staging point was ¥110,571mn / ¥4,523mn — the margin trough preceded the scope change). Transport: ¥67,744mn → ¥100,473mn, profit ¥5,617mn → ¥13,586mn. Accessibility: ¥75,108mn → ¥110,668mn, profit ¥7,642mn → ¥9,085mn. Other: ¥18,820mn → ¥17,445mn, profit ¥2,736mn → ¥2,194mn. Corporate/eliminations ran at −¥9,559mn in FY2025 (−¥8,881mn in FY2021; the FY2023–24 prints of −¥10,380mn and −¥12,283mn include the downturn years' unallocated costs). In the deepened years the solution basis exists from FY2017 (Component ¥119,280mn / ¥20,197mn profit in FY2018; Transport ¥81,863mn / ¥2,007mn; Accessibility ¥75,957mn / ¥4,625mn); FY2016 is on the OLD four-segment basis only (Precision Equipment ¥56,931mn / ¥8,616mn; Transport Equipment ¥61,074mn / ¥10,335mn; Aircraft & Hydraulic Equipment ¥47,806mn / −¥26mn; Industrial Equipment ¥78,806mn / ¥4,546mn — profit sums directly to J-GAAP OP), taken from the FY2016 tanshin's own segment note, not the FY2017 restatement.
 
-**Exhibit 2: Segment sales / profit (¥mn) — FY2025 continuing basis; FY2024 and earlier combined (hydraulics in Component)**
+**Figure 9. Exhibit 2: Segment sales / profit (¥mn) — FY2025 continuing basis; FY2024 and earlier combined (hydraulics in Component)**
 
 | Segment | FY21 sales | FY21 profit | FY24 sales | FY24 profit | FY25 sales | FY25 profit | FY25 margin % |
 |---|---|---|---|---|---|---|---|
@@ -272,7 +160,7 @@ FY2025 vs FY2021 tells the portfolio story. **Component: sales ¥138,130mn → �
 
 *Source: Company tanshin via PL/segment sheet (register S3, S7). Segment profit = operating profit (company definition).*
 
-**Exhibit 2A. Segment sales / profit — additional years on the solution basis**
+**Figure 10. Exhibit 2A. Segment sales / profit — additional years on the solution basis**
 
 | Segment | FY17 sales | FY17 profit | FY18 sales | FY18 profit | FY19 sales | FY19 profit | FY20 sales | FY20 profit | FY22 sales | FY22 profit | FY23 sales | FY23 profit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -284,7 +172,7 @@ FY2025 vs FY2021 tells the portfolio story. **Component: sales ¥138,130mn → �
 
 *Source: PL/segment workbook — Solution basis (Component / Transport / Accessibility + Other) as disclosed in each year; hydraulics inside Component Solutions throughout these years. FY25 in the exhibit is continuing-only and FY24/FY21 combined — the added years are combined-basis as originally reported and must not be used to compute growth into the FY25 continuing figures. Corporate/eliminations profit: FY22 -¥8,850mn, FY23 -¥10,380mn (sheet row 85); FY17-20 adjustment rows in the sheet are formula cells that return no cached value in this copy — marked 未取得 rather than reconstructed.*
 
-**Exhibit 2B. Segments — FY2016 on the former four-segment basis (J-GAAP)**
+**Figure 11. Exhibit 2B. Segments — FY2016 on the former four-segment basis (J-GAAP)**
 
 | Segment | FY16 sales | FY16 profit | FY16 order intake | FY16 order backlog (year-end) |
 |---|---|---|---|---|
@@ -296,7 +184,7 @@ FY2025 vs FY2021 tells the portfolio story. **Component: sales ¥138,130mn → �
 
 *Source: PL/segment workbook — FY2016 tanshin's own segment note (Precision Equipment / Transport Equipment / Aircraft & Hydraulic Equipment / Industrial Equipment; no Other category; segment profit sums directly to operating profit). Never splice with the solution basis. FY2016 regional sales were not disclosed (ND).*
 
-**Exhibit 2C. Regional sales (customer location)**
+**Figure 12. Exhibit 2C. Regional sales (customer location)**
 
 | ¥mn | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|
@@ -335,6 +223,6 @@ Sources: the PL/segment sheet for Nabtesco (6268) — main window FY2021–FY202
 
 Rating (as stated in the report): Under Review
 
-Analyst: Kenshi Morozumi, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
+Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.
