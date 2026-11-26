@@ -15,7 +15,7 @@ Japan's largest warehouse operator, valued on its land as much as its logistics
 
 | Item | Value |
 |---|---|
-| Market cap | ¥449.2bn |
+| Market cap | ¥426.8bn |
 | P/B | 1.12x |
 | Rental real estate unrealised gain | ¥298,359mn — about ¥867 per share |
 | Dividend | FY3/27E DPS ¥44 (company guidance); yield 3.5% |

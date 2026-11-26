@@ -15,7 +15,7 @@ lang: ja
 
 | Item | Value |
 |---|---|
-| 時価総額 | ¥449.2bn |
+| 時価総額 | ¥426.8bn |
 | PBR | 1.12x |
 | 賃貸等不動産の含み益 | ¥298,359mn — about ¥867 per share |
 | 配当 | FY3/27E DPS ¥44 (company guidance); yield 3.5% |

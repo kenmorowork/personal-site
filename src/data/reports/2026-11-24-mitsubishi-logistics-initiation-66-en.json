@@ -19,8 +19,8 @@
   "keyData": [
     {
       "label": "Market cap",
-      "value": "¥449.2bn",
-      "asOf": "24 Nov 26 (calculated: ¥1,240.5 × 362,135,395 issued shares, FY3/26 tanshin; ¥426.8bn ex-treasury)"
+      "value": "¥426.8bn",
+      "asOf": "24 Nov 26 (calculated: ¥1,240.5 close × shares outstanding ex-treasury, FY3/26 tanshin)"
     },
     {
       "label": "P/B",
