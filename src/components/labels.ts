@@ -167,3 +167,84 @@ const MATCHERS = COMPANIES.map((c) => {
 });
 export const companiesIn = (text: string) =>
   MATCHERS.filter((m) => m.pats.some((p) => p.test(text))).map((m) => m.c);
+
+/* ---------- Related stocks for an industry report ----------
+ * Listed companies the report itself names: covered companies (by name,
+ * short name or code), any company written as "name (code)", and a few
+ * listed companies the reports often name without a code. Ranked by how
+ * often they appear; the top four are shown. Covered ones link to their
+ * company page.
+ */
+export interface RelatedStock { name: string; code: string; slug: string | null }
+const KATA = 'ァ-ヶー';
+const jaPat = (s: string) => new RegExp(`(?<![${KATA}])${s}(?![${KATA}])`, 'g');
+const COVER_PATS = COMPANIES.map((c) => {
+  const pats: RegExp[] = [];
+  if (/^\d{3}[0-9A-Z]$/.test(c.ticker)) pats.push(new RegExp(`[（(]${escRe(c.ticker)}[)）]`, 'g'));
+  else if (/^[A-Z]{2,5}$/.test(c.ticker)) pats.push(new RegExp(`\\b${c.ticker}\\b`, 'g'));
+  const ja = META[c.slug]?.nameJa?.replace(/^株式会社\s*|\s*株式会社$/g, '');
+  if (ja && ja.length >= 3) pats.push(/^[\x00-\x7f]+$/.test(ja) ? new RegExp(`\\b${escRe(ja)}\\b`, 'g') : jaPat(escRe(ja)));
+  const words = c.slug.split('-').filter((w) => w !== 'the');
+  if (words.join('').length >= 5) pats.push(new RegExp(`\\b${words.map(escRe).join('[ -]')}\\b`, 'gi'));
+  const alias: Record<string, string[]> = {
+    'mitsubishi-heavy-industries': ['三菱重工(?!業)'],
+    'kawasaki-heavy-industries': ['川崎重工(?!業)'],
+    'sumitomo-electric-industries': ['住友電工'],
+    'furukawa-electric': ['古河電工'],
+    komatsu: ['コマツ'],
+  };
+  for (const a of alias[c.slug] ?? []) pats.push(new RegExp(`(?<![${KATA}])${a}`, 'g'));
+  return { c, name: ja || c.name, pats };
+});
+const NAMED: [string, string, string[]][] = [
+  ['パナソニックHD', '6752', ['パナソニック']], ['トヨタ自動車', '7203', ['トヨタ']], ['住友金属鉱山', '5713', ['住友金属鉱山']],
+  ['マクセル', '6810', ['マクセル']], ['村田製作所', '6981', ['村田製作所']], ['日産自動車', '7201', ['日産']],
+  ['三井物産', '8031', ['三井物産']], ['旭化成', '3407', ['旭化成']], ['千代田化工建設', '6366', ['千代田化工']],
+  ['北海道電力', '9509', ['北海道電力']], ['富士電機', '6504', ['富士電機']], ['京セラ', '6971', ['京セラ']],
+  ['明電舎', '6508', ['明電舎']], ['GSユアサ', '6674', ['GSユアサ', 'ジーエス・ユアサ']], ['信越化学工業', '4063', ['信越化学']],
+  ['SUMCO', '3436', ['SUMCO']], ['キオクシアHD', '285A', ['キオクシア']], ['ルネサスエレクトロニクス', '6723', ['ルネサス']],
+  ['ローム', '6963', ['ローム']], ['ソニーグループ', '6758', ['ソニー']],
+  ['ヤマハ発動機', '7272', ['ヤマハ発動機']], ['ニコン', '7731', ['ニコン']], ['フジシールインターナショナル', '7864', ['フジシール']],
+];
+const CODED = /([一-龥々ァ-ヶーＡ-Ｚａ-ｚA-Za-z0-9・&＆]{2,24}|(?:[A-Z][A-Za-z&.\-]+ ){0,3}[A-Z][A-Za-z&.\-]+)[（(](\d{4}|\d{3}[A-Z])[)）]/g;
+const count = (re: RegExp, text: string) => (text.match(re) ?? []).length;
+const cleanName = (nm: string) => {
+  let n = nm.replace(/^(?:[0-9]+|図表|表|出典|注|例|約|計|うち)+/, '');
+  if (n.includes('・')) {
+    const [head, ...rest] = n.split('・');
+    if (/(最大手|大手|首位|トップ|専業|系)$/.test(head)) n = rest.join('・');
+  }
+  return n;
+};
+export const relatedStocks = (body: string | undefined, max = 4): RelatedStock[] => {
+  if (!body) return [];
+  const score = new Map<string, number>();
+  const names = new Map<string, string>();
+  const slugs = new Map<string, string>();
+  const add = (code: string, k: number) => score.set(code, (score.get(code) ?? 0) + k);
+  const covered = new Set(COMPANIES.map((c) => c.ticker));
+  for (const { c, name, pats } of COVER_PATS) {
+    const k = pats.reduce((n, p) => n + count(p, body), 0);
+    if (k >= 2) {
+      add(c.ticker, k);
+      names.set(c.ticker, name);
+      slugs.set(c.ticker, c.slug);
+    }
+  }
+  for (const m of body.matchAll(CODED)) {
+    const nm = cleanName(m[1]);
+    const code = m[2];
+    if (covered.has(code) || nm.length < 2 || /^(19[89]\d|20[0-3]\d)$/.test(code)) continue;
+    add(code, 1);
+    if (!names.has(code)) names.set(code, nm);
+  }
+  for (const [disp, code, alts] of NAMED) {
+    const k = alts.reduce((n, a) => n + count(jaPat(escRe(a)), body), 0);
+    if (k) add(code, k);
+    if (score.has(code)) names.set(code, disp);
+  }
+  const ranked = [...score.entries()].sort((a, b) => b[1] - a[1]);
+  let top = ranked.filter(([, v]) => v >= 2).slice(0, max);
+  if (top.length === 0) top = ranked.slice(0, max);
+  return top.map(([code]) => ({ name: names.get(code) ?? code, code, slug: slugs.get(code) ?? null }));
+};

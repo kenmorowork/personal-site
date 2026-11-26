@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import type { Lang } from '../data/site';
+import { relatedStocks } from './labels';
 // @ts-ignore - raw HTML of the FIELDNOTES library index, parsed at build time for the topic list.
 import hubJaHtml from '../fieldnotes/hub-ja.html?raw';
 // @ts-ignore - see above.
@@ -21,7 +22,7 @@ const groups = [
   { key: 'industrials', name: isJa ? '産業' : 'Industrials', desc: isJa ? '機械・電機・データセンター設備・防衛など' : 'Machinery, electrical equipment, data-centre equipment, defence' },
   { key: 'materials', name: isJa ? '素材' : 'Materials', desc: isJa ? '電池材料・炭素繊維・電線・半導体材料など' : 'Battery materials, carbon fibre, wire and cable, semiconductor materials' },
   { key: 'energy', name: isJa ? 'エネルギー' : 'Energy', desc: isJa ? '発電・送配電・蓄電・洋上風力など' : 'Generation, transmission, storage, offshore wind' },
-].map((g) => ({ ...g, rows: reports.filter((r) => r.data.group === g.key) }));
+].map((g) => ({ ...g, rows: reports.filter((r) => r.data.group === g.key).map((r) => ({ r, rel: relatedStocks(r.body) })) }));
 const slugOf = (id: string) => id.replace(/-ja$/, '');
 
 /* ---------- Topic index (parsed from the library's own index) ---------- */
@@ -131,12 +132,24 @@ const kinds = isJa ? ['統計', 'VC'] : ['Stats', 'VC'];
           <span class="num text-[13px] text-neutral-500 dark:text-neutral-400">{g.rows.length}{isJa ? '本' : ''}</span>
         </div>
         <ul class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          {g.rows.map((r) => (
-            <li data-fn-item data-q={`${r.data.title} ${r.data.titleEn ?? ''}`.toLowerCase()}>
-              <a href={`/ja/fieldnotes/${slugOf(r.id)}/`} class="flex h-full flex-col gap-1 border border-t-[3px] border-neutral-200 border-t-navy bg-white px-4 py-3 hover:border-neutral-400 hover:border-t-navy dark:border-neutral-800 dark:border-t-sky dark:bg-neutral-950">
-                <span class="text-[15px] leading-snug font-semibold">{isJa ? r.data.title : (r.data.titleEn ?? r.data.title)}</span>
-                {!isJa && r.data.titleEn && <span class="text-xs text-neutral-500 dark:text-neutral-400">{r.data.title}</span>}
+          {g.rows.map(({ r, rel }) => (
+            <li data-fn-item data-q={`${r.data.title} ${r.data.titleEn ?? ''} ${rel.map((k) => `${k.name} ${k.code}`).join(' ')}`.toLowerCase()} class="flex flex-col gap-2 border border-t-[3px] border-neutral-200 border-t-navy bg-white px-4 py-3 dark:border-neutral-800 dark:border-t-sky dark:bg-neutral-950">
+              <a href={`/ja/fieldnotes/${slugOf(r.id)}/`} class="text-[15px] leading-snug font-semibold hover:underline">
+                {isJa ? r.data.title : (r.data.titleEn ?? r.data.title)}
+                {!isJa && r.data.titleEn && <span class="block text-xs font-normal text-neutral-500 dark:text-neutral-400">{r.data.title}</span>}
               </a>
+              {rel.length > 0 && (
+                <p class="flex flex-wrap gap-x-2 gap-y-1 border-t border-neutral-100 pt-2 text-xs text-neutral-500 dark:border-neutral-900 dark:text-neutral-400">
+                  <span>{isJa ? '関連銘柄' : 'Related'}</span>
+                  {rel.map((k) =>
+                    k.slug ? (
+                      <a href={`${base}/companies/${k.slug}/`} class="font-semibold text-navy hover:underline dark:text-sky">{k.name}</a>
+                    ) : (
+                      <span class="text-neutral-700 dark:text-neutral-300">{k.name}<span class="num ml-0.5 text-neutral-400">{k.code}</span></span>
+                    ),
+                  )}
+                </p>
+              )}
             </li>
           ))}
         </ul>
