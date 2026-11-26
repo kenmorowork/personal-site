@@ -1,0 +1,135 @@
+---
+/* Related stocks row for an industry report: every stock shows its name and
+ * securities code; hovering (or focusing) a stock opens a small company card.
+ * Covered companies link to their company page and show the latest analyst
+ * report and the last close; other companies say there is no report yet.
+ */
+import { getCollection } from 'astro:content';
+import type { Lang } from '../data/site';
+import type { RelatedStock } from './labels';
+import { COMPANIES, fmtPrice, fmtShort, reportSector, reportTypeLabel } from './labels';
+import { industryOf, isTseCode } from './stockMeta';
+import companyMeta from '../data/company-meta.json';
+import pricesData from '../data/prices.json';
+
+interface Props {
+  rel: RelatedStock[];
+  lang: Lang;
+  uid: string;
+  size?: 'sm' | 'md';
+}
+const { rel, lang, uid, size = 'sm' } = Astro.props;
+const isJa = lang === 'ja';
+const meta = companyMeta as Record<string, { marketJa?: string; marketEn?: string }>;
+const prices = ((pricesData as { prices?: Record<string, { price: number; currency: string; asOf: string }> }).prices ?? {});
+const reports = await getCollection('reports', ({ data }) => data.lang === 'ja');
+
+const day = (iso: string) => {
+  const d = new Date(`${iso}T00:00:00`);
+  return isJa ? `${d.getMonth() + 1}/${d.getDate()}` : d.toLocaleDateString('en-GB', { month: 'short', day: 'numeric' });
+};
+
+const cards = rel.map((k, i) => {
+  const co = k.slug ? COMPANIES.find((c) => c.slug === k.slug) : undefined;
+  const market = co
+    ? (isJa ? meta[co.slug]?.marketJa : meta[co.slug]?.marketEn) ?? ''
+    : isTseCode(k.code) ? (isJa ? '東証' : 'TSE') : '';
+  const industry = industryOf(k.code, lang) || (co ? reportSector(co.sector, lang) : '');
+  let last = '';
+  let price = '';
+  if (co) {
+    const latest = reports
+      .filter((e) => e.data.company === co.name && e.data.externalUrl.startsWith('/ja/reports/'))
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())[0];
+    if (latest) last = `${fmtShort(latest.data.date, lang)} · ${reportTypeLabel(latest.id, latest.data.type, lang)}`;
+    const px = prices[co.ticker];
+    if (px) price = isJa ? `${fmtPrice(px.price, px.currency)}（${day(px.asOf)}終値）` : `${fmtPrice(px.price, px.currency)} (close ${day(px.asOf)})`;
+  }
+  return {
+    ...k,
+    id: `rs-${uid}-${i}`,
+    href: co ? `/${lang}/companies/${co.slug}/` : '',
+    line: [market, industry].filter(Boolean).join(' · '),
+    last,
+    price,
+  };
+});
+const text = size === 'md' ? 'text-[13px]' : 'text-xs';
+---
+
+{cards.length > 0 && (
+  <p class={`flex flex-wrap items-baseline gap-x-3 gap-y-1 ${text} text-neutral-500 dark:text-neutral-400`}>
+    <span>{isJa ? '関連銘柄' : 'Related'}</span>
+    {cards.map((k) => (
+      <span class="group/rs relative inline-block" data-rs>
+        {k.href ? (
+          <a href={k.href} aria-describedby={k.id} class="font-semibold text-navy hover:underline dark:text-sky">
+            {k.name}<span class="num ml-1 font-normal text-neutral-400 dark:text-neutral-500">{k.code}</span>
+          </a>
+        ) : (
+          <button type="button" aria-describedby={k.id} class="cursor-default text-neutral-700 dark:text-neutral-300">
+            {k.name}<span class="num ml-1 text-neutral-400 dark:text-neutral-500">{k.code}</span>
+          </button>
+        )}
+        <span
+          id={k.id}
+          role="tooltip"
+          class="rs-pop invisible absolute top-full left-0 z-30 w-[min(280px,calc(100vw-16px))] pt-1.5 group-focus-within/rs:visible group-hover/rs:visible"
+        >
+          <span class="block border border-neutral-300 bg-white px-4 py-3.5 text-left font-normal shadow-[0_10px_28px_rgba(11,18,32,0.14)] dark:border-neutral-700 dark:bg-neutral-900">
+            <span class="flex items-baseline gap-2">
+              <span class="text-[15px] font-semibold text-neutral-900 dark:text-neutral-100">{k.name}</span>
+              <span class="num text-xs text-neutral-500 dark:text-neutral-400">{k.code}</span>
+            </span>
+            {k.line && <span class="mt-0.5 mb-2.5 block text-xs text-neutral-500 dark:text-neutral-400">{k.line}</span>}
+            {k.href ? (
+              <>
+                {k.last && (
+                  <span class="flex justify-between gap-3 border-t border-neutral-200 py-1.5 text-[12.5px] dark:border-neutral-800">
+                    <span class="text-neutral-500 dark:text-neutral-400">{isJa ? '最新レポート' : 'Latest report'}</span>
+                    <span class="text-right font-semibold text-neutral-900 dark:text-neutral-100">{k.last}</span>
+                  </span>
+                )}
+                {k.price && (
+                  <span class="flex justify-between gap-3 border-t border-neutral-200 py-1.5 text-[12.5px] dark:border-neutral-800">
+                    <span class="text-neutral-500 dark:text-neutral-400">{isJa ? '株価' : 'Share price'}</span>
+                    <span class="num text-right font-semibold text-neutral-900 dark:text-neutral-100">{k.price}</span>
+                  </span>
+                )}
+                <span class="mt-2.5 block text-[12.5px] font-semibold text-navy dark:text-sky">
+                  {isJa ? 'クリックで会社ページへ →' : 'Click for the company page →'}
+                </span>
+              </>
+            ) : (
+              <span class="block border-t border-neutral-200 pt-2 text-[13px] text-neutral-700 dark:border-neutral-800 dark:text-neutral-300">
+                {isJa ? 'アナリストレポート：まだ未定です' : 'Analyst report: none yet'}
+              </span>
+            )}
+          </span>
+        </span>
+      </span>
+    ))}
+  </p>
+)}
+
+<script>
+  // Keep the company card inside the window: shift it left when the stock sits near the right edge.
+  const place = (w: Element) => {
+    const pop = w.querySelector<HTMLElement>('.rs-pop');
+    if (!pop) return;
+    pop.style.left = '0px';
+    const wr = w.getBoundingClientRect();
+    const width = pop.getBoundingClientRect().width;
+    const vw = document.documentElement.clientWidth;
+    let x = wr.left;
+    if (x + width > vw - 8) x = vw - 8 - width;
+    if (x < 8) x = 8;
+    pop.style.left = `${Math.round(x - wr.left)}px`;
+  };
+  const onEnter = (e: Event) => {
+    const w = (e.target as Element | null)?.closest?.('[data-rs]');
+    if (w) place(w);
+  };
+  document.addEventListener('mouseover', onEnter);
+  document.addEventListener('focusin', onEnter);
+</script>

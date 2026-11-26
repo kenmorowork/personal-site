@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import { relatedStocks } from '../../../components/labels';
+import RelatedStocks from '../../../components/RelatedStocks.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('fieldnotes');
@@ -35,18 +36,7 @@ const groupJa = {
   {entry.data.titleEn && (
     <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">{entry.data.titleEn}</p>
   )}
-  {rel.length > 0 && (
-    <p class="mt-3 flex flex-wrap items-baseline gap-x-3 gap-y-1 text-[13px] text-neutral-500 dark:text-neutral-400">
-      <span>関連銘柄</span>
-      {rel.map((k) =>
-        k.slug ? (
-          <a href={`/ja/companies/${k.slug}/`} class="font-semibold text-navy hover:underline dark:text-sky">{k.name}</a>
-        ) : (
-          <span class="text-neutral-700 dark:text-neutral-300">{k.name}<span class="num ml-0.5 text-neutral-400">{k.code}</span></span>
-        ),
-      )}
-    </p>
-  )}
+  <div class="mt-3"><RelatedStocks rel={rel} lang="ja" uid="h" size="md" /></div>
   <div class="report-body mt-8">
     <Content />
   </div>

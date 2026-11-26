@@ -207,6 +207,10 @@ const NAMED: [string, string, string[]][] = [
   ['ヤマハ発動機', '7272', ['ヤマハ発動機']], ['ニコン', '7731', ['ニコン']], ['フジシールインターナショナル', '7864', ['フジシール']],
 ];
 const CODED = /([一-龥々ァ-ヶーＡ-Ｚａ-ｚA-Za-z0-9・&＆]{2,24}|(?:[A-Z][A-Za-z&.\-]+ ){0,3}[A-Z][A-Za-z&.\-]+)[（(](\d{4}|\d{3}[A-Z])[)）]/g;
+/* Corrections where a report writes the wrong code or an old spelling
+ * (JUKI is 6440, not 6444; 6245 is ヒラノテクシード). */
+const CODE_FIX: Record<string, string> = { '6444': '6440' };
+const NAME_FIX: Record<string, string> = { '6245': 'ヒラノテクシード' };
 const count = (re: RegExp, text: string) => (text.match(re) ?? []).length;
 const cleanName = (nm: string) => {
   let n = nm.replace(/^(?:[0-9]+|図表|表|出典|注|例|約|計|うち)+/, '');
@@ -233,7 +237,7 @@ export const relatedStocks = (body: string | undefined, max = 4): RelatedStock[]
   }
   for (const m of body.matchAll(CODED)) {
     const nm = cleanName(m[1]);
-    const code = m[2];
+    const code = CODE_FIX[m[2]] ?? m[2];
     if (covered.has(code) || nm.length < 2 || /^(19[89]\d|20[0-3]\d)$/.test(code)) continue;
     add(code, 1);
     if (!names.has(code)) names.set(code, nm);
@@ -246,5 +250,5 @@ export const relatedStocks = (body: string | undefined, max = 4): RelatedStock[]
   const ranked = [...score.entries()].sort((a, b) => b[1] - a[1]);
   let top = ranked.filter(([, v]) => v >= 2).slice(0, max);
   if (top.length === 0) top = ranked.slice(0, max);
-  return top.map(([code]) => ({ name: names.get(code) ?? code, code, slug: slugs.get(code) ?? null }));
+  return top.map(([code]) => ({ name: NAME_FIX[code] ?? names.get(code) ?? code, code, slug: slugs.get(code) ?? null }));
 };
