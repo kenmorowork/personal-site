@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
-import { companyName } from '../../../components/labels';
+import { companyName, companySlug, COMPANIES } from '../../../components/labels';
 import Base from '../../../layouts/Base.astro';
 import PriceChart from '../../../components/PriceChart.astro';
 import ReportPage from '../../../components/ReportPage.astro';
@@ -26,6 +26,8 @@ const base = entry.id.replace(/-ja$/, '');
 const models = import.meta.glob('../../../data/reports/*.json', { eager: true });
 const modelMod: any = models[`../../../data/reports/${base}-ja.json`];
 const model = modelMod ? (modelMod.default ?? modelMod) : null;
+const coSlug = companySlug(entry.data.company);
+const companyHref = COMPANIES.some((c) => c.slug === coSlug) ? `/ja/companies/${coSlug}/` : null;
 ---
 
 <Base
@@ -40,7 +42,7 @@ const model = modelMod ? (modelMod.default ?? modelMod) : null;
   </p>
   {model ? (
     <div class="mt-5">
-      <ReportPage model={model} lang="ja" />
+      <ReportPage model={model} lang="ja" companyHref={companyHref} />
     </div>
   ) : (
     <>

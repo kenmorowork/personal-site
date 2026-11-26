@@ -122,3 +122,48 @@ export const fmtPrice = (price: number, currency: string): string => {
   if (currency === 'TWD') return 'NT$' + price.toLocaleString('en-US', two);
   return price.toLocaleString('en-US', two);
 };
+
+/* ---------- News helpers ---------- */
+export const newsSlug = (id: string) => id.replace(/-(ja|en)$/, '');
+export const newsHref = (id: string, lang: Lang) => `/${lang}/news/${newsSlug(id)}/`;
+
+/**
+ * The first part of a news body (before the first horizontal rule) as
+ * simple HTML: paragraphs, **bold** and [links](url). Later parts hold
+ * the same item in other languages, so they are not shown.
+ */
+export const newsBodyHtml = (body: string | undefined): string => {
+  if (!body) return '';
+  const first = body.split(/\n-{3,}\n/)[0];
+  const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return first
+    .split(/\n\s*\n/)
+    .map((p) => p.trim())
+    .filter(Boolean)
+    .map((p) => {
+      let h = esc(p);
+      h = h.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+      h = h.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+      return `<p>${h}</p>`;
+    })
+    .join('');
+};
+
+/* ---------- Coverage companies named in a piece of text ---------- */
+import companiesData from '../data/companies.json';
+type Co = { slug: string; name: string; ticker: string; sector: string };
+export const COMPANIES = ((companiesData as { companies?: Co[] }).companies ?? []) as Co[];
+
+const escRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const MATCHERS = COMPANIES.map((c) => {
+  const pats: RegExp[] = [];
+  if (/^\d{3}[0-9A-Z]$/.test(c.ticker)) pats.push(new RegExp(`[（(]${escRe(c.ticker)}[)）]`));
+  else if (/^[A-Z]{2,5}$/.test(c.ticker)) pats.push(new RegExp(`\\b${c.ticker}\\b`));
+  const ja = META[c.slug]?.nameJa?.replace(/^株式会社\s*|\s*株式会社$/g, '');
+  if (ja && ja.length >= 3) pats.push(new RegExp(escRe(ja)));
+  const words = c.slug.split('-').filter((w) => w !== 'the');
+  if (words.join('').length >= 5) pats.push(new RegExp(`\\b${words.map(escRe).join('[ -]')}\\b`, 'i'));
+  return { c, pats };
+});
+export const companiesIn = (text: string) =>
+  MATCHERS.filter((m) => m.pats.some((p) => p.test(text))).map((m) => m.c);

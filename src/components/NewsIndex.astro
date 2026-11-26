@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import type { Lang } from '../data/site';
-import { fmtLong, fmtShort, newsSector } from './labels';
+import { fmtLong, fmtShort, newsHref, newsSector } from './labels';
 
 interface Props {
   lang: Lang;
@@ -18,8 +18,10 @@ const items = (await getCollection('news', ({ data }) => data.lang === lang)).so
 // Group by calendar day, newest first.
 const dayKey = (d: Date) => d.toISOString().slice(0, 10);
 const groups: { key: string; date: Date; rows: typeof items }[] = [];
+const RECENT_DAYS = 7;
 for (const it of items) {
   const k = dayKey(it.data.date);
+  if (groups.length >= RECENT_DAYS && groups[groups.length - 1].key !== k) break;
   const g = groups[groups.length - 1];
   if (g && g.key === k) g.rows.push(it);
   else groups.push({ key: k, date: it.data.date, rows: [it] });
@@ -106,7 +108,7 @@ const last = items[0]?.data.date;
               >
                 <p class="text-xs font-semibold text-navy dark:text-sky">{cat}</p>
                 <h3 class="mt-1.5 text-[17px] leading-snug font-semibold">
-                  <a href={n.data.externalUrl} target="_blank" rel="noopener noreferrer" class="hover:underline">
+                  <a href={newsHref(n.id, lang)} class="hover:underline">
                     {n.data.title}
                   </a>
                 </h3>
@@ -117,6 +119,10 @@ const last = items[0]?.data.date;
         </section>
       ))
     }
+    <p class="text-[13px] text-neutral-600 dark:text-neutral-300">
+      {isJa ? `表示しているのは直近${RECENT_DAYS}日分です。` : `Showing the last ${RECENT_DAYS} days.`}{' '}
+      <a href={`${base}/news/archive/`} class="font-semibold text-navy hover:underline dark:text-sky">{isJa ? '過去のニュースはアーカイブへ →' : 'News archive →'}</a>
+    </p>
   </div>
 
   <aside class="flex flex-col gap-6 lg:sticky lg:top-28 lg:self-start">

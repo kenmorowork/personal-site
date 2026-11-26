@@ -22,7 +22,7 @@ const { lang, closes, from, to, symbolLabel } =
   Astro.props as Props;
 const isJa = lang === 'ja';
 
-const label = isJa ? 'SHARE PRICE — 株価' : 'SHARE PRICE';
+const label = isJa ? '株価チャート' : 'SHARE PRICE';
 const sourceLine = isJa
   ? `出典：Yahoo Finance — ${symbolLabel} 日次終値、${from}〜${to}`
   : `Source: Yahoo Finance — ${symbolLabel} daily closes, ${from} to ${to}`;

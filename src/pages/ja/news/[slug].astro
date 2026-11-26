@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import NewsArticle from '../../../components/NewsArticle.astro';
+import { newsSlug } from '../../../components/labels';
+
+export async function getStaticPaths() {
+  const all = (await getCollection('news', ({ data }) => data.lang === 'ja')).sort(
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+  );
+  const other = new Set((await getCollection('news', ({ data }) => data.lang === 'en')).map((e) => newsSlug(e.id)));
+  return all.map((entry, i) => ({
+    params: { slug: newsSlug(entry.id) },
+    props: { entry, newer: all[i - 1] ?? null, older: all[i + 1] ?? null, hasOther: other.has(newsSlug(entry.id)) },
+  }));
+}
+const { entry, newer, older, hasOther } = Astro.props;
+const slug = newsSlug(entry.id);
+---
+
+<Base
+  lang="ja"
+  title={`${entry.data.title} | J-Core Research`}
+  description={entry.data.summary.slice(0, 160)}
+  altHref={hasOther ? `/en/news/${slug}/` : '/en/news/'}
+>
+  <NewsArticle lang="ja" entry={entry} newer={newer} older={older} />
+</Base>

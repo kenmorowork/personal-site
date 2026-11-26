@@ -27,8 +27,10 @@ interface BlockModel {
 interface Props {
   model: any;
   lang: 'ja' | 'en';
+  /** Company page for this report, when the company has one. */
+  companyHref?: string | null;
 }
-const { model, lang } = Astro.props as Props;
+const { model, lang, companyHref = null } = Astro.props as Props;
 const isJa = lang === 'ja';
 const L = {
   keyPoints: isJa ? 'キーポイント' : 'Key points',
@@ -39,6 +41,17 @@ const L = {
   figure: isJa ? '図表' : 'Figure',
 };
 const blocks: BlockModel[] = model.blocks ?? [];
+// Contents list: the report's own section headings, in order.
+const toc = blocks
+  .map((b, i) => ({ b, id: `rs-${i}` }))
+  .filter(({ b }) => b.type === 'section' && b.heading)
+  .map(({ b, id }) => ({ id, heading: b.heading as string, part: b.level === 'part' }));
+// Disclosure rows (the same items on every report; see the policy page).
+const holdingText = (() => {
+  const h: string = model.holdingsLine ?? '';
+  const m = isJa ? h.match(/^[^。]*。/) : h.match(/^.*?\.(\s|$)/);
+  return (m ? m[0] : h).trim();
+})();
 const bullets = model.bullets ?? [];
 const keyData = model.keyData ?? [];
 ---
@@ -106,7 +119,7 @@ const keyData = model.keyData ?? [];
             {block.figure.sourceHtml && <p class="rpt-source" set:html={block.figure.sourceHtml} />}
           </figure>
         ) : block.type === 'section' ? (
-          <section class="rpt-section">
+          <section class="rpt-section" id={`rs-${blocks.indexOf(block)}`}>
             {block.heading && <h2>{block.heading}</h2>}
             {block.html && <div class="rpt-body" set:html={block.html} />}
             {block.figures?.map((f: FigureModel) => (
@@ -141,8 +154,16 @@ const keyData = model.keyData ?? [];
         ) : null
       )}
 
-      {model.holdingsLine && <p class="rpt-holdings">{model.holdingsLine}</p>}
-      <p class="rpt-holdings"><a href={isJa ? '/ja/policy/' : '/en/policy/'}>{isJa ? 'レポートの方針と開示（定義・免責事項）' : 'Report policy and disclosures (definitions and disclaimer)'}</a></p>
+      <section class="rpt-disc" aria-labelledby="rpt-disc-h">
+        <h2 id="rpt-disc-h">{isJa ? '開示' : 'Disclosures'}</h2>
+        <dl>
+          <dt>{isJa ? '筆者' : 'Author'}</dt><dd>Ken（J-Core Research）</dd>
+          {holdingText && <Fragment><dt>{isJa ? '対象銘柄の保有' : 'Holdings'}</dt><dd>{holdingText}</dd></Fragment>}
+          <dt>{isJa ? '報酬' : 'Compensation'}</dt><dd>{isJa ? '対象会社から報酬や便宜を受けていません' : 'No payment or benefit is received from the subject companies'}</dd>
+          <dt>{isJa ? 'レーティング' : 'Ratings'}</dt><dd>{isJa ? 'J-Coreはレーティングと目標株価を出していません。本レポートは売買を勧めるものではありません。' : 'J-Core publishes no ratings or price targets. This report is not a recommendation to buy or sell.'}</dd>
+        </dl>
+        <p><a href={isJa ? '/ja/policy/' : '/en/policy/'}>{isJa ? 'レポートの方針と開示（定義・免責事項）→' : 'Report policy and disclosures (definitions and disclaimer) →'}</a></p>
+      </section>
     </div>
 
     <aside class="rpt-rail">
@@ -175,6 +196,21 @@ const keyData = model.keyData ?? [];
         </div>
       )}
 
+      {companyHref && (
+        <p class="rpt-colink"><a href={companyHref}>{isJa ? '会社ページ →' : 'Company page →'}</a></p>
+      )}
+
+      {toc.length > 1 && (
+        <nav class="rpt-toc" aria-label={isJa ? '目次' : 'Contents'}>
+          <h4>{isJa ? '目次' : 'Contents'}</h4>
+          <ol>
+            {toc.map((t) => (
+              <li class={t.part ? 'is-part' : ''}><a href={`#${t.id}`}>{t.heading}</a></li>
+            ))}
+          </ol>
+        </nav>
+      )}
+
       {model.analystName && (
         <div class="rpt-analyst">
           <h4>{L.analyst}</h4>
@@ -195,12 +231,30 @@ const keyData = model.keyData ?? [];
     --line: #d8dde6;
     background: #fff;
     color: var(--ink);
-    border: 1px solid var(--line);
-    box-shadow: 0 1px 3px rgba(16, 24, 40, 0.08), 0 16px 40px rgba(16, 24, 40, 0.08);
-    padding: 44px 48px 40px;
+    padding: 0;
     font-size: 15px;
     line-height: 1.75;
   }
+  /* Dark mode keeps the report as a light sheet so tables and figures read as printed. */
+  :global(.dark) .rpt-sheet {
+    padding: 36px 40px 32px;
+  }
+  .rpt-section { scroll-margin-top: 110px; }
+  .rpt-colink { margin: 18px 0 0; font-size: 13.5px; font-weight: 700; }
+  .rpt-colink a, .rpt-disc a, .rpt-toc a { color: var(--navy); text-decoration: none; }
+  .rpt-colink a:hover, .rpt-disc a:hover, .rpt-toc a:hover { text-decoration: underline; }
+  .rpt-toc { margin-top: 22px; position: sticky; top: 96px; }
+  .rpt-toc h4 { margin: 0 0 8px; font-size: 11px; font-weight: 700; letter-spacing: 0.14em; color: var(--mut); border-bottom: 2px solid var(--ink); padding-bottom: 6px; }
+  .rpt-toc ol { list-style: none; margin: 0; padding: 0; }
+  .rpt-toc li a { display: block; padding: 6px 0; border-bottom: 1px solid var(--line); font-size: 12.5px; line-height: 1.5; color: var(--ink); }
+  .rpt-toc li.is-part a { font-weight: 700; color: var(--navy); }
+  .rpt-disc { margin-top: 40px; border-top: 2px solid var(--ink); padding-top: 14px; }
+  .rpt-disc h2 { margin: 0 0 10px; font-size: 17px; font-weight: 700; }
+  .rpt-disc dl { display: grid; grid-template-columns: 160px minmax(0, 1fr); gap: 8px 16px; margin: 0; font-size: 13.5px; line-height: 1.7; }
+  .rpt-disc dt { color: var(--mut); }
+  .rpt-disc dd { margin: 0; }
+  .rpt-disc p { margin: 14px 0 0; font-size: 13px; font-weight: 700; }
+  @media (max-width: 640px) { .rpt-disc dl { grid-template-columns: 1fr; gap: 2px; } .rpt-disc dd { margin-bottom: 8px; } }
   .rpt-firmrow {
     display: flex;
     flex-wrap: wrap;
@@ -338,7 +392,8 @@ const keyData = model.keyData ?? [];
   .rpt-sheet :global(.rt-navy) { color: #0a2a52; }
   .rpt-sheet :global(.fig-ref) { font-size: 0.72em; }
   @media (max-width: 900px) {
-    .rpt-sheet { padding: 26px 20px 24px; }
+    :global(.dark) .rpt-sheet { padding: 26px 20px 24px; }
+    .rpt-toc { position: static; }
     .rpt-grid { grid-template-columns: 1fr; gap: 22px; }
     .rpt-rail { order: -1; }
     .rpt-company { font-size: 21px; }

@@ -1,12 +1,13 @@
 ---
-// @ts-ignore - raw HTML import of the FIELDNOTES hub
-import hubHtml from '../../../fieldnotes/hub-ja.html?raw';
-
-// Serve the FIELDNOTES Space hub itself at this URL, exactly as-is
-// (Space colours/layout, full width). The hub HTML carries
-// <base href="/fieldnotes-space/"> so its relative assets/views keep
-// loading from the bundle at /fieldnotes-space/, while its topic
-// links point back at this URL so navigation stays here.
+import Base from '../../../layouts/Base.astro';
+import FieldnotesHub from '../../../components/FieldnotesHub.astro';
 ---
 
-<Fragment set:html={hubHtml} />
+<Base
+  lang="ja"
+  title="業界レポート | J-Core Research"
+  description="業界ごとの市場規模・バリューチェーン・主な企業を整理した業界レポートと、統計・バリューチェーンの索引です。"
+  altHref="/en/fieldnotes/"
+>
+  <FieldnotesHub lang="ja" />
+</Base>

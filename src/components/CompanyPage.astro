@@ -1,5 +1,8 @@
 ---
 import CompanyChart from './CompanyChart.astro';
+import { getCollection } from 'astro:content';
+import { companiesIn, COMPANIES, companyName, fmtShort, newsHref, newsSector, fmtPrice as fmtPx } from './labels';
+import allPrices from '../data/prices.json';
 import { reportSector } from './labels';
 
 /**
@@ -47,7 +50,7 @@ const p = Astro.props as Props;
 const isJa = p.lang === 'ja';
 const { company } = p;
 
-const primaryName = isJa ? p.nameJa : company.name;
+const primaryName = isJa ? p.nameJa.replace(/^株式会社\s*|\s*株式会社$/g, '') : company.name;
 const secondaryName = isJa ? company.name.toUpperCase() : p.nameJa;
 const assetBase = `/company-assets/${company.slug}`;
 
@@ -133,6 +136,28 @@ const badgeOf = (e: any): string => {
   return isJa ? 'アップデート' : 'Update';
 };
 
+
+// ---------- key points, same-sector coverage, news (canvas company page) ----------
+const reportJson = import.meta.glob('../data/reports/*.json', { eager: true }) as Record<string, any>;
+const jsonFor = (id: string) => {
+  const hit = reportJson[`../data/reports/${id}.json`];
+  return hit ? (hit.default ?? hit) : null;
+};
+const strip = (h: string) => (h || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+const pointsSource = p.history.find((e: any) => (jsonFor(e.id)?.bullets ?? []).length > 0);
+const points: { lead: string; text: string }[] = pointsSource
+  ? (jsonFor(pointsSource.id).bullets as any[]).slice(0, 3).map((b) => {
+      const text = strip(b.html);
+      return { lead: strip(b.leadHtml), text: text.length > 140 ? text.slice(0, 140).replace(/\s+\S*$/, '') + '…' : text };
+    })
+  : [];
+const pxMap = ((allPrices as { prices?: Record<string, { price: number; currency: string }> }).prices ?? {});
+const peers = COMPANIES.filter((c) => c.sector === company.sector && c.slug !== company.slug).slice(0, 6);
+const coNews = (await getCollection('news', ({ data }) => data.lang === p.lang))
+  .filter((n) => companiesIn(`${n.data.title} ${n.data.summary}`).some((c) => c.slug === company.slug))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 6);
+
 // ---------- footnote ----------
 const footParts: string[] = [];
 if (asOf) {
@@ -191,7 +216,7 @@ if (p.photoFile && p.photoCredit) {
 
   <div class="cp-band">
     <div class="cp-cell">
-      <div class="cp-label">PRICE</div>
+      <div class="cp-label">{isJa ? '株価' : 'PRICE'}</div>
       <div class="cp-big">
         {priceNow != null ? fmtPrice(priceNow, currency) : '—'}
       </div>
@@ -218,7 +243,7 @@ if (p.photoFile && p.photoCredit) {
 
 
     <div class="cp-cell">
-      <div class="cp-label">PERFORMANCE</div>
+      <div class="cp-label">{isJa ? 'パフォーマンス' : 'PERFORMANCE'}</div>
       <div class="cp-perf">
         <div>
           <div class="cp-p-label">{isJa ? '1カ月' : '1M'}</div>
@@ -250,8 +275,30 @@ if (p.photoFile && p.photoCredit) {
 
   {footParts.length > 0 && <div class="cp-foot">{footParts.join('')}</div>}
 
+  {
+    points.length > 0 && (
+      <section class="mt-12">
+        <h2 class="font-display border-b-2 border-neutral-900 pb-2 text-xl dark:border-neutral-300">{isJa ? '論点' : 'Key points'}</h2>
+        <ol class="mt-4 grid gap-4 md:grid-cols-3">
+          {points.map((pt, i) => (
+            <li class="border-t-2 border-navy pt-3 dark:border-sky">
+              <span class="num text-xs font-semibold text-navy dark:text-sky">{String(i + 1).padStart(2, '0')}</span>
+              <p class="mt-1 text-[15px] leading-snug font-semibold">{pt.lead}</p>
+              {pt.text && <p class="mt-2 text-[13.5px] leading-relaxed text-neutral-600 dark:text-neutral-300">{pt.text}</p>}
+            </li>
+          ))}
+        </ol>
+        <p class="mt-3 text-xs text-neutral-500 dark:text-neutral-400">
+          {isJa ? '出所：' : 'Source: '}
+          <a href={pointsSource.data.externalUrl} class="underline underline-offset-2">{pointsSource.data.title}</a>
+          {isJa ? '（最新レポートの要点）' : ' (key points of the latest report)'}
+        </p>
+      </section>
+    )
+  }
+
   <section class="mt-12">
-    <h2 class="font-display text-xl font-semibold tracking-tight">
+    <h2 class="font-display border-b-2 border-neutral-900 pb-2 text-xl dark:border-neutral-300">
       {isJa ? 'レポート履歴' : 'Report history'}
     </h2>
     {
@@ -285,6 +332,47 @@ if (p.photoFile && p.photoCredit) {
       )
     }
   </section>
+
+  {
+    coNews.length > 0 && (
+      <section class="mt-12">
+        <h2 class="font-display border-b-2 border-neutral-900 pb-2 text-xl dark:border-neutral-300">{isJa ? 'この会社のニュース' : 'News on this company'}</h2>
+        <ul>
+          {coNews.map((n) => (
+            <li>
+              <a href={newsHref(n.id, p.lang)} class="grid grid-cols-[52px_minmax(0,1fr)] gap-3 border-b border-neutral-200 py-3 hover:bg-neutral-50 sm:grid-cols-[52px_128px_minmax(0,1fr)] dark:border-neutral-800 dark:hover:bg-neutral-900">
+                <span class="num text-[13px] text-neutral-500 dark:text-neutral-400">{fmtShort(n.data.date, p.lang)}</span>
+                <span class="hidden text-xs font-semibold text-navy sm:block dark:text-sky">{newsSector(n.data.sector, p.lang)}</span>
+                <span class="text-[15px] leading-relaxed">{n.data.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    peers.length > 0 && (
+      <section class="mt-12">
+        <h2 class="font-display border-b-2 border-neutral-900 pb-2 text-xl dark:border-neutral-300">{isJa ? '同じセクターのカバレッジ' : 'Coverage in the same sector'}</h2>
+        <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {peers.map((c) => {
+            const px = pxMap[c.ticker];
+            return (
+              <a href={`/${p.lang}/companies/${c.slug}/`} class="flex items-baseline justify-between gap-3 border border-neutral-200 px-4 py-3 hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600">
+                <span>
+                  <span class="block font-semibold">{companyName(c.name, p.lang)}</span>
+                  <span class="num text-xs text-neutral-500 dark:text-neutral-400">{c.ticker}</span>
+                </span>
+                {px && <span class="num text-sm">{fmtPx(px.price, px.currency)}</span>}
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    )
+  }
 </div>
 
 <style>
