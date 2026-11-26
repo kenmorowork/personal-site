@@ -1,5 +1,5 @@
 ---
-title: "An appraised asset base at a 37% discount, and a forwarding deal to re-rate the earnings: initiating at Overweight — target price ¥1,450"
+title: "An appraised asset base at a 37% discount, and a forwarding deal to re-rate the earnings"
 company: "Mitsubishi Logistics Corporation"
 ticker: "9301"
 sector: "Warehousing & Logistics"
@@ -7,18 +7,15 @@ date: 2026-11-24
 type: initiation
 externalUrl: "/en/reports/2026-11-24-mitsubishi-logistics-initiation-66/"
 lang: en
-rating: "Overweight"
-targetPrice: "¥1,450"
 ---
 
-Japan's largest warehouse operator, valued on its land as much as its logistics — Overweight, target price ¥1,450 Mitsubishi Logistics Corporation (9301) is Japan's largest general warehouse operator and, on the evidence of its own disclosures, one of its cheapest asset holders. FY3/2026 reported profit is unusable without normalisation — net income of ¥54,773mn contains ¥67,281mn of securities-sale gains against operating profit of ¥15,928mn — but the balance sheet is precise: rental real estate appraised at ¥434,520mn against a book value of ¥136,161mn. We initiate at Overweight with a base-case target of ¥1,450 (+16.9%), inside a deliberately wide scenario range of ¥995 (−19.8%) to ¥1,690 (+36.2%). The swing factor is execution: the ¥120.11bn acquisition of Hankyu Hanshin Express, announced on 30 October 2026, and whether management's asset-recycling programme surfaces the real-estate value its mid-term plan promises.
+Japan's largest warehouse operator, valued on its land as much as its logistics
 
 **Key data**
 
 | Item | Value |
 |---|---|
 | Market cap | ¥449.2bn |
-| P/E (J-Core FY3/28E EPS ¥50) | 24.8x at the current price; 29.0x at the base-case target |
 | P/B | 1.12x |
 | Rental real estate unrealised gain | ¥298,359mn — about ¥867 per share |
 | Dividend | FY3/27E DPS ¥44 (company guidance); yield 3.5% |
@@ -26,12 +23,12 @@ Japan's largest warehouse operator, valued on its land as much as its logistics 
 
 ## Key points
 
-- **Asset value the market is not paying for** Rental real estate carried at ¥136,161mn was appraised at ¥434,520mn at FY3/2026 — an unrealised gain of ¥298,359mn, or about ¥867 per share (J-Core calculations). Gross NAV per share is about ¥1,970 before tax on realisation, 37% above the ¥1,240.5 share price, and the company itself puts its P/B including this gain at about 0.8x.
+- **Unrealised real-estate gains** Rental real estate carried at ¥136,161mn was appraised at ¥434,520mn at FY3/2026 — an unrealised gain of ¥298,359mn, or about ¥867 per share (J-Core calculations). Gross NAV per share is about ¥1,970 before tax on realisation, 37% above the ¥1,240.5 share price, and the company itself puts its P/B including this gain at about 0.8x.
 - **Normalise FY3/26 before using it** FY3/2026 net income of ¥54,773mn includes a ¥67,281mn gain on sales of investment securities and a ¥5,414mn Cavalier Logistics impairment. Operating profit fell 21.6% to ¥15,928mn and business profit was ¥18,575mn — those are the run-rate anchors, not the reported EPS of ¥155.84 or ROE of 14.5%.
 - **A ¥120.11bn forwarding acquisition** Mitsubishi Logistics will acquire all shares of Hankyu Hanshin Express for ¥120.11bn, closing expected in Q4 FY3/2027 (announced 30 October 2026). FY3/2027 operating profit guidance was cut to ¥15,500mn on advisory and PMI costs, while revenue guidance was raised to ¥290,000mn — the deal costs arrive before the earnings do.
 - **Real estate earns half the segment profit** Real estate was 13.0% of FY3/2026 external revenue but 47.9% of segment operating profit, at a 33.0% margin, against logistics at 5.3%. The FY3/2026 profit fall was mainly condominium sales dropping from ¥15,603mn to ¥4,129mn — rental revenue was flat at ¥32,121mn.
 - **The plan needs delivery, not drift** Management Plan [2025-2030] targets business profit of about ¥63,000mn, net income of about ¥41,000mn and ROE of at least 10% by FY3/2031, funded by ¥590,000mn of investment, about ¥100,000mn of policy-share sales and at least ¥40,000mn of buybacks, with DOE of at least 4%. From FY3/2026 operating profit of ¥15,928mn, that is an execution story.
-- **Valuation — Overweight, target ¥1,450** Base case ¥1,450 (+16.9%) at a 27% discount to gross NAV per share of about ¥1,990 on FY3/2028E (1.29x FY3/2028E BPS); bull ¥1,690 (+36.2%, 15% NAV discount); bear ¥995 (−19.8%, 50% NAV discount). The scenario range is 56.0 percentage points wide — see Section 8. Base case clears our +15% Overweight threshold.
+- Valuation
 
 ## 1. Key indicators and financial history
 
@@ -202,43 +199,41 @@ For FY3/2028 our estimates are revenue ¥312,000mn (+7.6%), operating profit ¥2
 
 *Source: FY3/2026 actuals as reported. FY3/2027E company guidance as revised on 30 Oct 2026. FY3/2027E and FY3/2028E J-Core columns are J-Core estimates: FY3/2027E adopts company guidance in full; FY3/2028E assumes a full year of Hankyu Hanshin Express consolidation, no repeat of the FY3/2027 M&A/PMI costs (about ¥2,000mn in guidance), condominium sales normalisation, and no gains on sales of investment securities (against about ¥14,000mn assumed in company FY3/2027 guidance, per a secondary summary of company materials). See Section 7 for the full bridge.*
 
-## 8. Valuation and scenarios
+## 8.
 
-We value Mitsubishi Logistics on its asset base, cross-checked on earnings, because reported earnings are distorted by securities gains and the balance sheet carries a disclosed, appraised asset value well above book. Gross NAV per share — BPS plus the rental-real-estate unrealised gain per share, before tax on realisation — is about ¥1,970 at FY3/2026 and about ¥1,990 on our FY3/2028 BPS estimate of ¥1,127 with the unrealised gain held flat (J-Core calculations). Our scenarios apply different discounts to that gross NAV, with P/B on FY3/2028E BPS as the cross-check; normalised earnings support the frame, with the base-case target equal to about 29x our FY3/2028E EPS of ¥50, a multiple that is only defensible alongside the asset backing and the plan's ROE path to at least 10% by FY3/2031.
+We value Mitsubishi Logistics on its asset base, cross-checked on earnings, because reported earnings are distorted by securities gains and the balance sheet carries a disclosed, appraised asset value well above book. Gross NAV per share — BPS plus the rental-real-estate unrealised gain per share, before tax on realisation — is about ¥1,970 at FY3/2026 and about ¥1,990 on our FY3/2028 BPS estimate of ¥1,127 with the unrealised gain held flat (J-Core calculations).
 
-Base case — target ¥1,450, +16.9% versus ¥1,240.5. A 27% discount to gross NAV (1.29x FY3/2028E BPS). Hankyu Hanshin Express closes on schedule and integrates without material synergy slippage; PMI costs end with FY3/2027; operating profit reaches our ¥20,000mn FY3/2028 estimate; asset recycling begins to surface real-estate value. On our rating thresholds (Overweight at +15% or more over 12 months) the base case supports an Overweight rating, which we adopt on initiation.
+Hankyu Hanshin Express closes on schedule and integrates without material synergy slippage; PMI costs end with FY3/2027; operating profit reaches our ¥20,000mn FY3/2028 estimate; asset recycling begins to surface real-estate value.
 
-Bull case — target ¥1,690, +36.2%. A 15% discount to gross NAV (1.50x FY3/2028E BPS). Forwarding synergies and overseas growth arrive faster than we model, the real-estate fund launches at scale toward its ¥80,000mn FY3/2031 AUM target, policy-share sales accelerate, and the market begins to price the FY3/2031 ROE target of at least 10% as credible.
+Forwarding synergies and overseas growth arrive faster than we model, the real-estate fund launches at scale toward its ¥80,000mn FY3/2031 AUM target, policy-share sales accelerate, and the market begins to price the FY3/2031 ROE target of at least 10% as credible.
 
-Bear case — target ¥995, −19.8%. A 50% discount to gross NAV (0.88x FY3/2028E BPS). PMI costs persist into FY3/2028, the Cavalier Logistics impairment proves to be a pattern rather than an exception in overseas M&A, condominium and rental conditions soften, and no asset value is surfaced, leaving the shares as a low-return warehousing business on a full price.
+PMI costs persist into FY3/2028, the Cavalier Logistics impairment proves to be a pattern rather than an exception in overseas M&A, condominium and rental conditions soften, and no asset value is surfaced, leaving the shares as a low-return warehousing business on a full price.
 
-The scenario range is wide by construction: −19.8% to +36.2%, a width of 56.0 percentage points. That width is the honest summary of this initiation — the gap between the appraised asset value and the price is large, and whether it closes depends on execution events (the acquisition close, the fund launch, share-sale execution) rather than on the warehousing cycle. Figure 11 charts the past year's daily closes; the three scenario prices are compared with the current price in Figure 12. Figure 12 summarises the scenario range.
+That width is the honest summary of this initiation — the gap between the appraised asset value and the price is large, and whether it closes depends on execution events (the acquisition close, the fund launch, share-sale execution) rather than on the warehousing cycle.
 
-**Figure 11. Valuation scenarios — 12-month horizon (J-Core estimates)**
+Figure 11.
 
 | Item | Bear | Base | Bull |
 |---|---|---|---|
-| Target price (¥) | 995 | 1450 | 1690 |
 | Implied return (%) | -19.8 | 16.9 | 36.2 |
 | Discount to gross NAV per share (%) | 50 | 27 | 15 |
 | P/B on FY3/28E BPS (x) | 0.88 | 1.29 | 1.5 |
-| P/E on FY3/28E EPS (x) | 19.9 | 29 | 33.8 |
 
-*Source: J-Core scenario analysis. Gross NAV per share of about ¥1,990 = FY3/2028E BPS of ¥1,127 (J-Core estimate: FY3/2026 BPS ¥1,103.18 + FY3/2027E EPS ¥64 − DPS ¥44 + FY3/2028E EPS ¥50 − DPS ¥46) plus the FY3/2026 rental-real-estate unrealised gain of about ¥867 per share held flat, before tax on realisation — J-Core calculations. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
+Gross NAV per share of about ¥1,990 = FY3/2028E BPS of ¥1,127 (J-Core estimate: FY3/2026 BPS ¥1,103.18 + FY3/2027E EPS ¥64 − DPS ¥44 + FY3/2028E EPS ¥50 − DPS ¥46) plus the FY3/2026 rental-real-estate unrealised gain of about ¥867 per share held flat, before tax on realisation — J-Core calculations. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
 
 **Figure 12. Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)**
 
 *Source: Daily closing prices from Yahoo Finance (9301.T), 25 Nov 2025 to 24 Nov 2026, as held in the J-Core price file for this company; the report’s priceHistory field was empty, so the site price file was used.*
 
-**Figure 13. Valuation scenario range — bear, base and bull vs the current price (¥ per share)**
+Figure 13.
 
-*Source: J-Core scenario analysis, as in the valuation-scenario table in this report. Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
+Implied returns are versus the 24 Nov 2026 close of ¥1,240.5.*
 
 ## 9. Risks and management strategy
 
 Securities-sale dependence. Reported profit has been carried by gains on sales of investment securities — ¥29,999mn in FY3/2025 and ¥67,281mn in FY3/2026 — and the revised FY3/2027 forecast still assumes about ¥14,000mn of such gains. The mid-term plan funds about ¥100,000mn of its ¥590,000mn investment programme from policy-share sales and targets policy shareholdings below 20% of net assets. The unwind is therefore both a funding source and an earnings cliff: when the portfolio is sold down, the gains stop, and reported net income converges to the operating level — the transition our FY3/2028 estimate already makes. Execution risk runs the other way as well: sale timing depends on market conditions and counterparty relationships, and a delayed unwind delays the investment programme it funds.
 
-Acquisition and integration risk. The ¥120.11bn Hankyu Hanshin Express acquisition is large relative to the acquirer (about 27% of market capitalisation, J-Core calculation) and is the second major overseas-forwarding commitment after Cavalier Logistics, whose goodwill was impaired by ¥5,414mn in FY3/2026. The FY3/2027 guidance cut shows PMI costs arriving before any synergy. If integration repeats the Cavalier pattern, the bear case applies.
+Acquisition and integration risk. The ¥120.11bn Hankyu Hanshin Express acquisition is large relative to the acquirer (about 27% of market capitalisation, J-Core calculation) and is the second major overseas-forwarding commitment after Cavalier Logistics, whose goodwill was impaired by ¥5,414mn in FY3/2026. The FY3/2027 guidance cut shows PMI costs arriving before any synergy.
 
 Operating risks. Logistics margins are thin (5.3% in FY3/2026) against wage inflation, a structural warehouse-labour shortage and the pass-through risk the sector has historically been slow on; international forwarding revenue fell 6.4% in FY3/2026 on freight normalisation and remains rate-sensitive. Real-estate profit depends on rental conditions in a small number of prime assets and on condominium timing. Corporate costs of ¥8,458mn are large relative to operating profit and rising.
 
@@ -249,10 +244,6 @@ Management strategy, as stated in Management Plan [2025-2030], answers these ris
 Sources. Company disclosures: FY3/2026 earnings release (決算短信, 30 April 2026) including the segment note and the rental-real-estate fair-value note; FY3/2026 securities report (filed 24 June 2026) five-year indicators; H1 FY3/2027 earnings release and the guidance-revision notice of 30 October 2026; Management Plan [2025-2030] targets as reported in the FY3/2026 release; and the company's 29 June 2026 presentation on enhancing corporate value. Market and sector sources: Yano Research Institute logistics-market press release (5 August 2026); IMARC Group and Expert Market Research 3PL estimates as labelled; MLIT warehouse statistics; the cabinet-decided sectoral policy of January 2026; JPX listed-company file (31 October 2026) and Nikkei company data for peer market capitalisations. Peer financial figures are as reported in each company's FY3/2026 filings, compiled in the J-Core data files for 9302 and 9303. The share price is the close on 24 November 2026 (¥1,240.5, secondary market data). Figures labelled J-Core calculation are arithmetic on reported inputs; figures labelled J-Core estimate are our forecasts. Company guidance is labelled as such wherever used.
 
 Gaps, stated honestly. Segment revenue and profit before FY3/2022 were not obtained on a consistent basis and are not shown. Some FY3/2020–FY3/2024 headline figures are rounded to the nearest ¥10mn from a secondary compilation of securities-report data, and FY3/2022–FY3/2024 segment figures are rounded to ¥100mn from a secondary cross-check; unstarred FY3/2025–FY3/2026 figures are exact as reported. Depreciation before FY3/2025, DPS before FY3/2021 on the post-split basis, a property-by-property rental table, the exact publication date of Management Plan [2025-2030], the revised FY3/2027 business-profit guidance, and Hankyu Hanshin Express's standalone revenue and profit were not obtained; no figure for any of these has been estimated or invented, and our FY3/2028 acquisition contribution is therefore presented as a stated assumption in the forecast bridge, not as a sourced figure. Kamigumi (9364) financial figures were outside this report's data set; only its market capitalisation is shown.
-
----
-
-Rating (as stated in the report): Overweight
 
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 

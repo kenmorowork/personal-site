@@ -9,11 +9,11 @@
   "sectorLine": "Global Equity Research",
   "companyName": "Global Markets — Week of 9–13 November 2026",
   "headlineHtml": "Volumes confirmed, prices whipsawed: <strong>record TSMC revenue and power-equipment orders met a CEO shock at Nvidia</strong> and the fastest producer-price rise since 2022",
-  "rating": "Not Rated",
+  "rating": "",
   "priceLabel": "Nikkei 225 (13 Nov close)",
   "priceValue": "61,142.35 (+6.46% w/w)",
-  "targetLabel": "Next catalyst",
-  "targetValue": "Nvidia Q3 — Wed 18 Nov 06:20 JST",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "",
   "keyData": [],
@@ -252,7 +252,7 @@
     },
     {
       "type": "section",
-      "heading": "Part 3 — Catalysts, ideas and the week ahead",
+      "heading": "Part 3 — Catalysts and the week ahead",
       "level": "part",
       "html": "",
       "figures": []
@@ -364,14 +364,7 @@
     },
     {
       "type": "section",
-      "heading": "6. Idea candidates — candidates only; the judgement is the reader's",
-      "level": "section",
-      "html": "<p>Candidate 1 — Power-equipment breadth over chip-derivative pricing. Thesis: grid and power-equipment earnings are compounding on their own backlog (Hitachi Energy India backlog about 11.1x quarterly revenue; Siemens orders +58%; India's move from 765 kV to 1,150 kV raises unit value and technical barriers), yet the group sold off with the semiconductor complex on 13–14 Nov. Variant perception (コンセンサスとの見方の違い) vs consensus: the market prices power equipment as a derivative of the chip trade; the variant view is that transmission capex (系統投資) is a separate, policy-funded cycle with multi-year visibility. Catalyst &amp; timing: Nvidia's print on 18 Nov JST will set the AI-complex tone; any hyperscaler capex commentary that confirms grid orders separates the two cycles in price. Risk &amp; kill condition: order cancellations, lead-time compression, or a Siemens/Hitachi guide cut in the next prints kills it. Valuation &amp; sizing: 未取得 on a consistent multiples basis this week — treat as a watchlist candidate sized only after the valuation work is done. Numbers to monitor: Hitachi Energy India order intake and backlog; Siemens smart-infrastructure orders; POWERGRID tender awards for the 1,150 kV corridor.</p>\n<p>Candidate 2 — Nvidia succession discount into the print. Thesis: the shares closed the week at $162.85 (−12.75% w/w; prior Friday $186.64) with demand indicators still rising (TSMC record month, CoreWeave backlog, AMAT's WFE view), so part of the discount is governance-only and closable by a credible succession and guidance framework. Variant perception: consensus (LSEG revenue about $108.9bn; EPS about $2.49) prices the quarter; the variant question is the form of guidance under the interim CEO — a clean range with stated assumptions would re-rate the governance leg independently of the print. Catalyst &amp; timing: Q3 results Tue 17 Nov about 16:20 ET (Wed 18 Nov 06:20 JST), call 17:00 ET (07:00 JST); company outlook is revenue $108.0bn ±2% and gross margin 74.0% ±50bp, assuming no China data-centre compute revenue. Risk &amp; kill condition: the 18 Nov congressional-briefing process, further commitment write-downs, or a guidance cut extends the overhang — <strong>a close below the 12 Nov low of $148.80 kills the near-term version</strong>. Valuation &amp; sizing: consensus target $283.31 (Longbridge, 14 Nov) is about +74% above the close — a dispersion marker, not a valuation case; sizing, if any, belongs after the print, not before. Numbers to monitor: Q4 revenue guidance vs $108.9bn consensus for Q3; gross margin vs 74.0%; any successor-search timetable.</p>\n<p>Candidate 3 — Japan FA/machinery revision chain. Thesis: upward revisions clustered all week (SMC ordinary profit +36.0%, THK operating profit guided at 3.6x, Amada above consensus, Takasago orders above ¥600bn for the first time, Daifuku orders to up to ¥1tn) on top of a JMTBA annual record broken in ten months — domestic capex breadth is broader than the AI-only narrative. Variant perception: consensus treats these as AI beta; the variant view is a two-engine cycle (AI plus reshoring/automation) visible in domestic orders (+46.5% YoY in October). Catalyst &amp; timing: September machinery orders on Thu 19 Nov is the hard test, in the same week as the Nvidia print. Risk &amp; kill condition: a weak machinery-orders print, or evidence that revisions were pull-forwards (Daifuku cited early cleanroom recognition; Takasago's plan needs ¥41.9bn of H2 operating profit after a −26.7% H1), kills it. Valuation &amp; sizing: 未取得 — candidate for work, not for sizing, until the 19 Nov print. Numbers to monitor: September machinery orders (core, MoM and YoY); SMC/THK monthly order commentary; JMTBA November flash.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "7. Week ahead — 16 to 22 November (times in JST)",
+      "heading": "6. Week ahead — 16 to 22 November (times in JST)",
       "level": "section",
       "html": "<p>Monday 16 Nov, 08:50 — Japan Q3 GDP, first estimate: the split between domestic demand and capex is the read, ahead of the BOJ's December meeting (17–18 Dec) with USD/JPY at 160 and the 10-year JGB at 2.86%. Tuesday 17 Nov (US) — US October retail sales; Wednesday 18 Nov, 06:20 — Nvidia Q3 results (about 16:20 ET), call at 07:00 JST (17:00 ET): guidance form under the interim CEO matters as much as the print (company outlook $108.0bn ±2%; consensus about $108.9bn). Wednesday 18 Nov — Japan October trade statistics and visitor arrivals; the requested closed-door House briefing on the Huang matter; Anthropic IPO pricing (evening ET; range $70–78, ticker ANT). Thursday 19 Nov — Japan September machinery orders (the test for Candidate 3); Anthropic's first Nasdaq trading day; FOMC minutes (early JST); Walmart Q3 (US, before the open). Friday 20 Nov — Japan October national CPI. Each maps to a tracker in Figure 6; next week's edition will score them against the expectations recorded here.</p>",
       "figures": []
@@ -379,5 +372,5 @@
   ],
   "showRatingHistory": false,
   "ratingHistory": [],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution."
+  "holdingsLine": "筆者は、本レポートの日付時点で対象会社各社の有価証券を保有していないことを表明します。 本レポートは売買を勧めるものではなく、J-Coreはレーティングと目標株価を出していません。"
 }

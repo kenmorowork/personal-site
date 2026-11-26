@@ -125,6 +125,16 @@ const year = new Date().getFullYear();
         class={`mx-auto flex ${wrap} flex-col gap-2 px-6 py-8 text-sm text-neutral-500 dark:text-neutral-400`}
       >
         <p>{TAGLINE}</p>
+        <p>
+          {
+            isJa
+              ? '本サイトの内容は情報提供を目的としたもので、特定の有価証券の売買を勧めるものではありません。'
+              : 'This site is for information only and is not a recommendation to buy or sell any security.'
+          }{' '}
+          <a href={`${base}/policy/`} class="underline underline-offset-4">
+            {isJa ? 'レポートの方針と開示' : 'Report policy and disclosures'}
+          </a>
+        </p>
         <p>© {year} {NAME}</p>
       </div>
     </footer>

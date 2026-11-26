@@ -96,18 +96,10 @@ Figure 7 is the attribution table. ==The largest driver was not a demand miss: N
 
 *Source: Daily packets and market closes, 16–20 Nov 2026.*
 
-## 6. Idea candidates — candidates only
-
-1) Japan machinery/FA price-volume gap: orders +13.4% YoY vs AI-beta pricing; catalyst 24 Nov reopen and 16 Dec October orders; kill on cancellations/weak print; valuation 未取得. 2) Power equipment as the non-GPU leg: 800VDC/345kV/TCSC/SST flow vs chip-derivative pricing; kill on a hyperscaler capex cut; valuation 未取得. 3) **Nvidia probe discount vs demand case: $125.84, −47% from the October high, on an unproven reported examination**; monitoring candidate only until facts change; kill on a formal order or restatement; valuation 未取得. Full PM-frame text in the Markdown copy.
-
 ## 7. Week ahead — 23 to 27 November (JST)
 
 Mon 23 Nov Tokyo closed (Labour Thanksgiving Day); futures ¥54,600 is Tuesday's reference. **Tue 24 Nov Tokyo reopen**. US data/Fed speakers into the December FOMC (Dec +25bp near-priced). Thu 26 Nov US Thanksgiving, US closed. Fri 27 Nov month-end positioning; watch for Nvidia company comment and Anthropic follow-through.
 
----
-
-Rating (as stated in the report): Not Rated
-
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
-The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution.
+The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report.

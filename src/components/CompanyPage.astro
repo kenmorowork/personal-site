@@ -4,15 +4,13 @@ import CompanyChart from './CompanyChart.astro';
 /**
  * Company page in the shape Ken approved with the Fanuc MVP
  * (fanuc-company-page-mvp.html v2): logo, name, ticker / sector /
- * market line, photo; a market band with price, rating, target price
- * and performance; a plain share-price chart with the target-price
- * line; then the report history, unchanged from the previous pages.
+ * market line, photo; a market band with price and performance;
+ * a plain share-price chart; then the report history, unchanged from the previous pages.
  *
  * Elements only — no summary paragraphs, no extra cards. Palette:
  * white / light gray / charcoal with one accent, deep navy #0a2e5c.
- * Rating and target cells render only where a published J-Core
- * report actually states them (otherwise the coverage is
- * Under Review and the cells are omitted, never invented).
+ * J-Core publishes no ratings or target prices, so the page shows
+ * none (see /ja/policy/).
  */
 interface CompanyRec {
   slug: string;
@@ -34,9 +32,6 @@ interface Props {
   market: string;
   price: { price: number; currency: string; asOf: string } | null;
   marketCap: number | null;
-  rating: string | null;
-  target: number | null;
-  ratingReportDate: Date | null;
   closes: Close[];
   chartFrom: string;
   chartTo: string;
@@ -121,10 +116,6 @@ const perfAt = (months: number): number | null => {
 const perf1m = perfAt(1);
 const perf3m = perfAt(3);
 
-const upside =
-  p.target != null && priceNow
-    ? (p.target / priceNow - 1) * 100
-    : null;
 
 // ---------- report history (unchanged from the previous pages) ----------
 const fmtHistDate = (d: Date) =>
@@ -155,13 +146,6 @@ if (p.marketCap != null) {
     isJa
       ? '時価総額は、終値に発行済株式数（J-Core バリュエーションDB）を掛けて計算しています。'
       : 'Market capitalisation is the closing price multiplied by shares outstanding (J-Core Valuation DB).',
-  );
-}
-if (p.rating && p.ratingReportDate) {
-  footParts.push(
-    isJa
-      ? `レーティングと目標株価は、J-Core Fundamental Research のレポート（${fmtDate(p.ratingReportDate.toISOString().slice(0, 10))}）に基づきます。`
-      : `Rating and target price are from the J-Core Fundamental Research report of ${fmtDate(p.ratingReportDate.toISOString().slice(0, 10))}.`,
   );
 }
 if (p.photoFile && p.photoCredit) {
@@ -230,36 +214,7 @@ if (p.photoFile && p.photoCredit) {
       }
     </div>
 
-    {
-      p.rating && (
-        <div class="cp-cell">
-          <div class="cp-label">RATING</div>
-          <div class="cp-big">{p.rating}</div>
-          <div class="cp-sub">J-Core Fundamental Research</div>
-        </div>
-      )
-    }
 
-    {
-      p.target != null && (
-        <div class="cp-cell">
-          <div class="cp-label">TARGET PRICE</div>
-          <div class="cp-big">{fmtPrice(p.target, currency)}</div>
-          {upside != null && (
-            <div class="cp-sub">
-              {isJa
-                ? upside >= 0
-                  ? '上昇余地 '
-                  : '下落余地 '
-                : upside >= 0
-                  ? 'Upside '
-                  : 'Downside '}
-              <span class={pctClass(upside)}>{fmtPct(upside, 1)}</span>
-            </div>
-          )}
-        </div>
-      )
-    }
 
     <div class="cp-cell">
       <div class="cp-label">PERFORMANCE</div>
@@ -288,8 +243,6 @@ if (p.photoFile && p.photoCredit) {
         from={p.chartFrom}
         to={p.chartTo}
         symbolLabel={`${company.name} (${p.chartSymbol})`}
-        target={p.target}
-        targetText={p.target != null ? fmtPrice(p.target, currency) : null}
       />
     )
   }

@@ -9,11 +9,11 @@
   "sectorLine": "Global Equity Research",
   "companyName": "NVIDIA Corporation (NVDA)",
   "headlineHtml": "End of the Huang era: <strong>founder-CEO resigns with immediate effect</strong>; CFO Kress steps in as interim CEO five days before earnings",
-  "rating": "Under Review",
+  "rating": "",
   "priceLabel": "Price (20 Nov 26)",
   "priceValue": "US$125.5",
-  "targetLabel": "Price Target",
-  "targetValue": "Under review",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "20 November 2026",
   "keyData": [
@@ -56,8 +56,8 @@
   "analystName": "Ken",
   "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
   "analystEntity": "J-Core Fundamental Research",
-  "ledeLeadHtml": "Under review:",
-  "ledeHtml": "We place our rating and price target for NVIDIA under review following the resignation of founder-CEO Jensen Huang, effective immediately, five days before Q3 FY27 results. <strong>The investment case now turns on succession and on whether the 17 Nov print can re-anchor the story on fundamentals</strong>.",
+  "ledeLeadHtml": "",
+  "ledeHtml": "<strong>The investment case now turns on succession and on whether the 17 Nov print can re-anchor the story on fundamentals</strong>.",
   "bullets": [
     {
       "leadHtml": "Huang out, effective immediately.",
@@ -132,11 +132,11 @@
       "type": "section",
       "heading": "Outlook for the next quarter — what we watch on 17 Nov",
       "level": "section",
-      "html": "<p>Three questions decide the next quarter. First, the print itself: revenue against the US$108bn ±2% guide and the first formal outlook under the interim CEO. Second, succession: any timetable, candidate framing, or further board change. Third, governance process: Huang has been asked to give a closed-door congressional briefing on 18 Nov, which keeps headline risk alive into the print.</p>\n<p>Until at least the first two are answered, we keep the rating and price target under review. <mark>A clean print with credible succession language would, in our view, mark the de-rating as event-driven; a guidance cut or a contested succession would not</mark>.</p>",
+      "html": "<p>Three questions decide the next quarter. First, the print itself: revenue against the US$108bn ±2% guide and the first formal outlook under the interim CEO. Second, succession: any timetable, candidate framing, or further board change. Third, governance process: Huang has been asked to give a closed-door congressional briefing on 18 Nov, which keeps headline risk alive into the print.</p>\n<p><mark>A clean print with credible succession language would, in our view, mark the de-rating as event-driven; a guidance cut or a contested succession would not</mark>.</p>",
       "figures": []
     }
   ],
-  "showRatingHistory": true,
+  "showRatingHistory": false,
   "ratingHistory": [],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "holdingsLine": "筆者は、本レポートの日付時点で対象会社の有価証券を保有していないことを表明します。 本レポートは売買を勧めるものではなく、J-Coreはレーティングと目標株価を出していません。"
 }

@@ -9,7 +9,7 @@ externalUrl: "/en/reports/2026-11-18-nvidia-results-58/"
 lang: en
 ---
 
-Under review: We keep our rating and price target for NVIDIA under review, as set on 12 Nov following the resignation of founder-CEO Jensen Huang. The Q3 FY27 print re-anchors the story on fundamentals — **a 7% revenue beat against the company's own guide and a Q4 outlook above consensus** — but the succession question is untouched by it, and the first formal outlook under interim CEO Colette Kress carries a gross-margin step-down that the market will interrogate.
+The Q3 FY27 print re-anchors the story on fundamentals — **a 7% revenue beat against the company's own guide and a Q4 outlook above consensus** — but the succession question is untouched by it, and the first formal outlook under interim CEO Colette Kress carries a gross-margin step-down that the market will interrogate.
 
 **Figure 1. Q3 FY27 results and Q4 outlook versus guide and consensus**
 
@@ -66,13 +66,13 @@ Q4 FY27 revenue guidance of US$130.0bn ±3% sits about 4% above LSEG consensus o
 
 The offset is margin: GAAP and non-GAAP gross margin are guided to 71.0–72.0%, roughly 3 points below Q3's print. Rack-scale systems carry more pass-through content (memory, networking, assembly) per revenue dollar than board-level product, so a Rubin-led mix mechanically dilutes percentage margin even as gross profit dollars grow — at the guide midpoint, Q4 gross profit would be ~US$93bn versus US$86.6bn in Q3. ==Whether 71–72% is a ramp trough or the new Rubin-era level is the single most important question on the call==.
 
-China remains excluded: the outlook assumes no Data Center compute revenue from China, even though Q3 included US$2.4bn of Hopper shipments there. Any licensed China compute revenue is therefore pure upside to the guide — and, after the 17 Nov BIS interim final rule closed the cloud-access loophole, also the least predictable line in the model.
+China remains excluded: the outlook assumes no Data Center compute revenue from China, even though Q3 included US$2.4bn of Hopper shipments there.
 
 ## Governance: a clean first print does not settle succession
 
 The print was delivered under interim CEO Colette Kress, five days after Jensen Huang's resignation took effect. Operationally, nothing slipped: the guide was beaten, the Rubin ramp started on schedule, and the outlook was raised. That supports the view that near-term execution is institutional rather than personal.
 
-What the print does not do is name a permanent CEO, set a timetable, or close the governance file — a closed-door congressional briefing connected to the circumstances of the departure was scheduled for 18 Nov (US). **Until a permanent appointment is made, a key-man discount can re-attach to the shares on any headline, regardless of fundamentals**. We therefore keep the rating under review.
+What the print does not do is name a permanent CEO, set a timetable, or close the governance file — a closed-door congressional briefing connected to the circumstances of the departure was scheduled for 18 Nov (US). **Until a permanent appointment is made, a key-man discount can re-attach to the shares on any headline, regardless of fundamentals**.
 
 ## Read-across to the AIDC complex
 
@@ -82,13 +82,9 @@ The margin guide cuts the other way for one part of the chain: if rack-scale mix
 
 ## What we monitor next
 
-Three things. First, the permanent CEO appointment — any name, timetable or further board change re-prices the governance discount immediately. Second, Q4 gross margin delivery against the 71–72% guide, and the first FY28 margin framing: trough or new level decides how the Rubin cycle is valued. Third, China: Hopper shipments under licence, and any licensing practice under the BIS cloud rule, are unmodelled upside with binary timing.
+Three things. First, the permanent CEO appointment — any name, timetable or further board change re-prices the governance discount immediately. Second, Q4 gross margin delivery against the 71–72% guide, and the first FY28 margin framing: trough or new level decides how the Rubin cycle is valued.
 
-On the demand side, **hyperscaler capex guides in January will either validate the US$518bn commitment stack or mark its peak**. We will revisit the rating once succession is resolved.
-
----
-
-Rating (as stated in the report): Under Review
+On the demand side, **hyperscaler capex guides in January will either validate the US$518bn commitment stack or mark its peak**.
 
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 

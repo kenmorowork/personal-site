@@ -1,0 +1,300 @@
+---
+import type { Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+
+const UPDATED = '2026-11-26';
+
+const t = isJa
+  ? {
+      h1: 'レポートの方針と開示',
+      lede: 'J-Coreのレポートは、公開情報をもとに会社と業界の事実と数字を整理したものです。レーティングと目標株価は出しません。このページには、レポートで使う言葉の定義、数字の出どころ、開示の項目をまとめています。',
+      updated: '最終更新',
+      s1: '出すもの・出さないもの',
+      s1p: 'J-Coreのレポートは、公開されている情報をもとに、会社と業界の事実と数字を整理したものです。特定の銘柄の売買を勧めるものではありません。',
+      doTitle: '出すもの',
+      dontTitle: '出さないもの',
+      dos: [
+        '開示資料にもとづく業績・財務・セグメントの整理',
+        '事業の構造、バリューチェーン、競合との比較',
+        '官公庁・業界団体などの統計',
+        '開示された数字からのJ-Coreの計算（方法を明記）',
+        '会社が開示しているリスクと、数字から読めるリスクの整理',
+      ],
+      donts: [
+        'レーティング（Overweight、Buyなど）',
+        '目標株価、妥当株価、理論株価',
+        '上昇余地、期待リターン',
+        '売買のタイミングや、ポジションの提案',
+        '個別の投資相談への回答',
+      ],
+      s2: 'レポートの種類',
+      typeHead: ['種類', '内容', '頻度'],
+      types: [
+        ['カバレッジ開始', '1社について、事業・業績・財務・業界を初めてまとめるレポート', '不定期'],
+        ['アップデート', '決算や大きな開示があったときに、前回からの変化を整理するレポート', '決算ごと・随時'],
+        ['セクター・アップデート', 'カバレッジ全社をTOPIX-33業種と並べ、業績と株価の動きを整理するレポート', '毎月'],
+        ['週次マーケットレポート', '日本株市場の1週間の動きと、その背景になった開示・統計を整理するレポート', '毎週'],
+        ['業界レポート', '1つの産業の市場規模、バリューチェーン、主な企業を整理するレポート', '不定期'],
+      ],
+      s3: '数字の表記と定義',
+      s3p: 'レポートの表と図では、数字ごとに出どころを次のラベルで区別します。',
+      labelHead: ['ラベル', '意味'],
+      labels: [
+        ['会社実績', '決算短信・有価証券報告書に載っている実績の数字'],
+        ['会社予想', '会社が公表している業績予想。修正があった場合は最新の値と公表日を書きます'],
+        ['J-Core計算', '開示された数字から計算した値（例：賃貸等不動産の含み益÷発行済株式数）。計算式を表の注に書きます'],
+        ['J-Core試算', '前提を置いて計算した将来の見込み。前提を本文に書き、株価の水準には結び付けません'],
+        ['市場データ', '株価、出来高、指数など。取得日を書きます'],
+        ['公的統計・外部予測', '官公庁・業界団体の統計と、調査会社が公表している予測。出典名と公表日を書きます'],
+      ],
+      defHead: ['項目', '定義'],
+      defs: [
+        ['株価', '東京証券取引所の終値。日付を必ず併記します'],
+        ['時価総額', '終値 × 発行済株式数（自己株式を除く）'],
+        ['PER・PBR', '実績ベースか会社予想ベースかを必ず書きます。J-Core試算ベースのPER・PBRは載せません'],
+        ['決算期', '「FY3/27」は2027年3月期を指します'],
+        ['単位・端数', '表ごとに単位を書きます。端数は四捨五入のため、合計が合わない場合があります'],
+      ],
+      s4: '作成の前提（根拠）',
+      s4p: '情報源は、次の順に優先します。どの表と図にも、出典と取得日を書きます。',
+      sources: [
+        '会社の開示：適時開示、決算短信、有価証券報告書、決算説明資料、中期経営計画',
+        '官公庁・業界団体の統計',
+        '調査会社が公表している数字（出典名と公表日を書きます）',
+        '市場データ：株価、出来高など',
+      ],
+      s4notes: [
+        '手に入らなかった情報は「取得できなかった」と書き、推測で埋めません。',
+        '使うのは公開情報だけです。会社や関係者から、公表されていない情報は受け取りません。',
+        '筆者が勤務先の仕事で得た情報は使いません。',
+      ],
+      s5: '表現のルール',
+      s5p: '評価や売買の判断にあたる言葉は使わず、数字で書きます。',
+      wordHead: ['使わない表現', '代わりの書き方'],
+      words: [
+        ['割安、割高', '「PBRは0.8倍で、過去10年の平均1.1倍を下回る」のように、比較の対象と数字で書く'],
+        ['市場が評価していない、見直し余地', '「時価総額は、鑑定評価ベースの資産価値を37%下回る」のように、事実の差として書く'],
+        ['買い、売り、推奨、注目銘柄', '使わない'],
+        ['上昇余地、ポテンシャル、目標', '使わない'],
+        ['〜を評価する（投資判断の意味で）', '「〜を整理する」「〜を確認する」と書く'],
+      ],
+      s6: '利益相反と開示',
+      s6p: '各レポートの末尾に、次の項目を書きます。',
+      discHead: ['項目', '内容'],
+      disc: [
+        ['筆者', 'Ken（J-Core Research）'],
+        ['対象銘柄の保有', 'レポートの日付時点で、筆者が対象銘柄を保有しているかどうかを書きます'],
+        ['報酬', '対象会社から報酬や便宜を受けていません'],
+        ['勤務先との関係', 'このサイトは筆者個人の活動で、勤務先の見解を示すものではありません'],
+        ['広告・スポンサー', 'ありません'],
+      ],
+      s7: '誤りの訂正',
+      s7p: '誤りが見つかった場合は、わかった時点で訂正し、訂正した日と内容をレポートの末尾に残します。',
+      s8: '免責事項',
+      disclaimer: [
+        '本サイトの内容は情報提供を目的としたものであり、特定の有価証券の売買の勧誘や推奨を目的とするものではありません。',
+        '内容は、作成時点で信頼できると判断した公開情報にもとづいていますが、その正確性・完全性を保証するものではありません。将来の見込みに関する記述は、実際の結果と異なる場合があります。',
+        '投資に関する最終的な判断は、ご自身の責任で行ってください。本サイトの情報を利用したことで生じた損害について、筆者は責任を負いません。',
+        '本サイトの文章・図表の著作権は筆者に帰属します。引用の範囲を超える転載はお控えください。',
+      ],
+    }
+  : {
+      h1: 'Report policy and disclosures',
+      lede: 'J-Core reports set out facts and figures about companies and industries from public information. J-Core does not publish ratings or price targets. This page sets out the definitions used in the reports, where the numbers come from, and what each report discloses.',
+      updated: 'Last updated',
+      s1: 'What J-Core publishes and does not publish',
+      s1p: 'J-Core reports organise facts and figures about companies and industries from public information. They are not a recommendation to buy or sell any security.',
+      doTitle: 'Published',
+      dontTitle: 'Not published',
+      dos: [
+        'Results, financials and segments from company disclosures',
+        'Business structure, value chains and comparisons with competitors',
+        'Statistics from government agencies and industry bodies',
+        'J-Core calculations from disclosed figures, with the method stated',
+        'Risks the company discloses and risks visible in the figures',
+      ],
+      donts: [
+        'Ratings (Overweight, Buy and so on)',
+        'Price targets, fair values or intrinsic values',
+        'Upside or expected returns',
+        'Timing of trades or position suggestions',
+        'Answers to individual investment questions',
+      ],
+      s2: 'Report types',
+      typeHead: ['Type', 'What it covers', 'Frequency'],
+      types: [
+        ['Initiation', 'A first full write-up of one company: business, results, financials and industry', 'Irregular'],
+        ['Update', 'What changed since the last report, after results or a major disclosure', 'Each result / as needed'],
+        ['Sector update', 'All covered companies against the TOPIX-33 sectors: results and share price moves', 'Monthly'],
+        ['Weekly market report', 'The week in Japanese equities and the disclosures and statistics behind it', 'Weekly'],
+        ['Industry report', 'Market size, value chain and main companies of one industry', 'Irregular'],
+      ],
+      s3: 'Number labels and definitions',
+      s3p: 'Tables and charts label every number by where it comes from.',
+      labelHead: ['Label', 'Meaning'],
+      labels: [
+        ['Company actual', 'Actual figures from the earnings release (tanshin) or annual securities report'],
+        ['Company forecast', 'The forecast the company has published. If revised, the latest figure and its date are given'],
+        ['J-Core calculation', 'A value calculated from disclosed figures (e.g. unrealised real-estate gains ÷ shares outstanding). The formula is given in the table note'],
+        ['J-Core estimate', 'A forward figure built on stated assumptions. The assumptions are in the text, and the figure is not tied to a share price level'],
+        ['Market data', 'Share prices, volumes and indices, with the date retrieved'],
+        ['Statistics / external forecasts', 'Government and industry statistics and published research-firm forecasts, with source and publication date'],
+      ],
+      defHead: ['Item', 'Definition'],
+      defs: [
+        ['Share price', 'Tokyo Stock Exchange closing price, always with its date'],
+        ['Market capitalisation', 'Closing price × shares outstanding (excluding treasury shares)'],
+        ['P/E and P/B', 'Always stated as actual-based or company-forecast-based. P/E and P/B on J-Core estimates are not published'],
+        ['Fiscal year', '"FY3/27" is the year ending March 2027'],
+        ['Units and rounding', 'Each table states its unit. Figures are rounded, so totals may not add up'],
+      ],
+      s4: 'Basis of preparation',
+      s4p: 'Sources are used in this order of priority. Every table and chart gives its source and the date retrieved.',
+      sources: [
+        'Company disclosures: timely disclosures, earnings releases, annual securities reports, results presentations, mid-term plans',
+        'Statistics from government agencies and industry bodies',
+        'Figures published by research firms (with source and publication date)',
+        'Market data: share prices, volumes and similar',
+      ],
+      s4notes: [
+        'Information that could not be obtained is marked as such and is not filled in by guesswork.',
+        'Only public information is used. J-Core does not receive non-public information from companies or anyone connected with them.',
+        'Information the author obtains through his employment is not used.',
+      ],
+      s5: 'Wording rules',
+      s5p: 'Words that amount to a valuation judgement or a trading call are not used; the figures are given instead.',
+      wordHead: ['Not used', 'Written instead as'],
+      words: [
+        ['Cheap, expensive', '"P/B is 0.8x, below its 10-year average of 1.1x": the comparison and the numbers'],
+        ['The market is not paying for, room for re-rating', '"Market cap is 37% below appraisal-based asset value": the gap as a fact'],
+        ['Buy, sell, recommend, top pick', 'Not used'],
+        ['Upside, potential, target', 'Not used'],
+        ['"We like" / "we value" in the investment sense', '"sets out", "checks"'],
+      ],
+      s6: 'Conflicts of interest and disclosures',
+      s6p: 'Each report ends with the following items.',
+      discHead: ['Item', 'Disclosure'],
+      disc: [
+        ['Author', 'Ken (J-Core Research)'],
+        ['Holdings', 'Whether the author holds the subject securities as of the report date'],
+        ['Compensation', 'No payment or benefit is received from the subject companies'],
+        ['Employer', 'This site is the author’s personal activity and does not represent the views of his employer'],
+        ['Advertising and sponsorship', 'None'],
+      ],
+      s7: 'Corrections',
+      s7p: 'Errors are corrected as soon as they are found, and the date and content of each correction are recorded at the end of the report.',
+      s8: 'Disclaimer',
+      disclaimer: [
+        'The content of this site is provided for information only. It is not a solicitation or recommendation to buy or sell any security.',
+        'It is based on public information believed to be reliable at the time of writing, but its accuracy and completeness are not guaranteed. Forward-looking statements may differ from actual results.',
+        'Investment decisions are your own responsibility. The author accepts no liability for any loss arising from use of the information on this site.',
+        'Text and charts on this site are the author’s copyright. Please do not reproduce them beyond the scope of quotation.',
+      ],
+    };
+
+const toc = [t.s1, t.s2, t.s3, t.s4, t.s5, t.s6, t.s7, t.s8];
+const th = 'border-b border-neutral-300 py-2 pr-4 text-left text-xs font-semibold text-neutral-500 dark:border-neutral-700 dark:text-neutral-400';
+const td = 'border-b border-neutral-100 py-2 pr-4 align-top dark:border-neutral-900';
+const h2 = 'font-display text-xl font-semibold';
+const num = (i: number) => String(i + 1).padStart(2, '0');
+---
+
+<article class="max-w-3xl">
+  <h1 class="font-display text-3xl font-semibold tracking-tight">{t.h1}</h1>
+  <p class="mt-4 leading-relaxed">{t.lede}</p>
+  <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">{t.updated} {UPDATED}</p>
+
+  <nav class="mt-8 rounded-lg border border-neutral-200 p-5 text-sm dark:border-neutral-800" aria-label="TOC">
+    <ol class="grid gap-1 sm:grid-cols-2">
+      {toc.map((label, i) => (
+        <li><a href={`#p${i + 1}`} class="underline-offset-4 hover:underline"><span class="mr-2 text-neutral-400">{num(i)}</span>{label}</a></li>
+      ))}
+    </ol>
+  </nav>
+
+  <section id="p1" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">01</span>{t.s1}</h2>
+    <p class="mt-3 leading-relaxed">{t.s1p}</p>
+    <div class="mt-5 grid gap-5 sm:grid-cols-2">
+      <div class="rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+        <h3 class="text-sm font-semibold">{t.doTitle}</h3>
+        <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-relaxed">{t.dos.map((x) => <li>{x}</li>)}</ul>
+      </div>
+      <div class="rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+        <h3 class="text-sm font-semibold">{t.dontTitle}</h3>
+        <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-relaxed">{t.donts.map((x) => <li>{x}</li>)}</ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="p2" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">02</span>{t.s2}</h2>
+    <div class="mt-4 overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead><tr>{t.typeHead.map((h) => <th class={th}>{h}</th>)}</tr></thead>
+        <tbody>{t.types.map((r) => <tr><td class={`${td} font-medium whitespace-nowrap`}>{r[0]}</td><td class={td}>{r[1]}</td><td class={`${td} whitespace-nowrap`}>{r[2]}</td></tr>)}</tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="p3" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">03</span>{t.s3}</h2>
+    <p class="mt-3 leading-relaxed">{t.s3p}</p>
+    <div class="mt-4 overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead><tr>{t.labelHead.map((h) => <th class={th}>{h}</th>)}</tr></thead>
+        <tbody>{t.labels.map((r) => <tr><td class={`${td} font-medium whitespace-nowrap`}>{r[0]}</td><td class={td}>{r[1]}</td></tr>)}</tbody>
+      </table>
+    </div>
+    <div class="mt-6 overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead><tr>{t.defHead.map((h) => <th class={th}>{h}</th>)}</tr></thead>
+        <tbody>{t.defs.map((r) => <tr><td class={`${td} font-medium whitespace-nowrap`}>{r[0]}</td><td class={td}>{r[1]}</td></tr>)}</tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="p4" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">04</span>{t.s4}</h2>
+    <p class="mt-3 leading-relaxed">{t.s4p}</p>
+    <ol class="mt-3 list-decimal space-y-1 pl-5 text-sm leading-relaxed">{t.sources.map((x) => <li>{x}</li>)}</ol>
+    <ul class="mt-4 space-y-2 text-sm leading-relaxed">{t.s4notes.map((x) => <li>{x}</li>)}</ul>
+  </section>
+
+  <section id="p5" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">05</span>{t.s5}</h2>
+    <p class="mt-3 leading-relaxed">{t.s5p}</p>
+    <div class="mt-4 overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead><tr>{t.wordHead.map((h) => <th class={th}>{h}</th>)}</tr></thead>
+        <tbody>{t.words.map((r) => <tr><td class={`${td} font-medium`}>{r[0]}</td><td class={td}>{r[1]}</td></tr>)}</tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="p6" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">06</span>{t.s6}</h2>
+    <p class="mt-3 leading-relaxed">{t.s6p}</p>
+    <div class="mt-4 overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead><tr>{t.discHead.map((h) => <th class={th}>{h}</th>)}</tr></thead>
+        <tbody>{t.disc.map((r) => <tr><td class={`${td} font-medium whitespace-nowrap`}>{r[0]}</td><td class={td}>{r[1]}</td></tr>)}</tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="p7" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">07</span>{t.s7}</h2>
+    <p class="mt-3 leading-relaxed">{t.s7p}</p>
+  </section>
+
+  <section id="p8" class="mt-12 scroll-mt-24">
+    <h2 class={h2}><span class="mr-2 text-neutral-400">08</span>{t.s8}</h2>
+    <div class="mt-3 space-y-3 text-sm leading-relaxed">{t.disclaimer.map((x) => <p>{x}</p>)}</div>
+  </section>
+</article>

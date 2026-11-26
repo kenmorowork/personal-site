@@ -505,4 +505,4 @@ Rockwell AutomationのSoftware & Controlは2026年4〜6月に売上7.51億ドル
 
 ---
 
-*FIELDNOTES Industrial Report No. 2 — 工作機械・FA（ドラフト）／ 作成 2026年11月16日 ／ 本資料は Ken のレビュー用の下書きであり、投資推奨ではない。数値は各出典の公表時点のもので、最新の決算・統計で更新される前提である。*
+*FIELDNOTES Industrial Report No. 2 — 工作機械・FA（ドラフト）／ 作成 2026年11月16日 ／ 本資料は投資推奨ではない。数値は各出典の公表時点のもので、最新の決算・統計で更新される前提である。*

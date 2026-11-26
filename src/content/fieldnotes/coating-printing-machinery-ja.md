@@ -537,4 +537,4 @@ No.31 の繰り返しを避け、塗工機メーカーの視点に絞る。
 
 ---
 
-*End of Report No. 56 — 塗装・印刷機械（Coating & Printing Machinery). Draft for Ken's review. No buy/sell recommendations. Data cut-off 2026-11-16.*
+*End of Report No. 56 — 塗装・印刷機械（Coating & Printing Machinery). No buy/sell recommendations. Data cut-off 2026-11-16.*

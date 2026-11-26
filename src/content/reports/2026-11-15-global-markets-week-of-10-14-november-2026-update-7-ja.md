@@ -128,15 +128,3 @@ Figure 6 lists the events that actually drove the week's performance, with the m
 ## Week ahead — 16 to 22 November
 
 Monday 16 Nov: Japan's Q3 GDP first estimate — the split between domestic demand and capex is the read. Tuesday 17 Nov (US time; Wednesday morning JST): Nvidia's Q3 results — company guidance is revenue of $108bn ±2% against consensus of about $111.4bn; the form of guidance under the interim CEO and any comment on funding commitments matter as much as the print. Wednesday 18 Nov: FOMC minutes, and the requested closed-door congressional briefing on the Huang matter. Thursday 19 Nov: Japan's machinery orders. Each of these maps to a tracker in Figure 5; next week's edition will score them against the expectations recorded here.
-
-## Idea candidates — for the reader's judgement
-
-Candidates only; the analysis and any decision sit with the reader. (1) Power-equipment breadth: orders at Siemens, Hitachi Energy and GE Vernova, plus record Japan machine-tool orders, against share prices that sold off with the semiconductor complex on 13–14 Nov — variant perception to test: **whether the market is pricing power equipment as a derivative of the chip trade rather than on its own backlog (about 2.8 years of revenue at Hitachi Energy India)**. Catalyst: Nvidia's print and any hyperscaler capex commentary. Kill condition: order cancellations or lead-time compression in the next prints. (2) Nvidia succession discount: the shares closed the week about 36% below the October high with demand indicators (TSMC, backlog data) still rising — the question is whether the discount is governance-only and therefore closable by a credible succession plan at the 17 Nov print. Risk: the congressional process on 18 Nov extends the overhang.
-
----
-
-Rating (as stated in the report): Not Rated
-
-Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
-
-The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. TEST RUN — prepared to test the Weekly Market Report format in the Research Report Editor; not investment advice and not for distribution.

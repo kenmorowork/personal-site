@@ -9,11 +9,11 @@
   "sectorLine": "Japan Equity Research",
   "companyName": "Fujikura Ltd. (5803)",
   "headlineHtml": "H1 FY27: operating profit up 161% on AI data-centre demand; <strong>guidance raised and dividend doubled</strong> — focus shifts to the implied H2 step-down",
-  "rating": "Under Review",
+  "rating": "",
   "priceLabel": "Price (20 Nov 26)",
   "priceValue": "¥2,252",
-  "targetLabel": "Price Target",
-  "targetValue": "Under review",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "20 November 2026",
   "keyData": [
@@ -142,11 +142,11 @@
       "type": "section",
       "heading": "What we watch next",
       "level": "section",
-      "html": "<p>Three items. First, the Q3 FY27 print (expected February 2027): quarterly OP against the roughly ¥117bn H1 quarterly average, and any revision to the FY guide. Second, US hyperscaler capex commentary through the December quarter — Fujikura's Information &amp; Communications segment is a direct read-across. Third, the share price itself: <strong>at ¥2,906 the stock trades on 26.3x trailing earnings (Finnhub, 13 Nov) after a six-month fall of about 63%, so expectations have already reset hard</strong>.</p>\n<p>This update is an example note prepared for format purposes; the rating and price target are under review pending a full model update.</p>",
+      "html": "<p>Three items. First, the Q3 FY27 print (expected February 2027): quarterly OP against the roughly ¥117bn H1 quarterly average, and any revision to the FY guide. Second, US hyperscaler capex commentary through the December quarter — Fujikura's Information &amp; Communications segment is a direct read-across. Third, the share price itself: <strong>at ¥2,906 the stock trades on 26.3x trailing earnings (Finnhub, 13 Nov) after a six-month fall of about 63%, so expectations have already reset hard</strong>.</p>\n",
       "figures": []
     }
   ],
-  "showRatingHistory": true,
+  "showRatingHistory": false,
   "ratingHistory": [],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report. This report is not a recommendation to buy or sell; J-Core does not publish ratings or target prices."
 }

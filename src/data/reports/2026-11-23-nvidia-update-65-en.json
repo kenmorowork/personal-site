@@ -9,11 +9,11 @@
   "sectorLine": "Global Equity Research",
   "companyName": "NVIDIA Corporation (NVDA)",
   "headlineHtml": "Huang reinstated: <strong>board restores the founder-CEO with immediate effect, unanimously</strong> — the governance trigger of the November rout is lifted, the investigation is not closed",
-  "rating": "Under Review",
+  "rating": "",
   "priceLabel": "Price (20 Nov 26)",
   "priceValue": "US$125.53",
-  "targetLabel": "Price Target",
-  "targetValue": "Under review",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "20 November 2026",
   "keyData": [
@@ -56,8 +56,8 @@
   "analystName": "Ken",
   "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
   "analystEntity": "J-Core Fundamental Research",
-  "ledeLeadHtml": "Under review:",
-  "ledeHtml": "We keep our rating and price target for NVIDIA under review. Twelve days after accepting Jensen Huang's resignation, the board has reinstated him as President, CEO and director with immediate effect. <strong>In our view, this removes the governance trigger of the November rout — it does not close the file: the independent investigation continues, and the accounting-examination reporting that fed the sell-off is untouched by today's release</strong>.",
+  "ledeLeadHtml": "",
+  "ledeHtml": "Twelve days after accepting Jensen Huang's resignation, the board has reinstated him as President, CEO and director with immediate effect. <strong>In our view, this removes the governance trigger of the November rout — it does not close the file: the independent investigation continues, and the accounting-examination reporting that fed the sell-off is untouched by today's release</strong>.",
   "bullets": [
     {
       "leadHtml": "Huang is back, effective immediately.",
@@ -148,18 +148,11 @@
       "type": "section",
       "heading": "What to watch next",
       "level": "section",
-      "html": "<p>Four watchpoints, in the order they arrive.</p>\n<p>1) <strong>Tonight's US close (Mon 23 Nov) versus the US$130–136 zone</strong>: whether the regular session holds the pre-market gain or fades it is the market's real verdict on how much of the governance discount has actually been lifted. 2) <strong>SEC follow-ups</strong>: any further reporting or company comment on the reported accounting examination is now the lead overhang. 3) <strong>Dell Technologies' fiscal Q3, 24 Nov (US)</strong>: the next demand-side read on AI server momentum for the wider complex. 4) <strong>The Tokyo reopen, Tue 24 Nov</strong>: how the AIDC chain in our coverage retraces, against Nikkei futures that stood at ¥54,600 on Saturday morning.</p>\n<p>Beyond this week, the committee investigation's conclusion and the Chief Compliance Officer appointment are the two dated governance milestones. We will revisit the rating once the investigation file closes and the shares have a settled post-reinstatement trading range.</p>",
+      "html": "<p>Four watchpoints, in the order they arrive.</p>\n<p>1) <strong>Tonight's US close (Mon 23 Nov) versus the US$130–136 zone</strong>: whether the regular session holds the pre-market gain or fades it is the market's real verdict on how much of the governance discount has actually been lifted. 2) <strong>SEC follow-ups</strong>: any further reporting or company comment on the reported accounting examination is now the lead overhang. 3) <strong>Dell Technologies' fiscal Q3, 24 Nov (US)</strong>: the next demand-side read on AI server momentum for the wider complex. 4) <strong>The Tokyo reopen, Tue 24 Nov</strong>: how the AIDC chain in our coverage retraces, against Nikkei futures that stood at ¥54,600 on Saturday morning.</p>\n<p>Beyond this week, the committee investigation's conclusion and the Chief Compliance Officer appointment are the two dated governance milestones.</p>",
       "figures": []
     }
   ],
-  "showRatingHistory": true,
-  "ratingHistory": [
-    {
-      "date": "2026-11-23T16:41:25.569Z",
-      "rating": "Under Review",
-      "price": 125.53,
-      "target": null
-    }
-  ],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "showRatingHistory": false,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report. This report is not a recommendation to buy or sell; J-Core does not publish ratings or target prices."
 }

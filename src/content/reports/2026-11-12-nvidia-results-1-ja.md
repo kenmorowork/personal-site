@@ -9,7 +9,6 @@ externalUrl: "/ja/reports/2026-11-12-nvidia-results-1/"
 lang: ja
 ---
 
-Under review: We place our rating and price target for NVIDIA under review following the resignation of founder-CEO Jensen Huang, effective immediately, five days before Q3 FY27 results. **The investment case now turns on succession and on whether the 17 Nov print can re-anchor the story on fundamentals**.
 
 **Figure 1. Financial summary — NVIDIA (fiscal year ends January)**
 
@@ -58,12 +57,6 @@ Read-across runs in two directions. AI-accelerator peers and the Philadelphia Se
 ## Outlook for the next quarter — what we watch on 17 Nov
 
 Three questions decide the next quarter. First, the print itself: revenue against the US$108bn ±2% guide and the first formal outlook under the interim CEO. Second, succession: any timetable, candidate framing, or further board change. Third, governance process: Huang has been asked to give a closed-door congressional briefing on 18 Nov, which keeps headline risk alive into the print.
-
-Until at least the first two are answered, we keep the rating and price target under review. ==A clean print with credible succession language would, in our view, mark the de-rating as event-driven; a guidance cut or a contested succession would not==.
-
----
-
-Rating (as stated in the report): Under Review
 
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 

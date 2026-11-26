@@ -547,4 +547,4 @@ Mountain Pass の採掘・分離に、Fort Worth（Independence）の金属・�
 
 ---
 
-*End of Report No. 41 — レアアース・資源リサイクル. Draft for Ken's review; not published, not for distribution. Data cut-off: 2026-11-16.*
+*End of Report No. 41 — レアアース・資源リサイクル. Data cut-off: 2026-11-16.*

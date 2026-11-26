@@ -9,7 +9,7 @@ externalUrl: "/ja/reports/2026-11-23-nvidia-update-65/"
 lang: ja
 ---
 
-Under review: We keep our rating and price target for NVIDIA under review. Twelve days after accepting Jensen Huang's resignation, the board has reinstated him as President, CEO and director with immediate effect. **In our view, this removes the governance trigger of the November rout — it does not close the file: the independent investigation continues, and the accounting-examination reporting that fed the sell-off is untouched by today's release**.
+Twelve days after accepting Jensen Huang's resignation, the board has reinstated him as President, CEO and director with immediate effect. **In our view, this removes the governance trigger of the November rout — it does not close the file: the independent investigation continues, and the accounting-examination reporting that fed the sell-off is untouched by today's release**.
 
 **Key data**
 
@@ -74,11 +74,7 @@ Four watchpoints, in the order they arrive.
 
 1) **Tonight's US close (Mon 23 Nov) versus the US$130–136 zone**: whether the regular session holds the pre-market gain or fades it is the market's real verdict on how much of the governance discount has actually been lifted. 2) **SEC follow-ups**: any further reporting or company comment on the reported accounting examination is now the lead overhang. 3) **Dell Technologies' fiscal Q3, 24 Nov (US)**: the next demand-side read on AI server momentum for the wider complex. 4) **The Tokyo reopen, Tue 24 Nov**: how the AIDC chain in our coverage retraces, against Nikkei futures that stood at ¥54,600 on Saturday morning.
 
-Beyond this week, the committee investigation's conclusion and the Chief Compliance Officer appointment are the two dated governance milestones. We will revisit the rating once the investigation file closes and the shares have a settled post-reinstatement trading range.
-
----
-
-Rating (as stated in the report): Under Review
+Beyond this week, the committee investigation's conclusion and the Chief Compliance Officer appointment are the two dated governance milestones.
 
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 

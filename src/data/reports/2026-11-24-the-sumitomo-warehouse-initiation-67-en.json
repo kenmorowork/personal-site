@@ -8,13 +8,13 @@
   "dateISO": "2026-11-24",
   "sectorLine": "Japan Equity Research",
   "companyName": "The Sumitomo Warehouse Co., Ltd. (9303)",
-  "headlineHtml": "Priced below book, with ¥88.0bn of unrealised real-estate gains and a ¥216.3bn securities portfolio management has committed to monetise: initiating at <strong>Overweight</strong> — target price ¥4,500",
-  "rating": "Overweight",
+  "headlineHtml": "Priced below book, with ¥88.0bn of unrealised real-estate gains and a ¥216.3bn securities portfolio management has committed to monetise",
+  "rating": "",
   "priceLabel": "Price (24 Nov 26)",
   "priceValue": "¥3,835",
-  "targetLabel": "Price Target",
-  "targetValue": "¥4,500",
-  "upside": "+17.3%",
+  "targetLabel": "",
+  "targetValue": "",
+  "upside": "",
   "priceAsOf": "24 November 2026",
   "keyData": [
     {
@@ -51,8 +51,8 @@
   "analystName": "Ken",
   "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
   "analystEntity": "J-Core Fundamental Research",
-  "ledeLeadHtml": "A logistics operator priced below book, with ¥88.0bn of unrealised rental-real-estate gains and a securities portfolio finally committed to monetisation — Overweight, target price ¥4,500",
-  "ledeHtml": "We initiate coverage of The Sumitomo Warehouse Co., Ltd. with an Overweight rating and a 12-month base-case target price of ¥4,500, 17.3% above the ¥3,835 close on 24 November 2026. Operating profit is the clean earnings line: FY3/2026 operating profit fell 14.0% to ¥11,413mn on wage and price cost inflation and real-estate acquisition tax, while reported net income of ¥17,668mn was supported by ¥5,618mn of gains on sales of investment securities and ¥5,132mn of Naniwa-suji line compensation. The investment case rests on three things: price pass-through in logistics, a 40.1%-margin real-estate segment with large unrealised gains, and the 2026–2030 mid-term plan's commitment to sell ¥60,000mn of policy shareholdings and return capital, including buybacks of up to 2mn shares / ¥7,000mn in FY3/2027.",
+  "ledeLeadHtml": "A logistics operator priced below book, with ¥88.0bn of unrealised rental-real-estate gains and a securities portfolio finally committed to monetisation",
+  "ledeHtml": "Operating profit is the clean earnings line: FY3/2026 operating profit fell 14.0% to ¥11,413mn on wage and price cost inflation and real-estate acquisition tax, while reported net income of ¥17,668mn was supported by ¥5,618mn of gains on sales of investment securities and ¥5,132mn of Naniwa-suji line compensation. The investment case rests on three things: price pass-through in logistics, a 40.1%-margin real-estate segment with large unrealised gains, and the 2026–2030 mid-term plan's commitment to sell ¥60,000mn of policy shareholdings and return capital, including buybacks of up to 2mn shares / ¥7,000mn in FY3/2027.",
   "bullets": [
     {
       "leadHtml": "FY3/2026 results — operating profit is the clean line",
@@ -67,8 +67,8 @@
       "html": "Rental real estate: book value ¥85,091mn vs fair value ¥173,139mn at FY3/2026 — an unrealised gain of ¥88,048mn (calculated), equal to about 28% of equity and about ¥1,155 per share before tax (calculated)."
     },
     {
-      "leadHtml": "Valuation — below book, Overweight on the base case",
-      "html": "At ¥3,835 the shares trade on 16.6x FY3/2026 EPS of ¥230.86, 0.93x BPS of ¥4,117.89, a 2.69% dividend yield on DPS of ¥103, with ROE of 6.1%. Our base-case target of ¥4,500 (+17.3%) clears the +15% Overweight threshold; the scenario range runs from ¥3,100 (−19.2%) to ¥5,400 (+40.8%), a width of 60.0 percentage points."
+      "leadHtml": "Metrics at the share price",
+      "html": "At ¥3,835 the shares trade on 16.6x FY3/2026 EPS of ¥230.86, 0.93x BPS of ¥4,117.89, a 2.69% dividend yield on DPS of ¥103, with ROE of 6.1%."
     },
     {
       "leadHtml": "The mid-term plan is the central execution question",
@@ -425,60 +425,18 @@
     },
     {
       "type": "section",
-      "heading": "5. Valuation and scenarios",
+      "heading": "5. Metrics at the current price",
       "level": "part",
-      "html": "<p>Method: P/B–ROE is the primary method because the shares trade below book (0.93x) and returns, not earnings momentum, are the binding constraint; it is cross-checked on P/E and on an asset (NAV) view — BPS of ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, against which ¥3,835 is a discount of about 27% (calculated). Figure 5 sets out the scenarios.</p>\n<p>The scenario range width is −19.2% to +40.8%, a span of 60.0 percentage points. Rating: Overweight, from the base case (+17.3% ≥ the +15% Overweight threshold; Neutral is −10% to +15%, Underweight ≤ −10%; 12-month horizon).</p>\n<p>Figure 9 plots the share price over the past year; the three scenario levels are compared with the current price in Figure 10.</p>\n<p>Figure 10 summarises the scenario span against the current price.</p>",
+      "html": "<p>Metrics that can be calculated from the closing price on the publication date (market capitalisation, P/B, dividend yield and others) are shown in the key data panel. J-Core does not publish ratings or target prices. The share-price history is shown below.</p>",
       "figures": [
-        {
-          "id": "f5",
-          "number": "Table 5",
-          "titleHtml": "Valuation scenarios — 12-month horizon (J-Core estimates)",
-          "sourceHtml": "J-Core scenario analysis. Primary method P/B–ROE (shares trade below book at 0.93x), cross-checked on P/E and on an asset view: BPS ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at ¥3,835 (J-Core calculations). Range width: −19.2% to +40.8%, a span of 60.0 percentage points. Rating thresholds: Overweight ≥ +15%, Neutral −10% to +15%, Underweight ≤ −10% (12-month horizon); the base case (+17.3%) supports Overweight.",
-          "kind": "table",
-          "columns": [
-            "Scenario",
-            "Target price (¥)",
-            "vs ¥3,835",
-            "Key differing assumptions"
-          ],
-          "rows": [
-            [
-              "Bull",
-              "5400",
-              "+40.8%",
-              "ROE reaches the plan's 8% path early; pass-through completes; real-estate recycling surfaces value; P/B re-rates to about 1.25x"
-            ],
-            [
-              "Base",
-              "4500",
-              "+17.3%",
-              "ROE improves toward 7%; OP follows the J-Core path; policy-share sales and buybacks proceed as planned; P/B about 1.05x forward book"
-            ],
-            [
-              "Bear",
-              "3100",
-              "-19.2%",
-              "Cost inflation outruns pass-through, OP stays near ¥11,000mn, plan execution slips, P/B de-rates to about 0.75x"
-            ]
-          ]
-        },
         {
           "id": "c4",
           "number": "Figure 5",
           "titleHtml": "Share price — daily closes from 25 November 2025 to 24 November 2026 (¥)",
-          "sourceHtml": "The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330). The J-Core scenario levels in this report — bear ¥3,100, base ¥4,500, bull ¥5,400 — and the current price of ¥3,835 at 24 November 2026 are compared in Figure 10.",
+          "sourceHtml": "The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330).",
           "kind": "image",
           "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c4.svg",
           "alt": "Share price — daily closes from 25 November 2025 to 24 November 2026 (¥)"
-        },
-        {
-          "id": "c5",
-          "number": "Figure 6",
-          "titleHtml": "Valuation scenario range — bear ¥3,100 to bull ¥5,400, base ¥4,500, current price ¥3,835 (¥ per share)",
-          "sourceHtml": "J-Core scenario analysis, as in the valuation scenarios table in this report. Range width: −19.2% to +40.8% versus the current price of ¥3,835, a span of 60.0 percentage points; the base case of ¥4,500 is +17.3%.",
-          "kind": "image",
-          "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c5.svg",
-          "alt": "Valuation scenario range — bear ¥3,100 to bull ¥5,400, base ¥4,500, current price ¥3,835 (¥ per share)"
         }
       ]
     },
@@ -497,14 +455,7 @@
       "figures": []
     }
   ],
-  "showRatingHistory": true,
-  "ratingHistory": [
-    {
-      "date": "2026-11-24T08:25:22.506Z",
-      "rating": "Overweight",
-      "price": 3835,
-      "target": 4500
-    }
-  ],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "showRatingHistory": false,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report. This report is not a recommendation to buy or sell; J-Core does not publish ratings or target prices."
 }

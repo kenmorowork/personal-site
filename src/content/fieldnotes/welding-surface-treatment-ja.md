@@ -514,4 +514,4 @@ lang: ja
 
 ---
 
-*End of Report No. 45 — 溶接・表面処理（Welding & Surface Treatment）. Draft for Ken's review, 2026-11-16.*
+*End of Report No. 45 — 溶接・表面処理（Welding & Surface Treatment）. 2026-11-16.*

@@ -9,23 +9,18 @@
   "sectorLine": "Japan Equity Research",
   "companyName": "Mitsui-Soko Holdings Co., Ltd. (9302)",
   "headlineHtml": "A logistics recovery, a ¥102bn hidden real-estate gain, and a capital reset that the ROE has yet to catch up with",
-  "rating": "Overweight",
+  "rating": "",
   "priceLabel": "Price (24 Nov 26)",
   "priceValue": "¥3,199",
-  "targetLabel": "Price Target (12-month)",
-  "targetValue": "¥3,800",
-  "upside": "+18.8%",
+  "targetLabel": "",
+  "targetValue": "",
+  "upside": "",
   "priceAsOf": "24 November 2026",
   "keyData": [
     {
       "label": "Market cap",
       "value": "¥239,297mn",
       "asOf": "24 Nov 2026 close ¥3,199 × 74,803,785 shares ex-treasury (30 Sep 2026); calculated"
-    },
-    {
-      "label": "P/E (FY3/27E, company guidance EPS ¥173.40)",
-      "value": "18.4x",
-      "asOf": "Revised guidance, 6 Nov 2026; 16.7x on J-Core FY3/28E EPS of ¥191"
     },
     {
       "label": "P/B (FY3/26 BPS ¥1,849.68)",
@@ -52,7 +47,7 @@
   "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
   "analystEntity": "J-Core Fundamental Research",
   "ledeLeadHtml": "Japan's most logistics-pure warehouse major, repriced by a capital reset",
-  "ledeHtml": "Mitsui-Soko Holdings (9302) is the holding company of the Mitsui-Soko group — 73 consolidated subsidiaries across warehousing, port transport, international forwarding, home-appliance 3PL, supply-chain solutions and land transport — and, of Japan's three zaibatsu-lineage warehouse majors, the one whose earnings are most purely logistics: the Logistics segment supplied 97.5% of FY3/26 external revenue and 87.0% of segment profit. Strengths: a logistics operating margin that has rebuilt from 2.1% in FY3/17 to 8.4% in FY3/26 on high-value air freight and 3PL; a second, quieter asset leg in rental real estate carried at ¥38,133mn against a fair value of ¥140,273mn, an unrealised gain of ¥102,140mn equal to about 72% of parent equity; and a February 2026 capital reset — a ¥18,748mn third-party allotment to Mitsui Fudosan alongside a buyback facility of up to ¥34,000mn — that directly addresses the share count and funds healthcare-logistics capacity. Weaknesses: return on equity of 8.6% in FY3/26 is far below the Mid-Term Plan 2022 target of more than 12%, and the plan's ¥350,000mn revenue target will be missed even after the 6 November 2026 upward revision took FY3/27 guidance to ¥330,000mn of revenue and ¥24,000mn of operating profit; real-estate profit is volatile, as the FY3/25 collapse to ¥2,161mn on the Hakozaki tenant exit showed; and no successor mid-term plan has been published, leaving the post-FY3/27 framework open. We initiate at Overweight with a 12-month target price of ¥3,800, +18.8% against the 24 November 2026 close of ¥3,199, on 20.0x our FY3/28E EPS of ¥191 (J-Core estimate). All historical financials in this report are from the company filings compiled in the J-Core financial base (tanshin and securities reports, FY3/17–FY3/26) unless stated otherwise; figures labelled J-Core estimates are our own forecasts, not company guidance.",
+  "ledeHtml": "Mitsui-Soko Holdings (9302) is the holding company of the Mitsui-Soko group — 73 consolidated subsidiaries across warehousing, port transport, international forwarding, home-appliance 3PL, supply-chain solutions and land transport — and, of Japan's three zaibatsu-lineage warehouse majors, the one whose earnings are most purely logistics: the Logistics segment supplied 97.5% of FY3/26 external revenue and 87.0% of segment profit. Strengths: a logistics operating margin that has rebuilt from 2.1% in FY3/17 to 8.4% in FY3/26 on high-value air freight and 3PL; a second, quieter asset leg in rental real estate carried at ¥38,133mn against a fair value of ¥140,273mn, an unrealised gain of ¥102,140mn equal to about 72% of parent equity; and a February 2026 capital reset — a ¥18,748mn third-party allotment to Mitsui Fudosan alongside a buyback facility of up to ¥34,000mn — that directly addresses the share count and funds healthcare-logistics capacity. Weaknesses: return on equity of 8.6% in FY3/26 is far below the Mid-Term Plan 2022 target of more than 12%, and the plan's ¥350,000mn revenue target will be missed even after the 6 November 2026 upward revision took FY3/27 guidance to ¥330,000mn of revenue and ¥24,000mn of operating profit; real-estate profit is volatile, as the FY3/25 collapse to ¥2,161mn on the Hakozaki tenant exit showed; and no successor mid-term plan has been published, leaving the post-FY3/27 framework open. All historical financials in this report are from the company filings compiled in the J-Core financial base (tanshin and securities reports, FY3/17–FY3/26) unless stated otherwise; figures labelled J-Core estimates are our own forecasts, not company guidance.",
   "bullets": [
     {
       "leadHtml": "The mid-term plan ends with a split scorecard",
@@ -69,10 +64,6 @@
     {
       "leadHtml": "February 2026 reset the capital structure",
       "html": "Mitsui Fudosan took 3,000,000 new shares and 2,250,000 treasury shares at ¥3,571 per share in a ¥18,748mn third-party allotment earmarked for Kanto and Kansai healthcare-logistics facilities, while a buyback facility of up to 5,500,000 shares / ¥34,000mn (including an ASR) ran from February to July 2026; treasury shares rose to 3,187,321 by 30 September 2026. The alliance is strategically logical and governance-relevant in equal measure — see Section 9."
-    },
-    {
-      "leadHtml": "Valuation — Overweight, target ¥3,800, range −20.0% to +34.4%",
-      "html": "Our base case applies 20.0x to FY3/28E EPS of ¥191 (J-Core estimate) for a target of ¥3,800, +18.8% versus ¥3,199, which clears our +15% Overweight threshold. The bull case (¥4,300, +34.4%) assumes the real-estate recovery completes and logistics margins hold; the bear case (¥2,560, −20.0%) assumes freight normalisation repeats the FY3/25 pattern. The scenario range is therefore 54.4 percentage points wide (−20.0% to +34.4%) — this is a name where the freight cycle, not the multiple, does most of the work."
     },
     {
       "leadHtml": "ROE is the unresolved issue",
@@ -358,7 +349,7 @@
       "type": "section",
       "heading": "4. Market and value chain",
       "level": "part",
-      "html": "<p>The industry frame is value-led, not volume-led. Yano Research Institute (press release of 5 August 2026) puts Japan's 15-sector logistics market at ¥24.794tn in FY2024 (+5.7%) and forecasts ¥25.360tn in FY2025 (+2.3%) and ¥26.361tn in FY2026 (+3.9%) — growth of roughly +2–4% a year in yen terms, which Yano attributes mainly to freight, storage and handling rate revisions and exchange rates rather than to a full recovery in freight volume. Third-party estimates of Japan 3PL growth cluster around +4–5.5% a year (IMARC Group: 4.3% CAGR 2025–33; Expert Market Research: 5.4% CAGR 2025–34, on different and mutually inconsistent market definitions — we cite the range, not an average). MLIT's physical series agree with the value-led reading: ordinary-warehouse storage balances are rising about 2% a year while throughput is broadly flat. Figure 3 maps where Mitsui-Soko sits in that chain: an integrated operator spanning storage, handling, 3PL and forwarding, with the real-estate business sitting alongside the chain rather than inside it.</p>\n<p>The structural drivers are labour scarcity and price pass-through. The April 2024 truck-driver overtime cap institutionalised rate revisions and itemised waiting and handling charges; the warehouse sector's own storage-fee index had been broadly flat since 2000 even as construction costs rose, so warehousing price catch-up is earlier-stage and less certain than trucking's. For Mitsui-Soko, the investment question is whether its 8.4% logistics margin can be held as the 2024-problem repricing annualises — our base case assumes it fades only gradually, because the 3PL and healthcare mix is still improving.</p>",
+      "html": "<p>The industry frame is value-led, not volume-led. Yano Research Institute (press release of 5 August 2026) puts Japan's 15-sector logistics market at ¥24.794tn in FY2024 (+5.7%) and forecasts ¥25.360tn in FY2025 (+2.3%) and ¥26.361tn in FY2026 (+3.9%) — growth of roughly +2–4% a year in yen terms, which Yano attributes mainly to freight, storage and handling rate revisions and exchange rates rather than to a full recovery in freight volume. Third-party estimates of Japan 3PL growth cluster around +4–5.5% a year (IMARC Group: 4.3% CAGR 2025–33; Expert Market Research: 5.4% CAGR 2025–34, on different and mutually inconsistent market definitions — we cite the range, not an average). MLIT's physical series agree with the value-led reading: ordinary-warehouse storage balances are rising about 2% a year while throughput is broadly flat. Figure 3 maps where Mitsui-Soko sits in that chain: an integrated operator spanning storage, handling, 3PL and forwarding, with the real-estate business sitting alongside the chain rather than inside it.</p>\n<p>The structural drivers are labour scarcity and price pass-through. The April 2024 truck-driver overtime cap institutionalised rate revisions and itemised waiting and handling charges; the warehouse sector's own storage-fee index had been broadly flat since 2000 even as construction costs rose, so warehousing price catch-up is earlier-stage and less certain than trucking's.</p>",
       "figures": [
         {
           "id": "f2",
@@ -375,7 +366,7 @@
       "type": "section",
       "heading": "Competitor positioning",
       "level": "section",
-      "html": "<p>Figure 4 compares the three zaibatsu-lineage majors and Kamigumi on reported FY3/26 figures and 24 November 2026 prices. The contrast is instructive. Mitsubishi Logistics (9301) is the real-estate-heavy name: real estate supplied about half of its two segments' combined operating profit, and its FY3/26 EPS of ¥155.84 is heavily flattered by ¥67,281mn of investment-securities sale gains, so its 8.0x trailing P/E is not a clean earnings multiple. Sumitomo Warehouse (9303) trades at 0.93x book with a 16.6x P/E — the balance-sheet-value end of the group, carrying a large policy-shareholding portfolio. Kamigumi (9364), Japan's largest port operator, is the sector's largest company by market capitalisation at ¥519,562mn (Nikkei, 24 November 2026); its reported financials were not part of the sourced base for this report and are not shown. Mitsui-Soko is the mirror image of Mitsubishi Logistics: the most logistics-pure earnings mix of the three, the highest P/B at 1.73x, and a trailing P/E of 21.6x that falls to 16.7x on our FY3/28E EPS. The market is already paying for the logistics purity; what it is not yet paying for, in our view, is the combination of the real-estate fair value and a completed capital reset.</p>",
+      "html": "<p>Figure 4 compares the three zaibatsu-lineage majors and Kamigumi on reported FY3/26 figures and 24 November 2026 prices. The contrast is instructive. Mitsubishi Logistics (9301) is the real-estate-heavy name: real estate supplied about half of its two segments' combined operating profit, and its FY3/26 EPS of ¥155.84 is heavily flattered by ¥67,281mn of investment-securities sale gains, so its 8.0x trailing P/E is not a clean earnings multiple. Sumitomo Warehouse (9303) trades at 0.93x book with a 16.6x P/E — the balance-sheet-value end of the group, carrying a large policy-shareholding portfolio. Kamigumi (9364), Japan's largest port operator, is the sector's largest company by market capitalisation at ¥519,562mn (Nikkei, 24 November 2026); its reported financials were not part of the sourced base for this report and are not shown. The market is already paying for the logistics purity; what it is not yet paying for, in our view, is the combination of the real-estate fair value and a completed capital reset.</p>",
       "figures": [
         {
           "id": "f7",
@@ -660,81 +651,18 @@
     },
     {
       "type": "section",
-      "heading": "8. Valuation and scenarios",
+      "heading": "8. Metrics at the current price",
       "level": "part",
-      "html": "<p>Our primary method is a P/E on J-Core FY3/28E EPS, cross-checked against P/B–ROE and the real-estate-adjusted book value. The base case applies 20.0x to FY3/28E EPS of ¥191 — a premium to Sumitomo Warehouse's 16.6x trailing multiple that we justify by Mitsui-Soko's higher logistics purity and margin trajectory, and a discount to its own 21.6x trailing multiple — giving ¥3,820, rounded to a target price of ¥3,800. At ¥3,800 the shares would trade at about 1.9x our FY3/27E book value per share of roughly ¥2,024 against a forecast ROE of about 9%; on a strict P/B–ROE frame that is full, and we say so — the Overweight rests on the earnings trajectory plus the 1.14x multiple of real-estate-adjusted book, not on book-value cheapness. Figure 9 sets out the three scenarios. Bull (¥4,300, +34.4%): FY3/28 operating profit of ¥27,500mn with real-estate profit at ¥5,500mn and the logistics margin at 9.0%, EPS of ¥205 at 21.0x. Base (¥3,800, +18.8%): as Section 7. Bear (¥2,560, −20.0%): freight normalisation repeats FY3/25, operating profit falls to ¥22,500mn, real-estate profit stalls at ¥3,500mn, EPS of ¥160 at 16.0x. The stated range is −20.0% to +34.4%, a width of 54.4 percentage points. Ratings follow the pilot thresholds on the base case, 12-month horizon: Overweight at +15% or more, Neutral between −10% and +15%, Underweight at −10% or less; the base case's +18.8% gives Overweight.</p>",
+      "html": "<p>Metrics that can be calculated from the closing price on the publication date (market capitalisation, P/B, dividend yield and others) are shown in the key data panel. J-Core does not publish ratings or target prices. The share-price history is shown below.</p>",
       "figures": [
-        {
-          "id": "f6",
-          "number": "Table 6",
-          "titleHtml": "Valuation scenarios — 12-month target prices vs the ¥3,199 close (24 Nov 2026)",
-          "sourceHtml": "J-Core estimates and scenario assumptions as set out in Section 8",
-          "kind": "table",
-          "columns": [
-            "Scenario",
-            "FY3/28E OP (¥mn)",
-            "FY3/28E EPS (¥)",
-            "P/E applied",
-            "Target price (¥)",
-            "vs ¥3,199",
-            "Key differing assumptions"
-          ],
-          "rows": [
-            [
-              "Bull",
-              "27,500",
-              "205",
-              "21.0x",
-              "4,300",
-              "+34.4%",
-              "Logistics margin 9.0%; real-estate profit ¥5,500mn on full Hakozaki year; successor plan commits to ROE/capital returns"
-            ],
-            [
-              "Base",
-              "26,000",
-              "191",
-              "20.0x",
-              "3,800",
-              "+18.8%",
-              "Logistics margin c.8.7%; real-estate profit ¥5,000mn; share count c.74.8mn (Section 7 assumptions)"
-            ],
-            [
-              "Bear",
-              "22,500",
-              "160",
-              "16.0x",
-              "2,560",
-              "−20.0%",
-              "Freight normalisation repeats FY3/25; real-estate profit stalls at ¥3,500mn; no successor-plan catalyst"
-            ]
-          ]
-        },
         {
           "id": "c3",
           "number": "Figure 4",
           "titleHtml": "Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)",
-          "sourceHtml": "Yahoo Finance daily closes via the J-Core site price file for 9302 (the stored report priceHistory field was empty); scenario targets are J-Core estimates (Figure 9).",
+          "sourceHtml": "",
           "kind": "image",
           "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c3.svg",
           "alt": "Share price — daily closes, 25 Nov 2025 to 24 Nov 2026 (¥)"
-        },
-        {
-          "id": "c4",
-          "number": "Figure 5",
-          "titleHtml": "Scenario range — bear ¥2,560 / base ¥3,800 / bull ¥4,300 vs the ¥3,199 close",
-          "sourceHtml": "J-Core estimates; scenario assumptions as tabulated in Figure 9 of this report.",
-          "kind": "image",
-          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c4.svg",
-          "alt": "Scenario range — bear ¥2,560 / base ¥3,800 / bull ¥4,300 vs the ¥3,199 close"
-        },
-        {
-          "id": "c5",
-          "number": "Figure 6",
-          "titleHtml": "EPS history and scenario valuation — FY3/28E EPS basis (¥)",
-          "sourceHtml": "Company tanshin (EPS history, Figure 1) and J-Core estimates (scenario EPS and multiples, Figure 9).",
-          "kind": "image",
-          "src": "/report-assets/2026-11-24-mitsui-soko-holdings-initiation-68/c5.svg",
-          "alt": "EPS history and scenario valuation — FY3/28E EPS basis (¥)"
         }
       ]
     },
@@ -753,14 +681,7 @@
       "figures": []
     }
   ],
-  "showRatingHistory": true,
-  "ratingHistory": [
-    {
-      "date": "2026-11-24T08:27:25.364Z",
-      "rating": "Overweight",
-      "price": 3199,
-      "target": 3800
-    }
-  ],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "showRatingHistory": false,
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report. This report is not a recommendation to buy or sell; J-Core does not publish ratings or target prices."
 }

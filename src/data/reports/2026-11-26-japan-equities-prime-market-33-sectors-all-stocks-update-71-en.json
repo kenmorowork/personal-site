@@ -15,11 +15,11 @@
   "sectorLine": "Japan Equities | Prime Market — 33 sectors, all stocks",
   "companyName": "Japan Equities — Prime Market, 33 Sectors & All Stocks",
   "headlineHtml": "18 months of re-rating: <strong>TOPIX +38.6%, with PER expansion (+20.9%) doing twice the work of EPS (+10.7%) — and the last three months have started to unwind it</strong>",
-  "rating": "Not Rated",
+  "rating": "",
   "priceLabel": "TOPIX total return (18M)",
   "priceValue": "+38.6%",
-  "targetLabel": "Window",
-  "targetValue": "30 May 2025 – 25 Nov 2026",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "Prices to 25 Nov 2026",
   "keyData": [
@@ -2327,7 +2327,7 @@
       "type": "section",
       "heading": "5. Machinery, the worked example — record orders, and a share price that stopped believing early",
       "level": "section",
-      "html": "<p><strong>Machinery is this report in miniature.</strong> On the weekly path, Machinery ran far ahead of TOPIX into February 2026 (about 167 vs 142 indexed), then gave the lead back and ended November 2026 below it (116.4 vs about 136). Its monthly PER, though, was still at a premium in October 2026 — 22.7x against 20.1x for the Prime total. The market still pays for machinery earnings power; it has stopped paying in advance for the conversion of orders into earnings. Read with Q1 idea 4.</p>",
+      "html": "<p><strong>Machinery is this report in miniature.</strong> On the weekly path, Machinery ran far ahead of TOPIX into February 2026 (about 167 vs 142 indexed), then gave the lead back and ended November 2026 below it (116.4 vs about 136). Its monthly PER, though, was still at a premium in October 2026 — 22.7x against 20.1x for the Prime total. The market still pays for machinery earnings power; it has stopped paying in advance for the conversion of orders into earnings.</p>",
       "figures": [
         {
           "id": "f10",
@@ -2342,70 +2342,7 @@
     },
     {
       "type": "section",
-      "heading": "Part 4 — Q1 coverage ideas (interview topics)",
-      "level": "part",
-      "html": "",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 1 — Electric Appliances: a PER story, now unwinding",
-      "level": "section",
-      "html": "<p><strong>The rise was almost entirely expectation.</strong> Over 18 months the sector rose +46.6% in price, but the EPS factor was −13.7% while the PER went from 22.0x to 37.3x (+69.9%). The last three months have taken back −17.2% (−10.4pp vs TOPIX), as AI and semiconductor names sold off in November on the Nvidia CEO-change reports and post-US-midterm data-centre regulation concerns.</p>\n<p>What to ask: the gap between the order and sales growth the share prices assume and what customers (hyperscalers, equipment makers) are actually ordering now — and how much of the expectation can be confirmed in next-term results.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 2 — Chemicals: PER up, EPS flat",
-      "level": "section",
-      "html": "<p><strong>Almost all of the +28.3% price rise is the multiple.</strong> The EPS factor was −3.6% while the PER rose from 16.8x to 22.3x. The working hypothesis is that expectations gathered in semiconductor materials (resist, wafers, CMP, high-purity gases) and offset commodity-chemical earnings weakness — to be tested name by name.</p>\n<p>What to ask: volume outlook and pricing power in semiconductor materials; when commodity chemicals (petrochemicals, PVC) bottom.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 3 — Construction: earnings delivered, the multiple refused",
-      "level": "section",
-      "html": "<p><strong>Earnings grew and the shares still lagged.</strong> The EPS factor was +35.2%, yet the PER eased from 12.3x to 11.5x and the sector trailed TOPIX by 4.1pp over 18 months. The market is discounting the durability of margins — the same question raised from the client side in November interviews with NTT as an orderer.</p>\n<p>What to ask: margins in the data-centre and semiconductor-plant backlog, pass-through of materials and labour costs, and whether profit stays with the general contractors or the sub-contractors (HVAC, electrical).</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 4 — Machinery: record orders, shares left behind",
-      "level": "section",
-      "html": "<p><strong>Orders are at record levels and the sector still lost to TOPIX by 16.1pp.</strong> Machine-tool orders in September 2026 rose +60.4% YoY to ¥223.2bn and the annual forecast was raised to ¥2tn; SMC’s Q1 FY3/27 sales grew +35.4%. Yet the sector’s EPS factor was only +2.9% and the PER was flat — the market has not yet seen the orders become earnings. Names in scope: SMC (6273), FUJI (6134), DMG Mori (6141), Okuma (6103), Tsugami (6101).</p>\n<p>What to ask: how fast orders convert to sales, the order mix (AI/semiconductors, aerospace, China), why some companies lose money on rising orders, and the inventory build in FA and pneumatics.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 5 — Nonferrous Metals: the 18-month leader halved in three months — are orders really falling?",
-      "level": "section",
-      "html": "<p><strong>The 18-month rise was earned; the 3-month fall is the question.</strong> The sector beat TOPIX by +29.1pp over 18 months on an EPS factor of +92.5% with the PER lower — then fell −49.7% in three months. Fujikura’s H1 (Apr–Sep 2026) operating profit rose +160.6% YoY, yet it was the only one of the four cable names to cut full-year guidance, on a revised FX assumption. A share-price fall and an order fall are not the same thing. Names: Fujikura (5803), Sumitomo Electric (5802), Furukawa Electric (5801), SWCC (5805), JX Advanced Metals (5016).</p>\n<p>What to ask: hyperscalers’ current orders and prices for optical fibre, connectors and power cable; whether Fujikura’s cut is FX only or volume as well; what separates the four names.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 6 — Iron & Steel: the PER is an artefact of one-off costs",
-      "level": "section",
-      "html": "<p><strong>Depressed earnings make the multiple look expensive.</strong> Nippon Steel’s FY3/26 net profit fell −95% to ¥17.1bn on US Steel acquisition costs and restructuring losses; the FY3/27 forecast was raised to ¥290bn, above the ¥285.2bn consensus. On normalised earnings the sector PER (9.3x → 20.6x) is likely lower than it appears. Names: Nippon Steel (5401), JFE (5411), Kobe Steel (5406).</p>\n<p>What to ask: the content of US Steel’s earnings improvement (price, utilisation, capex), China exports and the domestic market, and the credibility of the ¥700bn underlying-profit target.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 7 — Electric Power & Gas: earnings down 40%, shares ahead of TOPIX",
-      "level": "section",
-      "html": "<p><strong>The sector beat TOPIX by +7.3pp while its EPS factor fell −38.0%.</strong> The PER more than doubled, from 5.9x to 13.7x. Two candidate explanations: fuel-cost timing gains disappeared (a known, temporary drag), and nuclear restarts plus data-centre power demand and grid investment began to be valued. Which dominates differs by name.</p>\n<p>What to ask: restart timing and generation costs, contracted data-centre demand and tariffs, and recovery of transmission and distribution investment.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Q1 idea 8 — Transportation Equipment: tariffs in the EPS, recovery in the PER (reference — outside IME)",
-      "level": "section",
-      "html": "<p><strong>Tariffs cut the EPS factor by −24.9%; the PER rose anyway, from 11.6x to 17.8x.</strong> Toyota raised its FY3/27 operating-profit forecast from ¥3.4tn to ¥3.9tn, and North America swung from a loss to a ¥166.1bn H1 profit; the sector beat TOPIX by +15.0pp over the last three months.</p>\n<p>What to ask: how far tariff price pass-through has progressed, whether North American margins hold, and the spillover to parts and materials makers (the part that connects to IME).</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "Part 5 — Method",
+      "heading": "Part 4 — Method",
       "level": "part",
       "html": "",
       "figures": []
@@ -2419,13 +2356,6 @@
     }
   ],
   "showRatingHistory": false,
-  "ratingHistory": [
-    {
-      "date": "2026-11-25T15:52:05.248Z",
-      "rating": "Not Rated",
-      "price": 38.6,
-      "target": 30
-    }
-  ],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution."
+  "ratingHistory": [],
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. This report is not a recommendation to buy or sell; J-Core does not publish ratings or target prices."
 }

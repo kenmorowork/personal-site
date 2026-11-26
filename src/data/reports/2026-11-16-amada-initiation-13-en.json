@@ -9,11 +9,11 @@
   "sectorLine": "Japan Equity Research",
   "companyName": "Amada Co., Ltd. (6113)",
   "headlineHtml": "<strong>Record orders and a five-BU reset</strong>: the broadest metalworking portfolio in Japan, priced for a margin recovery",
-  "rating": "Under Review",
+  "rating": "",
   "priceLabel": "Price (20 Nov 26)",
   "priceValue": "¥2,079",
-  "targetLabel": "Price Target",
-  "targetValue": "Under review",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "20 November 2026",
   "keyData": [
@@ -834,7 +834,7 @@
       "type": "section",
       "heading": "8. Other information",
       "level": "part",
-      "html": "<p>Listing and scale: Amada is listed on the Tokyo Stock Exchange Prime Market (code 6113; ISIN JP3122800000). At the 13 November 2026 close of ¥2,468, market capitalisation was about ¥748bn (StockAnalysis / Beluuga, 13 Nov 2026); third-party data put employees at about 9,870 (TradingView / StockAnalysis, Nov 2026) — headcount is not disclosed in the tanshin and is shown here as third-party data only. The 52-week range was ¥1,741–¥3,224 (Finnhub, retrieved 16 Nov 2026); trailing P/E on Finnhub's stored data was 21.1x, while the price equals 25.5x FY3/26 EPS and 18.7x FY3/27E guidance EPS of ¥131.99 (calculated from company figures). Average daily traded value was about ¥4.88bn (Finnhub).</p>",
+      "html": "<p>Listing and scale: Amada is listed on the Tokyo Stock Exchange Prime Market (code 6113; ISIN JP3122800000). At the 13 November 2026 close of ¥2,468, market capitalisation was about ¥748bn (StockAnalysis / Beluuga, 13 Nov 2026); third-party data put employees at about 9,870 (TradingView / StockAnalysis, Nov 2026) — headcount is not disclosed in the tanshin and is shown here as third-party data only. Average daily traded value was about ¥4.88bn (Finnhub).</p>",
       "figures": []
     },
     {
@@ -855,11 +855,11 @@
       "type": "section",
       "heading": "9. Basis of preparation",
       "level": "part",
-      "html": "<p>Sources. Historical financials, segments, regions and orders: company tanshin (IFRS, consolidated) for FY3/17–FY3/26 and the intervening quarters (FY3/17–FY3/21 via the sheet’s supplementary History block; FY3/17–FY3/18 regional data on the J-GAAP basis, Figure 2A), via the JPX disclosure archive, as compiled and reconciled in the PL/segment sheet (6113_Amada_PL.xlsx; all template checks equal zero; rounding plugs of at most ¥4mn sit in other-operating, investing and tax lines, never in headline lines — sheet register S11). Latest results and guidance: Q2 FY3/27 tanshin dated 12 Nov 2026 (the sheet's register dates the guidance revision 11 Nov 2026; the tanshin itself is dated 12 Nov 2026, and this report uses the tanshin date). One correction to the sheet is applied in this report: the sheet's supplementary FY3/26 department cells for press and Other held composition percentages; the FY3/26 tanshin orders note gives press sales of ¥42,942mn, Other sales of ¥22,541mn, press intake of ¥49,037mn, Other intake of ¥35,590mn, press backlog of ¥42,581mn and Other backlog of ¥38,379mn, and those primary-source figures are used in Figure 3. Mid-term plan: company news release and plan notice of 14 May 2026, and the President's message (amada.co.jp, June 2026). Market data: Finnhub, StockAnalysis and Beluuga snapshots retrieved 13–16 Nov 2026, each cited inline; market data are third-party and may differ from exchange official closes. Market-size figures are third-party estimates (PW Consulting 2025; Dataintelo 2026) and are indicative only.</p>\n<p>Conventions. &quot;FY3/26&quot; means the fiscal year ended 31 March 2026; company guidance is labelled as such wherever used, and no analyst forecasts are presented. The rating (&quot;Under Review&quot;) and price target (&quot;Under review&quot;) are placeholders pending the analyst's valuation work; nothing in this report is a buy or sell recommendation. Not disclosed in the sources used, and therefore not estimated: R&amp;D expenditure, period-end employees (tanshin basis), unit volumes, production capacity and utilisation, regional profit, service-revenue split, and the official major-shareholder register. Segment history is on the basis disclosed in each period: legacy two-segment disclosure through FY3/26, and the five-BU basis from Q1 FY3/27 with H1 FY3/26 restated by the company.</p>",
+      "html": "<p>Sources. Historical financials, segments, regions and orders: company tanshin (IFRS, consolidated) for FY3/17–FY3/26 and the intervening quarters (FY3/17–FY3/21 via the sheet’s supplementary History block; FY3/17–FY3/18 regional data on the J-GAAP basis, Figure 2A), via the JPX disclosure archive, as compiled and reconciled in the PL/segment sheet (6113_Amada_PL.xlsx; all template checks equal zero; rounding plugs of at most ¥4mn sit in other-operating, investing and tax lines, never in headline lines — sheet register S11). Latest results and guidance: Q2 FY3/27 tanshin dated 12 Nov 2026 (the sheet's register dates the guidance revision 11 Nov 2026; the tanshin itself is dated 12 Nov 2026, and this report uses the tanshin date). One correction to the sheet is applied in this report: the sheet's supplementary FY3/26 department cells for press and Other held composition percentages; the FY3/26 tanshin orders note gives press sales of ¥42,942mn, Other sales of ¥22,541mn, press intake of ¥49,037mn, Other intake of ¥35,590mn, press backlog of ¥42,581mn and Other backlog of ¥38,379mn, and those primary-source figures are used in Figure 3. Mid-term plan: company news release and plan notice of 14 May 2026, and the President's message (amada.co.jp, June 2026). Market data: Finnhub, StockAnalysis and Beluuga snapshots retrieved 13–16 Nov 2026, each cited inline; market data are third-party and may differ from exchange official closes. Market-size figures are third-party estimates (PW Consulting 2025; Dataintelo 2026) and are indicative only.</p>\n<p>Conventions. &quot;FY3/26&quot; means the fiscal year ended 31 March 2026; company guidance is labelled as such wherever used, and no analyst forecasts are presented. Not disclosed in the sources used, and therefore not estimated: R&amp;D expenditure, period-end employees (tanshin basis), unit volumes, production capacity and utilisation, regional profit, service-revenue split, and the official major-shareholder register. Segment history is on the basis disclosed in each period: legacy two-segment disclosure through FY3/26, and the five-BU basis from Q1 FY3/27 with H1 FY3/26 restated by the company.</p>",
       "figures": []
     }
   ],
-  "showRatingHistory": true,
+  "showRatingHistory": false,
   "ratingHistory": [],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report. This report is not a recommendation to buy or sell; J-Core does not publish ratings or target prices."
 }

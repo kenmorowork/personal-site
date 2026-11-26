@@ -111,17 +111,10 @@ const sectors = [...sectorCounts.entries()].sort(
 const total = allEntries.length;
 const itemCount = marketThemes.length + coverageGroups.reduce((n, g) => n + g.rows.length, 0);
 
-const ratingChip = (e: (typeof allEntries)[number]): string | null => {
-  const r = e.data.rating;
-  if (!r) return null;
-  const tp = e.data.targetPrice;
-  if (!tp) return r;
-  return isJa ? `${r} · 目標株価 ${tp}` : `${r} · TP ${tp}`;
-};
 
 // Coverage price columns: current price (Yahoo Finance end-of-day,
 // kept in src/data/prices.json by the daily price job and refreshed
-// by the publish bridge) and the gap to the report's target price.
+// by the publish bridge).
 interface PriceRow { price: number; currency: string; asOf: string }
 const priceMap = ((pricesData as { prices?: Record<string, PriceRow> }).prices ?? {}) as Record<string, PriceRow>;
 const priceOf = (ticker: string): PriceRow | undefined => priceMap[ticker];
@@ -130,15 +123,6 @@ const fmtPrice = (p: PriceRow): string => {
   if (p.currency === 'USD') return 'US$' + p.price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
   if (p.currency === 'TWD') return 'NT$' + p.price.toLocaleString('en-US', { maximumFractionDigits: 2 });
   return p.price.toLocaleString('en-US', { maximumFractionDigits: 2 });
-};
-const gapOf = (e: (typeof allEntries)[number]): string | null => {
-  const tp = e.data.targetPrice;
-  const pr = priceOf(e.data.ticker);
-  if (!tp || !pr || !pr.price) return null;
-  const t = parseFloat(tp.replace(/[^0-9.]/g, ''));
-  if (!isFinite(t) || t <= 0) return null;
-  const pct = (t / pr.price - 1) * 100;
-  return (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%';
 };
 const priceAsOf = (() => {
   let max = '';
@@ -259,11 +243,6 @@ const companyHref = (e: (typeof allEntries)[number]) => `/${lang}/companies/${co
               >
                 {badge}
               </span>
-              {ratingChip(entry) && (
-                <span class="rounded-full bg-emerald-700 px-2 py-0.5 text-xs font-semibold text-white dark:bg-emerald-600">
-                  {ratingChip(entry)}
-                </span>
-              )}
               <time
                 datetime={entry.data.date.toISOString()}
                 class="ml-auto text-sm whitespace-nowrap text-neutral-500 dark:text-neutral-400"
@@ -340,10 +319,7 @@ const companyHref = (e: (typeof allEntries)[number]) => `/${lang}/companies/${co
         <tr class="border-b border-neutral-300 text-left dark:border-neutral-700">
           <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '会社' : 'Company'}</th>
           <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'コード' : 'Ticker'}</th>
-          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? 'レーティング' : 'Rating'}</th>
-          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '目標株価' : 'Target price'}</th>
           <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '現在の株価' : 'Current price'}</th>
-          <th class="py-2 pr-3 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '差額' : 'vs target'}</th>
           <th class="py-2 font-medium text-neutral-500 dark:text-neutral-400">{isJa ? '最新レポート' : 'Latest report'}</th>
         </tr>
       </thead>
@@ -352,7 +328,7 @@ const companyHref = (e: (typeof allEntries)[number]) => `/${lang}/companies/${co
           <tbody data-sector-group>
             <tr>
               <td
-                colspan="7"
+                colspan="4"
                 class="bg-neutral-50 px-2 pt-5 pb-1.5 text-xs font-semibold tracking-wide text-neutral-500 uppercase dark:bg-neutral-900 dark:text-neutral-400"
               >
                 {sector}
@@ -360,7 +336,6 @@ const companyHref = (e: (typeof allEntries)[number]) => `/${lang}/companies/${co
             </tr>
             {rows.map((entry) => {
               const pr = priceOf(entry.data.ticker);
-              const gap = gapOf(entry);
               return (
                 <tr
                   data-report-row
@@ -377,14 +352,7 @@ const companyHref = (e: (typeof allEntries)[number]) => `/${lang}/companies/${co
                   <td class="py-2.5 pr-3 whitespace-nowrap text-neutral-600 dark:text-neutral-300">
                     {entry.data.ticker}
                   </td>
-                  <td class="py-2.5 pr-3 whitespace-nowrap">{entry.data.rating ?? '—'}</td>
-                  <td class="py-2.5 pr-3 whitespace-nowrap">{entry.data.targetPrice ?? '—'}</td>
                   <td class="py-2.5 pr-3 whitespace-nowrap">{pr ? fmtPrice(pr) : '—'}</td>
-                  <td
-                    class={`py-2.5 pr-3 whitespace-nowrap ${gap == null ? '' : gap.startsWith('+') ? 'font-medium text-emerald-700 dark:text-emerald-400' : 'font-medium text-red-700 dark:text-red-400'}`}
-                  >
-                    {gap ?? '—'}
-                  </td>
                   <td class="py-2.5 whitespace-nowrap text-neutral-600 dark:text-neutral-300">
                     <a href={entry.data.externalUrl} class="underline-offset-4 hover:underline">
                       {fmt(entry.data.date)} · {typeLabel(entry.data.type)}
@@ -401,8 +369,8 @@ const companyHref = (e: (typeof allEntries)[number]) => `/${lang}/companies/${co
   {priceAsOf && (
     <p class="mt-2 text-xs text-neutral-500 dark:text-neutral-400">
       {isJa
-        ? `現在の株価は${priceAsOf}時点の終値です。差額は、目標株価と現在の株価の差（％）です。`
-        : `Current prices are end-of-day closes as of ${priceAsOf}. "vs target" is the percentage gap between the target price and the current price.`}
+        ? `現在の株価は${priceAsOf}時点の終値です。J-Coreはレーティングと目標株価を出していません。`
+        : `Current prices are end-of-day closes as of ${priceAsOf}. J-Core does not publish ratings or target prices.`}
     </p>
   )}
 </section>
