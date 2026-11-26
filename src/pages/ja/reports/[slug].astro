@@ -7,15 +7,22 @@ import ReportPage from '../../../components/ReportPage.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('reports', ({ data }) => data.lang === 'ja');
+  // Slugs that also have an English page, so the language link and the
+  // hreflang alternates can point at the same report.
+  const other = new Set(
+    (await getCollection('reports', ({ data }) => data.lang === 'en'))
+      .filter((entry) => entry.data.externalUrl.startsWith('/en/reports/'))
+      .map((entry) => entry.id.replace(/-en$/, '')),
+  );
   return entries
     .filter((entry) => entry.data.externalUrl.startsWith('/ja/reports/'))
     .map((entry) => ({
       params: { slug: entry.id.replace(/-ja$/, '') },
-      props: { entry },
+      props: { entry, hasOther: other.has(entry.id.replace(/-ja$/, '')) },
     }));
 }
 
-const { entry } = Astro.props;
+const { entry, hasOther } = Astro.props;
 const { Content } = await render(entry);
 const isJa = 'ja' === 'ja';
 
@@ -34,7 +41,9 @@ const companyHref = COMPANIES.some((c) => c.slug === coSlug) ? `/ja/companies/${
   lang="ja"
   title={`${entry.data.title} | J-Core Fundamental Research`}
   description={`${entry.data.company} (${entry.data.ticker}) — ${entry.data.sector}`}
-  altHref="/en/reports/"
+  altHref={hasOther ? `/en/reports/${base}/` : '/en/reports/'}
+  hasTranslation={hasOther}
+  ogType="article"
   wide={!!model}
 >
   <p class="text-sm text-neutral-500 dark:text-neutral-400">

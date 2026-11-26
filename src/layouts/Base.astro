@@ -12,12 +12,47 @@ interface Props {
   wide?: boolean;
   /** Full-bleed page: the page draws its own sections and containers. */
   bleed?: boolean;
+  /**
+   * False when the page in the other language is NOT a translation of this
+   * one and `altHref` only falls back to that language's index. The hreflang
+   * alternates are then left out, because they must point at genuinely
+   * equivalent pages.
+   */
+  hasTranslation?: boolean;
+  /** 'article' for a single news item, analyst report or industry report. */
+  ogType?: 'website' | 'article';
+  /** Page-specific share image, as a site-absolute path. */
+  image?: string;
 }
 
-const { lang, title, description, altHref, bleed = false } = Astro.props;
+const {
+  lang,
+  title,
+  description,
+  altHref,
+  bleed = false,
+  hasTranslation = true,
+  ogType = 'website',
+  image,
+} = Astro.props;
 const isJa = lang === 'ja';
 const base = isJa ? '/ja' : '/en';
 const path = Astro.url.pathname;
+
+// Sharing and indexing metadata. Open Graph and hreflang both need
+// absolute URLs, built from `site` in astro.config.mjs.
+const SITE_NAME = 'J-Core Fundamental Research';
+const origin = Astro.site ?? new URL('https://kenmorozumi.com');
+const canonical = new URL(path, origin).href;
+const altUrl = new URL(altHref, origin).href;
+const homeUrl = new URL('/', origin).href;
+const ogImage = new URL(image ?? '/og/j-core-og.png', origin).href;
+const locale = isJa ? 'ja_JP' : 'en_US';
+const altLocale = isJa ? 'en_US' : 'ja_JP';
+// The card shows the site name already, so the "| J-Core …" suffix that
+// every <title> carries is dropped from the shared headline.
+const ogTitle = title.replace(/\s*\|\s*J-Core[^|]*$/, '').trim() || title;
+const xHandle = CHANNELS.find((c) => c.name === 'X')?.handle;
 
 const SUBSTACK_URL = 'https://morokenjp.substack.com/';
 
@@ -57,6 +92,36 @@ const year = new Date().getFullYear();
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+
+    <link rel="canonical" href={canonical} />
+    {
+      hasTranslation && (
+        <Fragment>
+          <link rel="alternate" hreflang="ja" href={isJa ? canonical : altUrl} />
+          <link rel="alternate" hreflang="en" href={isJa ? altUrl : canonical} />
+          <link rel="alternate" hreflang="x-default" href={homeUrl} />
+        </Fragment>
+      )
+    }
+
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content={locale} />
+    {hasTranslation && <meta property="og:locale:alternate" content={altLocale} />}
+    <meta property="og:title" content={ogTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={SITE_NAME} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    {xHandle && <meta name="twitter:site" content={xHandle} />}
+    <meta name="twitter:title" content={ogTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
     <link rel="icon" type="image/svg+xml" href="/icon.svg" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />

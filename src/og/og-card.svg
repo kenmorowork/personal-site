@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#081527"/>
+  <g transform="translate(0,285)">
+    <rect x="0" y="0" width="1200" height="630" fill="#081527"/>
+    <rect x="0" y="0" width="1200" height="6" fill="#E2583F"/>
+    <g transform="translate(154,162) scale(3.6)">
+      <rect x="3" y="7" width="28" height="8" fill="#FFFFFF"/>
+      <rect x="11" y="20" width="20" height="8" fill="#FFFFFF" opacity="0.75"/>
+      <rect x="31" y="20" width="8" height="8" fill="#E2583F"/>
+      <rect x="19" y="33" width="26" height="8" fill="#FFFFFF" opacity="0.5"/>
+      <text x="62" y="33" font-family="'Noto Serif JP','Noto Serif',Georgia,serif" font-size="27" font-weight="500" fill="#FFFFFF">J-Core</text>
+      <text x="166" y="33" font-family="Helvetica,Arial,sans-serif" font-size="10.5" letter-spacing="3.2" fill="#AEB8C6">RESEARCH</text>
+    </g>
+    <text x="600" y="424" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="26" letter-spacing="1.2" fill="#AEB8C6">FUNDAMENTAL RESEARCH ON JAPANESE EQUITIES</text>
+    <text x="600" y="478" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" letter-spacing="0.6" fill="#8C98A8">Industrials &#183; Materials &#183; Energy &#8212; Tokyo</text>
+  </g>
+</svg>

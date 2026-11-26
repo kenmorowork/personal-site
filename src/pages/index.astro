@@ -2,6 +2,15 @@
 // Root: send visitors to their language tree, with manual links as fallback.
 import '../styles/global.css';
 import { NAME, TAGLINE } from '../data/site';
+
+// The root URL is the one people share most, so it carries the same
+// sharing and indexing metadata as the pages inside the language trees.
+const SITE_NAME = 'J-Core Fundamental Research';
+const DESCRIPTION =
+  'Ken — JP Equity Analyst (Industrials, Materials, others) | Tokyo |';
+const origin = Astro.site ?? new URL('https://kenmorozumi.com');
+const url = (p: string) => new URL(p, origin).href;
+const ogImage = url('/og/j-core-og.png');
 ---
 
 <!doctype html>
@@ -10,10 +19,31 @@ import { NAME, TAGLINE } from '../data/site';
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{NAME} — {TAGLINE}</title>
-    <meta
-      name="description"
-      content="Ken — JP Equity Analyst (Industrials, Materials, others) | Tokyo |"
-    />
+    <meta name="description" content={DESCRIPTION} />
+
+    <link rel="canonical" href={url('/')} />
+    <link rel="alternate" hreflang="ja" href={url('/ja/')} />
+    <link rel="alternate" hreflang="en" href={url('/en/')} />
+    <link rel="alternate" hreflang="x-default" href={url('/')} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:title" content={NAME} />
+    <meta property="og:description" content={DESCRIPTION} />
+    <meta property="og:url" content={url('/')} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={SITE_NAME} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@moro_ken_jp" />
+    <meta name="twitter:title" content={NAME} />
+    <meta name="twitter:description" content={DESCRIPTION} />
+    <meta name="twitter:image" content={ogImage} />
+
     <link rel="icon" type="image/svg+xml" href="/icon.svg" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />

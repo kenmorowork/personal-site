@@ -23,6 +23,8 @@ const slug = newsSlug(entry.id);
   title={`${entry.data.title} | J-Core Research`}
   description={entry.data.summary.slice(0, 160)}
   altHref={hasOther ? `/ja/news/${slug}/` : '/ja/news/'}
+  hasTranslation={hasOther}
+  ogType="article"
 >
   <NewsArticle lang="en" entry={entry} newer={newer} older={older} />
 </Base>
