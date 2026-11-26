@@ -27,7 +27,7 @@
         margin: 0;
         background: var(--paper);
         color: var(--ink);
-        font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", serif;
+        font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', system-ui, sans-serif;
         font-size: 15px;
         line-height: 1.7;
       }
@@ -409,7 +409,7 @@ body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:72rem!im
         --accent: #f5f5f5;
       }
       body { font-family: ui-sans-serif, system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif; }
-      h1.title, h2.sec, .tb-sub { font-family: ui-serif, Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", serif; }
+      h1.title, h2.sec, .tb-sub { font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', system-ui, sans-serif; }
 
       /* ----- Site header (mirrors src/layouts/Base.astro) ----- */
       .site-header {
@@ -425,7 +425,7 @@ body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:72rem!im
         display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.5rem;
       }
       .site-brand {
-        font-family: ui-serif, Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", serif; font-size: 1.125rem; font-weight: 600;
+        font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', system-ui, sans-serif; font-size: 1.125rem; font-weight: 600;
         letter-spacing: -0.01em; color: #171717; text-decoration: none;
       }
       html.dark .site-brand { color: #f5f5f5; }
@@ -461,17 +461,16 @@ body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:72rem!im
       .fn-search input:focus { outline: 2px solid var(--ink-faint); outline-offset: 1px; }
       .fn-search-status { margin: 8px 0 0; font-size: 13px; color: var(--ink-faint); }
     </style>
-  </head>
+  <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap" />
+</head>
   <body><header class="site-header">
       <div class="site-header-in">
         <a class="site-brand" href="/en/" aria-label="J-Core Research by Ken"><img class="brand-light" src="/brand/jcore/lockup-light.svg" alt="J-Core Fundamental Research" /><img class="brand-dark" src="/brand/jcore/lockup-dark.svg" alt="" aria-hidden="true" /></a>
         <nav class="site-nav" aria-label="Main menu">
           <a href="/en/">Home</a>
-          <a href="/en/news/">News</a>
-          <a href="/en/fieldnotes/">Field Notes</a>
-          <a href="/en/reports/">Reports</a>
-          <a href="/en/portfolio/">Portfolio</a>
-          <a href="/en/about/">About</a>
+          <a href="/en/news/">Markets</a>
+          <a href="/en/reports/">Analyst reports</a>
+          <a href="/en/fieldnotes/" aria-current="page">Industry reports</a>
         </nav>
         <div class="site-tools">
           <a class="site-pill" href="/ja/fieldnotes/" aria-label="日本語に切り替え">日本語</a>
@@ -489,7 +488,7 @@ body .rpt-aidc .x-in,body .rpt-hum .x-in,body .rpt-hvac .x-in{max-width:72rem!im
         <div class="tb-meta">
           <span><b>発行日</b>2026年11月10日</span>
           <span><b>収録範囲</b>トピック 83 件 ／ 13 分類</span>
-          <span><b>レポート種別</b>統計・VC（バリューチェーン）・産業レポート（77件）</span>
+          <span><b>レポート種別</b>統計・VC（バリューチェーン）・業界レポート（78件）</span>
         </div>
       </header>
 

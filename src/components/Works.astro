@@ -8,7 +8,7 @@ const { lang } = Astro.props;
 const isJa = lang === 'ja';
 ---
 
-<h1 class="font-display text-3xl font-semibold tracking-tight">Works / Content</h1>
+<h1 class="font-display text-[clamp(28px,3.2vw,38px)] leading-tight">Works / Content</h1>
 
 <p class="mt-6 max-w-prose leading-relaxed">
   {
@@ -25,7 +25,7 @@ const isJa = lang === 'ja';
         href={c.url}
         target="_blank"
         rel="noopener noreferrer"
-        class="group rounded-lg border border-neutral-200 p-5 transition hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600"
+        class="group border border-neutral-200 p-5 transition hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600"
       >
         <div class="flex items-baseline justify-between gap-2">
           <span class="font-display text-lg font-semibold">{c.name}</span>

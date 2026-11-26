@@ -207,11 +207,11 @@ const num = (i: number) => String(i + 1).padStart(2, '0');
 ---
 
 <article class="max-w-3xl">
-  <h1 class="font-display text-3xl font-semibold tracking-tight">{t.h1}</h1>
+  <h1 class="font-display text-[clamp(28px,3.2vw,38px)] leading-tight">{t.h1}</h1>
   <p class="mt-4 leading-relaxed">{t.lede}</p>
   <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">{t.updated} {UPDATED}</p>
 
-  <nav class="mt-8 rounded-lg border border-neutral-200 p-5 text-sm dark:border-neutral-800" aria-label="TOC">
+  <nav class="mt-8 border border-neutral-200 p-5 text-sm dark:border-neutral-800" aria-label="TOC">
     <ol class="grid gap-1 sm:grid-cols-2">
       {toc.map((label, i) => (
         <li><a href={`#p${i + 1}`} class="underline-offset-4 hover:underline"><span class="mr-2 text-neutral-400">{num(i)}</span>{label}</a></li>
@@ -223,11 +223,11 @@ const num = (i: number) => String(i + 1).padStart(2, '0');
     <h2 class={h2}><span class="mr-2 text-neutral-400">01</span>{t.s1}</h2>
     <p class="mt-3 leading-relaxed">{t.s1p}</p>
     <div class="mt-5 grid gap-5 sm:grid-cols-2">
-      <div class="rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+      <div class="border border-neutral-200 p-5 dark:border-neutral-800">
         <h3 class="text-sm font-semibold">{t.doTitle}</h3>
         <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-relaxed">{t.dos.map((x) => <li>{x}</li>)}</ul>
       </div>
-      <div class="rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+      <div class="border border-neutral-200 p-5 dark:border-neutral-800">
         <h3 class="text-sm font-semibold">{t.dontTitle}</h3>
         <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-relaxed">{t.donts.map((x) => <li>{x}</li>)}</ul>
       </div>

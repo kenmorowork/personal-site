@@ -1,5 +1,6 @@
 ---
 import CompanyChart from './CompanyChart.astro';
+import { reportSector } from './labels';
 
 /**
  * Company page in the shape Ken approved with the Fanuc MVP
@@ -8,7 +9,7 @@ import CompanyChart from './CompanyChart.astro';
  * a plain share-price chart; then the report history, unchanged from the previous pages.
  *
  * Elements only — no summary paragraphs, no extra cards. Palette:
- * white / light gray / charcoal with one accent, deep navy #0a2e5c.
+ * white / light gray / charcoal with one accent, deep navy #0a2a52.
  * J-Core publishes no ratings or target prices, so the page shows
  * none (see /ja/policy/).
  */
@@ -128,7 +129,7 @@ const fmtHistDate = (d: Date) =>
       });
 const badgeOf = (e: any): string => {
   if (e.id.includes('results')) return isJa ? '決算' : 'Results';
-  if (e.data.type === 'initiation') return isJa ? 'イニシエーション' : 'Initiation';
+  if (e.data.type === 'initiation') return isJa ? 'カバレッジ開始' : 'Initiation';
   return isJa ? 'アップデート' : 'Update';
 };
 
@@ -170,7 +171,7 @@ if (p.photoFile && p.photoCredit) {
       <div class="cp-name">{primaryName}</div>
       <div class="cp-name-sub">{secondaryName}</div>
       <div class="cp-meta">
-        <span>{company.ticker}</span><span>{company.sector}</span><span
+        <span>{company.ticker}</span><span>{reportSector(company.sector, p.lang)}</span><span
           >{p.market}</span
         >
       </div>
@@ -262,7 +263,7 @@ if (p.photoFile && p.photoCredit) {
                 href={e.data.externalUrl}
                 class="group flex items-baseline gap-3 px-1 py-3"
               >
-                <span class="shrink-0 rounded-full border border-neutral-300 px-2 py-0.5 text-[11px] font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300">
+                <span class="shrink-0 border border-neutral-300 px-2 py-0.5 text-[11px] font-medium text-neutral-600 dark:border-neutral-700 dark:text-neutral-300">
                   {badgeOf(e)}
                 </span>
                 <span class="shrink-0 text-sm whitespace-nowrap text-neutral-500 tabular-nums dark:text-neutral-400">
@@ -318,19 +319,19 @@ if (p.photoFile && p.photoCredit) {
   .cp-name-sub {
     margin-top: 4px;
     font-size: 13px;
-    color: #6f6f6f;
+    color: #5a6474;
     letter-spacing: 0.04em;
   }
   .cp-meta {
     margin-top: 14px;
     font-size: 12.5px;
-    color: #6f6f6f;
+    color: #5a6474;
     letter-spacing: 0.06em;
   }
   .cp-meta span + span::before {
     content: '·';
     margin: 0 10px;
-    color: #c4c4c4;
+    color: #cbd2dc;
   }
   .cp-photo {
     width: 330px;
@@ -340,27 +341,27 @@ if (p.photoFile && p.photoCredit) {
   }
   .cp-rule {
     border: none;
-    border-top: 2px solid #0a2e5c;
+    border-top: 2px solid #0a2a52;
     margin-top: 28px;
   }
   .cp-band {
     display: flex;
     margin-top: 34px;
-    border-top: 1px solid #e3e3e3;
-    border-bottom: 1px solid #e3e3e3;
+    border-top: 1px solid #e2e6ec;
+    border-bottom: 1px solid #e2e6ec;
   }
   .cp-cell {
     flex: 1;
     padding: 22px 28px 24px 0;
   }
   .cp-cell + .cp-cell {
-    border-left: 1px solid #e3e3e3;
+    border-left: 1px solid #e2e6ec;
     padding-left: 28px;
   }
   .cp-label {
     font-size: 10.5px;
     letter-spacing: 0.18em;
-    color: #8a8a8a;
+    color: #8c98a8;
     font-weight: 600;
   }
   .cp-big {
@@ -373,7 +374,7 @@ if (p.photoFile && p.photoCredit) {
   .cp-sub {
     margin-top: 6px;
     font-size: 12.5px;
-    color: #6f6f6f;
+    color: #5a6474;
     font-variant-numeric: tabular-nums;
   }
   .cp-neg {
@@ -389,7 +390,7 @@ if (p.photoFile && p.photoCredit) {
   }
   .cp-p-label {
     font-size: 11px;
-    color: #8a8a8a;
+    color: #8c98a8;
     letter-spacing: 0.08em;
   }
   .cp-p-val {
@@ -400,11 +401,11 @@ if (p.photoFile && p.photoCredit) {
   }
   .cp-foot {
     margin-top: 34px;
-    border-top: 1px solid #e3e3e3;
+    border-top: 1px solid #e2e6ec;
     padding-top: 14px;
     font-size: 11px;
     line-height: 1.7;
-    color: #9a9a9a;
+    color: #8c98a8;
   }
   :global(.dark) .cp-band,
   :global(.dark) .cp-cell + .cp-cell,
@@ -414,7 +415,7 @@ if (p.photoFile && p.photoCredit) {
   :global(.dark) .cp-name-sub,
   :global(.dark) .cp-meta,
   :global(.dark) .cp-sub {
-    color: #a3a3a3;
+    color: #8c98a8;
   }
   @media (max-width: 760px) {
     .cp-head {
