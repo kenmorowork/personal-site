@@ -4,13 +4,9 @@
  "currency": "JPY",
  "source": "Yahoo Finance",
  "frequency": "daily closes",
- "from": "2025-11-25",
- "to": "2026-11-24",
+ "from": "2025-11-26",
+ "to": "2026-11-25",
  "closes": [
-  {
-   "time": "2025-11-25",
-   "value": 4034.0
-  },
   {
    "time": "2025-11-26",
    "value": 4088.0
@@ -974,6 +970,10 @@
   {
    "time": "2026-11-24",
    "value": 3199.0
+  },
+  {
+   "time": "2026-11-25",
+   "value": 3252.0
   }
  ]
 }
