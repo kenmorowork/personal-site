@@ -44,7 +44,7 @@ const footerAbout = [
   { href: `${base}/about/`, label: 'About' },
   { href: `${base}/works/`, label: isJa ? '実績' : 'Works' },
   { href: `${base}/contact/`, label: isJa ? 'お問い合わせ' : 'Contact' },
-  { href: `${base}/policy/`, label: isJa ? 'レポートの方針と開示' : 'Report policy and disclosures' },
+  { href: `${base}/policy/`, label: isJa ? '免責事項' : 'Disclaimer' },
 ];
 
 const year = new Date().getFullYear();
@@ -185,7 +185,7 @@ const year = new Date().getFullYear();
                 : 'This site is for information only and is not a recommendation to buy or sell any security. Investment decisions are your own.'
             }{' '}
             <a href={`${base}/policy/`} class="text-neutral-200 underline underline-offset-4">
-              {isJa ? 'レポートの方針と開示' : 'Report policy and disclosures'}
+              {isJa ? '免責事項' : 'Disclaimer'}
             </a>
           </p>
           <p>© {year} {NAME}</p>

@@ -21,14 +21,14 @@ const groupJa = {
 
 <Base
   lang="ja"
-  title={`${entry.data.title} | FIELDNOTES 産業レポート No.${entry.data.no}`}
-  description={`FIELDNOTES産業レポート No.${entry.data.no}「${entry.data.title}」の全文。データ・カットオフは2026年11月16日です。`}
+  title={`${entry.data.title} | 業界レポート | J-Core Research`}
+  description={`業界レポート「${entry.data.title}」の全文です。`}
   altHref="/en/fieldnotes/"
 >
   <p class="text-sm text-neutral-500 dark:text-neutral-400">
     <a class="hover:underline" href="/ja/">ホーム</a> ／ <a class="hover:underline" href="/ja/fieldnotes/">業界レポート</a> ／ {groupJa}
   </p>
-  <p class="num mt-4 text-xs font-semibold tracking-[0.08em] text-navy dark:text-sky">業界レポート No.{entry.data.no}</p>
+  <p class="num mt-4 text-xs font-semibold tracking-[0.08em] text-navy dark:text-sky">業界レポート</p>
   <h1 class="mt-2 font-display text-[clamp(28px,3.2vw,38px)] leading-snug">{entry.data.title}</h1>
   {entry.data.titleEn && (
     <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">{entry.data.titleEn}</p>
