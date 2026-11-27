@@ -149,11 +149,7 @@ History: founded in 1983 in Taipei by KC Liu, Chaney Ho and Huang Yu-ming, initi
 
 ## Basis of preparation
 
-Historical financials: Advantech audited financial statements FY2021–25 and segment notes, as compiled in the PL/segment sheet 2395_Advantech_PL.xlsx (all template model checks = 0). Latest quarter and guidance: company 3Q 2026 results release (29 Oct 2026) and investor-conference transcript (4 Nov 2026, company IR). Market data: Finnhub and StockAnalysis.com, 13–16 Nov 2026. Market share: third-party estimate (Verified Market Research, 2026) — no official series exists. Gaps: the KPI table covers five audited years (FY2021–25), not the 10–11 years of the Shared Research benchmark — extension from FY2016–20 annual reports is outstanding; the top-shareholder table and a full cash-flow history were not extracted; regional profit is not disclosed by the company. The rating and price target on page 1 are placeholders ('Under Review') pending the analyst's own judgement; company guidance is labelled as such wherever used, and no forecast in this report is the author's estimate.
-
----
-
-Rating (as stated in the report): Under Review
+Historical financials: Advantech audited financial statements FY2021–25 and segment notes, as compiled in the PL/segment sheet 2395_Advantech_PL.xlsx (all template model checks = 0). Latest quarter and guidance: company 3Q 2026 results release (29 Oct 2026) and investor-conference transcript (4 Nov 2026, company IR). Market data: Finnhub and StockAnalysis.com, 13–16 Nov 2026. Market share: third-party estimate (Verified Market Research, 2026) — no official series exists. Gaps: the KPI table covers five audited years (FY2021–25), not the 10–11 years of the Shared Research benchmark — extension from FY2016–20 annual reports is outstanding; the top-shareholder table and a full cash-flow history were not extracted; regional profit is not disclosed by the company.
 
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 

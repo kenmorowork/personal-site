@@ -1,0 +1,200 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import type { Lang } from '../data/site';
+import { companiesIn, companyName, fmtDate, fmtLong, newsBodyHtml, newsHref, newsSector, reportKind } from './labels';
+import pricesData from '../data/prices.json';
+import { fmtPrice } from './labels';
+
+interface Props {
+  lang: Lang;
+  entry: CollectionEntry<'news'>;
+  newer: CollectionEntry<'news'> | null;
+  older: CollectionEntry<'news'> | null;
+}
+const { lang, entry, newer, older } = Astro.props;
+const isJa = lang === 'ja';
+const base = isJa ? '/ja' : '/en';
+const d = entry.data;
+const cat = newsSector(d.sector, lang);
+const body = newsBodyHtml(entry.body);
+const sourceHost = (() => {
+  try {
+    return new URL(d.externalUrl).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+})();
+
+// Coverage companies named in the item, with their latest close.
+const prices = ((pricesData as { prices?: Record<string, { price: number; currency: string }> }).prices ?? {});
+const cos = companiesIn(`${d.title} ${d.summary}`).slice(0, 6);
+
+// Analyst commentary: the newest weekly and sector reports.
+const reports = (await getCollection('reports', ({ data }) => data.lang === lang)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+const commentary = [
+  reports.find((r) => reportKind(r.data.company) === 'weekly'),
+  reports.find((r) => reportKind(r.data.company) === 'sector'),
+].filter(Boolean) as typeof reports;
+const reportsWithCos = new Map<string, (typeof reports)[number]>();
+for (const r of reports) {
+  for (const c of cos) {
+    if (!reportsWithCos.has(c.slug) && companyName(r.data.company, 'en').toLowerCase().includes(c.slug.split('-')[0])) {
+      reportsWithCos.set(c.slug, r);
+    }
+  }
+}
+---
+
+<p class="text-[13px] text-neutral-500 dark:text-neutral-400">
+  <a href={`${base}/`} class="hover:underline">{isJa ? 'ホーム' : 'Home'}</a> ／
+  <a href={`${base}/news/`} class="hover:underline">{isJa ? 'マーケット・ニュース' : 'Market news'}</a> ／
+  {isJa ? '記事' : 'Article'}
+</p>
+
+<div class="mt-6 grid gap-12 lg:grid-cols-[minmax(0,1fr)_300px]">
+  <article class="max-w-3xl">
+    <div class="flex flex-wrap items-center gap-3 text-xs">
+      <span class="bg-navy px-2 py-0.5 font-semibold tracking-[0.04em] text-white dark:bg-sky dark:text-neutral-950">{cat}</span>
+      <time class="num text-neutral-500 dark:text-neutral-400" datetime={d.date.toISOString()}>{fmtLong(d.date, lang)}</time>
+    </div>
+    <h1 class="font-display mt-4 text-[clamp(24px,2.6vw,32px)] leading-[1.45]">{d.title}</h1>
+    <p class="mt-5 border-l-4 border-navy pl-4 text-[17px] leading-[1.85] text-neutral-700 dark:border-sky dark:text-neutral-200">{d.summary}</p>
+
+    {body && <div class="news-body mt-8" set:html={body} />}
+
+    {
+      cos.length > 0 && (
+        <div class="mt-10 border-t border-neutral-200 pt-5 dark:border-neutral-800">
+          <h2 class="text-sm font-semibold">{isJa ? '記事に出てくるカバレッジ銘柄' : 'Covered companies in this item'}</h2>
+          <div class="mt-3 flex flex-wrap gap-2">
+            {cos.map((c) => {
+              const p = prices[c.ticker];
+              return (
+                <a
+                  href={`${base}/companies/${c.slug}/`}
+                  class="inline-flex items-baseline gap-2 border border-neutral-300 px-3 py-2 text-sm hover:border-navy dark:border-neutral-700 dark:hover:border-sky"
+                >
+                  <span class="font-semibold">{companyName(c.name, lang)}</span>
+                  <span class="num text-xs text-neutral-500 dark:text-neutral-400">{c.ticker}</span>
+                  {p && <span class="num text-xs text-neutral-600 dark:text-neutral-300">{fmtPrice(p.price, p.currency)}</span>}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )
+    }
+
+    <div class="mt-10 flex flex-wrap items-center justify-between gap-4 border-t border-neutral-200 pt-5 dark:border-neutral-800">
+      <p class="text-[13.5px] text-neutral-600 dark:text-neutral-300">
+        {isJa ? '出典：' : 'Source: '}{sourceHost}{' '}
+        <a href={d.externalUrl} target="_blank" rel="noopener noreferrer" class="font-semibold text-navy hover:underline dark:text-sky">
+          {isJa ? '元の記事を開く ↗' : 'Open the source ↗'}
+        </a>
+      </p>
+      <div class="flex gap-2">
+        <a
+          href={`https://x.com/intent/post?text=${encodeURIComponent(d.title)}&url=${encodeURIComponent(`https://kenmorozumi.com${newsHref(entry.id, lang)}`)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="border border-neutral-300 px-3.5 py-2 text-[13px] font-semibold hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900"
+        >
+          {isJa ? 'Xでシェア' : 'Share on X'}
+        </a>
+        <button
+          type="button"
+          data-copy={`https://kenmorozumi.com${newsHref(entry.id, lang)}`}
+          class="copy-link border border-neutral-300 px-3.5 py-2 text-[13px] font-semibold hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900"
+        >
+          {isJa ? 'リンクをコピー' : 'Copy link'}
+        </button>
+      </div>
+    </div>
+
+    <nav aria-label={isJa ? '前後の記事' : 'Adjacent items'} class="mt-8 grid gap-4 sm:grid-cols-2">
+      {
+        older ? (
+          <a href={newsHref(older.id, lang)} class="border border-neutral-200 p-4 hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600">
+            <span class="text-xs text-neutral-500 dark:text-neutral-400">{isJa ? '← 前の記事' : '← Previous'}</span>
+            <span class="mt-1 block text-sm leading-snug font-semibold">{older.data.title}</span>
+          </a>
+        ) : <span />
+      }
+      {
+        newer && (
+          <a href={newsHref(newer.id, lang)} class="border border-neutral-200 p-4 text-right hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600">
+            <span class="text-xs text-neutral-500 dark:text-neutral-400">{isJa ? '次の記事 →' : 'Next →'}</span>
+            <span class="mt-1 block text-sm leading-snug font-semibold">{newer.data.title}</span>
+          </a>
+        )
+      }
+    </nav>
+    <p class="mt-6 text-[13px]">
+      <a href={`${base}/news/archive/`} class="font-semibold text-navy hover:underline dark:text-sky">{isJa ? '過去のニュースはアーカイブへ →' : 'News archive →'}</a>
+    </p>
+  </article>
+
+  <aside class="flex flex-col gap-6 lg:sticky lg:top-28 lg:self-start">
+    <div>
+      <h2 class="border-b-2 border-neutral-900 pb-2 text-sm font-semibold dark:border-neutral-300">{isJa ? 'アナリストの解説' : 'Analyst commentary'}</h2>
+      <ul>
+        {
+          commentary.map((r) => (
+            <li class="border-b border-neutral-200 py-3 dark:border-neutral-800">
+              <a href={r.data.externalUrl} class="block hover:underline">
+                <span class="text-xs text-neutral-500 dark:text-neutral-400">
+                  {reportKind(r.data.company) === 'weekly' ? (isJa ? '週次マーケットレポート' : 'Weekly market report') : isJa ? 'セクター・アップデート' : 'Sector update'}
+                  {' · '}<span class="num">{fmtDate(r.data.date, lang)}</span>
+                </span>
+                <span class="mt-1 block text-sm leading-snug font-semibold">{r.data.title}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+      <a href={`${base}/reports/`} class="mt-3 inline-block text-[13px] font-semibold text-navy hover:underline dark:text-sky">
+        {isJa ? 'アナリストレポートへ →' : 'Analyst reports →'}
+      </a>
+    </div>
+    <div class="bg-neutral-50 p-5 dark:bg-neutral-900">
+      <h2 class="font-semibold">{isJa ? 'メールで受け取る' : 'Get it by email'}</h2>
+      <p class="mt-1.5 text-[13px] leading-relaxed text-neutral-600 dark:text-neutral-300">
+        {isJa ? '新着のニュースとレポートを、Substackでお届けします。無料です。' : 'New news and reports via Substack, free.'}
+      </p>
+      <a href="https://morokenjp.substack.com/subscribe" class="mt-3 inline-block bg-navy px-4 py-2.5 text-sm font-semibold text-white hover:bg-neutral-900 dark:bg-sky dark:text-neutral-950">
+        {isJa ? '無料で登録する' : 'Subscribe free'}
+      </a>
+    </div>
+  </aside>
+</div>
+
+<style>
+  .news-body :global(p) {
+    margin: 0 0 1.1em;
+    font-size: 16px;
+    line-height: 1.9;
+  }
+  .news-body :global(a) {
+    color: var(--color-navy);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  :global(.dark) .news-body :global(a) {
+    color: var(--color-sky);
+  }
+</style>
+
+<script is:inline>
+  document.querySelectorAll('.copy-link').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var t = b.getAttribute('data-copy');
+      try {
+        navigator.clipboard.writeText(t).then(function () {
+          b.textContent = document.documentElement.lang === 'ja' ? 'コピーしました' : 'Copied';
+        });
+      } catch (e) {}
+    });
+  });
+</script>

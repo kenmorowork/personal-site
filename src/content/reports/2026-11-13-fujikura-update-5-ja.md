@@ -60,12 +60,6 @@ What would settle the question is order commentary: hyperscaler capex plans for 
 
 Three items. First, the Q3 FY27 print (expected February 2027): quarterly OP against the roughly ¥117bn H1 quarterly average, and any revision to the FY guide. Second, US hyperscaler capex commentary through the December quarter — Fujikura's Information & Communications segment is a direct read-across. Third, the share price itself: **at ¥2,906 the stock trades on 26.3x trailing earnings (Finnhub, 13 Nov) after a six-month fall of about 63%, so expectations have already reset hard**.
 
-This update is an example note prepared for format purposes; the rating and price target are under review pending a full model update.
-
----
-
-Rating (as stated in the report): Under Review
-
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
 The analyst named above certifies that they do not hold securities of the subject company as of the date of this report.

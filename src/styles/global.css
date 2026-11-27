@@ -3,14 +3,65 @@
 /* Class-based dark mode (toggled by the button in the header). */
 @custom-variant dark (&:where(.dark, .dark *));
 
-body {
-  font-family:
-    ui-sans-serif, system-ui, -apple-system, "Hiragino Kaku Gothic ProN",
-    "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+/*
+ * J-Core design tokens.
+ * The neutral scale is remapped to the J-Core slate-navy so every page
+ * that uses neutral-* picks up the house palette in light and dark mode.
+ */
+@theme {
+  --font-sans: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans",
+    "Yu Gothic UI", system-ui, sans-serif;
+
+  --color-neutral-50: #f4f6f9;
+  --color-neutral-100: #eef2f7;
+  --color-neutral-200: #e2e6ec;
+  --color-neutral-300: #cbd2dc;
+  --color-neutral-400: #8c98a8;
+  --color-neutral-500: #5a6474;
+  --color-neutral-600: #3a4454;
+  --color-neutral-700: #2a3342;
+  --color-neutral-800: #1c2c44;
+  --color-neutral-900: #0b1220;
+  --color-neutral-950: #081527;
+
+  --color-navy: #0a2a52;
+  --color-night: #081527;
+  --color-sky: #86aee0;
+  --color-accent: #c2412d;
+  --color-accent-dark: #e2583f;
 }
 
+body {
+  font-family: var(--font-sans);
+}
+
+/* One family for the whole site; headings use weight, not a serif. */
 .font-display {
-  font-family:
-    ui-serif, Georgia, "Times New Roman", "Hiragino Mincho ProN",
-    "Yu Mincho", serif;
+  font-family: var(--font-sans);
+  font-weight: 600;
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Section heading row: title + note on the left, link on the right. */
+.jc-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  border-bottom: 2px solid var(--color-neutral-900);
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.75rem;
+}
+.dark .jc-head {
+  border-color: var(--color-neutral-300);
+}
+
+.jc-wrap {
+  margin-inline: auto;
+  max-width: 1200px;
+  padding-inline: clamp(20px, 4vw, 48px);
 }

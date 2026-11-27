@@ -34,9 +34,7 @@ const reports = defineCollection({
     type: z.enum(['initiation', 'update']),
     externalUrl: z.string(),
     lang,
-    // Optional J-Core view, carried only by reports that state one.
-    rating: z.string().optional(),
-    targetPrice: z.string().optional(),
+    // J-Core publishes no ratings or target prices (see /ja/policy/).
   }),
 });
 

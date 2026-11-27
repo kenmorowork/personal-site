@@ -9,11 +9,11 @@
   "sectorLine": "Global Equity Research",
   "companyName": "NVIDIA Corporation (NVDA)",
   "headlineHtml": "Q3 FY27: <strong>revenue US$115.8bn beats the guide by 7%; Q4 guided to US$130bn as Vera Rubin ships</strong> — margins step down, China stays at zero",
-  "rating": "Under Review",
+  "rating": "",
   "priceLabel": "Price (20 Nov 26)",
   "priceValue": "US$125.5",
-  "targetLabel": "Price Target",
-  "targetValue": "Under review",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "20 November 2026",
   "keyData": [
@@ -56,8 +56,8 @@
   "analystName": "Ken",
   "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
   "analystEntity": "J-Core Fundamental Research",
-  "ledeLeadHtml": "Under review:",
-  "ledeHtml": "We keep our rating and price target for NVIDIA under review, as set on 12 Nov following the resignation of founder-CEO Jensen Huang. The Q3 FY27 print re-anchors the story on fundamentals — <strong>a 7% revenue beat against the company's own guide and a Q4 outlook above consensus</strong> — but the succession question is untouched by it, and the first formal outlook under interim CEO Colette Kress carries a gross-margin step-down that the market will interrogate.",
+  "ledeLeadHtml": "",
+  "ledeHtml": "The Q3 FY27 print re-anchors the story on fundamentals — <strong>a 7% revenue beat against the company's own guide and a Q4 outlook above consensus</strong> — but the succession question is untouched by it, and the first formal outlook under interim CEO Colette Kress carries a gross-margin step-down that the market will interrogate.",
   "bullets": [
     {
       "leadHtml": "Beat on every line.",
@@ -156,14 +156,14 @@
       "type": "section",
       "heading": "Q4 guidance: growth with a margin step-down",
       "level": "section",
-      "html": "<p>Q4 FY27 revenue guidance of US$130.0bn ±3% sits about 4% above LSEG consensus of ~US$125.3bn and implies +12% QoQ — with the caveat that Q4 contains an additional (14th) week, so the underlying weekly run-rate growth is lower than the headline.</p>\n<p>The offset is margin: GAAP and non-GAAP gross margin are guided to 71.0–72.0%, roughly 3 points below Q3's print. Rack-scale systems carry more pass-through content (memory, networking, assembly) per revenue dollar than board-level product, so a Rubin-led mix mechanically dilutes percentage margin even as gross profit dollars grow — at the guide midpoint, Q4 gross profit would be ~US$93bn versus US$86.6bn in Q3. <mark>Whether 71–72% is a ramp trough or the new Rubin-era level is the single most important question on the call</mark>.</p>\n<p>China remains excluded: the outlook assumes no Data Center compute revenue from China, even though Q3 included US$2.4bn of Hopper shipments there. Any licensed China compute revenue is therefore pure upside to the guide — and, after the 17 Nov BIS interim final rule closed the cloud-access loophole, also the least predictable line in the model.</p>",
+      "html": "<p>Q4 FY27 revenue guidance of US$130.0bn ±3% sits about 4% above LSEG consensus of ~US$125.3bn and implies +12% QoQ — with the caveat that Q4 contains an additional (14th) week, so the underlying weekly run-rate growth is lower than the headline.</p>\n<p>The offset is margin: GAAP and non-GAAP gross margin are guided to 71.0–72.0%, roughly 3 points below Q3's print. Rack-scale systems carry more pass-through content (memory, networking, assembly) per revenue dollar than board-level product, so a Rubin-led mix mechanically dilutes percentage margin even as gross profit dollars grow — at the guide midpoint, Q4 gross profit would be ~US$93bn versus US$86.6bn in Q3. <mark>Whether 71–72% is a ramp trough or the new Rubin-era level is the single most important question on the call</mark>.</p>\n<p>China remains excluded: the outlook assumes no Data Center compute revenue from China, even though Q3 included US$2.4bn of Hopper shipments there.</p>",
       "figures": []
     },
     {
       "type": "section",
       "heading": "Governance: a clean first print does not settle succession",
       "level": "section",
-      "html": "<p>The print was delivered under interim CEO Colette Kress, five days after Jensen Huang's resignation took effect. Operationally, nothing slipped: the guide was beaten, the Rubin ramp started on schedule, and the outlook was raised. That supports the view that near-term execution is institutional rather than personal.</p>\n<p>What the print does not do is name a permanent CEO, set a timetable, or close the governance file — a closed-door congressional briefing connected to the circumstances of the departure was scheduled for 18 Nov (US). <strong>Until a permanent appointment is made, a key-man discount can re-attach to the shares on any headline, regardless of fundamentals</strong>. We therefore keep the rating under review.</p>",
+      "html": "<p>The print was delivered under interim CEO Colette Kress, five days after Jensen Huang's resignation took effect. Operationally, nothing slipped: the guide was beaten, the Rubin ramp started on schedule, and the outlook was raised. That supports the view that near-term execution is institutional rather than personal.</p>\n<p>What the print does not do is name a permanent CEO, set a timetable, or close the governance file — a closed-door congressional briefing connected to the circumstances of the departure was scheduled for 18 Nov (US). <strong>Until a permanent appointment is made, a key-man discount can re-attach to the shares on any headline, regardless of fundamentals</strong>.</p>",
       "figures": []
     },
     {
@@ -177,11 +177,11 @@
       "type": "section",
       "heading": "What we monitor next",
       "level": "section",
-      "html": "<p>Three things. First, the permanent CEO appointment — any name, timetable or further board change re-prices the governance discount immediately. Second, Q4 gross margin delivery against the 71–72% guide, and the first FY28 margin framing: trough or new level decides how the Rubin cycle is valued. Third, China: Hopper shipments under licence, and any licensing practice under the BIS cloud rule, are unmodelled upside with binary timing.</p>\n<p>On the demand side, <strong>hyperscaler capex guides in January will either validate the US$518bn commitment stack or mark its peak</strong>. We will revisit the rating once succession is resolved.</p>",
+      "html": "<p>Three things. First, the permanent CEO appointment — any name, timetable or further board change re-prices the governance discount immediately. Second, Q4 gross margin delivery against the 71–72% guide, and the first FY28 margin framing: trough or new level decides how the Rubin cycle is valued.</p>\n<p>On the demand side, <strong>hyperscaler capex guides in January will either validate the US$518bn commitment stack or mark its peak</strong>.</p>",
       "figures": []
     }
   ],
-  "showRatingHistory": true,
+  "showRatingHistory": false,
   "ratingHistory": [],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report. This report is not a recommendation to buy or sell; J-Core does not publish ratings or target prices."
 }

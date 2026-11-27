@@ -9,11 +9,11 @@
   "sectorLine": "Global Equity Research",
   "companyName": "Global Markets — Week of 16–20 November 2026",
   "headlineHtml": "The print was fine, the price was not: <strong>Nvidia beat and guided up, Anthropic priced the largest IPO on record — and the AI complex still fell into correction</strong>",
-  "rating": "Not Rated",
+  "rating": "",
   "priceLabel": "Nikkei 225 (20 Nov close)",
   "priceValue": "56,436.65 (−7.70% w/w)",
-  "targetLabel": "Next catalyst",
-  "targetValue": "Tokyo reopen — Tue 24 Nov",
+  "targetLabel": "",
+  "targetValue": "",
   "upside": "",
   "priceAsOf": "",
   "keyData": [],
@@ -218,7 +218,7 @@
     },
     {
       "type": "section",
-      "heading": "Part 3 — Catalysts, ideas and the week ahead",
+      "heading": "Part 3 — Catalysts and the week ahead",
       "level": "part",
       "html": "",
       "figures": []
@@ -298,14 +298,7 @@
     },
     {
       "type": "section",
-      "heading": "6. Idea candidates — candidates only",
-      "level": "section",
-      "html": "<p>1) Japan machinery/FA price-volume gap: orders +13.4% YoY vs AI-beta pricing; catalyst 24 Nov reopen and 16 Dec October orders; kill on cancellations/weak print; valuation 未取得. 2) Power equipment as the non-GPU leg: 800VDC/345kV/TCSC/SST flow vs chip-derivative pricing; kill on a hyperscaler capex cut; valuation 未取得. 3) <strong>Nvidia probe discount vs demand case: $125.84, −47% from the October high, on an unproven reported examination</strong>; monitoring candidate only until facts change; kill on a formal order or restatement; valuation 未取得. Full PM-frame text in the Markdown copy.</p>",
-      "figures": []
-    },
-    {
-      "type": "section",
-      "heading": "7. Week ahead — 23 to 27 November (JST)",
+      "heading": "6. Week ahead — 23 to 27 November (JST)",
       "level": "section",
       "html": "<p>Mon 23 Nov Tokyo closed (Labour Thanksgiving Day); futures ¥54,600 is Tuesday's reference. <strong>Tue 24 Nov Tokyo reopen</strong>. US data/Fed speakers into the December FOMC (Dec +25bp near-priced). Thu 26 Nov US Thanksgiving, US closed. Fri 27 Nov month-end positioning; watch for Nvidia company comment and Anthropic follow-through.</p>",
       "figures": []
@@ -313,5 +306,5 @@
   ],
   "showRatingHistory": false,
   "ratingHistory": [],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution."
+  "holdingsLine": "筆者は、本レポートの日付時点で対象会社各社の有価証券を保有していないことを表明します。 本レポートは売買を勧めるものではなく、J-Coreはレーティングと目標株価を出していません。"
 }

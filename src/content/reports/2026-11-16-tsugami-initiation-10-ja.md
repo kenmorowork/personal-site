@@ -9,7 +9,7 @@ externalUrl: "/ja/reports/2026-11-16-tsugami-initiation-10/"
 lang: ja
 ---
 
-The Swiss-type lathe specialist, earning record profit in China. Tsugami Corporation (6101, TSE Prime) is a precision machine-tool builder centred on CNC precision automatic lathes — sliding-headstock, or Swiss-type, lathes that turn small, slender, high-tolerance parts — supplemented by grinding machines, machining centres, thread-rolling and special-purpose machines. Revenue rose 20.2% YoY to ¥129,140mn in FY3/26 and **operating profit rose 54.9% to ¥36,102mn (28.0% margin)**, both records, and the company raised FY3/27 company guidance at Q2 (12 November 2026) to revenue ¥160,000mn and operating profit ¥48,000mn (Company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin, 12 November 2026). Strengths: a dominant, locally manufactured position in China — the China entity-location segment delivered ¥103,476mn of sales (80.1% of consolidated) at a 30.1% segment margin in FY3/26 and is anchored by Hong Kong-listed Precision Tsugami (China) Corporation Limited (HKEX: 1651), in which Tsugami held about 65.9% at 31 March 2026 — a balance sheet with ¥42,180mn of cash against ¥9,010mn of borrowings at end-FY3/26, and a dividend raised every year in the sheet period (¥40 in FY3/22 to ¥85 in FY3/26, ¥122 forecast for FY3/27). Weaknesses: extreme geographic concentration — **79.9% of FY3/26 sales were to customers in China** — a large non-controlling interest that absorbed ¥7,573mn (31.1%) of FY3/26 net income, a loss-making or near-breakeven record in Japan, India and Korea in several recent years, and disclosure that omits orders, backlog, R&D and unit volumes in the tanshin, limiting visibility. No rating or price target is assigned in this initiation; both are under review (see Basis of preparation).
+The Swiss-type lathe specialist, earning record profit in China. Tsugami Corporation (6101, TSE Prime) is a precision machine-tool builder centred on CNC precision automatic lathes — sliding-headstock, or Swiss-type, lathes that turn small, slender, high-tolerance parts — supplemented by grinding machines, machining centres, thread-rolling and special-purpose machines. Revenue rose 20.2% YoY to ¥129,140mn in FY3/26 and **operating profit rose 54.9% to ¥36,102mn (28.0% margin)**, both records, and the company raised FY3/27 company guidance at Q2 (12 November 2026) to revenue ¥160,000mn and operating profit ¥48,000mn (Company results via PL/segment sheet (tanshin, JPX archive); Q2 FY3/27 tanshin, 12 November 2026). Strengths: a dominant, locally manufactured position in China — the China entity-location segment delivered ¥103,476mn of sales (80.1% of consolidated) at a 30.1% segment margin in FY3/26 and is anchored by Hong Kong-listed Precision Tsugami (China) Corporation Limited (HKEX: 1651), in which Tsugami held about 65.9% at 31 March 2026 — a balance sheet with ¥42,180mn of cash against ¥9,010mn of borrowings at end-FY3/26, and a dividend raised every year in the sheet period (¥40 in FY3/22 to ¥85 in FY3/26, ¥122 forecast for FY3/27). Weaknesses: extreme geographic concentration — **79.9% of FY3/26 sales were to customers in China** — a large non-controlling interest that absorbed ¥7,573mn (31.1%) of FY3/26 net income, a loss-making or near-breakeven record in Japan, India and Korea in several recent years, and disclosure that omits orders, backlog, R&D and unit volumes in the tanshin, limiting visibility.
 
 **Figure 1. Figure 1. Key indicators and financial history (¥mn unless per share; FY = year ended 31 March)**
 
@@ -42,7 +42,6 @@ The Swiss-type lathe specialist, earning record profit in China. Tsugami Corpora
 | Market cap | ¥161.0bn |
 | 52-week range | ¥2,583 – ¥8,630 |
 | P/E (FY3/26 actual EPS) | 10.7x (¥3,875 / ¥361.20) |
-| P/E (FY3/27E co. guidance EPS) | 7.9x (¥3,875 / ¥492.66) |
 | Dividend (FY3/27E, co. forecast) | ¥122 per share (¥61 interim + ¥61 year-end) |
 | Next event | Q3 FY3/27 results — late Jan 2027 (Finnhub lists 28 Jan 2027) |
 
@@ -227,11 +226,7 @@ Sources. Historical financials, segments, regional (customer-location) sales and
 
 Not disclosed / not obtained: order intake and order backlog (not disclosed in the tanshin), R&D expenditure (not disclosed in the tanshin), production/sales units, capacity and utilisation (not disclosed), product-line and customer-location profit (not disclosed), a verified primary-source top-10 shareholder table, and a quantified medium-term plan (none located). Employee headcount is from the FY3/26 business report, not the tanshin.
 
-Rating and target: the rating ('Under Review') and price target ('Under review') in this report are placeholders under the Editor programme standard for initiations prepared from public filings without a completed valuation; they are not a recommendation. This report follows the Shared Research depth skeleton (summary with strengths and weaknesses, KPI history, latest update, business description, market and value chain, segments, financial statements, strategy, other information) and adds the Editor's rating rail. All figures are in Japanese yen millions unless stated per share.
-
----
-
-Rating (as stated in the report): Under Review
+All figures are in Japanese yen millions unless stated per share.
 
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 

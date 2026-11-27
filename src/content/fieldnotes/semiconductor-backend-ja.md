@@ -556,4 +556,4 @@ FY2025は売上5,767億ウォン・営業利益率43.6%[10]と、TCボンダの�
 
 ---
 
-*FIELDNOTES Industrial Report No. 54 — 半導体後工程（組立装置）。Draft for Ken's review. 次の更新は主要各社の四半期決算（Besi Q4 2026、TOWA Q3 FY2026、ASMPT FY2026）と、HBM4E の接合方式に関する顧客側の公表に合わせる。*
+*FIELDNOTES Industrial Report No. 54 — 半導体後工程（組立装置）。次の更新は主要各社の四半期決算（Besi Q4 2026、TOWA Q3 FY2026、ASMPT FY2026）と、HBM4E の接合方式に関する顧客側の公表に合わせる。*

@@ -1,5 +1,5 @@
 ---
-title: "簿価を下回る株価、賃貸不動産の含み益88,048百万円と、売却方針が明確になった投資有価証券216,299百万円です。オーバーウェイトでカバレッジを開始します。目標株価は4,500円です。"
+title: "簿価を下回る株価、賃貸不動産の含み益88,048百万円と、売却方針が明確になった投資有価証券216,299百万円です。"
 company: "The Sumitomo Warehouse Co., Ltd."
 ticker: "9303"
 sector: "Warehousing & Logistics"
@@ -7,11 +7,9 @@ date: 2026-11-24
 type: initiation
 externalUrl: "/ja/reports/2026-11-24-the-sumitomo-warehouse-initiation-67/"
 lang: ja
-rating: "Overweight"
-targetPrice: "¥4,500"
 ---
 
-簿価を下回る物流企業であり、賃貸不動産の含み益88,048百万円と政策保有株式の売却方針が評価の差を埋める材料となります ― オーバーウェイト、目標株価4,500円 J-Core Fundamental Researchは、住友倉庫のカバレッジをオーバーウェイトで開始します。12カ月のベースケース目標株価は4,500円であり、2026年11月24日の終値3,835円を17.3%上回ります。業績を見るうえで最も実態に近いのは営業利益です。2026年3月期の営業利益は、人件費や作業諸費の上昇と不動産取得税の負担により、前期比14.0%減の11,413百万円でした。一方で、親会社株主に帰属する当期純利益は17,668百万円となり、投資有価証券売却益5,618百万円となにわ筋線に関する受取補償金5,132百万円に支えられました。投資判断の軸は三つあります。第一に物流料金への価格転嫁です。第二に、利益率40.1%の不動産事業とその含み益です。第三に、2026〜2030年度の中期経営計画が示した政策保有株式60,000百万円の売却と、2027年3月期に上限200万株・7,000百万円とされた自社株買いを含む株主還元です。
+簿価を下回る物流企業であり、賃貸不動産の含み益88,048百万円と政策保有株式の売却方針があります
 
 **Key data**
 
@@ -29,7 +27,6 @@ targetPrice: "¥4,500"
 - **2026年3月期の決算 ― 実態を見るには営業利益です** 営業収益は196,244百万円（前期比1.5%増）、営業利益は11,413百万円（同14.0%減）、経常利益は15,808百万円、当期純利益は17,668百万円でした。純利益には証券売却益5,618百万円と補償金5,132百万円が含まれますので、事業の実力を見るには営業利益が適しています。
 - **不動産事業は収益の5.3%で、セグメント利益の24.5%を生みます** 物流事業が営業収益185,909百万円、利益13,538百万円（利益率7.3%）であり、不動産事業が営業収益10,335百万円、利益4,383百万円（利益率40.1%）でした。
 - **賃貸不動産の含み益は88,048百万円です** 賃貸等不動産の簿価は85,091百万円であり、時価は173,139百万円でした。含み益は88,048百万円（算出）となり、自己資本の約28%に相当します。1株当たりでは税引前で約1,155円（算出）となります。
-- **バリュエーション ― 簿価割れで、基本ケースがオーバーウェイトを支えます** 株価3,835円でPER16.6倍（EPS230.86円）、PBR0.93倍（BPS4,117.89円）、配当利回り2.69%（DPS103円）、ROE6.1%です。ベースケースの目標株価4,500円（+17.3%）はオーバーウェイトの基準である+15%を超えます。シナリオの幅は3,100円（−19.2%）から5,400円（+40.8%）までの60.0ポイントです。
 - **中期経営計画の実行力が最大の論点です** 中期経営計画2026-2030（2026年3月31日公表）は、2031年3月期に営業収益280,000百万円、営業利益16,000百万円、ROE8%を目標とし、累計投資165,000百万円、政策保有株式の売却60,000百万円、DPSの下限103円とDOE3.5〜4.5%を掲げています。5年間で収益を43%増やす計画は過去の実績に照らして意欲的です。
 
 ## 1. 事業の内容
@@ -130,33 +127,20 @@ targetPrice: "¥4,500"
 
 *Source: J-Core estimates. Company guidance for FY3/2027 (issued 12 May 2026, reaffirmed 5 Nov 2026) is revenue ¥200,000mn, operating profit ¥12,200mn, net income ¥17,200mn, EPS ¥228.68, DPS ¥103; J-Core adopts guidance revenue, adds ¥200mn to operating profit for ahead-of-plan H1 progress (H1 progress: revenue 51.8%, OP 55.0%, net income 54.8%), and trims net income by ¥200mn for a smaller assumed compensation receipt. FY3/2028E assumes logistics price pass-through lifting the OP margin toward 6.4%, normalised (smaller) securities-sale and compensation gains, and continuing buybacks. Growth rates in brackets are year on year. See Section 4 for the full bridge and assumptions.*
 
-## 5. バリュエーションとシナリオ
+評価手法はPBRとROEの関係を主軸とします。株価が簿価を下回る水準（0.93倍）にあり、制約条件が利益の勢いではなく資本収益率にあるためです。補助線としてPERと資産価値を確認します。BPS4,117.89円に税引前の含み益約1,155円を加えた資産価値は約5,273円となり、株価3,835円は約27%のディスカウント（算出）となります。
 
-評価手法はPBRとROEの関係を主軸とします。株価が簿価を下回る水準（0.93倍）にあり、制約条件が利益の勢いではなく資本収益率にあるためです。補助線としてPERと資産価値を確認します。BPS4,117.89円に税引前の含み益約1,155円を加えた資産価値は約5,273円となり、株価3,835円は約27%のディスカウント（算出）となります。シナリオは図表に示しました。
+図表9では過去1年間の株価推移を示しています。
 
-シナリオの幅は−19.2%から+40.8%までの60.0ポイントです。レーティングは、基本ケースの+17.3%がオーバーウェイトの基準である+15%以上に該当するため、オーバーウェイトとします。中立は−10%から+15%、アンダーウェイトは−10%以下であり、投資期間は12カ月です。
-
-図表9では過去1年間の株価推移を示しています。3つのシナリオ水準と現在株価の比較は図表10に示しています。
-
-図表10では、現在株価に対するシナリオの幅をまとめています。
-
-**Figure 9. バリュエーションのシナリオ ― 12か月の期間（J-Core予想）**
-
-| Scenario | Target price (¥) | vs ¥3,835 | Key differing assumptions |
 |---|---|---|---|
 | 強気 | 5400 | +40.8% | ROE reaches the plan's 8% path early; pass-through completes; real-estate recycling surfaces value; P/B re-rates to about 1.25x |
 | 基本 | 4500 | +17.3% | ROE improves toward 7%; OP follows the J-Core path; policy-share sales and buybacks proceed as planned; P/B about 1.05x forward book |
 | 弱気 | 3100 | -19.2% | Cost inflation outruns pass-through, OP stays near ¥11,000mn, plan execution slips, P/B de-rates to about 0.75x |
 
-*Source: J-Core scenario analysis. Primary method P/B–ROE (shares trade below book at 0.93x), cross-checked on P/E and on an asset view: BPS ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at ¥3,835 (J-Core calculations). Range width: −19.2% to +40.8%, a span of 60.0 percentage points. Rating thresholds: Overweight ≥ +15%, Neutral −10% to +15%, Underweight ≤ −10% (12-month horizon); the base case (+17.3%) supports Overweight.*
+Primary method P/B–ROE (shares trade below book at 0.93x), cross-checked on P/E and on an asset view: BPS ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at ¥3,835 (J-Core calculations). Range width: −19.2% to +40.8%, a span of 60.0 percentage points.
 
 **Figure 10. 株価 ― 2025年11月25日から2026年11月24日までの日次終値（円）**
 
-*Source: The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330). The J-Core scenario levels in this report — bear ¥3,100, base ¥4,500, bull ¥5,400 — and the current price of ¥3,835 at 24 November 2026 are compared in Figure 10.*
-
-**Figure 11. バリュエーションのシナリオレンジ ― ベア3,100円からブル5,400円まで、ベース4,500円と現在株価3,835円を示しています（1株当たり、円）**
-
-*Source: J-Core scenario analysis, as in the valuation scenarios table in this report. Range width: −19.2% to +40.8% versus the current price of ¥3,835, a span of 60.0 percentage points; the base case of ¥4,500 is +17.3%.*
+*Source: The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330).
 
 ## 6. リスクと経営戦略
 
@@ -167,10 +151,6 @@ targetPrice: "¥4,500"
 ## 7. 作成の前提
 
 出典は、2026年3月期決算短信（2026年5月12日、セグメント注記、賃貸等不動産注記、2027年3月期予想を含みます）、2027年3月期第2四半期決算短信と説明資料（2026年11月5日、16日）、中期経営計画2026-2030（2026年3月31日）、統合報告書2025の財務サマリー（2017〜2025年3月期）、同業の9301と9302の開示資料、そして本文に出典を明記した矢野経済研究所、経済産業省、国土交通省、CBRE、一五不動産情報サービスの資料です。株価は2026年11月24日の終値3,835円であり、二次的な市場データによるものです。J-Coreの予想にはすべて「J-Core予想」と明記しています。未取得の項目は正直に記載します。セグメント推移の百万円単位の精度は2025年3月期と2026年3月期のみであり、それ以前は二次資料の概数か未取得です。海外収益の推移は未取得です。2026年11月24日時点の発行済株式数は一次資料では未取得であり、時価総額292,281百万円は2026年3月31日時点の自己株式控除後76,214,140株で算出した上限値です。2026年3月期の有価証券報告書そのものは一次PDFを開いておらず、決算短信と明記した二次資料の抜粋で代替しています。
-
----
-
-Rating (as stated in the report): Overweight
 
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 

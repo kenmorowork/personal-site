@@ -1,7 +1,7 @@
 ---
 // ReportPage — renders a research report in the Research Report
 // Editor's own format (the A4 sell-side layout: masthead, left body
-// column, right rail with rating / price / target / key data), from
+// column, right rail with price / key data), from
 // the render-model JSON the publish bridge generates per report and
 // language (src/data/reports/<base>-<lang>.json). The sheet stays a
 // light "paper" surface in both site themes, like the printed page.
@@ -27,27 +27,33 @@ interface BlockModel {
 interface Props {
   model: any;
   lang: 'ja' | 'en';
+  /** Company page for this report, when the company has one. */
+  companyHref?: string | null;
 }
-const { model, lang } = Astro.props as Props;
+const { model, lang, companyHref = null } = Astro.props as Props;
 const isJa = lang === 'ja';
 const L = {
   keyPoints: isJa ? 'キーポイント' : 'Key points',
-  rating: isJa ? 'レーティング' : 'Rating',
   keyData: isJa ? '主要データ' : 'Key data',
   analyst: isJa ? 'アナリスト' : 'Analyst',
-  upside: isJa ? 'アップサイド' : 'Upside / downside',
-  ratingHistory: isJa ? 'レーティング履歴' : 'Rating history',
   rhDate: isJa ? '日付' : 'Date',
   rhPrice: isJa ? '株価' : 'Price',
-  rhTarget: isJa ? '目標株価' : 'Target',
   figure: isJa ? '図表' : 'Figure',
 };
 const blocks: BlockModel[] = model.blocks ?? [];
+// Contents list: the report's own section headings, in order.
+const toc = blocks
+  .map((b, i) => ({ b, id: `rs-${i}` }))
+  .filter(({ b }) => b.type === 'section' && b.heading)
+  .map(({ b, id }) => ({ id, heading: b.heading as string, part: b.level === 'part' }));
+// Disclosure rows (the same items on every report; see the policy page).
+const holdingText = (() => {
+  const h: string = model.holdingsLine ?? '';
+  const m = isJa ? h.match(/^[^。]*。/) : h.match(/^.*?\.(\s|$)/);
+  return (m ? m[0] : h).trim();
+})();
 const bullets = model.bullets ?? [];
 const keyData = model.keyData ?? [];
-const ratingHistory = model.ratingHistory ?? [];
-const upsideStr: string = model.upside ?? '';
-const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWith('−');
 ---
 
 <article class="rpt-sheet">
@@ -113,7 +119,7 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
             {block.figure.sourceHtml && <p class="rpt-source" set:html={block.figure.sourceHtml} />}
           </figure>
         ) : block.type === 'section' ? (
-          <section class="rpt-section">
+          <section class="rpt-section" id={`rs-${blocks.indexOf(block)}`}>
             {block.heading && <h2>{block.heading}</h2>}
             {block.html && <div class="rpt-body" set:html={block.html} />}
             {block.figures?.map((f: FigureModel) => (
@@ -148,50 +154,25 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
         ) : null
       )}
 
-      {model.showRatingHistory && ratingHistory.length > 0 && (
-        <section class="rpt-section">
-          <h2>{L.ratingHistory}</h2>
-          <div class="rpt-tablewrap">
-            <table class="rpt-table">
-              <thead>
-                <tr><th>{L.rhDate}</th><th>{L.rating}</th><th>{L.rhPrice}</th><th>{L.rhTarget}</th></tr>
-              </thead>
-              <tbody>
-                {ratingHistory.map((r: any) => (
-                  <tr><td>{r.date}</td><td>{r.rating}</td><td>{r.price}</td><td>{r.target}</td></tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </section>
-      )}
-
-      {model.holdingsLine && <p class="rpt-holdings">{model.holdingsLine}</p>}
+      <section class="rpt-disc" aria-labelledby="rpt-disc-h">
+        <h2 id="rpt-disc-h">{isJa ? '開示' : 'Disclosures'}</h2>
+        <dl>
+          <dt>{isJa ? '筆者' : 'Author'}</dt><dd>Ken（J-Core Research）</dd>
+          {holdingText && <Fragment><dt>{isJa ? '対象銘柄の保有' : 'Holdings'}</dt><dd>{holdingText}</dd></Fragment>}
+          <dt>{isJa ? '報酬' : 'Compensation'}</dt><dd>{isJa ? '対象会社から報酬や便宜を受けていません' : 'No payment or benefit is received from the subject companies'}</dd>
+          <dt>{isJa ? 'レーティング' : 'Ratings'}</dt><dd>{isJa ? 'J-Coreはレーティングと目標株価を出していません。本レポートは売買を勧めるものではありません。' : 'J-Core publishes no ratings or price targets. This report is not a recommendation to buy or sell.'}</dd>
+        </dl>
+        <p><a href={isJa ? '/ja/policy/' : '/en/policy/'}>{isJa ? '免責事項 →' : 'Disclaimer →'}</a></p>
+      </section>
     </div>
 
     <aside class="rpt-rail">
-      <div class="rpt-ratingbox">
-        <div class="rpt-raillabel">{L.rating}</div>
-        <div class="rpt-ratingvalue">{model.rating}</div>
-      </div>
       <dl class="rpt-railrows">
         {model.priceValue && (
           <div class="rpt-railrow">
             <dt>{model.priceLabel}</dt>
             <dd>{model.priceValue}</dd>
             {model.priceAsOf && <p class="rpt-asof">{model.priceAsOf}</p>}
-          </div>
-        )}
-        {model.targetValue && (
-          <div class="rpt-railrow">
-            <dt>{model.targetLabel}</dt>
-            <dd>{model.targetValue}</dd>
-          </div>
-        )}
-        {upsideStr && (
-          <div class="rpt-railrow">
-            <dt>{L.upside}</dt>
-            <dd class={upsideNeg ? 'rpt-down' : 'rpt-up'}>{upsideStr}</dd>
           </div>
         )}
       </dl>
@@ -215,6 +196,21 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
         </div>
       )}
 
+      {companyHref && (
+        <p class="rpt-colink"><a href={companyHref}>{isJa ? '会社ページ →' : 'Company page →'}</a></p>
+      )}
+
+      {toc.length > 1 && (
+        <nav class="rpt-toc" aria-label={isJa ? '目次' : 'Contents'}>
+          <h4>{isJa ? '目次' : 'Contents'}</h4>
+          <ol>
+            {toc.map((t) => (
+              <li class={t.part ? 'is-part' : ''}><a href={`#${t.id}`}>{t.heading}</a></li>
+            ))}
+          </ol>
+        </nav>
+      )}
+
       {model.analystName && (
         <div class="rpt-analyst">
           <h4>{L.analyst}</h4>
@@ -229,18 +225,36 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
 
 <style>
   .rpt-sheet {
-    --navy: #10294f;
+    --navy: #0a2a52;
     --ink: #1c2733;
     --mut: #5b6b7f;
     --line: #d8dde6;
     background: #fff;
     color: var(--ink);
-    border: 1px solid var(--line);
-    box-shadow: 0 1px 3px rgba(16, 24, 40, 0.08), 0 16px 40px rgba(16, 24, 40, 0.08);
-    padding: 44px 48px 40px;
+    padding: 0;
     font-size: 15px;
     line-height: 1.75;
   }
+  /* Dark mode keeps the report as a light sheet so tables and figures read as printed. */
+  :global(.dark) .rpt-sheet {
+    padding: 36px 40px 32px;
+  }
+  .rpt-section { scroll-margin-top: 110px; }
+  .rpt-colink { margin: 18px 0 0; font-size: 13.5px; font-weight: 700; }
+  .rpt-colink a, .rpt-disc a, .rpt-toc a { color: var(--navy); text-decoration: none; }
+  .rpt-colink a:hover, .rpt-disc a:hover, .rpt-toc a:hover { text-decoration: underline; }
+  .rpt-toc { margin-top: 22px; position: sticky; top: 96px; }
+  .rpt-toc h4 { margin: 0 0 8px; font-size: 11px; font-weight: 700; letter-spacing: 0.14em; color: var(--mut); border-bottom: 2px solid var(--ink); padding-bottom: 6px; }
+  .rpt-toc ol { list-style: none; margin: 0; padding: 0; }
+  .rpt-toc li a { display: block; padding: 6px 0; border-bottom: 1px solid var(--line); font-size: 12.5px; line-height: 1.5; color: var(--ink); }
+  .rpt-toc li.is-part a { font-weight: 700; color: var(--navy); }
+  .rpt-disc { margin-top: 40px; border-top: 2px solid var(--ink); padding-top: 14px; }
+  .rpt-disc h2 { margin: 0 0 10px; font-size: 17px; font-weight: 700; }
+  .rpt-disc dl { display: grid; grid-template-columns: 160px minmax(0, 1fr); gap: 8px 16px; margin: 0; font-size: 13.5px; line-height: 1.7; }
+  .rpt-disc dt { color: var(--mut); }
+  .rpt-disc dd { margin: 0; }
+  .rpt-disc p { margin: 14px 0 0; font-size: 13px; font-weight: 700; }
+  @media (max-width: 640px) { .rpt-disc dl { grid-template-columns: 1fr; gap: 2px; } .rpt-disc dd { margin-bottom: 8px; } }
   .rpt-firmrow {
     display: flex;
     flex-wrap: wrap;
@@ -251,7 +265,7 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
     padding-bottom: 10px;
   }
   .rpt-firm {
-    font-family: Georgia, 'Times New Roman', 'Hiragino Mincho ProN', 'Yu Mincho', serif;
+    font-family: var(--font-sans);
     font-size: 21px;
     font-weight: 700;
     letter-spacing: 0.01em;
@@ -339,11 +353,6 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
     line-height: 1.65;
   }
   .rpt-rail { font-size: 13.5px; }
-  .rpt-ratingbox {
-    border: 1.5px solid var(--navy);
-    padding: 12px 14px;
-    text-align: left;
-  }
   .rpt-raillabel {
     font-size: 11px;
     font-weight: 700;
@@ -351,7 +360,6 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
     text-transform: uppercase;
     color: var(--mut);
   }
-  .rpt-ratingvalue { font-size: 21px; font-weight: 700; color: var(--navy); line-height: 1.3; }
   .rpt-railrows { margin: 14px 0 0; }
   .rpt-railrow { border-bottom: 1px solid var(--line); padding: 8px 0; }
   .rpt-railrow dt { font-size: 11.5px; color: var(--mut); }
@@ -381,10 +389,11 @@ const upsideNeg = upsideStr.trim().startsWith('-') || upsideStr.trim().startsWit
   .rpt-sheet :global(.rt-red) { color: #b3261e; }
   .rpt-sheet :global(.rt-blue) { color: #175cd3; }
   .rpt-sheet :global(.rt-green) { color: #067647; }
-  .rpt-sheet :global(.rt-navy) { color: #10294f; }
+  .rpt-sheet :global(.rt-navy) { color: #0a2a52; }
   .rpt-sheet :global(.fig-ref) { font-size: 0.72em; }
   @media (max-width: 900px) {
-    .rpt-sheet { padding: 26px 20px 24px; }
+    :global(.dark) .rpt-sheet { padding: 26px 20px 24px; }
+    .rpt-toc { position: static; }
     .rpt-grid { grid-template-columns: 1fr; gap: 22px; }
     .rpt-rail { order: -1; }
     .rpt-company { font-size: 21px; }

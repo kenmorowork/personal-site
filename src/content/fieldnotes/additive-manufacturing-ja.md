@@ -506,4 +506,4 @@ Sapphire シリーズ（サポートレスに近い造形を標榜する金属PB
 
 ---
 
-*End of report — FIELDNOTES Industrial Report No. 47 アディティブ製造、draft for Ken's review、data cut-off 2026-11-16。*
+*End of report — FIELDNOTES Industrial Report No. 47 アディティブ製造、data cut-off 2026-11-16。*

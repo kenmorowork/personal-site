@@ -1,0 +1,57 @@
+---
+import type { Lang } from '../data/site';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const isJa = lang === 'ja';
+const base = isJa ? '/ja' : '/en';
+const UPDATED = '2026-11-26';
+
+const ITEMS_JA: string[] = [
+  "本サイト（kenmorozumi.com）に掲載するレポート、ニュース、データ、図表その他の情報（以下「本情報」）は、情報提供のみを目的としたものです。特定の有価証券その他の金融商品の売買や取引を勧誘・推奨するものではありません。",
+  "筆者は、金融商品取引法にもとづく金融商品取引業（投資助言・代理業を含む）の登録を受けていません。本情報は、特定の人に向けた投資助言ではありません。個別の投資相談にはお答えしません。",
+  "本サイトは、レーティング（Buy、Overweight など）、目標株価、妥当株価、上昇余地、期待リターンを出していません。",
+  "本情報は、筆者が作成時点で信頼できると判断した公開情報（会社の開示資料、官公庁・業界団体の統計、報道など）にもとづいていますが、その正確性、完全性、適時性、有用性を保証するものではありません。出典の資料自体に誤りがある場合や、出典が後から訂正される場合があります。",
+  "本情報には、将来の見込み、予測、試算が含まれることがあります。これらは作成時点の前提にもとづくもので、実際の結果は、経済環境、市場の動き、会社の事業その他のさまざまな要因によって、大きく異なる場合があります。",
+  "株価、指標、為替などの数値は、表示した日付時点のものです。単位の換算や端数の処理により、合計が一致しない場合があります。過去の株価やパフォーマンスは、将来の結果を示すものではありません。",
+  "マーケット・ニュースは、第三者の報道や会社の発表をもとに、要点を短くまとめたものです。自動で収集・要約・翻訳しているため、誤りや欠落が含まれることがあります。正確な内容は、各記事に示した出典で確認してください。証券会社などの第三者による評価や目標株価を紹介する場合も、その内容を筆者が支持するものではありません。",
+  "投資に関する最終的な判断は、ご自身の判断と責任で行ってください。本情報の利用、またはこれにもとづく行為によって生じたいかなる損害（直接・間接を問いません）についても、筆者は責任を負いません。",
+  "本情報は、予告なく変更、更新、削除することがあります。筆者は、本情報を最新の状態に保つ義務を負いません。誤りが見つかった場合は、わかった時点で訂正します。",
+  "本サイトは筆者個人の活動です。掲載する内容は筆者個人の見解であり、筆者の勤務先その他の所属先の見解を示すものではありません。",
+  "筆者は、公表されていない重要な情報を本情報に用いません。会社や関係者から、公表されていない情報を受け取ることもしません。",
+  "筆者は、本サイトで取り上げる会社から、報酬や便宜を受けていません。対象銘柄の保有の有無は、各レポートの末尾に記載します。",
+  "本サイトからリンクしている外部のサイトの内容について、筆者は責任を負いません。",
+  "本サイトの文章、図表、画像その他のコンテンツの著作権は、特に記載がない限り筆者に帰属します。私的利用や法律で認められた引用の範囲を超えて、無断で転載・複製・改変・再配布することはできません。会社名、ロゴ、商品名は、各社の商標または登録商標です。",
+  "本免責事項は、予告なく変更することがあります。本サイトの利用には、日本法が適用されます。"
+];
+const ITEMS_EN: string[] = [
+  "The reports, news, data, charts and other information on this site (kenmorozumi.com) (the \"Information\") are provided for information only. They are not a solicitation or recommendation to buy, sell or trade any security or other financial instrument.",
+  "The author is not registered as a financial instruments business operator (including investment advisory and agency business) under the Financial Instruments and Exchange Act of Japan. The Information is not investment advice to any particular person, and the author does not answer individual investment questions.",
+  "This site does not publish ratings (such as Buy or Overweight), price targets, fair values, upside or expected returns.",
+  "The Information is based on public information (company disclosures, government and industry statistics, news reports and similar) that the author believed reliable at the time of writing, but its accuracy, completeness, timeliness and usefulness are not guaranteed. Source materials may themselves contain errors or be corrected later.",
+  "The Information may include forward-looking statements, forecasts and estimates. These rest on assumptions at the time of writing, and actual results may differ materially because of economic conditions, market movements, company business and many other factors.",
+  "Share prices, metrics, exchange rates and other figures are as of the date shown. Totals may not add up because of unit conversion and rounding. Past share prices and performance are not a guide to future results.",
+  "Market news items are short summaries of third-party reports and company announcements. They are collected, summarised and translated automatically and may contain errors or omissions; check the source shown with each item. Where third-party ratings or price targets (for example, from brokers) are reported, the author does not endorse them.",
+  "Investment decisions are your own responsibility. The author accepts no liability for any loss, direct or indirect, arising from use of the Information or from any action taken on it.",
+  "The Information may be changed, updated or removed without notice, and the author has no obligation to keep it current. Errors are corrected when found.",
+  "This site is the author's personal activity. Its content is the author's own view and does not represent the views of the author's employer or any other organisation.",
+  "The author does not use material non-public information in the Information and does not receive non-public information from companies or anyone connected with them.",
+  "The author receives no payment or benefit from the companies covered on this site. Whether the author holds the subject securities is stated at the end of each report.",
+  "The author is not responsible for the content of external sites linked from this site.",
+  "Unless stated otherwise, copyright in the text, charts, images and other content of this site belongs to the author. Reproduction, copying, modification or redistribution beyond private use or quotation permitted by law is not allowed. Company names, logos and product names are trademarks or registered trademarks of their owners.",
+  "This disclaimer may be changed without notice. Use of this site is governed by the laws of Japan."
+];
+const items = isJa ? ITEMS_JA : ITEMS_EN;
+---
+
+<p class="text-[13px] text-neutral-500 dark:text-neutral-400">
+  <a href={`${base}/`} class="hover:underline">{isJa ? 'ホーム' : 'Home'}</a> ／ {isJa ? '免責事項' : 'Disclaimer'}
+</p>
+<h1 class="font-display mt-4 text-[clamp(28px,3.2vw,38px)] leading-tight">{isJa ? '免責事項' : 'Disclaimer'}</h1>
+<p class="num mt-2 text-sm text-neutral-500 dark:text-neutral-400">{isJa ? '最終更新' : 'Last updated'} {UPDATED}</p>
+
+<ol class="mt-8 max-w-3xl list-decimal pl-6 text-[15.5px] leading-[1.9] text-neutral-700 marker:text-neutral-400 dark:text-neutral-200">
+  {items.map((t) => <li class="border-b border-neutral-200 py-3.5 pl-1 dark:border-neutral-800">{t}</li>)}
+</ol>

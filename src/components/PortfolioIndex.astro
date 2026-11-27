@@ -20,7 +20,7 @@ const fmt = (d: Date) =>
 const isExternal = (url: string) => url.startsWith('http');
 ---
 
-<h1 class="font-display text-3xl font-semibold tracking-tight">
+<h1 class="font-display text-[clamp(28px,3.2vw,38px)] leading-tight">
   {isJa ? 'ポートフォリオ' : 'Portfolio'}
 </h1>
 
@@ -40,10 +40,10 @@ const isExternal = (url: string) => url.startsWith('http');
         {...(isExternal(item.data.externalUrl)
           ? { target: '_blank', rel: 'noopener noreferrer' }
           : {})}
-        class="group rounded-lg border border-neutral-200 p-5 transition hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600"
+        class="group border border-neutral-200 p-5 transition hover:border-neutral-400 dark:border-neutral-800 dark:hover:border-neutral-600"
       >
         <div class="flex items-baseline justify-between gap-2">
-          <span class="rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:bg-neutral-900 dark:text-neutral-400">
+          <span class="bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:bg-neutral-900 dark:text-neutral-400">
             {item.data.kind}
           </span>
           <time

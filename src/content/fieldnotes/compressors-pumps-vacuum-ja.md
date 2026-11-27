@@ -492,4 +492,4 @@ Ken が会社インタビュー／チャネルチェックでそのまま使え�
 
 ---
 
-*End of Report No. 46 — 圧縮機・ポンプ・真空機器. Draft for Ken's review. Data cut-off 2026-11-16. No buy/sell recommendations are contained in this report.*
+*End of Report No. 46 — 圧縮機・ポンプ・真空機器. Data cut-off 2026-11-16. No buy/sell recommendations are contained in this report.*

@@ -14,7 +14,7 @@ const contactChannels = CHANNELS.filter((c) =>
 );
 ---
 
-<h1 class="font-display text-3xl font-semibold tracking-tight">Contact</h1>
+<h1 class="font-display text-[clamp(28px,3.2vw,38px)] leading-tight">Contact</h1>
 
 <section class="mt-8">
   <h2 class="font-display text-xl font-semibold">{isJa ? 'メール' : 'Email'}</h2>
@@ -28,7 +28,7 @@ const contactChannels = CHANNELS.filter((c) =>
   <p class="mt-3 text-neutral-500 dark:text-neutral-400">
     {/* Placeholder — replace with the real address once the domain mail is live. */}
     {EMAIL_PLACEHOLDER}
-    <span class="ml-2 rounded-full bg-neutral-100 px-2 py-0.5 text-xs dark:bg-neutral-900">
+    <span class="ml-2 bg-neutral-100 px-2 py-0.5 text-xs dark:bg-neutral-900">
       {isJa ? '設定予定' : 'coming soon'}
     </span>
   </p>

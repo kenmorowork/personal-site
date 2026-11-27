@@ -478,4 +478,4 @@ JARA受注額（会員＋非会員）は2022年 **1兆1,118億円** → 2024年 
 
 ---
 
-*FIELDNOTES Industrial Report No. 23 — 産業用ロボットOEM（ドラフト）／ 作成 2026年11月16日 ／ Ken のレビュー用下書きであり、投資推奨ではない。*
+*FIELDNOTES Industrial Report No. 23 — 産業用ロボットOEM（ドラフト）／ 作成 2026年11月16日 ／ 投資推奨ではない。*

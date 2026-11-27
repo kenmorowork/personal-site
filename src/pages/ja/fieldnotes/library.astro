@@ -1,0 +1,12 @@
+---
+// @ts-ignore - raw HTML import of the FIELDNOTES library (topic app)
+import hubHtml from '../../../fieldnotes/hub-ja.html?raw';
+
+// The FIELDNOTES library app, served as-is (its own layout, full width).
+// It carries <base href="/fieldnotes-space/"> so its views keep loading
+// from /fieldnotes-space/. Its topic links pointed at /ja/fieldnotes/#/…;
+// they now point here, where the app lives since the index was rebuilt.
+const html = (hubHtml as string).split('/ja/fieldnotes/#/').join('/ja/fieldnotes/library/#/');
+---
+
+<Fragment set:html={html} />

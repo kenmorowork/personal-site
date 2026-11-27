@@ -509,4 +509,4 @@ No. 9 計測・検査は電気計測・微粒子・プロセス計測を含む�
 
 ---
 
-*End of Report No. 58 — AOI・X線検査. Draft for Ken's review. No buy/sell recommendations. Cross-references: No. 9 計測・検査, No. 24 センサ・画像処理, 半導体製造装置・材料レポート（先端パッケージング検査の装置側）, 電池セル・蓄電レポート（電池 X線の需要側）.*
+*End of Report No. 58 — AOI・X線検査. No buy/sell recommendations. Cross-references: No. 9 計測・検査, No. 24 センサ・画像処理, 半導体製造装置・材料レポート（先端パッケージング検査の装置側）, 電池セル・蓄電レポート（電池 X線の需要側）.*

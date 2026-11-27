@@ -441,4 +441,4 @@ lang: ja
 
 ---
 
-*End of Report No. 27 — 電線・ケーブル（汎用）. Draft for Ken's review. Companion reports: No. 1, No. 4, No. 5, No. 21.*
+*End of Report No. 27 — 電線・ケーブル（汎用）. Companion reports: No. 1, No. 4, No. 5, No. 21.*

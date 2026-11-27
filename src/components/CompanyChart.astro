@@ -1,8 +1,8 @@
 ---
 /**
  * Company-page share price chart: one plain area series of daily
- * closes (Yahoo Finance), with a dashed target-price line when the
- * company's coverage states a J-Core target. Rendering is done by
+ * closes (Yahoo Finance). J-Core publishes no target prices, so no
+ * target line is drawn. Rendering is done by
  * src/scripts/price-chart.ts (shared with the report-page chart).
  */
 interface Close {
@@ -16,28 +16,17 @@ interface Props {
   from: string;
   to: string;
   symbolLabel: string; // e.g. "TDK (6762.T)"
-  target?: number | null;
-  targetText?: string | null; // formatted target, for the source line
 }
 
-const { lang, closes, from, to, symbolLabel, target, targetText } =
+const { lang, closes, from, to, symbolLabel } =
   Astro.props as Props;
 const isJa = lang === 'ja';
 
-const label = isJa ? 'SHARE PRICE — 株価' : 'SHARE PRICE';
+const label = isJa ? '株価チャート' : 'SHARE PRICE';
 const sourceLine = isJa
   ? `出典：Yahoo Finance — ${symbolLabel} 日次終値、${from}〜${to}`
   : `Source: Yahoo Finance — ${symbolLabel} daily closes, ${from} to ${to}`;
-const targetNote =
-  target != null && targetText
-    ? isJa
-      ? `点線は目標株価 ${targetText}です。`
-      : `Dashed line: target price ${targetText}.`
-    : null;
-const payload = JSON.stringify({
-  closes,
-  ...(target != null ? { target } : {}),
-});
+const payload = JSON.stringify({ closes });
 ---
 
 <div class="cp-chart">
@@ -52,7 +41,6 @@ const payload = JSON.stringify({
   </div>
   <p class="cp-source">
     {sourceLine}
-    {targetNote && <span> {targetNote}</span>}
   </p>
   <p class="cp-source">
     Chart by
@@ -70,7 +58,7 @@ const payload = JSON.stringify({
   .cp-chart-label {
     font-size: 10.5px;
     letter-spacing: 0.18em;
-    color: #8a8a8a;
+    color: #8c98a8;
     font-weight: 600;
     margin-bottom: 10px;
   }
@@ -78,7 +66,7 @@ const payload = JSON.stringify({
     margin-top: 8px;
     font-size: 11px;
     line-height: 1.7;
-    color: #9a9a9a;
+    color: #8c98a8;
   }
   .cp-source a {
     text-decoration: underline;

@@ -77,7 +77,10 @@ document
       ...theme.series,
       lineWidth: 2,
       priceLineVisible: false,
-      priceFormat: { type: 'price', precision: 1, minMove: 0.1 },
+      // Yen-sized prices show no decimals; small prices keep two.
+      priceFormat: closes.some((c) => c.value >= 100)
+        ? { type: 'price', precision: 0, minMove: 1 }
+        : { type: 'price', precision: 2, minMove: 0.01 },
     });
     series.setData(
       closes.map((c) => ({ ...c, time: c.time as Time })) as LineData<Time>[],

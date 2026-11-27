@@ -581,4 +581,4 @@ IMA は医薬・化粧品・食品・茶／コーヒー向け自動機の大手�
 
 ---
 
-*FIELDNOTES Industrial Report No. 59 — 包装機械。Draft for Ken's review. Not published to the FIELDNOTES Space. No buy/sell recommendations.*
+*FIELDNOTES Industrial Report No. 59 — 包装機械。Not published to the FIELDNOTES Space. No buy/sell recommendations.*

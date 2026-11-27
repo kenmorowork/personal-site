@@ -8,13 +8,13 @@
   "dateISO": "2026-11-24",
   "sectorLine": "Japan Equity Research",
   "companyName": "The Sumitomo Warehouse Co., Ltd. (9303)",
-  "headlineHtml": "簿価を下回る株価、賃貸不動産の含み益88,048百万円と、売却方針が明確になった投資有価証券216,299百万円です。<strong>オーバーウェイト</strong>でカバレッジを開始します。目標株価は4,500円です。",
-  "rating": "Overweight",
+  "headlineHtml": "簿価を下回る株価、賃貸不動産の含み益88,048百万円と、売却方針が明確になった投資有価証券216,299百万円です。",
+  "rating": "",
   "priceLabel": "Price (24 Nov 26)",
   "priceValue": "¥3,835",
-  "targetLabel": "Price Target",
-  "targetValue": "¥4,500",
-  "upside": "+17.3%",
+  "targetLabel": "",
+  "targetValue": "",
+  "upside": "",
   "priceAsOf": "24 November 2026",
   "keyData": [
     {
@@ -51,8 +51,8 @@
   "analystName": "Ken",
   "analystTitle": "Equity Analyst — Industrials, Materials & Semiconductors",
   "analystEntity": "J-Core Fundamental Research",
-  "ledeLeadHtml": "簿価を下回る物流企業であり、賃貸不動産の含み益88,048百万円と政策保有株式の売却方針が評価の差を埋める材料となります ― オーバーウェイト、目標株価4,500円",
-  "ledeHtml": "J-Core Fundamental Researchは、住友倉庫のカバレッジをオーバーウェイトで開始します。12カ月のベースケース目標株価は4,500円であり、2026年11月24日の終値3,835円を17.3%上回ります。業績を見るうえで最も実態に近いのは営業利益です。2026年3月期の営業利益は、人件費や作業諸費の上昇と不動産取得税の負担により、前期比14.0%減の11,413百万円でした。一方で、親会社株主に帰属する当期純利益は17,668百万円となり、投資有価証券売却益5,618百万円となにわ筋線に関する受取補償金5,132百万円に支えられました。投資判断の軸は三つあります。第一に物流料金への価格転嫁です。第二に、利益率40.1%の不動産事業とその含み益です。第三に、2026〜2030年度の中期経営計画が示した政策保有株式60,000百万円の売却と、2027年3月期に上限200万株・7,000百万円とされた自社株買いを含む株主還元です。",
+  "ledeLeadHtml": "簿価を下回る物流企業であり、賃貸不動産の含み益88,048百万円と政策保有株式の売却方針があります",
+  "ledeHtml": "業績を見るうえで最も実態に近いのは営業利益です。2026年3月期の営業利益は、人件費や作業諸費の上昇と不動産取得税の負担により、前期比14.0%減の11,413百万円でした。一方で、親会社株主に帰属する当期純利益は17,668百万円となり、投資有価証券売却益5,618百万円となにわ筋線に関する受取補償金5,132百万円に支えられました。第一に物流料金への価格転嫁です。第二に、利益率40.1%の不動産事業とその含み益です。第三に、2026〜2030年度の中期経営計画が示した政策保有株式60,000百万円の売却と、2027年3月期に上限200万株・7,000百万円とされた自社株買いを含む株主還元です。",
   "bullets": [
     {
       "leadHtml": "2026年3月期の決算 ― 実態を見るには営業利益です",
@@ -65,10 +65,6 @@
     {
       "leadHtml": "賃貸不動産の含み益は88,048百万円です",
       "html": "賃貸等不動産の簿価は85,091百万円であり、時価は173,139百万円でした。含み益は88,048百万円（算出）となり、自己資本の約28%に相当します。1株当たりでは税引前で約1,155円（算出）となります。"
-    },
-    {
-      "leadHtml": "バリュエーション ― 簿価割れで、基本ケースがオーバーウェイトを支えます",
-      "html": "株価3,835円でPER16.6倍（EPS230.86円）、PBR0.93倍（BPS4,117.89円）、配当利回り2.69%（DPS103円）、ROE6.1%です。ベースケースの目標株価4,500円（+17.3%）はオーバーウェイトの基準である+15%を超えます。シナリオの幅は3,100円（−19.2%）から5,400円（+40.8%）までの60.0ポイントです。"
     },
     {
       "leadHtml": "中期経営計画の実行力が最大の論点です",
@@ -425,60 +421,18 @@
     },
     {
       "type": "section",
-      "heading": "5. バリュエーションとシナリオ",
+      "heading": "5. 現在の株価での指標",
       "level": "part",
-      "html": "<p>評価手法はPBRとROEの関係を主軸とします。株価が簿価を下回る水準（0.93倍）にあり、制約条件が利益の勢いではなく資本収益率にあるためです。補助線としてPERと資産価値を確認します。BPS4,117.89円に税引前の含み益約1,155円を加えた資産価値は約5,273円となり、株価3,835円は約27%のディスカウント（算出）となります。シナリオは図表に示しました。</p>\n<p>シナリオの幅は−19.2%から+40.8%までの60.0ポイントです。レーティングは、基本ケースの+17.3%がオーバーウェイトの基準である+15%以上に該当するため、オーバーウェイトとします。中立は−10%から+15%、アンダーウェイトは−10%以下であり、投資期間は12カ月です。</p>\n<p>図表9では過去1年間の株価推移を示しています。3つのシナリオ水準と現在株価の比較は図表10に示しています。</p>\n<p>図表10では、現在株価に対するシナリオの幅をまとめています。</p>",
+      "html": "<p>公開日の終値で計算できる指標（時価総額、PBR、配当利回りなど）は、主要データの欄に載せています。J-Coreはレーティングと目標株価を出していません。株価の推移は下の図のとおりです。</p>",
       "figures": [
-        {
-          "id": "f5",
-          "number": "Table 5",
-          "titleHtml": "バリュエーションのシナリオ ― 12か月の期間（J-Core予想）",
-          "sourceHtml": "J-Core scenario analysis. Primary method P/B–ROE (shares trade below book at 0.93x), cross-checked on P/E and on an asset view: BPS ¥4,117.89 plus the pre-tax unrealised real-estate gain of about ¥1,155 per share gives a gross asset value of about ¥5,273 per share, a discount of about 27% at ¥3,835 (J-Core calculations). Range width: −19.2% to +40.8%, a span of 60.0 percentage points. Rating thresholds: Overweight ≥ +15%, Neutral −10% to +15%, Underweight ≤ −10% (12-month horizon); the base case (+17.3%) supports Overweight.",
-          "kind": "table",
-          "columns": [
-            "Scenario",
-            "Target price (¥)",
-            "vs ¥3,835",
-            "Key differing assumptions"
-          ],
-          "rows": [
-            [
-              "強気",
-              "5400",
-              "+40.8%",
-              "ROE reaches the plan's 8% path early; pass-through completes; real-estate recycling surfaces value; P/B re-rates to about 1.25x"
-            ],
-            [
-              "基本",
-              "4500",
-              "+17.3%",
-              "ROE improves toward 7%; OP follows the J-Core path; policy-share sales and buybacks proceed as planned; P/B about 1.05x forward book"
-            ],
-            [
-              "弱気",
-              "3100",
-              "-19.2%",
-              "Cost inflation outruns pass-through, OP stays near ¥11,000mn, plan execution slips, P/B de-rates to about 0.75x"
-            ]
-          ]
-        },
         {
           "id": "c4",
           "number": "Figure 5",
           "titleHtml": "株価 ― 2025年11月25日から2026年11月24日までの日次終値（円）",
-          "sourceHtml": "The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330). The J-Core scenario levels in this report — bear ¥3,100, base ¥4,500, bull ¥5,400 — and the current price of ¥3,835 at 24 November 2026 are compared in Figure 10.",
+          "sourceHtml": "The stored report’s priceHistory field was empty, so the price series is Yahoo Finance daily closes for 9303.T from the J-Core price file (src/data/prices/9303.json; 25 November 2025 to 24 November 2026, 242 observations; range ¥3,365–¥4,330).",
           "kind": "image",
           "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c4.svg",
           "alt": "株価 ― 2025年11月25日から2026年11月24日までの日次終値（円）"
-        },
-        {
-          "id": "c5",
-          "number": "Figure 6",
-          "titleHtml": "バリュエーションのシナリオレンジ ― ベア3,100円からブル5,400円まで、ベース4,500円と現在株価3,835円を示しています（1株当たり、円）",
-          "sourceHtml": "J-Core scenario analysis, as in the valuation scenarios table in this report. Range width: −19.2% to +40.8% versus the current price of ¥3,835, a span of 60.0 percentage points; the base case of ¥4,500 is +17.3%.",
-          "kind": "image",
-          "src": "/report-assets/2026-11-24-the-sumitomo-warehouse-initiation-67/c5.svg",
-          "alt": "バリュエーションのシナリオレンジ ― ベア3,100円からブル5,400円まで、ベース4,500円と現在株価3,835円を示しています（1株当たり、円）"
         }
       ]
     },
@@ -497,14 +451,7 @@
       "figures": []
     }
   ],
-  "showRatingHistory": true,
-  "ratingHistory": [
-    {
-      "date": "2026-11-24T08:25:22.506Z",
-      "rating": "Overweight",
-      "price": 3835,
-      "target": 4500
-    }
-  ],
-  "holdingsLine": "The analyst named above certifies that they do not hold securities of the subject company as of the date of this report."
+  "showRatingHistory": false,
+  "ratingHistory": [],
+  "holdingsLine": "筆者は、本レポートの日付時点で対象会社の有価証券を保有していないことを表明します。 本レポートは売買を勧めるものではなく、J-Coreはレーティングと目標株価を出していません。"
 }

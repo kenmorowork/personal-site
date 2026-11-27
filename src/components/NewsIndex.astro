@@ -1,57 +1,221 @@
 ---
 import { getCollection } from 'astro:content';
 import type { Lang } from '../data/site';
+import { fmtLong, fmtShort, newsHref, newsSector } from './labels';
 
 interface Props {
   lang: Lang;
 }
 const { lang } = Astro.props;
 const isJa = lang === 'ja';
+const base = isJa ? '/ja' : '/en';
+const SUBSTACK_URL = 'https://morokenjp.substack.com/subscribe';
 
 const items = (await getCollection('news', ({ data }) => data.lang === lang)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
 
-const fmt = (d: Date) =>
-  isJa
-    ? `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`
-    : d.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
+// Group by calendar day, newest first.
+const dayKey = (d: Date) => d.toISOString().slice(0, 10);
+const groups: { key: string; date: Date; rows: typeof items }[] = [];
+const RECENT_DAYS = 7;
+for (const it of items) {
+  const k = dayKey(it.data.date);
+  if (groups.length >= RECENT_DAYS && groups[groups.length - 1].key !== k) break;
+  const g = groups[groups.length - 1];
+  if (g && g.key === k) g.rows.push(it);
+  else groups.push({ key: k, date: it.data.date, rows: [it] });
+}
+
+// Categories in the page language, most frequent first.
+const counts = new Map<string, number>();
+for (const it of items) {
+  const c = newsSector(it.data.sector, lang);
+  counts.set(c, (counts.get(c) ?? 0) + 1);
+}
+const cats = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+const chipCats = cats.slice(0, 8).map(([c]) => c);
+const maxCount = cats[0]?.[1] ?? 1;
+
+const first = items[items.length - 1]?.data.date;
+const last = items[0]?.data.date;
 ---
 
-<h1 class="font-display text-3xl font-semibold tracking-tight">
-  {isJa ? '業界ニュース' : 'Industry News'}
-</h1>
-
-<p class="mt-6 max-w-prose leading-relaxed">
-  {
-    isJa
-      ? '市場と業界の短報です。数字と出典を明示し、朝・昼・夜の1日3回、XとThreadsに配信しています。ここでは最新の見出しと要約を蓄積し、全文は配信先で読めます。'
-      : 'Short market and industry reports — numbers and sources shown, published three times a day (morning, noon, night) on X and Threads. Headlines and summaries are archived here; the full text lives on the publishing channels.'
-  }
+<p class="text-[13px] text-neutral-500 dark:text-neutral-400">
+  <a href={`${base}/`} class="hover:underline">{isJa ? 'ホーム' : 'Home'}</a> ／ {isJa ? 'マーケット・ニュース' : 'Market news'}
 </p>
 
-<ul class="mt-10 divide-y divide-neutral-200 dark:divide-neutral-800">
-  {
-    items.map((item) => (
-      <li class="py-5">
-        <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-sm text-neutral-500 dark:text-neutral-400">
-          <time datetime={item.data.date.toISOString()}>{fmt(item.data.date)}</time>
-          <span class="rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-600 dark:bg-neutral-900 dark:text-neutral-400">
-            {item.data.sector}
-          </span>
+<div class="mt-4 flex flex-wrap items-end justify-between gap-6">
+  <div class="max-w-2xl">
+    <h1 class="font-display text-[clamp(28px,3.2vw,38px)] leading-tight">{isJa ? 'マーケット・ニュース' : 'Market news'}</h1>
+    <p class="mt-3 leading-relaxed text-neutral-600 dark:text-neutral-300">
+      {
+        isJa
+          ? '市場と業界の短報です。数字と出典を明示し、朝・昼・夜の1日3回、XとThreadsに配信しています。ここでは見出しと要約を蓄積し、全文は出典の記事で読めます。'
+          : 'Short market and industry reports with numbers and sources, published three times a day on X and Threads. Headlines and summaries are kept here; the full text is in the source article.'
+      }
+    </p>
+  </div>
+  <dl class="flex gap-8">
+    <div class="border-t-2 border-neutral-900 pt-2 dark:border-neutral-300">
+      <dt class="text-xs text-neutral-500 dark:text-neutral-400">{isJa ? '掲載数' : 'Items'}</dt>
+      <dd class="num mt-1 text-xl font-semibold">{items.length}<span class="text-[13px] font-medium text-neutral-500 dark:text-neutral-400">{isJa ? ' 本' : ''}</span></dd>
+    </div>
+    {
+      first && last && (
+        <div class="border-t-2 border-neutral-900 pt-2 dark:border-neutral-300">
+          <dt class="text-xs text-neutral-500 dark:text-neutral-400">{isJa ? '期間' : 'Period'}</dt>
+          <dd class="num mt-1 text-xl font-semibold">{fmtShort(first, lang)}〜{fmtShort(last, lang)}</dd>
         </div>
-        <a
-          href={item.data.externalUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          class="mt-2 block font-display text-lg font-semibold leading-snug underline-offset-4 hover:underline"
-        >
-          {item.data.title}
-        </a>
-        <p class="mt-2 max-w-prose leading-relaxed text-neutral-600 dark:text-neutral-400">
-          {item.data.summary}
-        </p>
-      </li>
-    ))
+      )
+    }
+  </dl>
+</div>
+
+<div class="mt-8 flex flex-wrap items-center justify-between gap-4 border-y border-neutral-200 py-4 dark:border-neutral-800">
+  <div role="group" aria-label={isJa ? 'カテゴリで絞り込む' : 'Filter by category'} class="flex flex-wrap gap-2">
+    <button type="button" data-cat="" aria-pressed="true" class="news-chip">{isJa ? 'すべて' : 'All'}</button>
+    {chipCats.map((c) => <button type="button" data-cat={c} aria-pressed="false" class="news-chip">{c}</button>)}
+  </div>
+  <label class="flex items-center gap-2 text-[13px] text-neutral-500 dark:text-neutral-400">
+    {isJa ? '検索' : 'Search'}
+    <input
+      id="news-q"
+      type="search"
+      placeholder={isJa ? '見出し・社名・コード' : 'Headline, company, code'}
+      class="w-56 border border-neutral-300 bg-white px-3 py-2 text-sm text-neutral-900 placeholder:text-neutral-400 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
+    />
+  </label>
+</div>
+
+<div class="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_300px]">
+  <div>
+    <p id="news-empty" hidden class="border border-neutral-200 p-6 text-sm text-neutral-600 dark:border-neutral-800 dark:text-neutral-300">
+      {isJa ? '条件に合うニュースはありません。カテゴリか検索語を変えてください。' : 'No news matches. Try another category or search term.'}
+    </p>
+    {
+      groups.map((g) => (
+        <section data-news-group class="mb-10">
+          <h2 class="border-b-2 border-neutral-900 pb-2 text-base font-semibold dark:border-neutral-300">{fmtLong(g.date, lang)}</h2>
+          {g.rows.map((n) => {
+            const cat = newsSector(n.data.sector, lang);
+            return (
+              <article
+                data-news
+                data-cat={cat}
+                data-q={`${n.data.title} ${n.data.summary}`.toLowerCase()}
+                class="border-b border-neutral-200 py-5 dark:border-neutral-800"
+              >
+                <p class="text-xs font-semibold text-navy dark:text-sky">{cat}</p>
+                <h3 class="mt-1.5 text-[17px] leading-snug font-semibold">
+                  <a href={newsHref(n.id, lang)} class="hover:underline">
+                    {n.data.title}
+                  </a>
+                </h3>
+                <p class="mt-2 text-[14.5px] leading-[1.8] text-neutral-600 dark:text-neutral-300">{n.data.summary}</p>
+              </article>
+            );
+          })}
+        </section>
+      ))
+    }
+    <p class="text-[13px] text-neutral-600 dark:text-neutral-300">
+      {isJa ? `表示しているのは直近${RECENT_DAYS}日分です。` : `Showing the last ${RECENT_DAYS} days.`}{' '}
+      <a href={`${base}/news/archive/`} class="font-semibold text-navy hover:underline dark:text-sky">{isJa ? '過去のニュースはアーカイブへ →' : 'News archive →'}</a>
+    </p>
+  </div>
+
+  <aside class="flex flex-col gap-6 lg:sticky lg:top-28 lg:self-start">
+    <a
+      href={`${base}/reports/`}
+      class="flex flex-col gap-1.5 border border-l-4 border-neutral-200 border-l-navy p-5 hover:border-neutral-300 dark:border-neutral-800 dark:border-l-sky"
+    >
+      <span class="text-xs text-neutral-500 dark:text-neutral-400">{isJa ? 'アナリストの解説' : 'Analyst commentary'}</span>
+      <span class="font-semibold">{isJa ? '週次マーケットレポート・セクター・アップデート' : 'Weekly market report and sector update'}</span>
+      <span class="mt-1 text-[13px] font-semibold text-navy dark:text-sky">{isJa ? 'アナリストレポートへ →' : 'Analyst reports →'}</span>
+    </a>
+    <div class="bg-neutral-50 p-5 dark:bg-neutral-900">
+      <h2 class="font-semibold">{isJa ? 'メールで受け取る' : 'Get it by email'}</h2>
+      <p class="mt-1.5 text-[13px] leading-relaxed text-neutral-600 dark:text-neutral-300">
+        {isJa ? '新着のニュースとレポートを、Substackでお届けします。無料です。' : 'New news and reports via Substack, free.'}
+      </p>
+      <a href={SUBSTACK_URL} class="mt-3 inline-block bg-navy px-4 py-2.5 text-sm font-semibold text-white hover:bg-neutral-900 dark:bg-sky dark:text-neutral-950">
+        {isJa ? '無料で登録する' : 'Subscribe free'}
+      </a>
+    </div>
+    <div>
+      <h2 class="border-b-2 border-neutral-900 pb-2 text-sm font-semibold dark:border-neutral-300">{isJa ? 'カテゴリ別の本数' : 'Items by category'}</h2>
+      <ul class="mt-2">
+        {
+          cats.slice(0, 10).map(([c, n]) => (
+            <li class="grid grid-cols-[96px_minmax(0,1fr)_32px] items-center gap-2 py-1.5 text-[13px]">
+              <span class="truncate">{c}</span>
+              <span class="block h-2 bg-neutral-100 dark:bg-neutral-800"><span class="block h-2 bg-navy dark:bg-sky" style={`width:${Math.round((n / maxCount) * 100)}%`} /></span>
+              <span class="num text-right text-neutral-500 dark:text-neutral-400">{n}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </aside>
+</div>
+
+<style>
+  .news-chip {
+    border: 1px solid var(--color-neutral-300);
+    padding: 0.4rem 0.75rem;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--color-neutral-700);
+    background: #fff;
+    cursor: pointer;
+    min-height: 36px;
   }
-</ul>
+  .news-chip[aria-pressed='true'] {
+    background: var(--color-navy);
+    border-color: var(--color-navy);
+    color: #fff;
+  }
+  :global(.dark) .news-chip {
+    background: var(--color-neutral-900);
+    border-color: var(--color-neutral-700);
+    color: var(--color-neutral-200);
+  }
+  :global(.dark) .news-chip[aria-pressed='true'] {
+    background: var(--color-sky);
+    border-color: var(--color-sky);
+    color: var(--color-neutral-950);
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    var cat = '';
+    var chips = document.querySelectorAll('.news-chip');
+    var q = document.getElementById('news-q');
+    var empty = document.getElementById('news-empty');
+    function apply() {
+      var term = (q && q.value ? q.value : '').trim().toLowerCase();
+      var shown = 0;
+      document.querySelectorAll('[data-news-group]').forEach(function (g) {
+        var n = 0;
+        g.querySelectorAll('[data-news]').forEach(function (a) {
+          var ok = (!cat || a.getAttribute('data-cat') === cat) && (!term || a.getAttribute('data-q').indexOf(term) >= 0);
+          a.hidden = !ok;
+          if (ok) n++;
+        });
+        g.hidden = n === 0;
+        shown += n;
+      });
+      if (empty) empty.hidden = shown > 0;
+    }
+    chips.forEach(function (b) {
+      b.addEventListener('click', function () {
+        cat = b.getAttribute('data-cat') || '';
+        chips.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+        apply();
+      });
+    });
+    if (q) q.addEventListener('input', apply);
+  })();
+</script>

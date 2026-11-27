@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import fs from 'node:fs';
 import type { Lang } from '../data/site';
 
 interface Props {
@@ -13,19 +14,19 @@ const sectors = isJa
   ? [
       {
         area: 'インダストリアル',
-        count: '産業レポート 43本',
+        group: 'industrials',
         detail:
           '変圧器・電力機器、工作機械、建設機械、AIデータセンター設備、防衛など。受注・出荷の一次統計とバリューチェーンで業界を読む中核領域です。',
       },
       {
         area: '素材',
-        count: '産業レポート 22本',
+        group: 'materials',
         detail:
           '電池材料、炭素繊維、電線・ケーブル、半導体材料など。価格と需給のサイクルを、資源から最終用途までつないで追います。',
       },
       {
         area: 'エネルギー',
-        count: '産業レポート 12本',
+        group: 'energy',
         detail:
           '電力インフラ、送配電、海底ケーブル、洋上風力など。AIデータセンターの電力需要を起点に、系統側の制約を整理します。',
       },
@@ -33,19 +34,19 @@ const sectors = isJa
   : [
       {
         area: 'Industrials',
-        count: '43 sector reports',
+        group: 'industrials',
         detail:
           'Transformers and power equipment, machine tools, construction machinery, AI data-centre equipment and defence — the core library, reading industries through primary order/shipment statistics and value chains.',
       },
       {
         area: 'Materials',
-        count: '22 sector reports',
+        group: 'materials',
         detail:
           'Battery materials, carbon fibre, wire and cable, semiconductor materials — price and supply/demand cycles traced from resources to end use.',
       },
       {
         area: 'Energy',
-        count: '12 sector reports',
+        group: 'energy',
         detail:
           'Power infrastructure, transmission and distribution, submarine cables and offshore wind — the grid-side constraints behind AI data-centre power demand.',
       },
@@ -55,43 +56,54 @@ const entries = (await getCollection('fieldnotes')).sort(
   (a, b) => a.data.no - b.data.no,
 );
 const groupOrder = ['industrials', 'materials', 'energy'] as const;
+const total = entries.length;
+const countOf = (g: string) => entries.filter((e) => e.data.group === g).length;
+// Pages in the FIELDNOTES library (statistics, value chains, reports).
+let libraryPages = 0;
+try {
+  libraryPages = fs.readdirSync('public/fieldnotes-space/assets/views').filter((n) => n.endsWith('.html')).length;
+} catch {}
 const groupLabel = isJa
-  ? { industrials: 'インダストリアルズ', materials: 'マテリアルズ', energy: 'エネルギー' }
+  ? { industrials: '産業', materials: '素材', energy: 'エネルギー' }
   : { industrials: 'Industrials', materials: 'Materials', energy: 'Energy' };
 const slugOf = (id: string) => id.replace(/-ja$/, '');
 ---
 
-<h1 class="font-display text-3xl font-semibold tracking-tight">FIELDNOTES</h1>
+<p class="text-[13px] text-neutral-500 dark:text-neutral-400">
+  <a href={`${base}/`} class="hover:underline">{isJa ? 'ホーム' : 'Home'}</a> ／ {isJa ? '業界レポート' : 'Industry reports'}
+</p>
+<h1 class="font-display mt-4 text-[clamp(28px,3.2vw,38px)] leading-tight">{isJa ? '業界レポート' : 'Industry reports'}</h1>
+<p class="mt-1 text-sm tracking-[0.12em] text-neutral-500 dark:text-neutral-400">FIELDNOTES</p>
 
 <p class="mt-6 max-w-prose leading-relaxed">
   {
     isJa
-      ? 'FIELDNOTESは、業界統計・企業開示・取材メモを蓄積する調査基盤です。セクターごとの統計ページとバリューチェーン分析を土台に、日々のニュース配信とJ-Coreのリサーチレポートが生まれます。本サイトでは、産業レポート77本の全文を収録しています。統計ページなどを含むライブラリ全体は242ページです。'
-      : 'FIELDNOTES is the research library behind everything published here: industry statistics, company disclosures and interview notes, organised by sector with value-chain analysis. This site carries the full text of all 77 sector reports; the wider library, including the statistics pages, runs to 242 pages.'
+      ? `FIELDNOTESは、業界統計・企業開示・取材メモを蓄積する調査基盤です。セクターごとの統計ページとバリューチェーン分析を土台に、日々のニュース配信とJ-Coreのリサーチレポートが生まれます。本サイトでは、業界レポート${total}本の全文を収録しています。統計ページなどを含むライブラリ全体は${libraryPages}ページです。`
+      : `FIELDNOTES is the research library behind everything published here: industry statistics, company disclosures and interview notes, organised by sector with value-chain analysis. This site carries the full text of all ${total} industry reports; the wider library, including the statistics pages, runs to ${libraryPages} pages.`
   }
 </p>
 
 <p class="mt-6">
   <a
     href="/fieldnotes-space/"
-    class="inline-block rounded-lg border border-neutral-800 px-5 py-3 font-medium underline-offset-4 hover:underline dark:border-neutral-200"
+    class="inline-block border border-neutral-800 px-5 py-3 font-medium underline-offset-4 hover:underline dark:border-neutral-200"
   >
     {
       isJa
-        ? 'FIELDNOTES トピックライブラリ（統計・バリューチェーン全242ページ）を開く →'
-        : 'Open the FIELDNOTES topic library — all 242 statistics & value-chain pages →'
+        ? `FIELDNOTES トピックライブラリ（統計・バリューチェーン全${libraryPages}ページ）を開く →`
+        : `Open the FIELDNOTES topic library — all ${libraryPages} statistics & value-chain pages →`
     }
   </a>
 </p>
 
 <section class="mt-10">
-  <h2 class="font-display text-xl font-semibold">{isJa ? 'セクター構成' : 'Sector overview'}</h2>
+  <h2 class="font-display border-b-2 border-neutral-900 pb-2 text-xl dark:border-neutral-300">{isJa ? 'セクター構成' : 'Sector overview'}</h2>
   <div class="mt-5 grid gap-4 sm:grid-cols-3">
     {
       sectors.map((s) => (
-        <div class="rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+        <div class="border border-neutral-200 p-5 dark:border-neutral-800">
           <p class="font-display text-lg font-semibold">{s.area}</p>
-          <p class="mt-1 text-sm font-medium text-neutral-500 dark:text-neutral-400">{s.count}</p>
+          <p class="num mt-1 text-sm font-medium text-neutral-500 dark:text-neutral-400">{isJa ? `業界レポート ${countOf(s.group)}本` : `${countOf(s.group)} industry reports`}</p>
           <p class="mt-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
             {s.detail}
           </p>
@@ -102,13 +114,13 @@ const slugOf = (id: string) => id.replace(/-ja$/, '');
 </section>
 
 <section class="mt-12">
-  <h2 class="font-display text-xl font-semibold">
-    {isJa ? '産業レポート（全77本）' : 'Sector reports (all 77)'}
+  <h2 class="font-display border-b-2 border-neutral-900 pb-2 text-xl dark:border-neutral-300">
+    {isJa ? `業界レポート（全${total}本）` : `Industry reports (all ${total})`}
   </h2>
   <p class="mt-3 max-w-prose leading-relaxed text-neutral-600 dark:text-neutral-400">
     {
       isJa
-        ? 'セクター全体をイニシエーション・レポートの深さで書いた産業レポートです。全77本をIME（インダストリアルズ／マテリアルズ／エネルギー）順に並べています。数値はいずれも出典と時点付きで、取得できなかった項目は未取得と明記しました。データ・カットオフは2026年11月16日です。'
+        ? `セクター全体を個別レポートと同じ深さで書いた業界レポートです。全${total}本を産業・素材・エネルギーの順に並べています。数値はいずれも出典と時点付きで、取得できなかった項目は未取得と明記しました。データ・カットオフは2026年11月16日です。`
         : 'Sector reports written at initiation-report depth, listed in IME order (Industrials / Materials / Energy). Every figure carries its source and date; items that could not be obtained are marked as such. The reports are in Japanese; data cut-off 16 November 2026.'
     }
   </p>
@@ -139,27 +151,27 @@ const slugOf = (id: string) => id.replace(/-ja$/, '');
   }
 </section>
 
-<section class="mt-12 rounded-lg border border-neutral-200 p-6 dark:border-neutral-800">
-  <h2 class="font-display text-xl font-semibold">
+<section class="mt-12 border border-neutral-200 p-6 dark:border-neutral-800">
+  <h2 class="font-display border-b-2 border-neutral-900 pb-2 text-xl dark:border-neutral-300">
     {isJa ? '全文へのアクセス' : 'Access to the full library'}
   </h2>
   <p class="mt-3 max-w-prose leading-relaxed text-neutral-600 dark:text-neutral-400">
     {
       isJa
-        ? '産業レポート77本の全文は、上の索引からそのまま読めます。統計ページやバリューチェーン分析など、その他のページは専用のSpaceで公開しています。取材のご連絡は、Aboutページの連絡先からお願いします。'
-        : 'The full text of all 77 sector reports is readable from the index above. The remaining pages — statistics and value-chain analyses — live in the FIELDNOTES Space. For interview requests, please use the contact routes on the About page.'
+        ? `業界レポート${total}本の全文は、上の索引からそのまま読めます。統計ページやバリューチェーン分析など、その他のページは専用のSpaceで公開しています。取材のご連絡は、Aboutページの連絡先からお願いします。`
+        : `The full text of all ${total} industry reports is readable from the index above. The remaining pages — statistics and value-chain analyses — live in the FIELDNOTES Space. For interview requests, please use the contact routes on the About page.`
     }
   </p>
   <p class="mt-5 flex flex-wrap gap-3">
     <a
       href={`${base}/reports/`}
-      class="rounded-full bg-neutral-900 px-5 py-2 text-sm font-medium text-white hover:bg-neutral-700 dark:bg-neutral-100 dark:text-neutral-900 dark:hover:bg-neutral-300"
+      class="bg-neutral-900 px-5 py-2 text-sm font-medium text-white hover:bg-neutral-700 dark:bg-neutral-100 dark:text-neutral-900 dark:hover:bg-neutral-300"
     >
       {isJa ? 'レポート索引を見る' : 'Browse the report index'}
     </a>
     <a
       href={`${base}/about/`}
-      class="rounded-full border border-neutral-300 px-5 py-2 text-sm font-medium hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
+      class="border border-neutral-300 px-5 py-2 text-sm font-medium hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
     >
       {isJa ? 'About・連絡先' : 'About & contact'}
     </a>

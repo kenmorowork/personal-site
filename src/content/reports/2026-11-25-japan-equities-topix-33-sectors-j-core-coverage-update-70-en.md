@@ -335,26 +335,10 @@ One year, two markets: Policy, record profits and ¥25.7tn of buyback frames too
 
 ## Part 5 — The view (J-Core view)
 
-## 10. Laggards with a credible catch-up catalyst
-
-**Three laggards have a dated catalyst; Fujikura is conditional.** Daifuku: record nine-month orders (+56.5%) and backlog (¥929,400mn), a guidance raise and a ¥40bn buyback, against a −43.6% de-rating on margin — watch Q4 OP margin vs the 15.1% nine-month print. Yaskawa: record orders (AC servo +76%) against a system-migration cut — H2 must deliver an 11.3% OP margin vs 7.7% in H1, tested at the Q3 print in Feb 2027. MHI: the guide is up (¥600bn) and ¥300bn of buyback is live — watch H2 defence orders against the ¥1,800bn segment guide (H1: ¥153.8bn). Fujikura: no catch-up call until the company states its reason for the H2 cut (未取得).
-
-## 11. Cheap for a reason
-
-**Cheap for a reason — each name has a specific blocker.** Nidec: disclosure itself; the date that matters is 16 Dec 2026, the extended interim-report deadline. IHI: capitalise ex-gains OP of ¥177bn, not the ¥270,000mn headline. Kawasaki Heavy: dilution is absorbed; H2 defence orders (−64% in H1) must print. NTN: ~¥4.0bn of integration costs still land in H2, and the ¥50bn mid-term OP target is conceded missed. Mitsui-Soko HD: the exception — earnings will not close the gap, but rental real-estate unrealised gains of ¥102,140mn (~72% of equity) might; watch capital policy, not the P&L.
-
-## 12. Leaders — who still has legs, who is extended
-
-**Leaders with legs: Advantest and Tokyo Electron.** Both de-rated 35–43% from their peaks into the crash while raising guidance (+54.1%; a first guide at +87.1%), both are buying back stock (¥280bn; ¥150bn), and TEL's CY2027 WFE frame of $210bn or more is the checkable demand line. Misumi (+41.8% revision momentum) and Advantech (book-to-bill 1.64) belong in the same group. **Extended:** Harmonic Drive (a ¥10,200mn OP guide on a ¥2,568mn base); Furukawa (an 18.0% optical margin earned in shortage pricing); Ryohin (a record year priced, the unquantified EC suspension not — first test: 13 Jan 2027); FUJI (~3.8 months of backlog visibility). The corrected June record and the −22.0% drawdown deepen, but do not change, these calls.
-
 ## 13. Data notes, corrections and gaps
 
 **Basis and corrections.** Price returns throughout (dividends excluded). TOPIX and TOPIX-33 from JPX Monthly Statistics Reports; the Nikkei from Yahoo Finance ^N225, cross-checked to press closes; coverage names from the in-house price files. **Correction:** the Nikkei's record close was 72,366.34 on 25 Jun 2026, not 70,683.98 on 6 Oct (that day was TOPIX's own peak close, 4,183.56); the peak-to-trough drawdown is −22.0%, not −20.2%. Buybacks are stated as ¥25.7tn of announced frames by 13 Nov 2026 (Nomura tally); the earlier '+37% vs 2025' comparison could not be tied to a published tally and is removed. Yaskawa was one of two OP cuts in the tracker (the other was Kanadevia). **未取得:** TOPIX-33 sector levels at 24 Nov 2026 (JPX November edition, due early Dec 2026); the FY3/26 recurring-profit aggregate; the Q1 FY3/27 operating-profit aggregate; Fujikura's stated reason for its H2 cut; Ryohin's EC-suspension earnings impact; CSI 300 (the Shanghai Composite is used instead).
 
----
-
-Rating (as stated in the report): Not Rated
-
 Analyst: Ken, Equity Analyst — Industrials, Materials & Semiconductors — J-Core Fundamental Research
 
-The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report. Private desk report prepared for internal use; not investment advice and not for distribution.
+The analyst named above certifies that they do not hold securities of the subject companies as of the date of this report.
